@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. poppy
 
-319 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+320 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [I JUST WANNA MAKE SOUNDS](https://open.spotify.com/track/2c8CMO94VVUr2DwHS7MOMM) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI) | [Origins](https://open.spotify.com/album/1k1UM3y0CxN8IQ10fTzYwG) | 2:07 | 2022-03-04 | 2022-03-25 |
 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2022-09-22 |  |
 | [I Really Like You pt2](https://open.spotify.com/track/01RpmdGOUoBzrLsC46BSyv) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 7:03 | 2022-04-19 | 2022-04-29 |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 |  |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-27 | 2022-07-29 |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-25 | 2022-09-16 |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2022-04-19 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,671 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,729 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 49 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 | 50 | [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 |
 
-Snapshot ID: `MTY2MzAwMDc1OCwwMDAwMDAwMDFiYWVhYzA2NGU4YzM0ZDA4MzliZGRlYWQ4MzMyNTgy`
+Snapshot ID: `MTY2Mzk0Nzk4MCwwMDAwMDAwMGFhNDJjZmZjNjdkMWJiYTJhYWRiYTFlMmUxN2JiNTQ4`

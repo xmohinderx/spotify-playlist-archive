@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 ### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
-> Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
+> Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,478 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,501 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 |
-| 2 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 |
-| 3 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
-| 4 | [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 |
-| 5 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 |
-| 6 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 |
-| 7 | [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 |
+| 1 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 |
+| 2 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 |
+| 3 | [every day good day \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7vefqP96ftCQg7qB6Ha0NJ) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 2:47 |
+| 4 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
+| 5 | [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 |
+| 6 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 |
+| 7 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 |
 | 8 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 |
 | 9 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 |
 | 10 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [She lives in Paris](https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [She lives in Paris](https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2) | 3:17 |
 | 50 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
 
-Snapshot ID: `MTY2MzYwNjQzNiwwMDAwMDAwMGE5ZmI0NGJjNTkyMTc1ZmFkY2ZiNzYwMjkxOTNmY2M0`
+Snapshot ID: `MTY2MzkwODE1MCwwMDAwMDAwMDEyMDAxNTJlNDM0YzJmMzA2MDJlNGMzZmU0Yzk3MTAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,397,559 likes - 142 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,397,850 likes - 142 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 11 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 |
 | 12 | [Home](https://open.spotify.com/track/0UuDmmZHUPZb24gIODPiM4) | [Chris Andrew](https://open.spotify.com/artist/5sx4LyraGhj3dBFAN0Vx9u), [Ron Samsom](https://open.spotify.com/artist/4Zn9adi2m5LbnlcBba0nC1), [Olivier Holland](https://open.spotify.com/artist/2MbrIbQ56Etxw2LOu8kkcD), [Roger Manins](https://open.spotify.com/artist/0pKAiNOkOr2Q5FsmFrRF2Y) | [Home](https://open.spotify.com/album/6mBFE2Z2ha5f4fXYnkrzGr) | 6:34 |
 | 13 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 |
-| 14 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [John Cowherd](https://open.spotify.com/artist/0rvUhmYiMhFhbIQ0F59Kg2), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 |
+| 14 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 |
 | 15 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 |
 | 16 | [The Rose Tattoo](https://open.spotify.com/track/3RjbEoLYFuyFj4DaDhR6LA) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [My Reverie by Special Request](https://open.spotify.com/album/2xzK7J9946vwEkARgbEUQk) | 4:54 |
 | 17 | [Future Memories](https://open.spotify.com/track/2uWwde69YzmzTOkIz9et5u) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/3eIXcODghIvpdGpBZHDhHB) | 6:04 |

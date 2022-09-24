@@ -4,7 +4,7 @@
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-53 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
+54 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2021-12-01 | 2022-09-10 |
 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 | 2021-12-01 |  |
 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 | 2021-12-01 |  |
-| [White Lie](https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/5D2svNFAKRNgAOW1Tys68z) | 3:33 | 2021-12-01 |  |
+| [White Lie](https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/5D2svNFAKRNgAOW1Tys68z) | 3:33 | 2021-12-01 | 2022-09-24 |
+| [White Lie](https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv) | 3:33 | 2021-12-01 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

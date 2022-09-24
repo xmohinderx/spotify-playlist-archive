@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+    },
+    {
+      "album": {
         "name": "Brakelights",
         "url": "https://open.spotify.com/album/5eKr93YptXrXBHGHG9VuLd"
       },
@@ -619,7 +637,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 165250,
       "name": "COCONUT PERFUME",
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 271386,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
@@ -1408,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -1529,6 +1565,24 @@
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "album": {
@@ -1797,6 +1851,24 @@
       "duration_ms": 231680,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
+    },
+    {
+      "album": {
+        "name": "Junior Varsity",
+        "url": "https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104703,
+      "name": "JV Movie Score",
+      "url": "https://open.spotify.com/track/64QM0cb9rdn78CsAxrswjp"
     },
     {
       "album": {
@@ -2755,7 +2827,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
@@ -3381,7 +3453,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160000,
       "name": "Sun Models (feat. Madelyn Grant)",
       "url": "https://open.spotify.com/track/7jZHUhAmW5oq1cq6s8IxmK"

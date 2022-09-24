@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "Dulce",
+        "url": "https://open.spotify.com/album/4rSqRY2mGS0kUETwHMh6Oj"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260269,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/00qJ7UYGzz0STfuBaJzaP5"
+    },
+    {
+      "album": {
         "name": "D\u00eda Mil",
         "url": "https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1"
       },
@@ -1282,6 +1304,36 @@
     },
     {
       "album": {
+        "name": "Hongo",
+        "url": "https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Quique Rangel",
+          "url": "https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH"
+        },
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201799,
+      "name": "Lobo Solitario",
+      "url": "https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2UozOL2sqJIxb5kmM1P9dF"
       },
@@ -2075,7 +2127,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 230833,
       "name": "Teoria Espacial",
       "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
@@ -2419,7 +2471,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

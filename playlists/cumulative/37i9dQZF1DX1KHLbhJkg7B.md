@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-258 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+259 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Desperado](https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Desperado](https://open.spotify.com/album/1lC4GfcSMniIqTx9BckSFb) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-25 | 2022-04-21 |
 | [Die a Happy Man](https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Die a Happy Man](https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4) | 3:34 | 2022-01-07 |  |
-| [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-12-10 |  |
+| [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-12-10 | 2022-09-24 |
 | [Don't Start Now](https://open.spotify.com/track/1ECEifqCUHDgaNKgtu1a4L) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Don't Start Now](https://open.spotify.com/album/5vhFIgwblQZlHDvTOAS3OX) | 2:55 | 2022-02-04 | 2022-04-19 |
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1mVj1KuhN6lXr1RDBfYG99) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [An Old Memory](https://open.spotify.com/album/3pIknS5vS0oVvRcPY7lojR) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
@@ -264,6 +264,7 @@
 | [You Are My Sunshine](https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:57 | 2022-05-20 |  |
 | [You Don't Even Know Who I Am](https://open.spotify.com/track/5eDb0GoBFMwSiXvgnoKNfe) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q), [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Frontier Rock](https://open.spotify.com/album/2QZ0mHcbHZolwkaHYIA9fI) | 3:49 | 2022-01-21 | 2022-04-13 |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2Zut1sAjKHrw1CfgKR22dN) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Between Raising Hell and Amazing Grace](https://open.spotify.com/album/3BMoczHwMLU0UA7MRmECfE) | 2:43 | 2022-03-25 | 2022-04-18 |
+| [You're Still the One](https://open.spotify.com/track/0x5LOBSGVRXtZWeGeaMQFK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Pickaxe](https://open.spotify.com/album/21veZBfGnyYnvn5LXWFkMS) | 3:29 | 2022-09-23 |  |
 | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/track/0cBjARqDzROgtgo99Ppi5q) | [Matt Austin](https://open.spotify.com/artist/4x6n7QYlPdUoaf7gwaqNq5) | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/album/77rlszvmPmrGtt1DCWJYd6) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 |  |
 

@@ -5196,6 +5196,28 @@
     },
     {
       "album": {
+        "name": "A Slushii Summer",
+        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Love Jesse",
+          "url": "https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160201,
+      "name": "Summer Lasts Forever (feat. Love Jesse)",
+      "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
+    },
+    {
+      "album": {
         "name": "10 Years of Group Therapy",
         "url": "https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw"
       },

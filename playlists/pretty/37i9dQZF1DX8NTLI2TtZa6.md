@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 ### [Intense Studying](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6)
 
-> Focus\-enhancing piano for your study session.
+> Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,396,862 likes - 201 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,397,011 likes - 201 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 200 | [Rannoch Moor](https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Rannoch Moor](https://open.spotify.com/album/1kXMEkViaETUcA6KQNXuv4) | 1:56 |
 | 201 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 |
 
-Snapshot ID: `MTY2MzY3NDI4MCwwMDAwMDAwMDU0YTg1MzE0Mzg3ZjZjYzhmMDU3ZGUxN2Y5ZDEwMGU0`
+Snapshot ID: `MTY2Mzk0Mzg0NiwwMDAwMDAwMGFlOTA0ZjdjZGFmZTNjYzU3NDliMmUwN2Q5MWI2ZTIw`

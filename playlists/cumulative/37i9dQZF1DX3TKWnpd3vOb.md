@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-207 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+208 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [El Tren](https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [El Tren](https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV) | 3:23 | 2022-04-08 | 2022-07-27 |
 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 | 2022-04-08 |  |
 | [El Último Hombre](https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB) | [Jürgensen](https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG) | [El Último Hombre](https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG) | 2:59 | 2022-04-08 | 2022-07-29 |
+| [Elijo Soledad](https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Elijo Soledad](https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk) | 4:27 | 2022-09-23 |  |
 | [Entre Mis Brazos](https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 5:02 | 2022-04-08 |  |
 | [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 | 2022-04-08 | 2022-07-14 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 | 2022-04-08 |  |
@@ -159,7 +160,7 @@
 | [Reyes de la Fiesta](https://open.spotify.com/track/0ewtyCU8eGNvE1OtjfOMbg) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Reyes de la Fiesta](https://open.spotify.com/album/3vhouOwCgJHxA4NRWD1PHd) | 2:55 | 2022-04-08 |  |
 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 | 2022-04-08 |  |
 | [Rock N' Blues](https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe) | [Los Crushers](https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q) | [Rock N' Blues](https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq) | 3:04 | 2022-04-08 |  |
-| [Rockola](https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Rockola](https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux) | 3:31 | 2022-04-08 |  |
+| [Rockola](https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Rockola](https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux) | 3:31 | 2022-04-08 | 2022-09-24 |
 | [Río Río](https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n), [María José Levine](https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG) | [Río Río](https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX) | 3:28 | 2022-04-08 |  |
 | [Sabes](https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Sabes](https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83) | 3:37 | 2022-04-08 |  |
 | [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 | 2022-07-08 | 2022-09-06 |

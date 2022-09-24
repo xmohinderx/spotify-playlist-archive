@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's turn ON the movement! Cover: BLACKPINK",
+  "description": "Let's turn ON the movement! Cover: NMIXX",
   "name": "K-Pop ON! (\uc628)",
   "published_playlist_ids": [
     "05j7NY1SwyJ5jKPj2s00I0"
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "album": {
         "name": "DICE - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n"
       },
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -2536,6 +2554,24 @@
     },
     {
       "album": {
+        "name": "MALUS",
+        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Same Scent",
+      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
+    },
+    {
+      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -2715,7 +2751,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
@@ -2827,6 +2863,24 @@
       "duration_ms": 186333,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Sunflower (P.E.L)",
+      "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
     },
     {
       "album": {

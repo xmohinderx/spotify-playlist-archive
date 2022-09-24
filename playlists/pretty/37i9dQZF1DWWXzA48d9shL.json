@@ -1,13 +1,37 @@
 {
   "description": "New CORPSE ft. Scarlxrd & Kordhell",
-  "num_followers": 297723,
+  "num_followers": 299066,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTEyMiwwMDAwMDAwMGFjZjA4ZGFjMTdiNDYyNTFkYzY5YWJkMWI3ODAzY2Vh",
+  "snapshot_id": "MTY2Mzk0OTgzMiwwMDAwMDAwMGIyMzAxZTc5ZDFiYjNmYmUwNThiYTRiY2MwNDAyYjY2",
   "tracks": [
+    {
+      "added_at": "2022-09-23 06:48:00",
+      "album": {
+        "name": "GONNA COST YA",
+        "url": "https://open.spotify.com/album/7MrGHLqVXWzFmSIOao7oeA"
+      },
+      "artists": [
+        {
+          "name": "Sadzilla",
+          "url": "https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc"
+        },
+        {
+          "name": "Jmattson",
+          "url": "https://open.spotify.com/artist/4Dhkfa9wzayu7tMMgaDcHG"
+        },
+        {
+          "name": "Mvko",
+          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
+        }
+      ],
+      "duration_ms": 170418,
+      "name": "GONNA COST YA",
+      "url": "https://open.spotify.com/track/48fKD2EdSs6uZtgrtUfbwK"
+    },
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
@@ -33,6 +57,22 @@
       "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
     },
     {
+      "added_at": "2022-09-23 16:17:12",
+      "album": {
+        "name": "8 O 8",
+        "url": "https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95"
+      },
+      "artists": [
+        {
+          "name": "J\u20acAN-MARC",
+          "url": "https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "8 O 8",
+      "url": "https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU"
+    },
+    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "Wrath",
@@ -47,6 +87,26 @@
       "duration_ms": 113553,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
+    },
+    {
+      "added_at": "2022-09-23 06:48:00",
+      "album": {
+        "name": "Priton",
+        "url": "https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        },
+        {
+          "name": "Dahako",
+          "url": "https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp"
+        }
+      ],
+      "duration_ms": 118956,
+      "name": "Priton",
+      "url": "https://open.spotify.com/track/5q2lsqzPGPyQn6fMBUupLP"
     },
     {
       "added_at": "2022-09-02 06:10:00",

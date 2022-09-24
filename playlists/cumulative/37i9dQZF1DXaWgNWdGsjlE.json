@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Exister",
+        "url": "https://open.spotify.com/album/1pQnMQ2XSnSYmBKYKxGc57"
+      },
+      "artists": [
+        {
+          "name": "The Soft Moon",
+          "url": "https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Face is Gone",
+      "url": "https://open.spotify.com/track/3nyRCnIVyv3LyGCESLMnrp"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE"
       },
@@ -841,7 +859,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 257217,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/4771YziYc1QurJ8HfR9VU9"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 299680,
       "name": "Head Like A Hole",
       "url": "https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe"
@@ -1132,6 +1150,28 @@
     },
     {
       "album": {
+        "name": "I Kill Everything",
+        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "I Kill Everything",
+      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
+    },
+    {
+      "album": {
         "name": "I'm Afraid of Americans",
         "url": "https://open.spotify.com/album/0Kr3WQ66jwi4IjKIvddQUL"
       },
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196000,
       "name": "I'm Afraid of Americans",
       "url": "https://open.spotify.com/track/7EYGyg1gSIOTlZ6QVxt36x"
@@ -1813,7 +1853,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 200013,
       "name": "Orgy in the Morgue",
       "url": "https://open.spotify.com/track/0EMKvC3xGPr6LfTgcVYMvV"
@@ -2449,7 +2489,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 204375,
       "name": "Venomous (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW"
@@ -2605,7 +2645,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"

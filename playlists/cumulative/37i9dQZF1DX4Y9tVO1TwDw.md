@@ -4,7 +4,7 @@
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Omar Apollo
 
-71 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
+72 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [LAS HISTORIAS SE ACABAN](https://open.spotify.com/track/2nC7BmTP4okoyeJI6JRMVb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:13 | 2022-09-14 |  |
 | [LUV](https://open.spotify.com/track/6YTVspd6HFgR7B2veOvMhT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:04 | 2022-09-14 |  |
 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 | 2022-09-14 |  |
+| [Marry You](https://open.spotify.com/track/6XMD3tkYTDzdU6FJxlbsVa) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Side A](https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY) | 3:19 | 2022-09-23 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-09-14 |  |
 | [Mejor Que Antes](https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Mejor Que Antes](https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU) | 4:04 | 2022-09-14 |  |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-09-14 |  |

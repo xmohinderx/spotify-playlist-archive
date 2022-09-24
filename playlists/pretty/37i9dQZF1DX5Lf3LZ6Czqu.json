@@ -1,12 +1,12 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: Eric Johnson",
-  "num_followers": 99830,
+  "description": "Instrumental guitar shreddery. Cover: TORA",
+  "num_followers": 99917,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGUwZjA3OWU3YjA2YWM2OGM0MjU3YjNlNWQyOTU0MDVm",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGI0NDU5N2VjYjZhMWNhMWNiZGE0NTE4NjM3ZDFhNjA1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -43,6 +43,22 @@
       "duration_ms": 188000,
       "name": "Action Boyz",
       "url": "https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "I Don't Funk with You",
+      "url": "https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -111,6 +127,22 @@
       "duration_ms": 205925,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 80006,
+      "name": "When She Leaves",
+      "url": "https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq"
     },
     {
       "added_at": "2022-05-13 04:02:00",

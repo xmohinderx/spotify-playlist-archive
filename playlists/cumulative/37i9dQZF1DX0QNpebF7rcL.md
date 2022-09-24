@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Buddy Guy
 
-225 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+227 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-05-28 | 2022-05-20 |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2020-12-14 | 2022-02-26 |
 | [Holding on with One Hand](https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:56 | 2021-09-03 | 2022-04-23 |
+| [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 |  |
 | [Homemade Disaster](https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp) | 3:14 | 2020-12-14 | 2022-02-26 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2022-02-26 |
 | [How Long](https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How Long](https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I) | 3:31 | 2021-03-26 | 2022-04-23 |
@@ -123,6 +124,7 @@
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 |  |
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |
 | [Miss Information](https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Miss Information](https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp) | 3:47 | 2021-09-10 |  |
+| [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 | 2022-09-23 |  |
 | [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 | 2022-05-20 |  |
 | [Move Into The Light](https://open.spotify.com/track/2ndX8xxdVrgFn698rfqao5) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Move Into The Light](https://open.spotify.com/album/3C35eldU8vnhAa8UTUFX1Q) | 3:03 | 2021-07-09 | 2022-06-25 |
 | [Need Somebody](https://open.spotify.com/track/3PidRjCoEGt8sDKicC0GhX) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Need Somebody](https://open.spotify.com/album/6C4AxHzymaKYTXER51I7xG) | 2:59 | 2022-02-18 | 2022-04-23 |

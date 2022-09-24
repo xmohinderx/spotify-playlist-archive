@@ -312,6 +312,28 @@
     },
     {
       "album": {
+        "name": "BACH TO BACH",
+        "url": "https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174513,
+      "name": "BACH TO BACH (with Dave East)",
+      "url": "https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn"
+    },
+    {
+      "album": {
         "name": "Hip Hop 50: Vol. 1",
         "url": "https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm"
       },
@@ -387,7 +409,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 232150,
       "name": "BENNY'S GOT A GUN",
       "url": "https://open.spotify.com/track/37HgVj2kLDeGWpWwDDE0PB"
@@ -409,7 +431,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 229333,
       "name": "Black Illuminati (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
@@ -829,6 +851,24 @@
       "duration_ms": 227555,
       "name": "Dance Now (with Kenny Mason)",
       "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
+    },
+    {
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "album": {
@@ -1429,7 +1469,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 139008,
       "name": "GREEDY",
       "url": "https://open.spotify.com/track/2SVbxJ4sxhicBkYbKdqARD"
@@ -1725,7 +1765,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 208946,
       "name": "in your eyes",
       "url": "https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg"
@@ -1965,7 +2005,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 192891,
       "name": "Know",
       "url": "https://open.spotify.com/track/0DC4dhfW0BhEy7HKMFeiJf"
@@ -2358,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+    },
+    {
+      "album": {
         "name": "Niggas Know",
         "url": "https://open.spotify.com/album/1Z9njHhzjOrkG5dfRIp9ru"
       },
@@ -2435,6 +2493,28 @@
       "duration_ms": 164411,
       "name": "Nikes on My Feet",
       "url": "https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco"
+    },
+    {
+      "album": {
+        "name": "NO LOVE LOST",
+        "url": "https://open.spotify.com/album/0boWKLcAd00Aaozdw08JLw"
+      },
+      "artists": [
+        {
+          "name": "RUNXGUN",
+          "url": "https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI"
+        },
+        {
+          "name": "Kid Kold",
+          "url": "https://open.spotify.com/artist/6igqpK05GtVQi9w4MSTWnt"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "NO LOVE LOST",
+      "url": "https://open.spotify.com/track/7vB7zhGbL8gpIIuY97dyRY"
     },
     {
       "album": {
@@ -2867,7 +2947,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 142214,
       "name": "RICH HUSTLE (with Jim Jones)",
       "url": "https://open.spotify.com/track/2hFiYxiRV9pxM4BVATrKeX"
@@ -3130,6 +3210,28 @@
     },
     {
       "album": {
+        "name": "Sign Language",
+        "url": "https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140214,
+      "name": "Sign Language",
+      "url": "https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT"
+    },
+    {
+      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -3189,7 +3291,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 247455,
       "name": "SKC.",
       "url": "https://open.spotify.com/track/38yVzUZZPc4zq99YI2dspn"
@@ -3349,6 +3451,24 @@
       "duration_ms": 208608,
       "name": "Sriracha",
       "url": "https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9"
+    },
+    {
+      "album": {
+        "name": "SSII.",
+        "url": "https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276062,
+      "name": "SSII.",
+      "url": "https://open.spotify.com/track/5Y4pk9pNGNrOWsgEp5AUV5"
     },
     {
       "album": {
@@ -4113,6 +4233,32 @@
       "duration_ms": 216293,
       "name": "Wish Upon a Star (feat. Curren$y)",
       "url": "https://open.spotify.com/track/1uc1uCGQb0MLtophGL51fB"
+    },
+    {
+      "album": {
+        "name": "Work For It",
+        "url": "https://open.spotify.com/album/5IlObpfGUZ0qfwvFYCWXVq"
+      },
+      "artists": [
+        {
+          "name": "Madchild",
+          "url": "https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr"
+        },
+        {
+          "name": "Obnoxious",
+          "url": "https://open.spotify.com/artist/4VWygA8sSBNHhxKzfq8Niq"
+        },
+        {
+          "name": "Sick Jacken",
+          "url": "https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266530,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/6TIqjYhZra8c9mi7ByC4CP"
     },
     {
       "album": {

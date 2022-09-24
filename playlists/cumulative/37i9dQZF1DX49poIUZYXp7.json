@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 191179,
       "name": "Fillin' My Cup (feat. Little Big Town)",
       "url": "https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
@@ -3610,6 +3610,24 @@
     },
     {
       "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139041,
+      "name": "self care.",
+      "url": "https://open.spotify.com/track/6LquGHxKryERHadmNCaQrE"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/66gju6259kmYi4puVpwWpI"
       },
@@ -4265,7 +4283,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 181760,
       "name": "Tell Your Mom",
       "url": "https://open.spotify.com/track/4z6ejAW2WioIBVVAFCl0eK"
@@ -4737,6 +4755,24 @@
       "duration_ms": 217155,
       "name": "Villain in Me",
       "url": "https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat"
+    },
+    {
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "album": {
@@ -5231,6 +5267,32 @@
       "duration_ms": 215490,
       "name": "You Can't Have Both",
       "url": "https://open.spotify.com/track/0mdb0uMrSiU3jG8vRPefyB"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "album": {

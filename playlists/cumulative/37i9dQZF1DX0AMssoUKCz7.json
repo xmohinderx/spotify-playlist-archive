@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177436,
       "name": "Anywhere's Home",
       "url": "https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Pu7psyoFgkFFYdx6upeMf"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212819,
       "name": "Closer Every Day",
       "url": "https://open.spotify.com/track/7hIJzomtT5CgjwPHSFxHtC"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 198545,
       "name": "Coming Over - filous Remix",
       "url": "https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 260160,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/7qBNJBQJJjQjYFZlP3IPhK"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 390649,
       "name": "Electric Feel (Kygo Remix)",
       "url": "https://open.spotify.com/track/7d2By0xmaWYaJ7jxSfrZfn"
@@ -2787,7 +2787,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 184133,
       "name": "Fireproof - Embody Remix",
       "url": "https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO"
@@ -2915,7 +2915,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116871,
       "name": "Follow the Sun",
       "url": "https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 145384,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5aYRFQqCBxTQBkYjtZgrNw"
@@ -3437,7 +3437,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -3619,7 +3619,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 232195,
       "name": "Heatwave (feat. Akon) - HUGEL Remix",
       "url": "https://open.spotify.com/track/1Rev0uexcpMr1ERkucbXnT"
@@ -3847,6 +3847,28 @@
       "duration_ms": 157304,
       "name": "Hold On To The Night",
       "url": "https://open.spotify.com/track/2Ou5bIxrNTwNFrwfNaOr3R"
+    },
+    {
+      "album": {
+        "name": "Hold This Memory",
+        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160071,
+      "name": "Hold This Memory",
+      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
     },
     {
       "album": {
@@ -4209,7 +4231,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "I Follow",
       "url": "https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P"
@@ -4253,7 +4275,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 285596,
       "name": "I Got U",
       "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
@@ -4511,7 +4533,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 289987,
       "name": "ID - Ultra Music Festival Anthem",
       "url": "https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c"
@@ -4573,7 +4595,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 140163,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S"
@@ -4795,6 +4817,32 @@
       "duration_ms": 184231,
       "name": "Jennie (feat. R. City, Bori)",
       "url": "https://open.spotify.com/track/7uM7YZwNZqdDMG0NfGhmux"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/4AmWFvDmAdJpZ5ssTsMXcN"
+      },
+      "artists": [
+        {
+          "name": "Curl",
+          "url": "https://open.spotify.com/artist/0Piu1e2BjLNbxYoRNlVu9i"
+        },
+        {
+          "name": "Jorm",
+          "url": "https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq"
+        },
+        {
+          "name": "Ludvigsson",
+          "url": "https://open.spotify.com/artist/3oa1ydh8eLVXesBUwIfBWQ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7Avzm0jNcSsoJGKnqkTY4h"
     },
     {
       "album": {
@@ -5399,7 +5447,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 198656,
       "name": "Lost in Paradise",
       "url": "https://open.spotify.com/track/5hmazYiClGr40DkRXMku9s"
@@ -5461,7 +5509,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Love Me (Don't Worry)",
       "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
@@ -6081,7 +6129,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 185295,
       "name": "Music In You",
       "url": "https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk"
@@ -6415,7 +6463,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 188400,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/2dxiCU61pRLZU81P6YCaDd"
@@ -7157,7 +7205,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
@@ -7201,7 +7249,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 236279,
       "name": "Pacing",
       "url": "https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9"
@@ -7376,6 +7424,24 @@
     },
     {
       "album": {
+        "name": "Pull Me",
+        "url": "https://open.spotify.com/album/2r7UMwqqkXaw7n9DWNOpSq"
+      },
+      "artists": [
+        {
+          "name": "Eneko Artola",
+          "url": "https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Pull Me",
+      "url": "https://open.spotify.com/track/46QfufNUnY25faVWLkohut"
+    },
+    {
+      "album": {
         "name": "Pumped Up (Ryan Riback Remix)",
         "url": "https://open.spotify.com/album/7CbJ6KBdQYtIBMBPzcKIbe"
       },
@@ -7453,6 +7519,24 @@
       "duration_ms": 188852,
       "name": "Ready To Love",
       "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
+    },
+    {
+      "album": {
+        "name": "Real / Out Of Sight",
+        "url": "https://open.spotify.com/album/3AeQRcfqwwNu7XwBbKNu2d"
+      },
+      "artists": [
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262242,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/0z2m2MUEp2E15NkLU8lyFU"
     },
     {
       "album": {
@@ -7791,7 +7875,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 251547,
       "name": "Rivers - Sam Feldt & De Hofnar Remix",
       "url": "https://open.spotify.com/track/4ctpogwllZ06lgqpFORcZR"
@@ -8095,7 +8179,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212459,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4jNM6l3Amnmyy1kNCLcSWL"
@@ -8149,7 +8233,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 185039,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/23OzWEhGGgu7RSqzKhsGhE"
@@ -8259,7 +8343,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 368316,
       "name": "Sexual Healing - Kygo Remix",
       "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
@@ -8343,7 +8427,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 180336,
       "name": "Show Me Love - EDX Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
@@ -8675,7 +8759,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 188773,
       "name": "Start A Riot - Thundatraxx Remix",
       "url": "https://open.spotify.com/track/0b29RCV8LpmnNht0r4LgV1"
@@ -8973,7 +9057,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 132571,
       "name": "Sun Screen",
       "url": "https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q"
@@ -9027,7 +9111,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 368000,
       "name": "Sunday - KlangTherapeuten \"Looking For Summer\" Remix",
       "url": "https://open.spotify.com/track/3YcAw0Uc94mb7n8DHMFWRa"
@@ -9317,7 +9401,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 185106,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp"
@@ -9415,7 +9499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 336774,
       "name": "The Sweetest Sin",
       "url": "https://open.spotify.com/track/57wbOuofBE6Cb3mMPuQ24i"

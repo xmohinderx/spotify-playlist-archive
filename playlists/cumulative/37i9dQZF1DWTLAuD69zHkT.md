@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-69 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+70 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cherry Pickin' Blues](https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 3:29 | 2022-07-13 |  |
 | [Come On In This House](https://open.spotify.com/track/4FOJYIDHcuvu7JWQkDIQmd) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:53 | 2022-07-13 |  |
 | [Crescent City Blues](https://open.spotify.com/track/2MYVRxroTD3cChZH6KlRwh) | [The New Hot Frogs](https://open.spotify.com/artist/3Udu6p6dy4INkZY5yKZ6qM), [Pat Yankee](https://open.spotify.com/artist/0X0t6cRRXOrgyqc3FEWcsz) | [Together at Last!](https://open.spotify.com/album/5JMEguLEL2N1vYLMcuZDzO) | 3:17 | 2022-09-12 |  |
+| [Daydreamin'](https://open.spotify.com/track/3lUqcCAUORjvF3We6cWZtH) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 1:49 | 2022-09-23 |  |
 | [Dirty Pool](https://open.spotify.com/track/66mtQ5mRlw7ys2NJCkdJhz) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:00 | 2022-07-13 |  |
 | [Don't You Leave Me Here](https://open.spotify.com/track/5IJffuRk0JHYELKPiMUg6j) | [Larry Johnson](https://open.spotify.com/artist/4QSzvmywSXYxbs7jn4xjFt) | [Blues for Harlem](https://open.spotify.com/album/63voCNAcgApZx4SQO24FLo) | 3:37 | 2022-07-13 |  |
 | [Easy Listening Blues](https://open.spotify.com/track/71OWPiscExYZZ04fFsZus3) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [With Respect To Nat](https://open.spotify.com/album/1MS5ICC5f8SkA5YHt9cuWH) | 3:23 | 2022-07-13 |  |

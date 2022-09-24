@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Three Days Grace on top of the biggest Metal playlist!
+> STARSET on top of the biggest Metal playlist!
 
-282 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+284 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-09-09 |  |
 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 | 2022-07-22 | 2022-08-27 |
 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 | 2021-12-20 | 2022-04-08 |
+| [Be Someone](https://open.spotify.com/track/4iLBQIgE9PuT41Rf8M9bPw) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Future Lovers](https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl) | 3:20 | 2022-09-23 |  |
 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2021-12-20 | 2022-01-07 |
 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-07-29 |  |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-30 |
@@ -135,9 +136,10 @@
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-20 | 2022-05-06 |
 | [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-08 | 2022-05-27 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-20 | 2022-01-21 |
+| [Make Believe](https://open.spotify.com/track/3aF7RDw2A7hnRn2lWOrIky) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:49 | 2022-09-23 |  |
 | [Make Believe](https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6) | 3:49 | 2022-02-24 | 2022-04-01 |
 | [March of the Insane](https://open.spotify.com/track/5Jn0Kw1DtNLFWB8z1vrIwP) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [March of the Insane](https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT) | 3:18 | 2022-02-24 | 2022-03-04 |
-| [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-08-05 |  |
+| [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-08-05 | 2022-09-24 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-05-13 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 | 2022-07-15 |  |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-07-30 |
@@ -259,7 +261,7 @@
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-12-20 | 2022-01-14 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |
-| [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 | 2022-08-05 |  |
+| [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 | 2022-08-05 | 2022-09-24 |
 | [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-06-06 |  |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-09-02 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-12-20 | 2022-01-14 |

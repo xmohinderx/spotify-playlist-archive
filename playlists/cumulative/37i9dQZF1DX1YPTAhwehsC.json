@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 110746,
       "name": "2 the Max",
       "url": "https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz"
@@ -343,6 +343,28 @@
       "duration_ms": 123636,
       "name": "AVENTADOR",
       "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
+    },
+    {
+      "album": {
+        "name": "BACH TO BACH",
+        "url": "https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174513,
+      "name": "BACH TO BACH (with Dave East)",
+      "url": "https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn"
     },
     {
       "album": {
@@ -969,6 +991,36 @@
       "duration_ms": 136760,
       "name": "Bussin",
       "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "album": {
+        "name": "SAY DAT",
+        "url": "https://open.spotify.com/album/0nODxykYAsHgR0WjwwF2cF"
+      },
+      "artists": [
+        {
+          "name": "Ron Suno",
+          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196224,
+      "name": "BUST DOWN (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/7e2trNONVOboRYbTe5dQLQ"
     },
     {
       "album": {
@@ -2851,7 +2903,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 217872,
       "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
@@ -3199,6 +3251,24 @@
       "duration_ms": 105264,
       "name": "Jumping",
       "url": "https://open.spotify.com/track/1eCgZFpNsBY4h1gIsAmTpV"
+    },
+    {
+      "album": {
+        "name": "Just Being Honest",
+        "url": "https://open.spotify.com/album/7KUOoE3u5b2fQkXHc1463h"
+      },
+      "artists": [
+        {
+          "name": "Ciggy Blacc",
+          "url": "https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Just Being Honest",
+      "url": "https://open.spotify.com/track/32X1b9f1SDQ5YprMBRTyni"
     },
     {
       "album": {
@@ -3634,6 +3704,28 @@
     },
     {
       "album": {
+        "name": "Max Out (feat. Shawny Binladen)",
+        "url": "https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131977,
+      "name": "Max Out (feat. Shawny Binladen)",
+      "url": "https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd"
+    },
+    {
+      "album": {
         "name": "Me & My Weapon",
         "url": "https://open.spotify.com/album/3VDQqiahFQSOgA0eq6oxjr"
       },
@@ -3733,6 +3825,24 @@
       "duration_ms": 158987,
       "name": "Menace (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/0ph8xDY7O1xkbUP4YSy1C1"
+    },
+    {
+      "album": {
+        "name": "Life In Plastic 3",
+        "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158901,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4VnOiQpgmc3uPLc9iYWhsT"
     },
     {
       "album": {
@@ -4528,6 +4638,28 @@
     },
     {
       "album": {
+        "name": "Paula Dean (feat. Westside Gunn)",
+        "url": "https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123177,
+      "name": "Paula Dean (feat. Westside Gunn)",
+      "url": "https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F"
+    },
+    {
+      "album": {
         "name": "learn 2 swim",
         "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
       },
@@ -4583,6 +4715,24 @@
       "duration_ms": 158268,
       "name": "Playa (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
+    },
+    {
+      "album": {
+        "name": "Players Card",
+        "url": "https://open.spotify.com/album/68mLcJKmbTNHuIEfZv6XHj"
+      },
+      "artists": [
+        {
+          "name": "Corey Lee",
+          "url": "https://open.spotify.com/artist/3dxk8qxVs3og7n9WEi7KAQ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143699,
+      "name": "Players Card",
+      "url": "https://open.spotify.com/track/2wnRPs7i0wWa2zqPv6FNIV"
     },
     {
       "album": {
@@ -4846,6 +4996,24 @@
     },
     {
       "album": {
+        "name": "Rapper Who?",
+        "url": "https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "Rapper Who?",
+      "url": "https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs"
+    },
+    {
+      "album": {
         "name": "Real Hips",
         "url": "https://open.spotify.com/album/6zCOpxRDqFd5SkVytQOrBQ"
       },
@@ -4893,7 +5061,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 129229,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2nW70b6D48cbLFNWq2Tulq"
@@ -4919,6 +5087,28 @@
       "duration_ms": 135111,
       "name": "Remember (with Nigo)",
       "url": "https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK"
+    },
+    {
+      "album": {
+        "name": "Repeat (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj"
+      },
+      "artists": [
+        {
+          "name": "FNF Chop",
+          "url": "https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157687,
+      "name": "Repeat (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/0l3ED5kPEnls7T2nrTbI7H"
     },
     {
       "album": {
@@ -5222,6 +5412,24 @@
     },
     {
       "album": {
+        "name": "Sanctioned",
+        "url": "https://open.spotify.com/album/4gq9eIEzk67n3IHgMMu5gK"
+      },
+      "artists": [
+        {
+          "name": "Kenzo B",
+          "url": "https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Sanctioned",
+      "url": "https://open.spotify.com/track/1kxT1ORd40GZyw8KvITwAU"
+    },
+    {
+      "album": {
         "name": "LIVE.LOVE.A$AP",
         "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
       },
@@ -5255,7 +5463,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 150780,
       "name": "SAY LESS (with French Montana)",
       "url": "https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS"
@@ -5601,7 +5809,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 164608,
       "name": "Sniper Gang Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo"
@@ -6319,7 +6527,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 147218,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x"
@@ -6591,6 +6799,32 @@
       "duration_ms": 151272,
       "name": "What They Gon Say",
       "url": "https://open.spotify.com/track/5XsXZ1c7GKFNfzSsoeYFY7"
+    },
+    {
+      "album": {
+        "name": "U Wasn't There",
+        "url": "https://open.spotify.com/album/0wFHZCTh0GBBxa1RzvfL6b"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Damon Dash",
+          "url": "https://open.spotify.com/artist/4ZkdpElKTmTEs9F5BuKTOe"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "What You Do",
+      "url": "https://open.spotify.com/track/0mn3Xrxr3GuRf3Pq1AlsKK"
     },
     {
       "album": {

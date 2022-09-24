@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,973 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,192 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
 | 75 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDE2OTI4ZDAyMzIzZDNkODhjY2I3ZmY4ZGQ5ZTliOTU0`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGYwNDc1NjJmODk2MDgyNmM0MDIyMDJjYjJlNzhmMWIy`

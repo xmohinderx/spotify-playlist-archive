@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,428 likes - 174 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,851 likes - 177 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 172 | [Way That I Do](https://open.spotify.com/track/1SlbKGl5Evbifvn0omh6r7) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Way That I Do](https://open.spotify.com/album/0R4yvFZBJgGskBvJUtf7hv) | 3:05 |
 | 173 | [Somebody Like You](https://open.spotify.com/track/28nXyID0HPs6t1H8113aJw) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/5TBgT7OE7RGLFjkILG729A) | 3:26 |
 | 174 | [Waterfall](https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:52 |
+| 175 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 |
+| 176 | [Live On Love](https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Live On Love](https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR) | 2:51 |
+| 177 | [One Last Time \(with R3HAB\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Last Time \(with R3HAB\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGZkZDI1NTI5OTZkNjNlNzJhMWNlODQwOWUzOTA3OGM2`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDg0N2QxM2Q3Nzc2MTdkMmU3NDJjMmQ5ZjI5ODA4ZTZj`

@@ -1,29 +1,13 @@
 {
   "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:\u3061\u3083\u3093\u307f\u306a",
-  "num_followers": 643596,
+  "num_followers": 643926,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY0Mzk1MSwwMDAwMDAwMGQ3ZWZlNzRlMmY0ZDQzM2UyNzI3YmNiZTc4OTU2NjJk",
+  "snapshot_id": "MTY2MzkzNjgyOCwwMDAwMDAwMGRkNWJlMDU0ZjM2Yjc4YjVjOGFjZWQyNDMxODM2NDY3",
   "tracks": [
-    {
-      "added_at": "2022-09-20 03:19:11",
-      "album": {
-        "name": "TOKYO 4AM",
-        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 201295,
-      "name": "TOKYO 4AM",
-      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
-    },
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
@@ -59,18 +43,18 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+        "name": "TOKYO 4AM",
+        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+      "duration_ms": 201295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
     },
     {
       "added_at": "2022-09-20 03:19:11",
@@ -87,6 +71,22 @@
       "duration_ms": 243925,
       "name": "mabataki",
       "url": "https://open.spotify.com/track/1mzn53qwArYj52lIGpXXlD"
+    },
+    {
+      "added_at": "2022-09-20 03:19:11",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
       "added_at": "2022-09-20 03:19:11",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
-        "name": "Karen no Life",
-        "url": "https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
       },
       "artists": [
         {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+          "name": "\u306a\u3068\u308a",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 303276,
-      "name": "Karen no Life",
-      "url": "https://open.spotify.com/track/0KE7g8ZJ93bTNWQk9BOuIB"
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2022-09-20 03:19:11",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
+        "name": "Karen no Life",
+        "url": "https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 303276,
+      "name": "Karen no Life",
+      "url": "https://open.spotify.com/track/0KE7g8ZJ93bTNWQk9BOuIB"
+    },
+    {
+      "added_at": "2022-09-20 03:19:11",
+      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2022-09-20 03:19:11",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u3068\u308a",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2022-09-20 03:19:11",
@@ -579,6 +579,38 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
+    },
+    {
+      "added_at": "2022-09-20 03:19:11",
+      "album": {
+        "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
+        "url": "https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 232476,
+      "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
+      "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
+    },
+    {
+      "added_at": "2022-09-20 03:19:11",
+      "album": {
         "name": "Deadstock",
         "url": "https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2022-09-20 03:19:11",
-      "album": {
         "name": "Hatsukoi no Akuma -Dance With The Devil-",
         "url": "https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 190430,
       "name": "Hatsukoi no Akuma -Dance With The Devil-",
       "url": "https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3"
-    },
-    {
-      "added_at": "2022-09-20 03:19:11",
-      "album": {
-        "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
-        "url": "https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 232476,
-      "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
-      "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
     },
     {
       "added_at": "2022-09-20 03:19:11",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-20 03:19:11",
       "album": {
-        "name": "Baby's Alright",
-        "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Baby's Alright",
-      "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
-    },
-    {
-      "added_at": "2022-09-20 03:19:11",
-      "album": {
         "name": "Bitter Sweet (feat. Rinne)",
         "url": "https://open.spotify.com/album/1pi5YLWY2XNmPzGe4sAfJ9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 164000,
       "name": "Bitter Sweet (feat. Rinne)",
       "url": "https://open.spotify.com/track/7nLukfUB2GuyrJA5tsTXui"
+    },
+    {
+      "added_at": "2022-09-20 03:19:11",
+      "album": {
+        "name": "Baby's Alright",
+        "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Baby's Alright",
+      "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
     }
   ],
   "unique_name": "Tokyo Super Hits!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,752 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,816 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 14 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 15 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 16 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
-| 17 | [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 |
+| 17 | [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 |
 | 18 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 19 | [HEAD](https://open.spotify.com/track/2wSRjC6eRqtA2ak81IrT8v) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Aston Fenly](https://open.spotify.com/artist/23RT2uLMNqIl3RkddKTAF6) | [HEAD](https://open.spotify.com/album/2AD1whY87iLPxZaWs8Kd4Y) | 2:26 |
 | 20 | [Freaking Me Out](https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
 | 75 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
 
-Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMGE0NTg2ZDA5YWJhZjI0OGNhMjI4ZGU2NzM1Zjk4NDRj`
+Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMDJkMDEzNzM5Nzc3MmE4YjdiYWZiYWU2NDE3OTdkOGY3`

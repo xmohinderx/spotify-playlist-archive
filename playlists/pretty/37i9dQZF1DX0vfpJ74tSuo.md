@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,451 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,570 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 79 | [I'm Satisfied](https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 2:55 |
 | 80 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 |
 
-Snapshot ID: `MTY2MzY5MDUzNCwwMDAwMDAwMDEzNjllNmM0ZDQ1NzQxOTllMjhlNjAzYjEzNTIyZjUw`
+Snapshot ID: `MTY2Mzk0Nzk5OCwwMDAwMDAwMDA5ZmFhNmVkNTRhZjFiZDZjMGQ3NTJmNjA1MWJhNTlj`

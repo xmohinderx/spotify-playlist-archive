@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 
 > Upbeat piano for stepping out
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,815 likes - 200 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,833 likes - 200 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 199 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 |
 | 200 | [Shimmer](https://open.spotify.com/track/1VNVSwMF8fCfq55gK0VgZJ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Shimmer](https://open.spotify.com/album/2BdhZSa5iAZB9lyAZiSwAS) | 2:35 |
 
-Snapshot ID: `MTY2MzY3NTY5NCwwMDAwMDAwMDMxNGFhYzgyMGUyODVhN2FlNDI5MGRhZjliZjhkMzE4`
+Snapshot ID: `MTY2Mzk0MTk0NiwwMDAwMDAwMDk2NDFjM2MwMjJkNTMzYTFhMTY5YWZlNzgyYmQyNDA1`

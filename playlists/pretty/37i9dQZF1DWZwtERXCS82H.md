@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,340 likes - 345 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,523 likes - 345 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 344 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 |
 | 345 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 |
 
-Snapshot ID: `MTY2MzY2NTQ1MywwMDAwMDAwMDM3N2QzYjA0ZWJjNzg3MDBjZGIyM2E0MDIzMGIyMzJm`
+Snapshot ID: `MTY2Mzk0MTgwNSwwMDAwMDAwMGQ0ZjA0NDhiOTM0MWNkNTMxZWQ2N2IwMWZlMGY3NDg3`

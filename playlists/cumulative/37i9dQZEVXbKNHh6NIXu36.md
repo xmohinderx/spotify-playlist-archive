@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,024 songs - 2 day 4 hr 0 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+1,025 songs - 2 day 4 hr 3 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-04-15 |  |
 | [MUKKE](https://open.spotify.com/track/4fsZCyXKCmRdtlzhlPRLHE) | [Gallo Nero](https://open.spotify.com/artist/7impXYp8gHr8curMVe60gR), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [MUKKE](https://open.spotify.com/album/06OCzn3UijwiyBMHSiz8Hn) | 2:55 | 2022-04-16 | 2022-04-24 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-05-28 |
-| [Musik](https://open.spotify.com/track/3qbIqM093hzlcTtgjWef0K) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Musik](https://open.spotify.com/album/68LdRPrtIBfVSrPwMMtOiQ) | 2:58 | 2022-09-17 |  |
+| [Musik](https://open.spotify.com/track/3qbIqM093hzlcTtgjWef0K) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Musik](https://open.spotify.com/album/68LdRPrtIBfVSrPwMMtOiQ) | 2:58 | 2022-09-17 | 2022-09-24 |
 | [MVP](https://open.spotify.com/track/1MaHA5ObykZAOLz4dqVTv6) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [MVP](https://open.spotify.com/album/69c6CHPxcKpp1ItJasytWj) | 1:54 | 2022-02-19 | 2022-02-23 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-27\* | 2021-05-03 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-25 |
@@ -936,6 +936,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-31 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-23 | 2021-12-29 |
 | [Une jam](https://open.spotify.com/track/2VvjtaAG5bne9Jn5UbJhfX) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Une jam](https://open.spotify.com/album/0BasM7faujnd5IORm9wczl) | 2:50 | 2021-05-16 | 2021-05-21 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 |  |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-19 |
 | [Unter dem Radar](https://open.spotify.com/track/4NOSbom2QAjXJoyoJZehGe) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Unter dem Radar](https://open.spotify.com/album/7GfVJQcmNw2Kc2NNg42jcY) | 2:23 | 2021-04-18 | 2021-04-22 |
 | [UNTER VERDACHT](https://open.spotify.com/track/54AnAMobwJ5ElDCTcPFJk5) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [UNTER VERDACHT](https://open.spotify.com/album/4Dh9R4tmUYVbz5EW9uFbSX) | 2:41 | 2021-04-18 | 2021-05-03 |

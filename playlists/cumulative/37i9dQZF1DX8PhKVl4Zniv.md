@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-63 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+64 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [The Shakes](https://open.spotify.com/track/3LwmyD2zbdiRUroKoDTLBw) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru) | [Feel.](https://open.spotify.com/album/1Qk8NpiCbHbJQmdXywo5oo) | 3:46 | 2022-06-01 |  |
 | [This Too Shall Pass](https://open.spotify.com/track/5q9E3jb5rjHBcDtDWFxtbM) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA) | [The Lotus and the Swamp](https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO) | 3:54 | 2022-06-01 |  |
 | [Tower Of Inspiration](https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Master Plan](https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h) | 3:59 | 2022-06-01 |  |
+| [True Praise](https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Origin Band](https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:27 | 2022-09-23 |  |
 | [Virtual Life](https://open.spotify.com/track/1Pax97BZgQU2uC5BQSAZBl) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 7:19 | 2022-06-01 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2022-06-01 |  |
 | [Wait A Minute](https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/0bafe91fdkJPbIG8netbca) | 5:23 | 2022-09-09 |  |

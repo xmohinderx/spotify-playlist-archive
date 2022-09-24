@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: El Plan De La Mariposa + Pedro Pastor
 
-168 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+169 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Mesita del Miravalles](https://open.spotify.com/track/2fGBwLK0jYRGQnYXpJlKJC) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0lqqP3rnQAWX4gRx4h3dtc) | 3:14 | 2022-06-29 | 2022-07-20 |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-07-19 |  |
 | [Mientras Puedas](https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh) | [Mientras Puedas](https://open.spotify.com/album/0R2ApWvhBPLSn7vYOE3Gtf) | 4:11 | 2022-06-29 |  |
-| [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 |  |
+| [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 | 2022-09-24 |
+| [Mil Ballenas](https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Mil Ballenas](https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI) | 3:53 | 2022-09-23 |  |
 | [Mundo de Hoy](https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 4:21 | 2022-07-29 |  |
 | [Mundo Entero](https://open.spotify.com/track/6xZR3mbvw2UwZOaYs2bSz7) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Mundo Entero](https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak) | 3:22 | 2022-06-29 | 2022-08-13 |
 | [MUZZA](https://open.spotify.com/track/4hivokN9VRz22rLhE1E3na) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [MUZZA](https://open.spotify.com/album/0hINRsC4INcD20kaRhJaLD) | 3:57 | 2022-08-05 |  |

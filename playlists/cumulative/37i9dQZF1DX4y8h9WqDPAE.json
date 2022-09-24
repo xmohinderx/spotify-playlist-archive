@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: WizKid",
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: FLO",
   "name": "Channel-X",
   "published_playlist_ids": [
     "5s7fhvbutNcZHU1nvTcDIN"
@@ -146,6 +146,28 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -161,6 +183,24 @@
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
+    },
+    {
+      "album": {
+        "name": "ALL EARS",
+        "url": "https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "ALL EARS",
+      "url": "https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o"
     },
     {
       "album": {
@@ -197,7 +237,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
@@ -535,7 +575,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -557,7 +597,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
@@ -619,7 +659,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 135005,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE"
@@ -963,7 +1003,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 180000,
       "name": "Denial",
       "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
@@ -1311,7 +1351,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 254407,
       "name": "Flight's Booked",
       "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
@@ -1391,7 +1431,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
@@ -1593,7 +1633,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 226373,
       "name": "Hate Our Love (with Big Sean)",
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
@@ -1761,7 +1801,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186114,
       "name": "If I Get Caught",
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
@@ -2027,7 +2067,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
@@ -2129,6 +2169,24 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/7jz85KztGuEDlvdchQfkhS"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/0qGv5vwsNs6qEq8gDtfZ5y"
     },
     {
       "album": {
@@ -2455,6 +2513,24 @@
       "duration_ms": 162037,
       "name": "Not Jus Anybody (feat. Future)",
       "url": "https://open.spotify.com/track/4tBNl51vv4ekUT1APoSWij"
+    },
+    {
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
     },
     {
       "album": {
@@ -3423,7 +3499,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
@@ -3453,6 +3529,46 @@
       "duration_ms": 199180,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO"
+    },
+    {
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Ten Cane Row",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "album": {
+        "name": "Time (From the Motion Picture \"Amsterdam\")",
+        "url": "https://open.spotify.com/album/3VDUN8potNxTgF520R642l"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222199,
+      "name": "Time - From the Motion Picture \"Amsterdam\"",
+      "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
     },
     {
       "album": {
@@ -3646,6 +3762,32 @@
     },
     {
       "album": {
+        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227435,
+      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -3793,6 +3935,28 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
+    },
+    {
+      "album": {
+        "name": "Willing To Trust",
+        "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282053,
+      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
     },
     {
       "album": {

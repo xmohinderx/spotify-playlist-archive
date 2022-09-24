@@ -2,9 +2,9 @@
 
 ### [Les beaux jours](https://open.spotify.com/playlist/37i9dQZF1DWWAwsEEGEeag)
 
-> On se retrouve au parc?
+> Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-113 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+114 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [PLS \- sunset version](https://open.spotify.com/track/4lJEaKy001HuFKCwQYqK6S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 3:28 | 2022-06-24 | 2022-08-27 |
 | [Point sensible](https://open.spotify.com/track/0YmYBHDSRT2rr5uvnDWPWg) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Troie](https://open.spotify.com/album/2qVuFxNnL4daaUtPZLnVtG) | 2:25 | 2022-06-24 |  |
 | [Potager \- Mmmmmathias Remix](https://open.spotify.com/track/4C5C9qLtRZKfM9if5c0l8V) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Mmmmmathias](https://open.spotify.com/artist/6sturD2FFaJwfstxm4u59X) | [Potager \(Mmmmmathias Remix\)](https://open.spotify.com/album/09FYKTqO9IU41osm552L5z) | 3:37 | 2022-06-24 |  |
+| [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-23 |  |
 | [Que Onda](https://open.spotify.com/track/2tgo5F4FRSJfcVP3nGxaWO) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Que Onda](https://open.spotify.com/album/23o8t7odvfUsY9J9Ru6dB7) | 2:39 | 2022-06-24 |  |
 | [Recommencer](https://open.spotify.com/track/2MxejfdrDFAgKKeYuxzShr) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:31 | 2022-06-24 |  |
 | [Recto Verso \- Mall Grab Remix](https://open.spotify.com/track/5FVdng1BLqLy5Q1u71LuY6) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Recto Versions](https://open.spotify.com/album/0OwJqkCyb1CLLcIvauh1Uo) | 5:54 | 2022-06-24 |  |

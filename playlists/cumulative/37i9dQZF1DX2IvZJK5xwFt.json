@@ -3365,7 +3365,7 @@
     {
       "album": {
         "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM"
+        "url": "https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK"
       },
       "artists": [
         {
@@ -3376,6 +3376,24 @@
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254508,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR"
+    },
+    {
+      "album": {
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
       "duration_ms": 254508,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7"

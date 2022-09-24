@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-304 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+307 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2022-09-20 |  |
 | [2nd Hand](https://open.spotify.com/track/4yORBk6ZyYsJpnJchyZevc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/76f9HU4YP42WHFoyo9JWPa) | 2:03 | 2021-09-17 | 2022-05-17 |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2021-09-17 | 2022-06-04 |
+| [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 |  |
 | [A Lot](https://open.spotify.com/track/461qq5XnmwjXTt1sBgI4lX) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [FTG Reggie](https://open.spotify.com/artist/10ga9ZMdxwRb1zML85jUiM) | [A Lot](https://open.spotify.com/album/2AdoLUPHICCss37Ip7OUOl) | 2:21 | 2021-09-17 |  |
 | [a mosh pit love story](https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [a mosh pit love story](https://open.spotify.com/album/68KzN6H88EMJK6wxChPYaN) | 1:57 | 2021-10-01 | 2022-05-28 |
 | [AI](https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AI](https://open.spotify.com/album/2bqMK2GcB02ezyvBJhW7Uy) | 2:54 | 2021-09-17 | 2022-06-11 |
@@ -131,6 +132,7 @@
 | [GLEAM](https://open.spotify.com/track/2r8NabrTNOZStIlQ26jC4C) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc) | [GLEAM](https://open.spotify.com/album/2fuvMRzuaIqwidNyS8XPOK) | 3:05 | 2021-09-17 | 2022-06-04 |
 | [GO!](https://open.spotify.com/track/6tf1F8ngodlrk1bs7GqzxD) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [THE SMALL DARK ONE](https://open.spotify.com/album/5dfOjEc98muRTyaZQZy3lo) | 3:29 | 2022-06-10 | 2022-07-27 |
 | [GOD OF A DIFFERENT PLANE](https://open.spotify.com/track/7aLFXFk0jTtBjwjosjC596) | [PRXJEK](https://open.spotify.com/artist/6TeJpqb3PcvfHxjKAEKCNu) | [GOD OF A DIFFERENT PLANE](https://open.spotify.com/album/0b4OSJLB184QeyROHnwJSD) | 2:55 | 2022-02-04 | 2022-05-04 |
+| [GONNA COST YA](https://open.spotify.com/track/48fKD2EdSs6uZtgrtUfbwK) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [Jmattson](https://open.spotify.com/artist/4Dhkfa9wzayu7tMMgaDcHG), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [GONNA COST YA](https://open.spotify.com/album/7MrGHLqVXWzFmSIOao7oeA) | 2:50 | 2022-09-23 |  |
 | [Goosebumps!](https://open.spotify.com/track/3KBM4E7O7CHf4nJBYAXKSZ) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Goosebumps!](https://open.spotify.com/album/34jEJ49vmY9S2xu2VOktWX) | 2:08 | 2022-04-15 |  |
 | [GOSA](https://open.spotify.com/track/6Ly06Py1XwfMYv4IzSXCGh) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q), [Lando Senju](https://open.spotify.com/artist/0T1cydnFQWuq6PAHMV3uZn) | [GOSA](https://open.spotify.com/album/7twLuXlEx4IIszxt0PtMRt) | 2:50 | 2022-02-01 | 2022-04-24 |
 | [GOSHA GOD$](https://open.spotify.com/track/2nSTqsViucYY39diAtHtCE) | [B\-Train](https://open.spotify.com/artist/60357wYdsJUbrZVxuu4X4Q), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P), [Very Abstract](https://open.spotify.com/artist/3CAvL0N53HUQydZzBkgPvo) | [GOSHA GOD$](https://open.spotify.com/album/5lOt9ZTGXBxOSzrxZxDb1u) | 2:35 | 2022-01-07 | 2022-04-18 |
@@ -226,6 +228,7 @@
 | [PIGGY BACK](https://open.spotify.com/track/11TscKLROG8TH1nkMkjIIr) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [PIGGY BACK](https://open.spotify.com/album/3mHzVRTVO0wXn0En8DsaCJ) | 2:14 | 2022-02-25 | 2022-06-11 |
 | [Pipe Down](https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Pipe Down](https://open.spotify.com/album/1IMqk7bmimVAf4C0XqiaWF) | 2:09 | 2021-09-17 | 2022-07-16 |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 |  |
+| [Priton](https://open.spotify.com/track/5q2lsqzPGPyQn6fMBUupLP) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [Priton](https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U) | 1:58 | 2022-09-23 |  |
 | [Private](https://open.spotify.com/track/79PXeW2SPqJ3lcSXoPbpmU) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Capsule 2](https://open.spotify.com/album/1uAFVm1vQvh0uwVMXcmF9b) | 1:47 | 2021-09-17 | 2022-09-17 |
 | [Psycho Pass](https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 2](https://open.spotify.com/album/1gylfqMj0edhomts9vZL7d) | 2:15 | 2021-09-17 |  |
 | [Ragnarok](https://open.spotify.com/track/77iJlK3UBnJ6ifrKHbvtbf) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U), [Mode$t0 Beats](https://open.spotify.com/artist/4btKpMf8S2ISzSF65RNwTF) | [RAGNAROK](https://open.spotify.com/album/2CSMLHv8cAFiRJb9MB0Hgc) | 2:18 | 2021-09-17 | 2022-05-08 |

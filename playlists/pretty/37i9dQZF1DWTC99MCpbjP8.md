@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,960 likes - 332 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,001 likes - 332 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -341,4 +341,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 331 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 332 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 |
 
-Snapshot ID: `MTY2MzIyNTk2NywwMDAwMDAwMGI3YmUyMzA2NDlkYzNiMzcxZTNkNmZjOTA1ODk4MTM1`
+Snapshot ID: `MTY2Mzk0MjQyMiwwMDAwMDAwMDNlYzZmNDBkYzJlYWUwNTUxOTNjZGQ5MmNiNzNhMzE2`

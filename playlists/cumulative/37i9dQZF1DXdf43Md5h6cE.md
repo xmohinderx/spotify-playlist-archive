@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-87 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+92 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Augnablik](https://open.spotify.com/track/7bG1tltLLroslB2iN4NVXx) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Augnablik](https://open.spotify.com/album/6nHuSpEeI6dsKVHUlHaafK) | 2:43 | 2022-07-08 |  |
 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 | 2022-05-19 |  |
 | [Avant après](https://open.spotify.com/track/4p8JiWyVoMKubwtMWQEvfG) | [Grandbruit](https://open.spotify.com/artist/4seVtzX0ihqxPzPeCYlKXY) | [Ville inerte](https://open.spotify.com/album/7x9hzH6UQdNe7WDzceVLMF) | 8:23 | 2022-05-19 |  |
+| [Awakened](https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Awakened](https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV) | 3:00 | 2022-09-23 |  |
 | [Beauty](https://open.spotify.com/track/4sTJvOr6fwdXXQebRajeWl) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 1:58 | 2022-05-19 |  |
 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 | 2022-08-11 |  |
 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 |  |
@@ -40,7 +41,8 @@
 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 | 2022-07-08 |  |
 | [first inhale](https://open.spotify.com/track/5CeRyms5wAeH7Spyc9fX25) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [first inhale](https://open.spotify.com/album/4HiGTG9KlJ61F6Q9tAG3t5) | 2:51 | 2022-07-08 |  |
 | [Fiveless Accretion Pearl \(Desk Lamp Mix\)](https://open.spotify.com/track/2VJD2jBc1ATLkT5SY8T1Ea) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [So Extra Bronze Lamp](https://open.spotify.com/album/2kat3SAlqfJWIeUMzEklAf) | 2:32 | 2022-05-19 |  |
-| [Forest and Thought](https://open.spotify.com/track/5snFRLT6VELgxABotZyMmi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:01 | 2022-05-19 |  |
+| [floating threads](https://open.spotify.com/track/1W1eiov7zPrmG35PpuGuFC) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [moon balloon](https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB) | 3:46 | 2022-09-23 |  |
+| [Forest and Thought](https://open.spotify.com/track/5snFRLT6VELgxABotZyMmi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:01 | 2022-05-19 | 2022-09-24 |
 | [Forms](https://open.spotify.com/track/1bOHmmrh740p2MfJTs7kyw) | [Cardamom](https://open.spotify.com/artist/6GE1lOueuEqo5mZhGNrEOl) | [Forms](https://open.spotify.com/album/4zJyzTHbVAZOYfX8kXlGPO) | 3:00 | 2022-05-19 |  |
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
@@ -50,13 +52,16 @@
 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 | 2022-05-19 |  |
+| [Inner Illumination](https://open.spotify.com/track/5QEIM4Ut4qiu2cRlqzT1xR) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inner Illumination](https://open.spotify.com/album/6t2Gp4obISbu6ji2svw4Wb) | 3:42 | 2022-09-23 |  |
 | [Inner Space](https://open.spotify.com/track/7HkAMBIhGt1LszaMZqIfNf) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn) | [Inner Space](https://open.spotify.com/album/5W1vYzWtA5v7qCBnWTg9rL) | 2:16 | 2022-05-19 |  |
 | [Introduction of Our Hero, Dream Gopher](https://open.spotify.com/track/6f3cHqM3gAWkSXKlr259Xs) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 3:18 | 2022-05-19 |  |
+| [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
 | [Jane 8](https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 5:18 | 2022-09-20 |  |
 | [Lost in Time](https://open.spotify.com/track/35Jg3C3PRKaoqRwGk43vzl) | [Dreaming Hiker](https://open.spotify.com/artist/7ePtJVNSHr0ccHyh0M9ASI) | [Lost in Time](https://open.spotify.com/album/6PSTy6GcNWKHwjgLmkBB3m) | 2:10 | 2022-07-08 |  |
 | [March](https://open.spotify.com/track/1bB3YmkkpZaVIVfzBcrKzB) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 13:00 | 2022-05-19 |  |
 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 | 2022-05-19 |  |
 | [Milky Sea](https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 3:40 | 2022-05-19 |  |
+| [moon balloon](https://open.spotify.com/track/7Dzcto6bubJGOQ6IloqxtI) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [moon balloon](https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB) | 4:13 | 2022-09-23 |  |
 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 | 2022-05-19 |  |
 | [Morning Repose](https://open.spotify.com/track/0X32YnznPuE9Ass1qQMM0m) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:46 | 2022-07-08 |  |
 | [Narrative Forms](https://open.spotify.com/track/506TffN7fJgYBfrtXhfhq4) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:35 | 2022-05-19 |  |

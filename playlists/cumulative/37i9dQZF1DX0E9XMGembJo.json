@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168000,
       "name": "Alley-Oop",
       "url": "https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 166927,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
@@ -1060,6 +1060,32 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160161,
+      "name": "C'est La Vie (with bbno$ & Rich Brian)",
+      "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
+    },
+    {
+      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
       },
@@ -1477,7 +1503,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 147350,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
@@ -1757,7 +1783,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216463,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
@@ -2559,7 +2585,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -5425,7 +5451,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 142829,
       "name": "One More Weekend",
       "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
@@ -6491,7 +6517,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
@@ -7883,7 +7909,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"

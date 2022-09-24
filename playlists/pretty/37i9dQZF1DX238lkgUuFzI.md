@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,207 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,286 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 47 | [The Station](https://open.spotify.com/track/0DLv7bCzYht1B7zLyNObWE) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp), [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [The Station](https://open.spotify.com/album/3FPieXf5uccWdl10BgxpLl) | 2:28 |
 | 48 | [own](https://open.spotify.com/track/4YfpcuVZScVm2tXDNjWXzO) | [ER!N.D](https://open.spotify.com/artist/0DoRl4Qkli4aCCI3uPXWCM) | [own](https://open.spotify.com/album/0YkciYp013VP7iAfmm1DgP) | 2:13 |
 | 49 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
-| 50 | [White Lie](https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/5D2svNFAKRNgAOW1Tys68z) | 3:33 |
+| 50 | [White Lie](https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv) | 3:33 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDgyMDczODM1ODViOWZmYzkxMWQyOWY4ODdhOGY0ODY5`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDE2NjU3YzNjMjM5ZjU1NWQyNjlhYmQzMGVhODYzNzMz`

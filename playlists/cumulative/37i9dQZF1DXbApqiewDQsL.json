@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Piso 21 & Carin Leon",
+  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Kany Garc\u00eda & Christian Nodal. ",
   "name": "Internacional Mexicano",
   "published_playlist_ids": [
     "6afbS8jMGP22mlmpnwyCdP"
@@ -726,6 +726,28 @@
     },
     {
       "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
+    },
+    {
+      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
@@ -895,7 +917,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 183840,
       "name": "No Hay Pedo",
       "url": "https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX"

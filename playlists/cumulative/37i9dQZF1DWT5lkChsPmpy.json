@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160500,
       "name": "Couple Lattes",
       "url": "https://open.spotify.com/track/01RxJZ9GhysTABL6fB5KpC"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 192711,
       "name": "Five Minutes",
       "url": "https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0"
@@ -2077,6 +2077,24 @@
       "duration_ms": 96000,
       "name": "get down under",
       "url": "https://open.spotify.com/track/3zL90QZz5r2dgH5ZRXW4xG"
+    },
+    {
+      "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
     },
     {
       "album": {
@@ -3389,7 +3407,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 117732,
       "name": "midnight slushee",
       "url": "https://open.spotify.com/track/6aPaDaf5QBxN3wBg4abYNx"
@@ -3407,7 +3425,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 131294,
       "name": "Midnite Chill",
       "url": "https://open.spotify.com/track/5trFjwQViRMRX6CiDMDV9c"
@@ -3692,6 +3710,24 @@
     },
     {
       "album": {
+        "name": "New Route",
+        "url": "https://open.spotify.com/album/3RJnGF4jUjWvg6icuIBqYc"
+      },
+      "artists": [
+        {
+          "name": "Triangle Spirits",
+          "url": "https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "New Route",
+      "url": "https://open.spotify.com/track/1SeBElvpfLPZ2KLx20Cwzv"
+    },
+    {
+      "album": {
         "name": "Night Drives 1986",
         "url": "https://open.spotify.com/album/6rBDX0PUnOKvw5egPRRKtq"
       },
@@ -3725,6 +3761,24 @@
       "duration_ms": 116575,
       "name": "Noir (Remix)",
       "url": "https://open.spotify.com/track/6k1wfv71sK5uo8KfbpCGTH"
+    },
+    {
+      "album": {
+        "name": "Nothing but trouble",
+        "url": "https://open.spotify.com/album/4o6aQi9SruqMNfKDLG2xXx"
+      },
+      "artists": [
+        {
+          "name": "Vidstige",
+          "url": "https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Nothing but trouble",
+      "url": "https://open.spotify.com/track/7JUoKddqlQCvbRNHKEDFcg"
     },
     {
       "album": {
@@ -4567,7 +4621,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 236749,
       "name": "Sea Ya",
       "url": "https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL"

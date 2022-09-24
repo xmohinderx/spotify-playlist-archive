@@ -2,7 +2,7 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
+> Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
 271 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 

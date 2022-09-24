@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,446,722 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,447,285 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Hideaway](https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Hideaway](https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9) | 2:23 |
 | 75 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGI5MmZmMjg1ZTcyOWM5ODRiNDk3MGRhODI3ZjgzYmZj`
+Snapshot ID: `MTY2MzkyMzcyNSwwMDAwMDAwMGI1YzI1OWMyMDBiMzVhOWFmZTcyOTE4YzNiZmMwZjkz`

@@ -5982,6 +5982,28 @@
     },
     {
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/1AjJkt5kxGlinqG3xmGNOR"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Maya Simone",
+          "url": "https://open.spotify.com/artist/5RN3g06QPW2F0VQW9d1U3B"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244435,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/7wqiEbgn06LwvlXpH9tY3R"
+    },
+    {
+      "album": {
         "name": "MoAfurika",
         "url": "https://open.spotify.com/album/3qEcNXHSt7AxDEYQsYSY2E"
       },

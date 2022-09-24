@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,698 likes - 113 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,732 likes - 113 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 112 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
 | 113 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 |
 
-Snapshot ID: `MTY1ODkyNzU5NSwwMDAwMDAwMDNmMjY5ZDdiNmVjYWVjYWYzMzA2ODQ2MjA0NzY0OTdj`
+Snapshot ID: `MTY2Mzk0MjMwNCwwMDAwMDAwMDczOWVhN2QzZjZkNDk1MGQxMzVlNGJmMmE5ZDU0NjJk`

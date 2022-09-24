@@ -1,13 +1,45 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 3351,
+  "num_followers": 3359,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDQ0MWMzMjRjNjE5MDAxZTQ4YTg3N2VkNzdkNDRkMGUw",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDZhN2E2OWY4N2Y3N2Y5NWM1Y2I3Yjk4OGNmYTYyMjhl",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Variations of a Bloodline (Live)",
+        "url": "https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "duration_ms": 822154,
+      "name": "Variations of a Bloodline - Live",
+      "url": "https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Chick Corea: The Montreux Years (Live)",
+        "url": "https://open.spotify.com/album/42fDTeZVyJcVoaKCnqP31t"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Interlude - Live - Montreux Jazz Festival 2004",
+      "url": "https://open.spotify.com/track/4sMLaJdIDP9VUQuHngHzjb"
+    },
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
@@ -99,6 +131,22 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Soul Eyes (Live)",
+        "url": "https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0"
+      },
+      "artists": [
+        {
+          "name": "Mal Waldron",
+          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
+        }
+      ],
+      "duration_ms": 529360,
+      "name": "Soul Eyes (Live)",
+      "url": "https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP"
     },
     {
       "added_at": "2022-09-16 04:01:00",

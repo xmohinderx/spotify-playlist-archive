@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-331 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+333 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Autumn in Prague](https://open.spotify.com/track/3lG3nnXioF0tPONms64ANl) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:43 | 2021-11-11 | 2022-05-27 |
 | [Backrest](https://open.spotify.com/track/4cPAlNvmPCRulfIldis6aL) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Backrest](https://open.spotify.com/album/6S3huq65cOIbaKwOWLLMjr) | 2:26 | 2021-11-11 | 2022-04-08 |
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2021-11-11 | 2022-09-03 |
+| [Ballroom Samba](https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ballroom Samba](https://open.spotify.com/album/41M22LDCY7NgRbfLmySeLr) | 2:27 | 2022-09-23 |  |
 | [Basil](https://open.spotify.com/track/3mBRiP2zOZZYBYenkbeHC4) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [The Feel Good Era](https://open.spotify.com/album/56S5fMhwhAHFfFoBhdpQZM) | 2:42 | 2022-02-04 |  |
 | [BEACH WAVES](https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [BEACH WAVES](https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0) | 2:08 | 2021-11-11 |  |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2021-11-11 | 2022-06-10 |
@@ -116,6 +117,7 @@
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2021-11-11 | 2022-09-09 |
 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 | 2022-07-01 |  |
 | [Happy to See You](https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:11 | 2021-11-11 |  |
+| [HAVE A GOOD DAY](https://open.spotify.com/track/5NdQMepJCx0N30rJ5fCCDV) | [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh), [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf) | [SUMMER](https://open.spotify.com/album/0kIdu5ROzz19KB1SMABQ4W) | 2:16 | 2022-09-23 |  |
 | [Hawaii](https://open.spotify.com/track/0tPEPFRjRO9C5dyZX1jurl) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Hawaii](https://open.spotify.com/album/5hGeUDgrm94dmKQn0jlc6b) | 1:41 | 2022-09-02 |  |
 | [Head High](https://open.spotify.com/track/62OND6iBr7fNqPE2E1MiIQ) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Head High](https://open.spotify.com/album/0bWjhVA9YFgOsOH4nVdq6h) | 2:37 | 2022-04-08 |  |
 | [Heat Wave](https://open.spotify.com/track/0C3u3qhOe64OTvfUq0MD9M) | [Floraboros](https://open.spotify.com/artist/0bGb3H70RYZZDz1O9rBteJ) | [Heat Wave](https://open.spotify.com/album/4RFCRp0VxikRWcLhjVeqim) | 2:08 | 2021-11-11 | 2022-06-03 |
@@ -272,7 +274,7 @@
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2021-11-11 | 2022-07-22 |
 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 | 2021-11-11 |  |
 | [Summer Haze](https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L) | [Flimbo](https://open.spotify.com/artist/0kqL9mr7IkoVgzLpIvfUhp) | [Summer Haze](https://open.spotify.com/album/3MQOnybwcpMFWWpHfO8n7X) | 1:44 | 2021-11-11 |  |
-| [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2021-11-11 |  |
+| [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2021-11-11 | 2022-09-24 |
 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 | 2021-11-11 |  |
 | [Sundown Avenue](https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Train of Liberation](https://open.spotify.com/album/48FgL60ydhm7ScPE1Zkao9) | 2:55 | 2021-11-11 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-04-22 |  |
@@ -281,7 +283,7 @@
 | [Sunset Hues](https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [Sunset Hues](https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP) | 1:37 | 2022-09-02 |  |
 | [Surf Boogie](https://open.spotify.com/track/04aD25LiPRSZfT2lz1mGw8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Loves You](https://open.spotify.com/album/63qpWQd44kLnmFhMZ1mkRm) | 2:10 | 2021-11-11 | 2022-05-27 |
 | [Sweet Taboo](https://open.spotify.com/track/40gdXSYMmhTw2TvD8J1TdY) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Sweet Taboo](https://open.spotify.com/album/0y662HfJpSlbiDp461Fuhh) | 2:21 | 2021-11-11 |  |
-| [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2021-11-11 |  |
+| [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2021-11-11 | 2022-09-24 |
 | [Talk About It](https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [Talk About It](https://open.spotify.com/album/3Fcz7rRbQEKo8X3r4MMuvO) | 2:22 | 2021-11-11 |  |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 | 2022-07-22 |
 | [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 |  |

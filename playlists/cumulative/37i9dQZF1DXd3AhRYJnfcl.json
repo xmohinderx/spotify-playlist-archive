@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "James Dean",
+        "url": "https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244729,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M"
+    },
+    {
+      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
       },
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 136000,
       "name": "\u0645\u062a\u063a\u0627\u0638\u064a\u0646",
       "url": "https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3"

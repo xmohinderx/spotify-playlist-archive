@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,442 likes - 93 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,064 likes - 93 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

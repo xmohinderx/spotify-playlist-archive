@@ -4,7 +4,7 @@
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-60 songs - 3 hr 14 min - not published yet
+60 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/52tmP6AlCqUQeP3yBN8sra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

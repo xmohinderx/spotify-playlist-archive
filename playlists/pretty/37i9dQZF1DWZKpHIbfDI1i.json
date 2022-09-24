@@ -1,29 +1,13 @@
 {
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yoss Bones en portada.",
-  "num_followers": 443390,
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Luis R Conriquez & Peso Pluma en portada.",
+  "num_followers": 443907,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2MTIwNywwMDAwMDAwMDFlOGYyZjVhMTY0NWM1Zjk3ZTE4YmQ5MTYyZTE2MWQx",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGI2MmYwOWU5NmJkNzEwMjNkYjU1NWZhNzdjYTM2ZWIx",
   "tracks": [
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Eres Mi Aire",
-      "url": "https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT"
-    },
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
@@ -45,24 +29,24 @@
       "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
-      "added_at": "2022-09-15 17:00:07",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -103,22 +87,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -149,6 +117,30 @@
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
+    },
+    {
       "added_at": "2022-09-15 17:00:07",
       "album": {
         "name": "XT4S1S",
@@ -163,42 +155,6 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Aka Entre el Humo",
-        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Aka Entre el Humo",
-      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -221,6 +177,22 @@
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
+    },
+    {
       "added_at": "2022-09-15 17:00:07",
       "album": {
         "name": "La Clase",
@@ -235,6 +207,22 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "De todas las flores",
+        "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -269,20 +257,20 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
-      "added_at": "2022-09-15 17:00:07",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "M\u00fasica Mexa",
-        "url": "https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx"
+        "name": "Aztl\u00e1n",
+        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 194823,
-      "name": "M\u00fasica Mexa",
-      "url": "https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ"
+      "duration_ms": 194226,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -303,6 +291,38 @@
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 127777,
+      "name": "Si No Se Dio",
+      "url": "https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -383,6 +403,22 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -401,6 +437,22 @@
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Quiten El Trap",
+        "url": "https://open.spotify.com/album/2ZuRVitZRB7NHOr4uwdjck"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 157739,
+      "name": "Quiten El Trap",
+      "url": "https://open.spotify.com/track/47HKTaIC6f3I9wF10E1J2r"
+    },
+    {
       "added_at": "2022-09-15 17:00:07",
       "album": {
         "name": "Miel",
@@ -415,22 +467,6 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -603,22 +639,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "El Amor De Su Vida",
-      "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
       },
@@ -647,6 +667,22 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -727,38 +763,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
       },
@@ -787,26 +791,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Seraf\u00edn Zambada",
-        "url": "https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 128532,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "El Gabito",
         "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 163422,
       "name": "El Gabito",
       "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Ni Volviendo a Nacer",
-        "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 166992,
-      "name": "Ni Volviendo a Nacer",
-      "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "Un Nuevo Amor",
         "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
@@ -967,22 +951,6 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Todo My Love",
-        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 200502,
-      "name": "Todo My Love",
-      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1047,22 +1015,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Ni Lo Intentes",
-      "url": "https://open.spotify.com/track/3WiU6ZeOD7UFjTSPraQMPl"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "A Veces Bien Y A Veces Mal",
         "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
       },
@@ -1079,22 +1031,6 @@
       "duration_ms": 145783,
       "name": "A Veces Bien Y A Veces Mal",
       "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
-        "name": "Forajido EP 1",
-        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 174741,
-      "name": "Lim\u00f3n Con Sal",
-      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1243,22 +1179,6 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
-        "name": "Haashtag",
-        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Lo Que un Hombre Deber\u00eda Saber",
-      "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
-    },
-    {
-      "added_at": "2022-09-15 17:00:07",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -1295,6 +1215,26 @@
     {
       "added_at": "2022-09-15 17:00:07",
       "album": {
+        "name": "Aka Entre el Humo",
+        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Aka Entre el Humo",
+      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -1311,6 +1251,26 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2022-09-15 17:00:07",
@@ -1367,6 +1327,54 @@
       "duration_ms": 197853,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Lo Que Construimos (Spotify Singles)",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Cabr\u00f3n Yo Puedo",
+        "url": "https://open.spotify.com/album/48FTvOrTDP6bQb5gTIkDbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "Cabr\u00f3n Yo Puedo",
+      "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
+    },
+    {
+      "added_at": "2022-09-15 17:00:07",
+      "album": {
+        "name": "Mismo Amor",
+        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
     }
   ],
   "unique_name": "Top M\u00e9xico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,894 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,945 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 44 | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T) | [Dj Juninho 22](https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH), [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8) | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF) | 3:42 |
 | 45 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
 | 46 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
-| 47 | [Pretinha](https://open.spotify.com/track/1aJKGjRUYuuPzQxXwhfhWa) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Pretinha](https://open.spotify.com/album/37IJvH1R66xwTDAIvrIkcB) | 2:25 |
+| 47 | [Surtada](https://open.spotify.com/track/76N8hqMQj2mpepRJqFcSZQ) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Baby Face](https://open.spotify.com/artist/5PpQnfyJjOpGsT7LfeBGxV), [Caju Clã](https://open.spotify.com/artist/1zCRmLWPpfEQTERVLcOhnz) | [Surtada](https://open.spotify.com/album/2TNQc1VSu32tfEt0z6HWE0) | 2:57 |
 | 48 | [Jogo Sujo \(ATO I\)](https://open.spotify.com/track/0d6T67z5wBofFyqmtFzNJg) | [Elli Gomes](https://open.spotify.com/artist/0OFsWETMLou9cRVE45KRqD), [Mop](https://open.spotify.com/artist/7bTwe8ZOLnUGdpX0d9JLzT) | [Jogo Sujo \(ATO I\)](https://open.spotify.com/album/7vLQsKtEo0Wv6lfB3PjWJl) | 2:27 |
 | 49 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGMzYjY0MDBiMjdkNDE1MDYwMTUxM2I4Y2IwNjY5NDUw`
+Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMGI5N2NlNjMzZjUzNWM0ZmY4ZjRjMjk3MmU1YjgxZDUx`

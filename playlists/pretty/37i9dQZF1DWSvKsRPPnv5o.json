@@ -1,44 +1,64 @@
 {
   "description": "Holdin' it down for the westside. Cover: Kalan.FrFr",
-  "num_followers": 697386,
+  "num_followers": 697435,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFjMmI3YWQ0YmJiYWM2MThmNjJiOWIwNjc5ZjcxMTJh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDZkZDU2NzAxOGU3ZTkxZTlkYmI5NWZkZTUyYzliY2U5",
   "tracks": [
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "I Know You Feel A Way",
-        "url": "https://open.spotify.com/album/0X5GFsSbhvlOqOVgMiwh1f"
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ"
       },
       "artists": [
         {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 143856,
-      "name": "I Know You Feel A Way",
-      "url": "https://open.spotify.com/track/46bAMGHpxHp9iHW1WMf3cW"
+      "duration_ms": 166787,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Spaceships on the Blade",
-        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Don't Check Me",
-      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
+      "duration_ms": 158350,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "LA SUMMERS2",
+        "url": "https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Gotdamnitdupri",
+          "url": "https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs"
+        }
+      ],
+      "duration_ms": 169696,
+      "name": "Did A Lot",
+      "url": "https://open.spotify.com/track/3OV02vqUlHie0Ja5kep6Sz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -59,6 +79,22 @@
       "duration_ms": 239073,
       "name": "Never Change (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Don't Check Me",
+      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -113,6 +149,22 @@
       "url": "https://open.spotify.com/track/1FayZGI8Bm3R0sKWNsm1gV"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Know You Feel A Way",
+        "url": "https://open.spotify.com/album/0X5GFsSbhvlOqOVgMiwh1f"
+      },
+      "artists": [
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "duration_ms": 143856,
+      "name": "I Know You Feel A Way",
+      "url": "https://open.spotify.com/track/46bAMGHpxHp9iHW1WMf3cW"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Alone",
@@ -127,42 +179,6 @@
       "duration_ms": 158362,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Light Breeze",
-        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "LA SUMMERS2",
-        "url": "https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh"
-      },
-      "artists": [
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Gotdamnitdupri",
-          "url": "https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "Did A Lot",
-      "url": "https://open.spotify.com/track/3OV02vqUlHie0Ja5kep6Sz"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -199,6 +215,26 @@
       "duration_ms": 203946,
       "name": "How Far I Came (Feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/0fGtT5bFSjtUzbSFPUQczD"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Sign Language",
+        "url": "https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 140214,
+      "name": "Sign Language",
+      "url": "https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -313,24 +349,56 @@
       "url": "https://open.spotify.com/track/4EdBC32i66Ctblo1tMQfbJ"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Had To Make It",
-        "url": "https://open.spotify.com/album/1PZpVsOgwl3RVlxNED29T8"
+        "name": "Comme Des Garcons",
+        "url": "https://open.spotify.com/album/5TwL6oF6Qm1XzBeWUEBmRM"
       },
       "artists": [
         {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Deaf Heff",
-          "url": "https://open.spotify.com/artist/5yxNTNGqpVWW0PJfjbEHMm"
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
         }
       ],
-      "duration_ms": 148656,
-      "name": "Had To Make It",
-      "url": "https://open.spotify.com/track/1M4NvJMwto2EtgrJPmtzif"
+      "duration_ms": 162006,
+      "name": "Comme Des Garcons",
+      "url": "https://open.spotify.com/track/5lamyzmrRFRxN5G6LKh2Gk"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Born 2 Win Vol. 2",
+        "url": "https://open.spotify.com/album/3b5ii1hsl1HF9Sx4SBkQYS"
+      },
+      "artists": [
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        }
+      ],
+      "duration_ms": 144410,
+      "name": "Fareal",
+      "url": "https://open.spotify.com/track/4Du4omwisfR2FHo9SkivzE"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Parkside Baby",
+        "url": "https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 123411,
+      "name": "Pistol Packin",
+      "url": "https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -527,26 +595,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Check In",
-        "url": "https://open.spotify.com/album/2T8KVNfTxXLHFvLfa0f4C3"
-      },
-      "artists": [
-        {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
-        },
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        }
-      ],
-      "duration_ms": 183633,
-      "name": "Check In",
-      "url": "https://open.spotify.com/track/4Hpv7FUy6cFLvLR8DSRruJ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
       },
@@ -559,74 +607,6 @@
       "duration_ms": 172361,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Ryde Or Die",
-        "url": "https://open.spotify.com/album/0pD50gJOsHZftHefNLG3EL"
-      },
-      "artists": [
-        {
-          "name": "Ryck Jane",
-          "url": "https://open.spotify.com/artist/6lWPolCNG1jubEet7J5Nrr"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Ryde Or Die",
-      "url": "https://open.spotify.com/track/3tRzODNuhFkLo7l0QoaN1r"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Ask The Opps 2 (feat. Pacman Da Gunman)",
-        "url": "https://open.spotify.com/album/7qiXopB8Af9JDAjuwsHxXi"
-      },
-      "artists": [
-        {
-          "name": "Yhung T.O.",
-          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
-        },
-        {
-          "name": "Pacman da Gunman",
-          "url": "https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2"
-        }
-      ],
-      "duration_ms": 163509,
-      "name": "Ask The Opps 2 (feat. Pacman Da Gunman)",
-      "url": "https://open.spotify.com/track/4xNLmmCJ0JostGDK7zefuo"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Elon",
-        "url": "https://open.spotify.com/album/44Hk4tGww4UmX2BSEC6W39"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Elon",
-      "url": "https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "I Guess",
-        "url": "https://open.spotify.com/album/0iNo8CyiLfDf2oTgMoStcj"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 176704,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/4ruLf1oN8eOxgLDdapGg7j"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -647,6 +627,22 @@
       "duration_ms": 186122,
       "name": "Say Lady",
       "url": "https://open.spotify.com/track/0DxmOT2FElosMIw0LHerwC"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "4 The Real",
+        "url": "https://open.spotify.com/album/5OTCP2orKZla0RaQY2uD29"
+      },
+      "artists": [
+        {
+          "name": "Bale",
+          "url": "https://open.spotify.com/artist/0aCVyvK8ZJp1c3nArx8Sy6"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "4 The Real",
+      "url": "https://open.spotify.com/track/2TAXaIr65WqsK4FrQ2I4n6"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -923,22 +919,6 @@
       "duration_ms": 168510,
       "name": "LET ME KNO SUM",
       "url": "https://open.spotify.com/track/3TzOCLcooFojGEQoysyM7i"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-06-24 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Perfume
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,145 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,158 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 20 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 |
 | 21 | [ring ring, you kill me](https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Killer in Neverland](https://open.spotify.com/album/6vOSP7R3SEdTMgZm90GunD) | 3:10 |
 | 22 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 |
-| 23 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 |
+| 23 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 24 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 |
 | 25 | [ニッポン笑顔百景 \-ZZ ver.\-](https://open.spotify.com/track/2U69kVLGLVdOtzWK2UAsbg) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 3:53 |
 | 26 | [原宿いやほい](https://open.spotify.com/track/5hJO3V0WVGPSSJEHRQCqIC) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [じゃぱみゅ](https://open.spotify.com/album/3cuyBP6yrFniMuoc3gIac2) | 3:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 47 | [Choose me](https://open.spotify.com/track/130dsYbbXp9jQnETiJ7axI) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Daydreaming/Choose me](https://open.spotify.com/album/6u0ZnCbMJZdi07crl7hAnE) | 3:41 |
 | 48 | [de messiah](https://open.spotify.com/track/3KnUNThgGLUcGMTiOtyPYl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 3:48 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMGFmYjg3MzdjZTVmZmY0ZGE4Y2EzOGRhZDAyY2M2MDAw`
+Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMGFlNzEzMjY2YmYyOTE4MjY4MjM0NzQzZWZmMDZjOWEy`

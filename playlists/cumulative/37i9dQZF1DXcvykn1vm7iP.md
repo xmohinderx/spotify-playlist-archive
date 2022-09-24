@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-81 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+82 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-08-05 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-08-05 |  |
 | [Here & Now](https://open.spotify.com/track/0MzwONXcdPaDdsEy1SQwKm) | [Faye Brinkmann](https://open.spotify.com/artist/34THtJSLQbUmVxt5BxcmpC) | [Here & Now](https://open.spotify.com/album/1ZEALWmQkIP4kMFGvBqD4Y) | 3:08 | 2022-08-05 |  |
+| [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 | 2022-08-05 |  |
 | [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 | 2022-08-05 |  |

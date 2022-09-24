@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-92 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+93 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Solitário Vampiro](https://open.spotify.com/track/6fOvrxj71Ca9o3lxdzLDCb) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Solitário Vampiro](https://open.spotify.com/album/72wrW8pvGiNe0tHy3SjNn9) | 4:52 | 2022-07-08 |  |
 | [Sônia](https://open.spotify.com/track/7pkLnsHPaM5PA0PPeIQZTA) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Sônia](https://open.spotify.com/album/0EpXl3Ne4z8ZNOO6vrPUVh) | 2:56 | 2022-05-20 |  |
 | [tempestade](https://open.spotify.com/track/4S6nAoxoOEve9gsTd2Fe4q) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [liia](https://open.spotify.com/artist/3setKCH8KPW9lBrJRvpzcx) | [tempestade](https://open.spotify.com/album/7pVqjPSxPgEIZfg8rIPqXi) | 2:30 | 2022-05-20 |  |
+| [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 |  |
 | [Tão Difícil Pra Nós](https://open.spotify.com/track/7wI2dHN8AyuS8zvPnGfS6z) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Tão Difícil Pra Nós](https://open.spotify.com/album/5Qa3CVlRwpLzJTlN6NBxc6) | 2:17 | 2022-06-24 |  |
 | [Utopia Em Sétima Arte](https://open.spotify.com/track/1e8bhMOq2kzJ7Onm6PrXqQ) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Utopia Em Sétima Arte](https://open.spotify.com/album/5MVXWqnRbzsWjHg1ntooAY) | 5:01 | 2022-05-20 |  |
 | [Vazio Existencial](https://open.spotify.com/track/5L2qdvLOqZ6VtLJTm1jmfl) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb) | [Vazio Existencial](https://open.spotify.com/album/4nH3T3kvlGk9Jc7stU1n0G) | 2:35 | 2022-05-20 |  |

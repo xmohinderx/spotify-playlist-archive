@@ -2,9 +2,9 @@
 
 ### [The 2022 Latin GRAMMYs Nominees](https://open.spotify.com/playlist/37i9dQZF1DWYNJw9kXuSCt)
 
-> These are nominees for the 2022 Latin GRAMMYs.
+> These are the nominees for the 2022 Latin GRAMMYs.
 
-149 songs - 8 hr 43 min - not published yet
+149 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/0dCZWjdvmpZmHTm4DVGHGv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

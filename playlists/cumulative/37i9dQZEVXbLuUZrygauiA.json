@@ -2951,7 +2951,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 174933,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/2t4Xr23WCRxao3l6EdJaXY"
@@ -3921,7 +3921,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 282829,
       "name": "Himno Nacional Mexicano",
       "url": "https://open.spotify.com/track/6WbxsSeaWPfYaz7X1pceoh"
@@ -4127,7 +4127,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -6229,7 +6229,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 209213,
       "name": "M\u00e9xico En La Piel",
       "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
@@ -6385,7 +6385,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 173119,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
@@ -8189,6 +8189,24 @@
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "album": {
+        "name": "Now, Then & Forever",
+        "url": "https://open.spotify.com/album/2L8rj8VnahryOqg7vKHYzx"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw"
     },
     {
       "album": {

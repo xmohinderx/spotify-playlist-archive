@@ -4,12 +4,12 @@
 
 > the perfect fight scene
 
-131 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+133 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
-| [90mh](https://open.spotify.com/track/2wzPI8E6xhswusjuFAP7rW) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/2fVFQwzs6D0PSfUiXWkfZA) | 2:23 | 2022-09-15 |  |
+| [90mh](https://open.spotify.com/track/2wzPI8E6xhswusjuFAP7rW) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/2fVFQwzs6D0PSfUiXWkfZA) | 2:23 | 2022-09-15 | 2022-09-24 |
 | [90mh](https://open.spotify.com/track/3Njj92H4LXQq551pOR7vZE) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/5QehQyl95YcyakJAjvOdw2) | 2:23 | 2022-08-05 | 2022-09-09 |
 | [90mh](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [90mh](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 2:23 | 2022-06-10 | 2022-09-19 |
 | [99.9](https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw), [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [99.9](https://open.spotify.com/album/5sjhfZ28ERosz4yEraPQ8V) | 3:08 | 2022-09-02 | 2022-09-15 |
@@ -28,7 +28,7 @@
 | [Bluebird](https://open.spotify.com/track/09NzUAxEYgwlzlsx0z0Om7) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Bluebird](https://open.spotify.com/album/7F1O7eIMsLzwpLVcRMe9ka) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2022-05-25 |  |
 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 | 2022-05-25 |  |
-| [Bunny Thot](https://open.spotify.com/track/0kNkyCg59tcaSGyoC2ByTX) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Bunny Thot](https://open.spotify.com/album/6r47V8OZ8MfTn7kYborLxU) | 1:31 | 2022-05-25 |  |
+| [Bunny Thot](https://open.spotify.com/track/0kNkyCg59tcaSGyoC2ByTX) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Bunny Thot](https://open.spotify.com/album/6r47V8OZ8MfTn7kYborLxU) | 1:31 | 2022-05-25 | 2022-09-24 |
 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 | 2022-05-25 |  |
 | [chichen itza](https://open.spotify.com/track/7nLbEx8juSAeanLzMjYhpT) | [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [chichen itza](https://open.spotify.com/album/2q4Iee4RTN2CiPasPyY2vm) | 2:11 | 2022-05-25 |  |
 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 | 2022-06-10 |  |
@@ -49,6 +49,7 @@
 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 | 2022-05-25 |  |
 | [Gxth B!tch](https://open.spotify.com/track/47waplZLdcwNwtVUtQI9h8) | [Live Solum](https://open.spotify.com/artist/24wU3BBK0ZKIiSZq3zi9ZV) | [Gxth B!tch](https://open.spotify.com/album/6l54NDbgveDA1Lboi9xoBd) | 1:56 | 2022-06-10 | 2022-09-22 |
 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 | 2022-05-25 |  |
+| [hate if ur mad](https://open.spotify.com/track/58o6AY4WfMsGlVrpfsbtGs) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/album/63heSQkoOwkxslMsR623dg) | 2:23 | 2022-09-23 |  |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2022-05-25 |  |
 | [Heat Signature](https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Heat Signature](https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz) | 2:00 | 2022-05-27 |  |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2022-05-25 |  |
@@ -126,6 +127,7 @@
 | [VIVID VICE](https://open.spotify.com/track/1a1b22lYmn0y5YPJUGFCqb) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [WⅡ](https://open.spotify.com/album/2B9qHYgb5Si7LbG42Uv1rC) | 3:03 | 2022-05-25 | 2022-06-11 |
 | [Wano](https://open.spotify.com/track/4ZU0Une8oHy3YP9aEHxtu3) | [954mari](https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm) | [Wano](https://open.spotify.com/album/2nlH87Nh0S0PGIO3XCTVtS) | 1:51 | 2022-06-21 | 2022-06-30 |
 | [WE BOUT TO GET DOWN](https://open.spotify.com/track/4IeV5yYwvdDbQ2fjniu97W) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [WE BOUT TO GET DOWN](https://open.spotify.com/album/5Cx08DAI2KlOfK3ksE7B4v) | 1:23 | 2022-06-28 |  |
+| [WHACK!](https://open.spotify.com/track/5TGcpYaVo5OGJ608tAKfbL) | [XENO!](https://open.spotify.com/artist/0Zhp7Jl5kuU0dSLqSxZJuS) | [WHACK!](https://open.spotify.com/album/4fgk8saepYzheELu01rJsq) | 2:16 | 2022-09-23 |  |
 | [Wind \(Naruto\) \- Trap Remix](https://open.spotify.com/track/2LmyFJW92BeYl0qdH3ztiO) | [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3), [Tha J\-SQUAD](https://open.spotify.com/artist/1GaBxa6meZLiIEHjCIzEzb) | [Wind \(Naruto\) \[Trap Remix\]](https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7) | 3:00 | 2022-06-21 | 2022-07-27 |
 | [You Are Weak](https://open.spotify.com/track/01aKVGWw3AWlQz3oBGl4oO) | [Cassanova](https://open.spotify.com/artist/4ZRk4osI9p0fYRIATEG1zO) | [You Are Weak](https://open.spotify.com/album/7sdJRlKuNfCWvE3YeW3PEC) | 1:40 | 2022-06-16 | 2022-07-09 |
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2022-06-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Braxton Cook",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Adam Blackstone",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201386,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4YWcqhvOl8TrUTaNpeEPx7"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 264299,
       "name": "Crown",
       "url": "https://open.spotify.com/track/4zMxWSP2qZUy5CBCH5PdzZ"
@@ -2166,6 +2166,42 @@
     },
     {
       "album": {
+        "name": "Feel It Comin",
+        "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205685,
+      "name": "Feel It Comin - Single Version",
+      "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
+    },
+    {
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+    },
+    {
+      "album": {
         "name": "Fix It",
         "url": "https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL"
       },
@@ -2281,6 +2317,32 @@
       "duration_ms": 227160,
       "name": "For The City [feat. Fly Anakin]",
       "url": "https://open.spotify.com/track/0UlU9xMt2bOQP8w8PaUMrG"
+    },
+    {
+      "album": {
+        "name": "Eat The Kiwi Skin",
+        "url": "https://open.spotify.com/album/6jM0K3vCvXWLeq5pr9G9Lb"
+      },
+      "artists": [
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Mercy's Cartel",
+          "url": "https://open.spotify.com/artist/40zUW1LtekgXK3fjG6jHJv"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "For Those Who Love...",
+      "url": "https://open.spotify.com/track/0SQ2FfWwOLAZQ6nyZJvJMm"
     },
     {
       "album": {
@@ -2818,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo"
+      },
+      "artists": [
+        {
+          "name": "George White Group",
+          "url": "https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188446,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj"
+    },
+    {
+      "album": {
         "name": "Identity Crisis",
         "url": "https://open.spotify.com/album/1aveWj0GQHHhovTcz1tpRt"
       },
@@ -2873,7 +2953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 155784,
       "name": "If Possible",
       "url": "https://open.spotify.com/track/6Mnam5P5Y6HANmqQGXPgHS"
@@ -3312,6 +3392,32 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173285,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3WTAzJLGxBLvgzPKdcn7Zo"
+    },
+    {
+      "album": {
         "name": "Lemon Squeezy / Afrique",
         "url": "https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp"
       },
@@ -3601,7 +3707,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 230626,
       "name": "Memories About You",
       "url": "https://open.spotify.com/track/1EbgExplpQm5vWtDGguojA"
@@ -4147,7 +4253,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 234857,
       "name": "Oh Really? (feat. Kiefer)",
       "url": "https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW"
@@ -4331,7 +4437,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 182052,
       "name": "Personal",
       "url": "https://open.spotify.com/track/0j7Z2IptRFKFlPWllx63hx"
@@ -6653,6 +6759,40 @@
       "duration_ms": 237240,
       "name": "Without You, Within Me - Radio Edit",
       "url": "https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI"
+    },
+    {
+      "album": {
+        "name": "World Tour",
+        "url": "https://open.spotify.com/album/4vzLCoahP66GqaHMT0t9GR"
+      },
+      "artists": [
+        {
+          "name": "Young RJ",
+          "url": "https://open.spotify.com/artist/5KBwAQ3DCGfHNdAcFr4eSh"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Sorry Drummer",
+          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
+        },
+        {
+          "name": "Rebel Kuzco",
+          "url": "https://open.spotify.com/artist/5EoF6y6Of0pqpQQXoubsh0"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167488,
+      "name": "World Tour",
+      "url": "https://open.spotify.com/track/4xElmn7BQfsHRns1UMP8dU"
     },
     {
       "album": {

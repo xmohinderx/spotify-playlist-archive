@@ -4,7 +4,7 @@
 
 > autumn leaves falling like pieces into place
 
-100 songs - 6 hr 39 min - not published yet
+100 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/2OpSbK6iQOXEIaFpfFSyeZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -144,6 +144,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/1pC2NZxGKQUsW5dy5dKd74"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131904,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/1BexE9djGgIapZuU4Gu4TU"
+    },
+    {
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1378,6 +1396,32 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6BN3Lbc5hDErlomk6zgpJh"
+      },
+      "artists": [
+        {
+          "name": "Feb",
+          "url": "https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa"
+        },
+        {
+          "name": "KPLR",
+          "url": "https://open.spotify.com/artist/7wovvpD23QhAuKTtMzJxbQ"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140684,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1k4mn7Rb1DeNxWBs6fmanW"
+    },
+    {
+      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -1853,7 +1897,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
@@ -1993,6 +2037,28 @@
       "duration_ms": 214000,
       "name": "Love Again - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+    },
+    {
+      "album": {
+        "name": "Love Me Now (feat. FAST BOY)",
+        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152581,
+      "name": "Love Me Now (feat. FAST BOY)",
+      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
     },
     {
       "album": {
@@ -2577,7 +2643,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160796,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/1bTklSZ4YHKCEnGKLVBquU"
@@ -3183,7 +3249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"

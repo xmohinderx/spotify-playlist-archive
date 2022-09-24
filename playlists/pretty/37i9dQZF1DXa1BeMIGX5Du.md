@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,928 likes - 82 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,230 likes - 82 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 29 | [I Don't Need Anything But My Love](https://open.spotify.com/track/0CHud82a2uwfmsBAitedCZ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [I Don't Need Anything But My Love](https://open.spotify.com/album/4HiwMkcHk1XTyio65cqotK) | 2:54 |
 | 30 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 |
 | 31 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 32 | [Smile At The Party](https://open.spotify.com/track/6fwipwQY4OF3qGbvUtByiy) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/65s5nzkC6FW6UUQcxpHdxE) | 4:26 |
+| 32 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
 | 33 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 34 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 35 | [Delusional](https://open.spotify.com/track/1ZuT3WXc8VkSxGTGY9Pm4g) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/2WhyFL6JiegvEYGUasRomx) | 4:10 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 81 | [Civilized](https://open.spotify.com/track/3bQvM3YOC0CLeqZuKwHTZP) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Civilized](https://open.spotify.com/album/1iJwOG1p3lEd5DAw8s76Vq) | 3:25 |
 | 82 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMGJiZjVjZGI2MzRmNTAzYzRiMzA0MjlkZjhjYjY0ZGYy`
+Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMDExZDNjODM4MWNhN2I5YTg0MTA1YzkwZjViZTJiMjFl`

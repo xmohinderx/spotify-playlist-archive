@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Arabian Spa",
+        "url": "https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Concepts",
+          "url": "https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88014,
+      "name": "Arabian Spa",
+      "url": "https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R"
+    },
+    {
+      "album": {
         "name": "Argentum",
         "url": "https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4"
       },

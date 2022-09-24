@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-123 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+124 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Kiss Tomorrow Goodbye](https://open.spotify.com/track/3loYYWdPlLiUCq1jiSPfT6) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:23 | 2022-06-01 |  |
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2021-12-03 | 2022-07-16 |
 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 | 2021-12-03 |  |
+| [Like A Boy](https://open.spotify.com/track/1ibBdYjfVVqFOA04Q0NnJ6) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:43 | 2022-09-23 |  |
 | [Liquor & Pills](https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY) | 4:15 | 2022-07-25 |  |
 | [Liquor & Pills](https://open.spotify.com/track/3aFLplWuvf4IqbtE9KcgKf) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/4Z9MHCJdlwqQSA970lXlPx) | 4:15 | 2021-12-03 | 2022-07-29 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2021-12-03 |  |

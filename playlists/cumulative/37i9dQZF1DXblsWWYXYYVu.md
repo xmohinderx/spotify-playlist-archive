@@ -4,11 +4,11 @@
 
 > Relax and take it slow today
 
-150 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+152 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 | 2021-04-19 |  |
+| [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 | 2021-04-19 | 2022-09-24 |
 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 | 2021-04-19 | 2022-04-29 |
 | [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 | 2021-04-19 |  |
 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 3:24 | 2021-04-19 |  |
@@ -43,6 +43,7 @@
 | [Hindsight](https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:01 | 2021-04-19 |  |
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |
+| [I Built a Fire](https://open.spotify.com/track/5plnYnHtDhx07GQ7Y6U9x1) | [Michael Waite](https://open.spotify.com/artist/1zsZIdjHBdFZbc3o6cDg0n) | [I Built a Fire](https://open.spotify.com/album/2xHXt469EhlfjfWd15ZJTe) | 3:54 | 2022-09-23 |  |
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 |  |
 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
 | [I Don't Wanna See You Cryin' Anymore](https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW) | 3:43 | 2021-04-19 | 2022-04-29 |
@@ -63,6 +64,7 @@
 | [Looks Like Me \- Piano Acoustic](https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me \(Acoustic\)](https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS) | 3:05 | 2021-11-26 |  |
 | [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 | 2022-03-18 |  |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-07-29 |
+| [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 | 2022-09-23 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 |  |
 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 | 2022-03-18 |  |
 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 | 2021-04-19 | 2022-07-29 |
@@ -156,7 +158,7 @@
 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 | 2021-04-19 |  |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-02 |  |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-04-19 |  |
-| [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 | 2021-04-19 |  |
+| [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 | 2021-04-19 | 2022-09-24 |
 | [You Don't Have to Be Sorry](https://open.spotify.com/track/0lUv6PZaaUxQBZaeTJihGf) | [Ryan Dilmore](https://open.spotify.com/artist/4B8TXOImx4gm4RraBvUZHr) | [You Don't Have to Be Sorry](https://open.spotify.com/album/3HVU2CppIWKtWNvOpxlOd9) | 2:33 | 2021-04-19 |  |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

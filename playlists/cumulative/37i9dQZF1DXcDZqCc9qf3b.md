@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites, such as The Sea Beast.
+> Groove to music from your Netflix Kids favorites, such as Ivy + Bean.
 
-79 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
+80 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [If It's To Be \- From "Maya And The Three" \- A Netflix Animated Event](https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [If It's To Be \(From "Maya And The Three" \- A Netflix Animated Event\)](https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX) | 3:34 | 2022-04-08 |  |
 | [It Takes Two \- Theme Song](https://open.spotify.com/track/3WWpdKMbTca5o8d5yhWyaL) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie It Takes Two \(Original Series Soundtrack\)](https://open.spotify.com/album/2mXF94JoueENMjvZFVhzth) | 1:06 | 2022-04-08 |  |
 | [It's All Me \(From The Netlix Series: "Ridley Jones" Vol\. 2\)](https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 2\)](https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU) | 1:03 | 2022-04-08 |  |
+| [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3VcxoYyUcIPoZU1yIVQvhi) | 4:10 | 2022-09-23 |  |
 | [Let's Go Make A Memory](https://open.spotify.com/track/2QE54qAFv2rEEKZf6eqY9P) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:33 | 2022-04-08 |  |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov) | 3:23 | 2022-04-08 | 2022-07-29 |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 | 2022-07-08 |  |

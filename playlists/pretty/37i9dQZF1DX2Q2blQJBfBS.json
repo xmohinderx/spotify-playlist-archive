@@ -1,60 +1,44 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 127576,
+  "num_followers": 127885,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGJkY2U1NTdkMjNlOTQxNWUwMTZlMTQzZDU4NzBlNzYx",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDU0MjdmMGU0OWYyODJjZTJkZDAyZGYwYzQ2MzBjZGQ2",
   "tracks": [
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo"
+        "name": "Casual Presents: Smash Rockwell",
+        "url": "https://open.spotify.com/album/2Wn9Why4hKomsSUUYTuPAP"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Casual",
+          "url": "https://open.spotify.com/artist/4OpQJMrOpOEYgYoU0Ihku3"
         }
       ],
-      "duration_ms": 157540,
-      "name": "Kool Aid & Frozen Pizza",
-      "url": "https://open.spotify.com/track/2TyjVO7KBdGHBvQxAnFFsa"
+      "duration_ms": 206173,
+      "name": "Say That Then",
+      "url": "https://open.spotify.com/track/6B4WPxFLNJr0PQquDjL01V"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Revolver Ocelot",
-        "url": "https://open.spotify.com/album/6ZYvIuXFhdBLt0dxiKFvjV"
+        "name": "TOGO",
+        "url": "https://open.spotify.com/album/4YfJzbel4jLZHlqs1UdVC7"
       },
       "artists": [
         {
-          "name": "Jae Skeese",
-          "url": "https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ"
-        },
-        {
-          "name": "Auragino",
-          "url": "https://open.spotify.com/artist/5mJ2KfashFFiXIZyE0n4im"
-        },
-        {
-          "name": "7xvethegenius",
-          "url": "https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "IESHA GREEN",
-          "url": "https://open.spotify.com/artist/3oQcI707N2fztntaoG2BjV"
+          "name": "Josiah the Gift",
+          "url": "https://open.spotify.com/artist/6f4ZTudUcGN9K907jtpsR7"
         }
       ],
-      "duration_ms": 295494,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/0TDd7NiWHEMPDhYveqAl8f"
+      "duration_ms": 120340,
+      "name": "The Professional",
+      "url": "https://open.spotify.com/track/0m6iNbMBEMSF9no5rA4Fk1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -393,20 +377,20 @@
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 290573,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/2TyjVO7KBdGHBvQxAnFFsa"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "NOTORIOUS Music From and Inspired by the Original Motion Picture",
-        "url": "https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Party and Bullshit - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T"
+      "duration_ms": 290573,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -479,6 +463,22 @@
       "duration_ms": 331937,
       "name": "The Last Huzzah!",
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "NOTORIOUS Music From and Inspired by the Original Motion Picture",
+        "url": "https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Party and Bullshit - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
-    },
-    {
       "added_at": "2022-06-24 12:00:00",
       "album": {
         "name": "Krohmeconut Wolf",
@@ -631,6 +615,22 @@
       "duration_ms": 146947,
       "name": "Krohmeconut Wolf",
       "url": "https://open.spotify.com/track/0DZVkUkr5udpeqlv2lfWdB"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Jazzy Belle",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 241133,
       "name": "Coolie High",
       "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Jazzy Belle",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1741,6 +1741,22 @@
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Aethiopes",
@@ -1803,22 +1819,6 @@
       "duration_ms": 107379,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1963,22 +1963,6 @@
       "duration_ms": 257142,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
-    },
-    {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Deathfame",
-        "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
-      },
-      "artists": [
-        {
-          "name": "Quelle Chris",
-          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
-        }
-      ],
-      "duration_ms": 205428,
-      "name": "DEATHFAME",
-      "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     }
   ],
   "unique_name": "The Skate Shop",

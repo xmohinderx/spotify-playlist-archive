@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-259 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+260 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2022-05-27 | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-07-22 |  |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-06-22 |  |
-| [Confidant](https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI) | 3:35 | 2022-09-13 |  |
+| [Confidant](https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI) | 3:35 | 2022-09-13 | 2022-09-24 |
 | [Confidant](https://open.spotify.com/track/7zlckzgewNsSzwIwfmCeqG) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Confidant](https://open.spotify.com/album/6q2QTDDF2WkZcIGS8ofPzx) | 3:35 | 2021-06-22 | 2022-07-29 |
 | [Cool Again \- Stripped](https://open.spotify.com/track/1sCqAU8UKMoRmcT7RdhtuP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again \(Stripped\)](https://open.spotify.com/album/1Nw273rJFagR1MtlqvG8Iy) | 3:03 | 2021-06-22 | 2022-07-29 |
 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 | 2021-06-22 | 2022-07-29 |
@@ -125,6 +125,7 @@
 | [Home](https://open.spotify.com/track/7F5hhaayrqMjBz0cykBSQn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Home](https://open.spotify.com/album/7FDhk932YsB1sRp3JV4NAY) | 2:29 | 2021-06-22 | 2022-05-28 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-05-27 |  |
 | [I Believe in Us](https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [I Believe in Us](https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf) | 3:22 | 2021-06-22 | 2022-07-29 |
+| [I Can't Love You Anymore](https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 2:49 | 2022-09-23 |  |
 | [I Give You The Best](https://open.spotify.com/track/22RSxuePk8ZGWbjLFqXlwC) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [I Give You The Best](https://open.spotify.com/album/6Qqy2rTKHoGwEO4N2m0fE6) | 3:36 | 2021-06-22 | 2022-02-19 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-22 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-06-22 | 2022-07-29 |

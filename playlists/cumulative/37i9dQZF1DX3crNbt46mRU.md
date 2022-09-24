@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Sido
 
-3,367 songs - 7 day 4 hr 43 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,370 songs - 7 day 4 hr 52 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 | 2022-04-07 | 2022-04-15 |
 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 | 2022-04-14 | 2022-04-22 |
 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 | 2022-04-07 | 2022-04-15 |
+| [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-09-23 |  |
 | [Airbnb](https://open.spotify.com/track/4unbMZzQ28yrCQDcY4Xeb8) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Airbnb](https://open.spotify.com/album/4tsXBZyCcZN9sdCp67JeQM) | 2:47 | 2022-05-12 | 2022-05-20 |
 | [Airpods](https://open.spotify.com/track/03mjb0H1vNx4GSLXFvJNbm) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Airpods](https://open.spotify.com/album/2gLVpWxwLVUnqDsQTn04RU) | 2:21 | 2022-03-10 | 2022-03-18 |
 | [Alive](https://open.spotify.com/track/19td0tf6MLgYb3Jsa6DHJ8) | [Eros Atomus](https://open.spotify.com/artist/7tuxPiWabpzARnTXy5QoR1) | [Alive](https://open.spotify.com/album/362ToGYkAZHdKUDOw7lE34) | 2:41 | 2022-02-11 | 2022-02-18 |
@@ -709,6 +710,7 @@
 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-06-09 | 2022-06-17 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-09-23 |
 | [Dans les règles](https://open.spotify.com/track/2alIDGhHXNyYP0EcqHJXbE) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6gSQuY4uHKWzLXMnx1Hezx) | 3:12 | 2022-03-31 | 2022-04-08 |
+| [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 |  |
 | [Dark Room Dancing](https://open.spotify.com/track/679SXsixSVonKMi6nC4v7o) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L) | 4:37 | 2022-06-16 | 2022-06-24 |
 | [Dark Side](https://open.spotify.com/track/0ffZl8nHpmMesahaYDj5Ni) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Dark Side](https://open.spotify.com/album/5EDKglDBNDRGaeuTQ0ZiC3) | 2:11 | 2022-02-24 | 2022-03-04 |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/08gwzwooUMBPa51lLiD9Ub), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-05-05 | 2022-05-13 |
@@ -1399,6 +1401,7 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-28 | 2022-05-06 |
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-02 | 2022-06-10 |
 | [I Feel Fine](https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7) | 3:18 | 2022-09-08 | 2022-09-16 |
+| [I Feel Love](https://open.spotify.com/track/54eti8CxzBFYUNRB5UQDbp) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [I Feel Love](https://open.spotify.com/album/3RQNWINhsWeNOHptBCPtFH) | 2:52 | 2022-09-23 |  |
 | [I Find It Hard](https://open.spotify.com/track/3HXMz5tYDJtmNonmSgHHDQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Find It Hard](https://open.spotify.com/album/4qzkCfIM5aVj23w3BzKYC8) | 2:58 | 2022-07-21 | 2022-07-29 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-08-19 |
 | [i h8 that i still feel bad for u](https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i h8 that i still feel bad for u](https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd) | 2:55 | 2022-02-11 | 2022-02-18 |

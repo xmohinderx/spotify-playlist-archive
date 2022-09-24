@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-320 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
+321 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-01-07 | 2022-04-07 |
 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 | 2022-01-07 | 2022-04-16 |
 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 | 2022-01-07 | 2022-04-14 |
+| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-09-23 |  |
 | [Ghost \- Bounce Inc\. & Mairee Remix](https://open.spotify.com/track/1P9dPTbYJcLWCbuM78JzN5) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q), [Bounce Inc.](https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Ghost \(Remixes\)](https://open.spotify.com/album/4QULdjGMudDihOa4Xrn0gN) | 2:29 | 2022-05-27 | 2022-05-31 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-22 | 2022-05-27 |
 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-05-20 |  |
@@ -238,7 +239,7 @@
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-03-11 |  |
 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 | 2022-05-27 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-09-12 |  |
-| [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-09-09 |  |
+| [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-09-09 | 2022-09-24 |
 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 | 2022-01-07 | 2022-05-07 |
 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 | 2022-01-07 | 2022-05-07 |
 | [Reflections](https://open.spotify.com/track/4HRVvrMFXvtSnw3J3knPV1) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/4lMXaQ2EwU0JcpW3RJEEUf) | 4:27 | 2022-01-07 | 2022-04-09 |

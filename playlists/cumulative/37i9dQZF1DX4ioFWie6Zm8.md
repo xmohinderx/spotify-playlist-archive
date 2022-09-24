@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-101 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/1bxRtWCU4mLIX5e781d1zw)
+102 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/1bxRtWCU4mLIX5e781d1zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo \(Real World Gold\)](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2022-08-05 |  |
 | [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 | 2022-08-05 |  |
 | [Oni Yalorde](https://open.spotify.com/track/5iz4vxakmdHfmZIyYdhp6P) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX) | [Transparent Water](https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O) | 3:53 | 2022-08-05 |  |
-| [Pierrette](https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 4:12 | 2022-08-05 |  |
+| [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 | 2022-08-05 |  |
+| [Pierrette](https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 4:12 | 2022-08-05 | 2022-09-24 |
 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 | 2022-08-05 |  |
 | [Salubrité](https://open.spotify.com/track/6bWVW40nFfIG0uxav8lKwS) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:18 | 2022-08-05 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-08-05 |  |

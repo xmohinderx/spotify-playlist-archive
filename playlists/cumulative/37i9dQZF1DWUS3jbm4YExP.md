@@ -2,9 +2,9 @@
 
 ### [Global Groove](https://open.spotify.com/playlist/37i9dQZF1DWUS3jbm4YExP)
 
-> Groovy sounds from around the world.
+> Groovy sounds from around the world\. Khruangbin & Vieux Farka Touré on cover.
 
-446 songs - 1 day 9 hr 8 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+448 songs - 1 day 9 hr 15 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2021-10-06 | 2022-07-28 |
 | [Dia Ja Manche](https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo \(Analog Africa No\. 20\)](https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz) | 4:36 | 2021-10-06 | 2022-04-21 |
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 | 2022-08-14 |
+| [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 | 2022-09-23 |  |
 | [Dikeledi](https://open.spotify.com/track/3mtjdT43Up9Pc9KtW83hVP) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Dikeledi](https://open.spotify.com/album/2GR1zXgXwMbNYG2gKGTPNR) | 8:58 | 2021-10-06 | 2022-07-23 |
 | [Dilo Como Yo \- Te Están Llamando](https://open.spotify.com/track/5GKQp4zdAk3AImdUyo2WJq) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/3O6b6MH9EP29MNr9UIWDlb) | 4:15 | 2021-10-06 | 2022-04-12 |
 | [Disco](https://open.spotify.com/track/70ThS2cVhjUIb7y6LwulYP) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Disco](https://open.spotify.com/album/1xTedBWcskAxKEr1tVzRQZ) | 10:46 | 2021-10-06 | 2022-06-30 |
@@ -141,6 +142,7 @@
 | [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 | 2022-07-29 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/1r2ZYOuhyyMDDCEMkYZV4U) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Awakening](https://open.spotify.com/album/76gQRKAN8Hs5lSjts05FpV) | 6:32 | 2021-10-06 | 2022-04-21 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2021-10-06 | 2022-06-01 |
+| [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
 | [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 | 2022-07-28 |
 | [Festa na Praia](https://open.spotify.com/track/0Is39OnMsWNLRoWomgVbne) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Festa na Praia](https://open.spotify.com/album/2CThhhWYRRGGG4MOIYlEGs) | 4:11 | 2021-10-06 | 2022-04-19 |
@@ -286,7 +288,7 @@
 | [Murkit Gem](https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:12 | 2021-10-06 |  |
 | [Murkit Gem](https://open.spotify.com/track/7JLRUxp5qbK2OGUq9Bbqga) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season](https://open.spotify.com/album/1XRAj74N3EDQ0suMb5qplS) | 3:12 | 2021-10-06 | 2022-07-29 |
 | [Musa Paradisa](https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 4:44 | 2021-10-06 | 2022-09-12 |
-| [Mushroom Samba](https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mushroom Samba](https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2) | 4:10 | 2022-08-03 |  |
+| [Mushroom Samba](https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mushroom Samba](https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2) | 4:10 | 2022-08-03 | 2022-09-24 |
 | [Météw Byen](https://open.spotify.com/track/7Ei31Z09xAuNQHOw7Vlk4w) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [Météw Byen](https://open.spotify.com/album/1BI6PFcuX5kvWFlvhc3DGL) | 4:06 | 2021-10-06 | 2022-04-19 |
 | [Música Huanca](https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Música Huanca](https://open.spotify.com/album/1jEJCXRSZAmsnDwMcIfHGP) | 1:56 | 2021-10-06 | 2022-04-18 |
 | [Nadie](https://open.spotify.com/track/2XoNKg4B4K3dt04S6fnZc6) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E), [JO BISSA](https://open.spotify.com/artist/1NU9e1MfhFQWRZIuvpoMSj) | [Nadie](https://open.spotify.com/album/5K0CcRXYR7rntpAsxIEMZ8) | 4:14 | 2022-04-22 | 2022-05-25 |
@@ -409,7 +411,7 @@
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-28 |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
-| [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2022-08-19 |  |
+| [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2022-08-19 | 2022-09-24 |
 | [Tucheza \- Esa Extended Mix](https://open.spotify.com/track/3NFRY3bt1rsgyVmM15fJve) | [Ze Spirits Band](https://open.spotify.com/artist/07NE1hzpDhvTw4vriH5Ec5), [Esa Williams](https://open.spotify.com/artist/7aYAOm7Y43oWIXMYILSlPH) | [Tucheza \(Esa Extended Mix\)](https://open.spotify.com/album/6CLvBUW4Y6m0Nt3KZNqsm9) | 4:57 | 2021-10-06 | 2022-04-13 |
 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 | 2022-08-09 |  |
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2021-12-08 | 2022-05-07 |

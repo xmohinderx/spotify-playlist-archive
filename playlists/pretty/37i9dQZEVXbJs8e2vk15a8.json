@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70697,
+  "num_followers": 70704,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE3MTY0MjEwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE3MjUwMTY4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Los Chamantos de Mi Chile",
         "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/4JFQK4fLPGusx5I3fM22qi"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "La Chilena",
-        "url": "https://open.spotify.com/album/1XPWanbGINioCUy42JoNoO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Lefenda",
-          "url": "https://open.spotify.com/artist/3uzbVuzs2mfZtJdOHVhWCr"
-        }
-      ],
-      "duration_ms": 367638,
-      "name": "La Chilena",
-      "url": "https://open.spotify.com/track/7vaGvRNVdwimNo6EDflHC8"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "SALGO A KAZARTE",
-        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
-      },
-      "artists": [
-        {
-          "name": "Dunkan",
-          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
-        }
-      ],
-      "duration_ms": 193619,
-      "name": "SALGO A KAZARTE",
-      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
@@ -121,7 +89,39 @@
       "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del R\u00edo",
+          "url": "https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "SALGO A KAZARTE",
+        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
+      },
+      "artists": [
+        {
+          "name": "Dunkan",
+          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
+        }
+      ],
+      "duration_ms": 193619,
+      "name": "SALGO A KAZARTE",
+      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
@@ -169,39 +169,7 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "La Vida en Versos..",
-        "url": "https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy"
-      },
-      "artists": [
-        {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Te Amo en Silencio",
-      "url": "https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL"
-      },
-      "artists": [
-        {
-          "name": "Los Reales Del R\u00edo",
-          "url": "https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV"
-        }
-      ],
-      "duration_ms": 188471,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -217,7 +185,23 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "La Vida en Versos..",
+        "url": "https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Te Amo en Silencio",
+      "url": "https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
@@ -237,7 +221,7 @@
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
@@ -253,7 +237,7 @@
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -273,55 +257,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 110053,
-      "name": "Te Miro la Cara y Me Da Sed",
-      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -337,7 +273,23 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -353,7 +305,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "2 Shipitia (Tio Rene)",
         "url": "https://open.spotify.com/album/78OSmbJ65RpJAkTU2QFERt"
@@ -369,7 +321,23 @@
       "url": "https://open.spotify.com/track/5nWNZN5yHShizC96Ojs9wP"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
@@ -397,7 +365,23 @@
       "url": "https://open.spotify.com/track/5dqsBNMcoZdZSkdtAKmaQz"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 110053,
+      "name": "Te Miro la Cara y Me Da Sed",
+      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Me Gusta el Vino",
         "url": "https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc"
@@ -413,23 +397,23 @@
       "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+      "duration_ms": 163282,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
@@ -453,10 +437,10 @@
       "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "V16",
-        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
       },
       "artists": [
         {
@@ -466,10 +450,10 @@
       ],
       "duration_ms": 119106,
       "name": "V16",
-      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
+      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/50Jia45UGODmMpts9hRFD7"
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/41P6ybfLDI9qb7ZhAYlKMT"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Nilda Moya la Pirilacha",
         "url": "https://open.spotify.com/album/7GfWwTAjb2i1Gb49Ie6TKW"
@@ -505,23 +489,7 @@
       "url": "https://open.spotify.com/track/39Tix2LMbFHyZHJoNLXbUO"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "La Mejor Fiesta Dieciochera",
-        "url": "https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 463253,
-      "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
-      "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
@@ -541,7 +509,7 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Radetzky y Otras Marchas",
         "url": "https://open.spotify.com/album/0nVVHulneZbNkzt0JexGvh"
@@ -561,23 +529,23 @@
       "url": "https://open.spotify.com/track/0K7k6dYM3E6VbHszkR4Tpo"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
+        "name": "La Mejor Fiesta Dieciochera",
+        "url": "https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H"
       },
       "artists": [
         {
-          "name": "Rapanui Hinariru",
-          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
         }
       ],
-      "duration_ms": 154489,
-      "name": "Uru Te Hami",
-      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
+      "duration_ms": 463253,
+      "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
+      "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
@@ -593,55 +561,7 @@
       "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 138160,
-      "name": "Seremos Uno",
-      "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 140013,
-      "name": "Ay Cari\u00f1o",
-      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Chile Tipico Vol.3 Camino De Luna",
-        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
-      },
-      "artists": [
-        {
-          "name": "Silvia Infantas Y Los Condores",
-          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
-        }
-      ],
-      "duration_ms": 127613,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Pato Feo Soy Yo",
         "url": "https://open.spotify.com/album/79PhZtwHOT9HTzavAUuGfp"
@@ -657,7 +577,7 @@
       "url": "https://open.spotify.com/track/6bK2pgaYV5XAilxpDLRfnA"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -677,7 +597,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -693,75 +613,7 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Cueca Quien Diria",
-        "url": "https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alerzal De Los Rios",
-          "url": "https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC"
-        }
-      ],
-      "duration_ms": 138384,
-      "name": "Cueca Quien Diria",
-      "url": "https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Los Cuatro Cuartos",
-          "url": "https://open.spotify.com/artist/3lV7wbQLW7J7JKGo1nZwHU"
-        }
-      ],
-      "duration_ms": 111960,
-      "name": "Los Viejos Estandartes",
-      "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Mas De 100 Cuecas - Para No Parar Be Bailar",
-        "url": "https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 363640,
-      "name": "El Guant\u00f3n Loyola / La Rosa Con el Clavel / La Consentida",
-      "url": "https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
-      "album": {
-        "name": "Caminemos de la Mano",
-        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Caminemos de la Mano",
-      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
-    },
-    {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Caile vs Relacion Intro",
         "url": "https://open.spotify.com/album/1kqq18ZWliMWRCzOBX5LAg"
@@ -781,7 +633,7 @@
       "url": "https://open.spotify.com/track/7ylfFWPWp7LU3A9tD2Dks6"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
@@ -797,23 +649,43 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
+        "name": "Cueca Quien Diria",
+        "url": "https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+          "name": "Grupo Alerzal De Los Rios",
+          "url": "https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC"
         }
       ],
-      "duration_ms": 141954,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
+      "duration_ms": 138384,
+      "name": "Cueca Quien Diria",
+      "url": "https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
       "album": {
         "name": "Quiero Pelarme",
         "url": "https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU"
@@ -837,52 +709,180 @@
       "url": "https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "Himnos Nacionales De Latino America",
-        "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
       },
       "artists": [
         {
-          "name": "Orquesta Filarm\u00f3nica internacional",
-          "url": "https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK"
+          "name": "Rapanui Hinariru",
+          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
         }
       ],
-      "duration_ms": 232844,
-      "name": "Himno Nacional De Chile",
-      "url": "https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu"
+      "duration_ms": 154489,
+      "name": "Uru Te Hami",
+      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
       },
       "artists": [
         {
-          "name": "Conjunto Alerce",
-          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
         }
       ],
-      "duration_ms": 113400,
-      "name": "El Costillar",
-      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+      "duration_ms": 140013,
+      "name": "Ay Cari\u00f1o",
+      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
     },
     {
-      "added_at": "2022-09-22 12:16:50",
+      "added_at": "2022-09-23 12:09:28",
       "album": {
-        "name": "Vuelve a Empezar...",
-        "url": "https://open.spotify.com/album/0jz6DTuF6Z4hCADpov1CMd"
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
       },
       "artists": [
         {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+          "name": "Los Cuatro Cuartos",
+          "url": "https://open.spotify.com/artist/3lV7wbQLW7J7JKGo1nZwHU"
         }
       ],
-      "duration_ms": 145386,
-      "name": "Desde Que No Estas Presente",
-      "url": "https://open.spotify.com/track/6y6uv2CQPUgTEcS5eJb7nS"
+      "duration_ms": 111960,
+      "name": "Los Viejos Estandartes",
+      "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 138160,
+      "name": "Seremos Uno",
+      "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "|BONKERS|",
+        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
+      },
+      "artists": [
+        {
+          "name": "staplegun",
+          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
+        }
+      ],
+      "duration_ms": 212335,
+      "name": "|BONKERS|",
+      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Mas De 100 Cuecas - Para No Parar Be Bailar",
+        "url": "https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 363640,
+      "name": "El Guant\u00f3n Loyola / La Rosa Con el Clavel / La Consentida",
+      "url": "https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Chile Tipico Vol.3 Camino De Luna",
+        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
+      },
+      "artists": [
+        {
+          "name": "Silvia Infantas Y Los Condores",
+          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
+        }
+      ],
+      "duration_ms": 127613,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Mora (ALOCATE REMAKE)",
+        "url": "https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z"
+      },
+      "artists": [
+        {
+          "name": "44musicla",
+          "url": "https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza"
+        }
+      ],
+      "duration_ms": 188929,
+      "name": "Mora (ALOCATE REMAKE)",
+      "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "Pa K Te Enamore",
+        "url": "https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "Tarima",
+      "url": "https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk"
+    },
+    {
+      "added_at": "2022-09-23 12:09:28",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
     }
   ],
   "unique_name": "Viral 50 - Chile",

@@ -1,13 +1,49 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 8715,
+  "num_followers": 8754,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDYzODVkMjY0ZDU0MjY2YjczY2NkODlkYzlhN2ZhNDRk",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGUyODI5NzA2ZTc5ZDIxY2E0YWUwMjdjMzM5MjcyMGMx",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Go Steady",
+        "url": "https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC"
+      },
+      "artists": [
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        },
+        {
+          "name": "Saucy Lady",
+          "url": "https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Go Steady",
+      "url": "https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Nowhere But Up",
+        "url": "https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 235887,
+      "name": "Nowhere But Up",
+      "url": "https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i"
+    },
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
@@ -25,40 +61,24 @@
       "url": "https://open.spotify.com/track/6UUmEKtqOuhpUO0nJFzNKW"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "give me your love",
-        "url": "https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko"
+        "name": "U Got Me Good / Dance All Night",
+        "url": "https://open.spotify.com/album/4fa6071D0P1jvjIf4mh7rO"
       },
       "artists": [
         {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
-        }
-      ],
-      "duration_ms": 207225,
-      "name": "give me your love",
-      "url": "https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Get It Together",
-        "url": "https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI"
-      },
-      "artists": [
-        {
-          "name": "Moniquea",
-          "url": "https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28"
+          "name": "Mishell Ivon",
+          "url": "https://open.spotify.com/artist/5PAXTWUw6VJdKHpGafv7yd"
         },
         {
-          "name": "XL Middleton",
-          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+          "name": "Andrew Napoleon",
+          "url": "https://open.spotify.com/artist/4KT3b8EB95e3gD5d9nIo5M"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Get It Together",
-      "url": "https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4"
+      "duration_ms": 246375,
+      "name": "U Got Me Good",
+      "url": "https://open.spotify.com/track/41FpAljevedgZgroxHNGXi"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -83,6 +103,54 @@
       "duration_ms": 220420,
       "name": "Discoman",
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Don't Love You, and Other Lies",
+        "url": "https://open.spotify.com/album/7C4MqDBPoCkuyiFtKJNaYr"
+      },
+      "artists": [
+        {
+          "name": "PARRIS MITCHELL",
+          "url": "https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "your only",
+      "url": "https://open.spotify.com/track/2urUyLEw87dTDkTi2nd1O4"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "give me your love",
+        "url": "https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "duration_ms": 207225,
+      "name": "give me your love",
+      "url": "https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 184907,
+      "name": "Call It a Trend",
+      "url": "https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -121,6 +189,22 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Cheugy",
+        "url": "https://open.spotify.com/album/4eGjF5hIXSaDxeMB0GNV4Q"
+      },
+      "artists": [
+        {
+          "name": "BEMY",
+          "url": "https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb"
+        }
+      ],
+      "duration_ms": 134734,
+      "name": "Cheugy",
+      "url": "https://open.spotify.com/track/4rJNySDhvNZoxACncMIPaA"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Pootie Tang (G.T.K.Y)",
@@ -135,6 +219,22 @@
       "duration_ms": 212867,
       "name": "Pootie Tang (G.T.K.Y)",
       "url": "https://open.spotify.com/track/64cbbJwQHReRmRaXCZO07f"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX"
+      },
+      "artists": [
+        {
+          "name": "Skunkhour",
+          "url": "https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF"
+        }
+      ],
+      "duration_ms": 242238,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -155,6 +255,26 @@
       "duration_ms": 199426,
       "name": "Good Fever",
       "url": "https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI"
+      },
+      "artists": [
+        {
+          "name": "Moniquea",
+          "url": "https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4"
     },
     {
       "added_at": "2022-08-19 04:02:00",

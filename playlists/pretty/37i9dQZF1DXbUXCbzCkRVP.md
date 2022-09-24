@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,023 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,065 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 49 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
 | 50 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 |
 
-Snapshot ID: `MTY1OTEwNTUzMiwwMDAwMDAwMGVlMGM2ODY1NDRiNjk3Y2M4MDMwOTM1NDcxYmFhMTNi`
+Snapshot ID: `MTY2Mzk0Nzk3MywwMDAwMDAwMGEyMzYwNzAzM2E4M2ZkZGY0ZDM3OTNiYjRhOGUzZWU1`

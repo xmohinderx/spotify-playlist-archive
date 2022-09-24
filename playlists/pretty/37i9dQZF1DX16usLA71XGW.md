@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their musical element.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-222 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+225 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Diversion](https://open.spotify.com/track/7JLzO4QgVDx218l8fgR82Q) | [pesto tree](https://open.spotify.com/artist/56eBOoNdnXvjDoAZXIaqed) | [Diversion](https://open.spotify.com/album/3sqCrCoaNRMuGINil1780f) | 1:48 | 2022-09-16 |  |
 | [Down](https://open.spotify.com/track/0xVjY67TqBmcKbMAXvbXxj) | [Link Dazel](https://open.spotify.com/artist/4dXSgsuSetXmBSf36iMWPF) | [Princess Z](https://open.spotify.com/album/0GpxSYKMNJVI70VTUsrW1p) | 1:15 | 2022-05-20 | 2022-09-09 |
 | [dreams come true.](https://open.spotify.com/track/4USjqfvjPVm54YaZs6g8uc) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [dreams come true.](https://open.spotify.com/album/62LXbn400PEKpHZwQWsUBf) | 2:13 | 2022-05-20 |  |
+| [dusty dusk](https://open.spotify.com/track/6ds12VXR1FTsDQHgikkdio) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [dusty dusk](https://open.spotify.com/album/4K6VZZP6z42MI1ei3nzvk8) | 2:27 | 2022-09-23 |  |
 | [early birds](https://open.spotify.com/track/0hAVPGHwhiaAfwEQaMVsbG) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [ghost & nature](https://open.spotify.com/album/4GYfLtvKi4R23EBOy2SsV8) | 2:22 | 2022-08-05 |  |
 | [Earth Travellers](https://open.spotify.com/track/34ooA9e9hIcyrgfEViDSro) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Earth Travellers](https://open.spotify.com/album/1RYeR5qubHWn1FTVgYJHKw) | 2:00 | 2022-05-20 |  |
 | [Echoes of Silence](https://open.spotify.com/track/3hoq3WoxZyDpGHnKwfLmuh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x) | [Longing For You Pt\. II](https://open.spotify.com/album/2AFmdqxYFexeVyNNiTmbjg) | 2:31 | 2022-08-19 |  |
@@ -130,6 +131,7 @@
 | [MOON](https://open.spotify.com/track/7pwGTxTO5UlVDsbVKkZFPX) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [MOON](https://open.spotify.com/album/7GGjVVLMJb0FG1LQkGKCCe) | 1:45 | 2022-05-20 |  |
 | [Morning](https://open.spotify.com/track/22xSHJxnzwtEO2qph3rmrs) | [KV](https://open.spotify.com/artist/2sdQEitmjfbyoATb6OfkEi) | [Morning](https://open.spotify.com/album/2f8CymR5NiP99UKLAPPQrm) | 2:24 | 2022-06-17 |  |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2022-05-20 |  |
+| [morning dew](https://open.spotify.com/track/2mQngCMZk73zFBrhvvPmhP) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [morning dew](https://open.spotify.com/album/39FdsBSKXGu4YVFP6aPOSF) | 2:06 | 2022-09-23 |  |
 | [Morning Java](https://open.spotify.com/track/6ZR06hw7mZv51TCEtPugrx) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Morning Java](https://open.spotify.com/album/4uwuvTuePXeiV5FNkv3pv2) | 2:08 | 2022-08-19 |  |
 | [Morning Routine](https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw) | 0:59 | 2022-08-05 |  |
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 |  |
@@ -225,6 +227,7 @@
 | [whale tale](https://open.spotify.com/track/6B7wBkh0TOpn8MPWYLRO3z) | [Edwinn](https://open.spotify.com/artist/5MGZZJ42ckotNMrC7mxIDE) | [whale tale](https://open.spotify.com/album/7KMUOBXOItn4Yvd4mfalH1) | 2:10 | 2022-05-20 |  |
 | [What I Wouldn't Give](https://open.spotify.com/track/3RzhjKBCVghvkRStpV23Ua) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [The Love of Others](https://open.spotify.com/album/4rAf6xMcvu5nqVa10IwVoT) | 2:51 | 2022-05-20 | 2022-06-17 |
 | [What Is Your Story?](https://open.spotify.com/track/4TR425bbXD95wspJRqroWJ) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [What Is Your Story?](https://open.spotify.com/album/1SkfVYardPOl3Piwd9nH4m) | 2:14 | 2022-08-12 |  |
+| [Wind In Your Hair](https://open.spotify.com/track/62C1GZiAPZTP5aBXIqgW4c) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Wind In Your Hair](https://open.spotify.com/album/1ccqNGL7JEoo3LYjzXVi6E) | 2:47 | 2022-09-23 |  |
 | [With The Flow](https://open.spotify.com/track/315f5pmGe8a0AW7d3umluS) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [With The Flow](https://open.spotify.com/album/57rI5hxOpdIK3fO7IyNoOO) | 2:18 | 2022-09-16 |  |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |
 | [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 | 2022-06-17 |

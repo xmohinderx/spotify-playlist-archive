@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,203,878 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,204,605 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 95 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 96 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
 | 97 | [Running](https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Running](https://open.spotify.com/album/0vo1z2pTCnhlzrXgEmNlXw) | 3:05 |
-| 98 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
-| 99 | [Dancing In The Moonlight \(feat\. NEIMY\) \- Tiësto Remix](https://open.spotify.com/track/3dgVBgrgHLzbhAYepa1V1V) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Dancing In The Moonlight \(feat\. NEIMY\) \[Tiësto Remix\]](https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM) | 2:27 |
-| 100 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 |
+| 98 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 |
+| 99 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
+| 100 | [Dancing In The Moonlight \(feat\. NEIMY\) \- Tiësto Remix](https://open.spotify.com/track/3dgVBgrgHLzbhAYepa1V1V) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Dancing In The Moonlight \(feat\. NEIMY\) \[Tiësto Remix\]](https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM) | 2:27 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDViMzcwYTAyNDYyNzcxZTMxOTM3MTU3MjZiMjFkNzVm`
+Snapshot ID: `MTY2Mzk0ODIwMCwwMDAwMDAwMDUwZmZlY2M4YjkxZWM2NWEwMjY3Yjk2NzE0YTI2OTI5`

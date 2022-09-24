@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Jazmine Sullivan",
+  "description": "Jazz voices of today. Cover: Gregory Porter",
   "name": "Vocal Jazz",
   "published_playlist_ids": [
     "1MJcLwlhyaudSQhL0k2nLU"
@@ -75,6 +75,28 @@
       "duration_ms": 312253,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/7gdQMVRLL96TvTdcYbYM6d"
+    },
+    {
+      "album": {
+        "name": "'Tis Autumn",
+        "url": "https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Pat LaBarbera",
+          "url": "https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9"
     },
     {
       "album": {
@@ -253,6 +275,28 @@
       "duration_ms": 412360,
       "name": "Ac-Cent-Tchu-Ate the Positive",
       "url": "https://open.spotify.com/track/1pRD5gxep0gQ83BCaAJidl"
+    },
+    {
+      "album": {
+        "name": "Fifty",
+        "url": "https://open.spotify.com/album/1qYfeHecAvcQ75M8TSFIbf"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        },
+        {
+          "name": "WDR Funkhausorchester",
+          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387811,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5oXYiDhcYxKIc6GF5ZVIpB"
     },
     {
       "album": {
@@ -625,7 +669,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 376647,
       "name": "As This Moment Slips Away (feat. Terri Lyne Carrington)",
       "url": "https://open.spotify.com/track/06Odwz1tS483XEyDrhUgfV"
@@ -785,10 +829,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 236319,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/6WPm9arPzfEBqlPo1gtMzb"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199594,
+      "name": "Back On the Strip",
+      "url": "https://open.spotify.com/track/70L68SZMPhmOAZnfymArW3"
     },
     {
       "album": {
@@ -1237,7 +1303,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "B\u00e9same Mucho - Special Edition",
       "url": "https://open.spotify.com/track/77so3u1Ms5JZXH4UqLEU27"
@@ -1281,7 +1347,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 259851,
       "name": "Cafe Gitane",
       "url": "https://open.spotify.com/track/5tABHkUoSrbkckheW29aOy"
@@ -1381,7 +1447,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 181055,
       "name": "Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/6gU3kujsZNf3er1OJUbZFn"
@@ -1867,7 +1933,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 366306,
       "name": "Cover Up",
       "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
@@ -4451,7 +4517,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213232,
       "name": "it's alright",
       "url": "https://open.spotify.com/track/0McrsC4SQOTU0tBrxZIaBV"
@@ -6919,7 +6985,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 261614,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/4h81nhqJF8r4Fx6DXSecYF"
@@ -7521,6 +7587,28 @@
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "album": {

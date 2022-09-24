@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvina Moreno",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
   "name": "Cancionistas",
   "published_playlist_ids": [
     "7ol1MtyC0pTpJPNWYLEPMP"
@@ -919,6 +919,24 @@
       "duration_ms": 185036,
       "name": "Chavela",
       "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
+    },
+    {
+      "album": {
+        "name": "Chiquero",
+        "url": "https://open.spotify.com/album/4d5ehZJs19ElinrhzQfcPY"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166427,
+      "name": "Chiquero",
+      "url": "https://open.spotify.com/track/21zM9ws5MnmhXd0YObWzKf"
     },
     {
       "album": {
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 217656,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/464DSYjNhBCD15Xh0B41rK"
@@ -3319,7 +3337,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
@@ -3656,6 +3674,28 @@
     },
     {
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro"
+      },
+      "artists": [
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211277,
+      "name": "Palabras de Amor",
+      "url": "https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM"
+    },
+    {
+      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -3711,7 +3751,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
@@ -5141,7 +5181,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 157522,
       "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
       "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
@@ -5247,6 +5287,24 @@
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI"
+    },
+    {
+      "album": {
+        "name": "Una herida",
+        "url": "https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182404,
+      "name": "Una herida",
+      "url": "https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy"
     },
     {
       "album": {
@@ -5617,7 +5675,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196762,
       "name": "Y Arder\u00e1n",
       "url": "https://open.spotify.com/track/1OlodnuRTxve00lxntQVqC"

@@ -4,10 +4,11 @@
 
 > Great food, good company and some soft music.
 
-415 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+417 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:47 | 2022-09-23 |  |
 | [1975](https://open.spotify.com/track/3gBieBvsatYFgiG5K129ds) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:10 | 2022-01-27 | 2022-09-05 |
 | [A Case of You](https://open.spotify.com/track/7bBk7t8uxtYm6UXjlUm2zN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [A Tribute to Joni Mitchell](https://open.spotify.com/album/6bVE0WDWHM9h7Ghiwjua5T) | 3:30 | 2022-01-27 | 2022-07-29 |
 | [A Safe Place to Land \(feat\. John Legend\)](https://open.spotify.com/track/1NEJ8gJxZ12mBertXyrRb5) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Amidst the Chaos](https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt) | 4:29 | 2022-01-27 | 2022-07-29 |
@@ -189,7 +190,7 @@
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2022-01-27 |  |
 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 | 2022-01-27 |  |
 | [Isn't It A Pity \- Session Outtakes And Jams / Take 27](https://open.spotify.com/track/5Okjy6xlIGoHmdfiYCjVl9) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Isn't It A Pity/All Things Must Pass/Cosmic Empire /Run Of The Mill](https://open.spotify.com/album/0XYu51u65pNPZJr2RQd52o) | 4:59 | 2022-01-27 | 2022-07-29 |
-| [Isn't It Romantic](https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Stardust...The Great American Songbook III](https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU) | 3:50 | 2022-01-27 |  |
+| [Isn't It Romantic](https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Stardust...The Great American Songbook III](https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU) | 3:50 | 2022-01-27 | 2022-09-24 |
 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 | 2022-07-08 |  |
 | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/track/2qhfWLkKqWripwiw8DJdGU) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:34 | 2022-07-08 |  |
 | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/track/7cDe66xC16bLKEqqBgoYtd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [It Wasn't Easy To Be Happy For You](https://open.spotify.com/album/3KcAvJj74W48ZPCh10EpBX) | 3:34 | 2022-01-27 | 2022-07-29 |
@@ -235,6 +236,7 @@
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2022-07-08 |  |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/3RoZqntWw5zzeLUyewnDBm) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You \(Acoustic\)](https://open.spotify.com/album/4twS0ttG97Gtu0roSQ8mKg) | 3:11 | 2022-01-27 | 2022-07-29 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2022-07-08 | 2022-09-12 |
+| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-09-23 |  |
 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 |  |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-05-27 |  |
 | [Miss You](https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Miss You](https://open.spotify.com/album/0joGNhmxUTBvrldTNr8LCy) | 3:18 | 2022-01-27 | 2022-07-25 |
@@ -261,7 +263,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 | 2022-01-27 |  |
 | [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 | 2022-07-08 |  |
 | [Not Today \- From "Me Before You" Soundtrack](https://open.spotify.com/track/3EJPT32ZJdZkml81KqHrO5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Not Today \(From "Me Before You" Soundtrack\)](https://open.spotify.com/album/1JLNmnLzT4MDYrsXh918Wp) | 4:21 | 2022-05-02 | 2022-06-21 |
-| [Now & Then](https://open.spotify.com/track/6XcfREZnkvLzUF7FmCIViL) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Now & Then](https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI) | 3:02 | 2022-08-19 |  |
+| [Now & Then](https://open.spotify.com/track/6XcfREZnkvLzUF7FmCIViL) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Now & Then](https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI) | 3:02 | 2022-08-19 | 2022-09-24 |
 | [OK](https://open.spotify.com/track/0fSrMPwErHXvwzcsFZvVXH) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/7sTuh30QQXqIZggwFc7ikE) | 3:32 | 2022-05-11 | 2022-07-29 |
 | [OK](https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A) | 3:32 | 2022-07-08 |  |
 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 4:58 | 2022-01-27 |  |

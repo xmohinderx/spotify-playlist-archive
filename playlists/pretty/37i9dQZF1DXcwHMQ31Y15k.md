@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,857 likes - 79 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,010 likes - 79 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-125 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+127 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [Halcyon Spirits \- Piano Version](https://open.spotify.com/track/11dnGiLu18HIRfvv3R4KSC) | [Asabea Wheeler](https://open.spotify.com/artist/48ZJv6xlsgG8EdgJt4SOBZ) | [Halcyon Spirits \- Piano Version](https://open.spotify.com/album/54cADoFNfqePV34OpI3QiR) | 2:42 | 2021-12-23 |  |
 | [Healing](https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M) | [Dawn Sankrit](https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU) | [Healing](https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8) | 2:57 | 2021-12-23 |  |
 | [Healing](https://open.spotify.com/track/6mJ76GdI4fm2ThsC4strZf) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Healing](https://open.spotify.com/album/66EpFlO3P3shI4Rirpds8U) | 3:36 | 2021-12-23 | 2022-08-16 |
-| [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-12-23 |  |
+| [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-12-23 | 2022-09-24 |
 | [High Pasture](https://open.spotify.com/track/4gPAwN97TyeEc9rUUkrIpg) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Archives \- Heights](https://open.spotify.com/album/7ih4Ho4K6pFp9TNhh0COGJ) | 8:19 | 2021-12-23 |  |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-23 |  |
+| [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-23 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2021-12-23 |  |
 | [Last Night](https://open.spotify.com/track/2Vym0Tv6thUuR2a3TP3d1N) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Last Night](https://open.spotify.com/album/4sYHodiEVNoJljEE7mVfFt) | 3:30 | 2021-12-23 |  |
@@ -82,7 +83,7 @@
 | [Opal](https://open.spotify.com/track/0HUjGplgKAsG0roDYuAWzr) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Opal](https://open.spotify.com/album/7pqkV4CidH4eiKB1FrpQ3e) | 3:11 | 2022-02-18 |  |
 | [Orca Matriarch](https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Orca Matriarch](https://open.spotify.com/album/1u5jX2gYozad5UWrIIoqSa) | 3:59 | 2021-12-23 |  |
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2021-12-23 |  |
-| [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2021-12-23 |  |
+| [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2021-12-23 | 2022-09-24 |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2021-12-23 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-05-25 | 2022-09-03 |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-23 |  |
@@ -103,7 +104,8 @@
 | [Sleep](https://open.spotify.com/track/1UYojuIrBcwtyoOEpGYWCy) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Land of Dreams](https://open.spotify.com/album/0ws1Hx2UOl1SPyN84QgWzE) | 3:19 | 2021-12-23 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 | 2021-12-23 |  |
 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 | 2021-12-23 |  |
-| [Small Sprites](https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe) | [Along We Tumble](https://open.spotify.com/artist/1afeM9wpVryFnkVrmhk8Kz) | [Eigenvalues](https://open.spotify.com/album/7u87pvBz1KLsYvem6j5pa9) | 3:16 | 2021-12-23 |  |
+| [Small Sprites](https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe) | [Along We Tumble](https://open.spotify.com/artist/1afeM9wpVryFnkVrmhk8Kz) | [Eigenvalues](https://open.spotify.com/album/7u87pvBz1KLsYvem6j5pa9) | 3:16 | 2021-12-23 | 2022-09-24 |
+| [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-23 |  |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2021-12-23 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-12-23 |  |

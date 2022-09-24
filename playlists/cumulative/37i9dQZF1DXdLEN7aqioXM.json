@@ -1668,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/3YoxddtXSFXuu2eP6ueosY"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311412,
+      "name": "Escaping the Void",
+      "url": "https://open.spotify.com/track/67oYdAby38ElzDhS6S7mWN"
+    },
+    {
+      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
       },
@@ -1897,6 +1915,32 @@
       "duration_ms": 168000,
       "name": "Firefall",
       "url": "https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC"
+    },
+    {
+      "album": {
+        "name": "Flashbacks (Arcade High Remix)",
+        "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
+      },
+      "artists": [
+        {
+          "name": "W O L F C L U B",
+          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
+        },
+        {
+          "name": "Dora Pereli",
+          "url": "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
+        },
+        {
+          "name": "Arcade High",
+          "url": "https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232411,
+      "name": "Flashbacks (Arcade High Remix)",
+      "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
     },
     {
       "album": {
@@ -2227,7 +2271,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 253902,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw"
@@ -2375,7 +2419,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 210857,
       "name": "Higher - Radio Edit",
       "url": "https://open.spotify.com/track/5OymWMtaWum6xk1lOTyPUR"
@@ -2523,7 +2567,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 440760,
       "name": "Hounds of Hell",
       "url": "https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC"
@@ -3023,6 +3067,28 @@
       "duration_ms": 235636,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/1xp4lcRDfFI60eOl1t4C0r"
+    },
+    {
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218787,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz"
     },
     {
       "album": {

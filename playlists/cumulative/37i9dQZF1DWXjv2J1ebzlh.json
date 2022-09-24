@@ -2315,6 +2315,24 @@
     {
       "album": {
         "name": "Diabar",
+        "url": "https://open.spotify.com/album/2hzBB3EziMHVUpb8II3Kgb"
+      },
+      "artists": [
+        {
+          "name": "Gestu De Dakar",
+          "url": "https://open.spotify.com/artist/6a9kyFqiltFaSfJju9tl4h"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Anina",
+      "url": "https://open.spotify.com/track/5YfefnbzjQLvX7RYrs8TPX"
+    },
+    {
+      "album": {
+        "name": "Diabar",
         "url": "https://open.spotify.com/album/2QLdxF7C5qmkvT1q7AktyE"
       },
       "artists": [
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 263400,
       "name": "Anina",
       "url": "https://open.spotify.com/track/3oMVb1sInS7pKvZsjOJYZd"
@@ -14946,6 +14964,24 @@
     },
     {
       "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "L'enfant et la gazelle",
+      "url": "https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O"
+    },
+    {
+      "album": {
         "name": "The Guinea Years",
         "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
       },
@@ -14957,7 +14993,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 225893,
       "name": "L'enfant et la gazelle",
       "url": "https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX"
@@ -19375,6 +19411,24 @@
     {
       "album": {
         "name": "The Syliphone Years",
+        "url": "https://open.spotify.com/album/1oV4yfmtveTEAPn4HIANJU"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "N'na Soba",
+      "url": "https://open.spotify.com/track/1timhDqYURgJM2NrVTwnky"
+    },
+    {
+      "album": {
+        "name": "The Syliphone Years",
         "url": "https://open.spotify.com/album/381UsJGR0d6qCE1nALVzyG"
       },
       "artists": [
@@ -19385,7 +19439,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 261920,
       "name": "N'na Soba",
       "url": "https://open.spotify.com/track/4hl0ppTzQevcO5v9xzE4TQ"
@@ -21623,10 +21677,28 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 462000,
       "name": "Paulette",
       "url": "https://open.spotify.com/track/0xLRcC54BxwGkDw09zJqrS"
+    },
+    {
+      "album": {
+        "name": "Objectif perfection",
+        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462000,
+      "name": "Paulette",
+      "url": "https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7"
     },
     {
       "album": {
@@ -25551,10 +25623,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 268360,
       "name": "Tambourinis cocktail",
       "url": "https://open.spotify.com/track/3TqBA2OTBT7mWJVVYRRTDz"
+    },
+    {
+      "album": {
+        "name": "The Syliphone Years",
+        "url": "https://open.spotify.com/album/0wfvZa4g95JMDkSAWDZexC"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9l\u00e9tigui et ses Tambourinis",
+          "url": "https://open.spotify.com/artist/16BMfvnMLTwlyjxXolrIWr"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268360,
+      "name": "Tambourinis cocktail",
+      "url": "https://open.spotify.com/track/3s2WeGkdFhRhcYGbPJWZfF"
     },
     {
       "album": {

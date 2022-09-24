@@ -4,7 +4,7 @@
 
 > Al corazón!
 
-255 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
+256 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,11 @@
 | [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 | 2022-07-22 |  |
 | [Escapate Conmigo](https://open.spotify.com/track/1qArUAxHiNOkigGwOLoMAF) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Ya No Llores](https://open.spotify.com/album/7lwRCZvuiKzDc0v9n0Nb5i) | 3:09 | 2022-01-14 | 2022-07-29 |
 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 | 2022-01-21 | 2022-07-17 |
-| [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 | 2022-01-14 |  |
+| [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 | 2022-01-14 | 2022-09-24 |
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 |  |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 | 2022-01-21 |  |
+| [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 |  |
 | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/track/2TWtjWp7zaw9siAhd2MUVp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/album/1A7rfMPCgZk7Ck8HhfdJZQ) | 5:53 | 2022-01-21 | 2022-05-28 |
 | [Fue Difícil](https://open.spotify.com/track/3p9UeIicVHsdEUBucLJqes) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/0cWsxDLP7WMqbs6Yiui0yH) | 3:46 | 2022-03-11 | 2022-07-29 |
 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 | 2022-07-22 |  |

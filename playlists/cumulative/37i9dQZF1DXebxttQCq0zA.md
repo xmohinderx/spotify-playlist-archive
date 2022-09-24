@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-255 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+257 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2022-05-25 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-25 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-05-25 | 2022-09-03 |
+| [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [Amoralis](https://open.spotify.com/track/2mTpYXCPuy7FVLyi958Qpl) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Amoralis](https://open.spotify.com/album/1O1xjqTSjZzCmAMIGNYYwg) | 4:13 | 2022-05-25 |  |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2022-05-25 |  |
 | [Angalalluarina](https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Angalalluarina](https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2) | 4:00 | 2022-05-25 |  |
@@ -212,6 +213,7 @@
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-05-25 |  |
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-05-25 |  |
 | [Smyrna](https://open.spotify.com/track/3Gyss6Qzd4cHxfxciKAPc7) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0imOiiDynHggx316VKVNuN) | 3:18 | 2022-05-25 | 2022-06-25 |
+| [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-23 |  |
 | [Soft Waves and Relaxing Piano 2](https://open.spotify.com/track/1uwgFTlhVezGm03UgDZ6jX) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Soft Waves and Relaxing Piano](https://open.spotify.com/album/6MwZDExAHrpKWbTmnGDf7Y) | 3:29 | 2022-05-25 |  |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-05-25 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-05-25 |  |

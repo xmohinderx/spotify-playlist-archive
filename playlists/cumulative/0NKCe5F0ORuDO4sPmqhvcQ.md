@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-312 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+313 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 | 2022-04-08 |  |
 | [Stay \- Slow Magic Remix](https://open.spotify.com/track/7311fH65MZV550TYVwRfFG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 |  |
 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 | 2022-03-18 | 2022-03-31 |
+| [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 |  |
 | [Sun & Moon \- Manila Killa Remix](https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [10 Years of Group Therapy](https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw) | 4:13 | 2022-01-07 | 2022-06-28 |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-07-07 |  |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-02-01 |

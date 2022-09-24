@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,546 likes - 150 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,027 likes - 150 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

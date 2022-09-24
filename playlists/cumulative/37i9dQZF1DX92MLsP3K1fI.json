@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 236613,
       "name": "Bailando al Amanecer",
       "url": "https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 220492,
       "name": "Eclipse de Luna - Edici\u00f3n Especial",
       "url": "https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa"
@@ -1938,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "Lo M\u00e1s Seguro Es Que Qui\u00e9n Sabe",
+        "url": "https://open.spotify.com/album/6wSMFRm8HwZI7ygxo0zS0L"
+      },
+      "artists": [
+        {
+          "name": "Famasloop",
+          "url": "https://open.spotify.com/artist/0XHiwpimzCx4fWUdtniRC7"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "Por ti",
+      "url": "https://open.spotify.com/track/1bgpFTASKqTZiBXjM3somT"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/08UCL77Bqi7KC6XSjkVgLN"
       },
@@ -2011,6 +2029,24 @@
       "duration_ms": 164400,
       "name": "Rubia O Morena",
       "url": "https://open.spotify.com/track/2VR24KhfUigt65Ta92WUEQ"
+    },
+    {
+      "album": {
+        "name": "Se Pone A Beber",
+        "url": "https://open.spotify.com/album/7wYM9wF9zYryzFz9yWabuA"
+      },
+      "artists": [
+        {
+          "name": "Saak",
+          "url": "https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Se Pone A Beber",
+      "url": "https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yahritza y Su Esencia en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-89 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
+90 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [No Tengo Escape](https://open.spotify.com/track/7vHICHFIVRi5lTMaAOPEoB) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Una Ocasión De Verano](https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO) | 2:35 | 2022-08-05 |  |
 | [Nuestra Felicidad](https://open.spotify.com/track/7f2mAgfVjPp2m0hfVKrHN9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:18 | 2021-11-26 | 2022-07-09 |
 | [Nuestras metas](https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Nuestras metas](https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK) | 4:14 | 2022-05-23 |  |
+| [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-23 |  |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-21 | 2022-06-11 |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-02-11 |  |
 | [Piensa](https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Piensa](https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV) | 4:33 | 2022-07-08 |  |

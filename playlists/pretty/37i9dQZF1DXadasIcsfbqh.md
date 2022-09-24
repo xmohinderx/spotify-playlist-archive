@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: BRELAND
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,142 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,184 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 |
 | 100 | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc) | 3:32 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDZhZGNlZWMxNzdhMmQ3M2Q2OWMxYjNiOGIyMjcxYTk4`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGNhNmFkZGE5NjgzNTRhNDY4ODNlODdiOGNiOGU2OTNm`

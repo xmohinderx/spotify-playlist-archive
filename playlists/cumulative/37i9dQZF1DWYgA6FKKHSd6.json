@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
+    },
+    {
+      "album": {
         "name": "No Looking Back",
         "url": "https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j"
       },
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 249727,
       "name": "Feed The Id",
       "url": "https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 231560,
       "name": "Full Effect",
       "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
@@ -3701,6 +3719,24 @@
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"
+    },
+    {
+      "album": {
+        "name": "Dave Koz & Friends: Christmas Ballads (25th Anniversary Collection)",
+        "url": "https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279516,
+      "name": "Wrapped up in Your Smile",
+      "url": "https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-199 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+201 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Water](https://open.spotify.com/track/5z1T8M153gyxX6IKJemYX7) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:21 | 2021-06-18 |  |
 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 | 2021-06-18 |  |
 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 | 2021-06-18 |  |
+| [Whatever Don't Tequila \(Will Make You Stronger\)](https://open.spotify.com/track/4wIgY6DHbdluzBqLROnKFM) | [Uncle Drank](https://open.spotify.com/artist/2fVBWnhzew4fRlLDc9rdxf) | [3 from the Cooler](https://open.spotify.com/album/4L0lLW6MY3236mymGx5Otk) | 3:29 | 2022-09-23 |  |
 | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ), [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v) | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4) | 2:35 | 2022-04-22 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2021-06-18 |  |
 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 | 2021-06-18 |  |
@@ -206,6 +207,7 @@
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-21 |  |
 | [You Look Good](https://open.spotify.com/track/1dFLowBW25EaL2OC7eKEa2) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/4WZZDzGqjvw4bRwrp56U24) | 3:01 | 2021-06-18 |  |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-06-10 |  |
+| [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 | 2022-09-23 |  |
 | [Zero Trucks](https://open.spotify.com/track/2GdP6I6v6fHCyTx2vSsUEz) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part One\)](https://open.spotify.com/album/3NgHZh0LDNXEQgaZPfQuIc) | 2:42 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

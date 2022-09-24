@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFB049e2a5LGW?si=f414138a399d4934&nd=1">Nina Nesbitt,</a> Fanny Haultman, and Madelene Eliasson.
 
-363 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+364 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Tension](https://open.spotify.com/track/2434pKRVVDCC4RI9krWTH4) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Tension](https://open.spotify.com/album/20sLBP2RxJz8kk4YLlOq7V) | 3:06 | 2022-06-01 | 2022-07-07 |
 | [tequila](https://open.spotify.com/track/2LicjGEOnXmT999t5n6vAw) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [achoo!](https://open.spotify.com/album/5jKZmUNJOPLqToPimNr41p) | 3:23 | 2022-06-01 | 2022-07-07 |
 | [The Easy Part](https://open.spotify.com/track/46ZT39crEy5jqfzGnUNDXJ) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2), [Allee](https://open.spotify.com/artist/2MJMaQE2Iwnn3zzXRWeGnD) | [The Easy Part](https://open.spotify.com/album/0sxJnb8KFDhwMk2NrMH2TB) | 3:15 | 2022-09-07 |  |
-| [The Kids Are All Rebels](https://open.spotify.com/track/46jmjqzkZLmzcGrSQBxe07) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/2UwVySfa3PPhw73Jwnnebm) | 2:09 | 2022-09-07 |  |
+| [The Kids Are All Rebels](https://open.spotify.com/track/46jmjqzkZLmzcGrSQBxe07) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/2UwVySfa3PPhw73Jwnnebm) | 2:09 | 2022-09-07 | 2022-09-24 |
+| [The Kids Are All Rebels](https://open.spotify.com/track/5HlrYUxLWiitBhoepaKhdR) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/7C8qvHAfU87vMIk4Bg9woW) | 2:09 | 2022-09-07 |  |
 | [The Man](https://open.spotify.com/track/5nhEyOUHbPrKfjOGpadH9M) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [The Man](https://open.spotify.com/album/3ezfgB0YGKjCMLn01IO7ae) | 3:47 | 2022-09-07 |  |
 | [The Sweetest Death is Loving You](https://open.spotify.com/track/5pEqp6Ob9ZNvYB4zboPUNU) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [The Sweetest Death is Loving You](https://open.spotify.com/album/7qcXa7Z5KFsdKvqEqiYSzN) | 2:52 | 2022-06-01 | 2022-07-07 |
 | [THE WAY I FEEL](https://open.spotify.com/track/3sUznPWwYhczB0v6SFkgc0) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [THE WAY I FEEL](https://open.spotify.com/album/7mzTwyIJGqxoejmhBXOMnX) | 3:33 | 2021-12-08 | 2022-01-06 |

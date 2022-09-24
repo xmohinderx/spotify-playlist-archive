@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-128 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+130 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [De Nada Sirve](https://open.spotify.com/track/1U0Sdf0M4YoKDQiJwIO64m) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 7:36 | 2022-06-24 |  |
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 |  |
 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 | 2022-06-24 | 2022-09-03 |
+| [Dulce](https://open.spotify.com/track/00qJ7UYGzz0STfuBaJzaP5) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Dulce](https://open.spotify.com/album/4rSqRY2mGS0kUETwHMh6Oj) | 4:20 | 2022-09-23 |  |
 | [Día Mil](https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Día Mil](https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1) | 3:38 | 2022-06-24 |  |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 | 2022-07-15 | 2022-08-11 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-24 | 2022-07-29 |
@@ -75,6 +76,7 @@
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-06-24 |  |
 | [Llévame](https://open.spotify.com/track/0BzARH6DR0vksVpTWm2RHN) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Llévame](https://open.spotify.com/album/3TeYluIyLa3vhmWuvAMJ5C) | 3:35 | 2022-06-24 |  |
 | [Lo Que Ves](https://open.spotify.com/track/4R5rg9XCEp7sX5jS6whkEa) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Lo Que Ves](https://open.spotify.com/album/6OBgrKk9tYCE6t7d0sHimH) | 3:16 | 2022-06-24 |  |
+| [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 | 2022-09-23 |  |
 | [Loco](https://open.spotify.com/track/1FRDqinRPxb83utvdSHfbm) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Loco](https://open.spotify.com/album/2UozOL2sqJIxb5kmM1P9dF) | 3:03 | 2022-06-24 |  |
 | [Los Años Salvajes \(feat\. Fabiana Cantilo\)](https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 6:15 | 2022-06-24 |  |
 | [Lucille](https://open.spotify.com/track/2qeIkKFXS11PwVOpE8ukMb) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Lucille](https://open.spotify.com/album/0kYDijXRcHlprfa1Cq9jLr) | 4:11 | 2022-06-24 | 2022-08-06 |
@@ -116,7 +118,7 @@
 | [Tanto Tonto](https://open.spotify.com/track/74Z4on1nCgnIHgzN9XoARd) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:49 | 2022-06-24 | 2022-07-16 |
 | [Te Hace Feliz](https://open.spotify.com/track/45RClYhxCpueeYrBZjcVp9) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegría](https://open.spotify.com/album/32V4V7NQhMw5yMFF2tqs1c) | 2:55 | 2022-07-15 | 2022-08-13 |
 | [Te Hace Feliz](https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegria](https://open.spotify.com/album/6XESoePuuRP2X2H2kpPYxf) | 2:55 | 2022-06-24 | 2022-07-29 |
-| [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 | 2022-06-24 |  |
+| [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 | 2022-06-24 | 2022-09-24 |
 | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/2CuikRtiqFulp7zXdrayni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/album/0MqkE7OCyGvPSF7RfFiQLP) | 4:02 | 2022-06-24 | 2022-07-09 |
 | [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 | 2022-06-24 | 2022-09-10 |
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-06-24 |  |
@@ -134,7 +136,7 @@
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-06-24 |  |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Ya Lo Sabés](https://open.spotify.com/track/3qml78xRFn8FOQmdfq3PVE) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Ya Lo Sabés](https://open.spotify.com/album/3jhXMrOIcE2PHpXq52mY25) | 3:28 | 2022-06-24 |  |
-| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2022-06-24 |  |
+| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2022-06-24 | 2022-09-24 |
 | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 | 2022-07-30 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

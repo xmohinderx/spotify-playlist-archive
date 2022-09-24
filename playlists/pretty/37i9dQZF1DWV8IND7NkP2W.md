@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,256 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,317 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 22 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |
 | 23 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 |
 | 24 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
-| 25 | [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 |
+| 25 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 |
 | 26 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 |
 | 27 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
 | 28 | [kczsdeg](https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [BUD](https://open.spotify.com/album/1ICwHwkNbIFFzp7rZXvk92) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 100 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 |
 
-Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGIxNWRhMmRjMmNhNjNkNjcwYTNiNmI0OTNjYTljZTBj`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMDgxZTZkN2RmNDZhZmYzYzllMTVkYTRjMDdmOTY1Mjkz`

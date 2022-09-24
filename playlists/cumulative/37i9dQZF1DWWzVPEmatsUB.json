@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 190706,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj"
@@ -2361,6 +2361,24 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "album": {
+        "name": "Just for the Day",
+        "url": "https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Just for the Day",
+      "url": "https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd"
     },
     {
       "album": {
@@ -3593,7 +3611,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 243346,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/35GhU6oG5RIjjVuFgyb9zn"
@@ -4158,6 +4176,24 @@
     },
     {
       "album": {
+        "name": "Slow Dance In The Morning",
+        "url": "https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "Slow Dance In The Morning",
+      "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
+    },
+    {
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
       },
@@ -4187,7 +4223,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216200,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1"
@@ -5153,6 +5189,24 @@
       "duration_ms": 277666,
       "name": "You Can't Take It Back",
       "url": "https://open.spotify.com/track/3feFNOQL4NmnojsjjPKvcH"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220756,
+      "name": "You Chose Me",
+      "url": "https://open.spotify.com/track/008QeRP6MiaUbAYC5lVl6b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWzVPEmatsUB"

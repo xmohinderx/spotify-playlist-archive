@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok",
+  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Jetlag Music",
   "name": "mint brasil",
   "published_playlist_ids": [
     "560Dq1N8XlhiCMoPDbEiON"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 158158,
       "name": "Ai Papi",
       "url": "https://open.spotify.com/track/6l6RuG9usSZXu2s0NsyLWe"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199558,
       "name": "Goes Around",
       "url": "https://open.spotify.com/track/31YfoN78IzQX9F5WZTMlNj"
@@ -1421,6 +1421,28 @@
       "duration_ms": 382439,
       "name": "Next to Me - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz"
+    },
+    {
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Marmii",
+          "url": "https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135714,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE"
     },
     {
       "album": {

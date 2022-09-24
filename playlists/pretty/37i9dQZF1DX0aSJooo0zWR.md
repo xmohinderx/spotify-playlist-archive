@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,388 likes - 80 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,480 likes - 80 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 |
 | 80 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGMwMGY2ZGZmNjRlODllZjhhMWU5NjAzMzg2OGVmYTU1`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDg5OGFkNWZjNTk3MWYwNDllMmFiNzZkMTQ2ZWM0MDI0`

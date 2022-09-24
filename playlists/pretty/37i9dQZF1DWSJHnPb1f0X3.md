@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,592,424 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,593,221 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [edamame \(feat\. Rich Brian\) \- Diplo Remix](https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [edamame \(feat\. Rich Brian\) \[Diplo Remix\]](https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW) | 2:55 |
 | 100 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 |
 
-Snapshot ID: `MTY2MzAyMjk2NSwwMDAwMDAwMDdhZjI2NDVhNTcxNzQ4NzgzNjc1NDI1MDMzYTA4MWMz`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDFlMTVmZmYyZjRkMjkxYjc0MjMwMTllMjllYzFkNzQ1`

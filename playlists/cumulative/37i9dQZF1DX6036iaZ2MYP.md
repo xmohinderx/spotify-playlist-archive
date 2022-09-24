@@ -2,7 +2,7 @@
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the global Afro scene\. Cover: Nnelg
+> Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
 81 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 

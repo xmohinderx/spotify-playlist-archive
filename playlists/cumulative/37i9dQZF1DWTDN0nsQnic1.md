@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+65 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Virga](https://open.spotify.com/track/4AweeJrnbe5I1eiyCkYhAx) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Mylestones](https://open.spotify.com/album/18l4RQQIKcukQ3dh4ewV8Z) | 3:28 | 2021-09-08 |  |
 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 | 2021-09-08 |  |
 | [Want More](https://open.spotify.com/track/32IWnxqoCOeDLas0p3K8Vb) | [Kevin Lavitt](https://open.spotify.com/artist/1WuwJxpTA1VgMZHdQnwBZ7), [Cleveland Thrasher](https://open.spotify.com/artist/5skkKxbAtfViDutAt1jDK7), [Ceeko](https://open.spotify.com/artist/0IWfexG4upff8FiCDJo9Rx), [Tiana Ohara](https://open.spotify.com/artist/3HzM1LuhJFDTbyzuWwuyWh) | [Want More](https://open.spotify.com/album/4wl4TBpwqoxDoj7LXetPPw) | 2:53 | 2021-09-08 |  |
+| [When She's Mine](https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:11 | 2022-09-23 |  |
 | [Where I Belong](https://open.spotify.com/track/4BENgHOetl5oLr57teDdKj) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Freakquencee](https://open.spotify.com/artist/1UeGKCrkZ7i8bOYQsNdavS), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC) | [Where I Belong](https://open.spotify.com/album/2PsuF65UNAcSLDQaj3njop) | 2:54 | 2021-09-08 |  |
 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 | 2021-09-08 |  |
 | [Won't Stop](https://open.spotify.com/track/3E6vBWSs6zjoSnlUVmo3yS) | [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Won't Stop](https://open.spotify.com/album/1VqCHljcYQir5atLxEXSJW) | 3:03 | 2021-09-08 |  |

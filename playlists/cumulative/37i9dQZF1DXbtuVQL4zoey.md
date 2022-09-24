@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-380 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+383 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afternoon Wind](https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Afternoon Wind](https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8) | 2:04 | 2022-08-12 |  |
 | [Agua Clara](https://open.spotify.com/track/6bnhuU80WPonEPeS5Alskr) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Agua Clara](https://open.spotify.com/album/06J6FivKeqJty8XESLzAVA) | 2:11 | 2022-08-12 |  |
 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 | 2022-05-20 | 2022-09-17 |
+| [Ainda](https://open.spotify.com/track/5iJePbYGvnp583umPcXfBW) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [ERNESTO](https://open.spotify.com/artist/5ItCBuMBw4vavU0TImZgf1) | [Ainda](https://open.spotify.com/album/7wQLYuo4cNcHQJQq3DMRtP) | 3:06 | 2022-09-23 |  |
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-05-20 |  |
 | [Amor na Praia](https://open.spotify.com/track/4DAkqKqpLl7KaFwQxxeHA0) | [De la Plante](https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD) | [Amor na Praia](https://open.spotify.com/album/0Bke9cR7fyutIivRHIbQZB) | 2:24 | 2022-09-02 |  |
 | [And All That Jazz](https://open.spotify.com/track/0FeZHrVcF4dJ664G38Qfb8) | [Sonic Park](https://open.spotify.com/artist/2y2VQ20ZdNjceBkKPaDF6B) | [Change Of Plans](https://open.spotify.com/album/4tMdzi2HQUG1lFtnfcmACK) | 2:38 | 2022-05-20 | 2022-07-01 |
@@ -29,6 +30,7 @@
 | [Backwards](https://open.spotify.com/track/0YE6RLx2NP461VXbb8PddM) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Backwards](https://open.spotify.com/album/1yU0j3TmoAdXMCs2tH6TMO) | 3:54 | 2022-05-20 | 2022-09-03 |
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2022-05-20 |  |
 | [Baller](https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/40buThWjpoGKJ4s6vzqn7M) | 2:07 | 2022-09-02 |  |
+| [Ballroom Samba](https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ballroom Samba](https://open.spotify.com/album/41M22LDCY7NgRbfLmySeLr) | 2:27 | 2022-09-23 |  |
 | [Bar in Barça](https://open.spotify.com/track/0hLF3hANNCEmiOrD2hPFaN) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/3VBskUJWLu5TYEqMI5hDhi) | 2:18 | 2022-07-22 |  |
 | [Barbizon](https://open.spotify.com/track/4O4Ti02mZ5mAb9nZhWup8B) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Barbizon](https://open.spotify.com/album/1ASrsg7s6KOE7l2KQFuhcD) | 2:45 | 2022-06-24 |  |
 | [beach break](https://open.spotify.com/track/6o47WpgYCPCk4bY6XaK2Vj) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [beach break](https://open.spotify.com/album/0U48WayykaFKIHHS3EadnA) | 2:08 | 2022-07-15 |  |
@@ -82,6 +84,7 @@
 | [Comfy Chair](https://open.spotify.com/track/4rQ0pTm3poVLafVbXCjnIy) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj) | 1:37 | 2022-05-20 | 2022-07-29 |
 | [comfy chair](https://open.spotify.com/track/7BndlSmNYV6rpcoMbaM0rA) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/1Xlg8VOEuvCbiCJf4hJ02B) | 1:37 | 2022-07-29 | 2022-09-17 |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2022-05-20 |  |
+| [Conant Gardens](https://open.spotify.com/track/563eOsTuwa7hZomJl7AI4A) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Conant Gardens](https://open.spotify.com/album/3qqQxrLKoQJJ9yGdAXuJ6l) | 2:42 | 2022-09-23 |  |
 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 2:55 | 2022-05-20 |  |
 | [Cool Stuff](https://open.spotify.com/track/2U93rBs3yVtgaXzsB0gvhr) | [Papier](https://open.spotify.com/artist/4XnZlNtghIcavIlOFvwNzW) | [March](https://open.spotify.com/album/0XRxmLy5fs3h1ay78UOCzQ) | 2:27 | 2022-05-20 |  |
 | [Copacabana Days](https://open.spotify.com/track/1zrrbPh20X2mZY74tgJ86s) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Copacabana Days](https://open.spotify.com/album/1Zw6lugMBcNAHSOZ29um1T) | 2:35 | 2022-09-16 |  |

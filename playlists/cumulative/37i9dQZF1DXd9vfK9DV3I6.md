@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-205 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+206 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW) | 2:40 | 2021-02-16 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2021-03-08 |  |
 | [Magic](https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH) | [Mert Kurt](https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Magic](https://open.spotify.com/album/60BkiwqufLrelLEbCueKG5) | 2:50 | 2021-07-16 | 2022-07-29 |
-| [Mandala](https://open.spotify.com/track/1Y4z9pcqHF9KHHnZQoB07O) | [5054281243927](https://open.spotify.com/artist/19XpYYkXzHg5NrQVMYflP7) | [Mandala](https://open.spotify.com/album/3dUAftuoKoE2HUDPpEVJeS) | 3:57 | 2022-06-27 |  |
+| [Mandala](https://open.spotify.com/track/1Y4z9pcqHF9KHHnZQoB07O) | [5054281243927](https://open.spotify.com/artist/19XpYYkXzHg5NrQVMYflP7) | [Mandala](https://open.spotify.com/album/3dUAftuoKoE2HUDPpEVJeS) | 3:57 | 2022-06-27 | 2022-09-24 |
+| [Mandala](https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi) | 3:57 | 2022-08-22 |  |
 | [Mandala](https://open.spotify.com/track/5K0R8reohWaKRyehS3dJt3) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/1sBusxJUPeNbyGtoZgfwkL) | 3:57 | 2020-10-18\* | 2022-07-29 |
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2020-10-18\* |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2020-10-18\* |  |

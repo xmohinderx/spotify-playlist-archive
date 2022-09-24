@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-934 songs - 2 day 2 hr 23 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+935 songs - 2 day 2 hr 26 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Balistique](https://open.spotify.com/track/0D5Zo7q1vYJ4XCZ0beyZFg) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:07 | 2022-01-29 | 2022-01-31 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-10 |  |
 | [Bande organisée](https://open.spotify.com/track/717QGTmZdkemDaCo1vQHG0) | [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH) | [13 Organisé](https://open.spotify.com/album/0A7vrkKQeL5ZRVkwABuqcc) | 5:56 | 2021-03-27\* | 2022-08-10 |
+| [Baïla](https://open.spotify.com/track/79wz5H0jZGyJAGDu0TXUQw) | [ZeroInspiii](https://open.spotify.com/artist/7cFZwYXqaDlhBcmWtwmZn4) | [Baïla](https://open.spotify.com/album/1YDVdiuxRoZ54R0xnxr90Q) | 3:03 | 2022-09-23 |  |
 | [BB](https://open.spotify.com/track/4pSjhyfU7fCb1FTgnlJcGZ) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:52 | 2021-03-27 | 2021-04-02 |
 | [BBL](https://open.spotify.com/track/71nvWpjtSxGrRKewm0pziK) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:13 | 2022-01-29 | 2022-01-31 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2021-06-13 | 2021-09-11 |
@@ -883,7 +884,7 @@
 | [Un mot](https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:36 | 2022-02-05 | 2022-02-14 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-24 |
 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 | 2021-08-01 | 2021-08-14 |
-| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-08 |  |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-08 | 2022-09-24 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-25 | 2021-12-27 |
 | [UNE HISTOIRE ÉTRANGE](https://open.spotify.com/track/1LqDW54jByEjfZJMadiLJU) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 4:37 | 2021-07-18 | 2021-07-23 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |

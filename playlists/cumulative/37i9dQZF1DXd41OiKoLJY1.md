@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Reanne Borela, Artwork: Isu Kim
 
 561 songs - 1 day 9 hr 56 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 

@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite Anime songs, all in one playlist.",
-  "num_followers": 476631,
+  "num_followers": 476984,
   "original_name": "Anime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyMTMwMSwwMDAwMDAwMGNiZGIwZmRkMTI3NDEzNDQxNTc3NmJkMjQ2NTMzNzEy",
+  "snapshot_id": "MTY2MDIyMTMwMSwwMDAwMDAwMGVhMDY1YTkwNzQwOTI0MjQxNWRlYWYxY2UzMTdhNDRh",
   "tracks": [
     {
       "added_at": "2022-08-11 12:35:01",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-08-11 12:35:01",
       "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308"
-    },
-    {
-      "added_at": "2022-08-11 12:35:01",
-      "album": {
         "name": "No.1 -Special Edition-",
         "url": "https://open.spotify.com/album/4FHIrNlHnVl4VDLnkiYfno"
       },
@@ -2503,6 +2487,22 @@
     {
       "added_at": "2022-08-11 12:35:01",
       "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Tell me",
+      "url": "https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0"
+    },
+    {
+      "added_at": "2022-08-11 12:35:01",
+      "album": {
         "name": "Jujutsu Kaisen (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
       },
@@ -2535,22 +2535,6 @@
       "duration_ms": 256439,
       "name": "\u3070\u304b\u3058\u3083\u306a\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh"
-    },
-    {
-      "added_at": "2022-08-11 12:35:01",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Tell me",
-      "url": "https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0"
     },
     {
       "added_at": "2022-08-11 12:35:01",
@@ -3311,6 +3295,22 @@
       "duration_ms": 351932,
       "name": "\u5149\u308b\u3068\u304d",
       "url": "https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf"
+    },
+    {
+      "added_at": "2022-08-11 12:35:01",
+      "album": {
+        "name": "New Page",
+        "url": "https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE"
+      },
+      "artists": [
+        {
+          "name": "INTERSECTION",
+          "url": "https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma"
+        }
+      ],
+      "duration_ms": 270904,
+      "name": "New Page",
+      "url": "https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs"
     }
   ],
   "unique_name": "Anime Hits",

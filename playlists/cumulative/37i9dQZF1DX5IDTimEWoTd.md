@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-204 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/7nReIoiSVbXtMiixzq38Mf)
+205 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/7nReIoiSVbXtMiixzq38Mf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [I Hear a Symphony](https://open.spotify.com/track/3iJya7m7trpGv570Ske30n) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/1gH1fXGLT3cTgVJPLoiPxY) | 3:05 | 2021-04-01 | 2022-07-26 |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2022-07-28 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2019-07-29\* |  |
-| [i love you baby](https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [i love you baby](https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc) | 3:34 | 2022-05-01 |  |
+| [i love you baby](https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [i love you baby](https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc) | 3:34 | 2022-05-01 | 2022-09-24 |
 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 | 2019-07-29\* |  |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-28 | 2022-09-05 |
 | [I Will Spend My Whole Life Loving You](https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [I Will Spend My Whole Life Loving You](https://open.spotify.com/album/3g1yz9GQMMswHeQrHQCm21) | 3:47 | 2019-07-29\* | 2021-09-25 |
@@ -138,6 +138,7 @@
 | [Marry Me](https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS) | 3:25 | 2019-07-29\* | 2022-07-29 |
 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 | 2022-07-28 |  |
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2020-07-24 | 2020-10-02 |
+| [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 | 2022-09-23 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2019-07-29\* |  |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2021-10-23 | 2022-09-16 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2020-05-01 | 2022-09-16 |

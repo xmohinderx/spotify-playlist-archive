@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop  Cover: GG Magree \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,638 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,815 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

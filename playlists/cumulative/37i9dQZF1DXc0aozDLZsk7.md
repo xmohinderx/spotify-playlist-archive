@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-186 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
+187 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Home](https://open.spotify.com/track/1k86Fmt123wy26VMqGxpGc) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Home](https://open.spotify.com/album/1VJR3KCAPNY67woWcVWTtS) | 3:47 | 2022-03-30 | 2022-07-29 |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2022-03-30 |  |
 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 | 2022-03-30 | 2022-07-29 |
-| [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-06-30 |  |
+| [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-06-30 | 2022-09-24 |
 | [I Can See The Change](https://open.spotify.com/track/4TfPtTbJtk5diKYuubTP9e) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [I Can See The Change](https://open.spotify.com/album/3hMrkkUczREZLRjv5Oy4cJ) | 3:37 | 2022-03-30 | 2022-07-20 |
 | [I Don't Want to Lose You](https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [I Don't Want to Lose You](https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE) | 2:51 | 2022-06-30 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-06-30 |  |
@@ -116,6 +116,7 @@
 | [Lost Sparks](https://open.spotify.com/track/7fZ2GktS3lfZuI6BbDamrS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Lost Sparks](https://open.spotify.com/album/1GDrq6I76KWXJCDKAlYXes) | 3:46 | 2022-03-30 | 2022-07-26 |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-03-30 | 2022-07-29 |
 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 | 2022-03-30 | 2022-07-29 |
+| [Lucky Girl](https://open.spotify.com/track/136QuvKnhCzkiv9dx6AlZe) | [Thony](https://open.spotify.com/artist/23wRPCFyOHaPhUVrsvg9eE) | [Lucky Girl](https://open.spotify.com/album/5nNa2lGhpqMnu0V7753T3u) | 2:31 | 2022-09-23 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2022-06-30 |  |
 | [Man On The Moon](https://open.spotify.com/track/0OPI6kPZLLR8Mu2HROMOGq) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Man On The Moon](https://open.spotify.com/album/2VvyCtmRtjjfiUFSmGYJCZ) | 2:51 | 2022-03-30 | 2022-07-29 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2022-03-30 |  |

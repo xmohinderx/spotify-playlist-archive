@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Youth Hostel\(유스호스텔\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: CHANMINA\(찬미나\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,682 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,878 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 |
+| 1 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 |
 | 2 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 |
 | 3 | [Bike \(Feat\. h3hyeon\)](https://open.spotify.com/track/69LLLrHGGwog2l5UWaYM4m) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 3:32 |
 | 4 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [meet me in Toronto](https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:23 |
 | 100 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 |
 
-Snapshot ID: `MTY2MjQ2NTcwNSwwMDAwMDAwMDU5YmEzYzcxYmQxZjBkNjMxZDdkZWY5N2VjNzI5Mjlh`
+Snapshot ID: `MTY2MzkyMzYwMCwwMDAwMDAwMGFkZjUxOGM0OGE4YjY5ZDUwOGY5NmI2ODFjN2Q5ZDc1`

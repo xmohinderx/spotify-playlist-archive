@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Friction, A Little Sound",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: SIREN",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -229,6 +229,24 @@
       "duration_ms": 187885,
       "name": "Amazing (feat. Agent Sasco)",
       "url": "https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s"
+    },
+    {
+      "album": {
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/5IBnGrhGsrlpecij4dFnaN"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262325,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/3x9EZ9leJa3iwua1vfLU3b"
     },
     {
       "album": {
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 259310,
       "name": "Be The Reason",
       "url": "https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi"
@@ -763,6 +781,32 @@
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) - Ren\u00e9 LaVice Dark D&B Remix",
       "url": "https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3"
+    },
+    {
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Akylla",
+          "url": "https://open.spotify.com/artist/5Ad8YPmqQf2tay2SZ8NxWY"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213488,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV"
     },
     {
       "album": {
@@ -1321,7 +1365,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 227658,
       "name": "Division",
       "url": "https://open.spotify.com/track/5nhbj6BKDgXoqnqWw8XHp4"
@@ -1730,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/6YMtAmLqRS0O18uK99d3Jm"
+      },
+      "artists": [
+        {
+          "name": "Changing Faces",
+          "url": "https://open.spotify.com/artist/6YB9sqHoLlgUIRnjgSSgXT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252424,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/3WhHbXLNykVHD6CnSKrdmm"
+    },
+    {
+      "album": {
         "name": "Fading Wind",
         "url": "https://open.spotify.com/album/6UMh9T0KVnsoBDKY2mfJNK"
       },
@@ -1921,6 +1983,36 @@
       "duration_ms": 232500,
       "name": "Firestarter - Andy C Remix",
       "url": "https://open.spotify.com/track/7KUlHzNZlPF1u5Ms4UHuZT"
+    },
+    {
+      "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/5YJwXoGzlh3Nk2MvHVKI5Q"
+      },
+      "artists": [
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180251,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/4Fan29soluSX5Xf6A1RTBU"
     },
     {
       "album": {
@@ -2164,6 +2256,24 @@
     },
     {
       "album": {
+        "name": "Glorify",
+        "url": "https://open.spotify.com/album/7nyDlb7gZkTF24hxigYm5X"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281379,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/7dCDE9VRayvYgDcDiNLE58"
+    },
+    {
+      "album": {
         "name": "Go (Remixes)",
         "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
       },
@@ -2237,7 +2347,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 203534,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/38WN6ouLGke6SIpVriIb9K"
@@ -2631,7 +2741,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216551,
       "name": "I Need To Feel",
       "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
@@ -2696,6 +2806,32 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS"
+    },
+    {
+      "album": {
         "name": "It\u2019s Time",
         "url": "https://open.spotify.com/album/1CmZoNt8b3UioFjrZo7MXe"
       },
@@ -2711,7 +2847,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199798,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/7LUCTj2jr9oCpUEkz57sNN"
@@ -3352,6 +3488,28 @@
     },
     {
       "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "album": {
         "name": "Troublesome Bubblers EP",
         "url": "https://open.spotify.com/album/264E73xcKhFFObUadgix4f"
       },
@@ -3870,6 +4028,28 @@
     },
     {
       "album": {
+        "name": "Camels / Overthinking",
+        "url": "https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Haribo",
+          "url": "https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz"
+    },
+    {
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/3WBh6onMnl64BJOyyCp64C"
       },
@@ -4053,7 +4233,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"
@@ -5977,7 +6157,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 248275,
       "name": "WANT NEED LOVE - Dimension Remix",
       "url": "https://open.spotify.com/track/1IHOCU7v322k1TPovsbInD"
@@ -6241,7 +6421,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/6aJRtWjtwXuLzXeLnrtVbc"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Prey\u00e9",
+  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Oxlade",
   "name": "Ginger Me",
   "published_playlist_ids": [
     "6c4FAtKQpbdqtWlJf4Goom"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Call (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168667,
       "name": "Chop & Slide",
       "url": "https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B"
@@ -1088,6 +1088,28 @@
     },
     {
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207229,
+      "name": "come close (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY"
+    },
+    {
+      "album": {
         "name": "Confam",
         "url": "https://open.spotify.com/album/6a571KAznEUtm9KmpqBtem"
       },
@@ -1139,7 +1161,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 129544,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
@@ -1655,7 +1677,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 137727,
       "name": "FOR MY BABY",
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
@@ -2023,7 +2045,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 152523,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
@@ -2099,7 +2121,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
@@ -2201,7 +2223,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
@@ -2299,7 +2321,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 174587,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
@@ -2397,7 +2419,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
@@ -2845,7 +2867,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213913,
       "name": "LV N ATTN feat. Wizkid",
       "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
@@ -3231,7 +3253,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
@@ -3479,7 +3501,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Options",
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
@@ -3637,7 +3659,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 173646,
       "name": "Personal Baby",
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
@@ -3767,7 +3789,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -4011,7 +4033,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
@@ -4127,7 +4149,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -4429,7 +4451,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168173,
       "name": "Sweet Escape",
       "url": "https://open.spotify.com/track/5DXaZRgFKse2nj0Y3ixOSy"
@@ -4557,7 +4579,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 172000,
       "name": "These Days",
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
@@ -4623,7 +4645,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201599,
       "name": "Too Many Women",
       "url": "https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r"
@@ -4733,7 +4755,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
@@ -5067,7 +5089,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFB049e2a5LGW?si=f414138a399d4934&nd=1">Nina Nesbitt,</a> Fanny Haultman, and Madelene Eliasson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,625 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,649 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 11 | [On Time For Her](https://open.spotify.com/track/7AHCsgXQS9BcEAx2N948mu) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/33nyhf9h2ynkn7zvQdaF9B) | 3:38 |
 | 12 | [Fun Girl](https://open.spotify.com/track/78mXeWyY9ZEqOCkTl3nGfI) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 1:49 |
 | 13 | [Riding Solo](https://open.spotify.com/track/7ljBw7FDHlYtWhUVKgcm7z) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Riding Solo](https://open.spotify.com/album/7e0HCVNR9U3CZqU1MCn0I6) | 3:36 |
-| 14 | [The Kids Are All Rebels](https://open.spotify.com/track/46jmjqzkZLmzcGrSQBxe07) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/2UwVySfa3PPhw73Jwnnebm) | 2:09 |
+| 14 | [The Kids Are All Rebels](https://open.spotify.com/track/5HlrYUxLWiitBhoepaKhdR) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/7C8qvHAfU87vMIk4Bg9woW) | 2:09 |
 | 15 | [Bugaboo](https://open.spotify.com/track/4RqulYdOhSdFIoxZKNp1ot) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BOYS](https://open.spotify.com/album/1wFvwQ7b3bpe4YbzFs7H4d) | 3:07 |
 | 16 | [On and On](https://open.spotify.com/track/2UcLEbcbUt4hya3RexIhyI) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [On and On](https://open.spotify.com/album/6qAbZuVzbIKO0drYX5NNG6) | 3:33 |
 | 17 | [Tonight I Run](https://open.spotify.com/track/32IRoQpodXQo6ju8y6s2Qh) | [Astræa](https://open.spotify.com/artist/799p2CSGw9GjO2X5pAB3ZH) | [Tonight I Run](https://open.spotify.com/album/5BxlgMTxZ8y9YsYiAw60DL) | 2:52 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Boots](https://open.spotify.com/track/1FRTjHttZu8LLNlp06Ov3A) | [Allee](https://open.spotify.com/artist/2MJMaQE2Iwnn3zzXRWeGnD), [Pom Poms](https://open.spotify.com/artist/2tmp2SLqU4vkrSAT6hMInl), [Liv Slingerland](https://open.spotify.com/artist/7yXoQcO4C5HP5PyaU8pbAb) | [Boots](https://open.spotify.com/album/1bG24zTs14unQQO6HWUeWd) | 3:07 |
 | 40 | [Renter's Anthem](https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:58 |
 
-Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMGFmOWU3ZDA4NWUxZjRjOWU3NzU5N2Y3NzQ0MDJkODU5`
+Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMGUyMTE2ZWFjODgxN2Y2MmZlYmNiMjM5MDUzNjA4ZjI0`

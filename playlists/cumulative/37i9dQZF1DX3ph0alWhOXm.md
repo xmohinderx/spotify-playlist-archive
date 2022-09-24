@@ -4,7 +4,7 @@
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-133 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/1tMONXYD6Zd2IPC4azaPza)
+134 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1tMONXYD6Zd2IPC4azaPza)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-07-24 |  |
 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 | 2021-02-03 |  |
 | [Pour Whiskey on My Grave](https://open.spotify.com/track/4iMEvUn6UWR8gFogtXcs1s) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Pour Whiskey on My Grave](https://open.spotify.com/album/7mnSC6EOpzLrKssvE1N4DX) | 5:04 | 2021-02-03 | 2022-07-25 |
-| [Pour Whiskey on My Grave](https://open.spotify.com/track/3fHhEDmEFKI8BlZMlrcHgT) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Practice What I Preach](https://open.spotify.com/album/6ruP878JYgaWhlxgBOdC3M) | 5:04 | 2022-07-24 |  |
+| [Pour Whiskey on My Grave](https://open.spotify.com/track/3fHhEDmEFKI8BlZMlrcHgT) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Practice What I Preach](https://open.spotify.com/album/6ruP878JYgaWhlxgBOdC3M) | 5:04 | 2022-07-24 | 2022-09-24 |
 | [Power of Positive Drinkin'](https://open.spotify.com/track/3yww2zhTK6xJuVGtn6oHNY) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0) | 3:30 | 2021-02-03 | 2022-07-29 |
 | [Pull Up](https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [County Line](https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q) | 2:32 | 2021-10-08 |  |
 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 | 2021-02-03 |  |
@@ -140,6 +140,7 @@
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-07-24 |  |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-07-24 |  |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-07-24 |  |
+| [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 | 2022-09-23 |  |
 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 | 2022-07-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

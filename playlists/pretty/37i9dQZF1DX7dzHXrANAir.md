@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,389 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,472 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Everything in Life is Vibration](https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr) | [Rooydad](https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF) | [Entanglement](https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q) | 1:45 |
 | 80 | [A Dream, A Sequence](https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4) | [Paddy Mulcahy](https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C) | [Tidal Oscillations \(XXIM:EXPO \#1\)](https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r) | 5:29 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGU5ZWZlZTc5OGQ0MWNjYmQ3OTA3OGFmYmQ0OTE4M2Zm`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDViNWU5YWFkMjM1OGNiODcxYjg4NTA0ZGU2MGM2ZDNi`

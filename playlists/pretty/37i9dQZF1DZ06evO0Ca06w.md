@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,224 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,229 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 40 | [Hurry, Mama, Hurry! \(Khawuleza\)](https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:26 |
 | 41 | [Mama \(Mama Been and Over\)](https://open.spotify.com/track/2tQpRhWpYj6NPreVpjFes0) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:17 |
 | 42 | [House of the Rising Sun](https://open.spotify.com/track/4PL3oMRQTbUIoxVbGr2hNM) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Goodbye to Africa](https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm) | 1:59 |
-| 43 | [Malouyame](https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:36 |
+| 43 | [Moôlouyame](https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:36 |
 | 44 | [My Angel \(Malaika\)](https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:15 |
 | 45 | [The Lion Cries \- Mbube](https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:00 |
 | 46 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 |

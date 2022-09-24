@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,295 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,413 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 |
 | 80 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDg5MDc3NDM3NDM4YmY1NDJkMjZhZTE2Y2VlYzA1NzZh`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDBjZGI1NGFmNzM0YjI2NmUyMGQwYTQwODI3ZGM2YzMx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: GloRilla & Cardi B",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -165,6 +165,24 @@
       "duration_ms": 146497,
       "name": "Apple Jacks",
       "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
+    },
+    {
+      "album": {
+        "name": "Life In Plastic 3",
+        "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "Ass For Days",
+      "url": "https://open.spotify.com/track/4xsLRqemrXE402nb3GHUVj"
     },
     {
       "album": {
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 153437,
       "name": "Broke Boy Pt. 2 (feat. Bankroll Freddie)",
       "url": "https://open.spotify.com/track/4XLHL9bbPjruuuL2LGVMGQ"
@@ -1190,6 +1208,28 @@
     },
     {
       "album": {
+        "name": "Life In Plastic 3",
+        "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        },
+        {
+          "name": "Kashdoll",
+          "url": "https://open.spotify.com/artist/5JykTmhGAdngE746B1NTMl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156298,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/5atJcUH7pa80UtO7NMRZge"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -1509,7 +1549,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
@@ -2000,6 +2040,28 @@
     },
     {
       "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
+    },
+    {
+      "album": {
         "name": "Marge Simpson",
         "url": "https://open.spotify.com/album/6fhWBYWOu0PNWt79ZAPBNi"
       },
@@ -2175,7 +2237,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 182669,
       "name": "My Type (feat. Yung Mal)",
       "url": "https://open.spotify.com/track/2av43bJ4Bsegzca84SS3QO"
@@ -2299,7 +2361,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 142998,
       "name": "No Panties",
       "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
@@ -2571,7 +2633,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 121913,
       "name": "Pop Yo Shi Twin",
       "url": "https://open.spotify.com/track/4Mvmd5TuSeLMizeGXPMykD"
@@ -3421,10 +3483,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 113844,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6"
+    },
+    {
+      "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
       "album": {

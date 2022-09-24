@@ -4,7 +4,7 @@
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-50 songs - 2 hr 54 min - not published yet
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6eMDHpaZ3AEtXhCsVotEbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

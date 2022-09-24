@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Was it Worth the Wait",
+        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
+      },
+      "artists": [
+        {
+          "name": "Hosier",
+          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Country Slide",
+      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
+    },
+    {
+      "album": {
         "name": "Urban Cowboy (Where the City Meets the Country)",
         "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
       },

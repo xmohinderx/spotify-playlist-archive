@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-416 songs - 1 day 0 hr 40 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+419 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [La Lumière](https://open.spotify.com/track/1dz2zrpKL5NzlporGTGs9n) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/5FtfeKC9KKiCfTor3NHrRR) | 3:42 | 2022-07-29 |  |
 | [La Lumière](https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej) | 3:42 | 2021-08-10 | 2022-07-29 |
 | [Late Night Kisses](https://open.spotify.com/track/50HuB1rHRDT0kH3pgHjBgw) | [Ambercity](https://open.spotify.com/artist/4AqHrBluK1rKimWq3D2J6K) | [Late Night Lovers Lounge \(Vol 2\)](https://open.spotify.com/album/6yG7GrbM9vLTTZRzshGAEj) | 4:16 | 2021-08-10 | 2022-07-29 |
+| [Lazy Afternoon](https://open.spotify.com/track/6Ys876iVTWMlV2Lr9b06ke) | [Jersy K](https://open.spotify.com/artist/7jTOgoEq9CR9usJbJHFgmD) | [Lazy Afternoon](https://open.spotify.com/album/7HhBg8OhWjmccdOEIfHZeb) | 2:01 | 2022-09-23 |  |
 | [Lazy Days](https://open.spotify.com/track/62JHhd8RJkdfVnUrdD5p7b) | [Uniq](https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6) | 3:38 | 2022-07-29 |  |
 | [Le Cadeau](https://open.spotify.com/track/3FtvZpfxzP5ZHp3qcTMWK7) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Chillout Bar Lounge 2018](https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0) | 2:48 | 2021-08-10 |  |
 | [Le Gamin](https://open.spotify.com/track/5OPfz39MohfnQfrONOsKxS) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Le Gamin](https://open.spotify.com/album/3w3KLSyaAqbRKkJwMNWUyT) | 2:16 | 2022-07-29 |  |
@@ -218,6 +219,7 @@
 | [Love Me Like You Do \- Chill Out Version](https://open.spotify.com/track/4MJxfWYXb8hYELRwYWEwhf) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront \- The Album](https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM) | 4:19 | 2022-07-29 | 2022-08-19 |
 | [Loving You \(One Last Time\) \- Lounge Version](https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx) | [Shade](https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc), [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Loving You \(One Last Time\) \[Lounge Version\]](https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV) | 3:34 | 2021-08-10 | 2022-07-29 |
 | [Loving You \(One Last Time\) \- Lounge Version](https://open.spotify.com/track/7jYPOUQNUXYYRAIBu3qfVj) | [Shade](https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc), [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Loving You \(One Last Time\) \[Lounge Version\]](https://open.spotify.com/album/0HAV9XctY755FwIUsfqGkO) | 3:34 | 2022-07-29 | 2022-08-05 |
+| [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |
 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-22 |  |
 | [Lunar Halo](https://open.spotify.com/track/0ZiBqlxiM4tjMcOFCfTQIF) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Lunar Halo](https://open.spotify.com/album/38wCuKWG4YoDkzPJ7z7F0i) | 2:33 | 2022-03-16 | 2022-07-09 |
 | [L’ Eau](https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3) | [Deanna Devore](https://open.spotify.com/artist/33ZWQlxgrQJGHCo82XqhWJ), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [JokerB](https://open.spotify.com/artist/2PZenj9yNHY0BN5AUw7s4s) | [A better World](https://open.spotify.com/album/0ZdSFLnuddK3AW40GQoXvB) | 2:44 | 2022-03-16 | 2022-07-09 |
@@ -386,6 +388,7 @@
 | [Under Your Spell](https://open.spotify.com/track/7HluCYwby3TysP0nimT9ng) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Under Your Spell](https://open.spotify.com/album/5dzbYcYhEKiHKjdkUeVetr) | 2:12 | 2022-05-20 | 2022-07-09 |
 | [Unique](https://open.spotify.com/track/20NVyZWFAqh1UEFp1DurBw) | [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H) | [Unique](https://open.spotify.com/album/5sY81ipCOhVpTGZf9acuT7) | 2:17 | 2022-03-16 | 2022-07-09 |
 | [Urban Grooves \- The Cute Ones](https://open.spotify.com/track/0Ifhx5fDB0bPBNxU3YLDbR) | [The Cute Ones](https://open.spotify.com/artist/1BGBsygG6ShApQpPq5fkZ6) | [Urban Grooves](https://open.spotify.com/album/6XUolHbQUS7C8ZcYIbQbrq) | 3:35 | 2021-08-10 |  |
+| [Vanilla](https://open.spotify.com/track/3zD6VOx0Zi1JGKT454To81) | [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [P\-Rob](https://open.spotify.com/artist/5HTGXluN7OrPp6WlCidtRb) | [Vanilla](https://open.spotify.com/album/2SJcCAbW0wYHwX0MegdUq5) | 1:45 | 2022-09-23 |  |
 | [Velvet Sky](https://open.spotify.com/track/0DzWxYCE8YPnJt2UsVzx34) | [Palma Players](https://open.spotify.com/artist/1D6hGUU5QVL6WiH6h6L8E1) | [Velvet Sky](https://open.spotify.com/album/41gH5RX7lM9wMkaIiQrL0s) | 5:00 | 2022-07-29 |  |
 | [Velvet Sky](https://open.spotify.com/track/1o3BAaLMa0ENw0PoG8uCaG) | [Palma Players](https://open.spotify.com/artist/1D6hGUU5QVL6WiH6h6L8E1) | [Velvet Sky](https://open.spotify.com/album/1LCn22ga5CfxP2s4VDoRtD) | 5:00 | 2021-08-10 | 2022-07-29 |
 | [Walking On the Sand](https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga) | [The Sura Quintet](https://open.spotify.com/artist/3YBL2Q7cwijeS0GEVKEhXU) | [The Sura Quintet & Friends Chill Out Directions](https://open.spotify.com/album/2tyKIc5dDLUc2VQKJobFrP) | 5:36 | 2021-08-10 | 2022-07-29 |

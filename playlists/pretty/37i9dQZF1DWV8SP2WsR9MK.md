@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,117 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,236 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 |
 | 100 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 |
 
-Snapshot ID: `MTY2Mzc2MTE1MCwwMDAwMDAwMDhhNTI3NWE2MjlhOTYxN2M1NGNmMDZkNmJmYmI1NmI4`
+Snapshot ID: `MTY2MzkyNjM4MCwwMDAwMDAwMGNkNjEwNWQ3ZmNlZDRkYWRmYzZmY2VmYzgxMjQxNjlj`

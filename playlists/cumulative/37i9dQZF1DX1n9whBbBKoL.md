@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-163 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+165 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-11-10 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
 | [Aurora](https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Aurora](https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1) | 3:13 | 2021-11-10 |  |
+| [Awakened](https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Awakened](https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV) | 3:00 | 2022-09-23 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 |  |
 | [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-06-16 |  |
@@ -57,6 +58,7 @@
 | [Directional Dance](https://open.spotify.com/track/1f4D1dUMBXCRFMahucWgng) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [Plant Life in Tottori](https://open.spotify.com/album/6i7ldGuVLlg82KmWRfxnrQ) | 3:47 | 2021-11-10 | 2022-05-04 |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2022-01-21 |  |
 | [Douelle](https://open.spotify.com/track/4F2Fuy3BIP5u0f3CbOPAqi) | [Miriam and Blue](https://open.spotify.com/artist/4gXusH0nbJbPH55gt8C0d1) | [Douelle](https://open.spotify.com/album/7ixDDMWC7gm4ugMNuHP9Se) | 3:28 | 2021-11-10 | 2022-04-22 |
+| [Doux Sommeil](https://open.spotify.com/track/4HHB23Kvr6Lbwx8ksTTAuA) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Doux Sommeil](https://open.spotify.com/album/7saNKwrdkqrmz7w2eXliyn) | 2:30 | 2022-09-23 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-03-03 |  |
 | [Dreams of the Universe](https://open.spotify.com/track/2PCzhRAdaQxLl3UJT8N4zY) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Dreams of the Universe](https://open.spotify.com/album/6PmH4fQpcStfyVgJzhmpRg) | 2:32 | 2021-11-10 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-05 |  |

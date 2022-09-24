@@ -592,6 +592,28 @@
     },
     {
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
+      },
+      "artists": [
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "album": {
         "name": "Cenizas",
         "url": "https://open.spotify.com/album/6ARt7kbTRpxiaV9dsGTmy7"
       },
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1769,7 +1791,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 221877,
       "name": "En el Coupe",
       "url": "https://open.spotify.com/track/5hJPNQJ0UtGBEYi2xxCD6R"
@@ -1959,6 +1981,28 @@
       "duration_ms": 136272,
       "name": "Fecha de Vencimiento",
       "url": "https://open.spotify.com/track/2eNsa5wa941kIVWzMEyScX"
+    },
+    {
+      "album": {
+        "name": "Fin de Semana Sin Ti",
+        "url": "https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143570,
+      "name": "Fin de Semana Sin Ti",
+      "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
     },
     {
       "album": {
@@ -3487,7 +3531,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
@@ -4359,6 +4403,28 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+    },
+    {
+      "album": {
+        "name": "Que Nadie Se Entere (Remix)",
+        "url": "https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186183,
+      "name": "Que Nadie Se Entere - Remix",
+      "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
     },
     {
       "album": {

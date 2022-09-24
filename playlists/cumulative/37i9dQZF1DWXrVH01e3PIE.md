@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Ecko en la casa del Trap de Argentino.
+> Muerejoven en la casa del Trap de Argentino.
 
-152 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+153 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Killer Bombón](https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Killer Bombón](https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8) | 2:40 | 2022-09-02 |  |
 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 | 2022-02-11 |  |
 | [Lambo \- Remix](https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Lambo \(Remix\)](https://open.spotify.com/album/3GXikZX8EISv22KFluFDBx) | 4:11 | 2022-01-21 |  |
+| [Lero Lero](https://open.spotify.com/track/5byzOd0JbgAZYdFfqTKhVA) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Lero Lero](https://open.spotify.com/album/0bw2wWwulRUFCK0CYxOdnm) | 2:22 | 2022-09-23 |  |
 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 | 2022-04-15 | 2022-07-08 |
 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 | 2022-01-21 | 2022-08-06 |
 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 | 2022-01-21 | 2022-02-12 |

@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: ESSEL
+> Real nasty house\. Cover: Malaa
 
-339 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+340 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [DBL Park](https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [DBL Park](https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt) | 3:24 | 2022-09-02 |  |
 | [Dear Driver \- Lowdown Remix](https://open.spotify.com/track/3pQg7EoslPJ2OOoEXItDQl) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK), [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Dear Driver \(Lowdown Remix\)](https://open.spotify.com/album/60qfrZDobSPwexI4hJ0dmV) | 2:37 | 2021-10-29 | 2022-01-14 |
 | [DeathRow](https://open.spotify.com/track/0UqxTBffHZUB7hS5ihIh1D) | [Gianni Ruocco](https://open.spotify.com/artist/3bOkTYFEDhjquQI5A2JLOC), [Le Roi Carmona](https://open.spotify.com/artist/1RUMnaGbYzAp5Nb3AfFR5A) | [DeathRow EP](https://open.spotify.com/album/5dZIfsrK7dhOhPJwzPjbyi) | 3:43 | 2021-10-29 | 2021-12-28 |
+| [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-09-23 |  |
 | [deeper](https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ) | [Pinkloud](https://open.spotify.com/artist/2KwoAuL8klb3EU3ayrPgQu) | [deeper](https://open.spotify.com/album/2euImXBTU6dWDrelJ5b94V) | 3:42 | 2021-10-29 | 2022-07-30 |
 | [Deja Vu](https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deja Vu](https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX) | 3:05 | 2022-04-01 |  |
 | [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 | 2022-09-11 |
@@ -251,7 +252,7 @@
 | [Push It](https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/2f7if07zQ8aqkwjq6NovP8) | 2:50 | 2022-07-29 |  |
 | [Queue](https://open.spotify.com/track/27ThU2UjsMWH48A49DEKck) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Queue](https://open.spotify.com/album/4z6vS3ZGkTnfKlY4gezFKH) | 3:06 | 2021-10-29 | 2022-07-30 |
 | [Rampage](https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Rampage](https://open.spotify.com/album/7tvJ8CY63uFzEiyRLSH495) | 3:04 | 2021-10-29 | 2022-07-30 |
-| [RAVE GAME](https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NINEONE赵馨玥](https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk) | [RAVE GAME](https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI) | 3:04 | 2022-04-29 |  |
+| [RAVE GAME](https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NINEONE赵馨玥](https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk) | [RAVE GAME](https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI) | 3:04 | 2022-04-29 | 2022-09-24 |
 | [Reality](https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Block Party EP](https://open.spotify.com/album/0i0UghehaPAyvAKScn543o) | 2:54 | 2022-08-26 |  |
 | [Reckless](https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Reckless](https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC) | 3:42 | 2022-08-05 | 2022-09-10 |
 | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/track/1cycPybSk3hzUNOGZ7l1Ya) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/album/2PVmLFvkSWx9yblbSXCPCY) | 3:04 | 2021-10-29 | 2022-01-20 |

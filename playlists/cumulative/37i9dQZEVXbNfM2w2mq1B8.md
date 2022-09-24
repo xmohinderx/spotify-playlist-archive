@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-821 songs - 1 day 21 hr 59 min - [published](https://open.spotify.com/playlist/4ZKbVsA2MbwcWcasP7Y6xf)
+822 songs - 1 day 22 hr 2 min - [published](https://open.spotify.com/playlist/4ZKbVsA2MbwcWcasP7Y6xf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-13 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-24 | 2021-12-27 |
 | [DROGA](https://open.spotify.com/track/6kl1QzJtnTgToGGxZWeTJw) | [Yung Mici](https://open.spotify.com/artist/1yovvU5X4bE5nzBptCjRRG) | [DROGA](https://open.spotify.com/album/4trjVa9DVMhaZ98o69YuK0) | 2:50 | 2022-08-26 |  |
-| [DROGA \- REMIX](https://open.spotify.com/track/4P5VUXBuMIuTgyR8YuR11T) | [Yung Mici](https://open.spotify.com/artist/1yovvU5X4bE5nzBptCjRRG), [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV) | [DROGA \(REMIX\)](https://open.spotify.com/album/6teTSluCPfR61Xzg2iSZU8) | 2:35 | 2022-09-04 |  |
+| [DROGA \- REMIX](https://open.spotify.com/track/4P5VUXBuMIuTgyR8YuR11T) | [Yung Mici](https://open.spotify.com/artist/1yovvU5X4bE5nzBptCjRRG), [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV) | [DROGA \(REMIX\)](https://open.spotify.com/album/6teTSluCPfR61Xzg2iSZU8) | 2:35 | 2022-09-04 | 2022-09-24 |
 | [DROGIRANI](https://open.spotify.com/track/0ia8KfNDzo7eGdPSDovjGp) | [EMIL TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Garjoka](https://open.spotify.com/artist/2HB7K5UdSuYXmdxsPkK8Tm) | [DROGIRANI](https://open.spotify.com/album/2QvW0mwxD05LZEEwKrRz1r) | 3:33 | 2021-05-16 | 2021-05-21 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-07 | 2022-05-31 |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-07-22 | 2022-07-24 |
@@ -679,6 +679,7 @@
 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 | 2021-06-13 | 2021-06-14 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-21 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-19 | 2021-12-27 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 |  |
 | [UNIKAT](https://open.spotify.com/track/7uGByBwNmmcLQbsnxi2JxD) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [ACBG](https://open.spotify.com/artist/3CeJdPAHrJiuGz0qoTEMNb) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 3:45 | 2022-06-04 | 2022-06-18 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-31 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-07-16 |

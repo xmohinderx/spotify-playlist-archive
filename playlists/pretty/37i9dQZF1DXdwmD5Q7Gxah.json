@@ -1,12 +1,12 @@
 {
-  "description": "because a little left of center is best. cover: weyes blood",
-  "num_followers": 927667,
+  "description": "All the indescribable feelings that music gives you. cover: maya hawke",
+  "num_followers": 927772,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg2NzU2OCwwMDAwMDAwMGM5NmM0Y2IyNTk1NWMzMDkyYmNhYmI2OWM2ZGQ2YjY0",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGRmM2ExNWVkYjJlOTcxMzAyNTY1NzczOTA5MTM5M2Fm",
   "tracks": [
     {
       "added_at": "2022-09-09 17:04:50",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 205909,
+      "name": "Bloomed Into Blue",
+      "url": "https://open.spotify.com/track/2mC7nhXEezfnvCidNJz6Vt"
+    },
+    {
       "added_at": "2022-09-22 17:26:08",
       "album": {
         "name": "Unconditional",
@@ -55,6 +71,54 @@
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj"
+      },
+      "artists": [
+        {
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
     },
     {
       "added_at": "2022-09-07 16:04:53",
@@ -73,6 +137,54 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
+      "added_at": "2022-09-16 18:03:16",
+      "album": {
+        "name": "Cherub",
+        "url": "https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 110981,
+      "name": "Cherub",
+      "url": "https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 149511,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG"
+    },
+    {
       "added_at": "2022-09-22 17:26:08",
       "album": {
         "name": "I Wanna",
@@ -87,6 +199,54 @@
       "duration_ms": 210590,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra"
+    },
+    {
+      "added_at": "2022-09-14 21:54:13",
+      "album": {
+        "name": "you're a parasite",
+        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "you're a parasite",
+      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2022-09-13 01:10:35",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2022-07-07 17:59:52",
@@ -121,20 +281,72 @@
       "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
     },
     {
-      "added_at": "2022-09-16 18:03:16",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Cherub",
-        "url": "https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg"
+        "name": "jams 2",
+        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 110981,
-      "name": "Cherub",
-      "url": "https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG"
+      "duration_ms": 69051,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "gaps",
+        "url": "https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 207076,
+      "name": "rewind [Feat. PawPaw Rod]",
+      "url": "https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 224561,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
     },
     {
       "added_at": "2022-09-09 17:04:50",
@@ -269,42 +481,6 @@
       "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
     },
     {
-      "added_at": "2022-09-13 01:10:35",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "gaps",
-        "url": "https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy"
-      },
-      "artists": [
-        {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 207076,
-      "name": "rewind [Feat. PawPaw Rod]",
-      "url": "https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A"
-    },
-    {
       "added_at": "2022-07-15 12:08:06",
       "album": {
         "name": "I Think I Left the Stove On",
@@ -369,22 +545,6 @@
       "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
     },
     {
-      "added_at": "2022-09-14 21:54:13",
-      "album": {
-        "name": "you're a parasite",
-        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "you're a parasite",
-      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
-    },
-    {
       "added_at": "2022-09-13 19:52:43",
       "album": {
         "name": "Heaven",
@@ -415,22 +575,6 @@
       "duration_ms": 109586,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"
     },
     {
       "added_at": "2022-08-24 19:01:53",
@@ -601,38 +745,6 @@
       "url": "https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q"
     },
     {
-      "added_at": "2022-08-18 17:28:11",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 224561,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
-    },
-    {
       "added_at": "2022-09-09 17:04:50",
       "album": {
         "name": "CYBERKISS 2 U*",
@@ -667,38 +779,6 @@
       "duration_ms": 193200,
       "name": "soft-glow",
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "LOUIE",
-        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
-      },
-      "artists": [
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R"
-    },
-    {
-      "added_at": "2022-09-09 17:04:50",
-      "album": {
-        "name": "Host B Sides & Remixes",
-        "url": "https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Sleeping Through Sunshine",
-      "url": "https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd"
     },
     {
       "added_at": "2022-08-26 04:40:34",
@@ -929,22 +1009,6 @@
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
-      "added_at": "2022-08-26 04:40:34",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6mhP2MGOkvFruLtVsqx4ng"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 265115,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/1XtR9GdwiSbhtaufCeYcTT"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "My Friend Mica",
@@ -1047,22 +1111,6 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
-      "added_at": "2022-08-02 17:13:46",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-07-15 14:04:45",
@@ -1183,22 +1231,6 @@
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
-      "added_at": "2022-08-08 16:30:26",
-      "album": {
-        "name": "So Typically Now",
-        "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "duration_ms": 195804,
-      "name": "So Typically Now",
-      "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1371,22 +1403,6 @@
       "duration_ms": 168828,
       "name": "Archetype",
       "url": "https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g"
-    },
-    {
-      "added_at": "2022-07-15 12:08:06",
-      "album": {
-        "name": "Grocery Store",
-        "url": "https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Grocery Store",
-      "url": "https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-07-18 16:43:40",
-      "album": {
-        "name": "God Hired You To Be My Baby",
-        "url": "https://open.spotify.com/album/1kFYe4EJmfo3Dpadhyu4bg"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "God Hired You To Be My Baby",
-      "url": "https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU"
     },
     {
       "added_at": "2022-05-27 04:00:00",

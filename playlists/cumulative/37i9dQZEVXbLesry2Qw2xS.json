@@ -7335,7 +7335,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -11909,7 +11909,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 222453,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
@@ -13114,6 +13114,24 @@
     },
     {
       "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
+    },
+    {
+      "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
       },
@@ -14235,6 +14253,28 @@
       "duration_ms": 167244,
       "name": "sa ei tea mitte kedagi",
       "url": "https://open.spotify.com/track/75dcZLbFCproE1qZvSMZ1O"
+    },
+    {
+      "album": {
+        "name": "Sa oleks v\u00f5inud \u00f6elda nii",
+        "url": "https://open.spotify.com/album/0dQs9DGmN5JdpPl5IRyaQY"
+      },
+      "artists": [
+        {
+          "name": "pluuto",
+          "url": "https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg"
+        },
+        {
+          "name": "Heleza",
+          "url": "https://open.spotify.com/artist/5BWqdIvyPGKRyA8xe6kkBe"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Sa oleks v\u00f5inud \u00f6elda nii",
+      "url": "https://open.spotify.com/track/5h62mwVy8R2sauA5tiugqp"
     },
     {
       "album": {
@@ -15659,7 +15699,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
@@ -17459,6 +17499,28 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "album": {

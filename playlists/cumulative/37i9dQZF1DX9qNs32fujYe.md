@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Motörhead
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
 
-650 songs - 2 day 0 hr 36 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+652 songs - 2 day 0 hr 44 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Cybernetic Overload](https://open.spotify.com/track/4Hs6DfCznvZ6wVjfmt0Rbz) | [Kambrium](https://open.spotify.com/artist/0rrHjjV4E5FY90raLsXUyh) | [Cybernetic Overload](https://open.spotify.com/album/0JAJvtzHGsXelq34uUcj8R) | 5:19 | 2021-12-17 | 2022-06-05 |
 | [Dance with the Devil](https://open.spotify.com/track/0x4rHQ1Syor8YChasHuRJg) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Dance with the Devil](https://open.spotify.com/album/0prKZd93okYXYYIxrYTtzQ) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Dangerous Ground](https://open.spotify.com/track/0eeH8SFeeaIv0lQz61cyL2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Dangerous Ground](https://open.spotify.com/album/5ghPmOARm9W1mA04erYQfW) | 4:06 | 2021-12-17 | 2022-07-29 |
-| [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 |  |
+| [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 | 2022-07-08 | 2022-09-24 |
 | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/track/1eBaXrKKuV93993Bljd1u2) | [Helstar](https://open.spotify.com/artist/4AqUiufKqVihh6uAMonwCv) | [Dark Incarnation \(Mother of the Night\)](https://open.spotify.com/album/0jmPXk7B7VHyPD8ZzE0sgK) | 6:12 | 2021-12-29 | 2022-04-21 |
 | [Darkbloom](https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3) | 3:48 | 2022-07-13 |  |
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-08-19 |  |
@@ -349,6 +349,7 @@
 | [Midnight Bells](https://open.spotify.com/track/7msGMGvVPC1bM40OSfCSSL) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Midnight Bells](https://open.spotify.com/album/50KHCM271IC4nZmnP5v8Bq) | 4:17 | 2022-01-21 | 2022-06-21 |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 | 2022-08-20 |
 | [Midwinter Calls](https://open.spotify.com/track/6rnE3rORv6kUDLoFlgNrq4) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Midwinter Calls](https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h) | 5:06 | 2022-03-25 | 2022-07-29 |
+| [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 | 2022-09-23 |  |
 | [Mindtraveller](https://open.spotify.com/track/31BIfWawTAEnp8KsAasy13) | [Falconer](https://open.spotify.com/artist/1UKdnbreQFDmPg3Mhcjhkr) | [Falconer](https://open.spotify.com/album/4j3Pe9H1HCpbunI1XdQWro) | 5:45 | 2021-12-17 | 2022-08-19 |
 | [Mister Hyde](https://open.spotify.com/track/3rzr9u2oMvHrpEETF3qLSh) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Mister Hyde](https://open.spotify.com/album/6OlCoW7ens7po8Mv5Jiowe) | 5:41 | 2021-12-17 | 2022-07-28 |
 | [Monarch](https://open.spotify.com/track/3qNhMJ4T70gVZPDaj3dCi8) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Monarch](https://open.spotify.com/album/5wd6XULvXyHvuxFq2wO3vY) | 4:52 | 2021-12-17 | 2022-07-27 |
@@ -482,7 +483,7 @@
 | [Slaves of Babylon](https://open.spotify.com/track/2PJ9Aqx5dF2BQtJXZqbCx2) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Armageddon](https://open.spotify.com/album/4zmX2IJjCSSGzTxmURSRDM) | 4:37 | 2022-03-22 | 2022-04-18 |
 | [Slayer of Kings](https://open.spotify.com/track/0qoznAGKZOBgne7MiycPPc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Slayer of Kings](https://open.spotify.com/album/692ScTjOsP51VwCcJtbs9S) | 5:03 | 2021-12-29 | 2022-07-18 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2022-07-13 |  |
-| [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 |  |
+| [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 | 2022-09-24 |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-07-13 |  |
 | [Snake Eyes](https://open.spotify.com/track/1i9JhqoNK9JVPkXwGxQR4m) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Snake Eyes](https://open.spotify.com/album/7vrpqWml8U2goskFO0AX7R) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 | 2022-08-19 |  |
@@ -595,6 +596,7 @@
 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 |  |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |
+| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 |  |
 | [Until We Fall](https://open.spotify.com/track/3Afcf2YiMEpbCD85cAQ40k) | [Starkill](https://open.spotify.com/artist/7wBaXEIGEMxCJYguNjk5RW) | [Until We Fall](https://open.spotify.com/album/5EgokimLgkR4WX6vCDgnv6) | 3:31 | 2021-12-29 | 2022-07-22 |
 | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/track/6F5OGRRIQDc5hF60mcjSTx) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Michael Starr](https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe) | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/album/5KquqpCt18zTEVgakTfLYz) | 4:13 | 2021-12-17 | 2022-07-29 |
 | [Valley of the Kings](https://open.spotify.com/track/3GM0xXSvZFcBspltFsLMS3) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Into The Labyrinth](https://open.spotify.com/album/1DWnVZr8DefUXkqSp5KPal) | 5:03 | 2021-12-17 | 2022-05-06 |

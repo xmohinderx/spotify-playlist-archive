@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-83 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+84 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 |  |
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |
+| [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 |  |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
@@ -56,7 +57,7 @@
 | [No One Knows You Better Than Me](https://open.spotify.com/track/5sRw42rZDyBqUi041yw5q8) | [Runrummer](https://open.spotify.com/artist/2VqvNXdQzKDywenScflYoX) | [No One Knows You Better Than Me](https://open.spotify.com/album/3u7wrsxCG6SfCsz14Kcts4) | 4:23 | 2022-04-04 | 2022-06-14 |
 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 | 2021-11-05 |  |
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 | 2022-07-21 |
-| [On E](https://open.spotify.com/track/4VozL4k5xPgFcFhH6Qr0zH) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Ívan Frey](https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh) | [A Blue Tesla Story](https://open.spotify.com/album/0drLi05JrFsXqzhnHmyOhp) | 3:46 | 2022-07-01 |  |
+| [On E](https://open.spotify.com/track/4VozL4k5xPgFcFhH6Qr0zH) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Ívan Frey](https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh) | [A Blue Tesla Story](https://open.spotify.com/album/0drLi05JrFsXqzhnHmyOhp) | 3:46 | 2022-07-01 | 2022-09-24 |
 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 | 2021-11-05 |  |
 | [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 |  |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 |  |

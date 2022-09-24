@@ -932,6 +932,28 @@
     },
     {
       "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Nocturne No. 19 in E minor, Op. 72 No. 1",
+      "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
+    },
+    {
+      "album": {
         "name": "Benjamin Grosvenor: Chopin, Liszt, Ravel",
         "url": "https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw"
       },
@@ -1017,28 +1039,6 @@
       "duration_ms": 311400,
       "name": "Nocturne No. 9 in B Major, Op. 32 No. 1",
       "url": "https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o"
-    },
-    {
-      "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252000,
-      "name": "Nocturne No.19 in E minor, Op.72 No.1",
-      "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
     },
     {
       "album": {

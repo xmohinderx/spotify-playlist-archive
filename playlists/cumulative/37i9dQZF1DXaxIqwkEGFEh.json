@@ -480,6 +480,28 @@
     },
     {
       "album": {
+        "name": "New Money",
+        "url": "https://open.spotify.com/album/3S35vId70s4N2OxkwZP67N"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "All Hustle (feat. Jeezy)",
+      "url": "https://open.spotify.com/track/4bN2qHcGAwLbvbakbi6W5L"
+    },
+    {
+      "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/5ridWYM8bnEFaZ9dQkLxid"
       },
@@ -921,10 +943,36 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 173783,
       "name": "BIG TIME (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
+    },
+    {
+      "album": {
+        "name": "Bit W The Fangs (feat. Gunna & Nechie)",
+        "url": "https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Nechie",
+          "url": "https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225048,
+      "name": "Bit W The Fangs (feat. Gunna & Nechie)",
+      "url": "https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh"
     },
     {
       "album": {
@@ -983,7 +1031,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216000,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
@@ -1053,6 +1101,24 @@
       "duration_ms": 234869,
       "name": "Blood All On it (feat. Key Glock, Young Dolph)",
       "url": "https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "album": {
@@ -1469,7 +1535,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 149610,
       "name": "Certified (feat. Gunna)",
       "url": "https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5"
@@ -1707,7 +1773,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 153043,
       "name": "Come On",
       "url": "https://open.spotify.com/track/52cShriCuyzJWeTgYzMWJQ"
@@ -1853,6 +1919,24 @@
       "duration_ms": 151776,
       "name": "Dah Dah DahDah",
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "album": {
@@ -2597,7 +2681,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 135960,
       "name": "First Time in Vegas",
       "url": "https://open.spotify.com/track/6T0wusFb4QCtic6XxTKOQv"
@@ -2641,6 +2725,28 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "album": {
+        "name": "Trick City",
+        "url": "https://open.spotify.com/album/1E68gyKlNk48uMqfBPs3Nv"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170722,
+      "name": "For Certain (feat. BIG30)",
+      "url": "https://open.spotify.com/track/6Zdsdkz51wy9dwtzKaalPt"
     },
     {
       "album": {
@@ -2981,7 +3087,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 131368,
       "name": "Get Dangerous",
       "url": "https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s"
@@ -3611,7 +3717,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 161860,
       "name": "Hoppin Out",
       "url": "https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc"
@@ -4248,6 +4354,42 @@
     },
     {
       "album": {
+        "name": "White Chalk & Yellow Tape",
+        "url": "https://open.spotify.com/album/1bpxak0Gqv12c8f3dScZ37"
+      },
+      "artists": [
+        {
+          "name": "Taleban Dooda",
+          "url": "https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136294,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/2ilbSC2LpKCVBHxYRYQFTr"
+    },
+    {
+      "album": {
+        "name": "Jay & Twan 1",
+        "url": "https://open.spotify.com/album/4oTxLAf3ejQmyhdV02VrXR"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Jay & Twan 1",
+      "url": "https://open.spotify.com/track/3gpV8e51dn62yi8lXBfpDO"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -4307,7 +4449,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 167160,
       "name": "JUGG",
       "url": "https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH"
@@ -4373,6 +4515,28 @@
       "duration_ms": 200000,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/1p0BcIePXAd65ouic9XrLT"
+    },
+    {
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "KAPITOL DENIM",
+      "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
     },
     {
       "album": {
@@ -4891,7 +5055,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 181435,
       "name": "Love of the Money (feat. Hotboii)",
       "url": "https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi"
@@ -5096,6 +5260,24 @@
     },
     {
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166787,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n"
+    },
+    {
+      "album": {
         "name": "Master P",
         "url": "https://open.spotify.com/album/0BOgBcsOtJJrEySOygBMt9"
       },
@@ -5107,10 +5289,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 109810,
       "name": "Master P",
       "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
+    },
+    {
+      "album": {
+        "name": "Max Out (feat. Shawny Binladen)",
+        "url": "https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131977,
+      "name": "Max Out (feat. Shawny Binladen)",
+      "url": "https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd"
     },
     {
       "album": {
@@ -5770,6 +5974,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5qlaswyYRuzq0TBLInsNlX"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6ZhQsccTqnGVAR61i0NF4X"
+    },
+    {
+      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2"
       },
@@ -6099,7 +6321,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 165795,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4"
@@ -6718,6 +6940,24 @@
     },
     {
       "album": {
+        "name": "Rapper Who?",
+        "url": "https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "Rapper Who?",
+      "url": "https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs"
+    },
+    {
+      "album": {
         "name": "Real As It Gets",
         "url": "https://open.spotify.com/album/59uB7zCwYHEpD7nDOdbL7s"
       },
@@ -6838,6 +7078,32 @@
     },
     {
       "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/7Dars3VivMCmaW6JR5qy09"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
+    },
+    {
+      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/0LJF6IU5U6F2pDVG0gYaOJ"
       },
@@ -6857,6 +7123,28 @@
       "duration_ms": 134522,
       "name": "Regular",
       "url": "https://open.spotify.com/track/0Tzlbq5k7SJo8IyokmLVU6"
+    },
+    {
+      "album": {
+        "name": "Renegade (feat. Finesse2Tymes)",
+        "url": "https://open.spotify.com/album/6hpizSNriru6KzpCmcNoT6"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Renegade (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/7vNYajhTYaKSx9Ac9PEoLG"
     },
     {
       "album": {
@@ -7037,7 +7325,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 144630,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j"
@@ -7055,7 +7343,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 180344,
       "name": "Robbery Part 4",
       "url": "https://open.spotify.com/track/4CKAeNUTMTnvzpYGKZmQZa"
@@ -7299,10 +7587,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 136098,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/6hVWflIh0QofOapUEGTDcm"
+    },
+    {
+      "album": {
+        "name": "Safehouse (Remix)",
+        "url": "https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Safehouse (Remix)",
+      "url": "https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi"
     },
     {
       "album": {
@@ -7445,7 +7755,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160266,
       "name": "Scared Of Us (feat. Hotboii)",
       "url": "https://open.spotify.com/track/1fUEDgNrJIYE5MvwbRzYI8"
@@ -7949,10 +8259,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 164608,
       "name": "Sniper Gang Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "album": {
@@ -8714,6 +9042,24 @@
     },
     {
       "album": {
+        "name": "They Can't FWM",
+        "url": "https://open.spotify.com/album/2BJj5biozfIQuwBXr1xhaW"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "They Can't FWM",
+      "url": "https://open.spotify.com/track/6PPsAQKwX6lqH3ODT9xF35"
+    },
+    {
+      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/7m9YSsj7bOyKOqd4Etu5LO"
       },
@@ -8892,6 +9238,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
         "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
         "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
       },
@@ -9064,6 +9432,24 @@
     },
     {
       "album": {
+        "name": "Try Being Me",
+        "url": "https://open.spotify.com/album/6519kXqtMLcyZ4jblOMfOa"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122932,
+      "name": "Try Being Me",
+      "url": "https://open.spotify.com/track/4wCHmvuksqMNJzRuJYxwH2"
+    },
+    {
+      "album": {
         "name": "BETTER THAN YOU",
         "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
@@ -9159,7 +9545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212650,
       "name": "Uncle Tommy",
       "url": "https://open.spotify.com/track/6BDANe68PkkUUbqa7CZDPC"
@@ -9725,7 +10111,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199511,
       "name": "Whatever (feat. Key Glock)",
       "url": "https://open.spotify.com/track/6AH8UiIUKp6PXxXUXwB1HA"
@@ -9919,7 +10305,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 148533,
       "name": "Y NOT?",
       "url": "https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T"

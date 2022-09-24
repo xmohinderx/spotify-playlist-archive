@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-117 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+118 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 | 2022-01-14 |  |
 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 | 2022-01-14 |  |
 | [La de los Humildes](https://open.spotify.com/track/1bJWTTxX4kvVTRTfoELBj5) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez \(Vol\. 1\)](https://open.spotify.com/album/3k8qtfOFpjsZumRMkI0zrs) | 4:29 | 2022-01-14 | 2022-07-29 |
-| [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 | 2022-07-08 |  |
+| [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 | 2022-07-08 | 2022-09-24 |
 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 | 2022-01-14 |  |
 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 | 2022-09-06 |  |
 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 | 2022-01-14 |  |
@@ -124,6 +124,7 @@
 | [Zamba de Anta](https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc) | [Marián Farias Gómez](https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure) | [Para ir a buscarte](https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9) | 4:34 | 2022-01-14 | 2022-09-07 |
 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 | 2022-01-14 |  |
 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 | 2022-01-14 |  |
+| [Zamba del Viento Libre](https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg) | [Felicitas Argüello](https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw), [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Zamba del Viento Libre](https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K) | 3:43 | 2022-09-23 |  |
 | [Zamba Enamorada \(feat\. Liliana Herrero\)](https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2) | [Florencia Dávalos](https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq) | [Memoria de la Semilla](https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj) | 4:21 | 2022-01-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

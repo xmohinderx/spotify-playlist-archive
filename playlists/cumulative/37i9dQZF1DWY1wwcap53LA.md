@@ -4,11 +4,12 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-105 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+109 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 | 2021-12-03 |  |
+| [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2022-09-23 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-03 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-03 |  |
@@ -23,10 +24,13 @@
 | [Blessed](https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Blessed](https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol) | 3:18 | 2022-05-13 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-03 |  |
 | [Broken Umbrella](https://open.spotify.com/track/1xRguz8lsbOY33273bAheF) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/7iCUNsYl3SXnIWNB1eO9nd) | 2:43 | 2021-12-03 |  |
+| [Buckle Up](https://open.spotify.com/track/4RS5N7IIHzlG5tsq770Esl) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Buckle Up](https://open.spotify.com/album/0hz5rm9t1iEPJzV3KWUIOH) | 2:16 | 2022-09-23 |  |
 | [Cabin Fever](https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA) | [Aaron Vance](https://open.spotify.com/artist/2BdvOgZdYNtGAzVEfg5jci) | [Cabin Fever](https://open.spotify.com/album/28TxK5Wufy1F037e5TENu1) | 2:53 | 2021-12-03 |  |
 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 | 2022-06-17 |  |
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-03 | 2022-01-15 |
+| [Cottonmouth](https://open.spotify.com/track/5xDEoJdz8iW75JKYeFX9uH) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Cottonmouth](https://open.spotify.com/album/4vXr75Mz2JyIdwwh0gKz0F) | 2:34 | 2022-09-23 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 |  |
+| [Damn Good Life](https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Damn Good Life](https://open.spotify.com/album/4xeFuswf5BhaHo8P0WcR8N) | 2:37 | 2022-09-23 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 |  |
 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-09 |  |
 | [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 | 2022-07-22 |  |

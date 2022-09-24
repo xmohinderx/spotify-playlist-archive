@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Kat & Alex Side A",
+        "url": "https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6XMD3tkYTDzdU6FJxlbsVa"
+    },
+    {
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },

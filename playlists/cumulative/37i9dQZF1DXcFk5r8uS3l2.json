@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 251528,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
@@ -1189,6 +1189,24 @@
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
+    },
+    {
+      "album": {
+        "name": "Hands To Myself",
+        "url": "https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Hands To Myself",
+      "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
     },
     {
       "album": {
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 130276,
       "name": "Knew The Day Was Comin'",
       "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213250,
       "name": "Lovesick Blues",
       "url": "https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 203250,
       "name": "Rumpshaker",
       "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
@@ -3414,6 +3432,24 @@
     },
     {
       "album": {
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168643,
+      "name": "The Preacher Man",
+      "url": "https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d"
+    },
+    {
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm"
       },
@@ -3537,7 +3573,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 314117,
       "name": "Through The Darkest Night",
       "url": "https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd"

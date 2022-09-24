@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electro tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,343 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,390 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,45 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Lone Bellow",
-  "num_followers": 743290,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sons Of The East",
+  "num_followers": 743537,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDRkMmVkZTlhYjU3MGM4N2VhMTA1NmQzM2Q1YTg0MDJj",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDBjOWNhZjZjMGY4Nzg1ODQzOTViMjA3MjcyZmM0MTAx",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Luna Moth",
+        "url": "https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 204135,
+      "name": "Luna Moth",
+      "url": "https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 171486,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI"
+    },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
@@ -41,6 +73,90 @@
       "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Letter to the Boy",
+        "url": "https://open.spotify.com/album/5M1LoQskZ9uiCZzvSoxUbe"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Letter to the Boy",
+      "url": "https://open.spotify.com/track/24j6YXFaOkhGreq618nvtW"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I'm Ready",
+        "url": "https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Heaven Isn't Long for You",
+        "url": "https://open.spotify.com/album/53Aw9ivlyuk7qOGIPBXUJQ"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 230827,
+      "name": "Heaven Isn't Long for You",
+      "url": "https://open.spotify.com/track/2PLp956ZkCJJpACzY4dj57"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "You Could Be Free",
+        "url": "https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "You Could Be Free",
+      "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Sweetbread",
@@ -71,26 +187,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -105,36 +201,52 @@
       "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "I'm Ready",
-        "url": "https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol"
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 194160,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe"
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "It's Like a Secret",
-        "url": "https://open.spotify.com/album/0zwGZpjf8dew8vhvVPwInk"
+        "name": "Dreamland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB"
       },
       "artists": [
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 206489,
-      "name": "It's Like a Secret",
-      "url": "https://open.spotify.com/track/7aYmigXpYWiTKcdsi3Hagm"
+      "duration_ms": 198346,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Love Looks Different",
+        "url": "https://open.spotify.com/album/16DWTmp4xV6rIJDGh3QDnR"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Love Looks Different",
+      "url": "https://open.spotify.com/track/6pS0MqQkSJbTfND2na4lTP"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -153,20 +265,100 @@
       "url": "https://open.spotify.com/track/5a784jrAMlhuqpp46yXIPd"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Dreamland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB"
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 198346,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS"
+      "duration_ms": 234028,
+      "name": "Miles Are Wide",
+      "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "It's Like a Secret",
+        "url": "https://open.spotify.com/album/0zwGZpjf8dew8vhvVPwInk"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "It's Like a Secret",
+      "url": "https://open.spotify.com/track/7aYmigXpYWiTKcdsi3Hagm"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "all in good Time,",
+        "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "duration_ms": 301278,
+      "name": "all in good Time,",
+      "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/03YzaOt8huM6dxanWpUYhf"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 153451,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/3ySpwWCOCVnVJWfxLshrXo"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Time Can Prove You Wrong",
+        "url": "https://open.spotify.com/album/11ba8kyyWANbRHO7v1BtYN"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Time Can Prove You Wrong",
+      "url": "https://open.spotify.com/track/21k5ZKcSxFK52Nk0pBa75t"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -201,36 +393,20 @@
       "url": "https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "You and Me On The Rock (In The Canyon Haze)",
-        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+        "name": "Every Shade of Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 257853,
-      "name": "You and Me On The Rock (In The Canyon Haze)",
-      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+      "duration_ms": 188346,
+      "name": "Hurts (But It Goes Away) - Acoustic",
+      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -319,22 +495,6 @@
       "duration_ms": 252874,
       "name": "stained glass",
       "url": "https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Every Shade of Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Hurts (But It Goes Away) - Acoustic",
-      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -533,10 +693,10 @@
       "url": "https://open.spotify.com/track/6pEwmzXlnUaitpjfFWzfMc"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Better Off High",
-        "url": "https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
@@ -546,7 +706,7 @@
       ],
       "duration_ms": 270806,
       "name": "Better Off High",
-      "url": "https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY"
+      "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -583,6 +743,22 @@
       "duration_ms": 204444,
       "name": "Half the Story (with Alix Page)",
       "url": "https://open.spotify.com/track/4Q48kYYUtJkxMZXal19xjq"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 221082,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -723,22 +899,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Real Low Down Lonesome",
         "url": "https://open.spotify.com/album/1umFpAK7jLxvDo1gt4uMPZ"
       },
@@ -791,22 +951,6 @@
       "duration_ms": 251200,
       "name": "New Earth",
       "url": "https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Leave You Lonely",
-        "url": "https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 264298,
-      "name": "Leave You Lonely",
-      "url": "https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1149,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0suQ5mWrERHQ10uZBjoVsH"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
@@ -1347,22 +1491,6 @@
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1653,7 +1781,7 @@
       "url": "https://open.spotify.com/track/2gZ6nr4rWkXfvSrjXQPqVw"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "When We Believed",
         "url": "https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv"
@@ -1735,22 +1863,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Grace After a Party",
-        "url": "https://open.spotify.com/album/6WJ22PCOzQ79tmQnI7sCKl"
-      },
-      "artists": [
-        {
-          "name": "Jemima Coulter",
-          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Peeling / Heaven",
-      "url": "https://open.spotify.com/track/3FAB4VjDknhDzNNzOzdLTH"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Don\u2019t Go, Don\u2019t Leave",
         "url": "https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey"
       },
@@ -1815,22 +1927,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "i had a dream that you died",
-        "url": "https://open.spotify.com/album/5Sr54ojlK5V66jCFnVCfMM"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 138581,
-      "name": "i had a dream that you died",
-      "url": "https://open.spotify.com/track/3S7qHSnfJDGjiTsvSMd92e"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "The Bible Belt Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/6Qf8LVRIQA7bJBUJ8jmJnT"
       },
@@ -1843,22 +1939,6 @@
       "duration_ms": 293120,
       "name": "Throw the First Punch",
       "url": "https://open.spotify.com/track/3ldOIXhPIa1SLaeA2xKE0M"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "What I Do",
-        "url": "https://open.spotify.com/album/09nu1f1KAVA3s6LEP7H8RQ"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/4mTGhomXLeE4efEb58w2RY"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1959,22 +2039,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 245889,
-      "name": "Blood Harmony",
-      "url": "https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -2051,22 +2115,6 @@
       "duration_ms": 214593,
       "name": "True to Ourselves",
       "url": "https://open.spotify.com/track/1zpfxv4XGfQhOr0qTsr9mE"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Inhuman",
-        "url": "https://open.spotify.com/album/6TiXS3ESOjoZWt3ZwhqbF6"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 222896,
-      "name": "Inhuman",
-      "url": "https://open.spotify.com/track/0ncQ9YbooDMouzuq5SJOts"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2275,22 +2323,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -2455,22 +2487,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Meeting Eddie Smith",
-        "url": "https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Meeting Eddie Smith",
-      "url": "https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Fourth of July",
         "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 332630,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Virginia",
-        "url": "https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b"
-      },
-      "artists": [
-        {
-          "name": "Torri Weidinger",
-          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
-        }
-      ],
-      "duration_ms": 253980,
-      "name": "Virginia",
-      "url": "https://open.spotify.com/track/1GYSSKVMZB4GNGsP2h0EZJ"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,254 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,256 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 18 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 19 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 20 | [Allure \- Album Version \(Edited\)](https://open.spotify.com/track/3XEHn72yyeU5VmCrvqh37n) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k) | 4:51 |
-| 21 | [Conséquence](https://open.spotify.com/track/45maHVGVAxDBaNap9dUMwN) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/62hYg9ivSjwLvL5Bl2SzUf) | 5:18 |
+| 21 | [Conséquence](https://open.spotify.com/track/76ot3BABnfPJi06g7J7iBa) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/5aX2ssV8mdnw05IxzcdrKJ) | 5:18 |
 | 22 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 23 | [So Hard](https://open.spotify.com/track/5I0qCoNe6cOfXajLAzazUN) | [Nezi](https://open.spotify.com/artist/09LvpbdDJHTFARXMJ04Rto) | [So Hard](https://open.spotify.com/album/6CM5Q43X8r38gyGeollqGj) | 2:58 |
 | 24 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/032kwZ9kg4yIaIPBOOIwlm) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [John Wesley Harding](https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn) | 2:39 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 37 | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/2w2nGYcTq7iP1Aj6AI8KIi) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0Xkq8tR6m6ofrw7Tq6cPZ8) | 3:13 |
 | 38 | [Lush Life](https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:40 |
 
-Snapshot ID: `MTY0NzM2NjIxNywwMDAwMDAwMDAyMTBhMmNjYzFhNWMwNDc2MGY5ODhhZjJmNGZkNzFh`
+Snapshot ID: `MTY0NzM2NjIxNywwMDAwMDAwMDk0OTY5MmFjYTgzNmExOGRmNzA0ZDMyYTYyM2ZmMTI5`

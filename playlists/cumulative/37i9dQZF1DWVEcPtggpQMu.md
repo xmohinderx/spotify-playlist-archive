@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=7Fic5eRsS4asQlK\-vSZUKA">Shooterkhumz</a>
 
-349 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+350 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [So Jaded](https://open.spotify.com/track/2ZbMPkryRnSsyHWs18WAYa) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [So Jaded](https://open.spotify.com/album/06LlhLAAP1cX45WNarY6OM) | 2:28 | 2021-12-09 | 2022-02-11 |
 | [Soaring](https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Soaring](https://open.spotify.com/album/3fuT6GFqDLZ0spey7ctE5Y) | 2:15 | 2022-02-24 | 2022-07-15 |
 | [Somewhere In Between](https://open.spotify.com/track/15HJGuiZm2PIOE99qRqfEF) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Before I Say More](https://open.spotify.com/album/6Nb7ZsVppxcaRMSAWQaBpt) | 4:11 | 2022-09-09 |  |
-| [Spane De Job](https://open.spotify.com/track/2f4nN8PFPT9OBWndHGTWd0) | [Coli Cougar](https://open.spotify.com/artist/3uj9rfXhLlQ3tehnnQmjcf), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Spane De Job](https://open.spotify.com/album/0Y70t8CWt2YO0SUAbA5WtN) | 3:56 | 2022-09-22 |  |
+| [Spane De Job](https://open.spotify.com/track/2f4nN8PFPT9OBWndHGTWd0) | [Coli Cougar](https://open.spotify.com/artist/3uj9rfXhLlQ3tehnnQmjcf), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Spane De Job](https://open.spotify.com/album/0Y70t8CWt2YO0SUAbA5WtN) | 3:56 | 2022-09-22 | 2022-09-24 |
+| [Spane De Job](https://open.spotify.com/track/4bkEQppLPEAuudxJ59FSWE) | [Coli Cougar](https://open.spotify.com/artist/3uj9rfXhLlQ3tehnnQmjcf), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [The Bopline Massacre \(Extended Version\)](https://open.spotify.com/album/18HhHKgEMNKFsyA9CDpVxe) | 3:56 | 2022-09-22 |  |
 | [Speed](https://open.spotify.com/track/0nWikAJLCDqAFas6gVAcpb) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs), [Ugly World](https://open.spotify.com/artist/0lbubWZTbdxc5QbeEvzZIc) | [APK WORLD!](https://open.spotify.com/album/29Nbr9GKnvcrdyTDtfaZ8E) | 1:43 | 2022-03-31 | 2022-04-15 |
 | [Stack Up](https://open.spotify.com/track/4NffuNmrXK9kqWW846yENr) | [SlimPimp](https://open.spotify.com/artist/5bci5ZN0f3W5QZlkZr1ok0), [Mlue Jay](https://open.spotify.com/artist/3ong80qAS7HLPCbjfAXRO2) | [Zero Experience](https://open.spotify.com/album/3zGy84SUzyFSESyXqvEEgP) | 2:48 | 2022-07-08 | 2022-09-10 |
 | [Still](https://open.spotify.com/track/1R4ojHMaQU0T3cDGvsPmHo) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 3:29 | 2022-03-10 | 2022-04-01 |

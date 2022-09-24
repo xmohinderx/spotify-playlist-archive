@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,443 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,461 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 6 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 7 | [Got Em \(Sango Remix\)](https://open.spotify.com/track/42HJvTZUDb2gcbSOKevQI8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 3:41 |
 | 8 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
-| 9 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [ORA Sounds](https://open.spotify.com/artist/2ahZ87lQnEBGboVloq3OB5), [Paul Chadwick Norman](https://open.spotify.com/artist/35uREVVmbl9IiZ8Wj2XKw0) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
+| 9 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
 | 10 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 |
 | 11 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
 | 12 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |

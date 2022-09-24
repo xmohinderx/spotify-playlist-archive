@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Ian Munsick
 
-145 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+146 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Three](https://open.spotify.com/track/1XE2AiPIecv5qDJvoajruU) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Three](https://open.spotify.com/album/4qBC2PWgHdkaec6uwBiKUh) | 3:30 | 2022-04-15 |  |
 | [Three Wooden Crosses](https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Three Wooden Crosses: The Inspirational Hits of Randy Travis](https://open.spotify.com/album/17GFGc299gAbkJWoIu5eba) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 | 2022-07-15 |  |
+| [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-23 |  |
 | [Today](https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:49 | 2022-07-15 |  |
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |

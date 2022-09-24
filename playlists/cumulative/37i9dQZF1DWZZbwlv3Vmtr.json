@@ -492,6 +492,28 @@
     },
     {
       "album": {
+        "name": "Bakery | A Walk In Central Park",
+        "url": "https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX"
+      },
+      "artists": [
+        {
+          "name": "Lemeria",
+          "url": "https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133340,
+      "name": "Bakery",
+      "url": "https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD"
+    },
+    {
+      "album": {
         "name": "bar on mars",
         "url": "https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I"
       },
@@ -2981,7 +3003,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 124171,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0VebHKTE4C8pJCP5oqPEM3"
@@ -3351,7 +3373,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 294893,
       "name": "I Know",
       "url": "https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4"
@@ -3607,7 +3629,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 149104,
       "name": "Jazz Tales",
       "url": "https://open.spotify.com/track/0TdUd1HFmecMdulJujFNi6"
@@ -3805,7 +3827,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 158646,
       "name": "Keeping it Simple",
       "url": "https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy"
@@ -4434,6 +4456,24 @@
     },
     {
       "album": {
+        "name": "Low Jump",
+        "url": "https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96687,
+      "name": "Low Jump",
+      "url": "https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn"
+    },
+    {
+      "album": {
         "name": "Low Key",
         "url": "https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP"
       },
@@ -4504,6 +4544,28 @@
     },
     {
       "album": {
+        "name": "Lucid Living",
+        "url": "https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb"
+      },
+      "artists": [
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        },
+        {
+          "name": "Whilst",
+          "url": "https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146493,
+      "name": "Lucid Living",
+      "url": "https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV"
+    },
+    {
+      "album": {
         "name": "Lunaria / Hedera",
         "url": "https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq"
       },
@@ -4519,6 +4581,28 @@
       "duration_ms": 93720,
       "name": "Lunaria",
       "url": "https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9"
+    },
+    {
+      "album": {
+        "name": "Luscious",
+        "url": "https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9 Mon",
+          "url": "https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo"
+        },
+        {
+          "name": "No Catch",
+          "url": "https://open.spotify.com/artist/7FLGelyblSnmtdBhUCx4bb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117142,
+      "name": "Luscious",
+      "url": "https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G"
     },
     {
       "album": {
@@ -5991,7 +6075,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 119776,
       "name": "Pink Waters",
       "url": "https://open.spotify.com/track/0RnUzVJENbMYhU5Eb7xbRe"
@@ -6623,6 +6707,28 @@
       "duration_ms": 178604,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/03JofGom1VxDXNo4Z2N1EG"
+      },
+      "artists": [
+        {
+          "name": "S\u014dNE",
+          "url": "https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3YJdBijVbXw58hspcmMnNi"
     },
     {
       "album": {
@@ -7332,6 +7438,24 @@
     },
     {
       "album": {
+        "name": "in the clouds",
+        "url": "https://open.spotify.com/album/3MxySDz5dvG7BxCttkLEue"
+      },
+      "artists": [
+        {
+          "name": "owlh",
+          "url": "https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "solstice",
+      "url": "https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV"
+    },
+    {
+      "album": {
         "name": "Can't make it without U",
         "url": "https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf"
       },
@@ -7455,7 +7579,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 162000,
       "name": "Spring Magic",
       "url": "https://open.spotify.com/track/3UNpc4XLwtOrJeb2GYrNkI"
@@ -9108,6 +9232,28 @@
     },
     {
       "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
+      },
+      "artists": [
+        {
+          "name": "Sam Cross",
+          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
+        },
+        {
+          "name": "Kebyn Moon",
+          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115714,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+    },
+    {
+      "album": {
         "name": "wandsworth park",
         "url": "https://open.spotify.com/album/3uTFiBnVfCwU8mOaPtpqOb"
       },
@@ -9373,7 +9519,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 187764,
       "name": "Willow Whip",
       "url": "https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq"

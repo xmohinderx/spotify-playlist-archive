@@ -1,13 +1,45 @@
 {
   "description": "Featuring that new vintage. Cover: Meghan Trainor",
-  "num_followers": 399411,
+  "num_followers": 399397,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDExNzhmZTU2ZDVmNTFhY2UxNDE5MmE2OWNkYTEwMTBm",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDNiY2I1YmFkZTkzYmE3ZDJhMDcxYjExMTRjNTYxMmFj",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Rolling Back",
+        "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
+    },
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
@@ -25,20 +57,40 @@
       "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "OUT OF CONTEXT",
-        "url": "https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd"
+        "name": "Poems",
+        "url": "https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9"
       },
       "artists": [
         {
-          "name": "Devon",
-          "url": "https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v"
+          "name": "Couch",
+          "url": "https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ"
         }
       ],
-      "duration_ms": 162666,
-      "name": "OUT OF CONTEXT",
-      "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
+      "duration_ms": 189135,
+      "name": "Poems",
+      "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173427,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -67,62 +119,18 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Don't Try",
-        "url": "https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
       "artists": [
         {
-          "name": "Nina Tonji",
-          "url": "https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q"
-        },
-        {
-          "name": "Jay Adams",
-          "url": "https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8"
-        },
-        {
-          "name": "Ben Molinaro",
-          "url": "https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 175063,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 173427,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -141,22 +149,6 @@
       "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Until I Found You",
@@ -171,42 +163,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "about time",
-        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Takahiro Izumikawa",
-          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "about time",
-      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "i'm lost for words",
-        "url": "https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel",
-          "url": "https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC"
-        }
-      ],
-      "duration_ms": 137096,
-      "name": "i'm lost for words",
-      "url": "https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR"
     },
     {
       "added_at": "2022-05-02 20:03:12",
@@ -401,22 +357,6 @@
       "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "30",
@@ -447,6 +387,22 @@
       "duration_ms": 201786,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -619,6 +575,22 @@
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -809,6 +781,22 @@
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Maybe We Could Be a Thing",
@@ -853,22 +841,6 @@
       "url": "https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "See the World",
@@ -883,6 +855,26 @@
       "duration_ms": 201226,
       "name": "Paul Newman Daytona Rolex",
       "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "about time",
+        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "about time",
+      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
     },
     {
       "added_at": "2021-12-03 05:01:00",

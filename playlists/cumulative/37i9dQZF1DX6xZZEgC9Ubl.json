@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-13",
-  "description": "Emo rap feels for the misunderstood. Cover: 347aidan",
+  "description": "Emo rap feels for the misunderstood. Cover: iann dior",
   "name": "tear drop",
   "published_playlist_ids": [
     "0iUS4WRaLWFNRyPELzsm9Z"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 203373,
       "name": "beamer boy",
       "url": "https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7"
@@ -2877,7 +2877,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 142092,
       "name": "Disappointment (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
@@ -2979,7 +2979,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156000,
       "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
       "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
@@ -3903,7 +3903,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196400,
       "name": "Falling Down - Bonus Track",
       "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
@@ -4129,7 +4129,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 165779,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
@@ -4677,7 +4677,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 136568,
       "name": "gone girl",
       "url": "https://open.spotify.com/track/3iH29NcCxYgI5shlkZrUoB"
@@ -5728,6 +5728,24 @@
     },
     {
       "album": {
+        "name": "I Didn't Realize How Empty My Bed Was Until You Left",
+        "url": "https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "I Didn't Realize How Empty My Bed Was Until You Left",
+      "url": "https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs"
+    },
+    {
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
@@ -5945,7 +5963,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160660,
       "name": "i think you're really cool",
       "url": "https://open.spotify.com/track/78cIbVjU1xn7mbQ9i35avl"
@@ -7321,7 +7339,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
@@ -9773,7 +9791,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 206270,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
@@ -10233,10 +10251,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 166605,
       "name": "SAD!",
       "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+    },
+    {
+      "album": {
+        "name": "saddest soundtrack",
+        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170742,
+      "name": "saddest soundtrack",
+      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
     },
     {
       "album": {
@@ -10363,7 +10399,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 231546,
       "name": "Save That Shit",
       "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
@@ -10617,7 +10653,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
@@ -10821,7 +10857,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147461,
       "name": "Sitting In Fire",
       "url": "https://open.spotify.com/track/6oXgRfFIvzWe83K5la8oI9"
@@ -11141,7 +11177,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
@@ -11479,6 +11515,24 @@
       "duration_ms": 102060,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/4EvPNp6cTwmKuPd0JvYbwM"
+    },
+    {
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/71lnv01Ng6NGMfoEI76hNs"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140778,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/5IMkbCh7AAUFfiN37a0ExL"
     },
     {
       "album": {
@@ -12446,6 +12500,28 @@
     },
     {
       "album": {
+        "name": "TIRED",
+        "url": "https://open.spotify.com/album/3IZrCrFCQpZA0LhzebTws0"
+      },
+      "artists": [
+        {
+          "name": "Anxiety Attacks!",
+          "url": "https://open.spotify.com/artist/2MFiIdBZb1qMLyOyaLioLn"
+        },
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "TIRED",
+      "url": "https://open.spotify.com/track/4U2DdHWTG2c78i05CIuLAK"
+    },
+    {
+      "album": {
         "name": "MIXED EMOTIONS",
         "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
       },
@@ -12849,7 +12925,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
@@ -13889,7 +13965,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 117692,
       "name": "you never meant it",
       "url": "https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc"

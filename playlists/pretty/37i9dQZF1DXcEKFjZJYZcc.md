@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Happy vibes for an upbeat morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,086 likes - 136 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,119 likes - 136 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 135 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 |
 | 136 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 |
 
-Snapshot ID: `MTY2MzA2MDU3OSwwMDAwMDAwMDMzY2E5OTE3MTRkM2EwZTU3MDliMmZhYzExNmQ4MDk3`
+Snapshot ID: `MTY2MzkzOTc5NCwwMDAwMDAwMGE0NTM1Y2U3YzRlY2E4ZTA5YzI2ZmMwYjBiZGY3NDhm`

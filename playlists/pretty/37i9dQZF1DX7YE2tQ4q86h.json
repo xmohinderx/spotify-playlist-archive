@@ -1,13 +1,69 @@
 {
-  "description": "Screaming, crying, throwing up! Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover:  Rina Sawayama",
-  "num_followers": 33576,
+  "description": "Screaming, crying, throwing up! Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Sam Smith & Kim Petras",
+  "num_followers": 33694,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDkzNjZkMjUyYTZkZDczMjZiMGUwNzdlNjEwMzY5M2Y4",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGUzNjdjYmVlMDJiMWI1Nzc1MzU5MDBkNWU1ZTNkOGI5",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Summer Really Hurt Us",
+        "url": "https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 168076,
+      "name": "Summer Really Hurt Us",
+      "url": "https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH"
+    },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
@@ -43,22 +99,50 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Girl Of My Dreams",
+        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Guess We Lied...",
+      "url": "https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -93,20 +177,36 @@
       "url": "https://open.spotify.com/track/7pQWuLdHOSIkXfjNWnqT8v"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0xpiM6xIxvVejWrdAGRp5o"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+      "duration_ms": 228813,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "BRAND NEW BITCH",
+        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "BRAND NEW BITCH",
+      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -177,22 +277,6 @@
       "url": "https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BRAND NEW BITCH",
-        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "BRAND NEW BITCH",
-      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Hold The Girl",
@@ -207,22 +291,6 @@
       "duration_ms": 212545,
       "name": "Imagining",
       "url": "https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -615,26 +683,6 @@
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1147,34 +1195,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "New To You (with Normani, Tinashe, & Offset)",
-        "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 302952,
-      "name": "New To You (with Normani, Tinashe, & Offset)",
-      "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Lesbionic",
         "url": "https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu"
       },
@@ -1315,22 +1335,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Barbiegurl",
-        "url": "https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Barbiegurl",
-      "url": "https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "GOOD PUSS",
         "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
@@ -1375,30 +1379,6 @@
       "duration_ms": 158549,
       "name": "Summer In New York",
       "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Big Energy (feat. DJ Khaled) [Remix]",
-        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Big Energy (feat. DJ Khaled) - Remix",
-      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
     },
     {
       "added_at": "2022-09-09 04:00:00",

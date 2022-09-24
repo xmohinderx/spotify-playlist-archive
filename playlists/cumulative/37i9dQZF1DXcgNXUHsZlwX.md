@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-370 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+372 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
 | [Dormance](https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E) | [Gabriel Noël](https://open.spotify.com/artist/6p5qua20Z6aIoP9yXwOHPL) | [Essai de danse sans gravité](https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta) | 2:33 | 2021-01-03\* | 2022-06-18 |
+| [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 | 2022-09-23 |  |
 | [Douceur du mois d'aout](https://open.spotify.com/track/1MvELfNVnESM9z5JONi9qI) | [Jeando](https://open.spotify.com/artist/0R5yr84EzZRFxrF4GFloAO) | [Toutes les étoiles me l'ont dit](https://open.spotify.com/album/4m6vgWkQ14w9EeYM2UXzXi) | 3:06 | 2021-01-03\* | 2021-01-25 |
 | [Doux](https://open.spotify.com/track/1ShsVA7nrhUVGFWXWU3M8T) | [Mariko](https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V) | [La fin du printemps](https://open.spotify.com/album/2r332ksd9Zuwv1cu5c2eQB) | 4:07 | 2021-01-03\* | 2022-07-25 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-06-28 |
@@ -169,6 +170,7 @@
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* |  |
 | [La myopie du coeur](https://open.spotify.com/track/0JvG23hQr8r5jK8sRDV56D) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [La myopie du coeur \- Single](https://open.spotify.com/album/587yESFa8dOQfYV0YaBv8Y) | 3:05 | 2021-01-15 | 2022-06-30 |
 | [La porte de l'hôpital](https://open.spotify.com/track/4yx36ceDtSEuPjvl5lwGlo) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [La porte de l'hôpital](https://open.spotify.com/album/3RKhAG0hro25cTVL8EXocG) | 4:16 | 2021-08-31 | 2021-09-28 |
+| [la rivière](https://open.spotify.com/track/34TsmGq0ibmXtJAcfl7W5o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:26 | 2022-09-23 |  |
 | [La tireuse de cartes](https://open.spotify.com/track/0WAkPP6fVnKOoyK9Mxu9tx) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [L'Album de Boue](https://open.spotify.com/album/3y1Otdwrdze1bbukisaxeg) | 4:32 | 2021-02-26 | 2021-09-29 |
 | [La tête à hier](https://open.spotify.com/track/5eembkZTkQTPiDBrikrvV6) | [Émile Gruff](https://open.spotify.com/artist/5V4tYWMSUoiENIzBUzhom6) | [Une fin heureuse ? \(2e partie\)](https://open.spotify.com/album/2g9w8I9nkUPIVoT81uCufJ) | 3:20 | 2021-02-22 | 2021-05-07 |
 | [La vallée des fantômes](https://open.spotify.com/track/0CYFSRbOBPwwdqezHQKfKQ) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Le chemin des possibles](https://open.spotify.com/album/4Ulibhn07t2Jzam0wP2tdq) | 3:26 | 2022-04-29 | 2022-07-06 |
@@ -177,7 +179,7 @@
 | [Laisse tomber](https://open.spotify.com/track/708gV8gsUkKJh6YeNubcZR) | [Cédric Vieno](https://open.spotify.com/artist/3BlVrNmJQj2ZfgFYDs3iNv) | [Maltempête](https://open.spotify.com/album/07L0z3wBeykMe72aSurnci) | 3:09 | 2021-01-03\* | 2021-05-07 |
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
-| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 |  |
+| [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 | 2022-09-24 |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 | 2021-01-03\* |  |
 | [Le pont](https://open.spotify.com/track/2zj9ku9XufSFWYNKLLK1fC) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Le pont](https://open.spotify.com/album/4H87yefc5YdOCyBgk5CRal) | 4:18 | 2021-03-19 | 2021-05-07 |
@@ -334,7 +336,7 @@
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 |  |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 |  |
 | [Toi pis moi pis c'est tout](https://open.spotify.com/track/5tOAwNMGpEPxFhgdcA40jb) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Toi pis moi pis c'est tout](https://open.spotify.com/album/2vDpAshyPeS95oGebMAI8g) | 3:28 | 2021-01-03\* | 2021-01-25 |
-| [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 |  |
+| [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-09-24 |
 | [Tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 | 2022-06-03 | 2022-06-07 |
 | [Ton grand rire](https://open.spotify.com/track/19KGJ8NvfZk2jmDNZ3IYdE) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Nos maisons](https://open.spotify.com/album/7rl9fR8irdz94ALZ90ZELN) | 3:25 | 2021-03-21 | 2021-10-14 |
 | [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 | 2021-01-15 |  |

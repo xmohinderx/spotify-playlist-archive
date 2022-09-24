@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Nu vet jag precis vad jag vill ha: EN GAMMAL AMAZON!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,845 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,369 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 20 | [LIVET PÅ EN PINNE](https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [LIVET PÅ EN PINNE](https://open.spotify.com/album/59KYpP2odCYJuBnQBGDmTO) | 2:43 |
 | 21 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 |
 | 22 | [SUPA](https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [SUPA](https://open.spotify.com/album/74R5y9CwBBcBNGTmm1vkww) | 2:58 |
-| 23 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6agCyqS204QdNHJvKCl8AJ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 |
+| 23 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 |
 | 24 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 |
 | 25 | [Dum](https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG) | 2:48 |
 | 26 | [MISSFÖRSTÅTT \- Roc Boyz Remix](https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [MISSFÖRSTÅTT \(Roc Boyz Remix\)](https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf) | 1:54 |
 | 27 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 |
 | 28 | [Donkey Kong](https://open.spotify.com/track/0QfxhyX9dky9Zgfr2xhNzR) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Donkey Kong](https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3) | 2:28 |
 | 29 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 |
-| 30 | [MEDVETSLÖS](https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6) | [LOAM](https://open.spotify.com/artist/6agCyqS204QdNHJvKCl8AJ) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:23 |
+| 30 | [MEDVETSLÖS](https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:23 |
 | 31 | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi) | 2:22 |
 | 32 | [BALENCIAGA](https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [BALENCIAGA](https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI) | 2:34 |
 | 33 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 |

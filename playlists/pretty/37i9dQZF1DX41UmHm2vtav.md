@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,247 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,360 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 | 70 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGE4ZmMyZTJlYTJlMjI3MmY2NmUyYjA0NzRlNjNhMDli`
+Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMGQ5ZmY1MTAzY2M5MmM4MDk2ZDZkMmQ5MTZiOGFiNzZl`

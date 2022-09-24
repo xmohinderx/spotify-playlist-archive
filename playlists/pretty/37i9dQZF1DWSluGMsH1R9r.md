@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,236 likes - 367 songs - 15 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,225 likes - 367 songs - 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -376,4 +376,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 366 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 | 367 | [Salon musique](https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island](https://open.spotify.com/album/1yF5Hz1HEBepidnXeqMZIW) | 2:00 |
 
-Snapshot ID: `MTY2MzEzODkzOSwwMDAwMDAwMGU3YWQ1NzhhOWY4YWRmNjc2ZmZmODAxOGFhNzY5MTc5`
+Snapshot ID: `MTY2Mzk0MDg4MCwwMDAwMDAwMGQ5NzVhNWVlOWVhZGM3YjdmYzE4YjY5Mjk5NWNlYWRl`

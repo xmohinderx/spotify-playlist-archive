@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-225 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
+227 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 | 2022-01-19 | 2022-09-17 |
 | [I Don't Wanna Know](https://open.spotify.com/track/5r04VZJXvaRaLAc2pafWIk) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [District Line EP](https://open.spotify.com/album/6tBsQaqp6iittmjD9ALSPi) | 3:28 | 2021-10-26 | 2022-01-20 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 |  |
+| [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 | 2022-09-23 |  |
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-15 | 2022-07-23 |
 | [I'm Okay](https://open.spotify.com/track/13G75440eEdoAYBxpvx7iJ) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [I'm Okay](https://open.spotify.com/album/121XCucgRj9maofL28rYsF) | 2:56 | 2022-08-05 | 2022-08-13 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:29 | 2021-10-26 | 2022-01-20 |
@@ -147,9 +148,10 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-01-19 |  |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 |  |
 | [No Such Thing](https://open.spotify.com/track/6UpCNcYmYBrkqbNQAR9U3H) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 3:57 | 2021-08-05 | 2022-01-19 |
+| [Nobody](https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nobody](https://open.spotify.com/album/0xpiM6xIxvVejWrdAGRp5o) | 3:48 | 2022-09-23 |  |
 | [Normal Kid](https://open.spotify.com/track/1tvVxUE33ROYbQDrr2nXIw) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Normal Kid](https://open.spotify.com/album/1rX2mSRqM0GmTM0e4YK9H7) | 3:12 | 2022-04-15 | 2022-07-26 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-06-27 |
-| [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 | 2022-09-24 |
 | [Novocaine](https://open.spotify.com/track/28tJhpy4NDPiZk28sEGSsh) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:18 | 2022-07-22 | 2022-07-30 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-01-19 |  |
 | [Old Fashioned](https://open.spotify.com/track/2N0rHlYG5N4fN9HnVis9yj) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Old Fashioned](https://open.spotify.com/album/4hS6YtCIkN95pOeGLDsGI0) | 3:19 | 2021-08-05 | 2022-01-20 |
@@ -175,7 +177,7 @@
 | [Say Goodbye](https://open.spotify.com/track/3RnkPoduHhQX4FY9x2rEeY) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb), [Maiza](https://open.spotify.com/artist/4VV9icF9SRufglMKhsDDrf) | [Say Goodbye](https://open.spotify.com/album/5VzYQ9BHrTI6HPV5sk4R79) | 3:12 | 2022-07-29 | 2022-08-06 |
 | [See If I Care](https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [See If I Care](https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle) | 2:39 | 2022-08-26 | 2022-09-10 |
 | [See the World](https://open.spotify.com/track/2SWF7MUtjpdeUxE1eDS5kc) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 4:17 | 2022-01-19 | 2022-07-29 |
-| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
+| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-09-24 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-27 |
 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 |  |
 | [Shaky Bridges](https://open.spotify.com/track/2iDu5rmcBZwd70LBGbKWUm) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:28 | 2021-08-05 | 2022-01-20 |

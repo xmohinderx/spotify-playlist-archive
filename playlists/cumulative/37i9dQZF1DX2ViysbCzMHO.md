@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-195 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+196 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Hold onto Me](https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 3:25 | 2022-07-15 |  |
 | [Hold Onto Me](https://open.spotify.com/track/46lQ3fRXyOaugGZkeFr6Gd) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Hold Onto Me](https://open.spotify.com/album/11YRGrT490YxDDTm26dHAT) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [homecoming queen? \- ballerini album version](https://open.spotify.com/track/4l88CHVNHcZPej7aHPGYr4) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 2:57 | 2021-12-17 |  |
+| [Hood of That Car \- Piano Version](https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car \(Piano Version\)](https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu) | 3:28 | 2022-09-23 |  |
 | [Hope It's Hot Out \- Acoustic](https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk) | 2:47 | 2022-07-01 |  |
 | [How to Love a Girl \- Acoustic](https://open.spotify.com/track/1nxjPus9HGtq2no7jdeNVr) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl \(Acoustic\)](https://open.spotify.com/album/120UcOfx90ZhZ1DzSKn0wT) | 3:33 | 2022-04-01 | 2022-07-09 |
 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 |  |
@@ -107,7 +108,7 @@
 | [Long Haul \- Stripped](https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul \(Stripped\)](https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq) | 4:02 | 2021-12-17 |  |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 |  |
-| [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 |  |
+| [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-09-24 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 | 2022-09-09 |

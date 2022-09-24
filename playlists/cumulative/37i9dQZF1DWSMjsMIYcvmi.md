@@ -4,7 +4,7 @@
 
 > Press play, feel motivated and grind hard throughout your work day.
 
-70 songs - 3 hr 54 min - not published yet
+70 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2GuWeIehL176VRETyBF7Vc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

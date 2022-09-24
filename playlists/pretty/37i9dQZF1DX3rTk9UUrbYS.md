@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,867 likes - 50 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,892 likes - 50 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 |
 | 50 | [Symphony in Green](https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5) | 4:44 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGQyYjdkYWQ3NTVlYWJmMjBmOTgxMGU4NmZhOGY5M2M5`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDY3NGY1MTgwYTNkODA0MDM4YTRkNzEwZDViMTIwZjQy`

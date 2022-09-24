@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: The Smashing Pumpkins
 
-211 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+212 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-09 |  |
 | [This Guitar](https://open.spotify.com/track/2kh6aCEA51W67H4kJ7IkKh) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:50 | 2022-05-26 | 2022-06-08 |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
-| [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 | 2022-09-22 |  |
+| [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 | 2022-09-22 |  |
+| [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 | 2022-09-22 | 2022-09-24 |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-07 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 | 2022-05-06 | 2022-09-02 |

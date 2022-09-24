@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> Música Mexicana hits of today! The playlist sin fronteras\. Cover: Fuerza Regida & Snoop Dogg..
+> Música Mexicana hits of today! The playlist sin fronteras\. Cover: LEGADO 7, José Mejia & Nivel Codiciado
 
 211 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
 

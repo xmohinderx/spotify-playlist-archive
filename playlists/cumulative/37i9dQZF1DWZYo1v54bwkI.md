@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-162 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+163 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Thousand Memories](https://open.spotify.com/track/0NicReIOJqnuhT5kPe2Q1u) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [A Thousand Memories](https://open.spotify.com/album/07W4VsvYKd4YDl7Zh1pG6B) | 3:06 | 2022-07-15 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-07-15 |  |
+| [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-07-15 |  |
 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2022-08-23 |  |
 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 | 2022-07-15 |  |
@@ -45,7 +46,7 @@
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-07-15 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-07-15 |  |
 | [Diem Vesper Commendat](https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Diem Vesper Commendat](https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg) | 3:04 | 2022-07-15 |  |
-| [Dorado Brilla \- Ambient Meditation Music](https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT) | [The Earth & I](https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD) | [Mystic Peru](https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos) | 3:11 | 2022-07-15 |  |
+| [Dorado Brilla \- Ambient Meditation Music](https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT) | [The Earth & I](https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD) | [Mystic Peru](https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos) | 3:11 | 2022-07-15 | 2022-09-24 |
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-07-15 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-07-15 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-07-15 |  |

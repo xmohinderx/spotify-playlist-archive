@@ -215,7 +215,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223488,
-      "name": "Bilhete 2.0 (feat. Luccas Carlos)",
+      "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev"
     },
     {
@@ -409,6 +409,24 @@
       "duration_ms": 175666,
       "name": "Desabafo / Deixa Eu Dizer",
       "url": "https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl"
+    },
+    {
+      "album": {
+        "name": "Em Meio A Tudo Isso A Hist\u00f3ria Continua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mbN3nlzU1rQTJmOFvI7iA"
+      },
+      "artists": [
+        {
+          "name": "Realidade Cruel",
+          "url": "https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Dia de Visita - Ao Vivo",
+      "url": "https://open.spotify.com/track/1A7uDimTjK1RRZwuWMDpzb"
     },
     {
       "album": {
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 239480,
       "name": "Sem N\u00f3s",
       "url": "https://open.spotify.com/track/2xU3GOp34ZDeRyDZhdrQX0"

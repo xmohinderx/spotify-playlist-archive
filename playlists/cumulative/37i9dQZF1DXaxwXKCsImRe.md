@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: IBE
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: MEAU
 
 86 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 

@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 246486,
       "name": "Bali Bali",
       "url": "https://open.spotify.com/track/05IPUcHoGjuJMjdiiQE8c4"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 226285,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/5QyjJqlOKfy7Uq7AUbClq6"
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 346285,
       "name": "Meditatiohm",
       "url": "https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ"
@@ -2946,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Samurai / Gambler",
+        "url": "https://open.spotify.com/album/32dSBG1SJdY4kReiIJbuVL"
+      },
+      "artists": [
+        {
+          "name": "Tempo Giusto",
+          "url": "https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178355,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/7pKCXka3DCODhVD9Xne7se"
+    },
+    {
+      "album": {
         "name": "San Pedro",
         "url": "https://open.spotify.com/album/5sHYnWWk6HZMu5o5L64F91"
       },
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 199104,
       "name": "Scottica",
       "url": "https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc"
@@ -3711,6 +3729,32 @@
       "duration_ms": 146086,
       "name": "To Be",
       "url": "https://open.spotify.com/track/5MmJ45s9n3RTin6QwZvH3v"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "Bastiqe",
+          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
+        },
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149617,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r"
     },
     {
       "album": {

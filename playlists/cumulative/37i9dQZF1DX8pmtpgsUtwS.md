@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-94 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+95 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-01-03 |  |
 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 | 2022-01-20 |  |
 | [Bhaag Bihag](https://open.spotify.com/track/18zLRuM8hi3rTT9jLpRvdU) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [Mrigya](https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE) | 8:05 | 2021-10-31\* | 2022-06-22 |
+| [Bheegi Ankhiyaan](https://open.spotify.com/track/2GO3WlGrxjrPvnAXyfrZwy) | [Yugaant](https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv), [Krishna Bongane](https://open.spotify.com/artist/31Lwc4zHeIfdjNcs30wxNC) | [Bheegi Ankhiyaan](https://open.spotify.com/album/0Uz86ubX2WUXDWlCTqdWvj) | 6:31 | 2022-09-23 |  |
 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 | 2021-12-28 |  |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2021-10-31\* |  |
 | [Butterfly Effect](https://open.spotify.com/track/3ShRnMuzOl0lXPRs7AidZ0) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 4:22 | 2022-07-20 |  |

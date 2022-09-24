@@ -2,9 +2,9 @@
 
 ### [Southern Comfort](https://open.spotify.com/playlist/37i9dQZF1DX7GqyyDpXu1q)
 
-> Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
+> Rock swagger served neat\. Cover: Margo Price
 
-157 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+161 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,12 @@
 | [Can't Answer Why](https://open.spotify.com/track/3peVPF1U0EHzuiBjWkaffe) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Can't Answer Why](https://open.spotify.com/album/6gOxlXHNjjAuSkKmlZCoc3) | 3:11 | 2021-10-01 | 2022-09-23 |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 |  |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-06-03 |  |
+| [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 |  |
 | [Cocaine](https://open.spotify.com/track/0MhzvrhKfjlhti3pL2p9HB) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Payphone Blues](https://open.spotify.com/album/78Wl4JpIDtW4q3vkn7pWXE) | 2:23 | 2022-06-14 |  |
 | [Cocaine](https://open.spotify.com/track/6DSG9ihWXCPJPW7yt48jlP) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Cocaine](https://open.spotify.com/album/35YFgxErHUN6wKqsP0kQWH) | 2:23 | 2020-12-04 | 2022-07-29 |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2022-06-14 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-07-29 |
+| [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2022-09-23 |  |
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2021-07-02 |  |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-08-27 |  |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2020-08-21 |  |
@@ -63,6 +65,7 @@
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-06-03 |  |
 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 | 2020-08-21 |  |
 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-07-30 |  |
+| [Ghostrider](https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ghostrider](https://open.spotify.com/album/7fV9Bc20rWlAdAILFGK5jL) | 3:15 | 2022-09-23 |  |
 | [Give Me One Reason](https://open.spotify.com/track/2jjfkPJmgsAbgT5peNwoFL) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Give Me One Reason](https://open.spotify.com/album/4M4iQFxjYyT8dIaYTciHJr) | 3:35 | 2021-07-02 | 2022-07-29 |
 | [Give Me One Reason \(The Plug\)](https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 3:34 | 2022-06-14 |  |
 | [Good Life](https://open.spotify.com/track/0dmJKXSpzkNbxnoCJDJ1ZV) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/1k5RtNRhskf6DG3mX7Oh6Y) | 3:12 | 2022-06-14 |  |
@@ -116,6 +119,7 @@
 | [Naturally Wild](https://open.spotify.com/track/3Qi4gIj4fB6PF3lDKC1DDd) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:14 | 2022-06-14 |  |
 | [Naturally Wild](https://open.spotify.com/track/5qg7MzDQ51X2TTDuTIqh2o) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Naturally Wild](https://open.spotify.com/album/6EGo7nlEgTBejeViAv1NOk) | 3:14 | 2022-02-11 | 2022-07-29 |
 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 | 2021-01-29 |  |
+| [No Way to Be](https://open.spotify.com/track/2k0yDUWckRo0743DN3WiyB) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [No Way to Be](https://open.spotify.com/album/2Npqf8MN4VHNvg3ENf4IZF) | 4:09 | 2022-09-23 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-08-21 | 2022-06-04 |
 | [Off The Rails](https://open.spotify.com/track/48aM8R9hhTHb4MfHT5sajp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 2:55 | 2021-05-14 |  |
 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 | 2020-08-21 |  |

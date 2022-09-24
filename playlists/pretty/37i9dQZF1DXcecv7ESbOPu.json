@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 190524,
+  "num_followers": 190601,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NTMxMSwwMDAwMDAwMGRmMmVmYWVkNTkwOWE2NDQ5Njk0NTk4MTUyOGY4ZTg2",
+  "snapshot_id": "MTY2Mzg4NTMxMSwwMDAwMDAwMGY2NmU4Yjk4Y2Y2NTQ1Y2JiMmVhNWU3MmY3Y2RiMGUy",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -803,6 +803,30 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Deep (with DJ Snake & Yung Felix)",
+        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 213984,
+      "name": "Deep (with DJ Snake & Yung Felix)",
+      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "One Last Time (with R3HAB)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -979,6 +1003,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/4RNoGz6yD2rrJpJ6Ze6Pa1"
       },
@@ -995,6 +1035,26 @@
       "duration_ms": 152068,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1523,6 +1583,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Nothing Even Matters",
+        "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Nothing Even Matters",
+      "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ"
       },
@@ -1820,7 +1896,7 @@
       "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM"
+        "url": "https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK"
       },
       "artists": [
         {
@@ -1830,7 +1906,7 @@
       ],
       "duration_ms": 254508,
       "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7"
+      "url": "https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR"
     },
     {
       "added_at": "2022-09-22 22:00:00",

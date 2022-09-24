@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Innoss'B
+> Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Innoss'B
 
-114 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+118 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,10 +44,12 @@
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 | 2022-09-17 |
 | [Eloko Oyo](https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos](https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN) | 4:46 | 2022-06-30 | 2022-08-06 |
 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 | 2022-07-29 |  |
+| [Fiohna Mukusa](https://open.spotify.com/track/5dseKmdnMxEJnlKPtyg2J5) | [Ministre Manzaka DJ](https://open.spotify.com/artist/45cBTgK3RwWjZwoBwJuukk) | [Monde A Part](https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL) | 4:13 | 2022-09-23 |  |
 | [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 |  |
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 |  |
+| [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 |  |
 | [J'ai trop de doute](https://open.spotify.com/track/6Y7id1J4IhIgAMUkNJDAjM) | [Unice Impacha](https://open.spotify.com/artist/6LRDzElFJeeRgHwV50rfeE), [Muz](https://open.spotify.com/artist/431RfrruAfhLUmeQz6GzXI) | [J'ai trop de doute](https://open.spotify.com/album/7A1sGtnEjm2j2GAZiNeODh) | 2:48 | 2022-07-08 | 2022-08-27 |
 | [Jalousie](https://open.spotify.com/track/0rpHNyZcbc2CGPbQoTdUpm) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé Décalé Congolais](https://open.spotify.com/album/6zcYVb2j21Mr2wHr7AlYOj) | 5:15 | 2022-07-15 |  |
 | [Jalousie](https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé décalé congolais](https://open.spotify.com/album/3HOzLE98uvORHFwCmZ9oil) | 5:15 | 2022-06-30 | 2022-07-29 |
@@ -57,6 +59,7 @@
 | [Kin\-Brazza](https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Bill Clinton](https://open.spotify.com/artist/1Fi0mPF1fjcFrIhm6yhln9), [Tidiane Mario](https://open.spotify.com/artist/7BwDIRZ2sBBVDSrTDQ9Wq4), [Afara Tsena](https://open.spotify.com/artist/2e3NRawiBjPk6tzLO33Axu) | [ART](https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW) | 3:36 | 2022-08-26 |  |
 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 | 2022-08-05 |  |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 |  |
+| [Lakisa Photo’a Bae](https://open.spotify.com/track/4agVZjZqRIbyaXDRrROHxM) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Lakisa Photo’a Bae](https://open.spotify.com/album/09VNeekwCgaV3NVSJOl9f7) | 2:16 | 2022-09-23 |  |
 | [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 |  |
 | [Liberté](https://open.spotify.com/track/5sLWCgrKYYNuWfMgu8krCu) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Liberté](https://open.spotify.com/album/3C7SlGR3xxHxftI4UxPmC2) | 6:00 | 2022-09-02 |  |
 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 | 2022-06-30 | 2022-08-27 |
@@ -65,6 +68,7 @@
 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 | 2022-06-30 |  |
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 | 2022-08-27 |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 |  |
+| [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 | 2022-09-23 |  |
 | [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 |  |
 | [Mbappé](https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS) | [Ibn Itaka](https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2), [Julien Makarabianko](https://open.spotify.com/artist/6AgeuJ3W2MHEvlqc9fCzPw) | [Mbappé](https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A) | 4:08 | 2022-07-08 | 2022-08-06 |
 | [Mbila \- João Selva Remix](https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY), [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Mbila \(João Selva Remix\)](https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo) | 4:02 | 2022-06-30 |  |

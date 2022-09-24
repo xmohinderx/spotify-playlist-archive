@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 ### [Focus Piano](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS)
 
-> Piano music to hone your thought process.
+> Piano music for late night work; reading, writing and studying in the quiet hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,582 likes - 355 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,626 likes - 355 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 354 | [Reverence](https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8) | [Fouad Elalamy](https://open.spotify.com/artist/6Or9xpEuw1FBRFX6BrVmqQ) | [Reverence](https://open.spotify.com/album/2TjufIYzYzKd17aScCxQMc) | 1:59 |
 | 355 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 
-Snapshot ID: `MTY2Mjk3NDY5NSwwMDAwMDAwMDVmMDMzZWQ0OWE4NzlhYzZmYTNmYjMyMGM1YmU2ODI1`
+Snapshot ID: `MTY2Mzk0MzIxNCwwMDAwMDAwMGUyNmEwMTNiNjBkOWU4ZWI2NzM4MmM5Mjc2MmUzYzBk`

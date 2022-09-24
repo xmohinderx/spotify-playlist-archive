@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-181 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
+183 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blue Christmas](https://open.spotify.com/track/4UgD2DtrrEEtAH5vgNIJmu) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Blue Christmas](https://open.spotify.com/album/2B4PBr4D50B4E7ZpylWCIT) | 3:13 | 2021-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/5GKKuPZMIC8M1U9h6uG6rh) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Blue Christmas](https://open.spotify.com/album/6tVWfcDolOGbPJm0SWfOP4) | 3:05 | 2021-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/2pvyqux6MZz8xyczT36wIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Blue Christmas](https://open.spotify.com/album/3nNXezA5b54Z8C4OldGgco) | 3:35 | 2021-12-16 |  |
+| [Christmas](https://open.spotify.com/track/3UGqwSBKsqP5SqJIFnDSzy) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Christmas](https://open.spotify.com/album/5VTjQedmcZ1xa7ezjIAKcl) | 3:20 | 2022-09-23 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2jjTpxLZ7rjVFgwgjKbUjk) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [It Must Be Christmas](https://open.spotify.com/album/5qOU1WzKaITOYxjtwZAgaZ) | 2:42 | 2021-12-16 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3UOMKwvFdqulOff12uv3pr) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:02 | 2021-12-16 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 | 2021-12-16 |  |
@@ -150,6 +151,7 @@
 | [Santa Is A Good Ole Boy](https://open.spotify.com/track/4pIQoVY9KR0f5l9EQ8I6UQ) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Santa Is A Good Ole Boy](https://open.spotify.com/album/4MsP85sybDaWAadE2FwX13) | 3:21 | 2021-12-16 |  |
 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/0MSLsXJIhsMDpwga1wF1eC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas](https://open.spotify.com/album/1EpvicIkzXB7KM0EEmrrPh) | 4:12 | 2021-12-16 |  |
 | [Silent Night](https://open.spotify.com/track/7BXWm4IVOcscftnRFc7jFv) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Brett Young & Friends Sing The Christmas Classics](https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla) | 2:58 | 2021-12-16 |  |
+| [Silent Night](https://open.spotify.com/track/32OH3VGKAqEOrFIqdkHCMe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Silent Night](https://open.spotify.com/album/1t1UAfuQfaENQlvMv393i5) | 3:13 | 2022-09-23 |  |
 | [Silent Night](https://open.spotify.com/track/13GZEjxchVtGEkaAJt2FH1) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Silent Night](https://open.spotify.com/album/05Sbvc0xkm1IzJSDnPq32E) | 1:42 | 2021-12-16 |  |
 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \- Spotify Singles](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 | 2021-12-16 |  |
 | [Single Bells](https://open.spotify.com/track/7sPhhhajCOFRWZsyDfpGWc) | [The Band McMillan](https://open.spotify.com/artist/5YdJD4wKemSV6hS3h9tx1e) | [Single Bells](https://open.spotify.com/album/0BoI3bvB3hXlYgaXruV4Zx) | 3:00 | 2021-12-16 |  |

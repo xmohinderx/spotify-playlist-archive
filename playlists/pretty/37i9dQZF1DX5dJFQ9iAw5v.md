@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,050 likes - 76 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,052 likes - 76 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 |
 | 76 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGFiZDFkN2QzNjlhZGJlY2E4YTFhMzZhYmIzMzVlODNj`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMGM4NDA2ZDQ5YjMyN2JmM2NiNmMzYTJlYWJhODNiZTkx`

@@ -1,29 +1,13 @@
 {
   "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg\">Ayra Starr </a>",
-  "num_followers": 60909,
+  "num_followers": 61008,
   "original_name": "Radar Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU3MTY3NSwwMDAwMDAwMDJhMGZkMThmZjAyMTFhZGYxOWM4NGYxNTU0NGM0ZDk5",
+  "snapshot_id": "MTY2MzkxMjYxOCwwMDAwMDAwMGNmMWNjMTYwZjgxYWU3YzQ3MTYzNmY1ZWEzY2M3ZWU3",
   "tracks": [
-    {
-      "added_at": "2022-09-15 14:00:00",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
-    },
     {
       "added_at": "2022-09-15 14:00:00",
       "album": {
@@ -73,10 +57,26 @@
       "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
-      "added_at": "2022-09-15 14:00:00",
+      "added_at": "2022-09-23 05:56:58",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
+    },
+    {
+      "added_at": "2022-09-23 05:56:58",
+      "album": {
+        "name": "mmadu",
+        "url": "https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT"
       },
       "artists": [
         {
@@ -84,9 +84,29 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8"
+    },
+    {
+      "added_at": "2022-09-23 05:56:58",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-09-15 14:00:00",
@@ -135,6 +155,22 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
       "added_at": "2022-09-15 14:00:00",
@@ -235,6 +271,22 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
     },
     {
       "added_at": "2022-09-15 14:00:00",
@@ -815,26 +867,6 @@
     {
       "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "B4Now",
-        "url": "https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "Ye x4",
-      "url": "https://open.spotify.com/track/1aihozUZ8c59StVa903eJz"
-    },
-    {
-      "added_at": "2022-09-15 14:00:00",
-      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -867,22 +899,6 @@
     {
       "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2022-09-15 14:00:00",
-      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
       },
@@ -895,54 +911,6 @@
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
-    },
-    {
-      "added_at": "2022-09-15 14:00:00",
-      "album": {
-        "name": "Twenties",
-        "url": "https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI"
-      },
-      "artists": [
-        {
-          "name": "Suhn",
-          "url": "https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "Twenties",
-      "url": "https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys"
-    },
-    {
-      "added_at": "2022-09-15 14:00:00",
-      "album": {
-        "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 180625,
-      "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
     }
   ],
   "unique_name": "Radar Africa",

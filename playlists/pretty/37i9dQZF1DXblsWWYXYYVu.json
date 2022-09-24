@@ -1,44 +1,32 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 68048,
+  "num_followers": 68101,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDFhMTczMzMzYjgwMTFiZGQ0ODk0NTUwMmI0MDgxMjcx",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDBmMjAxNDJmNjhkMDk2NmE2ZWZiNzlhNTBiODc3OWZj",
   "tracks": [
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+        "name": "Love Is Letting Go (feat. Diane Keaton)",
+        "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "You and Me On The Rock (In The Canyon Haze)",
-        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
-      },
-      "artists": [
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Diane Keaton",
+          "url": "https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7"
         }
       ],
-      "duration_ms": 257853,
-      "name": "You and Me On The Rock (In The Canyon Haze)",
-      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+      "duration_ms": 154865,
+      "name": "Love Is Letting Go (feat. Diane Keaton)",
+      "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
     },
     {
       "added_at": "2022-08-10 17:22:16",
@@ -59,6 +47,38 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Built a Fire",
+        "url": "https://open.spotify.com/album/2xHXt469EhlfjfWd15ZJTe"
+      },
+      "artists": [
+        {
+          "name": "Michael Waite",
+          "url": "https://open.spotify.com/artist/1zsZIdjHBdFZbc3o6cDg0n"
+        }
+      ],
+      "duration_ms": 234921,
+      "name": "I Built a Fire",
+      "url": "https://open.spotify.com/track/5plnYnHtDhx07GQ7Y6U9x1"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Quitting (The Way I Wrote It)",
         "url": "https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI"
       },
@@ -71,6 +91,22 @@
       "duration_ms": 152543,
       "name": "Quitting (The Way I Wrote It)",
       "url": "https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1571,22 +1607,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Walk Through Fire",
-        "url": "https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6"
-      },
-      "artists": [
-        {
-          "name": "Colton Venner",
-          "url": "https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "You Can't Do Enough",
-      "url": "https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Wrong Side of Goodbye (Reimagined)",
         "url": "https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK"
       },
@@ -1615,22 +1635,6 @@
       "duration_ms": 281927,
       "name": "Run on Ahead",
       "url": "https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "A Few Days",
-        "url": "https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV"
-      },
-      "artists": [
-        {
-          "name": "Summer Overstreet",
-          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
-        }
-      ],
-      "duration_ms": 187671,
-      "name": "A Few Days",
-      "url": "https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w"
     }
   ],
   "unique_name": "Take it Slow",

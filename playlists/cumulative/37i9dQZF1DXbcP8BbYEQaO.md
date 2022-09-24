@@ -2,9 +2,9 @@
 
 ### [night pop](https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO)
 
-> in the evening the real me comes alive
+> meet me at midnight
 
-442 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+443 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 |  |
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 |  |
-| [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 |  |
+| [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-09-24 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-11-06 | 2022-04-17 |
 | [Dance You Out My System](https://open.spotify.com/track/0FCwYfrKiNvGcfm3iD0DGv) | [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [Dance You Out My System](https://open.spotify.com/album/7eY0rRkvRajYE7CFV5As0J) | 3:23 | 2021-10-23 | 2022-04-17 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-09-12 | 2021-10-23 |
@@ -349,6 +349,7 @@
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-04-17 |
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-09-25 | 2022-01-29 |
+| [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-09-23 |  |
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 | 2022-07-21 |  |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-12 |

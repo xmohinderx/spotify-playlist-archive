@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 193125,
       "name": "Alive - Edit",
       "url": "https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh"
@@ -2096,6 +2096,28 @@
     },
     {
       "album": {
+        "name": "We Fight",
+        "url": "https://open.spotify.com/album/087hvZIdWhgOT0qcrTJWNO"
+      },
+      "artists": [
+        {
+          "name": "Voster & Gallardo",
+          "url": "https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl"
+        },
+        {
+          "name": "Aryue",
+          "url": "https://open.spotify.com/artist/2lna8m2wZ99CFigsSOAqcb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "We Fight",
+      "url": "https://open.spotify.com/track/43F4XlADKdd1IHds72gTgm"
+    },
+    {
+      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/4pPMc8MqHiGrJ5fdg6jKjU"
       },
@@ -2107,7 +2129,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 142500,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/0ejDlgGyrvUNEyYUfNdcjf"

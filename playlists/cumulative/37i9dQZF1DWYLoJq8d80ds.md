@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
 
-125 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+127 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Agüita De Carnaval](https://open.spotify.com/track/0iKcUJQHO1EKpZa8KxYNki) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:50 | 2021-12-31 | 2022-03-12 |
 | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/039sYU2RhmRRZpvkqe7s1O) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Kuntur](https://open.spotify.com/album/6bXTAQzf8QjtXoWdUMbMfe) | 3:27 | 2022-09-02 |  |
 | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/2AuJnv5bb33UTKDD2FSyqD) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/album/4ovvjgPLDp5pRu2bjCSCXw) | 3:27 | 2021-12-31 | 2022-09-10 |
+| [Alma](https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Alma](https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy) | 3:16 | 2022-09-23 |  |
 | [Almas Gemelas](https://open.spotify.com/track/0pjfGKSK7ldTGFvljFACFr) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Almas Gemelas](https://open.spotify.com/album/7v99j12qHvc2Fc6HOqxetg) | 3:19 | 2021-12-31 |  |
 | [Amiga Tierra Querida](https://open.spotify.com/track/1UhHkegLYWH4PujKSPpCFX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Demi Carabajal](https://open.spotify.com/artist/5CQzGDENGT9jsefa285qId) | [La Niña de los Andamios](https://open.spotify.com/album/1BfmPrhw2FwVfd45GYrJPI) | 3:18 | 2021-12-31 |  |
 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 | 2021-12-31 |  |
@@ -93,6 +94,7 @@
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 |  |
+| [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |
 | [Otra Vez en el Camino](https://open.spotify.com/track/7gnHVe6Juc2SFsc8UHvu7g) | [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Otra Vez en el Camino](https://open.spotify.com/album/0oQTK9F6643YJRCNlPWc4C) | 2:53 | 2021-12-31 |  |
 | [Peregrinos](https://open.spotify.com/track/2w1rq3ysjtTcdavtECYLxE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:02 | 2022-07-01 |  |
 | [Peregrinos](https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:02 | 2021-12-31 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 306049,
+  "num_followers": 306211,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDE2ZjU2MjdmMzZiMGQyZDZhMTVhN2JjYzQwZWJlMjdm",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDdlYWZlMzUzYTE4MWZlOWZjY2U0MDgyMTcxMTRhOWE3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -27,6 +27,26 @@
       "duration_ms": 236129,
       "name": "Posture - Wolfgang Lohr Remix",
       "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Dance, Dance, Dance (Extra Steps)",
+        "url": "https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        },
+        {
+          "name": "Extra Medium",
+          "url": "https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Sing Sing Sing - Extra Medium Remix",
+      "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -113,22 +133,6 @@
       "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "<|\u00ba_\u00ba|>",
-        "url": "https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 229804,
-      "name": "Lone Digger",
-      "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Take You Right Back",
@@ -149,6 +153,22 @@
       "url": "https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "<|\u00ba_\u00ba|>",
+        "url": "https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 229804,
+      "name": "Lone Digger",
+      "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "POP SONG",
@@ -165,26 +185,6 @@
       "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
-        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
-      },
-      "artists": [
-        {
-          "name": "Player2",
-          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
-        },
-        {
-          "name": "A_A_RonHD",
-          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
-        }
-      ],
-      "duration_ms": 233027,
-      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
-      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Do You Want the Truth or Something Beautiful?",
@@ -199,26 +199,6 @@
       "duration_ms": 189186,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Sie Will (Electro Swing Version)",
-        "url": "https://open.spotify.com/album/12RZ8MMnyLsja8NUCIr6Nu"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "78plus",
-          "url": "https://open.spotify.com/artist/2rpPv0F6zJgyrhJuKpJDIo"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Sie Will",
-      "url": "https://open.spotify.com/track/24arxHaSUQgzHjEEVNdVGb"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -289,6 +269,22 @@
       "url": "https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Delight",
@@ -307,22 +303,6 @@
       "duration_ms": 344000,
       "name": "Delight",
       "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -399,6 +379,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Light up the Night",
         "url": "https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf"
       },
@@ -423,22 +419,6 @@
       "duration_ms": 233879,
       "name": "Light up the Night",
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -645,6 +625,22 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Big Bad Wolf",
+        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
+      },
+      "artists": [
+        {
+          "name": "Johnny Wright",
+          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Pressure (Klisch\u00e9e Remix)",
@@ -663,22 +659,6 @@
       "duration_ms": 203933,
       "name": "Pressure - Klisch\u00e9e Remix",
       "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Big Bad Wolf",
-        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
-      },
-      "artists": [
-        {
-          "name": "Johnny Wright",
-          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -757,6 +737,26 @@
       "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Crazy Out There",
+        "url": "https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Crazy Out There",
+      "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Brass Devil",
@@ -789,24 +789,20 @@
       "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
     },
     {
-      "added_at": "2021-11-19 05:02:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Crazy Out There",
-        "url": "https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l"
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
       },
       "artists": [
         {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        },
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
         }
       ],
-      "duration_ms": 194741,
-      "name": "Crazy Out There",
-      "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -823,22 +819,6 @@
       "duration_ms": 191801,
       "name": "Mais Non - 1920 Version",
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Glam! - Single",
-        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
-      },
-      "artists": [
-        {
-          "name": "Dimie Cat",
-          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
-        }
-      ],
-      "duration_ms": 187689,
-      "name": "Glam - Electro-swing Remix",
-      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -929,6 +909,22 @@
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Ladies Night",
+        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
+      },
+      "artists": [
+        {
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+        }
+      ],
+      "duration_ms": 202497,
+      "name": "Perfect (Electro Swing Remix)",
+      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
+    },
+    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "So Good",
@@ -945,20 +941,24 @@
       "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Ladies Night",
-        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
+        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
       },
       "artists": [
         {
-          "name": "11 Acorn Lane",
-          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+          "name": "Player2",
+          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
+        },
+        {
+          "name": "A_A_RonHD",
+          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
         }
       ],
-      "duration_ms": 202497,
-      "name": "Perfect (Electro Swing Remix)",
-      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
+      "duration_ms": 233027,
+      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
     },
     {
       "added_at": "2020-10-30 09:06:04",

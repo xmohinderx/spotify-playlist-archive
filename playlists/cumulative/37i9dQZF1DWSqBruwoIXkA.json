@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Somehow, heartbreak feels good in a place like this. Cover: Rene\u00e9 Rapp",
+  "description": "Somehow, heartbreak feels good in a place like this. Cover: Joshua Bassett",
   "name": "sad hour",
   "published_playlist_ids": [
     "6tJGIzI3K3tQit8JSbnL1t"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 153466,
       "name": "Backseat (All I Got)",
       "url": "https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU"
@@ -1222,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
+    },
+    {
+      "album": {
         "name": "Drop Dead",
         "url": "https://open.spotify.com/album/2WxwbxrV7YRjWfM64hXbNR"
       },
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 136480,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
@@ -2200,6 +2218,24 @@
     },
     {
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217562,
+      "name": "Hiatus",
+      "url": "https://open.spotify.com/track/1R6mLWnOoogDULWkJy7SgJ"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om"
       },
@@ -2535,7 +2571,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 237020,
       "name": "I Lost a Friend",
       "url": "https://open.spotify.com/track/49MMefftWPcltNP4OOJGSs"
@@ -3162,6 +3198,24 @@
     },
     {
       "album": {
+        "name": "Sad Songs In A Hotel Room",
+        "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
+    },
+    {
+      "album": {
         "name": "Like All My Friends",
         "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
@@ -3715,6 +3769,24 @@
       "duration_ms": 214100,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3x7YsMwPnlXe51XWrwjo7g"
+    },
+    {
+      "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "My Dying Spirit",
+      "url": "https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh"
     },
     {
       "album": {
@@ -4771,7 +4843,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 171713,
       "name": "Something I Hate",
       "url": "https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd"

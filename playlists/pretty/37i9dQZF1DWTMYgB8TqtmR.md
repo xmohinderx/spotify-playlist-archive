@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,297 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,376 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 45 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 46 | [Sista sommaren](https://open.spotify.com/track/28TGtp6irVUZhTv5ytdex1) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sista sommaren](https://open.spotify.com/album/1txqzRAK4uX13YOe28MxYo) | 3:10 |
 | 47 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 |
-| 48 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6agCyqS204QdNHJvKCl8AJ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 |
+| 48 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 |
 | 49 | [DIRTY](https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [DIRTY](https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0) | 2:18 |
 | 50 | [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 |
 

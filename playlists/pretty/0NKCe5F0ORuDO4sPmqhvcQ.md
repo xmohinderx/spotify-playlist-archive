@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,241 likes - 104 songs - 5 hr 55 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,241 likes - 105 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 102 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
 | 103 | [High On That New Love](https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [High On That New Love](https://open.spotify.com/album/5DwUisYZRsiWTmRc8v2TEO) | 2:46 |
 | 104 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 |
+| 105 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 |
 
-Snapshot ID: `OTk5NSwwMTU0NDcwNGRhNTk2ZDRkYzYzNzEzNGQ2MDBkNDYyYTQ5MzM4ODIy`
+Snapshot ID: `OTk5Niw2MDFmM2M5MmFlYjU3MDFjYjYzYmJiOWMyOGFiNjNlZDJkNjRmM2Zk`

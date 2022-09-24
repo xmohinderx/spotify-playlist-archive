@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,719 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,737 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
 | 100 | [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 |
 
-Snapshot ID: `MTY2MTQ2MDcwMCwwMDAwMDAwMDM4ZmIyMjFlODYzZjgwZDY4ODNmNTFlMzg2NTgxYzY5`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDY1OGZiNjAzNjk1OWVkYjExMzIwMmI0NzIxOGQyYzFk`

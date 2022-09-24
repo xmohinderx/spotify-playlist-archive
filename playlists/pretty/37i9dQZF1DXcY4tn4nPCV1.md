@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,458 likes - 222 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,478 likes - 222 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 221 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 |
 | 222 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 |
 
-Snapshot ID: `MTY2MzY2NTg3OCwwMDAwMDAwMDg4NzgxNTJiODI1ZTdhNjk0MTYyNWFhZGM2YTIyMzRl`
+Snapshot ID: `MTY2Mzk0MTY3NiwwMDAwMDAwMDRhYzY3ZTQyMDJhMmQyYTY3YWRkNDEwZDc5NWMzNzM2`

@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 443242,
       "name": "Chalo Pela",
       "url": "https://open.spotify.com/track/3AL8Gzv3B52wHbg439rCpl"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 443242,
       "name": "Chalo Pela",
       "url": "https://open.spotify.com/track/7dOPoDOGhuLMMuO7TNuo0v"
@@ -755,10 +755,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 559825,
       "name": "Saachi Re Mhari Sat",
       "url": "https://open.spotify.com/track/4cP5w97t7XxogJzssIGtt1"
+    },
+    {
+      "album": {
+        "name": "Chhel Chhabilo - Khelaiya, Vol. 4",
+        "url": "https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV"
+      },
+      "artists": [
+        {
+          "name": "Rupal Doshi",
+          "url": "https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559825,
+      "name": "Saachi Re Mhari Sat",
+      "url": "https://open.spotify.com/track/5ffYti5Q3NkKrdpgmAwHwG"
     },
     {
       "album": {

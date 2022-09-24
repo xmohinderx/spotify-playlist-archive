@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-90 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+91 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 |  |
 | [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-09-02 |  |
+| [Arabian Spa](https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R) | [Spiritual Concepts](https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA) | [Arabian Spa](https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ) | 1:28 | 2022-09-23 |  |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-09-02 |  |
 | [Astral Lights](https://open.spotify.com/track/7ysKjjiw3xuTfER17BmEVd) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Shades of Blue](https://open.spotify.com/album/7wEq5dWfjSnP5B3qOSLKig) | 3:11 | 2022-09-02 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2022-09-02 |  |

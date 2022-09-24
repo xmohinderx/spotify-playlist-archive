@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks every week. Cover: Red Hot Chili Peppers",
-  "num_followers": 348930,
+  "num_followers": 349303,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDIyOTU0MDBlNTNjYmExZjY3MGYwMGEyNjRkYzBkZTU1",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDRjZDQ4MGEwMjgzMWNiMzU5OTk0NzM4M2NmYzdhOGI0",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -490,6 +490,10 @@
         {
           "name": "Wesley Schultz",
           "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
         }
       ],
       "duration_ms": 221538,
@@ -511,6 +515,26 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "I Kill Everything",
+        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "I Kill Everything",
+      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -644,7 +668,7 @@
       "added_at": "2022-09-22 22:00:00",
       "album": {
         "name": "Gulp!",
-        "url": "https://open.spotify.com/album/30sjwHarJgqD6UyGCLNy16"
+        "url": "https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ"
       },
       "artists": [
         {
@@ -654,7 +678,7 @@
       ],
       "duration_ms": 225088,
       "name": "Unstuck",
-      "url": "https://open.spotify.com/track/75FRH7HFEPgcRsDDqNmtpG"
+      "url": "https://open.spotify.com/track/1yENKnRoefAwgTySLaMWEu"
     },
     {
       "added_at": "2022-09-22 22:00:00",

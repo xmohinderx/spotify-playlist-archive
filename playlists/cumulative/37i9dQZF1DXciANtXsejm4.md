@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-173 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+174 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 | 2022-07-15 |  |
 | [Dos Hombres y un Destino](https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/1Sj1HLlaB8QCsAJeRxqufW) | 3:09 | 2022-06-03 | 2022-07-29 |
 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 | 2022-06-17 | 2022-07-12 |
+| [Dos Veces](https://open.spotify.com/track/0UG7McSo7BCbyWiAqeggFD) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dos Veces](https://open.spotify.com/album/1r06JQ4uRLVdKcTwpTlNgc) | 3:29 | 2022-09-23 |  |
 | [Duele](https://open.spotify.com/track/6xfJcYndS35K8q4zbgRG9F) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Alta Revolución Parte 2 + Vivo](https://open.spotify.com/album/03Z4EXZAZBnV6igDJBHSWf) | 3:55 | 2022-04-15 | 2022-07-27 |
 | [Duele \(En Vivo\)](https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Alta Revolución, Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ) | 3:55 | 2022-07-15 |  |
 | [Dígale](https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [Como un Caramelo](https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6) | 4:52 | 2022-07-15 |  |
@@ -168,7 +169,7 @@
 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 | 2022-04-15 |  |
 | [Tu Primera Vez](https://open.spotify.com/track/4PwkzD6FzKuaYUKEvZuuD5) | [Freddy y los Solares](https://open.spotify.com/artist/4VV2QFCzOG5Nxisme12B0b) | [Para Morir de Amor](https://open.spotify.com/album/4EQ1W80B2zpKLvsVbKYSgd) | 3:41 | 2022-06-10 | 2022-07-08 |
 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 | 2022-04-15 |  |
-| [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 | 2022-06-03 |  |
+| [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 | 2022-06-03 | 2022-09-24 |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-04-15 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 | 2022-04-15 | 2022-07-29 |
 | [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 | 2022-04-15 |  |

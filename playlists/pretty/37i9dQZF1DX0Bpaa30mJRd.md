@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,084 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 55 | [Trans Train](https://open.spotify.com/track/7nDxppqdfAekogQJeYdZ1o) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Mirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP) | 1:16 |
 | 56 | [Swarms of Song](https://open.spotify.com/track/2TfGYRcqttX6KLCkXgwSM7) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 1:38 |
 | 57 | [A Million Miles Away \- reprise](https://open.spotify.com/track/464cJTFfwAzl8tkJy9OSoy) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 6:27 |
-| 58 | [Dragon's Lair](https://open.spotify.com/track/1KlaCXGWjRkdK5S06E5pWw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:10 |
+| 58 | [Dragon's Lair](https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:10 |
 | 59 | [Scorching the Facade](https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:44 |
 | 60 | [Skies of Song](https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:02 |
 | 61 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 79 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 80 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `MTY2MTk1ODAwMCwwMDAwMDAwMDZjMjQwNjhmODMwYTRjOGY4ZDQ5NzY3MDMyZjczZDJl`
+Snapshot ID: `MTY2MTk1ODAwMCwwMDAwMDAwMDc1NjU4NDRkZDQ0ZjVmYTMzODQwZTYyNmQwN2Q2MDkz`

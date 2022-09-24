@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-195 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+197 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,13 +48,14 @@
 | [Dare 2 Dream](https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 3:57 | 2021-07-12 | 2022-07-28 |
 | [Daydream](https://open.spotify.com/track/2BpfSRsdfTW9Ea8M2ikM1R) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:11 | 2021-07-12 | 2022-07-28 |
 | [Desert Rose](https://open.spotify.com/track/2ai8niXm8wl651b2gGxzas) | [Ed Calle](https://open.spotify.com/artist/6r8MZZRBkAXqyzaFLk5YRe) | [Soulful Nights](https://open.spotify.com/album/7dmh5uEjU9X4fD6pFIumJf) | 3:58 | 2022-08-12 |  |
+| [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 | 2022-09-23 |  |
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-07-29 |
 | [Down for the Count](https://open.spotify.com/track/2MxQ2DvL2ALwUggq8bb9du) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [In Hi\-Fi Stereo](https://open.spotify.com/album/2Og1zZ7wQvG03ZdBj8eJwu) | 4:08 | 2021-07-12 | 2022-04-21 |
 | [Espresso Shot](https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Darnell Showcase Taylor](https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia) | [And Coffee](https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd) | 3:32 | 2021-07-12 |  |
 | [Essence](https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Essence](https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW) | 4:19 | 2022-06-17 | 2022-08-12 |
 | [Everything Happens for a Reason](https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Everything Happens for a Reason](https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1) | 5:31 | 2021-07-12 | 2022-07-24 |
 | [Eye Of The Storm](https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Eye Of The Storm](https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d) | 4:16 | 2021-07-12 |  |
-| [Feed The Id](https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 4:09 | 2021-07-12 |  |
+| [Feed The Id](https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 4:09 | 2021-07-12 | 2022-09-24 |
 | [Feeling You](https://open.spotify.com/track/0FPvJklZbYd6Es7ndp0zOW) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Now](https://open.spotify.com/album/1h4QJTUxI20S16EwK0FXX1) | 4:22 | 2021-07-12 | 2022-04-20 |
 | [Fonk In The City \- Live Performance](https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Live Performance Saxx In The City](https://open.spotify.com/album/1lsSxw2uw1HMgnZLpKmF5c) | 4:56 | 2021-07-12 | 2022-07-17 |
 | [Forever And A Day](https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:49 | 2021-07-12 |  |
@@ -62,7 +63,7 @@
 | [Fresh Air](https://open.spotify.com/track/2MWz9FOWmyvLYqhUsHtLOW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:42 | 2021-07-12 | 2022-07-29 |
 | [Frobidden Fruit](https://open.spotify.com/track/1YYtVHoUXAs5QmUhNhaHFV) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/57IqUSKa4OY7PPhrMcTVyb) | 3:22 | 2021-07-12 | 2022-07-27 |
 | [Frobidden Fruit](https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV) | 3:22 | 2021-07-12 |  |
-| [Full Effect](https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:51 | 2021-07-12 |  |
+| [Full Effect](https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:51 | 2021-07-12 | 2022-09-24 |
 | [Full Effect](https://open.spotify.com/track/688IS2tPq6AgtER7EJQpsm) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Full Effect](https://open.spotify.com/album/4nAOFV8VFGSThTzO8wjndt) | 3:51 | 2021-07-12 | 2022-07-29 |
 | [futuresoul](https://open.spotify.com/track/12Cv4QNglk8m6vLEi8NHEr) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [futuresoul](https://open.spotify.com/album/7womCVHnPkvjEMdvl71ttV) | 4:06 | 2021-07-12 | 2022-07-27 |
 | [Galaxy](https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba) | [Zach Sanders](https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn) | [Galaxy](https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef) | 3:17 | 2021-07-12 | 2022-07-28 |
@@ -202,6 +203,7 @@
 | [Windfall](https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Windfall](https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4) | 4:30 | 2021-07-12 | 2022-07-29 |
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 | 2022-07-28 |
+| [Wrapped up in Your Smile](https://open.spotify.com/track/47f9Qo9CJqZFfuGbEqlqRZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz & Friends: Christmas Ballads \(25th Anniversary Collection\)](https://open.spotify.com/album/24sK4UHpR8EM8NVWVEA0Iq) | 4:39 | 2022-09-23 |  |
 | [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 | 2022-09-03 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

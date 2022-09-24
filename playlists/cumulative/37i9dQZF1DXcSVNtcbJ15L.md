@@ -4,13 +4,14 @@
 
 > vem de dm 🔥  ❤️
 
-72 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+74 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 | 2022-04-29 |  |
 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 | 2022-04-29 |  |
 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 | 2022-04-29 |  |
+| [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 | 2022-09-23 |  |
 | [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 | 2022-04-29 |  |
 | [BECKSTAR](https://open.spotify.com/track/7yqLFVLpu9i41mQvMkQNUv) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BECKSTAR](https://open.spotify.com/album/38m3QTMDvnfTMz12tAZmBa) | 2:21 | 2022-04-29 |  |
 | [Com Você](https://open.spotify.com/track/1DpeR4mARvKqjLakvmISxa) | [Clarê](https://open.spotify.com/artist/3tCje10vtuMxVbrL64EsMF) | [Com Você](https://open.spotify.com/album/4cWeVMCz1c5n7kVS0nzEgp) | 3:03 | 2022-04-29 | 2022-06-25 |
@@ -69,6 +70,7 @@
 | [Saturno](https://open.spotify.com/track/30929halSXzxtYut5Jm152) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Saturno](https://open.spotify.com/album/4sB0goURJma5hqTtI1MdEx) | 3:54 | 2022-04-29 |  |
 | [Se Eu Falhei](https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Eu Falhei](https://open.spotify.com/album/0nwZA8g6vvpBbQ9kon3FlL) | 2:57 | 2022-04-29 |  |
 | [Sua Presença](https://open.spotify.com/track/2O1CgtFQhx7StmDxNg5Isq) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Delaila Matta](https://open.spotify.com/artist/4hLKMU32ZyHZQ9vlYXCweB) | [Sua Presença](https://open.spotify.com/album/4J1rpTfBX9wyzM8CO5ODy5) | 2:14 | 2022-04-29 |  |
+| [Suco de Maracujá](https://open.spotify.com/track/3qF33Lx0GsXyS9rAZ1aKGw) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Suco de Maracujá](https://open.spotify.com/album/4yTQTTLzRcxhfL6Tk4rBsU) | 3:02 | 2022-09-23 |  |
 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 | 2022-04-29 |  |
 | [Te Espero](https://open.spotify.com/track/0DJDVFbVe9KF4xnVxDhi09) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Te Espero](https://open.spotify.com/album/4VOctUPHdfnjnQUXsJ9J36) | 2:19 | 2022-04-29 |  |
 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 | 2022-04-29 |  |

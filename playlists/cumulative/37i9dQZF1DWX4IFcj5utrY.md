@@ -4,7 +4,7 @@
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi?si=oRu6rSrMSJaL\_1p1A\_vzRA">Punk Mbedzi</a>
 
-549 songs - 2 day 6 hr 8 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+550 songs - 2 day 6 hr 12 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Like A Dream \- Enoo Napa Remix](https://open.spotify.com/track/6OvK413r6gXm4MCuvzXbND) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Like A Dream \(Enoo Napa Remix\)](https://open.spotify.com/album/3RnON1jDs8Gj8PaBNMIzif) | 6:32 | 2022-05-19 | 2022-06-24 |
 | [Little Thing](https://open.spotify.com/track/60OtCQpCOk0FGlvVlGYZkz) | [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7), [Madu](https://open.spotify.com/artist/23f2Kbt6to4lDnHfZ68x1L) | [Little Thing](https://open.spotify.com/album/5RdMjaikoNiJV8nKjhneII) | 4:16 | 2021-11-11 | 2022-01-07 |
 | [Litunga](https://open.spotify.com/track/0RxNCCqUwvxViNPN4Hzu9f) | [D.O.A](https://open.spotify.com/artist/1G75fKFBAxdgJoWxbd2iOH), [NovaBoy](https://open.spotify.com/artist/6cOLYis1HK0tkrV75fYHVK) | [Litunga](https://open.spotify.com/album/65BJmbbMF0zaTfIofehxLI) | 5:42 | 2022-07-07 | 2022-07-29 |
+| [Live Your Life](https://open.spotify.com/track/7wqiEbgn06LwvlXpH9tY3R) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Maya Simone](https://open.spotify.com/artist/5RN3g06QPW2F0VQW9d1U3B) | [Live Your Life](https://open.spotify.com/album/1AjJkt5kxGlinqG3xmGNOR) | 4:04 | 2022-09-22 |  |
 | [LoMhlaba](https://open.spotify.com/track/1FQPtdDP7xN9DoKJad96BI) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs) | [MoAfurika](https://open.spotify.com/album/3qEcNXHSt7AxDEYQsYSY2E) | 5:13 | 2022-09-22 |  |
 | [London](https://open.spotify.com/track/44ecHrBS4f2PFllGXYr8fJ) | [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2), [Pa Ama](https://open.spotify.com/artist/3U4US2oet1YjkqYmLfQ2JQ) | [London](https://open.spotify.com/album/39aBd3r3MD2GZSvkcekrIZ) | 6:19 | 2022-01-06 | 2022-02-11 |
 | [Lonely Tension \- Tech Mix](https://open.spotify.com/track/4XfAXQ37FZqOcXYuFpLkJn) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Lonely Tension \(Tech Mix\)](https://open.spotify.com/album/6rA8RoBWJGxx7xNwSnNmgT) | 6:21 | 2022-01-06 | 2022-02-04 |

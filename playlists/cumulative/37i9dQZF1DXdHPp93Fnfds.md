@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-433 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+434 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Pasaje Directo](https://open.spotify.com/track/6PpBnYJRcqPW1IwathowqZ) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pasaje Directo](https://open.spotify.com/album/5rPVX8aLD3d85E8YsquR35) | 3:49 | 2022-01-21 | 2022-07-25 |
 | [Paseito](https://open.spotify.com/track/1YBP98l7xGeuGNcYAsjXqp) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/5KgfyeZUxgpQHDoiSmQgPb) | 4:53 | 2022-01-14 | 2022-07-19 |
 | [Paseito](https://open.spotify.com/track/5955aqNG5rGlr7EQdjl4kS) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2agcgDDdxckcav71Z24Dq6) | 4:53 | 2022-01-21 | 2022-07-26 |
-| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 |  |
+| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 | 2022-09-24 |
 | [Pasos \- Versión Acústica](https://open.spotify.com/track/3AgJCcvGK6g6JEOhc0QHDZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Pasos \(Versión Acústica\)](https://open.spotify.com/album/5MwZCCD8VV3c99yaatXL4U) | 3:41 | 2022-01-21 | 2022-07-13 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |
@@ -379,6 +379,7 @@
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2022-01-14 | 2022-07-27 |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-07-15 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-01-14 | 2022-07-29 |
+| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 |  |
 | [Te Pido](https://open.spotify.com/track/17aiyNeLuMT3a88sr4Bsmt) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Te Pido](https://open.spotify.com/album/1pmpmLXG9a8YSAALamKYuF) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2022-01-21 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 |  |

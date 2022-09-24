@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 253141,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 226250,
       "name": "You with me (My number 8)",
       "url": "https://open.spotify.com/track/5NQWyXEaPMBkMb52TRiSpD"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
         "url": "https://open.spotify.com/album/6GKmt2zllDvt3wlBZeZ3HL"
       },
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 183498,
       "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
       "url": "https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 231252,
       "name": "\u0e22\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0CqwvHOZeAP0kEEOR1NfnI"
@@ -557,6 +575,24 @@
       "duration_ms": 354851,
       "name": "\u0e25\u0e37\u0e21\u0e41\u0e17\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+        "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262386,
+      "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+      "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Just try not to move to this mix of recent hits. Cover: BLOND:ISH",
-  "num_followers": 67695,
+  "num_followers": 67709,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDI0OTA4MjZhN2Y3OTljZDM0OWQ5NDJlMzdhMTkyZGJk",
+  "snapshot_id": "MTY2MzkwOTM2NiwwMDAwMDAwMGZjYzhlZDg0MjMyNjFiNjA2MTQ5YzU4NWE5YmUxM2Zi",
   "tracks": [
     {
       "added_at": "2022-07-08 04:00:00",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
+      "added_at": "2022-09-23 05:02:46",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Savage",
@@ -2011,26 +2027,6 @@
       "duration_ms": 264045,
       "name": "I\u2019ll Find My Way To You",
       "url": "https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P"
-    },
-    {
-      "added_at": "2022-05-27 06:06:42",
-      "album": {
-        "name": "i miss u (with Au/Ra)",
-        "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 172143,
-      "name": "i miss u (with Au/Ra)",
-      "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
     },
     {
       "added_at": "2022-08-26 04:00:00",

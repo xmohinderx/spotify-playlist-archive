@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "The latest from ONE OK ROCK along with the Rock songs you need to hear today.",
+  "description": "The latest from The Smashing Pumpkins along with the Rock songs you need to hear today.",
   "name": "Rock This",
   "published_playlist_ids": [
     "6Fsj2Im6Dv5sgOMEKd4oVV"
@@ -261,6 +261,24 @@
       "duration_ms": 115587,
       "name": "Barnacle",
       "url": "https://open.spotify.com/track/5DlvocrKUdERmdV6kldCph"
+    },
+    {
+      "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "album": {
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 208920,
       "name": "Records",
       "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
@@ -2739,6 +2757,24 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
+    },
+    {
+      "album": {
+        "name": "September Rain",
+        "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213874,
+      "name": "September Rain",
+      "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
     },
     {
       "album": {
@@ -3422,6 +3458,24 @@
     },
     {
       "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
+    },
+    {
+      "album": {
         "name": "Tippa My Tongue",
         "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
       },
@@ -3628,6 +3682,24 @@
     },
     {
       "album": {
+        "name": "SZNZ: Autumn",
+        "url": "https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199592,
+      "name": "What Happens After You?",
+      "url": "https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV"
+    },
+    {
+      "album": {
         "name": "Fear Of The Dawn",
         "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
@@ -3639,7 +3711,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"

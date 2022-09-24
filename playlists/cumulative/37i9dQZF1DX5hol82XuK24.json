@@ -1056,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "En Bloc",
+        "url": "https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX"
+      },
+      "artists": [
+        {
+          "name": "Laundromat",
+          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241443,
+      "name": "Milky",
+      "url": "https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY"
+    },
+    {
+      "album": {
         "name": "Milky",
         "url": "https://open.spotify.com/album/3e2ZqbIIombCtqvIMTka3r"
       },
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 241557,
       "name": "Milky",
       "url": "https://open.spotify.com/track/6HLS4uoqTbEvdUmV8FKGMh"
@@ -1500,6 +1518,24 @@
     },
     {
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
       },
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 262451,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/3vw24DvCahaKObSrLOX3Z9"

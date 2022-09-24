@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,145 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,177 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 79 | [Waist Drop](https://open.spotify.com/track/0pq7v5FzfN7pv4qVk173a5) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Waist Drop](https://open.spotify.com/album/2bXMxsnq3X6PgRx4Oucn3H) | 2:47 |
 | 80 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 |
 
-Snapshot ID: `MTY2MzU3MTk3MywwMDAwMDAwMGUxYTVlZjg1ZjNlMGMzMTBlOGMzOGY2NmIyMzg0NTRm`
+Snapshot ID: `MTY2MzkxNDU3MCwwMDAwMDAwMDQ2NDVjOGU3OTM0NzdhNjhiODhkNmRkNjE3MGQ1NDU3`

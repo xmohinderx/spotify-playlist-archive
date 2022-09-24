@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "heart held",
+        "url": "https://open.spotify.com/album/7gCGDCh2DBlmRoBFsJLrWi"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356571,
+      "name": "heart held",
+      "url": "https://open.spotify.com/track/36cPSm8bZSvnVHp0rqla87"
+    },
+    {
+      "album": {
         "name": "The Al Bowlly Collection 1927-40, Vol. 1",
         "url": "https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE"
       },

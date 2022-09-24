@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs that get down and dirty. Cover: Marcus King",
+  "description": "Rock songs that get down and dirty. Cover: The Blue Stones",
   "name": "Dirty Rock",
   "published_playlist_ids": [
     "5E2fDbkCcBNFcuPTDKHwKt"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 209048,
       "name": "bernard trigger",
       "url": "https://open.spotify.com/track/1JhppwOaVjg1cgs7jYzGQS"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 211373,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8"
@@ -794,6 +794,28 @@
     },
     {
       "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+    },
+    {
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1064,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
+    },
+    {
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 145013,
       "name": "Free",
       "url": "https://open.spotify.com/track/4ge3xYgVatWT0FKV26FsyE"
@@ -1777,7 +1817,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 232173,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX"
@@ -2173,7 +2213,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 205830,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4OSWIup9gKCkIdVvdkLEOE"
@@ -2321,6 +2361,24 @@
       "duration_ms": 258773,
       "name": "My Name Is Human",
       "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
     },
     {
       "album": {
@@ -2804,6 +2862,24 @@
     },
     {
       "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
+    },
+    {
+      "album": {
         "name": "Bones Owens",
         "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
@@ -2967,6 +3043,24 @@
       "duration_ms": 217143,
       "name": "Save Me Some Sunshine",
       "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "album": {
+        "name": "Say Your Prayers",
+        "url": "https://open.spotify.com/album/1p0G9DmCQfmkl1IGUrAqUm"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179872,
+      "name": "Say Your Prayers",
+      "url": "https://open.spotify.com/track/7dMev0fBdUJA7GnEHNyYLs"
     },
     {
       "album": {
@@ -3294,6 +3388,24 @@
     },
     {
       "album": {
+        "name": "Talk & Walk",
+        "url": "https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275494,
+      "name": "Talk & Walk",
+      "url": "https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc"
+    },
+    {
+      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -3381,6 +3493,24 @@
       "duration_ms": 241764,
       "name": "the depths",
       "url": "https://open.spotify.com/track/6XEPaRg8LRsVb4OMJGxmDG"
+    },
+    {
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/35GXWiN1dp2ZkXjQraRwUi"
+      },
+      "artists": [
+        {
+          "name": "Taipei Houston",
+          "url": "https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214096,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF"
     },
     {
       "album": {
@@ -3712,6 +3842,24 @@
     },
     {
       "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "album": {
         "name": "Heart On",
         "url": "https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A"
       },
@@ -3817,6 +3965,24 @@
       "duration_ms": 195986,
       "name": "Welcome to Silvertown",
       "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
+    },
+    {
+      "album": {
+        "name": "What\u2019s It Take To Be Happy?",
+        "url": "https://open.spotify.com/album/2gqKXGj4NkMH4FdrXviY9x"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200622,
+      "name": "What\u2019s It Take To Be Happy?",
+      "url": "https://open.spotify.com/track/36ctXtkmh0ot5PTBhlr9vJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Death Cab for Cutie",
+  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Milky Chance",
   "name": "The New Alt",
   "published_playlist_ids": [
     "4nMPQOlCNMSE5OFGV7xGWt"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 137052,
       "name": "10 for 10",
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
@@ -834,6 +834,24 @@
     },
     {
       "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1307,6 +1325,24 @@
       "duration_ms": 122173,
       "name": "Buy likes",
       "url": "https://open.spotify.com/track/4PpyNUrgNO7OhHcBosuonP"
+    },
+    {
+      "album": {
+        "name": "Cannonballers",
+        "url": "https://open.spotify.com/album/2EMnIcy1CcxlH3dm3sSUOX"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cannonballers",
+      "url": "https://open.spotify.com/track/5hR92ZjhZsVVUPLuEJcxDf"
     },
     {
       "album": {
@@ -1844,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "album": {
         "name": "Dance With My Demons EP",
         "url": "https://open.spotify.com/album/1wiN698F4pEAtQv8ZkvZX1"
       },
@@ -1953,7 +2007,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 254129,
       "name": "DEEP CUTS",
       "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
@@ -2123,6 +2177,24 @@
       "duration_ms": 199414,
       "name": "DIZZY",
       "url": "https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo"
+    },
+    {
+      "album": {
+        "name": "Do You Wanna Talk",
+        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
     },
     {
       "album": {
@@ -2961,7 +3033,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 188693,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7ucHXmOqOCw0tohI4vmOZT"
@@ -3005,6 +3077,24 @@
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "album": {
+        "name": "Freaking Me Out",
+        "url": "https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208230,
+      "name": "Freaking Me Out",
+      "url": "https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc"
     },
     {
       "album": {
@@ -3823,7 +3913,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 193333,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os"
@@ -4376,6 +4466,24 @@
     },
     {
       "album": {
+        "name": "Is It Worth It Now?",
+        "url": "https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Is It Worth It Now?",
+      "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
+    },
+    {
+      "album": {
         "name": "It Ain't Over",
         "url": "https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng"
       },
@@ -4499,7 +4607,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 192878,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
@@ -5976,6 +6084,32 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Nowhere To Go",
+      "url": "https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR"
+    },
+    {
+      "album": {
         "name": "Oblivion!",
         "url": "https://open.spotify.com/album/3IWPc1hdjbhEG558lzULE3"
       },
@@ -6197,7 +6331,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 206922,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv"
@@ -6964,6 +7098,24 @@
     },
     {
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W"
       },
@@ -7191,7 +7343,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 150510,
       "name": "Seasick",
       "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
@@ -7231,7 +7383,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
@@ -7285,7 +7437,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
@@ -7610,6 +7762,24 @@
     },
     {
       "album": {
+        "name": "SINS",
+        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177952,
+      "name": "SINS",
+      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
+    },
+    {
+      "album": {
         "name": "Skate / Big Shot / Play Along",
         "url": "https://open.spotify.com/album/5K9pA1ilpoUuGCkLdy6D6n"
       },
@@ -7751,7 +7921,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 193200,
       "name": "soft-glow",
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
@@ -7813,7 +7983,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp"
@@ -8481,7 +8651,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 218656,
       "name": "The King and Queen of Gasoline",
       "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
@@ -9034,6 +9204,24 @@
     },
     {
       "album": {
+        "name": "Troubled Man",
+        "url": "https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155173,
+      "name": "Troubled Man",
+      "url": "https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0"
+    },
+    {
+      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -9501,7 +9689,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 310840,
       "name": "We're Not In Orbit Yet\u2026",
       "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
@@ -9635,6 +9823,24 @@
       "duration_ms": 217813,
       "name": "What Feels Like Eternity",
       "url": "https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw"
+    },
+    {
+      "album": {
+        "name": "SZNZ: Autumn",
+        "url": "https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199592,
+      "name": "What Happens After You?",
+      "url": "https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV"
     },
     {
       "album": {

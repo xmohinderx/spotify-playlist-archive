@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 230400,
       "name": "Luna",
       "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
@@ -716,6 +716,28 @@
     },
     {
       "album": {
+        "name": "Massive Bells",
+        "url": "https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT"
+      },
+      "artists": [
+        {
+          "name": "Cores",
+          "url": "https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M"
+        },
+        {
+          "name": "Marco Zaffarano",
+          "url": "https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Massive Bells",
+      "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
+    },
+    {
+      "album": {
         "name": "Mesopotamia",
         "url": "https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6"
       },
@@ -753,7 +775,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 219692,
       "name": "Message from Beyond - Spotify Edit",
       "url": "https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av"
@@ -1047,6 +1069,24 @@
       "duration_ms": 255574,
       "name": "Sinner - Edit",
       "url": "https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M"
+    },
+    {
+      "album": {
+        "name": "Six For Gold",
+        "url": "https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Six For Gold",
+      "url": "https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn"
     },
     {
       "album": {

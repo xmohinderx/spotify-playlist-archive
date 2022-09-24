@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Mot\u00f6rhead",
+  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Disturbed ",
   "name": "Heavy Metal",
   "published_playlist_ids": [
     "6NpBTQ0b3N3b1zdtxQGNsV"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 246826,
       "name": "Dangerous Ground",
       "url": "https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj"
@@ -6234,6 +6234,24 @@
     },
     {
       "album": {
+        "name": "Mind Right",
+        "url": "https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Mind Right",
+      "url": "https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC"
+    },
+    {
+      "album": {
         "name": "Falconer",
         "url": "https://open.spotify.com/album/4j3Pe9H1HCpbunI1XdQWro"
       },
@@ -8687,7 +8705,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 218426,
       "name": "Slowly We Rot",
       "url": "https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq"
@@ -10743,6 +10761,24 @@
       "duration_ms": 222429,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "album": {

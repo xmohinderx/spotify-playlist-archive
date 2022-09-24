@@ -348,6 +348,28 @@
     },
     {
       "album": {
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109330,
+      "name": "Daydreamin'",
+      "url": "https://open.spotify.com/track/3lUqcCAUORjvF3We6cWZtH"
+    },
+    {
+      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },

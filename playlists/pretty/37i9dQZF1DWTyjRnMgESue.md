@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,608 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,683 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 |
 | 100 | [cigarette holes](https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Bad For Me](https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv) | 2:26 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGQ0ODAwNjQxNjJjY2YyMjYzZTEyYzUyZGI4ZmQxMTQ4`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDY4NDQ3NzA0OWM5MmE1Nzg4MzRiY2I0ZGU2MmUzMDBl`

@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-59 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4IaS7qt7IgxoHpK2AE8vDm)
+60 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4IaS7qt7IgxoHpK2AE8vDm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Gabino Barrera](https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 | 2021-12-13 |  |
 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 | 2021-12-13 |  |
 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 | 2021-12-13 |  |
-| [La Martina](https://open.spotify.com/track/34uNgYubjTKtgslAceJELk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:17 | 2021-12-13 |  |
+| [La Martina](https://open.spotify.com/track/34uNgYubjTKtgslAceJELk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:17 | 2021-12-13 | 2022-09-24 |
 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 | 2021-12-13 |  |
 | [Las Mañanitas](https://open.spotify.com/track/6kbmiCL77OvBdw6ZUfG6oV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Las Mañanitas](https://open.spotify.com/album/59LFY4Br1iJqDxzw7xp9nn) | 2:51 | 2021-12-13 | 2022-09-23 |
 | [Lo Busqué](https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/0OFAMb4oOtIp0j5ENQWN4a) | 4:10 | 2021-12-13 |  |
@@ -67,5 +67,6 @@
 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2021-12-13 |  |
 | [Una y Mil Razones](https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Una y Mil Razones](https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz) | 3:03 | 2021-12-13 |  |
 | [Ven y camina conmigo \(feat\. Pepe Aguilar\) \- MTV Unplugged](https://open.spotify.com/track/1FlYaJEsXJVRXHmSyaueQY) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged\. El Libro De Las Mutaciones](https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h) | 4:38 | 2021-12-13 |  |
+| [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

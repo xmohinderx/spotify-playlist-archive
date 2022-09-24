@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: El Cuarteto De Nos.
 
-260 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
+261 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-07-08 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-07-08 |  |
 | [El Amor Anda Suelto](https://open.spotify.com/track/2fokXSTVf0Zh2gVLvoYOhx) | [El Astillero](https://open.spotify.com/artist/7C9yOG9qOJrWjU2DlvCUhr) | [Sesiones](https://open.spotify.com/album/1KWVmkHiaNR01ozodyG1G3) | 3:41 | 2022-05-20 | 2022-07-23 |
+| [El Comienzo del Final](https://open.spotify.com/track/14mNmaD7yPKqrmhJzW1rgI) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [El Comienzo del Final](https://open.spotify.com/album/7v5G14UAYQXW4A4Sndk8BX) | 2:54 | 2022-09-23 |  |
 | [El Kafkarudo](https://open.spotify.com/track/0xknOzV05CSEbU76ibfDpm) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK) | [Chapa \- Pintura \- Lifting](https://open.spotify.com/album/2rL5MLkJrrsBSbWLAUYBB6) | 2:58 | 2022-07-01 | 2022-07-11 |
 | [El Poeta Dice la Verdad](https://open.spotify.com/track/2lHxZg55ssoKPyy3oFR8Dc) | [La Trampa](https://open.spotify.com/artist/3RjvECdftnsAnsoqhBL7Vq) | [Laberinto](https://open.spotify.com/album/2h33lUJObOfRoSnAxGmLmo) | 4:36 | 2022-05-20 | 2022-07-29 |
 | [El Quinto Eje](https://open.spotify.com/track/1OJC92444GIJnJAZoRLSPT) | [Gatos Callejeros](https://open.spotify.com/artist/4N8zeIaBWTMaVOpbpN4Ri8) | [El Quinto Eje](https://open.spotify.com/album/5tS75ddozKZcU9Psx1Fc3s) | 3:56 | 2022-07-08 | 2022-07-11 |
@@ -253,7 +254,7 @@
 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 | 2022-05-20 |  |
 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 | 2022-05-20 |  |
 | [Una Señal](https://open.spotify.com/track/2cUiwVTonGgVW4yormo0ZZ) | [Chala Madre](https://open.spotify.com/artist/4K8Bs7ExuPr0rIvXIlMXK4) | [Hay Que Salir](https://open.spotify.com/album/7bOlAK9wInvuumXLyla1h1) | 3:29 | 2022-05-20 | 2022-07-28 |
-| [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2aSFLiDPreOVP6KHiWk4lF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 3:56 | 2022-07-08 |  |
+| [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2aSFLiDPreOVP6KHiWk4lF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 3:56 | 2022-07-08 | 2022-09-24 |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-05-20 |  |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-05-20 |  |
 | [Violenta Ansiedad](https://open.spotify.com/track/68cXdFN9ku3KJ2jt1xfhZS) | [La Mujer Pájaro](https://open.spotify.com/artist/6A35QJtFjw6EQQLGrjxHpi), [Fede Graña](https://open.spotify.com/artist/7GwI22TlgkP8yxRgIeVEKI) | [Faros Ciegos](https://open.spotify.com/album/0GptATOJpodVkDepdm5uy4) | 4:40 | 2022-05-20 | 2022-07-08 |

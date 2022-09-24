@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,797 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,816 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
 | 100 | [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 |
 
-Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMGI5MzNhYmQxZWQ2NjllNmNjZmZhMTk3ODBmNzhhYTMy`
+Snapshot ID: `MTY2MzkyNjQzNSwwMDAwMDAwMGQ0MjgwOGMzMDIxNzBiZDU3MDk4NDM4N2NkMzk0YjQ4`

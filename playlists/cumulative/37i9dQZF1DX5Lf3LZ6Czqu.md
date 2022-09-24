@@ -2,9 +2,9 @@
 
 ### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
-> Instrumental guitar shreddery\. Cover: Eric Johnson
+> Instrumental guitar shreddery\. Cover: TORA
 
-91 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+93 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Havin' It](https://open.spotify.com/track/1L4zRZzhBECP4IvNJNMz68) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Behold Electric Guitar](https://open.spotify.com/album/0hAq2Cqzq3LhHlYvaxEFAg) | 6:59 | 2021-05-04 | 2022-07-29 |
 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 | 2022-03-04 |  |
 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 | 2021-05-04 |  |
+| [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 | 2022-09-23 |  |
 | [Journey Through](https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF) | 5:54 | 2021-05-04 |  |
 | [Journey Through](https://open.spotify.com/track/6RQwWe0auWqd1RwFD4Pt64) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/3yNjUAz8wM1CxGCiEQcVzz) | 5:54 | 2021-05-04 | 2022-07-29 |
 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 | 2021-05-04 |  |
@@ -97,6 +98,7 @@
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |
 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 | 2021-06-11 |  |
 | [What Really Matters](https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC) | [Loida Liuzzi](https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U) | [The Journey](https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb) | 4:22 | 2022-05-27 |  |
+| [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 | 2022-09-23 |  |
 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |
 

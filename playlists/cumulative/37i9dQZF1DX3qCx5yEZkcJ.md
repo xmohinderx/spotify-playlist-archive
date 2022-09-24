@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-402 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+403 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2020-07-18 | 2022-01-07 |
 | [Ocean Waves](https://open.spotify.com/track/03qYV8hat9j4ttaPN2HKfh) | [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Aywee Tha Seed & Kydual](https://open.spotify.com/artist/4E7QYvNiTmh0VcrmKsQ3RH) | [Ocean Waves](https://open.spotify.com/album/3zpNlJKA8tRRvUzE4mpuMP) | 2:49 | 2020-06-29 | 2022-07-29 |
 | [Ocean Waves](https://open.spotify.com/track/0bUUIbkmZZARHVRbukkdUJ) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62), [Kydual](https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK) | [Soul Searching](https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX) | 2:49 | 2022-07-28 |  |
-| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2022-09-24 |
 | [Ol' Chip](https://open.spotify.com/track/0GGEOadYmcgeypcAe30pcE) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/5FdaPPagFvA9neahVC3bAO) | [Ol' Chip / JayJay](https://open.spotify.com/album/79KtjGUVfHK6U2PNtHfaNH) | 1:17 | 2019-05-26\* | 2021-10-29 |
 | [On It](https://open.spotify.com/track/2GVxtwwychjHFKVut3Osls) | [jus.](https://open.spotify.com/artist/7srPSgvqbQ7wyI84WV1LXx) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 2:52 | 2019-05-26\* | 2019-08-13 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2020-03-07 | 2020-06-22 |

@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-236 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+237 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 | 2021-12-17 |  |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 |  |
 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 | 2021-12-17 |  |
-| [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 | 2021-12-17 |  |
+| [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 | 2021-12-17 | 2022-09-24 |
 | [Somebody Was Watching](https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:07 | 2021-12-17 |  |
 | [Something’s Got a Hold on Me](https://open.spotify.com/track/5oU6hEiZ3l1CG8xMPdI5M0) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/1WK7PVI8kDQX8ogzKMJfn4) | 3:08 | 2022-07-22 |  |
 | [Something’s Got a Hold on Me](https://open.spotify.com/track/7bR4C483mAqkwidrXp9BYw) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/6zcySeTTqbQOkvgKgxxjAs) | 3:08 | 2021-12-17 | 2022-07-29 |
@@ -207,6 +207,7 @@
 | [Thousand Mile Night](https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night \- Single](https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Trinity Lane](https://open.spotify.com/track/3eMvfFDFlcsXRenA2L3LjK) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/5uXp0MRb9zy9GGopCca1RD) | 3:53 | 2021-12-17 | 2022-03-12 |
 | [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 |  |
+| [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-23 |  |
 | [Trouble](https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Trouble](https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb) | 2:32 | 2022-09-09 |  |
 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 | 2021-12-17 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/4txC9c27Rw0GNtZzDKn1wW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:31 | 2022-07-22 |  |

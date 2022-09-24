@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 533798,
+  "num_followers": 533831,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDUzNGJlYmNiMjJiMmExMmNmZDIyMTlmZWNhNmQzOWVk",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDg2ZjY0Njc5MWJlMDU2N2Q5MzViNTQ3NTE1N2JkMTIy",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "Fo1006",
+          "url": "https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f"
+        }
+      ],
+      "duration_ms": 175478,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/7I8IUJLGoJMupsw4bn9YWe"
+    },
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
@@ -73,6 +93,34 @@
       "url": "https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Cloud Bounce",
+        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
+      },
+      "artists": [
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        },
+        {
+          "name": "Gustav Gustav",
+          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Cloud Bounce",
+      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Birds of Rocky Point",
@@ -99,6 +147,110 @@
       "duration_ms": 157975,
       "name": "Birds of Rocky Point",
       "url": "https://open.spotify.com/track/7CurxbuwMd0zxu2DOtI94j"
+    },
+    {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
+      },
+      "artists": [
+        {
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
+        }
+      ],
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh"
+      },
+      "artists": [
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        }
+      ],
+      "duration_ms": 155877,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "dshirtcannon",
+        "url": "https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        }
+      ],
+      "duration_ms": 166364,
+      "name": "dshirtcannon",
+      "url": "https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Chip Funk",
+        "url": "https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Morse",
+          "url": "https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Shop FUNKY Flights",
+      "url": "https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Distant Siren",
+        "url": "https://open.spotify.com/album/6MLbsv7Ty01NegwBQu6Ve9"
+      },
+      "artists": [
+        {
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+        }
+      ],
+      "duration_ms": 343897,
+      "name": "Distant Siren",
+      "url": "https://open.spotify.com/track/7BarE6oFEX8WTFGk35Brqr"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Gemini with Mood Swings",
+        "url": "https://open.spotify.com/album/0PqKxVkrzkNXAYv5qTFXG0"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Gigi\u2019s Revenge",
+      "url": "https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -141,38 +293,6 @@
       "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
     },
     {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
-      },
-      "artists": [
-        {
-          "name": "THREESIXTY",
-          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "Dazed",
-      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh"
-      },
-      "artists": [
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 155877,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Blurred Tales",
@@ -187,42 +307,6 @@
       "duration_ms": 158900,
       "name": "Blurred Tales",
       "url": "https://open.spotify.com/track/0l2hEwqU2iclUklGoLI84F"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Chip Funk",
-        "url": "https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Morse",
-          "url": "https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Shop FUNKY Flights",
-      "url": "https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Distant Siren",
-        "url": "https://open.spotify.com/album/6MLbsv7Ty01NegwBQu6Ve9"
-      },
-      "artists": [
-        {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
-        }
-      ],
-      "duration_ms": 343897,
-      "name": "Distant Siren",
-      "url": "https://open.spotify.com/track/7BarE6oFEX8WTFGk35Brqr"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -565,26 +649,6 @@
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Altered Time",
-        "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
-      },
-      "artists": [
-        {
-          "name": "Knick",
-          "url": "https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Altered Time",
-      "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "The Banquet",
@@ -611,6 +675,26 @@
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Altered Time",
+        "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
+      },
+      "artists": [
+        {
+          "name": "Knick",
+          "url": "https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Altered Time",
+      "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -881,6 +965,26 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Kick Snare Cat",
+        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Kick Snare Cat",
+      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
+    },
+    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Half-Bloom",
@@ -919,26 +1023,6 @@
       "duration_ms": 208456,
       "name": "Jim Bell",
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Kick Snare Cat",
-        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
-      },
-      "artists": [
-        {
-          "name": "Mahealane",
-          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Kick Snare Cat",
-      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1137,6 +1221,26 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
+      "added_at": "2021-07-19 12:43:20",
+      "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/3Hr8D92qlwJkFague8VGKg"
+      },
+      "artists": [
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        }
+      ],
+      "duration_ms": 162633,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Side Street",
@@ -1167,26 +1271,6 @@
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
-    },
-    {
-      "added_at": "2021-07-19 12:43:20",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/3Hr8D92qlwJkFague8VGKg"
-      },
-      "artists": [
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 162633,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
     },
     {
       "added_at": "2021-03-26 04:44:53",
@@ -1333,22 +1417,6 @@
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Inner Inference",
-        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Inner Inference",
-      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -1387,6 +1455,22 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-05-28 04:00:00",
+      "album": {
+        "name": "Inner Inference",
+        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Inner Inference",
+      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1515,94 +1599,6 @@
       "duration_ms": 177036,
       "name": "PRNDL.exe",
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
-    },
-    {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Lickety Split",
-        "url": "https://open.spotify.com/album/4CDva14BJ0CwlQuNAN92RQ"
-      },
-      "artists": [
-        {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
-        }
-      ],
-      "duration_ms": 146735,
-      "name": "Lickety Split",
-      "url": "https://open.spotify.com/track/2F5RXPElkBrycPAn6vcagr"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Afro Cello (Super Full Moon Rework)",
-        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
-      },
-      "artists": [
-        {
-          "name": "Danny Keane",
-          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Afro Cello - Super Full Moon Rework",
-      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Database",
-        "url": "https://open.spotify.com/album/3Wd3eSggmgWFmO0N6yuIq4"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Benjamin Francis",
-          "url": "https://open.spotify.com/artist/06ZjGUPQ57XGGjh4Gjqzpz"
-        },
-        {
-          "name": "Moto Fukushima",
-          "url": "https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF"
-        },
-        {
-          "name": "Magro",
-          "url": "https://open.spotify.com/artist/76cRnLzHkspLjeNgFmDn87"
-        }
-      ],
-      "duration_ms": 272955,
-      "name": "Timeline-100",
-      "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
-    },
-    {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/47fhitalFxOfp647SOyW6y"
-      },
-      "artists": [
-        {
-          "name": "Slowya.roll",
-          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
-        },
-        {
-          "name": "Matt Zara",
-          "url": "https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt"
     }
   ],
   "unique_name": "Jazztronica",

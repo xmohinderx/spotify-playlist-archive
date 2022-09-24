@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Celebrating 20 years of Songs For The Deaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,010 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,184 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

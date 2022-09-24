@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "name": "Nu-Smooth",
+  "description": "So fresh, so smooth. Cover: Kim Scott",
+  "name": "New Smooth Jazz",
   "published_playlist_ids": [
     "73Eg864FGRS3gdmYP6IVUV"
   ],
@@ -147,6 +147,24 @@
       "duration_ms": 320900,
       "name": "Affirmation (feat. Tony Terry)",
       "url": "https://open.spotify.com/track/3rtX3etPKWkFttflEePOgY"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "album": {
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
@@ -1161,6 +1179,24 @@
       "duration_ms": 222253,
       "name": "Denola",
       "url": "https://open.spotify.com/track/4TkYbPPXffu1nOaTRWYd1X"
+    },
+    {
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
     },
     {
       "album": {
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
@@ -2066,6 +2102,24 @@
     },
     {
       "album": {
+        "name": "Here She Comes",
+        "url": "https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219777,
+      "name": "Here She Comes",
+      "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
+    },
+    {
+      "album": {
         "name": "Listen to This",
         "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
@@ -2161,7 +2215,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 294252,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
@@ -3325,6 +3379,24 @@
       "duration_ms": 247659,
       "name": "Off the Cuff",
       "url": "https://open.spotify.com/track/5Rfe42z4hAZae1jrQaogem"
+    },
+    {
+      "album": {
+        "name": "Off The Top",
+        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259044,
+      "name": "Off The Top - radio single",
+      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
       "album": {

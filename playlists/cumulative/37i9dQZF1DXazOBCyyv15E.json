@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
+    },
+    {
+      "album": {
         "name": "3034",
         "url": "https://open.spotify.com/album/6pAKiq51pwehh3blVnomwQ"
       },
@@ -13679,7 +13697,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 181789,
       "name": "Polygod",
       "url": "https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS"
@@ -14835,6 +14853,24 @@
       "duration_ms": 220960,
       "name": "Say It",
       "url": "https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa"
+    },
+    {
+      "album": {
+        "name": "Say It Now",
+        "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Say It Now",
+      "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
     },
     {
       "album": {
@@ -16638,6 +16674,28 @@
     },
     {
       "album": {
+        "name": "Sahar",
+        "url": "https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
+    },
+    {
+      "album": {
         "name": "Goodnight Dreamer",
         "url": "https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi"
       },
@@ -17639,7 +17697,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 274007,
       "name": "The Princess Song",
       "url": "https://open.spotify.com/track/10YV4xUMoIUFr3r5Xfdfho"

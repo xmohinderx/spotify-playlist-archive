@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,041 likes - 1,198 songs - 3 day 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,092 likes - 1,198 songs - 3 day 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paulette](https://open.spotify.com/track/0xLRcC54BxwGkDw09zJqrS) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/4tNjmSfuLCcrdgXb0AdfJ0) | 7:42 |
+| 1 | [Paulette](https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 7:42 |
 | 2 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
 | 3 | [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 |
 | 4 | [Adimiz Miskindir Bizim](https://open.spotify.com/track/4bxSoFQl2ExbgPLSj24UDH) | [Mazhar Ve Fuat](https://open.spotify.com/artist/6vcAsqIwBdhb4BRZEumnFv) | [Christophe Lemaire And Now\-Again Present: Where Are You From?](https://open.spotify.com/album/0FAugj2VEkZGkjhalQgu9Q) | 5:25 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 73 | [Sah](https://open.spotify.com/track/4EBfDOUaCRqO5hbVYWsXRv) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 3:44 |
 | 74 | [Horreya](https://open.spotify.com/track/1SnWRty2zBfLWZdv269sG3) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:25 |
 | 75 | [Waiting for It Everyday](https://open.spotify.com/track/3wsSJZfTmrO84EtMFkoAku) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 2:31 |
-| 76 | [Anina](https://open.spotify.com/track/3oMVb1sInS7pKvZsjOJYZd) | [Gëstu de Dakar](https://open.spotify.com/artist/6hL9ZQzLTiqGaA9CwXScet) | [Diabar](https://open.spotify.com/album/2QLdxF7C5qmkvT1q7AktyE) | 4:23 |
+| 76 | [Anina](https://open.spotify.com/track/5YfefnbzjQLvX7RYrs8TPX) | [Gestu De Dakar](https://open.spotify.com/artist/6a9kyFqiltFaSfJju9tl4h) | [Diabar](https://open.spotify.com/album/2hzBB3EziMHVUpb8II3Kgb) | 4:23 |
 | 77 | [Inssegh Inssegh](https://open.spotify.com/track/5fEjp2F0Sqr9fMuLSaDqz0) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:48 |
 | 78 | [Music de Carnaval](https://open.spotify.com/track/2qwReOY6ZUi0jicujboEyj) | [Magdy Al Hussainy](https://open.spotify.com/artist/4FyKfWjxROUw0sof5F9yJE) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 5:10 |
 | 79 | [Pé na estrada \- Mendel Edit](https://open.spotify.com/track/5Nc5POjij6A946WwUb97CE) | [Valéria](https://open.spotify.com/artist/7eB0Z0HTaVvFxQ1SAYyV6z), [Mendel](https://open.spotify.com/artist/49yqlsZAJePjlhRcPUcNn6) | [NOAJ Edits 01 – Mendel & Delfonic](https://open.spotify.com/album/0Bwrm4qX6QUkaX3DYL8I5P) | 3:35 |
@@ -742,7 +742,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 732 | [You Can't Change A Man](https://open.spotify.com/track/2vqMVBk55Ul6nK49aD0Vzc) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 3:57 |
 | 733 | [Kamakumba](https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Isle Of Magic](https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6) | 4:06 |
 | 734 | [Panier su la tête, ni chanté](https://open.spotify.com/track/22wgfaFRI3QGjvJMB7PfMO) | [Alain Péters](https://open.spotify.com/artist/2xVquVgh0jd7miRn4BbulQ) | [Vavanguèr](https://open.spotify.com/album/7Hlo3Hcq4zBxmsbXLuCKea) | 3:47 |
-| 735 | [N'na Soba](https://open.spotify.com/track/4hl0ppTzQevcO5v9xzE4TQ) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [The Syliphone Years](https://open.spotify.com/album/381UsJGR0d6qCE1nALVzyG) | 4:21 |
+| 735 | [N'na Soba](https://open.spotify.com/track/1timhDqYURgJM2NrVTwnky) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [The Syliphone Years](https://open.spotify.com/album/1oV4yfmtveTEAPn4HIANJU) | 4:21 |
 | 736 | [Grilos](https://open.spotify.com/track/73oghiPL15UQjgckP1xWuA) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Sonhos E Memórias \- 1941 / 1972](https://open.spotify.com/album/0UFcljWRWT4oEpls4E1l46) | 2:59 |
 | 737 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 |
 | 738 | [Onfa Nkosi Hwee](https://open.spotify.com/track/1G8h2BbHv7hobEGIrq7O7G) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Obiaa!](https://open.spotify.com/album/3ryOYwvg9H8S0Kq779Tot7) | 5:06 |
@@ -996,7 +996,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 986 | [Cabalgando Con Ella](https://open.spotify.com/track/6F8DbipfNPRAQSAqoFlONJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 3:09 |
 | 987 | [Morre O Burro, Fica O Homem](https://open.spotify.com/track/1uQbyC6EdqLjAfMc20V5LT) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben](https://open.spotify.com/album/1k20FeozgWwMfD3HDMKKXZ) | 2:06 |
 | 988 | [Atwer Abroba](https://open.spotify.com/track/4P7wLOCCB1kcjzA9gqKt1V) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 8:12 |
-| 989 | [Tambourinis cocktail](https://open.spotify.com/track/3TqBA2OTBT7mWJVVYRRTDz) | [Keletigui Et Ses Tambourinis](https://open.spotify.com/artist/0Sj1INc5H2YaKWQPHqNwCi) | [Discothèque 70](https://open.spotify.com/album/4pcLaN5WY7GrlFkGtq2N2j) | 4:28 |
+| 989 | [Tambourinis cocktail](https://open.spotify.com/track/3s2WeGkdFhRhcYGbPJWZfF) | [Kélétigui et ses Tambourinis](https://open.spotify.com/artist/16BMfvnMLTwlyjxXolrIWr) | [The Syliphone Years](https://open.spotify.com/album/0wfvZa4g95JMDkSAWDZexC) | 4:28 |
 | 990 | [Baião Destemperado](https://open.spotify.com/track/1EoV0vQjHaMQ8WehQGXS8O) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Corpo Do Som](https://open.spotify.com/album/6dwGXu1580bIbgjbS9dwbb) | 2:43 |
 | 991 | [Barretto En La Tumbadora](https://open.spotify.com/track/4D5uQRjK3A0QIO1p9w8yeT) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Carnaval](https://open.spotify.com/album/3CcsXhfQgRnHWQ2AgKinA0) | 3:04 |
 | 992 | [Alah alah ya lah \- Polocorp's Slow Disco Edit](https://open.spotify.com/track/7aMGkkJBIynh5fN3QhTApo) | [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Roudani 434](https://open.spotify.com/album/7w9kjCVOmBskNfTUQNpn2z) | 6:58 |
@@ -1193,7 +1193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1183 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
 | 1184 | [Ifetayo](https://open.spotify.com/track/1m4OTAFA2CrFF1CSYqExqB) | [Black Truth Rhythm Band](https://open.spotify.com/artist/6uGsjLM37XoJ90qzxRnGjn) | [Ifetayo \(Love Excels All\)](https://open.spotify.com/album/2Q7v26WNu7W49bmpwAQG8x) | 5:48 |
 | 1185 | [Çayelinden Öteye/Yali Yali](https://open.spotify.com/track/6fcqnQf44Ppvc36jKd4uch) | [Neşe Karaböcek](https://open.spotify.com/artist/2LyOwgMY8RSQU5iK9rHj0B) | [Dost Bahçesi](https://open.spotify.com/album/3SAlmME2G8dReliNrcJQ45) | 2:41 |
-| 1186 | [L'enfant et la gazelle](https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:45 |
+| 1186 | [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 |
 | 1187 | [Gonna Make Time Version](https://open.spotify.com/track/7tG68NtLXzWV2tiN6ghLeb) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [More to Say Versions](https://open.spotify.com/album/02R0gk6SfC5hbtmFvPsQ6j) | 3:57 |
 | 1188 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 1189 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
@@ -1207,4 +1207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1197 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1198 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2MzIzMDYwMCwwMDAwMDAwMDExNWRiNDNlM2I4YzIzM2YxNmMzODAxYjJlYzJiMDAy`
+Snapshot ID: `MTY2MzIzMDYwMCwwMDAwMDAwMDhiMTk4MDMwZTMyODU4NDc1NWQ2ZGE5ZjEwMDkxODdj`

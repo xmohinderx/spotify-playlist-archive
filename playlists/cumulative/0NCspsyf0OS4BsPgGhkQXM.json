@@ -4852,6 +4852,28 @@
     },
     {
       "album": {
+        "name": "La Guitarra",
+        "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Tyraz",
+          "url": "https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
+    },
+    {
+      "album": {
         "name": "La Roja",
         "url": "https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm"
       },
@@ -5857,10 +5879,6 @@
         {
           "name": "broke",
           "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        },
-        {
-          "name": "WISNER",
-          "url": "https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L"
         }
       ],
       "date_added": "2022-09-22",
@@ -5949,6 +5967,24 @@
       "duration_ms": 177600,
       "name": "Momenta",
       "url": "https://open.spotify.com/track/1bmgQT91R4A3i7BZ6xZcXc"
+    },
+    {
+      "album": {
+        "name": "Monkey Vs Zookeeper",
+        "url": "https://open.spotify.com/album/33A2H3S9dyQQl4SKuuKX1l"
+      },
+      "artists": [
+        {
+          "name": "Mountkid",
+          "url": "https://open.spotify.com/artist/5HIaWUt7K7zHFsUZDy5fvX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Monkey Vs Zookeeper",
+      "url": "https://open.spotify.com/track/0AFzhFnYIcftHFxGm9CSAs"
     },
     {
       "album": {

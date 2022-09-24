@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Youth Hostel\(유스호스텔\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: CHANMINA\(찬미나\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-516 songs - 1 day 4 hr 15 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+517 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Do what I do \(Feat\. Lee Juck, Pphk\)](https://open.spotify.com/track/0axQuDH6BVXiUCkPrbuJb7) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv) | [JAEHO](https://open.spotify.com/album/3Rdp3uLt6BdeV8a64pNTbi) | 4:11 | 2022-05-28 | 2022-07-18 |
 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 | 2022-04-01 | 2022-07-28 |
 | [Don't cry \(Feat\. george\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 3:40 | 2022-04-21 | 2022-07-23 |
+| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 | 2022-09-23 |  |
 | [Don’t think about it \(with\. ASH ISLAND\)](https://open.spotify.com/track/57sRaMnMkG0lh1QdR264Xk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-21 | 2022-07-19 |
 | [Don′t do That](https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:15 | 2022-06-13 |  |
 | [Drama](https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 2:50 | 2022-07-24 |  |
@@ -437,7 +438,7 @@
 | [STAY \(feat\. TABLO\)](https://open.spotify.com/track/4WBh36g1Xg2oQTzX7KuQcD) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 2:56 | 2022-06-09 | 2022-06-14 |
 | [stereo \(feat\. Gist\)](https://open.spotify.com/track/23liweQ8hFWh5szU6TnbVb) | [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [GIST\(윤현선\)](https://open.spotify.com/artist/5dnSklPcejwtwQ2zc5a7Dn) | [stereo \(feat\. Gist\)](https://open.spotify.com/album/3xqUW3HstppGwDwJDCl1P8) | 3:04 | 2022-07-14 | 2022-07-19 |
 | [STILL.](https://open.spotify.com/track/7xvZaKgTm12EA2BorgmXJ3) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [STILL.](https://open.spotify.com/album/7fVfBQ719OA38fw3A5N50g) | 3:17 | 2022-08-12 | 2022-08-18 |
-| [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-08-31 |  |
+| [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-08-31 | 2022-09-24 |
 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 | 2022-06-18 |  |
 | [Summer Love \(feat\. Verbal Jint, Basick\)](https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG) | [Lil Cats](https://open.spotify.com/artist/5LaXV8vstuhyeMmNmPiMkN), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [베이식\(Basick\)](https://open.spotify.com/artist/19nNwjtFLHcZjBdgjUlXtK) | [Summer Love](https://open.spotify.com/album/1htDzzqye3kEVmyQvwVgic) | 3:59 | 2022-04-01 |  |
 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 | 2022-04-01 |  |

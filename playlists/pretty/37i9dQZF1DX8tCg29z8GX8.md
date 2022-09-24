@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,684 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Loco Loco](https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Idwala](https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS) | 4:42 |
 | 80 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 |
 
-Snapshot ID: `MTY2MzU3MjAyNiwwMDAwMDAwMGE4MWEzNGUxOGM5NTdhNWExN2FmMDI3OTY4MDY1OGJm`
+Snapshot ID: `MTY2MzkxNDU4MCwwMDAwMDAwMDg2NGQzMmFhNDc4YjQxOGU4MTFiMmQwNTljM2ZlNjdi`

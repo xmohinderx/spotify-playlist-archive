@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 175063,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM"
@@ -1650,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/5ZrQWNbnlihJmSmarwa6Nk"
       },
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 137096,
       "name": "i'm lost for words",
       "url": "https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR"
@@ -3097,7 +3115,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 162666,
       "name": "OUT OF CONTEXT",
       "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
@@ -3342,6 +3360,24 @@
     },
     {
       "album": {
+        "name": "Poems",
+        "url": "https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9"
+      },
+      "artists": [
+        {
+          "name": "Couch",
+          "url": "https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189135,
+      "name": "Poems",
+      "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
       },
@@ -3447,6 +3483,24 @@
       "duration_ms": 176291,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/497hUxFOMMux7zeObEVHen"
+    },
+    {
+      "album": {
+        "name": "Rolling Back",
+        "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122"
     },
     {
       "album": {

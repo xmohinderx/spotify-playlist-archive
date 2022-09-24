@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
+      },
+      "artists": [
+        {
+          "name": "The Deep Sleep Scientists",
+          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180116,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
+    },
+    {
+      "album": {
         "name": "Beautiful Imagination",
         "url": "https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ"
       },
@@ -891,6 +909,24 @@
       "duration_ms": 208000,
       "name": "Douelle",
       "url": "https://open.spotify.com/track/4F2Fuy3BIP5u0f3CbOPAqi"
+    },
+    {
+      "album": {
+        "name": "Doux Sommeil",
+        "url": "https://open.spotify.com/album/7saNKwrdkqrmz7w2eXliyn"
+      },
+      "artists": [
+        {
+          "name": "Cloudville",
+          "url": "https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Doux Sommeil",
+      "url": "https://open.spotify.com/track/4HHB23Kvr6Lbwx8ksTTAuA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-150 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+151 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Santa's Coming Over to Your House](https://open.spotify.com/track/1sMuVdFFquluFIfImqFMm1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [It Won't Be Christmas Without You](https://open.spotify.com/album/682Ss8jlvCzMHTCNNfKSZp) | 2:30 | 2021-12-16 |  |
 | [Santa, I'm Right Here](https://open.spotify.com/track/16xYHsqJrCQb2B7v1JEGj2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Christmas To Christmas](https://open.spotify.com/album/6AX5SzSiM9LKCCkoiWasTJ) | 4:39 | 2021-12-16 |  |
 | [Shimmy Down The Chimney \(Fill Up My Stocking\)](https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Angels](https://open.spotify.com/album/4yjYRxRStBvBTUog8drzlM) | 4:21 | 2021-12-16 |  |
+| [Silent Night](https://open.spotify.com/track/32OH3VGKAqEOrFIqdkHCMe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Silent Night](https://open.spotify.com/album/1t1UAfuQfaENQlvMv393i5) | 3:13 | 2022-09-23 |  |
 | [Silver Bells](https://open.spotify.com/track/68I9uXiZHL4zIWVZhzjK0P) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:43 | 2021-12-16 |  |
 | [Silver Bells](https://open.spotify.com/track/1rMe8blC7SjtpynkqyURlL) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [A Classic Christmas](https://open.spotify.com/album/72wZVzg03F0dPBRHdOUyYC) | 2:45 | 2021-12-16 |  |
 | [Tennessee Christmas](https://open.spotify.com/track/7oFxSRozClfgRSNNR9thwD) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama Christmas](https://open.spotify.com/album/79TXvxe8sSiIPCCFs6XVac) | 3:41 | 2021-12-16 |  |

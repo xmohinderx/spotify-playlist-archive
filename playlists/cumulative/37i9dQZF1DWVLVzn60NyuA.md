@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-341 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+342 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Calling My Name](https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:09 | 2022-06-22 |  |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-03-31 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-10 |  |
-| [Carefully](https://open.spotify.com/track/2PW7GDvDrSTSTDMzVCEZWH) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Carefully](https://open.spotify.com/album/1xMLYZmzlVDvMOVhXpArac) | 2:14 | 2021-12-16 |  |
+| [Carefully](https://open.spotify.com/track/2PW7GDvDrSTSTDMzVCEZWH) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Carefully](https://open.spotify.com/album/1xMLYZmzlVDvMOVhXpArac) | 2:14 | 2021-12-16 | 2022-09-24 |
 | [Casanova](https://open.spotify.com/track/1De4dxD98pz77aeFx0DOdo) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Casanova](https://open.spotify.com/album/5Tejq7aVDwDa2doHQNKqjU) | 2:52 | 2021-12-28 |  |
 | [Causing Trouble](https://open.spotify.com/track/60WTSBZYhVUNQ9ygOpHWiv) | [Afrisounds](https://open.spotify.com/artist/7xRBFwkWrKG1Ql2OOOLT1A), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Causing Trouble](https://open.spotify.com/album/3rMjwthyejtoX7jYTQSbfq) | 3:54 | 2021-12-16 | 2022-07-28 |
 | [Champion Body](https://open.spotify.com/track/1kBg2zpHm5pM23sYbxmXWs) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Champion Body](https://open.spotify.com/album/3Ap1vptQs3YAdnbXld9kOz) | 2:29 | 2022-02-01 | 2022-02-24 |
@@ -336,6 +336,7 @@
 | [Wayih](https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Wayih](https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu) | 2:19 | 2022-07-18 |  |
 | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/album/6MhwOilsUaISxb4VnIuxpl) | 3:14 | 2021-12-16 | 2022-01-26 |
 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-16 |  |
+| [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-23 |  |
 | [Whine It](https://open.spotify.com/track/0s3aOtZgvBUjQcXLpASza8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Tsunami](https://open.spotify.com/album/2hsPUsRm1eOGkNxqr2wira) | 2:41 | 2021-12-16 | 2022-01-21 |
 | [Why](https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [Why](https://open.spotify.com/album/4rHgrEa4eGz71uNklcNKhd) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2022-04-28 |  |

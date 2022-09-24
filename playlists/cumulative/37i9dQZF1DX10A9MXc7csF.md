@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Conexión Divina
+> The new school of Música Mexicana\. Cover: Natalie López, Ivonne Galaz, Janine, Dueto Eleval, Tania Dominguez.
 
-217 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+222 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 | 2022-07-22 | 2022-09-09 |
 | [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 | 2022-07-29 |
 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 | 2022-05-27 | 2022-09-09 |
+| [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 | 2022-09-23 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-14 | 2022-09-09 |
 | [En La Siembra](https://open.spotify.com/track/5GChQ50BdF3oK5jSvArtp3) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [En La Siembra](https://open.spotify.com/album/0bkVHcppGjTPZffNU0BMIX) | 2:29 | 2022-09-09 |  |
 | [En Las Nubes](https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [En Las Nubes](https://open.spotify.com/album/6qP4PaGwmTvXxY11bjueHq) | 2:50 | 2022-05-14 | 2022-08-27 |
@@ -113,6 +114,7 @@
 | [JGL \(En Vivo\)](https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [JGL \(En Vivo\)](https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8) | 2:20 | 2022-07-01 | 2022-09-09 |
 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 | 2022-08-05 | 2022-09-09 |
 | [La Maria \- En Vivo](https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh) | [Cuarto Destino](https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P) | [La Maria \(En Vivo\)](https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq) | 3:11 | 2022-07-22 | 2022-09-09 |
+| [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 |  |
 | [La Muerte Me Llama \- Con Banda](https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Banda La Peligrosa](https://open.spotify.com/artist/0sz3Q1xMAXkRqeqf7kDrVV) | [La Muerte Me Llama \(Con Banda\)](https://open.spotify.com/album/4J1SAbJ0mMt5oRigTZFIcd) | 3:02 | 2022-05-14 | 2022-07-23 |
 | [La Neta](https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [La Neta](https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap) | 2:17 | 2022-05-14 | 2022-08-27 |
 | [La Reina](https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Una Empresa](https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD) | 3:26 | 2022-05-14 | 2022-08-06 |
@@ -148,6 +150,7 @@
 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 | 2022-05-14 |  |
 | [Muy Criticado](https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:47 | 2022-08-05 | 2022-09-09 |
 | [Nadie En Este Mundo](https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nadie En Este Mundo](https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO) | 3:52 | 2022-07-01 | 2022-09-09 |
+| [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 | 2022-09-23 |  |
 | [Niña del Destino](https://open.spotify.com/track/42XgWTmnVapQUUhk2RiOQK) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Reflejo Nuevo, Vol\. 2](https://open.spotify.com/album/281j39YlQK9FqIwWihq82o) | 2:23 | 2022-05-14 | 2022-07-23 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-14 | 2022-06-04 |
 | [No Hay Manera](https://open.spotify.com/track/3JgqK05SpGrrsLwo7Z9TQz) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [No Hay Manera](https://open.spotify.com/album/7AzS9OtFaaMRzuGatOaLkI) | 3:23 | 2022-08-26 |  |
@@ -161,6 +164,7 @@
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-05-14 | 2022-09-09 |
 | [Nuestro Futuro](https://open.spotify.com/track/0hAdYzsakzvP0TDORQI5jE) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nuestro Futuro](https://open.spotify.com/album/1VKC8wUoTSIwtkSjBMMDtB) | 3:10 | 2022-08-05 | 2022-09-09 |
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-09 |  |
+| [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 | 2022-09-23 |  |
 | [Paranoia](https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Paranoia](https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX) | 2:37 | 2022-05-14 | 2022-09-09 |
 | [Perfecta](https://open.spotify.com/track/1zRbhGdwBZVDTTvhB7OE0e) | [Eddy Barreno y Su Excelencia](https://open.spotify.com/artist/0e2Hwtj63vQDsOZsorJ91C) | [Perfecta](https://open.spotify.com/album/5QDVlCM7W0dhVwuY5d9PHj) | 4:01 | 2022-05-14 | 2022-09-09 |
 | [Pero Yo No](https://open.spotify.com/track/4C6ng2PDu8ibYqrr3XteqJ) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Pero Yo No](https://open.spotify.com/album/1hw9JbqbOxROPBhlxso6xc) | 2:32 | 2022-05-14 | 2022-06-04 |
@@ -188,6 +192,7 @@
 | [Sigo Con Lo Mio](https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Sigo Con Lo Mio](https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX) | 2:22 | 2022-09-09 |  |
 | [Sin Cuida'o](https://open.spotify.com/track/7HucjYSSbMuLuXcHondO26) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [Sin Cuida'o](https://open.spotify.com/album/5WfpGhu6tYV6cvsGgsAFwF) | 1:48 | 2022-05-14 | 2022-08-06 |
 | [SLND](https://open.spotify.com/track/3g1EtdqVDWuVkmB3trsh91) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [SLND](https://open.spotify.com/album/4qepmQnX3P85ihKmFng2Ym) | 4:16 | 2022-05-14 | 2022-06-04 |
+| [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 | 2022-09-23 |  |
 | [Solo En Mis Sueños](https://open.spotify.com/track/1EOoNAzazF9yiIVSYee39r) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Solo En Mis Sueños](https://open.spotify.com/album/2rmcjZNVHOhfMltQLabH2O) | 2:52 | 2022-05-14 | 2022-09-09 |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-09-09 |  |
 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 | 2022-05-14 | 2022-06-04 |

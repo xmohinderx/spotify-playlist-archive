@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Perfume
 
-509 songs - 1 day 6 hr 15 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+510 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Uchiseiuchi](https://open.spotify.com/track/3vaWPJ0niX8jGZohKOwmcy) | [Kiho Isobe](https://open.spotify.com/artist/0evJvNpUisqnvyNEzPHydy), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [Uchiseiuchi](https://open.spotify.com/album/0CukYnbf7QN6rGBMZ6Wxej) | 3:40 | 2022-08-02 | 2022-09-07 |
 | [uchiseiuchi feat.友達](https://open.spotify.com/track/6JF2hhQr0zcBYhckwZpv12) | [礒部希帆](https://open.spotify.com/artist/1ROcTcU2ZQ4LpEVWVPS0ty), [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [uchiseiuchi](https://open.spotify.com/album/1jl3gPRxjb1yHcAoCGure7) | 3:40 | 2022-04-05 | 2022-05-05 |
 | [UNDER GROUND](https://open.spotify.com/track/23bgScIKHnPmGbnAWiVNey) | [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | ["hiphop"ト名乗ッテモイイデスカ。](https://open.spotify.com/album/3JMNIN1TbOraioRc9in1OC) | 3:12 | 2022-04-05 | 2022-05-05 |
-| [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-09-06 |  |
+| [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-09-06 | 2022-09-24 |
+| [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2022-09-06 |  |
 | [Used To Be Mine](https://open.spotify.com/track/0S3m17l6s69nRlENPq2MW4) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Used To Be Mine](https://open.spotify.com/album/2vwhQOYWpRiBUSjCPPJKDV) | 2:43 | 2022-05-31 | 2022-07-06 |
 | [VIDEO](https://open.spotify.com/track/4h5SPjtEEPa2Tam7DcgUuf) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [JUST SAYING HI](https://open.spotify.com/album/4hnW7kQFsv60ccyuQxPAST) | 4:20 | 2022-01-04 | 2022-02-02 |
 | [Violet's Green Eyes](https://open.spotify.com/track/4yHERs7Bjqbl930PUvQ5WA) | [Hello, Wendy!](https://open.spotify.com/artist/3AvH8vDY89tcsDLMPlC9YH) | [No.9](https://open.spotify.com/album/7Dka5fNxmswxdxchrJImOh) | 4:06 | 2022-01-04 | 2022-02-02 |

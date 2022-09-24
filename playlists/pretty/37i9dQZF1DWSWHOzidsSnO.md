@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡María Cristina Plata y más mujeres, a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,089 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,097 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 |
-| 2 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
+| 2 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 |
 | 3 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
 | 4 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 |
 | 5 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 |
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 9 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 |
 | 10 | [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 |
 | 11 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 |
-| 12 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 |
-| 13 | [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 |
-| 14 | [Vete](https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Vete](https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy) | 3:13 |
-| 15 | [Aurora](https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Aurora](https://open.spotify.com/album/1uAinYIc2lPdFom5R5trX5) | 3:43 |
-| 16 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 |
-| 17 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
-| 18 | [Te Espero](https://open.spotify.com/track/3bM62eLHGIIdf3ZYSkIiCN) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Quién Soy \(Lado B\) \- Versión Extendida](https://open.spotify.com/album/4LTwVPY8C5C2hkr1eEDAlG) | 4:12 |
-| 19 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
-| 20 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 |
-| 21 | [Ruiseñora](https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:42 |
-| 22 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
+| 12 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
+| 13 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 |
+| 14 | [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 |
+| 15 | [Vete](https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Vete](https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy) | 3:13 |
+| 16 | [Aurora](https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Aurora](https://open.spotify.com/album/1uAinYIc2lPdFom5R5trX5) | 3:43 |
+| 17 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 |
+| 18 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
+| 19 | [Te Espero](https://open.spotify.com/track/3bM62eLHGIIdf3ZYSkIiCN) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Quién Soy \(Lado B\) \- Versión Extendida](https://open.spotify.com/album/4LTwVPY8C5C2hkr1eEDAlG) | 4:12 |
+| 20 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 21 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 |
+| 22 | [Ruiseñora](https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:42 |
 | 23 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 |
 | 24 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
 | 25 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY2MjY5OTcyMCwwMDAwMDAwMGUxZmIyMmJlMTc2MWQ0M2UzZmRiOGExNzZhYjA2NWE3`
+Snapshot ID: `MTY2MzkwNTc5OCwwMDAwMDAwMGQ5NWNkMTY4Y2RiN2M2MTc4MmZhYmU2NjI0NWQyNjAw`

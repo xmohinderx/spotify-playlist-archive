@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz. But funky. Cover: Unc D",
+  "description": "Jazz. But funky. Cover: Takuya Kuroda",
   "name": "Jazz-Funk",
   "published_playlist_ids": [
     "5YdwjD0Yo4VfktuMzWIUHY"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 244369,
       "name": "Bonita Applebum (Daylight)",
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
@@ -995,6 +995,36 @@
       "duration_ms": 256319,
       "name": "Crab Walk",
       "url": "https://open.spotify.com/track/1jZFZBWG6ZPtJdflNoLUVX"
+    },
+    {
+      "album": {
+        "name": "Cream Puff War",
+        "url": "https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp"
+      },
+      "artists": [
+        {
+          "name": "Grateful Brass",
+          "url": "https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Rich Armstrong",
+          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222562,
+      "name": "Cream Puff War",
+      "url": "https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP"
     },
     {
       "album": {
@@ -2171,6 +2201,24 @@
       "duration_ms": 211268,
       "name": "Long Live the King - Instrumental",
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
+    },
+    {
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "album": {
@@ -3381,7 +3429,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212263,
       "name": "Souly",
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
@@ -3601,7 +3649,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
@@ -4130,6 +4178,36 @@
     },
     {
       "album": {
+        "name": "Center Stage",
+        "url": "https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR"
+      },
+      "artists": [
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Ronnie Cuber",
+          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341960,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
+    },
+    {
+      "album": {
         "name": "Three Ears",
         "url": "https://open.spotify.com/album/1LPcp5bnknUy33imrkePAj"
       },
@@ -4167,6 +4245,24 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+    },
+    {
+      "album": {
+        "name": "Time Coil",
+        "url": "https://open.spotify.com/album/0FifRGzjXfnjOPvUhymUje"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395551,
+      "name": "Time Coil",
+      "url": "https://open.spotify.com/track/2RfkDflHWRTCIfCcNsoWgc"
     },
     {
       "album": {
@@ -4401,7 +4497,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"

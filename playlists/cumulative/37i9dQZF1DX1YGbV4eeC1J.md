@@ -4,7 +4,7 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-51 songs - 3 hr 2 min - not published yet
+52 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 |  |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 |  |
-| [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 |  |
+| [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 |  |
 | [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 |  |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 |  |
@@ -54,6 +54,7 @@
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 |  |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 |  |
+| [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 |  |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 |  |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 |  |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 |  |

@@ -629,10 +629,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
+    },
+    {
+      "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
     },
     {
       "album": {
@@ -717,7 +735,7 @@
     {
       "album": {
         "name": "K\u00f6te",
-        "url": "https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O"
+        "url": "https://open.spotify.com/album/3YlyK4Y9bf36KcYotJB8kp"
       },
       "artists": [
         {
@@ -728,6 +746,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 263466,
+      "name": "N'taki",
+      "url": "https://open.spotify.com/track/6lQ3h23PdvrsBYdIN3yuW5"
+    },
+    {
+      "album": {
+        "name": "K\u00f6te",
+        "url": "https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O"
+      },
+      "artists": [
+        {
+          "name": "Idrissa Soumaoro",
+          "url": "https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
       "duration_ms": 263466,
       "name": "N'taki",
       "url": "https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP"

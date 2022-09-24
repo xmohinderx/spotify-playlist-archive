@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: WARGASM \(UK\)
 
-91 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+93 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 | 2022-09-02 |  |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-07-29 | 2022-08-20 |
 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 |  |
+| [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 | 2022-09-23 |  |
 | [Empty Vessels](https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Empty Vessels](https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ) | 2:40 | 2022-07-29 | 2022-08-27 |
 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 | 2022-07-29 |  |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
@@ -97,6 +98,7 @@
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-07-29 | 2022-08-20 |
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 |  |
 | [We Can Never Go Back to Arizona](https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K) | [To Bloom](https://open.spotify.com/artist/2rNqQ0mRpXnJGqwRHh12DL) | [We Can Never Go Back to Arizona](https://open.spotify.com/album/0ES4Wdnw4p3ceYFDDCYpBE) | 5:20 | 2022-08-19 | 2022-09-03 |
+| [WITNESS](https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2) | [THE UNCROWNED](https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI) | [WITNESS](https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG) | 4:20 | 2022-09-23 |  |
 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 | 2022-08-05 |  |
 | [Wraith](https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Wraith](https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq) | 3:00 | 2022-09-02 |  |
 

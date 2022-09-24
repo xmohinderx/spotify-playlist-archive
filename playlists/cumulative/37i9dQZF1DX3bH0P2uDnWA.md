@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-186 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+187 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,9 +137,10 @@
 | [Scruffy](https://open.spotify.com/track/1mMFvnyJ3kjfq0PvUklgoM) | [Dutty Moonshine](https://open.spotify.com/artist/6suC1lu4yyFjKekdrdYvQQ), [Charlie D](https://open.spotify.com/artist/2XeFMwO0MinTqakpkaLrcY), [Fiona Hamilton](https://open.spotify.com/artist/6s1rrIhnIhlLyoUyYxHERv) | [Scruffy EP](https://open.spotify.com/album/7LHG1Q13Jp80EL5FJgC521) | 3:31 | 2020-10-30 | 2022-05-15 |
 | [Seven Million Faces](https://open.spotify.com/track/1MewhvBPNpnx9CarLQgdPq) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Seven Million Faces](https://open.spotify.com/album/6jBDYSqnFCcDSc2o4ZElcv) | 3:39 | 2020-10-30 | 2022-05-14 |
 | [Shotgun Swing](https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ) | [K.D.S](https://open.spotify.com/artist/5QscINCpyJkmsKEH5GBl88), [Stabfinger](https://open.spotify.com/artist/3neJn3rp5j5QGQqMxeK2Be), [Moonanga](https://open.spotify.com/artist/35onpfN6LssILnF0NE7Yg1), [Amina Annabi](https://open.spotify.com/artist/0syaepUD5LLHaIp2Kx1jJI) | [Shotgun Swing](https://open.spotify.com/album/1DBIMv3HoBhboUOZgEgdaR) | 4:37 | 2021-05-21 |  |
-| [Sie Will](https://open.spotify.com/track/24arxHaSUQgzHjEEVNdVGb) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [78plus](https://open.spotify.com/artist/2rpPv0F6zJgyrhJuKpJDIo) | [Sie Will \(Electro Swing Version\)](https://open.spotify.com/album/12RZ8MMnyLsja8NUCIr6Nu) | 2:52 | 2022-09-09 |  |
+| [Sie Will](https://open.spotify.com/track/24arxHaSUQgzHjEEVNdVGb) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [78plus](https://open.spotify.com/artist/2rpPv0F6zJgyrhJuKpJDIo) | [Sie Will \(Electro Swing Version\)](https://open.spotify.com/album/12RZ8MMnyLsja8NUCIr6Nu) | 2:52 | 2022-09-09 | 2022-09-24 |
 | [Silent Movie](https://open.spotify.com/track/2mIU73YWa7iBLOgGjJ4b41) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Silent Movie](https://open.spotify.com/album/3ZDrWmzwxaEOTarv1X2Od9) | 3:17 | 2020-10-30 | 2022-07-29 |
 | [Sing It Back](https://open.spotify.com/track/7GOXkO5vEGyZWGgja0qXSb) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Mo' Electro Swing Republic \- Let's Misbehave](https://open.spotify.com/album/1FSv5rsUfplkb2KBhg3aX0) | 3:31 | 2020-10-30 | 2022-05-14 |
+| [Sing Sing Sing \- Extra Medium Remix](https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs), [Extra Medium](https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I) | [Dance, Dance, Dance \(Extra Steps\)](https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS) | 4:18 | 2022-09-23 |  |
 | [Sinister Piffle](https://open.spotify.com/track/6vY2FbKVYwrBjCIf3j8gZU) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [Frenzy](https://open.spotify.com/album/0SPLYbew3ug08fLlrCqZk1) | 4:08 | 2020-10-30 | 2022-05-14 |
 | [Sleep Rider](https://open.spotify.com/track/0IkBsej5dNXm8NXwcenZYO) | [K.D.S](https://open.spotify.com/artist/5QscINCpyJkmsKEH5GBl88), [Stabfinger](https://open.spotify.com/artist/3neJn3rp5j5QGQqMxeK2Be) | [Black Mama](https://open.spotify.com/album/3POfECojKl0LdOOVKe4UQO) | 4:46 | 2020-10-30 | 2022-07-29 |
 | [Smoking Room](https://open.spotify.com/track/2AljeKmM4Moi21lYEzOHU8) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Smoking Room](https://open.spotify.com/album/3SxNifroyuI7xfbq8tdZIn) | 4:18 | 2020-10-30 | 2022-07-28 |

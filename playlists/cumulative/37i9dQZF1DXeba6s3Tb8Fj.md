@@ -4,7 +4,7 @@
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-59 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
+61 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,14 @@
 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 | 2020-12-01 |  |
 | [M'Badehou](https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mali Denhou](https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E) | 6:07 | 2020-12-01 |  |
 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 | 2020-12-01 |  |
-| [Mariama Kaba](https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 5:38 | 2020-12-01 |  |
+| [Mariama Kaba](https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 5:38 | 2020-12-01 | 2022-09-24 |
+| [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 | 2020-12-01 |  |
 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 | 2020-12-01 |  |
 | [Mississippi\-Mali Blues](https://open.spotify.com/track/0uWQ791yCcRagdvdq1lma5) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/42wmp98KoLRejLnIUX47Zu) | 3:17 | 2020-12-01 | 2022-07-29 |
 | [Mississippi\-Mali Blues](https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 3:17 | 2020-12-01 |  |
 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 | 2020-12-01 |  |
-| [N'taki](https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O) | 4:23 | 2020-12-01 |  |
+| [N'taki](https://open.spotify.com/track/6lQ3h23PdvrsBYdIN3yuW5) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/3YlyK4Y9bf36KcYotJB8kp) | 4:23 | 2020-12-01 |  |
+| [N'taki](https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O) | 4:23 | 2020-12-01 | 2022-09-24 |
 | [Sahara](https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:03 | 2020-12-01 |  |
 | [Savane](https://open.spotify.com/track/0Ya5bHuA3kyiePOhIQfQtW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 7:43 | 2020-12-01 |  |
 | [Sekou Oumarou](https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:33 | 2020-12-01 |  |

@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 185560,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa"
@@ -395,6 +395,24 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/2Xz8ZyFxGzRTepW9ph2RiB"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5nPt2lxfI2Q3IIU6Fry25R"
     },
     {
       "album": {
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
@@ -2121,6 +2139,24 @@
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "LOVE IS A COWBOY",
+      "url": "https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI"
     },
     {
       "album": {
@@ -3416,6 +3452,28 @@
     },
     {
       "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "album": {
         "name": "Behind The Bar",
         "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
@@ -3885,7 +3943,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"

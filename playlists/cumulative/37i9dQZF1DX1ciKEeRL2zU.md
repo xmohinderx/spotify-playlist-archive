@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-74 songs - 5 hr 34 min - not published yet
+74 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

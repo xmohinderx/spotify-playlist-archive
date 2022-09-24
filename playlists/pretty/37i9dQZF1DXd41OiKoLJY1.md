@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Reanne Borela, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,177 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,202 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 79 | [Silence](https://open.spotify.com/track/449kmb8YI48oUVfOBxRz8T) | [Isaac Danggo](https://open.spotify.com/artist/2dfcVXP4icVJK5g2UhBQga) | [Silence](https://open.spotify.com/album/6kZeQQkOShG681tKGvYqqr) | 2:36 |
 | 80 | [Halaga \(1553\)](https://open.spotify.com/track/5NLuEozQdasSn9Pu5PnW4r) | [nikko](https://open.spotify.com/artist/4iTGD1IiSfm4z0PPeULqnK) | [Halaga \(1553\)](https://open.spotify.com/album/2w5GmPK4SpI0hiMCoa1ypv) | 4:10 |
 
-Snapshot ID: `MTY2Mzg2MjQwMCwwMDAwMDAwMGIwMWRjMzQwODIyOTQyMTZjZjg3NDgwMjFiODI1NDA5`
+Snapshot ID: `MTY2MzkxODIzOSwwMDAwMDAwMDgzZGRlMTQyMzJkMTcyYWQ0Y2MyN2UyNTVmOTlmNDAw`

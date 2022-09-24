@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-60 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+62 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-09-15 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-09-15 |  |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2022-09-15 |  |
+| [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-23 |  |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2022-09-15 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-09-15 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-09-15 |  |
@@ -55,6 +56,7 @@
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 |  |
+| [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 |  |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 |  |

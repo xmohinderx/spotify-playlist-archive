@@ -1,15 +1,95 @@
 {
-  "description": "The new school of M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 93878,
+  "description": "The new school of M\u00fasica Mexicana. Cover: Natalie L\u00f3pez, Ivonne Galaz, Janine, Dueto Eleval, Tania Dominguez.",
+  "num_followers": 93895,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY4NTIwMCwwMDAwMDAwMGI5MWI1MGE1MGZkOGE4N2I3YzNmMjhiMjAwMzY0MGVi",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGVlMzZlMTI2ZDI5OWU3NDM0NTQ5ZWUxNGIyNDI0YzRj",
   "tracks": [
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 173294,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Ni Diabla Ni Santa",
+        "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "duration_ms": 168154,
+      "name": "Ni Diabla Ni Santa",
+      "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "La Mesa Del Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
+      },
+      "artists": [
+        {
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
+        }
+      ],
+      "duration_ms": 191862,
+      "name": "La Mesa Del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Ahora Bailas Con \u00c9l",
         "url": "https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb"
@@ -41,7 +121,7 @@
       "url": "https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Darte Todo",
         "url": "https://open.spotify.com/album/0P9fkEPK48Vr4kmSNmg1bq"
@@ -57,7 +137,7 @@
       "url": "https://open.spotify.com/track/71GxMOVQDOT2GSvp9mJddM"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Reina De Mi Amor",
         "url": "https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP"
@@ -73,7 +153,7 @@
       "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
@@ -89,7 +169,7 @@
       "url": "https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
@@ -105,7 +185,7 @@
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
@@ -121,7 +201,7 @@
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Solo Me Dejaste",
         "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "30 Tiros",
         "url": "https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Rodolfo El Reno",
         "url": "https://open.spotify.com/album/2W0boegOEn6QruuTkXHYTb"
@@ -169,7 +249,7 @@
       "url": "https://open.spotify.com/track/0RwcV8IU5oeXpm1kpAfpFJ"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Precavido",
         "url": "https://open.spotify.com/album/4qCTImRLK3QxDT2bziOAwO"
@@ -189,7 +269,7 @@
       "url": "https://open.spotify.com/track/5DI9CQ9cvvOnIlA5HDH3Qa"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "El JR 01",
         "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Estilo Call Of Duty",
         "url": "https://open.spotify.com/album/5rs3LSRCXx44C3f8vYsGYu"
@@ -229,7 +309,7 @@
       "url": "https://open.spotify.com/track/65zc43qPQdyWJdxjL0e39m"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "El Piquetito",
         "url": "https://open.spotify.com/album/1tj8rwJ06KkWtWYPR2Sgxc"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "7 Botellas",
         "url": "https://open.spotify.com/album/4oWgbiu4Usjz3eXJa5Umnw"
@@ -265,7 +345,7 @@
       "url": "https://open.spotify.com/track/7ieVd5galRFfFirvbqp0vG"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "CRISIS",
         "url": "https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/6a722MT4feZC2A1ZRVjDI0"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "me olvidaste",
         "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/27iHl47FNY4y2h4LJLCv98"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/2dpxmuF4RltdQvh0sg5wcA"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Beyond The Limit",
         "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "2 De La",
         "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Con Un Porte Diferente (Vol 2)",
         "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Quise Ver C\u00f3mo Empec\u00e9",
         "url": "https://open.spotify.com/album/6ALfte3xyJ0nrTbCX9ngLU"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/51AtNwSp96OMUywgEr6BhF"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Substancias",
         "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Una Chevy",
         "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Traicion",
         "url": "https://open.spotify.com/album/3fWRVIMs4hZe0qVZbHh1wT"
@@ -441,7 +521,7 @@
       "url": "https://open.spotify.com/track/6foLEHQX4yEwLkUwVNLDTF"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "El Pochito",
         "url": "https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ"
@@ -457,7 +537,7 @@
       "url": "https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Ya Me Va Mejor",
         "url": "https://open.spotify.com/album/3RgShSLXoIuOWKEgziNjEx"
@@ -477,7 +557,7 @@
       "url": "https://open.spotify.com/track/2Se8iSCMXXEd6UD0bI4efk"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Dime Si Quieres",
         "url": "https://open.spotify.com/album/4mgwtCz1O7H5LZQoUQRhae"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/25syqOq8oWVEFD1BXzZtDc"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Bien Pilas (En Vivo)",
         "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
@@ -533,7 +613,7 @@
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "SRT",
         "url": "https://open.spotify.com/album/4myKBRPQhCc2dodJLtSzod"
@@ -549,7 +629,7 @@
       "url": "https://open.spotify.com/track/72Bd9HfYQZnm33DzrzP2Im"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Hay Que Disfrutar",
         "url": "https://open.spotify.com/album/71u20Cjtd4giAmYqL1a58D"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/4lddujOxgHNcfmCvj9ajzy"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "11: 11",
         "url": "https://open.spotify.com/album/5ZuV7NA7e2albgIzv4FZT6"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Pinch3 Polo",
         "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
@@ -601,7 +681,7 @@
       "url": "https://open.spotify.com/track/6Bc611lAS5IxW05vlJ8xYv"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
@@ -617,7 +697,7 @@
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Vete A La :)",
         "url": "https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E"
@@ -633,7 +713,7 @@
       "url": "https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Me Dicen El Flako",
         "url": "https://open.spotify.com/album/38QIc89fCIfpoO54hRTk7U"
@@ -649,7 +729,7 @@
       "url": "https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Mas Cabrona Que Bonita",
         "url": "https://open.spotify.com/album/75SGWux31wssycipYiYvmP"
@@ -665,7 +745,7 @@
       "url": "https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Guerra Sin Cuartel",
         "url": "https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v"
@@ -681,7 +761,7 @@
       "url": "https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Sangre Avenda\u00f1o",
         "url": "https://open.spotify.com/album/3Yt8oT3W1Efx00jW3hi1JL"
@@ -697,7 +777,7 @@
       "url": "https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Sigo Con Lo Mio",
         "url": "https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX"
@@ -713,7 +793,7 @@
       "url": "https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "De Eso Se Trata",
         "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
@@ -729,7 +809,7 @@
       "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/3m8WtFX6l6qgphDmg3LHzo"
@@ -745,7 +825,7 @@
       "url": "https://open.spotify.com/track/0wI7ORmp7jNtSvEQfCSMaO"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Pasajes Negros",
         "url": "https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A"
@@ -761,7 +841,7 @@
       "url": "https://open.spotify.com/track/1QPXsKEWJLmSflzQXoPylN"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "El Fugitivo",
         "url": "https://open.spotify.com/album/0BJXARzPuTj3mNYGRBs28t"
@@ -777,7 +857,7 @@
       "url": "https://open.spotify.com/track/3HevcnYdnqtS0MvtyWkOg5"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Verificado",
         "url": "https://open.spotify.com/album/7qttMMoI0JGaClH0GvE6YA"
@@ -801,7 +881,7 @@
       "url": "https://open.spotify.com/track/49P3Ix6GHwKYUR1IQaiYdQ"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "En La Siembra",
         "url": "https://open.spotify.com/album/0bkVHcppGjTPZffNU0BMIX"
@@ -817,7 +897,7 @@
       "url": "https://open.spotify.com/track/5GChQ50BdF3oK5jSvArtp3"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "No Hay Manera",
         "url": "https://open.spotify.com/album/7AzS9OtFaaMRzuGatOaLkI"
@@ -833,7 +913,7 @@
       "url": "https://open.spotify.com/track/3JgqK05SpGrrsLwo7Z9TQz"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "El RR (En Vivo)",
         "url": "https://open.spotify.com/album/3LfQ4z2sO0vDLipoqeksrT"
@@ -853,7 +933,7 @@
       "url": "https://open.spotify.com/track/1mvH121Rpxenvz9eQBERcM"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Morro Loco",
         "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
@@ -877,7 +957,7 @@
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Una Ocasi\u00f3n De Verano",
         "url": "https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO"
@@ -893,7 +973,7 @@
       "url": "https://open.spotify.com/track/3rMfRM6oZDISCraYfSBUND"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "No Me Vas a Convencer",
         "url": "https://open.spotify.com/album/4Y2nV2o9h5x7UidmFfUNRf"
@@ -913,7 +993,7 @@
       "url": "https://open.spotify.com/track/7IvGeDoYKcrom8ebfev28U"
     },
     {
-      "added_at": "2022-09-09 01:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Atraido A Ti",
         "url": "https://open.spotify.com/album/3tVAJYtpVoW46Ey2Tfn22L"

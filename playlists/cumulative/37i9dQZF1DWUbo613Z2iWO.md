@@ -2,9 +2,9 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Make room for these R&B/Soul artists on the rise! Photo: Alex Vaughn
+> Make room for these R&B/Soul artists on the rise! Photo: Samaria
 
-346 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+351 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [CULTURE](https://open.spotify.com/track/2uhU539AYa4pnq7oNU2AT8) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [it takes a village](https://open.spotify.com/album/06dEIh43cQW1uEbSWaso7S) | 3:28 | 2022-04-29 | 2022-07-02 |
 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-09-09 |  |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 |  |
+| [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 |  |
 | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/track/4sqoYcOLKALBqsVWRFwMqn) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/album/3e3DNi5ZuSeIqqVj5TUKj4) | 2:49 | 2022-04-08 | 2022-04-29 |
 | [Disappear](https://open.spotify.com/track/4jmFQAiHWGmgUBIuWY74be) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Disappear](https://open.spotify.com/album/7kTB0TcBJLcEDlfeG9HFTS) | 2:25 | 2022-04-29 | 2022-06-25 |
 | [Distance](https://open.spotify.com/track/6uNtGqzDrKUTUWvqPjCqxe) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Distance](https://open.spotify.com/album/0YRDmhnIr4AotULMufKiJk) | 4:39 | 2022-05-13 | 2022-07-02 |
@@ -124,6 +125,7 @@
 | [For Days](https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt) | 3:43 | 2021-12-15 | 2022-03-12 |
 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 | 2022-04-08 | 2022-05-21 |
 | [Friends](https://open.spotify.com/track/6r5jZYV9v3Nt9sDD9RQCpE) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Friends](https://open.spotify.com/album/7LQ1EmfKNJSvvWC5mCGuPE) | 4:10 | 2022-07-15 | 2022-08-13 |
+| [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2022-09-23 |  |
 | [FYM](https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [FYM](https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK) | 2:53 | 2022-03-25 | 2022-04-16 |
 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 | 2022-07-09 | 2022-07-16 |
 | [Get High, Get By](https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get High, Get By](https://open.spotify.com/album/54pyZZdBYpNGdHprxAqTOD) | 4:33 | 2022-04-08 | 2022-06-04 |
@@ -164,7 +166,7 @@
 | [I.O.U.](https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [I.O.U.](https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn) | 2:46 | 2022-08-12 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-04-29 |
 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 | 2021-12-15 | 2022-03-12 |
-| [Immature](https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:53 | 2022-08-12 |  |
+| [Immature](https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:53 | 2022-08-12 | 2022-09-24 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-09 | 2022-08-13 |
 | [In My Feelings](https://open.spotify.com/track/3DffItF1T4GVMAUyyYicFY) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [In My Feelings](https://open.spotify.com/album/2CvZeMFgTqOL15lyFzCqTM) | 3:45 | 2022-05-27 | 2022-07-30 |
 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 | 2022-09-09 |  |
@@ -236,7 +238,9 @@
 | [No Lie](https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Back & Forth](https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4) | 3:17 | 2022-05-13 | 2022-07-10 |
 | [No R&B](https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [No R&B](https://open.spotify.com/album/3EzKwOcet7cQm3UnJdsCVH) | 3:34 | 2021-12-15 | 2022-03-12 |
 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 | 2022-07-22 |  |
+| [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 |  |
 | [nothing](https://open.spotify.com/track/6GTPMiHSRqMTLbTzSAEGBO) | [Nick Acevedo](https://open.spotify.com/artist/5WKiirAZgjX0NyIzKuoX7J) | [nothing](https://open.spotify.com/album/567NzsU7dB8ichKPOoasIj) | 3:13 | 2022-04-01 | 2022-05-14 |
+| [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 |  |
 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 | 2022-07-15 |  |
 | [Offline](https://open.spotify.com/track/02MtATIEnBgyzvoQqlH5hG) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Offline](https://open.spotify.com/album/0ZWNoe1pGWvequQRiBw7mu) | 3:01 | 2022-02-12 | 2022-03-26 |
 | [OH MY GOD](https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [OH MY GOD](https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF) | 3:06 | 2022-05-06 | 2022-06-25 |
@@ -300,6 +304,7 @@
 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 | 2022-07-09 | 2022-07-23 |
 | [Spring Cleaning](https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Spring Cleaning](https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ) | 2:12 | 2022-03-25 | 2022-05-07 |
 | [STFU \(feat\. JANE HANDCOCK\)](https://open.spotify.com/track/27aoYhbhmJzTqnNMGho90D) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Last Call](https://open.spotify.com/album/2P5gs9MUqFrG2qi5gy0qgO) | 4:00 | 2022-01-29 | 2022-03-18 |
+| [Still Got 4ever](https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Still Got 4ever](https://open.spotify.com/album/3G3kujnBjUxC2etYtHDto6) | 2:17 | 2022-09-16 |  |
 | [Summer Break](https://open.spotify.com/track/6aUCmkTCcaGcYOQQEBeaPz) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Summer Break](https://open.spotify.com/album/4HRrCMzQ5EVttVf3GM0rbY) | 1:57 | 2022-02-18 | 2022-03-26 |
 | [Summer's Gone](https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 3:21 | 2022-05-20 | 2022-08-13 |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-07-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,461 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,479 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [jag vill inte veta](https://open.spotify.com/track/0vdSIZl5VcLSHHaMKg4LR0) | [S:mon](https://open.spotify.com/artist/51y3C5frOfQpN0eMhxTAlt) | [jag vill inte veta](https://open.spotify.com/album/75HNTnorJCdME9UACaQt0z) | 2:41 |
 | 100 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 |
 
-Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMGIyMjRhMmEzNzUzZjc1N2Q2Zjg4OWRkOThlNGIwMzJj`
+Snapshot ID: `MTY2MzkyNjU1NywwMDAwMDAwMDk1MjA0NTgwMGM0NDI2Nzk5ODE0YWQ3MjM0MzM2MTBi`

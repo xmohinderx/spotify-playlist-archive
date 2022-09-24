@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Agnes
 
-109 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+110 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Boyfriend](https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Boyfriend](https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU) | 2:44 | 2021-11-26 |  |
 | [Bring On The Rain \(feat\. Joss Stone\) \- 7" Version](https://open.spotify.com/track/4epSfucEoDLkUuYe1uU27b) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring On The Rain \(feat\. Joss Stone\)](https://open.spotify.com/album/25XlWNUBId69n12NQSzk7U) | 3:09 | 2022-04-01 |  |
 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 | 2022-07-29 |  |
-| [Call My Name](https://open.spotify.com/track/5l0PRf7kUchBQa9Kkdejqp) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Dawn Pemberton](https://open.spotify.com/artist/1nhMHvacUcBwhNToEU4WV7) | [Call My Name](https://open.spotify.com/album/4ZO3TyYHuLyY8ATWSCpKCG) | 3:01 | 2022-05-20 |  |
+| [Call My Name](https://open.spotify.com/track/5l0PRf7kUchBQa9Kkdejqp) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Dawn Pemberton](https://open.spotify.com/artist/1nhMHvacUcBwhNToEU4WV7) | [Call My Name](https://open.spotify.com/album/4ZO3TyYHuLyY8ATWSCpKCG) | 3:01 | 2022-05-20 | 2022-09-24 |
 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 | 2022-07-01 |  |
 | [Can't Stop Writing Songs About You](https://open.spotify.com/track/36AHZnLUtm7QmS1VhuxeiF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:04 | 2021-11-12 |  |
 | [Chain Reaction](https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Chain Reaction](https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f) | 4:09 | 2021-10-01 |  |
@@ -101,6 +101,7 @@
 | [Telepathy](https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [Blake Anthony](https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb) | [Telepathy](https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706) | 3:28 | 2022-02-25 |  |
 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 | 2021-09-17 | 2022-08-20 |
 | [The Way\(feat\. Norman Vladimir\)](https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Norman Vladimir](https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1) | [The Way \(feat\. Norman Vladimir\)](https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v) | 3:25 | 2022-01-28 |  |
+| [This Thing Called Life](https://open.spotify.com/track/633MWumcbiIslUnqr7u7XN) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr) | [This Thing Called Life](https://open.spotify.com/album/5t4Ykl3qQrUM6du7rVKGTn) | 3:04 | 2022-09-23 |  |
 | [Time and Time Again](https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Time and Time Again](https://open.spotify.com/album/6JqXrsNLQjSeKDd979ivzG) | 3:13 | 2022-08-05 |  |
 | [Time Travlr](https://open.spotify.com/track/7sCeITmY2JvWqfvi9rZNf9) | [Rhythm&Truth](https://open.spotify.com/artist/0QIHW98V3e4bOsrhBpUGn7), [Jessie Wagner](https://open.spotify.com/artist/1GOWkEyghfYevfkCg4yych) | [Time Travlr](https://open.spotify.com/album/1lGubcIoHy2L1Xx8PSKbt1) | 4:00 | 2022-08-05 |  |
 | [too good to be true](https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [R U Sure?](https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63) | 2:49 | 2022-05-06 |  |

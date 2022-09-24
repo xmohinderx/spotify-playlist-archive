@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-289 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+290 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Swimming](https://open.spotify.com/track/3SZ0yNnQF2DHLf1dCmMwBV) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Swimming/Memories](https://open.spotify.com/album/5NDErsEOGtbDkCdFbQBFwQ) | 3:20 | 2021-12-23 | 2022-07-29 |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2022-07-07 |  |
 | [Take Time \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Untidy Soul](https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w) | 3:43 | 2022-02-10 | 2022-07-29 |
-| [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 |  |
+| [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 | 2022-09-24 |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-12-23 | 2022-07-25 |
 | [Talk About It](https://open.spotify.com/track/3mIK4mZ6dZbKNXU6yofkxB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/4VCxXlazmRGUPkMyir90Jr) | 3:24 | 2022-03-24 | 2022-04-18 |
 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/2FuMGSJC5lI08kWandk65f) | 4:54 | 2021-12-23 | 2022-06-07 |
@@ -271,6 +271,7 @@
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2021-12-23 |  |
 | [What We Doing And Where Are We Going? \(WWDAWAWG\)](https://open.spotify.com/track/6I48rUzAuYyzyosj5y6heT) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT), [Ross Hutchison](https://open.spotify.com/artist/61NfNIdKBI3MGIThm7f9KS), [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [What We Doing And Where Are We Going? \(WWDAWAWG\)](https://open.spotify.com/album/4tSPOmavll7Fh3Cox8OCxL) | 3:17 | 2022-07-28 | 2022-08-19 |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2022-02-10 | 2022-06-24 |
+| [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 | 2022-09-23 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-12-23 | 2022-04-07 |
 | [Wish You Could Come](https://open.spotify.com/track/5ztNrBbUrv6qQGV71zUTUx) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Wish You Could Come](https://open.spotify.com/album/3910ZWFB7aTkJC725IV6wG) | 3:00 | 2022-03-24 | 2022-07-29 |
 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 | 2021-12-23 | 2022-07-27 |

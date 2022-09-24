@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=mXeuCyu0SQ6c2J_lRozDdw\"> Ayra Starr </a>  ",
+  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=2ioXi7ooQBqbIOnmeSfO9Q\"> CKay </a>  ",
   "name": "Afropop",
   "published_playlist_ids": [
     "4ro2D5NHaC1uSUC6UDaKRz"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
@@ -1959,7 +1959,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
@@ -2381,6 +2381,24 @@
       "duration_ms": 217959,
       "name": "Messiah (feat. Madumane)",
       "url": "https://open.spotify.com/track/17HZGE8gBixZdPEXye4sEX"
+    },
+    {
+      "album": {
+        "name": "mmadu",
+        "url": "https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8"
     },
     {
       "album": {
@@ -3143,7 +3161,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 200209,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI"
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"

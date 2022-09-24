@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: دنيا سمير غانم
 
-220 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+221 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Hetan](https://open.spotify.com/track/38ZHxIcIFRZWyINj7MO8rc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Hetan](https://open.spotify.com/album/159xaEJonJn4SQJqHq9DIQ) | 3:07 | 2022-08-17 |  |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-06 | 2022-09-02 |
 | [Heya Elnas](https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Heya Elnas](https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi) | 4:09 | 2022-07-28 |  |
-| [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 |  |
+| [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2022-09-24 |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-21 |  |
 | [Jolie Fille](https://open.spotify.com/track/3LDbivszrJ6rOeynqXQdys) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Jolie Fille](https://open.spotify.com/album/5gwQg0oBldCfp3upDzzYzo) | 3:14 | 2022-06-02 | 2022-08-26 |
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
@@ -119,7 +119,7 @@
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |
 | [Layali Taweela](https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:58 | 2021-12-29 | 2022-03-18 |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-01 | 2022-05-19 |
-| [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 |  |
+| [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
 | [Leila](https://open.spotify.com/track/33u0Y2MhCf5G2NW1UY3T6A) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Leila](https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4) | 3:23 | 2022-05-23 | 2022-08-21 |
 | [Leilet El Omr](https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Leilet El Omr](https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw) | 3:22 | 2021-12-23 | 2022-01-11 |
 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 | 2021-12-23 | 2022-01-27 |
@@ -160,6 +160,7 @@
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-02-17 | 2022-06-01 |
 | [Resala Mennak](https://open.spotify.com/track/1ChC38YBlUIrbbTkG6zGcZ) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Resala Mennak](https://open.spotify.com/album/3JhWAkCT2txqKB0PwkIM8H) | 4:18 | 2021-12-23 | 2021-12-30 |
 | [Roh El Roh](https://open.spotify.com/track/2d1YGwEyCdZWSNUq8RdNOF) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Roh El Roh](https://open.spotify.com/album/3CLCOTwffwGNxTr3mPjWup) | 2:46 | 2022-05-31 | 2022-08-24 |
+| [Roma](https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:30 | 2022-09-23 |  |
 | [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-02-22 | 2022-06-03 |
 | [S.N.I.T.C.H.](https://open.spotify.com/track/23M7HHUlytLFnFiVjYOq70) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:26 | 2022-08-18 |  |
 | [Sa3et el Tagaly](https://open.spotify.com/track/2TfCBbEFWDG75KijCmcAwN) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sa3et el Tagaly](https://open.spotify.com/album/4dOdX0tGwKsJMSR9mRzv34) | 4:03 | 2022-08-18 |  |
@@ -203,6 +204,7 @@
 | [استنى ليه بقى](https://open.spotify.com/track/5aePWn3QLCKxKq5HLViDEi) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [استنى ليه بقى](https://open.spotify.com/album/0oLm76ZSd5hNSDnUNYHevK) | 3:42 | 2021-12-23 | 2022-01-21 |
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-08 | 2022-05-19 |
+| [القعدة وياها](https://open.spotify.com/track/1t92PLGQlNTFys2ujeh16y) | [Noor Radwan](https://open.spotify.com/artist/2GhbS9S7Gp9SIH6iUPvFeA) | [القعدة وياها](https://open.spotify.com/album/0CANZEmU3quFUm4X3EB9DM) | 3:41 | 2022-09-22 |  |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 | 2022-07-15 |
 | [بحبك](https://open.spotify.com/track/3OFYEo6WT1inEKsEneGtZI) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [بحبك](https://open.spotify.com/album/4NNJ14KEMD3pvCSdzdxdUV) | 4:24 | 2022-01-20 | 2022-03-25 |
 | [بيني و بينك](https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بيني و بينك](https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg) | 3:03 | 2021-12-30 | 2022-03-18 |
@@ -219,9 +221,8 @@
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-20 |  |
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 |  |
-| [نور رضوان](https://open.spotify.com/track/1t92PLGQlNTFys2ujeh16y) | [Noor Radwan](https://open.spotify.com/artist/2GhbS9S7Gp9SIH6iUPvFeA) | [El Aada Wayaha](https://open.spotify.com/album/0CANZEmU3quFUm4X3EB9DM) | 3:41 | 2022-09-22 |  |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
-| [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 |  |
+| [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 | 2022-09-24 |
 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 | 2022-09-01 |  |
 | [يا رتها بتيجي](https://open.spotify.com/track/3Y5gHvhzaVhTpZDwMoBqOW) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [يا رتها بتيجي](https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr) | 4:07 | 2022-08-23 |  |
 | [يا زين العابدين](https://open.spotify.com/track/1EqcgbV20mqyMiZihldXfe) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW), [Sabren El Negily](https://open.spotify.com/artist/5Zrk8InWtoiqUkMgrW17yy) | [Ya Zein El Abedin](https://open.spotify.com/album/3143g21GZo41GqYhIp9Ly2) | 3:17 | 2022-09-22 |  |

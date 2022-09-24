@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Three Days Grace on top of the biggest Metal playlist!",
+  "description": "STARSET on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -225,6 +225,24 @@
       "duration_ms": 325600,
       "name": "Bastards",
       "url": "https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t"
+    },
+    {
+      "album": {
+        "name": "Future Lovers",
+        "url": "https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/4iLBQIgE9PuT41Rf8M9bPw"
     },
     {
       "album": {
@@ -2378,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229007,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/3aF7RDw2A7hnRn2lWOrIky"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6"
       },
@@ -2425,7 +2461,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
@@ -4701,7 +4737,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 161158,
       "name": "Violent Ends",
       "url": "https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA"

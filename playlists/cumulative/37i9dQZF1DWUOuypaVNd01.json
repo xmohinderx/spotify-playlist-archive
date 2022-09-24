@@ -1252,6 +1252,36 @@
     },
     {
       "album": {
+        "name": "BR 140",
+        "url": "https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Larga minha camisa",
+      "url": "https://open.spotify.com/track/0B5XskCYCbBCNutIpl20rG"
+    },
+    {
+      "album": {
         "name": "Lembro",
         "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
@@ -1591,7 +1621,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 152557,
       "name": "N\u00e3o Grita",
       "url": "https://open.spotify.com/track/4nX4FiXWfTclsHcNpyianf"
@@ -2047,7 +2077,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 195428,
       "name": "Ruas Perigosas",
       "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
@@ -2235,6 +2265,28 @@
       "duration_ms": 162352,
       "name": "Sobe O Morro",
       "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
+    },
+    {
+      "album": {
+        "name": "Sr das Armas",
+        "url": "https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Sr das Armas",
+      "url": "https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo"
     },
     {
       "album": {

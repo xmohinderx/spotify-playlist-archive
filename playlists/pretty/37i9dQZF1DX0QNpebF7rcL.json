@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Buddy Guy",
-  "num_followers": 40050,
+  "num_followers": 40073,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGYyMzk5MTNlZTJiOTY2ZjQxYWFlZjg2MGY3NjE0ODNl",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGMyNWFmMTFhODliOTZkNzI4MGM3MTk3ZmZlMjNiMDYx",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
@@ -55,6 +71,22 @@
       "duration_ms": 302053,
       "name": "Risin' Up",
       "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mortgage on My Soul",
+        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "duration_ms": 424626,
+      "name": "Mortgage on My Soul",
+      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
       "added_at": "2022-08-19 04:02:00",

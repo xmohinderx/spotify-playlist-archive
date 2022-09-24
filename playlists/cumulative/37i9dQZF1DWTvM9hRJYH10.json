@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Hannah Ellis",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Madeline Merlo",
   "name": "Young Nashville",
   "published_playlist_ids": [
     "3ZmZ8VTqhMzD1YGM4aAkJ4"
@@ -113,6 +113,24 @@
       "duration_ms": 203733,
       "name": "Ain't Got A Shot",
       "url": "https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4"
+    },
+    {
+      "album": {
+        "name": "Alone Some",
+        "url": "https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8"
+      },
+      "artists": [
+        {
+          "name": "Gracee Shriver",
+          "url": "https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Alone Some",
+      "url": "https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3"
     },
     {
       "album": {
@@ -1651,10 +1669,28 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
+    },
+    {
+      "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
     },
     {
       "album": {
@@ -3157,6 +3193,24 @@
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,350 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,400 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 |
 | 150 | [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDA3Y2VlZjQwMGUwNmNlYWY5NTVmMDIzNGNiOTYxYzZh`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGVlMjJmMTZhYTE1ODk2YTlmYmIzNTJmMDhkNzc2Njli`

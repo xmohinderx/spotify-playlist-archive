@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: David Unlayao, Artwork: Fanélie Muselier
 
-900 songs - 2 day 1 hr 11 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+901 songs - 2 day 1 hr 14 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Truck Boi](https://open.spotify.com/track/25Ofqeg9tHp5HhpfFX2QSY) | [Olivia Rose](https://open.spotify.com/artist/1orgaHol6BcEWYTccOW8Rm) | [Truck Boi](https://open.spotify.com/album/3rJxHTwSmrGADrDdjZrNxb) | 2:37 | 2022-08-03 | 2022-09-15 |
 | [Truckin' Around](https://open.spotify.com/track/2nBy7nSZQBqvXW2zdTkwcS) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Truckin' Around](https://open.spotify.com/album/3QjRgV3OyLZ6sLnQ6hiWme) | 3:04 | 2022-07-20 | 2022-08-18 |
 | [Tryin'](https://open.spotify.com/track/2Q9IRnzFRTWQnLf1c00fW8) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Tryin'](https://open.spotify.com/album/7tBsJ794xgqQwHVIU2lXIc) | 3:37 | 2022-01-12 | 2022-01-20 |
+| [Tumbleweed](https://open.spotify.com/track/0YkRXriKJQYXwTB6VGWBrU) | [Lance and Lea](https://open.spotify.com/artist/1UpiFVAkmJzipkPs8OOKHw) | [Tumbleweed](https://open.spotify.com/album/54aNBrWBlPbq3dWvDWntBA) | 2:58 | 2022-09-23 |  |
 | [Turn on Your Light](https://open.spotify.com/track/2Sd5Jh6zENrY4SLx2ZMdkv) | [Kate Cameron](https://open.spotify.com/artist/788oTi6YK2sbYWPFJSOKEo) | [Turn on Your Light](https://open.spotify.com/album/6QE7Wb5uh3F5Rhu5p7O0r9) | 3:02 | 2022-04-13 | 2022-05-26 |
 | [Turnt](https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Turnt](https://open.spotify.com/album/10S4Tsq1IkFSHkYvSOSloH) | 3:39 | 2022-01-12 | 2022-02-24 |
 | [Two Beers Old](https://open.spotify.com/track/2QuybYA5IkUG192cB2CaCH) | [Trey Teem](https://open.spotify.com/artist/53VXZh6xSVSnoSu4n0SoTF) | [Two Beers Old](https://open.spotify.com/album/7ckWGsZHyzSON6b4hvjF16) | 2:58 | 2022-03-16 | 2022-04-27 |

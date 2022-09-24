@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216000,
       "name": "20km",
       "url": "https://open.spotify.com/track/3FTJG0l80KnRSeLaOLZOZY"
@@ -1390,6 +1390,44 @@
     },
     {
       "album": {
+        "name": "Eles Falam de Ti",
+        "url": "https://open.spotify.com/album/3qnPl0DnzW5cyXnFfPVqa9"
+      },
+      "artists": [
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        },
+        {
+          "name": "Escobar Gaviria",
+          "url": "https://open.spotify.com/artist/40YcPKCssgBCtKd1H24QZa"
+        },
+        {
+          "name": "Brancco",
+          "url": "https://open.spotify.com/artist/0EYiW2OzlKuLKYkYP1YE1w"
+        },
+        {
+          "name": "Dg",
+          "url": "https://open.spotify.com/artist/7cTrr2oIMr5JGOxI80UWfi"
+        },
+        {
+          "name": "Perdid\u00e3o",
+          "url": "https://open.spotify.com/artist/4Ev4026OeakVjCOuEEwhp6"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407998,
+      "name": "Eles Falam de Ti",
+      "url": "https://open.spotify.com/track/1K2kcqNfbSkrcwughQnnVM"
+    },
+    {
+      "album": {
         "name": "Entre o \u00d3dio o Amor Poka Alegria e Muita Dor",
         "url": "https://open.spotify.com/album/10xfqOwjtW4lu54zf9pHYH"
       },
@@ -1419,7 +1457,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 195164,
       "name": "Eu & Minha Mina",
       "url": "https://open.spotify.com/track/4oYGUGfYicUWfuR5L0cmge"
@@ -3049,6 +3087,24 @@
       "duration_ms": 156750,
       "name": "Pouco em Pouco",
       "url": "https://open.spotify.com/track/4Z4GfIEdPVOOl5aivhbZYm"
+    },
+    {
+      "album": {
+        "name": "Pra Berlin",
+        "url": "https://open.spotify.com/album/66ulRuBs3zeUDIfW4HNICQ"
+      },
+      "artists": [
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318985,
+      "name": "Pra Berlin",
+      "url": "https://open.spotify.com/track/0sRzOlD788V7vTonwx5m4S"
     },
     {
       "album": {

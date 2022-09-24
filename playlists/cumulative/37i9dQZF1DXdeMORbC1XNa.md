@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ckay
 
-338 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
+339 songs - 18 hr 0 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 | 2021-12-20 | 2022-07-15 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-08-18 | 2022-09-17 |
 | [Kilo](https://open.spotify.com/track/1iM0xHlmZPGZ8gdbPXtUgN) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Kilo](https://open.spotify.com/album/3otG6QLpT1X30PORPPkBfu) | 2:12 | 2022-08-18 | 2022-09-17 |
-| [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 | 2022-07-21 |  |
+| [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 | 2022-07-21 | 2022-09-24 |
 | [Kilometre](https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc) | 2:33 | 2021-12-20 | 2022-07-23 |
 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 | 2021-12-20 | 2022-07-28 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-06 | 2022-07-16 |
@@ -281,6 +281,7 @@
 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 | 2021-12-20 | 2022-07-29 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2021-12-20 | 2022-07-13 |
 | [She Belongs to the Night](https://open.spotify.com/track/4m7YLWbSYXKNUQEnIS6F4K) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [DJ Supa D](https://open.spotify.com/artist/0y84aioPoEjBOzm24Iranq), [Mr Taffa](https://open.spotify.com/artist/1W5HeHrDFcC1zQ8PUENSWi) | [She Belongs to the Night](https://open.spotify.com/album/3eVv3UB2zUc692QH6bZguU) | 2:34 | 2021-12-20 | 2022-07-28 |
+| [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:22 | 2022-09-23 |  |
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2022-08-18 | 2022-09-17 |
 | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx) | 3:16 | 2021-12-20 | 2022-07-27 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-20 |  |

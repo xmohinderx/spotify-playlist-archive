@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Mowat + Colombina Parra
+> Todo el sonido indie de Chile\. Foto: Amapola
 
-258 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+261 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Estalló la Revuelta](https://open.spotify.com/track/17xn80al7euSF9rqRhrvTn) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Estalló la Revuelta](https://open.spotify.com/album/3xKbStQSnYjsnkcYA6jNHl) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-04-15 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-05-27 | 2022-07-27 |
-| [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 |  |
+| [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 | 2022-09-24 |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
@@ -116,7 +116,7 @@
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-15 | 2022-07-26 |
 | [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2022-07-31 |
 | [Imantado](https://open.spotify.com/track/27zFkDvAz42uVdvPpOvRWx) | [También Andrés](https://open.spotify.com/artist/6RTgoShg6Qjg9dGQ5rKm25) | [Imantado](https://open.spotify.com/album/6HEjFye6BkQvq5B2Y484Kb) | 3:39 | 2022-04-15 | 2022-07-24 |
-| [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 |  |
+| [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 | 2022-09-24 |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 |  |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
@@ -169,6 +169,7 @@
 | [Nube Negra](https://open.spotify.com/track/0Rafy02pf5LE7ZaaIQM6SE) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Nube Negra](https://open.spotify.com/album/0TfLcK2FvUlt6wVg3gJ6vL) | 4:26 | 2022-04-29 | 2022-07-25 |
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-04-15 | 2022-07-29 |
 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 | 2022-07-22 |  |
+| [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 |  |
 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 | 2022-04-15 | 2022-07-20 |
 | [Para Que Tu Vueles](https://open.spotify.com/track/4sHs89sw3qckQlbzglgZaN) | [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Para Que Tu Vueles](https://open.spotify.com/album/1mxMpECZWf2YrFhdoD8dH3) | 3:53 | 2022-04-15 |  |
 | [Paseito](https://open.spotify.com/track/1YBP98l7xGeuGNcYAsjXqp) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/5KgfyeZUxgpQHDoiSmQgPb) | 4:53 | 2022-04-15 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [Persianas](https://open.spotify.com/track/35VJuVySMyCMg0sLijDMHx) | [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [Persianas](https://open.spotify.com/album/5YNLHu1dyy1a2zsWUoJg1i) | 3:07 | 2022-04-15 | 2022-07-17 |
 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 | 2022-04-15 | 2022-07-29 |
 | [Piel](https://open.spotify.com/track/4AmhpqjEzqCVVUWuzyNf5l) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII) | [Piel](https://open.spotify.com/album/2LVCOZjkJAcFtfn7Iru7Ay) | 3:27 | 2022-04-15 | 2022-07-28 |
-| [pienso tanto en abrazarte](https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE), [LoCataLira](https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8) | [pienso tanto en abrazarte](https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70) | 3:38 | 2022-07-22 |  |
+| [pienso tanto en abrazarte](https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE), [LoCataLira](https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8) | [pienso tanto en abrazarte](https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70) | 3:38 | 2022-07-22 | 2022-09-24 |
 | [PIÑA](https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [PIÑA](https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx) | 3:18 | 2022-04-15 | 2022-07-29 |
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 |  |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 |  |
@@ -246,6 +247,7 @@
 | [Tus Nombres](https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Tus Nombres](https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS) | 3:20 | 2022-04-15 |  |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-04-15 | 2022-07-26 |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-04-15 |  |
+| [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-09-23 |  |
 | [Un Pendiente](https://open.spotify.com/track/0SeTcvqHKSCw0s94tub1gW) | [Autobus](https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw), [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Un Pendiente](https://open.spotify.com/album/49mVSm55zTkBdEfr8byid9) | 3:23 | 2022-04-15 |  |
 | [Un Punto](https://open.spotify.com/track/61Y1P7c57TUp2OMoeKq0ej) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Un Punto](https://open.spotify.com/album/1OWn8xwj4XdgvrclWNFFhR) | 5:42 | 2022-04-15 | 2022-07-16 |
 | [Un Último Encuentro](https://open.spotify.com/track/7c4UxItuj8p1l6ZOhWSTMa) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Un Último Encuentro](https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76) | 5:37 | 2022-04-15 | 2022-07-29 |
@@ -266,5 +268,6 @@
 | [yacaré](https://open.spotify.com/track/1wkZWufiSU6fzf1FJslCVg) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [yacaré](https://open.spotify.com/album/01p29H8LIv6DlF6BbEi7QH) | 4:03 | 2022-04-15 | 2022-07-28 |
 | [Yo creí que eras mi amiga](https://open.spotify.com/track/5mnoWxEzuW4b4gr9D4GRGq) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Yo creí que eras mi amiga](https://open.spotify.com/album/2dL6rtGKwUC4dy7iKFNzng) | 3:30 | 2022-04-15 | 2022-07-28 |
 | [Yoga](https://open.spotify.com/track/4kb6So7DrduOe9CDGL8bBn) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Yoga](https://open.spotify.com/album/4Uu7NdF0t7f2hnMDMNYpN5) | 7:23 | 2022-06-10 | 2022-07-29 |
+| [✧Sofía✧](https://open.spotify.com/track/5oHan4IDjcbSrA9TzHXB5I) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [✧Sofía✧](https://open.spotify.com/album/0EGaQ4l4pwvyjvwtmtM3so) | 4:25 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-04-16. Prior content cannot be recovered.

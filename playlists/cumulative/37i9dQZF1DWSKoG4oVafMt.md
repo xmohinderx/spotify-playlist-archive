@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-559 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+562 songs - 1 day 6 hr 24 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,8 @@
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2022-02-15 | 2022-02-19 |
 | [Dil Te Dimag](https://open.spotify.com/track/79uh6VMCRygYs0c6cWPUuZ) | [Manna Datte Aala](https://open.spotify.com/artist/4WkBXpLBOz0mCdFJWgAdcy), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dil Te Dimag](https://open.spotify.com/album/4oUgm6SDdu20KxHjMCcVLe) | 2:42 | 2022-04-05 | 2022-05-20 |
 | [Dil Tera](https://open.spotify.com/track/7hm32SIdor0IvdJ36H3BvT) | [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v), [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Dil Tera](https://open.spotify.com/album/39Lal7OnGGdjCpUZco8s3o) | 2:45 | 2022-03-01 | 2022-04-06 |
+| [Dil Vich Kho](https://open.spotify.com/track/5aqiljS9HFXlnjK6ZfJ4gD) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 2:34 | 2022-09-23 |  |
+| [Diljale](https://open.spotify.com/track/2RZh8VELzYlLlJQsedmAdy) | [Rangrez Sidhu](https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [The Litt Boy](https://open.spotify.com/artist/3nOgLOsTAJECooiyefNhta) | [Diljale](https://open.spotify.com/album/2DyHNBY6qhQeLaEA1eY5rG) | 3:50 | 2022-09-23 |  |
 | [Din Raat](https://open.spotify.com/track/2vmYATdmQRy6jEqztI5YBW) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ve Geetan Waleya](https://open.spotify.com/album/0wXhoRxRya32Hl9JPL3rb5) | 4:28 | 2022-03-21 | 2022-04-06 |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2021-12-02 |  |
 | [Do Naina](https://open.spotify.com/track/5WjQaVXmQFxQyGGdqPLkkW) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Do Naina](https://open.spotify.com/album/0EVUyfD6cz5l3lrgpRmptO) | 3:44 | 2022-02-08 | 2022-03-11 |
@@ -332,6 +334,7 @@
 | [Naah](https://open.spotify.com/track/50BYymJYX2k7hnmfiXnYXs) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah](https://open.spotify.com/album/61MLWkKNzRwx2Fa1uLrEoG) | 3:05 | 2022-03-14 |  |
 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 | 2022-07-15 |  |
 | [Naal Tere](https://open.spotify.com/track/2otmGV59HeaGlKyeTSFIPK) | [Karaj Randhawa](https://open.spotify.com/artist/39HFvmMOlyMJAsfDgaN8y0) | [Shikari](https://open.spotify.com/album/6xo8xhZJuEzeXhNbCCEEzH) | 4:34 | 2022-05-09 | 2022-05-20 |
+| [Nain Bol De](https://open.spotify.com/track/4Y0PRLkBY71v8TtgA3qjGF) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 3:56 | 2022-09-23 |  |
 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 | 2022-06-16 | 2022-07-06 |
 | [Naina Diyan Galtiyan](https://open.spotify.com/track/5keKZEx9g3CrWS9AdnWgTg) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Television](https://open.spotify.com/album/2j54GraLdXP9yiAon7IFD1) | 3:30 | 2022-06-22 | 2022-07-06 |
 | [Nakhre](https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nakhre](https://open.spotify.com/album/0HtBqzjXxKaw9RxJYjR9gi) | 3:20 | 2022-07-13 | 2022-09-23 |

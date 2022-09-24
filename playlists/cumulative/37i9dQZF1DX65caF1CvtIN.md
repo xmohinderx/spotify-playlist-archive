@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-123 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+125 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Divide Us](https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Divide Us](https://open.spotify.com/album/04HWxSrMObA0BehN4545yu) | 2:30 | 2022-08-03 |  |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-08-03 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2022-08-03 |  |
+| [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-08-03 |  |
 | [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
@@ -116,6 +117,7 @@
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 |  |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-03 |  |
+| [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/track/6cpnzEVv7ukhlNn77azkVy) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/album/5z5c0cyNP5K6jwi01Zra5k) | 2:12 | 2022-09-23 |  |
 | [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |

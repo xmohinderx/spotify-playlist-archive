@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "The best in Indie in one place. Cover: Men I Trust",
+  "description": "Your favourite indie tracks in one place.  Cover: Steve Lacy",
   "name": "Indie Favourites",
   "published_playlist_ids": [
     "6qnKxviUrnCHtUvVMRpVlO"
@@ -821,6 +821,24 @@
       "duration_ms": 187570,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1dtTRXifeGC51adYy0902s"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "album": {
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 238161,
       "name": "Cocoa Beach",
       "url": "https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0"
@@ -3994,6 +4012,28 @@
     },
     {
       "album": {
+        "name": "Jos\u00e9 Louis And The Paradox Of Love",
+        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
+    },
+    {
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
@@ -4957,7 +4997,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 137872,
       "name": "intres-ting",
       "url": "https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8"
@@ -6677,7 +6717,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 160200,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22"
@@ -9917,6 +9957,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "album": {
+        "name": "THREAT",
+        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170793,
+      "name": "THREAT",
+      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
     },
     {
       "album": {

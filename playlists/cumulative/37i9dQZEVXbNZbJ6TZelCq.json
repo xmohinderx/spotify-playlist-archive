@@ -2555,7 +2555,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "CAGULAT",
       "url": "https://open.spotify.com/track/03ZF2JgMqMc6nNkYIZCJtc"
@@ -10699,7 +10699,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 148800,
       "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
@@ -11075,7 +11075,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177662,
       "name": "Ok Okey",
       "url": "https://open.spotify.com/track/21lvS2OJlPSNjJNBx3nwJV"
@@ -11415,7 +11415,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -11787,7 +11787,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 180063,
       "name": "Piramida",
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
@@ -12859,7 +12859,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -13031,6 +13031,28 @@
       "duration_ms": 213554,
       "name": "Rup Topurile",
       "url": "https://open.spotify.com/track/2cYVKVMiWzJM0lGxBQDjOC"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
       "album": {
@@ -16035,6 +16057,28 @@
       "duration_ms": 151448,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/4Z93atas4aeGcziHBNVpbD"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "album": {

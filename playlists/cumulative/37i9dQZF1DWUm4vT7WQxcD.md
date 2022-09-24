@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-65 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/4GEj3v6pmG0SDKzDAfp6Wj)
+68 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/4GEj3v6pmG0SDKzDAfp6Wj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,11 @@
 | [Faulty Fan](https://open.spotify.com/track/7A79iQ8PdBmAgiAMB0NOtA) | [Pure Noise](https://open.spotify.com/artist/1ENzZmAPgFiUCSCVWVLUOO) | [Tessellation](https://open.spotify.com/album/7k3mBhWk5r3iuPYiSCyeM4) | 3:17 | 2022-07-29 |  |
 | [Gentle Buzz of a Cooling Fan](https://open.spotify.com/track/13LagydAaQfLSEAhoKMQvX) | [ASMR Layla](https://open.spotify.com/artist/29yYPUL6ELKFbIbV5DN0Iq) | [Household ASMR](https://open.spotify.com/album/5sgpDN53G3nR6yPo0H5KN0) | 4:14 | 2022-07-29 |  |
 | [Industrial Fan](https://open.spotify.com/track/2tw1OtnzTPN34ClEqmKhwB) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [ASMR Enviroments](https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a) | 1:26 | 2022-07-29 |  |
+| [Light Winds](https://open.spotify.com/track/5Y4merexrMCRJIrZN2VTkz) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:52 | 2022-09-23 |  |
 | [Long Fan](https://open.spotify.com/track/5EPT4CyGG4DwIcg4Ojw00g) | [White Noise Sound Relax](https://open.spotify.com/artist/2iUpJ398dkoIlxUanIUV1y) | [Fan Noise](https://open.spotify.com/album/5aVcfTvhO7sS4z0A2SUfNU) | 6:56 | 2022-07-29 |  |
 | [Noises of Fan](https://open.spotify.com/track/3c2P05qBjXQrwRt2yT0gkh) | [Hair Dryer Sounds Collection](https://open.spotify.com/artist/4vKU8aFv9gOtjNnQ78SmZE) | [Hair Dryer Sound Noises](https://open.spotify.com/album/5GMXsaxBa6sp74OU8ggxuR) | 1:03 | 2022-07-29 |  |
 | [Noisy Fan](https://open.spotify.com/track/7DHu5FqINNn4sUCpK00XuC) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Oven Fans](https://open.spotify.com/album/7BR8pciWteOsfiYwES6N78) | 1:46 | 2022-07-29 |  |
+| [Noisy Fan](https://open.spotify.com/track/6v26gYLZ1ItllcbSdP5jxF) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:50 | 2022-09-23 |  |
 | [Office Fan \- Seamless](https://open.spotify.com/track/1TfDKjHEiCS3MJPcZuhHC0) | [Alex Slumber](https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF) | [Office Enviroments Part 1](https://open.spotify.com/album/4T108KgPSrzxWm4ImvuUJB) | 1:28 | 2022-07-29 |  |
 | [Oscillating Fan](https://open.spotify.com/track/5jeax20Rmlr4J07htudY08) | [Baby Sleep Sounds](https://open.spotify.com/artist/5WtycUE7XrEbLtcaKHMhxJ) | [White Noise Relaxing Fans](https://open.spotify.com/album/5Vxne3de8zcPhfJPvmKQmD) | 3:44 | 2022-07-29 |  |
 | [Relaxing Air Conditioner](https://open.spotify.com/track/6LtKpVIvB9DVbYh0lUjXz2) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Air Conditioner & Fan Sounds](https://open.spotify.com/album/0RQrEFcbuzRCVAlgvP4395) | 3:03 | 2022-07-29 |  |
@@ -61,6 +63,7 @@
 | [Slow Fan Sleep](https://open.spotify.com/track/3ypeXRVEOG6vZAh3NuT2ph) | [Byonde](https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q) | [Slow Fan Sleep](https://open.spotify.com/album/7o8aezuaHHbSpdWdn3xwkt) | 2:52 | 2022-07-29 |  |
 | [Soothing Breeze](https://open.spotify.com/track/6jqdXdM6N8c2lbZ0B5kJ4C) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:45 | 2022-08-26 |  |
 | [Soothing Panning Box Fan \- Seamless](https://open.spotify.com/track/2Jef9t38xnPQ2sH8AGM0HY) | [ASMR Doze](https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D) | [Fan Hypnosis](https://open.spotify.com/album/4O3JywlUAKSETN8w8CrcJf) | 1:42 | 2022-07-29 |  |
+| [Sudden Winds Of Sleep](https://open.spotify.com/track/4A7py1e73Egn3G4JLnNHmw) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:45 | 2022-09-23 |  |
 | [Table Fan \- Loopable With No Fade](https://open.spotify.com/track/6YzzyEz4PU8DNB0xzAaWe1) | [Erik Eriksson](https://open.spotify.com/artist/2c5WYCqQGs0UttiLCzVfOe), [White Noise Baby Sleep](https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh) | [Best Loopable White Noise](https://open.spotify.com/album/3C8KIgI0zGvKAdfVsBcb3Y) | 1:12 | 2022-07-29 |  |
 | [Whispering Hard Drives](https://open.spotify.com/track/0fiOjNYhn6g20dc6BqsjLK) | [Mind Tickle](https://open.spotify.com/artist/3G4BQXIQ09Rb0JWFtjoDzk) | [ASMR House](https://open.spotify.com/album/7mVRi3wpR3vNesav7ziSzi) | 4:12 | 2022-07-29 |  |
 | [White Noise Fan Sound](https://open.spotify.com/track/0EjTKpMAvsPYmDlP5OIqvu) | [White Noise Therapy](https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD) | [White Noise Sleep Aid](https://open.spotify.com/album/0H8sdynxqyZteSDmlPBx5U) | 5:04 | 2022-07-29 |  |

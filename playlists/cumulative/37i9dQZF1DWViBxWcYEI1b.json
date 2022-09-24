@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Forest Blakk",
+  "description": "For those with a taste for both the new and the classic. Cover: Lewis Capaldi",
   "name": "Contemporary Blend",
   "published_playlist_ids": [
     "3C1K5LpRz1NNeHvy2kRwbA"
@@ -441,6 +441,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "Assembly Required",
+        "url": "https://open.spotify.com/album/3xEUUVwjNVvTaHQjcpea8O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225684,
+      "name": "Assembly Required",
+      "url": "https://open.spotify.com/track/6ce7mZm67N4CB6llmyRPib"
     },
     {
       "album": {
@@ -1590,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "Daddy\u2019s Eyes",
+        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182969,
+      "name": "Daddy's Eyes",
+      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
+    },
+    {
+      "album": {
         "name": "Dancing Slow",
         "url": "https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5"
       },
@@ -2621,7 +2657,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156295,
       "name": "Good News - Acoustic",
       "url": "https://open.spotify.com/track/0oCjeB16Bj0pLrbNzCnKcM"
@@ -2823,6 +2859,24 @@
       "duration_ms": 199111,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd"
+    },
+    {
+      "album": {
+        "name": "Haunted by Potential",
+        "url": "https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218218,
+      "name": "Haunted by Potential",
+      "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
     },
     {
       "album": {
@@ -3551,7 +3605,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 225273,
       "name": "I Went Hunting",
       "url": "https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H"
@@ -3721,7 +3775,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -4513,7 +4567,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 208002,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR"
@@ -4806,6 +4860,24 @@
     },
     {
       "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "My Dying Spirit",
+      "url": "https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh"
+    },
+    {
+      "album": {
         "name": "My Eyes Only",
         "url": "https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19"
       },
@@ -4817,7 +4889,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 194545,
       "name": "My Eyes Only",
       "url": "https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG"
@@ -5175,6 +5247,24 @@
       "duration_ms": 205066,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
+    },
+    {
+      "album": {
+        "name": "One Of You",
+        "url": "https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225684,
+      "name": "One Of You",
+      "url": "https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr"
     },
     {
       "album": {
@@ -5977,6 +6067,24 @@
       "duration_ms": 159567,
       "name": "Sing Me a Song",
       "url": "https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai"
+    },
+    {
+      "album": {
+        "name": "Slow Dance In The Morning",
+        "url": "https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "Slow Dance In The Morning",
+      "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
     },
     {
       "album": {
@@ -6837,7 +6945,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 233751,
       "name": "Up In The Sky",
       "url": "https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU"
@@ -7186,6 +7294,24 @@
     },
     {
       "album": {
+        "name": "When You Think Of Me",
+        "url": "https://open.spotify.com/album/3nQfozW8aZswzUSoJmMpZH"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "When You Think Of Me",
+      "url": "https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi"
+    },
+    {
+      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -7395,7 +7521,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 162697,
       "name": "You Love It",
       "url": "https://open.spotify.com/track/1bxP2R9BFmMWeriIdUf43y"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,990 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,381 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 |
 | 100 | [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 |
 
-Snapshot ID: `MTY2MzY4MjU4MiwwMDAwMDAwMGNmMTBjMDI3ZjI0NWY3ZjM3ZWUwYTM3MWYyZDUwNWU2`
+Snapshot ID: `MTY2Mzk1ODk5MSwwMDAwMDAwMGM1ODNiODcxZDRmYTU5YThhYzFmNGUyYzlkMzU5YzQx`

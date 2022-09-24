@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,891 likes - 300 songs - 18 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,060 likes - 300 songs - 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

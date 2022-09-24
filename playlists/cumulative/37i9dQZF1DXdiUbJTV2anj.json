@@ -416,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Slow Death Society",
+        "url": "https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z"
+      },
+      "artists": [
+        {
+          "name": "Black Dog",
+          "url": "https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147354,
+      "name": "Egomania",
+      "url": "https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z"
+    },
+    {
+      "album": {
         "name": "Empty Vessels",
         "url": "https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ"
       },
@@ -1643,6 +1661,24 @@
       "duration_ms": 320647,
       "name": "We Can Never Go Back to Arizona",
       "url": "https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K"
+    },
+    {
+      "album": {
+        "name": "WITNESS",
+        "url": "https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG"
+      },
+      "artists": [
+        {
+          "name": "THE UNCROWNED",
+          "url": "https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "WITNESS",
+      "url": "https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2"
     },
     {
       "album": {

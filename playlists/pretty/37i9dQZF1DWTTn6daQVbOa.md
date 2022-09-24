@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,616 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,142 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [I'm In You](https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [I'm In You](https://open.spotify.com/album/1yn9J074uklyngo5SGS49U) | 4:10 |
 | 150 | [Song Sung Blue](https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 3:05 |
 
-Snapshot ID: `MTY2MDMwNTkwMCwwMDAwMDAwMDlmZmQzM2RkZTE0N2EzZmU0ODhiMDRmZmNlNDcyMDJm`
+Snapshot ID: `MTY2MzkxMDc5MywwMDAwMDAwMGE3Y2EwNDRmMGQ1Yzc2NjA5NDY5MjIxZDZhZWYyZWUw`

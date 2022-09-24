@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,925 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,953 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Campanas en la Noche \- En Vivo](https://open.spotify.com/track/2gcgBpVcO0CONdvzvTBmQM) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tipitorex](https://open.spotify.com/album/64A2yWDQnsti67uCO44olg) | 4:01 |
 | 100 | [La Guitarra \- En Vivo en el Foro Sol](https://open.spotify.com/track/4ZsRQFV26bM6y8GRs4hLoM) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Joaquín Levinton](https://open.spotify.com/artist/40YfcUtQrNSRJty5K9O3eI), [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX), [Luis Beretta](https://open.spotify.com/artist/5C1kh43hROSUSZdAMwDeoS), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L), [David Hinojosa](https://open.spotify.com/artist/3RLiAwVzdOkXPlFEv2DtPg), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:11 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDlmODdjZjk3MzE5MTY3MjliY2ZjZDIwNWM0ZjBlY2Jl`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDNmNTRkYzBlNmJiOGFkMjUzZTNmY2VlZjU4MjEwMzFk`

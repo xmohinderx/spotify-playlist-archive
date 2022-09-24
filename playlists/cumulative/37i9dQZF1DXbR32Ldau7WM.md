@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-331 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+332 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,9 +151,9 @@
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-05-10 | 2022-09-15 |
 | [seasons change](https://open.spotify.com/track/4KmylhamK7Vpzxn0iS1DbZ) | [Small Circle of Friends](https://open.spotify.com/artist/3CJQBC8srg8KknVotylRsC) | [seasons change](https://open.spotify.com/album/1PHKDL7Zf6a4bFdriImVE8) | 3:16 | 2022-05-10 | 2022-07-29 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-19 |  |
-| [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-07-28 |  |
+| [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-07-28 | 2022-09-24 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-05-10 | 2022-07-29 |
-| [September](https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [September](https://open.spotify.com/album/3skQf6NwdlQXH0OvOfH4Rg) | 3:14 | 2022-09-06 | 2022-09-21 |
+| [September](https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [September](https://open.spotify.com/album/3skQf6NwdlQXH0OvOfH4Rg) | 3:14 | 2022-09-06 |  |
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 |  |
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
@@ -187,7 +187,8 @@
 | [UGOKE](https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [UGOKE](https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj) | 3:57 | 2022-09-20 |  |
 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 | 2022-05-19 | 2022-08-31 |
 | [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2022-05-12 | 2022-07-16 |
-| [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 |  |
+| [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 | 2022-09-24 |
+| [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2022-09-20 |  |
 | [Unnamed Song](https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Unnamed Song](https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ) | 2:58 | 2022-07-26 | 2022-08-03 |
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-08 |  |
 | [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 | 2022-09-12 |

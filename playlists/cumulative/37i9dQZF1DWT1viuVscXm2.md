@@ -2,9 +2,9 @@
 
 ### [Esto es Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWT1viuVscXm2)
 
-> A bailar con la mejor cumbia sudamericana\. Foto: Rafaga.
+> A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-163 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+164 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Embrujo](https://open.spotify.com/track/3YBVqmMUSusvJyQwd545yw) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Embrujo](https://open.spotify.com/album/3TGUkmPnQzcG2NHoXwPufy) | 3:56 | 2021-12-24 |  |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2021-12-24 |  |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |
+| [El mundo](https://open.spotify.com/track/21tKZARgqHBsiR3OhQTLd2) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [El mundo](https://open.spotify.com/album/7LK2C6D562BcNafXJ7WqPL) | 3:24 | 2022-09-23 |  |
 | [El Mundo a Tus Pies](https://open.spotify.com/track/23Kku3qq2hoS385N6QKRss) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [El Mundo a Tus Pies](https://open.spotify.com/album/1hTtFHLyyWa5kMSgRsvInj) | 2:54 | 2022-04-15 | 2022-06-04 |
 | [El Paso Final](https://open.spotify.com/track/50ItSV0JJUCEEUFMshZu3f) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Paso Final](https://open.spotify.com/album/4ZmBmKovkcfmST7UfqtdG4) | 5:37 | 2021-12-24 | 2022-08-13 |
 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2021-12-24 |  |

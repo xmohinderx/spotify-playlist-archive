@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Yazmin Lacey",
+  "description": "The best from Britain's vibrant scene. Cover: Oscar Jerome",
   "name": "Jazz UK",
   "published_playlist_ids": [
     "59EKsWawfSCVKzHCfwFtdU"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 284928,
       "name": "Clashing Colours",
       "url": "https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/7FV75h8cbt6sf9XClbiT3Z"
@@ -1759,6 +1759,24 @@
       "duration_ms": 226920,
       "name": "Fear Leads Us On",
       "url": "https://open.spotify.com/track/2XYanbH7DcqMX9sWQYaDl4"
+    },
+    {
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "album": {
@@ -5171,7 +5189,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 338253,
       "name": "Sweet Isolation",
       "url": "https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ"
@@ -5193,7 +5211,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 332000,
       "name": "Sweet Isolation (Metropole Orkest)",
       "url": "https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal"
@@ -5601,6 +5619,24 @@
       "duration_ms": 256453,
       "name": "The Spiral",
       "url": "https://open.spotify.com/track/4IyMVcUla2fue99pJpCquG"
+    },
+    {
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426240,
+      "name": "The Spoon",
+      "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
     },
     {
       "album": {

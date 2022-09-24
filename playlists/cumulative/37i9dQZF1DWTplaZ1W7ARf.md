@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Hotboii
 
-133 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+134 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Patience \(feat\. NoCap\)](https://open.spotify.com/track/5vLhwjO78xVltDhUvrtCCJ) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [State of Emergency](https://open.spotify.com/album/5tOj5H8wMh9GbkUBsthsgl) | 3:12 | 2022-09-09 | 2022-09-17 |
 | [Peepin Out The Window \(with Future & Bslime\)](https://open.spotify.com/track/03kozlqpm5twrblZia0m9j) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Bslime](https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:57 | 2021-10-15 | 2022-04-10 |
 | [Private Phones](https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Private Phones](https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh) | 3:02 | 2021-10-29 | 2022-04-29 |
+| [Purge Me](https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:16 | 2022-09-23 |  |
 | [Rain](https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Rain](https://open.spotify.com/album/2Tw5eFuipEz0DsS8J9WVTR) | 2:50 | 2022-07-15 |  |
 | [Real Shit \(feat\. Morray\)](https://open.spotify.com/track/5XWcUsn2AmuLvPMwdXGecw) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 3:19 | 2022-08-19 |  |
 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 | 2022-03-04 |  |

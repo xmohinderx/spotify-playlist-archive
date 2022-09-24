@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-190 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+191 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Don't Surrender \- Abandoned Remix](https://open.spotify.com/track/30YkaFXxirvZO9JWGYVGkW) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:12 | 2022-02-03 | 2022-09-15 |
 | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/track/7gDmGpWuB7ghdzW09HfMx9) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Dreaming of Me \(feat\. Jaime Deraz\)](https://open.spotify.com/album/3mxgOh0vQDgYNobCZMveoz) | 3:19 | 2022-02-03 | 2022-09-15 |
 | [Dreams pt\. II](https://open.spotify.com/track/6hwF25W29VOWw1nZ76EAXY) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Dreams pt\. II](https://open.spotify.com/album/3T9xfxcHKA1tXjPVULySWq) | 3:35 | 2022-02-03 | 2022-09-15 |
+| [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 |  |
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 |  |
 | [Emotions](https://open.spotify.com/track/220ruturt9KcBkc4DCYAN4) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Emotions](https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ) | 3:44 | 2022-05-26 |  |
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 |  |

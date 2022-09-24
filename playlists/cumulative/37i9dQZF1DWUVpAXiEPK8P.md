@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-274 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
+275 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [2am](https://open.spotify.com/track/7ikV8iqk79BJfVco9qu7Kd) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 2:08 | 2022-04-15 | 2022-04-19 |
 | [30](https://open.spotify.com/track/2LINywqqovb1DSYV4k4bNE) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Polaris](https://open.spotify.com/album/5fGw4eLl2lRXDt7oFnNYGu) | 2:17 | 2022-04-15 | 2022-04-21 |
 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 | 2022-04-15 | 2022-04-20 |
-| [4 The Win](https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [4 The Win](https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv) | 3:27 | 2022-09-22 |  |
+| [4 The Win](https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [4 The Win](https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv) | 3:27 | 2022-09-22 | 2022-09-24 |
+| [4 The Win](https://open.spotify.com/track/78UihSJn90VSGBBES12kFL) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:27 | 2022-09-22 |  |
 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 | 2022-04-15 | 2022-04-21 |
 | [A Yo](https://open.spotify.com/track/7jLePOhkwslpzYSw5ZTCDG) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [TizzTrap](https://open.spotify.com/artist/2gkITzNx4kpWyX8Tf140HX), [BG](https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR) | [A Yo](https://open.spotify.com/album/7H3XNmuhuX5HOpXpByYKRL) | 2:41 | 2022-04-15 | 2022-04-20 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-04-15 | 2022-04-17 |

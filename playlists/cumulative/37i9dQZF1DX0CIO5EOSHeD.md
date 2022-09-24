@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-315 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+316 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |
 | [Ribbon Blue](https://open.spotify.com/track/7A8a4VvIFOhwg8cezHeGwP) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Ribbon Blue](https://open.spotify.com/album/4jDSIRfuFvN6sZTLmwKHV8) | 2:05 | 2021-12-09 | 2022-07-19 |
 | [Rip](https://open.spotify.com/track/7tEI0ug1DL0G9Ez8qhnsW4) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Leave It All Behind](https://open.spotify.com/album/6yOQSdKl7hCxTvSFWWfloA) | 2:33 | 2020-11-12 | 2022-06-01 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
 | [Rose](https://open.spotify.com/track/7xTpmsgbuPTHv6mHZyH18v) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Rose](https://open.spotify.com/album/4uBpe363rz0WVb9JN26L06) | 3:46 | 2020-10-27\* | 2021-01-12 |
 | [Rotten Teeth](https://open.spotify.com/track/7dJwJZtmdqq0yg4DAWOMKJ) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [Rotten Teeth](https://open.spotify.com/album/4rzA98S9bASyIOLXRngQRY) | 3:49 | 2020-10-27\* | 2021-01-12 |
 | [Rumours](https://open.spotify.com/track/4APYDLFFtwzlTsvyy9NZwA) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Rumours](https://open.spotify.com/album/1naEA1H0TUZ21r1JQWHQ0S) | 3:27 | 2020-10-27\* | 2021-03-06 |
@@ -301,7 +302,7 @@
 | [Velvet Tears](https://open.spotify.com/track/4IAFUCNXBdf4Ft3Ud81aLb) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [The Halo Effect](https://open.spotify.com/album/6hHVag0noqfPsmv1Tg3a8I) | 3:27 | 2020-12-11 | 2022-06-17 |
 | [Visual Diaries](https://open.spotify.com/track/1MWTRbFDIiO5m8IIZPcTdb) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [Film For Color Photos EP](https://open.spotify.com/album/6cRdUTiv3KHhslNedxgnZf) | 3:23 | 2021-09-06 | 2022-04-20 |
 | [Warm Body](https://open.spotify.com/track/4aLqmvZMituDRmbcNqcLAn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Warm Body](https://open.spotify.com/album/6pDgawO92Slg1Id9nwZPPN) | 3:19 | 2020-10-27\* | 2021-01-12 |
-| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 |  |
+| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 | 2022-09-24 |
 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 | 2021-03-06 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 |  |

@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Horses & Weed",
+        "url": "https://open.spotify.com/album/5rnzFUqTog7uCgBJxudv30"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Horses & Weed",
+      "url": "https://open.spotify.com/track/08sNpSbnzaPv0dpQvm8sgv"
+    },
+    {
+      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },

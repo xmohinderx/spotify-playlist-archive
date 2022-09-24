@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en good vibes! Cover: CKay
 
-186 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+187 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bestie](https://open.spotify.com/track/18VGPLvONm381ScPGhBXNb) | [Tjatjie](https://open.spotify.com/artist/2xLO5iLr601OrcfLKlMIPQ), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Bestie](https://open.spotify.com/album/2TNRp017CdbAr8KksHBtkD) | 2:08 | 2022-08-25 | 2022-09-09 |
 | [Bikini](https://open.spotify.com/track/2yqSgr8sMvM0jlFj4Aqx7B) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Bikini](https://open.spotify.com/album/0OzrYJjcyo7KHC08SyrDlI) | 3:01 | 2022-07-14 |  |
 | [Boot](https://open.spotify.com/track/5DhLsu431rudt8PENvUDao) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Boot](https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU) | 3:17 | 2022-07-14 | 2022-08-24 |
+| [Boot \(Remix\)](https://open.spotify.com/track/0vnFNnC6gLwuvSS0xnMMTt) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Boot \(Remix\)](https://open.spotify.com/album/0HflMPvY6WOSgY3pLvgjC3) | 3:07 | 2022-09-23 |  |
 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 | 2022-07-14 |  |
 | [Bunda](https://open.spotify.com/track/6sztDtvxlfdXsf6Wjv18Na) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7) | [Bunda](https://open.spotify.com/album/1vM0vdOXbAQ6oQYEBRY67X) | 2:45 | 2022-08-04 | 2022-09-16 |
 | [Cadera](https://open.spotify.com/track/6K1AmddbdQv51KzTJacJxq) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu) | [Cadera](https://open.spotify.com/album/7N1omA7OfEgQ8EU97dFMys) | 1:14 | 2022-07-28 | 2022-09-16 |

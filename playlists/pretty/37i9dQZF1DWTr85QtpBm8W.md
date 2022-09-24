@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452 likes - 103 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491 likes - 103 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 50 | [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 |
 | 51 | [I Imagine](https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:34 |
 | 52 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
-| 53 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Bebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
+| 53 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
 | 54 | [Fib01a](https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 8:01 |
 | 55 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
 | 56 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 68 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 |
 | 69 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/3SZNUuXRNlCZc6xbcyElEQ) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3i46owkvtINK9WoM4Tk3Wx) | 5:14 |
 | 70 | [Variation IV](https://open.spotify.com/track/67AjoQb3d9bzyw0FKcIjO9) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/6GmO37h2js7l0CXgqkxoPx) | 9:18 |
-| 71 | [Fading Lights Are Fading..\. / Reign Rebuilder \(Tail Out\)](https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Bebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 2:49 |
+| 71 | [Fading Lights Are Fading..\. / Reign Rebuilder \(Tail Out\)](https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 2:49 |
 | 72 | [Already There](https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:41 |
 | 73 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
 | 74 | [Wind and Snow](https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:30 |

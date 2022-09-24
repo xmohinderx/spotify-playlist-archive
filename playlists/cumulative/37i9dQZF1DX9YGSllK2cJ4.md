@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-182 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
+185 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,9 @@
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2022-08-01 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-08-01 | 2022-09-13 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-08-01 |  |
+| [Just Like You](https://open.spotify.com/track/1NMLWuUMYy2OqxhGY5tUYD) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Just Like You](https://open.spotify.com/album/4vTgD41WBmNIg2k93KlLsZ) | 2:09 | 2022-09-23 |  |
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2022-08-01 |  |
+| [Kindness as dignity](https://open.spotify.com/track/0fJRmRfFLXIhIehP4c3bpm) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Kindness as dignity](https://open.spotify.com/album/4n3EFJcCWEWafvqXFBSnH2) | 2:57 | 2022-09-23 |  |
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2022-08-01 |  |
 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 | 2022-08-01 |  |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2022-08-01 |  |
@@ -122,6 +124,7 @@
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-08-01 |  |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-08-01 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2022-08-01 |  |
+| [Relief](https://open.spotify.com/track/2nvOohWMFgqQ0DHocsgjLi) | [Vidar Bjørnebye](https://open.spotify.com/artist/0WfsOOVU0No9hqsOeCoQiJ) | [Relief](https://open.spotify.com/album/3GqsGO6Uh4GeIIZ2lEThmd) | 1:42 | 2022-09-23 |  |
 | [Remembering](https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Remembering](https://open.spotify.com/album/3JMZ7hTq1NBXWp9C9OZUMa) | 2:19 | 2022-08-01 |  |
 | [Requiem, Op\. 48:IV\. Pie Jesu \(Arr\. for Piano\)](https://open.spotify.com/track/4PpPfjRNDzPD0A6A5xgu0z) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Fauré: Requiem op\. 48 \(in a new version for piano\)](https://open.spotify.com/album/1gRfCVWCeB8VOKYmZ5JMOM) | 3:09 | 2022-08-01 | 2022-09-13 |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2022-08-01 |  |

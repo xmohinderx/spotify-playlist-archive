@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,966 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,268 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

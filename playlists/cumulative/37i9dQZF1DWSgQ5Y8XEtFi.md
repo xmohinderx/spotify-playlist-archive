@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-172 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+173 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-07-25 | 2022-09-06 |
 | [Crazy](https://open.spotify.com/track/5x84Im19qMtvMfiIXoxAYj) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Crazy](https://open.spotify.com/album/4iVChjkQSVAg8gAVCoXV90) | 2:29 | 2022-03-29 | 2022-07-29 |
 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 | 2022-03-29 | 2022-08-30 |
+| [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 | 2022-09-23 |  |
 | [D ROD](https://open.spotify.com/track/3DsDTlZXGzJ7qIZ7Bs0UIX) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [D ROD](https://open.spotify.com/album/2gUEha6O7cDOVFhWLWkRaw) | 2:07 | 2022-04-12 | 2022-07-29 |
 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 | 2022-07-25 |  |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-29 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 | 2022-07-25 |  |
 | [Shabba \(feat\. A$AP Rocky\)](https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:35 | 2022-08-29 |  |
 | [SHOOTOUT](https://open.spotify.com/track/5eAXCjiH7Xa6in6wc4JCJB) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [SHOOTOUT](https://open.spotify.com/album/3UomzSVA0CiGwfKT4a6b92) | 3:12 | 2022-04-20 | 2022-04-24 |
-| [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2022-06-17 |  |
+| [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2022-06-17 | 2022-09-24 |
 | [Skeletons In My Closet](https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Skeletons In My Closet](https://open.spotify.com/album/441gYdixMIqkDCiGPsYQLE) | 1:53 | 2022-04-20 | 2022-07-08 |
 | [Smack A Bitch](https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:18 | 2022-07-25 | 2022-08-30 |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-07-25 | 2022-08-09 |

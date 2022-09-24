@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,638 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,262 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 28 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
 | 29 | [3 Romances, Op\. 11: 1\. Andante](https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 3:02 |
 | 30 | [Young Birches, Op\. 128, No\. 2](https://open.spotify.com/track/4VVEfBXep7FdOt524jkfLF) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Joanne Polk](https://open.spotify.com/artist/0Hgrwj6TQd1u3pQ1vNwGP3) | [Beach: Variations on Balkan Themes Op\. 60, Maria Funerale, Cadenza, Scottish Legend Op\. 54 No\. 1, etc.](https://open.spotify.com/album/3dldJuQko5BkfCOo6O8UJR) | 2:39 |
-| 31 | [Auf dem Wasser zu singen, D.774 \- Transcription: Franz Liszt, Searle 558 No\. 2](https://open.spotify.com/track/1cLqcUQzMpgiSCp6Bqx7X8) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Schubert: Classical Creations](https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm) | 3:52 |
+| 31 | [Auf dem Wasser zu singen, D\. 774 \- Transcription: Franz Liszt, Searle 558 No\. 2](https://open.spotify.com/track/1cLqcUQzMpgiSCp6Bqx7X8) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Schubert: Classical Creations](https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm) | 3:52 |
 | 32 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:18 |
 | 33 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 |
 | 34 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 |

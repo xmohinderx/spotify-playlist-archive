@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201906,
       "name": "Banjuka Na Mi",
       "url": "https://open.spotify.com/track/5n6EouwPVmwNBtOwPM8tq4"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 230530,
       "name": "Fofofo (feat. Young Lunya)",
       "url": "https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau"
@@ -1420,6 +1420,28 @@
     },
     {
       "album": {
+        "name": "Romantic",
+        "url": "https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC"
+    },
+    {
+      "album": {
         "name": "Make it bounce (Katika)",
         "url": "https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5"
       },
@@ -1449,7 +1471,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 174905,
       "name": "Mama",
       "url": "https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41"
@@ -1829,6 +1851,24 @@
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+    },
+    {
+      "album": {
+        "name": "Nampenda",
+        "url": "https://open.spotify.com/album/0N3ZA8EsUB5qBk2cJUxpx8"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198431,
+      "name": "Nampenda",
+      "url": "https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP"
     },
     {
       "album": {
@@ -2649,6 +2689,24 @@
       "duration_ms": 213853,
       "name": "Sound",
       "url": "https://open.spotify.com/track/48vHI0EsMshwdDoKDux4nu"
+    },
+    {
+      "album": {
+        "name": "Soyo",
+        "url": "https://open.spotify.com/album/3BwwEwhCb7mOkNLQ8qe5xK"
+      },
+      "artists": [
+        {
+          "name": "JJ PAULO",
+          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191195,
+      "name": "Soyo",
+      "url": "https://open.spotify.com/track/4N71F66XSVP9vwWzoUpKAl"
     },
     {
       "album": {

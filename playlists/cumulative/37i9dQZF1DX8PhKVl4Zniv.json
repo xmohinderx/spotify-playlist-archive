@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "The Origin Band",
+          "url": "https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207101,
+      "name": "True Praise",
+      "url": "https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz"
+    },
+    {
+      "album": {
         "name": "Groove and More",
         "url": "https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9"
       },

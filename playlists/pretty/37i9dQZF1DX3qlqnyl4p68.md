@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Devil in Ohio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 8 | [Locke & Key \- Main Titles](https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 1:04 |
 | 9 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 10 | [The Shower / The Dark](https://open.spotify.com/track/4hW8XfJxFUGeWXFhUPNz5S) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK) | 2:04 |
-| 11 | [Come Alive](https://open.spotify.com/track/2kaV58AgrLYlIklyi6Y3dt) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Jorge Lendeborg, Jr.](https://open.spotify.com/artist/7eK8RcE6MRYbvAJ2vPqTfu) | [Night Teeth \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/46QJ2ICowvdJWow92QA8cd) | 3:43 |
+| 11 | [Come Alive](https://open.spotify.com/track/2kaV58AgrLYlIklyi6Y3dt) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Mez](https://open.spotify.com/artist/0bhPk5CgDr787krAWB8CEO), [Jorge Lendeborg, Jr.](https://open.spotify.com/artist/7eK8RcE6MRYbvAJ2vPqTfu) | [Night Teeth \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/46QJ2ICowvdJWow92QA8cd) | 3:43 |
 | 12 | [Cry Little Sister](https://open.spotify.com/track/3FgmRSXJrHXoECwBgf2qXM) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5) | 4:16 |
 | 13 | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN) | 2:49 |
 | 14 | [Time of the Season](https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season](https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I) | 3:34 |

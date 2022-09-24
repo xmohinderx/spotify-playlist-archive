@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,562 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,691 likes - 53 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,24 +40,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 30 | [There's a Glitch in Human Consciousness](https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG) | [Netherlands](https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC) | [There's a Glitch in Human Consciousness](https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM) | 3:44 |
 | 31 | [Forced to Smile](https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT) | [El Moono](https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS) | [Temple Corrupted](https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P) | 3:58 |
 | 32 | [Smoking Mirror](https://open.spotify.com/track/1w2Fs2kq0BY96Ql2jrGumv) | [Kurokuma](https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ) | [Born of Obsidian](https://open.spotify.com/album/1SC6DXzW8fov9cVYfPrVhx) | 8:24 |
-| 33 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 |
-| 34 | [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 |
-| 35 | [The Third Pillar](https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg) | [Ghosts Of Atlantis](https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61) | [3.6.2.4](https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH) | 5:05 |
-| 36 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 |
-| 37 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 |
-| 38 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 |
-| 39 | [Day One](https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Day One](https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI) | 4:32 |
-| 40 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 |
-| 41 | [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 |
-| 42 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 |
-| 43 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 |
-| 44 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
-| 45 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 |
-| 46 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 |
-| 47 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 |
-| 48 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 |
-| 49 | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/album/6kE2Vk9b5omyj9nfDbXgFf) | 3:49 |
-| 50 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 |
-| 51 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 |
+| 33 | [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 |
+| 34 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 |
+| 35 | [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 |
+| 36 | [WITNESS](https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2) | [THE UNCROWNED](https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI) | [WITNESS](https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG) | 4:20 |
+| 37 | [The Third Pillar](https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg) | [Ghosts Of Atlantis](https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61) | [3.6.2.4](https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH) | 5:05 |
+| 38 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 |
+| 39 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 |
+| 40 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 |
+| 41 | [Day One](https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Day One](https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI) | 4:32 |
+| 42 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 |
+| 43 | [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 |
+| 44 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 |
+| 45 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 |
+| 46 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
+| 47 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 |
+| 48 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 |
+| 49 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 |
+| 50 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 |
+| 51 | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/album/6kE2Vk9b5omyj9nfDbXgFf) | 3:49 |
+| 52 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 |
+| 53 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDU4M2U0MjZjYzZhNjZhYzI2YzNlZmRhZjcwYzJkOTA2`
+Snapshot ID: `MTY2MzkzMTE2OSwwMDAwMDAwMGE5OWM5NTUwODNkNzllOTkyYzI3ZGM2NzlmMDg4OTlj`

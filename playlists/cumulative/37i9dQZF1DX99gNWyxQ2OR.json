@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Chopin The Complete Nocturnes",
+        "url": "https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2020-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435213,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/4LvznnwnusIRjRmbCpKboR"
+    },
+    {
+      "album": {
         "name": "Chopin: The Nocturnes",
         "url": "https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk"
       },
@@ -464,9 +486,9 @@
       "date_added": "2020-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 435213,
-      "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/4LvznnwnusIRjRmbCpKboR"
+      "duration_ms": 309906,
+      "name": "Nocturne No. 9 in B, Op. 32 No. 1",
+      "url": "https://open.spotify.com/track/1SItHiHPqABSEgLckb1WHd"
     },
     {
       "album": {
@@ -555,28 +577,6 @@
       "duration_ms": 259853,
       "name": "Nocturne No.2 in E flat, Op.9 No.2",
       "url": "https://open.spotify.com/track/7FgdNdHsetCQXksQpeGabM"
-    },
-    {
-      "album": {
-        "name": "Chopin The Complete Nocturnes",
-        "url": "https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "date_added": "2020-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 309906,
-      "name": "Nocturne No.9 in B, Op.32 No.1",
-      "url": "https://open.spotify.com/track/1SItHiHPqABSEgLckb1WHd"
     },
     {
       "album": {

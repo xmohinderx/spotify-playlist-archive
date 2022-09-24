@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
+> Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,200 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,287 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
 | 80 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
 
-Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMDJiODcxOGFiMjZmNWU1NzM0N2Q3NWZhMjg4NGFkYThl`
+Snapshot ID: `MTY2MzkyMDYyMSwwMDAwMDAwMGY5MTljZjQzOTA3NDViZWNkNzJlNTU2YjM3ZGEwNWJm`

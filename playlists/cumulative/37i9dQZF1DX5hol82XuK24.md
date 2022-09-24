@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-134 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+136 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 | 2022-02-24 |  |
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-11-01 |  |
 | [Messing](https://open.spotify.com/track/2wloteObIm2R5HC1zgijBI) | [Hussy](https://open.spotify.com/artist/6GlHnc09wnTmBC43d5NtL8) | [Hussy](https://open.spotify.com/album/19oTVM7p7W8JA53RL6p8gL) | 3:29 | 2021-11-01 | 2022-09-15 |
-| [Milky](https://open.spotify.com/track/6HLS4uoqTbEvdUmV8FKGMh) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Milky](https://open.spotify.com/album/3e2ZqbIIombCtqvIMTka3r) | 4:01 | 2021-11-01 |  |
+| [Milky](https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX) | 4:01 | 2022-09-21 |  |
+| [Milky](https://open.spotify.com/track/6HLS4uoqTbEvdUmV8FKGMh) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Milky](https://open.spotify.com/album/3e2ZqbIIombCtqvIMTka3r) | 4:01 | 2021-11-01 | 2022-09-24 |
 | [Miracle of Life](https://open.spotify.com/track/3TVW2JepPAdMWNUQod7pvT) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/6r7NnlJTvrk6n0hGoachzr) | 3:36 | 2021-11-01 | 2022-07-29 |
 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 | 2022-01-27 |  |
 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 | 2021-11-01 |  |
@@ -90,13 +91,14 @@
 | [Prey \- 2021 Remastered version](https://open.spotify.com/track/1FF7zgBIYfnk19yuqqAFov) | [MUNKIB](https://open.spotify.com/artist/4Iyu0COGYnTwmS9xrjnNc2) | [Prey \(2021 Remastered version\)](https://open.spotify.com/album/16C0PRefWun3qFlVrE98A7) | 2:36 | 2022-01-27 | 2022-09-15 |
 | [Prototype / Limit to Your Love](https://open.spotify.com/track/6gjQwd0yaseqxwPDHRmAUz) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Prototype / Limit to Your Love](https://open.spotify.com/album/0eKwPKBEpEwPZtX5cIqAPo) | 4:39 | 2021-11-01 |  |
 | [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2021-11-01 |  |
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2021-11-01 | 2022-07-29 |
 | [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 | 2022-01-27 |  |
 | [Saturday,](https://open.spotify.com/track/5gaV0csREwXwbJieBy1nBU) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Saturday,](https://open.spotify.com/album/0wNu1tc833amzDISxEI9Em) | 4:20 | 2022-01-27 | 2022-09-15 |
 | [Saturday,](https://open.spotify.com/track/4hOdApQB6Iz56Fy2YcZQiy) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Saturday,](https://open.spotify.com/album/0mfGb8bwlrCE1DX0xHpO7s) | 4:20 | 2021-11-01 | 2022-07-29 |
 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2022-09-13 |  |
-| [Shadowplay](https://open.spotify.com/track/3vw24DvCahaKObSrLOX3Z9) | [Muscle Soul](https://open.spotify.com/artist/7uH1AquKEZrrxcZl7HZ9Fp) | [Shadowplay](https://open.spotify.com/album/2AWTP81xKKO72CYqnP2ZLQ) | 4:22 | 2021-11-01 |  |
+| [Shadowplay](https://open.spotify.com/track/3vw24DvCahaKObSrLOX3Z9) | [Muscle Soul](https://open.spotify.com/artist/7uH1AquKEZrrxcZl7HZ9Fp) | [Shadowplay](https://open.spotify.com/album/2AWTP81xKKO72CYqnP2ZLQ) | 4:22 | 2021-11-01 | 2022-09-24 |
 | [Shape Shifter](https://open.spotify.com/track/4K2KgAsQlbKIC2fl99M5EM) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 5:29 | 2021-11-01 | 2022-09-15 |
 | [Ship](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 | 2021-11-01 | 2022-09-15 |
 | [Show Me Your Mind](https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Show Me Your Mind](https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM) | 3:33 | 2021-11-01 |  |

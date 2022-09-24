@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,359 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,387 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

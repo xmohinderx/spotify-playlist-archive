@@ -2,7 +2,7 @@
 
 ### [Intense Studying](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6)
 
-> Focus\-enhancing piano for your study session.
+> Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
 307 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,207 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,486 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 99 | [Sua Presença \- Ao Vivo](https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Sua Presença \(Ao Vivo\)](https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4) | 5:14 |
 | 100 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDVmZTBkOGZjNjA3ZTcxMTg4YzYzYWJmNWFkZDQzNWQz`
+Snapshot ID: `MTY2MzkwMjI1MywwMDAwMDAwMDFiOWFmYzEyZTMyMWViZjY4ODc3M2EwNmM2ZTIwNjRh`

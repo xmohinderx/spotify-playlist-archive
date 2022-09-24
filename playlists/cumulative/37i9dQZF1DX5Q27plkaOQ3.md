@@ -2,9 +2,9 @@
 
 ### [Dubstep Don](https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3)
 
-> All <a href="spotify:genre:bass">wobble</a>\. Cover: Sippy
+> All <a href="spotify:genre:bass">wobble</a>\. Cover: Zeds Dead
 
-237 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+238 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 |  |
 | [Fire Dance](https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Attitude](https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 2:38 | 2021-12-17 |  |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 |  |
-| [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 |  |
+| [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 |  |
 | [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 |  |
@@ -126,6 +126,7 @@
 | [Lake Nyos](https://open.spotify.com/track/2kY8pUpM4QcGWkjflY38tx) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Give Up The Ghost](https://open.spotify.com/album/7ya7R7sEXTSgU1HuExQQY9) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-06-24 |  |
 | [Lasers](https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Lasers](https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg) | 3:31 | 2022-01-07 | 2022-03-12 |
+| [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [Let You Know](https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Let You Know](https://open.spotify.com/album/2eU57jKQamWytlwmcXvNAK) | 3:24 | 2021-12-17 | 2022-05-07 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 |  |
 | [LEVIATHAN](https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2) | [GRUMGULLY](https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [LEVIATHAN](https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o) | 2:43 | 2022-07-01 |  |

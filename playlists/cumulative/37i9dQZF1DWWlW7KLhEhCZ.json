@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196363,
       "name": "Amor Bandido",
       "url": "https://open.spotify.com/track/5Faenx51QZzCcXsv77DWwz"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 202926,
       "name": "As Faixas",
       "url": "https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168545,
       "name": "Billy Mandy",
       "url": "https://open.spotify.com/track/7LURgJ2T40LosEfRLkIxhd"
@@ -1436,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Carro Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/0LMe1TRcRPwnE7NaSVx3AB"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184497,
+      "name": "Carro Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/6r9YvfFlg3exxuqYhIeyEv"
+    },
+    {
+      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 157377,
       "name": "Chamo Aten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3ncH70lcHSjaKfqYG7EfnF"
@@ -1711,6 +1729,36 @@
       "duration_ms": 155431,
       "name": "Colombinha",
       "url": "https://open.spotify.com/track/5VEjvzwm32nLMH0LZY2D8h"
+    },
+    {
+      "album": {
+        "name": "Contagem",
+        "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
+      },
+      "artists": [
+        {
+          "name": "G.AZINN",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Contagem",
+      "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
     },
     {
       "album": {
@@ -2035,10 +2083,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 131283,
       "name": "Deixe-Me Andar",
       "url": "https://open.spotify.com/track/5ZWIGqpNOMBYbEZPFSDHQo"
+    },
+    {
+      "album": {
+        "name": "DELAY",
+        "url": "https://open.spotify.com/album/2TRWo9rWkupnXqUIXBbH76"
+      },
+      "artists": [
+        {
+          "name": "Burn-O",
+          "url": "https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "DELAY",
+      "url": "https://open.spotify.com/track/6ecX3IV2DkxCzgdwlc0EVA"
     },
     {
       "album": {
@@ -2205,6 +2271,24 @@
       "duration_ms": 274054,
       "name": "Detectou",
       "url": "https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX"
+    },
+    {
+      "album": {
+        "name": "Deus Ayanokoji",
+        "url": "https://open.spotify.com/album/6pRSHS46oPIuNixhlgVbYZ"
+      },
+      "artists": [
+        {
+          "name": "Byakuran",
+          "url": "https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Deus Ayanokoji",
+      "url": "https://open.spotify.com/track/4IRiDkdefXQKOGv2wz0kOg"
     },
     {
       "album": {
@@ -2943,7 +3027,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 183000,
       "name": "Favela",
       "url": "https://open.spotify.com/track/4j6PJ8ghqRvAbz1RyevPyb"
@@ -3161,7 +3245,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 126181,
       "name": "Flow Skepta",
       "url": "https://open.spotify.com/track/2c8S82wdz76ux1SUXTxIeu"
@@ -3514,6 +3598,28 @@
     },
     {
       "album": {
+        "name": "Girando Grana",
+        "url": "https://open.spotify.com/album/7DlmhGzDmmwnbRhlXPUTI1"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Moikas",
+          "url": "https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Girando Grana",
+      "url": "https://open.spotify.com/track/3glOU1DVytu90y1HEwzX9E"
+    },
+    {
+      "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/7rfEf0bN3tlTUCtfzPph5k"
       },
@@ -3656,6 +3762,28 @@
     },
     {
       "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/0lz9LaEjfo2djdqCM7UHXE"
+      },
+      "artists": [
+        {
+          "name": "Mau\u00ea",
+          "url": "https://open.spotify.com/artist/4zxdlpurKvl4c3azdwaMBn"
+        },
+        {
+          "name": "Furac\u00e3o 2000",
+          "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189831,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/3fH8llRHlrEhokQY2HtmfM"
+    },
+    {
+      "album": {
         "name": "Iphone Red",
         "url": "https://open.spotify.com/album/662B0RLOtXUaOJ2VtfRD38"
       },
@@ -3719,6 +3847,28 @@
       "duration_ms": 125217,
       "name": "Jazzghost",
       "url": "https://open.spotify.com/track/3BNBmmjX4K4TNMA7g0158o"
+    },
+    {
+      "album": {
+        "name": "Jogo do Bicho",
+        "url": "https://open.spotify.com/album/1SowDroZuixt9Yt6k9HPGT"
+      },
+      "artists": [
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        },
+        {
+          "name": "Prod Gomes",
+          "url": "https://open.spotify.com/artist/2OykwFvrdokATKdUQPGAFA"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Jogo do Bicho",
+      "url": "https://open.spotify.com/track/4EfCQcyOykgNJxAf1g1K2H"
     },
     {
       "album": {
@@ -4269,10 +4419,36 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 182271,
       "name": "Mafu Mafu",
       "url": "https://open.spotify.com/track/7fakiNjPKfzywlCynpj8KU"
+    },
+    {
+      "album": {
+        "name": "Mais Que o Dono",
+        "url": "https://open.spotify.com/album/2Awl8HoKgbmwuEo5pqykNh"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Mais Que o Dono",
+      "url": "https://open.spotify.com/track/1LvwZH5lQ4W49uQTAgyMKB"
     },
     {
       "album": {
@@ -4539,7 +4715,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 97425,
       "name": "MEMA F\u00c9",
       "url": "https://open.spotify.com/track/3eUI4ZObwNKXaxiVMTaQbl"
@@ -4747,7 +4923,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 253884,
       "name": "Meus Manos",
       "url": "https://open.spotify.com/track/5VjHPXDZL430YTtDdzPHX9"
@@ -4920,6 +5096,36 @@
     },
     {
       "album": {
+        "name": "Nada Abala",
+        "url": "https://open.spotify.com/album/67vR4b6y6IIyshR3cO1a4W"
+      },
+      "artists": [
+        {
+          "name": "Gxlden",
+          "url": "https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo"
+        },
+        {
+          "name": "Mc Rodson",
+          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+        },
+        {
+          "name": "JR ON",
+          "url": "https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Nada Abala",
+      "url": "https://open.spotify.com/track/3XrdhuSL2LTZDTdLnSuBoQ"
+    },
+    {
+      "album": {
         "name": "No Baile Dela",
         "url": "https://open.spotify.com/album/2NEdBsBE5DsNv6ZnjZ5NxT"
       },
@@ -4965,7 +5171,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 137775,
       "name": "Nois e o Trem",
       "url": "https://open.spotify.com/track/4ejb1eAN1Imhjk8iJg0Xcd"
@@ -5069,7 +5275,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 205423,
       "name": "N\u00e3o Te Conhe\u00e7o",
       "url": "https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5"
@@ -5279,7 +5485,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 157821,
       "name": "Outro N\u00edvel",
       "url": "https://open.spotify.com/track/0rhRtVwcROT6lzOmMNthvo"
@@ -5462,6 +5668,24 @@
     },
     {
       "album": {
+        "name": "\u00daltimo Grito",
+        "url": "https://open.spotify.com/album/6KLLQxZcWBOiPkFkJoP3vh"
+      },
+      "artists": [
+        {
+          "name": "Raycco",
+          "url": "https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174971,
+      "name": "Passarinho",
+      "url": "https://open.spotify.com/track/2ttyjM3eBEhjMf5i8KstUa"
+    },
+    {
+      "album": {
         "name": "Paz na Favela",
         "url": "https://open.spotify.com/album/7niwd28VXCfuyMsMVdmddG"
       },
@@ -5559,6 +5783,32 @@
       "duration_ms": 146938,
       "name": "Pe\u00e7a na Cintura",
       "url": "https://open.spotify.com/track/3GqvAQfTgJHUKvYGr4wU5e"
+    },
+    {
+      "album": {
+        "name": "Pimenta",
+        "url": "https://open.spotify.com/album/1QV5xXe3ikP965GahbG9hC"
+      },
+      "artists": [
+        {
+          "name": "Igor Sales",
+          "url": "https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw"
+        },
+        {
+          "name": "Marzano",
+          "url": "https://open.spotify.com/artist/3Reh3MUCxlLUSwKcbHOW7A"
+        },
+        {
+          "name": "Dj Juninho Mpc",
+          "url": "https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Pimenta",
+      "url": "https://open.spotify.com/track/0bIRYR5msUJXnheN7DYo2n"
     },
     {
       "album": {
@@ -6970,6 +7220,24 @@
     },
     {
       "album": {
+        "name": "Tapa e Beijo",
+        "url": "https://open.spotify.com/album/7BDdskj0lckubMwri7LZZ7"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167288,
+      "name": "Tapa e Beijo",
+      "url": "https://open.spotify.com/track/2W5GRfs9BFD5ZSraINV2wU"
+    },
+    {
+      "album": {
         "name": "TATTOO NA CARA",
         "url": "https://open.spotify.com/album/5OaLYkm6vsgpxwkYbHLIRz"
       },
@@ -7325,6 +7593,24 @@
       "duration_ms": 183272,
       "name": "Trem Mais Caro do Rio",
       "url": "https://open.spotify.com/track/7fnwoABxtVCW1ECX41gfU4"
+    },
+    {
+      "album": {
+        "name": "Trissy",
+        "url": "https://open.spotify.com/album/1qfWdsKcQuOPSYQiBFLZWV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Muto",
+          "url": "https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Trissy",
+      "url": "https://open.spotify.com/track/5KMLdutFcPZdCKprSpNpdt"
     },
     {
       "album": {

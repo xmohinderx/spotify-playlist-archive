@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: LEEPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,172 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,167 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

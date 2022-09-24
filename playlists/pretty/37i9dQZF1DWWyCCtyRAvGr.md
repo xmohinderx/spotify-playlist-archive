@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,027 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,173 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 49 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 50 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 
-Snapshot ID: `MTY2MzAwMDgwOSwwMDAwMDAwMDdhMjI1YmM2MTQwMjMzYTM2ZmQ2MmM3MmVlNjA1Njcy`
+Snapshot ID: `MTY2Mzk0ODAwMywwMDAwMDAwMDc1N2IwODBjMTgwOTJmNzM0ODY0OTBhNTRjMjViMGJl`

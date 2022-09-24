@@ -2,13 +2,14 @@
 
 ### [Gospel Romântico](https://open.spotify.com/playlist/37i9dQZF1DWXG4Kg5rawni)
 
-> Adoradores cantando sobre o amor\. Foto: Cassiane e Jairinho
+> Adoradores cantando sobre o amor\. Foto: Paulo Cesar Baruk
 
-66 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/07hjwL9BJ8F4GsasnO25K1)
+67 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/07hjwL9BJ8F4GsasnO25K1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 | 2022-06-14 |  |
+| [A Dois](https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [A Dois](https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T) | 3:56 | 2022-09-23 |  |
 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 | 2022-06-14 |  |
 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 | 2022-06-14 |  |
 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 | 2022-06-14 |  |

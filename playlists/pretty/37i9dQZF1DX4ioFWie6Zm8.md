@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,597 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,719 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 49 | [Folly Cagni](https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:08 |
 | 50 | [Diamano](https://open.spotify.com/track/5bcboBhwmXLozWCeqViH0Z) | [Amadou Diagne](https://open.spotify.com/artist/2zPsUVCPn1EFeswz8xzkVq) | [Introducing Amadou Diagne](https://open.spotify.com/album/5M2bXzX3xM6FSdpbsLZsrC) | 3:41 |
 | 51 | [Inigradan](https://open.spotify.com/track/1yoOkwoSLydaiSGT7wEorG) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Les Filles de Illighadad](https://open.spotify.com/album/0rl2xdgHM1Z6jodYVxgHoZ) | 3:16 |
-| 52 | [Pierrette](https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 4:12 |
+| 52 | [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 |
 | 53 | [Kiriké](https://open.spotify.com/track/5K5TnuDvCWDcbG73DHQ9Ne) | [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Makan Tounkara](https://open.spotify.com/artist/6UFQFgya6bABSt1rTzHEJp), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Kiriké](https://open.spotify.com/album/0M35JLoA9HMPVYvppsth3l) | 5:37 |
 | 54 | [Mogoya \- Acoustic](https://open.spotify.com/track/4Bpxj43W9tnmjVrOzLn8ln) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Acoustic](https://open.spotify.com/album/3WPGTvO0ryY6LRMhrR6pZE) | 4:43 |
 | 55 | [Kano](https://open.spotify.com/track/00VOLFxUiXMcWC8XVotjTm) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Cissoko Heritage](https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w) | 3:57 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 100 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 |
 | 101 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDFkNTk0ZmNiZGVlNjliMDk1MzljMmNiMDk2MTU2Mzlm`
+Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDc5ODNhMGFiNjExZmRlZWI1OTNjNzU5N2ZlZWQ5ODM1`

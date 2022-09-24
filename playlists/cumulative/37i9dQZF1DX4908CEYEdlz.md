@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Nickelback
 
-173 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
+174 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Animals](https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Animals](https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8) | 4:04 | 2022-01-14 | 2022-07-29 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-07-01 |  |
 | [Anno Satana](https://open.spotify.com/track/1iYkDXdNOzjbnOWuYPYHeO) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Anno Satana](https://open.spotify.com/album/1NlDv04JbrxfypB0XF0rSc) | 3:49 | 2022-01-14 | 2022-04-02 |
-| [As It Was](https://open.spotify.com/track/0qx8jeLEWfTApU1AGZa8Lf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [As It Was](https://open.spotify.com/album/6Qt0Z3HlexskLMnUrpMtxa) | 2:39 | 2022-05-27 |  |
+| [As It Was](https://open.spotify.com/track/0qx8jeLEWfTApU1AGZa8Lf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [As It Was](https://open.spotify.com/album/6Qt0Z3HlexskLMnUrpMtxa) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-02-18 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-14 |  |
 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 | 2022-09-02 |  |
@@ -164,6 +164,7 @@
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2022-01-14 |  |
 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 | 2022-02-25 |  |
 | [Um Grito de Paz](https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo) | [Oitão](https://open.spotify.com/artist/6DcGHTqziCAg4pkFJbJVx3) | [Um Grito de Paz](https://open.spotify.com/album/5uxY7jzlviLy7LYKIO0aeE) | 3:33 | 2022-09-02 | 2022-09-10 |
+| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 |  |
 | [Valley of Vision](https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Valley of Vision](https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4) | 2:50 | 2022-04-29 |  |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-06-11 |
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-07-29 |

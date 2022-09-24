@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-129 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+130 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bad Influence](https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I) | 2:18 | 2021-10-11 |  |
 | [Bad Man Wicked](https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:51 | 2022-08-26 |  |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2022-07-08 |
+| [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq) | 4:14 | 2022-09-23 |  |
 | [Balance](https://open.spotify.com/track/3Kt5hNbXHXF4i9Uv2lE9t3) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Balance](https://open.spotify.com/album/3dF8lDBMv9ozOybtRhQZ1n) | 4:05 | 2021-12-09 |  |
 | [Bank On It](https://open.spotify.com/track/59r8MRjv8K2rx8W3jQ5HW2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 4:36 | 2021-10-11 | 2022-07-29 |
 | [Bank On It](https://open.spotify.com/track/7862flGk6U3tiWs2m2aUzH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 4:36 | 2021-10-11 |  |
@@ -131,7 +132,7 @@
 | [Udo](https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 2:57 | 2021-10-28 | 2022-02-25 |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-03 |  |
 | [Whine](https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Whine](https://open.spotify.com/album/539PRaW5N5GFhv7YnFAMHl) | 2:59 | 2022-03-31 | 2022-06-04 |
-| [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 | 2022-02-03 |  |
+| [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 | 2022-02-03 | 2022-09-24 |
 | [Ye](https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:51 | 2021-10-11 | 2022-07-29 |
 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 | 2021-10-11 |  |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-11 |  |

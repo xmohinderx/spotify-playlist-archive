@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Wonder Years
 
-607 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+609 songs - 1 day 6 hr 35 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [CITY OF ANGELS](https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:51 | 2022-08-18 |  |
 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 | 2021-12-17 | 2022-03-11 |
 | [Clowns](https://open.spotify.com/track/0iAmdc0S5LJihKapte35CG) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Clowns](https://open.spotify.com/album/59ZGCVKwxTSe00MX1FyDY9) | 2:50 | 2022-03-31 | 2022-05-06 |
+| [Cold](https://open.spotify.com/track/7d0TdndkL65LHgha7gqP1O) | [SLUG](https://open.spotify.com/artist/6ZqOh9owUSKp6uGixrswV0) | [Continuing Growth](https://open.spotify.com/album/7Lcaez86rvpfhWqHUY9fxX) | 1:59 | 2022-09-22 |  |
 | [Collect Your Things and Run](https://open.spotify.com/track/5njT0EMk6qfyCNApVgulEh) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Collect Your Things and Run](https://open.spotify.com/album/2zdFWffpyX5dxNvWF0HEh0) | 2:37 | 2022-01-21 | 2022-02-25 |
 | [Commander Trainwreck](https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/2gcoQ0InYl6g9gjNTDuFmp) | 3:08 | 2022-09-15 |  |
 | [Compro\(de\)mise](https://open.spotify.com/track/1EtTgL3lBrNu8d82CmWN5T) | [Saturday Night Karaoke](https://open.spotify.com/artist/0f7zC2HgBY3NwLAkfGrL89) | [Dejection](https://open.spotify.com/album/3cLNnrLekSvY8Nrnr3ZSNT) | 2:20 | 2022-08-11 |  |
@@ -244,6 +245,7 @@
 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 | 2022-07-21 | 2022-09-09 |
 | [Homesick for Hope](https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 2:53 | 2021-12-17 | 2022-02-25 |
 | [Hot Boys](https://open.spotify.com/track/3WpfdMUVeY7vyp8t60JtGo) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Hot Boys](https://open.spotify.com/album/5dNjDAcHssb25WBjvo0ks2) | 3:15 | 2022-08-18 |  |
+| [How Could You](https://open.spotify.com/track/1P56DcRidNebbjAF6GbWeB) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [How Could You](https://open.spotify.com/album/0iDEt5WNvJsfU5raqJpXGH) | 2:42 | 2022-09-22 |  |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-28 | 2022-06-18 |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-12-17 | 2022-01-28 |
 | [I Cheated at Chuck E\. Cheese](https://open.spotify.com/track/5KadWdV8cCOQgJ3dok90JG) | [Ford the River](https://open.spotify.com/artist/0x1OvXPaq0eAbGEygFELa5) | [I Cheated at Chuck E\. Cheese](https://open.spotify.com/album/4Q9x3a5vow1vtBZZcF2r0i) | 3:36 | 2022-06-30 | 2022-08-12 |

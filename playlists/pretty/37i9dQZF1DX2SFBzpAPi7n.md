@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Peppertones\(페퍼톤스\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,570 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,783 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [Peppertones](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 |
+| 1 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 |
 | 2 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 |
 | 3 | [Consolation To You](https://open.spotify.com/track/7i0Z1ID0SxDW71oKO7JjK9) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [Consolation To You](https://open.spotify.com/album/7vI2dIKirgwRLqsxqtfANO) | 3:53 |
 | 4 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 |

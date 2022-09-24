@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:JAY B\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-2,392 songs - 5 day 17 hr 41 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+2,393 songs - 5 day 17 hr 44 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Experiment](https://open.spotify.com/track/2mpLC7x9F8mEdBTKyMW4Fx) | [MACOMMA](https://open.spotify.com/artist/79S9MTE3RopbHUmoZsTiKE) | [Mind, Heart](https://open.spotify.com/album/14wf9j8KudGBicgHKiQ2pH) | 4:24 | 2022-09-14 |  |
 | [EXPLOSION!](https://open.spotify.com/track/0l1wSXPiM7vSzRQQOgvjsK) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8) | [EXPLOSION!](https://open.spotify.com/album/4O730UDqTV9B4LRVtJsJai) | 1:48 | 2022-06-13 | 2022-06-19 |
 | [EXS](https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 2:34 | 2022-07-07 | 2022-07-20 |
-| [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [Peppertones](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 |  |
+| [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 |  |
 | [Eyes & Lips](https://open.spotify.com/track/0uROxYvulGWKBRMrss7HUR) | [FOOL IN THE POOL](https://open.spotify.com/artist/0t3tdvuFolwBWVO5azzqqk) | [Flowering](https://open.spotify.com/album/1ZJIW5OQGZC3Cb6EScdoP5) | 2:59 | 2022-05-17 | 2022-05-31 |
 | [Eyes On You](https://open.spotify.com/track/3yOyty5tQ3FDVZrIQJ1nbg) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Eyes On You \- The 4th Album](https://open.spotify.com/album/4CFsmLIXA8NRSmcV4eyDcc) | 3:13 | 2022-09-08 |  |
 | [Fad3d \(Feat\. David Shawty\)](https://open.spotify.com/track/0jskAlemCx9IYCkJkDrIkr) | [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1), [David Shawty](https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk) | [Fad3d](https://open.spotify.com/album/1ZZ6f8jIgtFptneqwsZYBe) | 2:24 | 2022-05-02 | 2022-05-10 |
@@ -1173,6 +1173,7 @@
 | [Like the Earth circles](https://open.spotify.com/track/0SBZz4GEuXkcr1hpmvPyoZ) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Like the Earth circles](https://open.spotify.com/album/6faLvAnAa4i5arzsE1Mvtw) | 3:20 | 2022-05-30 | 2022-06-14 |
 | [Like The Moon](https://open.spotify.com/track/7t0kcgP9m9B6C6OYHc9AlL) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Like The Moon](https://open.spotify.com/album/5mafdPxHeyQqwam1IfCcP2) | 2:39 | 2022-09-14 |  |
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2022-05-22 | 2022-06-10 |
+| [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 | 2022-09-23 |  |
 | [Link](https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs) | 3:39 | 2022-07-12 | 2022-07-28 |
 | [Listen](https://open.spotify.com/track/2jL5xA9FZ6zSDrcs6oN7q6) | [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [Don't let her know about his death \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/0aq1s8VohaT2dUHBp2yBwl) | 4:06 | 2022-06-27 | 2022-07-05 |
 | [Listen to me](https://open.spotify.com/track/77fnGBeu6CCn9zrNbUNLzK) | [Song Min Kyung](https://open.spotify.com/artist/1yLEsEryx3a0UMg0h7GE2X) | [Listen to me](https://open.spotify.com/album/3rgmeZyZ8R5JDJ5SBnnmMH) | 3:28 | 2022-07-18 | 2022-08-10 |

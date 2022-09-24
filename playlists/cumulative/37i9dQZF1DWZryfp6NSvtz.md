@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Red Hot Chili Peppers
 
-1,988 songs - 4 day 17 hr 31 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,990 songs - 4 day 17 hr 38 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,7 @@
 | [I Just Want That Movie Ending](https://open.spotify.com/track/26wbsjbBrWrEDGWsuMNXGk) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [I Just Want That Movie Ending](https://open.spotify.com/album/1hLNThy6I1yvXw0bCBsTwm) | 4:30 | 2022-03-18 | 2022-03-25 |
 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 | 2022-09-15 | 2022-09-23 |
 | [I JUST WON’T CARE](https://open.spotify.com/track/0BhpMWlDaG0zAfI5nTuBqf) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:26 | 2022-06-02 | 2022-06-10 |
+| [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-09-22 |  |
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-03-31 | 2022-04-08 |
 | [I Love This Part](https://open.spotify.com/track/4wy91vbmH7EGY0q8qrUjTX) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [I Love This Part](https://open.spotify.com/album/4dwxRRxH7No8fqNlMG3qMF) | 3:02 | 2022-03-24 | 2022-04-01 |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-17 | 2022-02-25 |
@@ -1216,7 +1217,7 @@
 | [Nothing Lost](https://open.spotify.com/track/7itgqGobJcA2aThzxczoxs) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Silverline](https://open.spotify.com/album/4LjeOTuZWmXuFbIfbOK6pb) | 3:47 | 2022-07-29 | 2022-08-06 |
 | [Nothing Over Me](https://open.spotify.com/track/45iD3H0OsBExOeM9LIoijx) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Melodoria](https://open.spotify.com/album/7klJTPK4lQuMHaNnUDizPD) | 3:26 | 2022-02-17 | 2022-02-25 |
 | [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-19 | 2022-05-27 |
-| [Nowhere To Go](https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Blink Twice](https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF) | 3:41 | 2022-09-22 |  |
+| [Nowhere To Go](https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF) | 3:41 | 2022-09-22 |  |
 | [Nullify](https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Nullify](https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ) | 3:19 | 2022-06-23 | 2022-07-01 |
 | [Nuns, Guns & Cowboys](https://open.spotify.com/track/0HUdKAx0FIjdCtDFUhEt0I) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Nuns, Guns & Cowboys](https://open.spotify.com/album/38TzuUfiMcBRQMPE83ZNlk) | 2:57 | 2022-01-13 | 2022-01-21 |
 | [Oblivion!](https://open.spotify.com/track/1vA40enRS52KxCAB17JjzY) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/3IWPc1hdjbhEG558lzULE3) | 3:20 | 2022-02-10 | 2022-02-25 |
@@ -1828,7 +1829,8 @@
 | [Unsaid](https://open.spotify.com/track/5IE22PXeE1MvycfdOGX9dG) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Unsaid](https://open.spotify.com/album/3vjslnHAw36HG80YWAhos1) | 3:43 | 2022-01-06 | 2022-01-14 |
 | [Unspeakable Things](https://open.spotify.com/track/0e4H6B13VbbWCiZyavZUx4) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Unspeakable Things](https://open.spotify.com/album/1l0vtXEKDgEXCiJTT6ni8O) | 3:29 | 2022-08-12 | 2022-08-17 |
 | [Unspeakable Things](https://open.spotify.com/track/26ntTyXWuJDow30dEsFTz3) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:29 | 2022-08-12 | 2022-08-20 |
-| [Unstuck](https://open.spotify.com/track/75FRH7HFEPgcRsDDqNmtpG) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/30sjwHarJgqD6UyGCLNy16) | 3:45 | 2022-09-22 |  |
+| [Unstuck](https://open.spotify.com/track/1yENKnRoefAwgTySLaMWEu) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 3:45 | 2022-09-22 |  |
+| [Unstuck](https://open.spotify.com/track/75FRH7HFEPgcRsDDqNmtpG) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/30sjwHarJgqD6UyGCLNy16) | 3:45 | 2022-09-22 | 2022-09-24 |
 | [Until the Kingdom Comes](https://open.spotify.com/track/3bsCPqkiodv0IofyhizIqM) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Until the Kingdom Comes](https://open.spotify.com/album/5FxIbHwySwwe8oIuNoDSbL) | 5:23 | 2022-09-15 | 2022-09-23 |
 | [Up](https://open.spotify.com/track/2wzNQYX6veNM0AJncAV75v) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Up](https://open.spotify.com/album/7KkBf3sycZA0JKnxOXEktz) | 2:49 | 2022-03-18 | 2022-03-25 |
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-02-17 | 2022-02-25 |

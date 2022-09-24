@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679,469 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,089 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 
 ### [The 2022 Latin GRAMMYs Nominees](https://open.spotify.com/playlist/37i9dQZF1DWYNJw9kXuSCt)
 
-> These are nominees for the 2022 Latin GRAMMYs.
+> These are the nominees for the 2022 Latin GRAMMYs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 149 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 149 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 | 148 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
 | 149 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 
-Snapshot ID: `MTY2Mzc5ODY3NiwwMDAwMDAwMDg4NzVjYjQxMjU1NGMyMzVkODRjZWRkYjUwMmExYmE3`
+Snapshot ID: `MTY2Mzk0NDk2OCwwMDAwMDAwMDdlY2UwMDRmZjI4M2ZjM2QwYzc4YjY5ODY4NTJmNTIw`

@@ -1,12 +1,12 @@
 {
-  "description": "Funk. But heavier. Cover: King's X",
-  "num_followers": 448741,
+  "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
+  "num_followers": 448828,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDc4OGEzYmI5YTdkMGEyMmIxMWQ3Mzg0MTk5OTU0ZjE0",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDFkZmVlZDA3NThhOWU2YmNmNjRhY2IwOTMyYWYzZjk3",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2aGGCoiMtFv8pJI5AQvVRN"
+      },
+      "artists": [
+        {
+          "name": "Dustbowl Revival",
+          "url": "https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5WUfeLKM62vFVd0SxBCtxj"
+    },
+    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Vivid (Expanded Edition)",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "Eddie",
+      "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
+    },
+    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Renegades",
@@ -107,38 +139,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Transistor",
-        "url": "https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Beautiful Disaster",
-      "url": "https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Transistor",
+        "url": "https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Beautiful Disaster",
+      "url": "https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -187,6 +203,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -199,38 +231,6 @@
       "duration_ms": 216733,
       "name": "John The Fisherman",
       "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "311",
-        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "All Mixed Up",
-      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 336440,
-      "name": "Take The Power Back",
-      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "311",
+        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "All Mixed Up",
+      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 336440,
+      "name": "Take The Power Back",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -347,18 +379,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+        "name": "Good God's Urge",
+        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
+      "duration_ms": 227160,
+      "name": "Tahitian Moon",
+      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -379,18 +411,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Good God's Urge",
-        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
       "artists": [
         {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 227160,
-      "name": "Tahitian Moon",
-      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -411,18 +443,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -503,22 +535,6 @@
       "duration_ms": 210360,
       "name": "Courage",
       "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Suck My Kiss",
-      "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -669,22 +685,6 @@
       "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Tommy The Cat",
-      "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Perspective",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Tommy The Cat",
+      "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -731,6 +747,22 @@
       "duration_ms": 259026,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
+        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 224379,
+      "name": "Shakey Ground",
+      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -767,54 +799,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Mas Borracho",
-        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
-      },
-      "artists": [
-        {
-          "name": "Infectious Grooves",
-          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Please Excuse This Funk Up",
-      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
-        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 224379,
-      "name": "Shakey Ground",
-      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "Who Really Are the Monsters?",
-      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 285306,
       "name": "My Name Is Mud",
       "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Mas Borracho",
+        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
+      },
+      "artists": [
+        {
+          "name": "Infectious Grooves",
+          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Please Excuse This Funk Up",
+      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Street Sweeper Social Club",
-        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
       },
       "artists": [
         {
-          "name": "Street Sweeper Social Club",
-          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Clap For The Killers",
-      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+      "duration_ms": 319466,
+      "name": "Who Really Are the Monsters?",
+      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Street Sweeper Social Club",
+        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
+      },
+      "artists": [
+        {
+          "name": "Street Sweeper Social Club",
+          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Clap For The Killers",
+      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Rain Will Fall",
-      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
     }
   ],
   "unique_name": "Funk Rock",

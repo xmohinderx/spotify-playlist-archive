@@ -1,15 +1,31 @@
 {
-  "description": "Let's turn ON the movement! Cover: BLACKPINK",
-  "num_followers": 4230347,
+  "description": "Let's turn ON the movement! Cover: NMIXX",
+  "num_followers": 4233247,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY1NTkyMywwMDAwMDAwMGM0YzcwYWM1MTVhMmM1ZDRmNDJiMmUyYzZhOGUxMjk4",
+  "snapshot_id": "MTY2MzkwNjcwMywwMDAwMDAwMDEzZDEwZTIwZjIzNzMzYjI3NzBmZjIzMjFhNjJlYTNj",
   "tracks": [
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
+      "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:18:23",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Sunflower (P.E.L)",
+      "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -41,7 +73,23 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:18:23",
+      "album": {
+        "name": "MALUS",
+        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Same Scent",
+      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -57,23 +105,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "SEXY NUKIM (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -161,7 +209,23 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
+      "album": {
+        "name": "imagine club",
+        "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "ore ore",
+      "url": "https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
@@ -185,23 +249,7 @@
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
     },
     {
-      "added_at": "2022-09-20 06:38:43",
-      "album": {
-        "name": "imagine club",
-        "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "ore ore",
-      "url": "https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
@@ -217,39 +265,7 @@
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "CHECKMATE",
         "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
@@ -265,7 +281,39 @@
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
+    },
+    {
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "the Billage of perception: chapter two",
         "url": "https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
         "url": "https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR"
@@ -361,7 +409,7 @@
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
@@ -377,7 +425,7 @@
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Mixtape : Time Out",
         "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Nabillera",
         "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Hello, world!",
         "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
@@ -673,23 +721,7 @@
       "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Bare&Rare, Pt. 1",
-        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "minisode 2: Thursday's Child",
         "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
@@ -769,23 +801,7 @@
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "MOTH",
         "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:01",
       "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
@@ -831,22 +847,6 @@
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

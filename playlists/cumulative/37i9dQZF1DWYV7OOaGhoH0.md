@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Ondara
+> Explore the ever\-evolving folk & roots scene\. Cover: Maya Hawke
 
-288 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
+289 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Comes In Waves](https://open.spotify.com/track/5bLn8Dnmv1MzrQ536k5XdE) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Comes In Waves](https://open.spotify.com/album/0VWYclPPtRUK10Jx7ZfhNX) | 5:30 | 2022-06-17 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-03 |  |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2021-12-10 | 2022-02-26 |
+| [Dance with Everybody](https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Dance with Everybody](https://open.spotify.com/album/3mVV3jcal3oh3hiMmvrxgZ) | 3:30 | 2022-09-23 |  |
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2021-12-10 | 2022-06-18 |
 | [Domino](https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Domino](https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI) | 2:48 | 2021-12-10 | 2022-01-29 |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-18 | 2022-04-02 |
@@ -187,7 +188,7 @@
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-12-10 | 2022-02-05 |
 | [Pine Grove \(Madhouse\)](https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Pine Grove \(Madhouse\)](https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF) | 4:05 | 2022-01-14 | 2022-04-16 |
 | [Pitseleh](https://open.spotify.com/track/2hPZQVCP6sXwo2XMyWh6hT) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Pitseleh](https://open.spotify.com/album/2gjEpvBQsiQ0kFb0o7BTnh) | 3:40 | 2022-08-19 |  |
-| [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-03-25 |  |
+| [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-03-25 | 2022-09-24 |
 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-08-05 |  |
 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 | 2022-04-08 | 2022-06-25 |
 | [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 | 2022-07-29 |  |

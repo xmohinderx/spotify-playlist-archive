@@ -3546,6 +3546,24 @@
     },
     {
       "album": {
+        "name": "3 from the Cooler",
+        "url": "https://open.spotify.com/album/4L0lLW6MY3236mymGx5Otk"
+      },
+      "artists": [
+        {
+          "name": "Uncle Drank",
+          "url": "https://open.spotify.com/artist/2fVBWnhzew4fRlLDc9rdxf"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209797,
+      "name": "Whatever Don't Tequila (Will Make You Stronger)",
+      "url": "https://open.spotify.com/track/4wIgY6DHbdluzBqLROnKFM"
+    },
+    {
+      "album": {
         "name": "Whatever Floats Your Boat (feat. The Boat Boys)",
         "url": "https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4"
       },
@@ -3749,6 +3767,32 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "album": {

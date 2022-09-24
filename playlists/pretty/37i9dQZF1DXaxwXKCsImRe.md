@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: IBE
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,243 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,244 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 |
-| 2 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 |
+| 1 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 |
+| 2 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 |
 | 3 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 |
 | 4 | [Nothin’ to worry](https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Nothin’ to worry](https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv) | 2:42 |
-| 5 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 |
-| 6 | [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 |
-| 7 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 |
-| 8 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
-| 9 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
+| 5 | [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 |
+| 6 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 |
+| 7 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
+| 8 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
+| 9 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 |
 | 10 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 |
 | 11 | [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 |
 | 12 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 38 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 |
 | 39 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMGRmNWQ4M2U0MGZhOWFhYjgyOGI4ZTM2NDFmNDkzMTIx`
+Snapshot ID: `MTY2Mzk0MTY5OCwwMDAwMDAwMDQ5NTE3NzRiODMwMjgxYzM1NzcyNzY0NTE0Y2ZjOTNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,252 likes - 785 songs - 2 day 0 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,280 likes - 785 songs - 2 day 0 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -543,8 +543,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 533 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
 | 534 | [Los Ageless \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 4:13 |
 | 535 | [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 |
-| 536 | [I'd Rather Be With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5rlrzjYgAmxUi799A6Z5Wd) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Spotify Singles](https://open.spotify.com/album/7fxMPqE6oOmNwKMmMIOxaP) | 2:47 |
-| 537 | [Don't Think Twice It's Alright \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4yjfib7L05XTjppPcTk29t) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Spotify Singles](https://open.spotify.com/album/7fxMPqE6oOmNwKMmMIOxaP) | 3:17 |
+| 536 | [I'd Rather Be With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1DhVKEwDnsTsxGpD6SgjY5) | [Rebeudeter](https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y) | [Joshua Radin \(Spotify Singles\)](https://open.spotify.com/album/62oKyQ9ioMApSS1fhxYoIs) | 2:47 |
+| 537 | [Don't Think Twice It's Alright \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1GOwRXxYGZcUJ5TY88zk9l) | [Rebeudeter](https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y) | [Joshua Radin \(Spotify Singles\)](https://open.spotify.com/album/62oKyQ9ioMApSS1fhxYoIs) | 3:17 |
 | 538 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
 | 539 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 |
 | 540 | [All on My Mind \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3rqMuwKEoADyHIU8NUQnKW) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 3:48 |
@@ -794,4 +794,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 784 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 785 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY2MzE4Mjc2NCwwMDAwMDAwMDQ5MGMwNjU3MTkyNjQ5NjBjODNkNzQyOTQwNTI3MWY0`
+Snapshot ID: `MTY2MzE4Mjc2NCwwMDAwMDAwMGZkMmE0YzQ5M2YyZWZhZTczNDUzYzc0ZTVlNzlmY2U2`

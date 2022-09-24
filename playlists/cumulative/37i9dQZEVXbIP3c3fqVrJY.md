@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-734 songs - 1 day 13 hr 44 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+735 songs - 1 day 13 hr 47 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Stíny](https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:52 | 2021-11-20 |  |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2021-03-27\* | 2021-05-03 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-25 | 2021-09-03 |
-| [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-02-22 |  |
+| [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-02-22 | 2022-09-24 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-06-12 |
 | [Svatební materiál](https://open.spotify.com/track/3r1Daj1GAwfUUIGjSUGRI2) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [Mishala Orth](https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:40 | 2022-06-14 | 2022-06-30 |
 | [Svaz českých bohémů](https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy) | [Wohnout](https://open.spotify.com/artist/0ZDbrXYXNaO94VjgXjdFh7) | [Našim klientům](https://open.spotify.com/album/51cRAfvSPuvSkNwZvrpxfb) | 4:16 | 2021-03-27\* | 2022-09-20 |
@@ -655,6 +655,7 @@
 | [U wish](https://open.spotify.com/track/1ev8LQb7reElKJQ9FweyKt) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 3:01 | 2021-06-09 | 2021-06-13 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-31 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-11-30 | 2021-12-27 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 |  |
 | [UNIKLI OSUDU](https://open.spotify.com/track/5RVpaJ69zRKkaU1sCs8pBh) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 4:43 | 2021-12-16 | 2021-12-17 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |
 | [Už sme tu](https://open.spotify.com/track/6mEWriW2g398O3LjBV4VOz) | [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N), [Illja](https://open.spotify.com/artist/2Oa4JblokJ8s8wdlqprlbL) | [SUDETY SOLDIERZZ](https://open.spotify.com/album/1O1pd6MnZsOiDhxzmKjAdO) | 3:00 | 2021-03-27\* | 2021-03-27 |

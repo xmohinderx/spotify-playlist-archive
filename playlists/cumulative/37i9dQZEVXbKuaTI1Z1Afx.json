@@ -6509,7 +6509,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168117,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
@@ -10172,6 +10172,24 @@
     },
     {
       "album": {
+        "name": "Oxford Circus",
+        "url": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
+      },
+      "artists": [
+        {
+          "name": "Frex",
+          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152019,
+      "name": "Oxford Circus",
+      "url": "https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -10897,7 +10915,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 163910,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
@@ -14865,6 +14883,24 @@
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
+    },
+    {
+      "album": {
+        "name": "Kat & Alex Side A",
+        "url": "https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "We Bought a House",
+      "url": "https://open.spotify.com/track/4pgqroWa7MsQ8ghnTYxBzy"
     },
     {
       "album": {

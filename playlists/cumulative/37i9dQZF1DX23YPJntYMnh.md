@@ -2,9 +2,9 @@
 
 ### [Funk Rock](https://open.spotify.com/playlist/37i9dQZF1DX23YPJntYMnh)
 
-> Funk\. But heavier\. Cover: King's X
+> Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-102 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+104 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2020-01-08 |  |
 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 | 2020-01-08 |  |
 | [Drifting Away](https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Drifting Away](https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9) | 3:30 | 2022-02-04 | 2022-04-21 |
+| [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-23 |  |
 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 | 2020-01-08 |  |
 | [Fire](https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Mother's Finest](https://open.spotify.com/album/2u7SLLZRvtRIPcKnYjMj0H) | 4:07 | 2020-01-08 | 2022-07-29 |
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2020-01-08 |  |
@@ -71,8 +72,9 @@
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-08-20 |
 | [Preacher](https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Preacher](https://open.spotify.com/album/4SyVePkSezv4jAwvV4HBxQ) | 3:43 | 2022-02-04 | 2022-04-20 |
 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 | 2020-01-08 |  |
-| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 |  |
+| [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 | 2020-01-08 | 2022-09-24 |
 | [Renegades Of Funk](https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 4:34 | 2020-01-08 |  |
+| [Set Me Free](https://open.spotify.com/track/5WUfeLKM62vFVd0SxBCtxj) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Set Me Free](https://open.spotify.com/album/2aGGCoiMtFv8pJI5AQvVRN) | 4:40 | 2022-09-23 |  |
 | [Sever](https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Soundsystem](https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ) | 4:43 | 2020-01-08 |  |
 | [Sexy Tonight](https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 3:35 | 2022-02-04 | 2022-04-21 |
 | [Shakey Ground](https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx](https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y) | 3:44 | 2020-01-08 |  |
@@ -85,7 +87,7 @@
 | [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 | 2020-01-08 |  |
 | [Stranger Danger](https://open.spotify.com/track/7ux8QzKcPzGVndWzxLsylm) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/0z0xqxYikBEXsDOr2CsEHV) | 4:10 | 2022-07-08 | 2022-07-29 |
 | [Stranger Danger \(In The Streets Of Life\)](https://open.spotify.com/track/1s01iznKh85A0zJ3Yy3hsI) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/6Hd2U9xPomEmLfKHekr9pG) | 4:06 | 2022-07-08 | 2022-08-30 |
-| [Suck My Kiss](https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 3:37 | 2020-01-08 |  |
+| [Suck My Kiss](https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 3:37 | 2020-01-08 | 2022-09-24 |
 | [Summer Romance \(Anti\-Gravity Love Song\)](https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 4:25 | 2020-01-08 |  |
 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 | 2020-01-08 |  |
 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 | 2020-01-08 |  |

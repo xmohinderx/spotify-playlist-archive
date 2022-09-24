@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Lewis Capaldi
 
-383 songs - 20 hr 44 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+384 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,8 @@
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2022-08-11 | 2022-09-09 |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-24 | 2022-07-29 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-22 |  |
-| [Unstuck](https://open.spotify.com/track/75FRH7HFEPgcRsDDqNmtpG) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/30sjwHarJgqD6UyGCLNy16) | 3:45 | 2022-09-22 |  |
+| [Unstuck](https://open.spotify.com/track/1yENKnRoefAwgTySLaMWEu) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 3:45 | 2022-09-22 |  |
+| [Unstuck](https://open.spotify.com/track/75FRH7HFEPgcRsDDqNmtpG) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/30sjwHarJgqD6UyGCLNy16) | 3:45 | 2022-09-22 | 2022-09-24 |
 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 | 2022-09-15 |  |
 | [Up To Something](https://open.spotify.com/track/1GcVyRrHS4g76on0l09DpX) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Up To Something](https://open.spotify.com/album/5m6zW9ofJz4uH2ZLfdlx8H) | 3:32 | 2022-07-07 | 2022-07-22 |
 | [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 | 2022-05-26 | 2022-06-03 |

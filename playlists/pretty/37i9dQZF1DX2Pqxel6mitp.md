@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,154 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,256 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 74 | [Cigarettes, Whiskey And Wild, Wild Women](https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [The Best Of Delta Records](https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee) | 3:00 |
 | 75 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 |
 
-Snapshot ID: `MTY2MzAwMDc2MywwMDAwMDAwMDU2OGMwOWI5MjdmMjQyNDM3ZTgxZGQ2YjVlZjUwOTAy`
+Snapshot ID: `MTY2Mzk0Nzk4OCwwMDAwMDAwMDQ4Zjc5NjY1MjRkYmJkZmJjZGMyZGFiNGZhMTBkNTYw`

@@ -2,9 +2,9 @@
 
 ### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
-> Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
+> Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-158 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+159 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [DOOMCHITA](https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [DOOMCHITA](https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT) | 3:17 | 2022-06-17 |  |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-30 | 2022-04-08 |
+| [every day good day \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7vefqP96ftCQg7qB6Ha0NJ) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 2:47 | 2022-09-23 |  |
 | [Excuses](https://open.spotify.com/track/41xVl4Xpbmgb1u5ypTNuZi) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Excuses](https://open.spotify.com/album/2DfyWdoLS1GO89aUyh05WJ) | 3:16 | 2022-04-20 | 2022-07-05 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-05 | 2022-09-20 |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-30 | 2022-04-19 |
@@ -137,7 +138,7 @@
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-12-30 | 2022-01-07 |
 | [STAY](https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [STAY](https://open.spotify.com/album/5GNd4MdJkmm3EoZ6DjXDMI) | 3:22 | 2021-12-30 | 2022-04-21 |
 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-12-30 | 2022-02-23 |
-| [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-09-19 |  |
+| [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-09-19 | 2022-09-24 |
 | [Sweater](https://open.spotify.com/track/1SnR1IiRx2dUJcRwGYNvg5) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Sweater](https://open.spotify.com/album/1tB4AOQQy6NWdHqGAXbkVD) | 3:03 | 2021-12-30 | 2022-02-11 |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2022-07-04 |  |
 | [Tales of the Unusual \- Feedback Version](https://open.spotify.com/track/3aP9CAC5aoXPlHsmdsFSj3) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [Tales of the Unusual](https://open.spotify.com/album/3xvUAslKb1sSJBf0gmszPc) | 3:35 | 2022-04-20 | 2022-05-27 |

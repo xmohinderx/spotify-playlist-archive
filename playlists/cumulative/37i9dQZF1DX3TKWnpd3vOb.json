@@ -1080,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "Elijo Soledad",
+        "url": "https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267271,
+      "name": "Elijo Soledad",
+      "url": "https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq"
+    },
+    {
+      "album": {
         "name": "Los Bunkers",
         "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
       },
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 211200,
       "name": "Rockola",
       "url": "https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS"

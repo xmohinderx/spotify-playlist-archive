@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+71 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,12 @@
 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2022-09-16 |  |
 | [Liberation](https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT) | [Youen](https://open.spotify.com/artist/6Z530sfX5CGmUXV3VKRfHO) | [Plastic City Radio Show Season Eight \(Hosted by Youen & Patrick Podage\)](https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l) | 7:26 | 2022-09-16 |  |
 | [Love And Forgive](https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [Love And Forgive](https://open.spotify.com/album/03SCD6AOiVJEeA6GkvfY2N) | 4:50 | 2022-09-16 |  |
-| [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-09-16 |  |
+| [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-09-16 | 2022-09-24 |
 | [Mad Hatter](https://open.spotify.com/track/1nDoesWvttKVaXzQqOEemh) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Make Noize](https://open.spotify.com/album/61HNZs91hJFkariSZTulnH) | 6:22 | 2022-09-16 |  |
 | [Marionette](https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Marionette](https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E) | 11:22 | 2022-09-16 |  |
+| [Massive Bells](https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD) | [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Marco Zaffarano](https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY) | [Massive Bells](https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT) | 3:48 | 2022-09-23 |  |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2022-09-16 |  |
-| [Message from Beyond \- Spotify Edit](https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M) | [Message from Beyond](https://open.spotify.com/album/5h2TsgSBUppCzU3h4xBTtU) | 3:39 | 2022-09-16 |  |
+| [Message from Beyond \- Spotify Edit](https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M) | [Message from Beyond](https://open.spotify.com/album/5h2TsgSBUppCzU3h4xBTtU) | 3:39 | 2022-09-16 | 2022-09-24 |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2022-09-16 |  |
 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 | 2022-09-16 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2022-09-16 |  |
@@ -61,6 +62,7 @@
 | [Silence](https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Silence](https://open.spotify.com/album/0btwONgCRI9Hu05O2vXsrE) | 8:11 | 2022-09-16 |  |
 | [Since we met \- Club Mix](https://open.spotify.com/track/37XgAvXPSzS8lKQkmYyI6b) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [Since we met](https://open.spotify.com/album/0VoNfJMeiTcWO6AwHQgbrG) | 6:19 | 2022-09-16 |  |
 | [Sinner \- Edit](https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8) | 4:15 | 2022-09-16 |  |
+| [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 | 2022-09-23 |  |
 | [So Cold](https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy) | [Emmanuel Top](https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA) | [So Cold](https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N) | 7:21 | 2022-09-16 |  |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 | 2022-09-16 |  |
 | [Soopertrack](https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Extra Welt Hits](https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE) | 8:02 | 2022-09-16 |  |

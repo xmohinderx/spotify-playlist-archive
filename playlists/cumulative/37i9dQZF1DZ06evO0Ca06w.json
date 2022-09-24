@@ -984,24 +984,6 @@
     },
     {
       "album": {
-        "name": "The Guinea Years",
-        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "date_added": "2021-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216266,
-      "name": "Malouyame",
-      "url": "https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx"
-    },
-    {
-      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
       },
@@ -1183,6 +1165,24 @@
       "duration_ms": 243120,
       "name": "Moulouyame",
       "url": "https://open.spotify.com/track/2s7fBGYvJaTFoBq28Vl2v5"
+    },
+    {
+      "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Mo\u00f4louyame",
+      "url": "https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx"
     },
     {
       "album": {

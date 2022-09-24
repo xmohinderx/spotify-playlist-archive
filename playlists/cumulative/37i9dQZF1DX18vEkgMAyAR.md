@@ -4,7 +4,7 @@
 
 > Your everyday pick\-me\-up playlist.
 
-60 songs - 3 hr 21 min - not published yet
+60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/5Pm0B7sqCCxC5d2UrRo9Dc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

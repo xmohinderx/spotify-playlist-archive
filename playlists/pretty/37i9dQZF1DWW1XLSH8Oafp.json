@@ -1,28 +1,72 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring FOURA",
-  "num_followers": 185116,
+  "description": "ur on the list bb \ud83e\ude90 featuring venbee",
+  "num_followers": 185281,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNzkwMCwwMDAwMDAwMGU1MzRkOTUwYTIwYzcyM2I5YzM2Yzc2NGFjMzliYzcy",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDJjNThkMWU0NWMxNWY4YTY1M2MxZDY1MTc0ODM1ZmYx",
   "tracks": [
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz"
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
       "artists": [
         {
-          "name": "FOURA",
-          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL"
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "on & on",
+        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "54321",
+        "url": "https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "54321",
+      "url": "https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -45,20 +89,40 @@
       "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
     },
     {
-      "added_at": "2022-09-16 08:45:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH"
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz"
       },
       "artists": [
         {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
         }
       ],
-      "duration_ms": 161800,
-      "name": "Overgrown",
-      "url": "https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv"
+      "duration_ms": 196363,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mr Universe (feat. General Levy)",
+        "url": "https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD"
+      },
+      "artists": [
+        {
+          "name": "Willow Kayne",
+          "url": "https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Mr Universe (feat. General Levy)",
+      "url": "https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy"
     },
     {
       "added_at": "2022-09-14 21:43:59",
@@ -75,6 +139,54 @@
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Go Ahead",
+        "url": "https://open.spotify.com/album/4VIOjgUzMTvsQ8ZhubK2MB"
+      },
+      "artists": [
+        {
+          "name": "Downhill2k01",
+          "url": "https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/6iA0zMB7nFWf7sEUzIEXlZ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Realidad",
+        "url": "https://open.spotify.com/album/2GolXIvl9Atknn5L2Y35yQ"
+      },
+      "artists": [
+        {
+          "name": "navxja",
+          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "Realidad",
+      "url": "https://open.spotify.com/track/3teWLRskw95cFiQv1wOno4"
+    },
+    {
+      "added_at": "2022-09-16 08:45:00",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -161,28 +273,24 @@
       "url": "https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "on & on",
-        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+        "name": "In The Calm",
+        "url": "https://open.spotify.com/album/0VYu7fpG7YAL9l73E6y9M7"
       },
       "artists": [
         {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
         },
         {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+          "name": "Aamourocean",
+          "url": "https://open.spotify.com/artist/45XImXCRH7XiKTOINsqTd1"
         }
       ],
-      "duration_ms": 135013,
-      "name": "on & on",
-      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+      "duration_ms": 290660,
+      "name": "In the Calm",
+      "url": "https://open.spotify.com/track/6BxvOQ9CtW8MQTPEpHELpv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -257,20 +365,20 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "54321",
-        "url": "https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z"
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
       },
       "artists": [
         {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
         }
       ],
-      "duration_ms": 140011,
-      "name": "54321",
-      "url": "https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q"
+      "duration_ms": 228609,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -455,22 +563,6 @@
       "duration_ms": 304714,
       "name": "DESIIRE",
       "url": "https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "How\u2019d You Go out Like That",
-        "url": "https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "How\u2019d You Go out Like That",
-      "url": "https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -673,22 +765,6 @@
       "url": "https://open.spotify.com/track/3QYeBUd9Dqpip2kTuECDQ3"
     },
     {
-      "added_at": "2022-07-26 20:25:27",
-      "album": {
-        "name": "SNKRX010",
-        "url": "https://open.spotify.com/album/26BKHxppgBzptm8xav2tdy"
-      },
-      "artists": [
-        {
-          "name": "Cocktail Party Effect",
-          "url": "https://open.spotify.com/artist/4QJ9l39vFGrG8dtJzOp3Zb"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "58bethe7",
-      "url": "https://open.spotify.com/track/4AoY7FQ1IbsFvacBPTMEwg"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Buffalo Skank",
@@ -853,38 +929,6 @@
       "url": "https://open.spotify.com/track/2c38TS3oYyfLe7jkLFG9A7"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 276695,
-      "name": "Can Do This",
-      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "over it",
-        "url": "https://open.spotify.com/album/68gpsZTqeX5gQBkIUYxVmO"
-      },
-      "artists": [
-        {
-          "name": "TURQUOISEDEATH",
-          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "over it",
-      "url": "https://open.spotify.com/track/7mvqLMloTy9sQww0CREaVw"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "No Negativity",
@@ -985,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5NJQNKmSMsZgkAE6QjOYS5"
     },
     {
-      "added_at": "2022-08-12 14:25:41",
-      "album": {
-        "name": "machine.learning",
-        "url": "https://open.spotify.com/album/73K1RMVHrp3XpLbPd0nCKU"
-      },
-      "artists": [
-        {
-          "name": "yion",
-          "url": "https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "catacomb.s",
-      "url": "https://open.spotify.com/track/1wA4rXrheZwpJkvC6JmexY"
-    },
-    {
       "added_at": "2022-07-11 18:17:24",
       "album": {
         "name": "sunder",
@@ -1083,22 +1111,6 @@
       "duration_ms": 286898,
       "name": "In my restless dreams",
       "url": "https://open.spotify.com/track/7ABRoH86hTrLEQmh1HimRH"
-    },
-    {
-      "added_at": "2022-08-12 14:25:41",
-      "album": {
-        "name": "MY VOICE MY WEAPON OF CHOICE",
-        "url": "https://open.spotify.com/album/1wnWYFIRM8UmWB56ONiOSw"
-      },
-      "artists": [
-        {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        }
-      ],
-      "duration_ms": 343783,
-      "name": "BREAKFREE",
-      "url": "https://open.spotify.com/track/6OY9l4YUOyaDCMHI51PCqB"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1283,22 +1295,6 @@
     {
       "added_at": "2022-06-10 14:44:12",
       "album": {
-        "name": "you're a parasite",
-        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "you're a parasite",
-      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
-    },
-    {
-      "added_at": "2022-06-10 14:44:12",
-      "album": {
         "name": "Num\u00e9ro LDN",
         "url": "https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO"
       },
@@ -1363,26 +1359,6 @@
       "duration_ms": 111934,
       "name": "Long Time No See",
       "url": "https://open.spotify.com/track/0Tm7G3FNuVfUgeJ4SzPIAQ"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "t-mix",
-        "url": "https://open.spotify.com/album/4IHM3NRzz1b6g9qsO5M583"
-      },
-      "artists": [
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        },
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 189930,
-      "name": "shell",
-      "url": "https://open.spotify.com/track/2FUUXKc681PUENWYRsL3f6"
     },
     {
       "added_at": "2022-04-29 12:39:06",
@@ -1601,22 +1577,6 @@
       "url": "https://open.spotify.com/track/73CtiacNpS3I2CzNwrY5qP"
     },
     {
-      "added_at": "2021-08-12 18:39:34",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
-      },
-      "artists": [
-        {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
-        }
-      ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "I Hate You I Love You",
@@ -1767,22 +1727,6 @@
       "duration_ms": 245472,
       "name": "home",
       "url": "https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Luv Like",
-        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Luv Like",
-      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
     }
   ],
   "unique_name": "planet rave",

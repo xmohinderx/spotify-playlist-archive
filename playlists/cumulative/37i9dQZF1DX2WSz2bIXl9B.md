@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
-> Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Maldito Bollodrama
+> Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Terrores Nocturnos
 
 0 song - 0 sec - [published](https://open.spotify.com/playlist/20NDq7mbWQpi1h0EeJdKDh)
 

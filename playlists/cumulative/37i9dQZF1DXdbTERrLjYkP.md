@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Katherine Li
 
-265 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+266 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 | 2022-03-18 | 2022-07-02 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-07-09 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-11 | 2022-07-09 |
+| [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 | 2022-09-23 |  |
 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 |  |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 |  |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
@@ -245,7 +246,7 @@
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 | 2022-09-16 |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-05-20 |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2022-09-02 |  |
-| [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 | 2022-04-22 |  |
+| [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 | 2022-04-22 | 2022-09-24 |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 |  |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 |  |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |

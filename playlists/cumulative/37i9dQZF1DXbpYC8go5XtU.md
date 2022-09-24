@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-147 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+149 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 | 2021-12-22 |  |
 | [Imaginary Soundscape II, Postcard Four](https://open.spotify.com/track/2lE2t3noIZ1WBa1Ekf4qcx) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:09 | 2021-12-22 |  |
 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 | 2021-12-22 |  |
+| [Immerse](https://open.spotify.com/track/59pY24i8At7QE6hH75ag0i) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL), [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Immerse](https://open.spotify.com/album/4lSgERc8JliAQCG0LMfS3X) | 4:25 | 2022-09-23 |  |
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 |  |
 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
@@ -106,6 +107,7 @@
 | [Ruins](https://open.spotify.com/track/6fFAivepn154Gr6QGet6RT) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/7iW4kZa3sPooLX2VzgCVVe) | 1:58 | 2021-12-22 | 2022-07-29 |
 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 | 2021-12-22 |  |
 | [Sanctuary](https://open.spotify.com/track/2PQTnZLzgd4V0oU9zgcTOW) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 5:05 | 2021-12-22 |  |
+| [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 |  |
 | [Silent Lake](https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Silent Lake](https://open.spotify.com/album/6X3gMefUTyakZ9WigRsPo3) | 5:09 | 2021-12-22 | 2022-07-29 |
@@ -153,7 +155,7 @@
 | [Zen Garden](https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:12 | 2021-12-22 |  |
 | [妙なる流れ](https://open.spotify.com/track/1pNWuhzSXaaSi1riaWCW91) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/7IIIz33snPkVQQtI4imuqJ) | 7:21 | 2022-07-08 | 2022-08-13 |
 | [妙なる流れ](https://open.spotify.com/track/2sqR87ltjSZXdvBofA7R1n) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/72cIdL4xCHj4NXSGQYjo0w) | 7:21 | 2021-12-22 | 2022-07-29 |
-| [気持ちを感ずる](https://open.spotify.com/track/7E0Dckv7CwrCybsPOcKwnN) | [Dreamy Music](https://open.spotify.com/artist/7bPhP47QpD0NZb9sA66TUm) | [自分と向き合う瞑想](https://open.spotify.com/album/2JQv9e6cJHdH0mu4z56aq2) | 7:45 | 2021-12-22 |  |
+| [気持ちを感ずる](https://open.spotify.com/track/7E0Dckv7CwrCybsPOcKwnN) | [Dreamy Music](https://open.spotify.com/artist/7bPhP47QpD0NZb9sA66TUm) | [自分と向き合う瞑想](https://open.spotify.com/album/2JQv9e6cJHdH0mu4z56aq2) | 7:45 | 2021-12-22 | 2022-09-24 |
 | [目覚めの時](https://open.spotify.com/track/6KdPYneC5b5UVck4p7RZia) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [アロマセラピストがすすめる美しく眠るヒーリング・アロマ 〜朝の目覚めを気持ちよく](https://open.spotify.com/album/6RefLGyt0wgm2qdn2aCxXG) | 6:02 | 2021-12-22 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

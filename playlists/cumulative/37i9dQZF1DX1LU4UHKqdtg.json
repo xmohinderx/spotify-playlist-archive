@@ -5298,6 +5298,24 @@
     },
     {
       "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177573,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx"
+    },
+    {
+      "album": {
         "name": "suit dance (Japanese ver.)",
         "url": "https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb"
       },

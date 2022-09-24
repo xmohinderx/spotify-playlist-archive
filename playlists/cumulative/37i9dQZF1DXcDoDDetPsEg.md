@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-318 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+320 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 | 2022-08-19 |  |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2022-02-25 | 2022-03-04 |
 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2022-08-23 | 2022-08-31 |
-| [4 The Win](https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [4 The Win](https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv) | 3:27 | 2022-09-22 |  |
+| [4 The Win](https://open.spotify.com/track/2ci77PsnWsDLd57Opdud6a) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [4 The Win](https://open.spotify.com/album/6vjPlRatcX5zG3vUNJO3mv) | 3:27 | 2022-09-22 | 2022-09-24 |
+| [4 The Win](https://open.spotify.com/track/78UihSJn90VSGBBES12kFL) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:27 | 2022-09-23 |  |
 | [6 Figures](https://open.spotify.com/track/5REHuumT1hFTNpDonMiqYt) | [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [6 Figures](https://open.spotify.com/album/7evdIkdwEnnxVEmKgPbBWM) | 2:00 | 2022-03-14 | 2022-03-25 |
 | [900 Degrees](https://open.spotify.com/track/2Q4Fz2QV0k3lS6JhV7qqBw) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [900 Degrees](https://open.spotify.com/album/5hMZF6TuQtgbVLYPqxZDrg) | 2:59 | 2022-03-08 | 2022-03-09 |
 | [ADCT](https://open.spotify.com/track/0yyt46kvwqTMMn6mMpSJgq) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [ADCT](https://open.spotify.com/album/6JjEUBgTzYJyXszTchYdCY) | 3:46 | 2022-03-08 | 2022-03-09 |
@@ -79,7 +80,7 @@
 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 | 2022-02-25 | 2022-03-25 |
 | [Come & Go](https://open.spotify.com/track/1jTrQnMziyawXMHjd6y4R1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Come & Go](https://open.spotify.com/album/1iOQNkFxtPkiZDYq9RZDyV) | 2:59 | 2022-03-04 | 2022-05-14 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-02-25 | 2022-03-04 |
-| [Conor McGregor](https://open.spotify.com/track/6sxbe2ZGLQ6hbBvjEdunkd) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:06 | 2022-09-22 |  |
+| [Conor McGregor](https://open.spotify.com/track/6sxbe2ZGLQ6hbBvjEdunkd) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:06 | 2022-09-22 | 2022-09-24 |
 | [Controlla](https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:05 | 2022-08-23 | 2022-08-31 |
 | [Cookie Jar](https://open.spotify.com/track/764mhTks6eJyqcKw4itUQ2) | [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [Cookie Jar](https://open.spotify.com/album/5ZeOhFGmF9wYVrlgaiVn9a) | 3:07 | 2022-08-23 | 2022-08-31 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 | 2022-09-03 |
@@ -275,6 +276,7 @@
 | [SCHWEET](https://open.spotify.com/track/0DfzXPN5s7lmX64W1oMTWJ) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [SCHWEET](https://open.spotify.com/album/1dXgfb8uvbKdGHoyRlNYqD) | 2:36 | 2022-02-25 | 2022-03-25 |
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-04-26 | 2022-06-25 |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-09 | 2022-07-08 |
+| [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:22 | 2022-09-23 |  |
 | [Shine](https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Shine](https://open.spotify.com/album/7kNpJfdJrvzVZuwWvt2w0S) | 2:33 | 2022-03-25 | 2022-04-01 |
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-04 | 2022-08-31 |
 | [Smooth \(feat\. Skillibeng\)](https://open.spotify.com/track/7vsPo8b01Cq0TR9KIguFLh) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Dirt To Bentley](https://open.spotify.com/album/2Ejg4KkJMZTtvOUbcQIGfh) | 2:57 | 2022-08-23 | 2022-08-31 |

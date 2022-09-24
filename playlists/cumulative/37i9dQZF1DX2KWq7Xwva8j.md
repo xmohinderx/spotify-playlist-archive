@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Cyril Kamer
+> Descubre hoy a los artistas de mañana\. Foto: Walls
 
-141 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+142 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 | 2022-03-31 |  |
 | [Inteligencia Emocional](https://open.spotify.com/track/15xKQcRO5wIWCcKXliNwrf) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Inteligencia Emocional](https://open.spotify.com/album/6zzK6DBHzdpfdD51FiX3w7) | 2:46 | 2022-01-06 | 2022-06-07 |
 | [Invítame a Tu Casa](https://open.spotify.com/track/2RSmvIrwCr0jiNth0kdIaN) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Casa Vargas](https://open.spotify.com/album/6tRHKz0BfNOH9e1E7JvpSh) | 3:55 | 2021-12-31 | 2022-02-25 |
-| [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 | 2022-09-22 |  |
+| [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 | 2022-09-22 | 2022-09-24 |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2021-12-31 | 2022-01-28 |
 | [Juguete Roto](https://open.spotify.com/track/67oZMxbxJNJapzQEtKaYMe) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Rorro SAD : \(](https://open.spotify.com/album/6qurkvc21oNU0i3UFXBHNK) | 3:10 | 2021-12-31 | 2022-02-25 |
 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 | 2022-09-16 |  |
@@ -84,7 +84,7 @@
 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 | 2022-06-06 |  |
 | [Me da igual](https://open.spotify.com/track/4qMuAUOsR9JXjBY3bJozwg) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Me da igual](https://open.spotify.com/album/78oy8p5RHzJqSros5EcbVJ) | 2:27 | 2021-12-31 | 2022-02-05 |
 | [Me Enamora](https://open.spotify.com/track/6SPwsGI1IMrflIj83XglJX) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe), [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Me Enamora](https://open.spotify.com/album/0J35hFeVvMTuRiklnGihyI) | 3:24 | 2022-01-27 | 2022-07-15 |
-| [me gustas mas que un bigmac](https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [me gustas mas que un bigmac](https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq) | 3:19 | 2022-03-31 |  |
+| [me gustas mas que un bigmac](https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY) | [Mafalda Cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [me gustas mas que un bigmac](https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq) | 3:19 | 2022-03-31 |  |
 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 | 2022-06-06 |  |
 | [me pide arder](https://open.spotify.com/track/5fC0z5cbGnSy1YYOvrwX4q) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [me pide arder](https://open.spotify.com/album/59hmNLcpIFBXEq9fArKAJW) | 3:22 | 2021-12-31 | 2022-02-18 |
 | [Mi Manera de Vivir](https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Mi Manera de Vivir](https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie) | 2:14 | 2022-03-31 |  |
@@ -115,6 +115,7 @@
 | [Quiero](https://open.spotify.com/track/4GN8YhYU6pi17GKmjENz32) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Quiero](https://open.spotify.com/album/2hGyXsxD7rfxrX4HYrCnuf) | 2:55 | 2021-12-31 | 2022-03-18 |
 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 | 2022-06-06 |  |
 | [raro](https://open.spotify.com/track/2MxxKlsVnSJnqYVG0BZJez) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [raro](https://open.spotify.com/album/2x01yTxxxkH2ihoC4pdMro) | 2:25 | 2021-12-31 | 2022-02-25 |
+| [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 | 2022-09-23 |  |
 | [Salao](https://open.spotify.com/track/5wuBfsWYTT6N8r4hZxahzk) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [Salao](https://open.spotify.com/album/6r0tpGvnhXY0KZSIIOMsPQ) | 3:20 | 2021-12-31 | 2022-04-01 |
 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 | 2022-06-06 |  |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-01-27 | 2022-06-07 |

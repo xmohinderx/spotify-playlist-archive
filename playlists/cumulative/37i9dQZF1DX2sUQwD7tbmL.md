@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-468 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+469 songs - 1 day 2 hr 44 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-22 |  |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2021-06-04 | 2022-04-21 |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-16 |  |
-| [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-05-01 |  |
+| [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-05-01 | 2022-09-24 |
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2022-04-13 |  |
 | [A Low](https://open.spotify.com/track/4hyAvXnUZwgOSDGf59fYTG) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/135aX76dOE47h7XVPuTzEb) | 4:03 | 2022-04-13 | 2022-04-21 |
 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2021-06-04 | 2022-04-21 |
@@ -117,6 +117,7 @@
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2022-07-22 |  |
 | [Disco](https://open.spotify.com/track/5cRaKP0bGLP9FyDTcIFhMS) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/6FFzn3wXHYaD1WOJ4nK8Xs) | 2:32 | 2021-05-01 | 2022-04-20 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2021-06-04 |  |
+| [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-23 |  |
 | [Don't Cry](https://open.spotify.com/track/6qXbp2zTI2WJSR0OV4AlJ8) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Don't Cry](https://open.spotify.com/album/1513Yt291Vh9Di4lCEzKjS) | 3:22 | 2021-05-01 | 2022-04-13 |
 | [Don't Keep Me Around](https://open.spotify.com/track/35jSR5mRjigfhzlcKX2XX1) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Don't Keep Me Around](https://open.spotify.com/album/2PFROf9YKGMZm95FHkbeAW) | 3:17 | 2021-05-01 | 2022-04-13 |
 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 | 2021-07-19 | 2022-07-23 |

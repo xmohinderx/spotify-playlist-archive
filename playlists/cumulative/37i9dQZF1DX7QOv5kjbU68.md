@@ -4,7 +4,7 @@
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-133 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5AnQ0z6STXfEkrwXRImh3q)
+134 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5AnQ0z6STXfEkrwXRImh3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-10-27 |  |
 | [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 | 2020-07-17 |  |
 | [Started From the Bottom](https://open.spotify.com/track/6V2D8Lls36APk0THDjBDfE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt) | 2:54 | 2020-07-17 | 2022-07-29 |
+| [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-09-23 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-17 |  |
 | [Still Here](https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:09 | 2020-07-17 |  |
 | [Still Here](https://open.spotify.com/track/4YJmZfvlheSziXem8HBWrj) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/0G1ffjfFuTUTVjDrVdLimH) | 3:09 | 2020-07-17 | 2022-07-29 |

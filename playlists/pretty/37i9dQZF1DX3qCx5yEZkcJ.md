@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,392 likes - 80 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,433 likes - 80 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 6 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 |
 | 7 | [Hip Shop](https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Hip Shop](https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC) | 2:03 |
 | 8 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 |
-| 9 | [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 |
+| 9 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 |
 | 10 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 |
 | 11 | [Tokyo spriff](https://open.spotify.com/track/7LpfH63D7PJvPnD69uleVj) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Tokyo spriff](https://open.spotify.com/album/7HDVHww04LgGpTGYFEq9ly) | 2:47 |
 | 12 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 |
 | 80 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 |
 
-Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMDJkY2Y0YjY2ZGZjYTQ2NzVmMmM4MjE1YmY0NDYwMTEw`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMDk2ZTRmOTIxZmNmZjZjYzNhMzk5Y2E1OTE0OGY1ZmVj`

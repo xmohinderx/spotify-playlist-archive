@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,026 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,042 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 66 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 |
 | 67 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 
-Snapshot ID: `MTY2MzMzNTIxNywwMDAwMDAwMDliMTVlODk0OWZhMzc2NTY5OWZkZWVjOWY3OWFjYzkx`
+Snapshot ID: `MTY2MzkzNDcyNiwwMDAwMDAwMDY1ZDg2MjRkYjMxNjIyOWU0N2JjYzhhZTgwZTQwN2M0`

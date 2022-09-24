@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-291 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+292 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 | 2022-07-22 | 2022-09-03 |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-17 | 2022-04-22 |
 | [Alone Again](https://open.spotify.com/track/4QwJUFKuD3lVxeZ2S2ADg6) | [Polar Moon](https://open.spotify.com/artist/1QHavDqaVSc2l4wxcYqpK4) | [As Above, So Below](https://open.spotify.com/album/4lOFRblaFlmEtNKUSSC7h3) | 2:02 | 2021-12-17 |  |
+| [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [An Eternity With You](https://open.spotify.com/track/26lMzRXcIvEZZocZwGtu7e) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [An Eternity With You](https://open.spotify.com/album/4OGr79gLRl9GuZM6e0gUfL) | 2:16 | 2021-12-17 |  |
 | [Anteayer](https://open.spotify.com/track/3OGJPptGu6VVcvrum6Nhxu) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Anteayer](https://open.spotify.com/album/58JQTw0M50HIXY8EqtQZj1) | 2:32 | 2022-04-14 | 2022-05-11 |
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2021-12-17 |  |
@@ -33,7 +34,7 @@
 | [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-22 |  |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-12-17 |  |
 | [Ballerina \- Ambient Version](https://open.spotify.com/track/6OoZfXgh8Y6V869KQMVY4e) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Ballerina](https://open.spotify.com/album/33QaWcLXPuFCDEbluuL4Nw) | 2:36 | 2021-12-17 | 2022-04-22 |
-| [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-17 |  |
+| [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-17 | 2022-09-24 |
 | [Beatific](https://open.spotify.com/track/3ggQqaU6hdn5udlJEGt5Ut) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Beatific](https://open.spotify.com/album/4reMaKYbd4T46jVORffBF4) | 3:16 | 2021-12-17 |  |
 | [Behind The Lines](https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Behind The Lines](https://open.spotify.com/album/7DzmeLoWc2QZ2DE3Q7Ctjn) | 3:48 | 2022-02-25 |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2021-12-17 | 2022-04-22 |
@@ -101,7 +102,7 @@
 | [Farscapes](https://open.spotify.com/track/7nNdp7heDrro9rYcyJKFnt) | [Milan Moux](https://open.spotify.com/artist/2Hp3fVH7ZTcfwgzq4f4Zam) | [Farscapes](https://open.spotify.com/album/5MRquANIU7AH1RshT9MpEJ) | 2:59 | 2021-12-17 |  |
 | [Feather](https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61) | [Art Decorum](https://open.spotify.com/artist/2VDTrLjZH9fCcf0lhHY3jb) | [Feather](https://open.spotify.com/album/4da6ESxj0O2SlJGLewnxmS) | 3:05 | 2021-12-17 |  |
 | [Featherlight](https://open.spotify.com/track/66ZCyyGZ3Hose7ofDcbkkd) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Featherlight](https://open.spotify.com/album/4PIrMjkaOdHB40aee4xhq6) | 3:20 | 2022-01-19 |  |
-| [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2021-12-17 |  |
+| [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2021-12-17 | 2022-09-24 |
 | [Figuratives](https://open.spotify.com/track/07FdbSr9DEzo8QjEcHB7XD) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Figuratives](https://open.spotify.com/album/1SCWwtBjWjQCkTS14TLoL4) | 2:16 | 2022-05-05 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2021-12-17 |  |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-07 |  |
@@ -203,7 +204,7 @@
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-02-15 |  |
 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 | 2021-12-17 |  |
 | [Piece of me](https://open.spotify.com/track/4bbWhn9UvxffnZEmcVarRQ) | [Orchid Rain](https://open.spotify.com/artist/12iVnS0Nbz0W1GT5VjNEkd) | [Piece of me](https://open.spotify.com/album/6mOhCrVvYJpGvVbwQGIbEe) | 3:03 | 2021-12-17 |  |
-| [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2021-12-17 |  |
+| [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 | 2021-12-17 | 2022-09-24 |
 | [Places](https://open.spotify.com/track/3OoXbnBZiWY3RHhz31zKPj) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Places](https://open.spotify.com/album/6EmGsuDo6pV86aTIeeVK99) | 3:25 | 2022-02-15 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2021-12-17 |  |
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2021-12-17 |  |
@@ -211,7 +212,7 @@
 | [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2021-12-17 |  |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-17 | 2022-09-03 |
-| [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2021-12-17 |  |
+| [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2021-12-17 | 2022-09-24 |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-02-01 |  |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-01-11 |  |
 | [Rebirth](https://open.spotify.com/track/056tXUgNyQYRYn4N3zpnQG) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:24 | 2021-12-17 |  |
@@ -234,7 +235,7 @@
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-02-01 |  |
 | [Sense of inner peace](https://open.spotify.com/track/09MlojJN5vHYhUUC56qhNB) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Sense of inner peace](https://open.spotify.com/album/511n5GvMwwIGAcq0Jiy217) | 3:18 | 2022-07-08 |  |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2021-12-17 |  |
-| [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2021-12-17 |  |
+| [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2021-12-17 | 2022-09-24 |
 | [Shimmer](https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:00 | 2021-12-17 | 2022-04-22 |
 | [Sintra](https://open.spotify.com/track/1YYNXuP0ILEv1f0fBgiTua) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Sintra](https://open.spotify.com/album/6mhMN9xQagdMhgl7FzjESb) | 2:19 | 2022-07-08 |  |
 | [Skirr](https://open.spotify.com/track/0tzo8lb0ghQsazQTkmUtss) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Skirr](https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj) | 2:30 | 2022-01-19 |  |

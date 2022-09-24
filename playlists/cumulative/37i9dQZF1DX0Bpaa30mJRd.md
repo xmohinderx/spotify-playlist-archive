@@ -4,7 +4,7 @@
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-139 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
+140 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dancing Anima](https://open.spotify.com/track/32f8ZKJqRUqIoCxWBxw0j6) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Mirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP) | 2:04 | 2022-07-23 |  |
 | [Daylife](https://open.spotify.com/track/1vbPuYhJnTrajuLJcU4HoC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:09 | 2022-06-07 |  |
 | [Days We All Have](https://open.spotify.com/track/0u0YnjJ2aHyDUXNhYREmwH) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 3:58 | 2022-07-23 |  |
-| [Dragon's Lair](https://open.spotify.com/track/1KlaCXGWjRkdK5S06E5pWw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:10 | 2022-07-23 |  |
+| [Dragon's Lair](https://open.spotify.com/track/1KlaCXGWjRkdK5S06E5pWw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:10 | 2022-07-23 | 2022-09-24 |
+| [Dragon's Lair](https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:10 | 2022-08-31 |  |
 | [Dragon's Lair](https://open.spotify.com/track/3JQGrRT5ZiRvlnTY5REDEc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:10 | 2022-06-07 | 2022-07-29 |
 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 | 2022-07-23 |  |
 | [Faces in the Rain](https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:22 | 2022-06-07 | 2022-07-29 |

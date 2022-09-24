@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 25 years of Usher's "My Way," Mariah Carey's "Butterfly" and Jon B's "COOL RELAX." Cover: Usher
+> The most essential R&B songs from the 90s\. Cover: Usher
 
 116 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/1VYI8Qigj4Sumv75JdWTOA)
 

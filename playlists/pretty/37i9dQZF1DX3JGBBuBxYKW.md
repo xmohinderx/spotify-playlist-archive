@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad, Lali & Natalia Oreiro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,825 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,874 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Vete](https://open.spotify.com/track/4BekwfLP64FbQNrp0oRA6J) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vete](https://open.spotify.com/album/6n9Z8TtDg5RrvrIPOGRYDL) | 3:49 |
 | 65 | [Olvidate](https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Martín Piña](https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g) | [Olvidate](https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW) | 3:57 |
 
-Snapshot ID: `MTY2MzI5NzIwMCwwMDAwMDAwMDA2NTY3MzIzYzFhMWRlNDEzMzU4Y2U3ZGFiZjRlMTBm`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMGIyYWEwODBkMzkyOTIzYjNlZDE5ZWMyMTA1YTkyYWE4`

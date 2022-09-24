@@ -4,7 +4,7 @@
 
 > Rock unplugged\. Cover: Wolf Alice
 
-86 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4pmqASXT6N1jKQdZeUqEyI)
+87 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4pmqASXT6N1jKQdZeUqEyI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2022-05-06 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-06-10 |  |
 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 | 2022-05-06 | 2022-07-29 |
+| [Harley Darling \- Acoustic](https://open.spotify.com/track/322f2YoWzoItz0jasljmXR) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Harley Darling \(Acoustic\)](https://open.spotify.com/album/5M0sJQ4t6ZCg57VH9kENUG) | 2:50 | 2022-09-23 |  |
 | [Heart](https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Mary \(b\-sides\)](https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC) | 3:39 | 2022-06-10 |  |
 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 | 2022-05-06 |  |
 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 | 2022-05-06 |  |
@@ -73,7 +74,7 @@
 | [Thank You \- Recorded Live At Esplanade Arts & Heritage Centre, Medicine Hat, Alberta, Canada on April 27, 2011](https://open.spotify.com/track/36QwvXHlo8kqob3AmH1Z3I) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc) | 4:48 | 2022-06-10 |  |
 | [Thank You \- Recorded Live At Esplanade Arts & Heritage Centre, Medicine Hat, Alberta, Canada on April 27, 2011](https://open.spotify.com/track/7v6fE4H5BBK5591OjJM4gz) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/20vmGTntqAQmidqhW804ar) | 4:48 | 2022-05-06 | 2022-07-29 |
 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 | 2022-05-06 |  |
-| [The Last Man On Earth \- Lullaby Version](https://open.spotify.com/track/4XZ1JejC5JIJHtbdXFCjLj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man On Earth \(Lullaby Version\)](https://open.spotify.com/album/5w753UveN4RAwUmdz5xyVK) | 4:17 | 2022-05-06 |  |
+| [The Last Man On Earth \- Lullaby Version](https://open.spotify.com/track/4XZ1JejC5JIJHtbdXFCjLj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man On Earth \(Lullaby Version\)](https://open.spotify.com/album/5w753UveN4RAwUmdz5xyVK) | 4:17 | 2022-05-06 | 2022-09-24 |
 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 | 2022-05-06 | 2022-07-19 |
 | [The Messenger](https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns \(Bonus Edition\)](https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02) | 3:01 | 2022-05-06 | 2022-07-29 |
 | [The Messenger](https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 3:01 | 2022-06-10 |  |

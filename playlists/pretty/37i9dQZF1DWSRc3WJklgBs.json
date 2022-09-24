@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1091428,
+  "num_followers": 1091851,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZkZDI1NTI5OTZkNjNlNzJhMWNlODQwOWUzOTA3OGM2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDg0N2QxM2Q3Nzc2MTdkMmU3NDJjMmQ5ZjI5ODA4ZTZj",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -3431,6 +3431,74 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 239736,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Live On Love",
+        "url": "https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        },
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Live On Love",
+      "url": "https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "One Last Time (with R3HAB)",
+        "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 155097,
+      "name": "One Last Time (with R3HAB)",
+      "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
     }
   ],
   "unique_name": "Heart Beats",

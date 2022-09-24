@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-141 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+142 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Judge](https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Judge](https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH) | 3:01 | 2022-05-29 | 2022-08-23 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2022-05-29 | 2022-06-01 |
 | [Kina Chir](https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj) | 3:36 | 2022-05-29 |  |
+| [Koka \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/7Kluc7HsLzZKAaO2sH1N1C) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Koka \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/47f2MUOb3fDwsMVgHySIP9) | 2:30 | 2022-09-23 |  |
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-05-29 | 2022-07-14 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2022-05-29 |  |
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2022-07-15 |  |
@@ -122,7 +123,7 @@
 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 | 2022-06-09 |  |
 | [Sohne Lagde](https://open.spotify.com/track/0ydyIEJ02X3kcZ6Bop6sHO) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Sohne Lagde](https://open.spotify.com/album/7CewDXnhuGm4zkEcmKZQvy) | 3:29 | 2022-05-29 |  |
 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 | 2022-05-29 |  |
-| [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 | 2022-08-01 |  |
+| [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 | 2022-08-01 | 2022-09-24 |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2022-08-05 |  |
 | [Sun Fer](https://open.spotify.com/track/44s5YGWmZoz9rKaEBXmXXp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sun Fer](https://open.spotify.com/album/0EoFnRd8PVnKQJISZIom8Y) | 3:12 | 2022-05-29 |  |
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-06-23 |  |

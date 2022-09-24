@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Mitchell Tenpenny
+> Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini
 
-560 songs - 1 day 6 hr 12 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+562 songs - 1 day 6 hr 20 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-03-27 | 2021-12-11 |
 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 | 2020-09-11 | 2020-09-26 |
 | [Halfway Fell](https://open.spotify.com/track/50AEfeAFdAyTVRA13khphv) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Halfway Fell](https://open.spotify.com/album/3F6JZdBLm29qxFt9iB8WpZ) | 3:00 | 2020-07-19 | 2020-08-01 |
+| [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-09-23 |  |
 | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2020-08-04 | 2021-01-16 |
 | [Happy Does](https://open.spotify.com/track/2v08cjj3Th8RpfJgluECcj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 2:48 | 2020-05-01 | 2021-01-16 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2022-02-25 | 2022-05-14 |
@@ -258,7 +259,7 @@
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-07-24 | 2021-11-13 |
 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 | 2022-09-16 |  |
 | [If I Didn't Love You](https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [If I Didn't Love You](https://open.spotify.com/album/6gYe3uo5YjJslbXYdSzSdf) | 3:32 | 2021-07-24 | 2021-12-04 |
-| [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-10-16 |  |
+| [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-10-16 | 2022-09-24 |
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2022-01-21 | 2022-05-28 |
 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 | 2021-12-04 | 2022-01-01 |
 | [If It Wasn’t For Trucks](https://open.spotify.com/track/4QhFrBkJ3Rqx66Xs8xwH8o) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:17 | 2021-06-12 | 2021-12-04 |
@@ -355,7 +356,7 @@
 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 | 2019-06-14 | 2019-06-30 |
 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 | 2019-05-26\* | 2019-06-22 |
 | [Nightfall](https://open.spotify.com/track/6GTgbEtWBuP27uRcK6ryQm) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:21 | 2020-01-18 | 2020-01-26 |
-| [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2022-01-21 |  |
+| [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2022-01-21 | 2022-09-24 |
 | [No I in Beer](https://open.spotify.com/track/5UMjPT47GpOwkUo6e99R3s) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [No I in Beer](https://open.spotify.com/album/2qTiPM68z9kbAcDPVqNyoG) | 3:36 | 2020-08-05 | 2020-10-10 |
 | [No One Like You](https://open.spotify.com/track/4yLToNshTGzYP9BGGmnLm3) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [No One Like You](https://open.spotify.com/album/267Q2vf1kVWpqpToJ2tBVt) | 3:00 | 2020-02-08 | 2020-03-07 |
 | [NO SAD SONGS](https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [NO SAD SONGS](https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA) | 2:52 | 2021-08-21 | 2021-10-16 |
@@ -455,6 +456,7 @@
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-08-14 | 2022-03-05 |
 | [Still Goin Down](https://open.spotify.com/track/096YtKWNRXdmYKFLelSBto) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Still Goin Down](https://open.spotify.com/album/1pizuXyasoOyxRbQFfmQqa) | 3:06 | 2020-12-12 | 2021-02-03 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-11-20 |  |
+| [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-09-23 |  |
 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 | 2022-05-28 |
 | [Stutter](https://open.spotify.com/track/3ZvunC3FkxtVWhmiBGmlGM) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [When The Good Guys Win](https://open.spotify.com/album/4R6CBTblAXNOexIDEK4yNu) | 3:17 | 2019-05-26\* | 2019-06-30 |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-09-18 | 2021-11-20 |

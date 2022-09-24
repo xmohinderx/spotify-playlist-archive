@@ -2045,10 +2045,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 206561,
       "name": "Mientras Se Vive",
       "url": "https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe"
+    },
+    {
+      "album": {
+        "name": "Mil Ballenas",
+        "url": "https://open.spotify.com/album/4toKKyzfK5GAfwzRZopdDI"
+      },
+      "artists": [
+        {
+          "name": "F\u00fatbol",
+          "url": "https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf"
+        },
+        {
+          "name": "Shaman Herrera",
+          "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233618,
+      "name": "Mil Ballenas",
+      "url": "https://open.spotify.com/track/6DOb9eIimGleR1Wrxn1X7h"
     },
     {
       "album": {

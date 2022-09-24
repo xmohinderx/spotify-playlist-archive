@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e02\u0e21\u0e34\u0e49\u0e19 \u0e01\u0e34\u0e48\u0e07\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c (Kamin Kingsak). Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Wolftone. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "published_playlist_ids": [
     "0sFtnPcJ2xiQS1kZ7Io9aQ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201509,
       "name": "Colourist",
       "url": "https://open.spotify.com/track/1hxaW72igwV5ldmOxCuJXb"
@@ -77,6 +77,24 @@
       "duration_ms": 322432,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/3TPB54TCJHVZZ0gInF5QBn"
+    },
+    {
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/5080A0et21d4n5A2PyQymm"
+      },
+      "artists": [
+        {
+          "name": "Last Boy on Earth",
+          "url": "https://open.spotify.com/artist/34UKQXpyA0S98qjOlz6F0M"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229672,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/70odxlp6fqrguezcX2Wg3v"
     },
     {
       "album": {
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199375,
       "name": "OC NO IC",
       "url": "https://open.spotify.com/track/4JRbJPTxTnDuqpKHRltq2r"
@@ -265,10 +283,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177500,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e21\u0e35\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/4UfQQL8uT4mxHAfJzZNXNL"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1tj7lNgAMclTge6gbH1TYx"
+      },
+      "artists": [
+        {
+          "name": "Yoong",
+          "url": "https://open.spotify.com/artist/2HtePasRvz3zZ8tzJfozFZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257937,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u"
     },
     {
       "album": {
@@ -283,7 +319,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 230400,
       "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
@@ -305,6 +341,24 @@
       "duration_ms": 178997,
       "name": "\u0e04\u0e33\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01 (Try)",
       "url": "https://open.spotify.com/track/0fz6w8NFJerxS1ADLtMWan"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/077V1uqVVVWVVD9HwkK5p8"
+      },
+      "artists": [
+        {
+          "name": "Greenglasses",
+          "url": "https://open.spotify.com/artist/0McyZ5AuCB5d0elP2JlzO9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267789,
+      "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/2bepAvTPvI3JPl6hQA568H"
     },
     {
       "album": {
@@ -359,7 +413,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 237841,
       "name": "\u0e09\u0e31\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e23\u0e32\u0e04\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Click) [feat. AUTTA]",
       "url": "https://open.spotify.com/track/3TSlqmkBcZwHgZ0MnhdP2l"
@@ -381,6 +435,24 @@
       "duration_ms": 301928,
       "name": "\u0e0a\u0e32\u0e22\u0e40\u0e25",
       "url": "https://open.spotify.com/track/2oVfkFISufXHrRhez8pVq0"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e1e\u0e35\u0e48\u0e02\u0e21\u0e40\u0e15\u0e34\u0e21\u0e19\u0e21\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/4i58H1p1ZtPUfCePivbnlX"
+      },
+      "artists": [
+        {
+          "name": "Wolftone",
+          "url": "https://open.spotify.com/artist/1W8Vsuj1kPixmXxDUmPz5Z"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205878,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e1e\u0e35\u0e48\u0e02\u0e21\u0e40\u0e15\u0e34\u0e21\u0e19\u0e21\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/65UDd2RoERLLs4ybi6yuIY"
     },
     {
       "album": {
@@ -474,6 +546,42 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e09\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/2u7Fiy3OX4zjq5F71b6F4q"
+      },
+      "artists": [
+        {
+          "name": "Apollo Thirteen",
+          "url": "https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254005,
+      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e09\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/5VYPYm2BcDbZ9EiJcPTHiW"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e21\u0e36\u0e01\u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e19\u0e31\u0e01\u0e40\u0e02\u0e35\u0e22\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e27\u0e31\u0e2224\u0e1b\u0e35 (My Ink)",
+        "url": "https://open.spotify.com/album/3gDAHj38gP7uaPSX3oMFuF"
+      },
+      "artists": [
+        {
+          "name": "MISSIN",
+          "url": "https://open.spotify.com/artist/07EWpTgpGtP7W39pppfKIO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e21\u0e36\u0e01\u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e19\u0e31\u0e01\u0e40\u0e02\u0e35\u0e22\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e27\u0e31\u0e2224\u0e1b\u0e35 - My Ink",
+      "url": "https://open.spotify.com/track/303H14fYH0Dw5EemFM5iCV"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
         "url": "https://open.spotify.com/album/0JlYXx10sGYllEP0vVzamk"
       },
@@ -539,10 +647,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 183510,
       "name": "\u0e1c\u0e39\u0e49\u0e23\u0e2d\u0e17\u0e35\u0e48\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4FGLCKzV68hg3rfxhWuLn6"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e31\u0e07\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/0tTmHlb7SdcGel4RFRqzCJ"
+      },
+      "artists": [
+        {
+          "name": "PINGx",
+          "url": "https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "\u0e1d\u0e31\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3yySZ2pd0wWkw9ktaJH8A0"
     },
     {
       "album": {
@@ -557,7 +683,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199922,
       "name": "\u0e1e\u0e23\u0e04\u0e23\u0e31\u0e1a (Blessed)",
       "url": "https://open.spotify.com/track/1OMo7mcEafetzBfpdFaN4X"
@@ -605,7 +731,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 223016,
       "name": "\u0e21\u0e2d\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/04XgxTppARssEfeA9IM7q2"
@@ -695,7 +821,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 262857,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e01\u0e1e\u0e2d (Enough?)",
       "url": "https://open.spotify.com/track/2lGriOIUW0CYLTjSTypfh9"
@@ -757,7 +883,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 225750,
       "name": "\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e01\u0e48\u0e2d\u0e19 = \u0e41\u0e1e\u0e49",
       "url": "https://open.spotify.com/track/7Hq8WALGQrcsgZTS4perrC"
@@ -815,10 +941,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 192240,
       "name": "\u0e2d\u0e31\u0e19\u0e1f\u0e2d\u0e25 (Unfollow)",
       "url": "https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e07\u0e32\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/2dXuDFDRp7BYzIpOHEmu8Q"
+      },
+      "artists": [
+        {
+          "name": "Flowers For Daryl",
+          "url": "https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\u0e40\u0e07\u0e32\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/7EShhnNYbxv4ZDUW2Ggxqs"
     },
     {
       "album": {
@@ -979,7 +1123,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 210819,
       "name": "\u0e41\u0e15\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 Feat.PZ.",
       "url": "https://open.spotify.com/track/5g9qV9H5yzcPRz9QoGyYY0"
@@ -997,7 +1141,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186000,
       "name": "\u0e41\u0e15\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2a\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1LcpfuzRJA5iqnqns5Yf5l"
@@ -1019,6 +1163,24 @@
       "duration_ms": 287117,
       "name": "\u0e41\u0e2b\u0e27\u0e19 (Proposal Ring)",
       "url": "https://open.spotify.com/track/2BgOMqtKWPDA6NdfHyD586"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e01\u0e2b\u0e01\u0e15\u0e32\u0e43\u0e2a",
+        "url": "https://open.spotify.com/album/0Uo2igTf26KMOFsJXrxO6l"
+      },
+      "artists": [
+        {
+          "name": "Obchoey",
+          "url": "https://open.spotify.com/artist/4gdXoXQmggcqAdN20alLYL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277040,
+      "name": "\u0e42\u0e01\u0e2b\u0e01\u0e15\u0e32\u0e43\u0e2a",
+      "url": "https://open.spotify.com/track/18usr06x0sKVozeOQwLrkq"
     },
     {
       "album": {
@@ -1087,7 +1249,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 198979,
       "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
       "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"
@@ -1153,10 +1315,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 258000,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e44\u0e1b\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/6758uqk9RGen4vw2GDW0jD"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e2d\u0e49\u0e40\u0e08\u0e49\u0e32\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Cruel)",
+        "url": "https://open.spotify.com/album/4u9z5JUZYNlSL2iP9MF0lg"
+      },
+      "artists": [
+        {
+          "name": "Pure Pure Napolpong",
+          "url": "https://open.spotify.com/artist/2l40N9NoOnjvaU4HTRQcRg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218382,
+      "name": "\u0e44\u0e2d\u0e49\u0e40\u0e08\u0e49\u0e32\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Cruel)",
+      "url": "https://open.spotify.com/track/0WT5GzUeUI1XVH2YU7wg53"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS"

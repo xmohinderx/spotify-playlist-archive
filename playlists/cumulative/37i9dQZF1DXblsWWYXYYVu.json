@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 187671,
       "name": "A Few Days",
       "url": "https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w"
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "I Built a Fire",
+        "url": "https://open.spotify.com/album/2xHXt469EhlfjfWd15ZJTe"
+      },
+      "artists": [
+        {
+          "name": "Michael Waite",
+          "url": "https://open.spotify.com/artist/1zsZIdjHBdFZbc3o6cDg0n"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234921,
+      "name": "I Built a Fire",
+      "url": "https://open.spotify.com/track/5plnYnHtDhx07GQ7Y6U9x1"
+    },
+    {
+      "album": {
         "name": "Supernova Acoustic",
         "url": "https://open.spotify.com/album/6osrioku931TjO8ybo7oGX"
       },
@@ -1019,6 +1037,28 @@
       "duration_ms": 176169,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ"
+    },
+    {
+      "album": {
+        "name": "Love Is Letting Go (feat. Diane Keaton)",
+        "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Diane Keaton",
+          "url": "https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154865,
+      "name": "Love Is Letting Go (feat. Diane Keaton)",
+      "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
     },
     {
       "album": {
@@ -2731,7 +2771,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 219373,
       "name": "You Can't Do Enough",
       "url": "https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U"

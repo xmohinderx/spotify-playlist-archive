@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Nickelback",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Arkells",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 195066,
       "name": "10:36",
       "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
@@ -539,6 +539,24 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "album": {
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 154194,
       "name": "Human Being",
       "url": "https://open.spotify.com/track/29KXecHnTOQ4hzISaZqNxN"
@@ -4238,6 +4256,24 @@
     },
     {
       "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/2ZuaDhfl1Kp6VPU9ngGmpj"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221481,
+      "name": "Magical Thinking",
+      "url": "https://open.spotify.com/track/5dkhw3KEwufj4WXk5RsFPH"
+    },
+    {
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -4982,6 +5018,32 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Nowhere To Go",
+      "url": "https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
       },
@@ -4993,7 +5055,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 233026,
       "name": "OK",
       "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
@@ -5033,6 +5095,24 @@
       "duration_ms": 251266,
       "name": "One By One",
       "url": "https://open.spotify.com/track/1nO9qYFTq5ZkiiXnaXbBEH"
+    },
+    {
+      "album": {
+        "name": "One Of A Million",
+        "url": "https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216255,
+      "name": "One Of A Million",
+      "url": "https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj"
     },
     {
       "album": {
@@ -5561,7 +5641,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 208920,
       "name": "Records",
       "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
@@ -6037,7 +6117,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 176483,
       "name": "Scratch the Surface",
       "url": "https://open.spotify.com/track/5hEPmm2FmNSHeQu0I43ofj"
@@ -7769,6 +7849,24 @@
       "duration_ms": 217813,
       "name": "What Feels Like Eternity",
       "url": "https://open.spotify.com/track/5qM7wBA2RnGBLjyzsNSgGK"
+    },
+    {
+      "album": {
+        "name": "SZNZ: Autumn",
+        "url": "https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199592,
+      "name": "What Happens After You?",
+      "url": "https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Leeland & TAYA",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Bethel Music",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 305768,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/3ava9CGA8QJUv0PQyeRXWo"
@@ -2736,6 +2736,32 @@
     },
     {
       "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Michaela Gentile",
+          "url": "https://open.spotify.com/artist/1YxxxADeTdoTeS633H5lCQ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319739,
+      "name": "Let My Life Be Worship",
+      "url": "https://open.spotify.com/track/2DrarKE3JnOXED3kbTuLtY"
+    },
+    {
+      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -3365,6 +3391,36 @@
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
+    },
+    {
+      "album": {
+        "name": "Onipotente / Omnipotent",
+        "url": "https://open.spotify.com/album/2obLD6QuA1HKlGdkivRCPJ"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Lucy Grimble",
+          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444566,
+      "name": "Onipotente / Omnipotent",
+      "url": "https://open.spotify.com/track/48tVLdRrcrUmX5lx0G1aAa"
     },
     {
       "album": {
@@ -4949,7 +5005,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 301611,
       "name": "We Adore You",
       "url": "https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme"

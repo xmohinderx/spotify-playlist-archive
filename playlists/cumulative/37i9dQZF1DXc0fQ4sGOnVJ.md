@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-115 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+116 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-07-22 |  |
 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 | 2022-07-22 |  |
 | [Country Made](https://open.spotify.com/track/7GSxIF5RhPeJNYfMMVrPwE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Country Made](https://open.spotify.com/album/5qcoyQvvEuFbIoAIymKIea) | 3:29 | 2021-05-21 | 2022-07-29 |
+| [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 | 2022-09-23 |  |
 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 | 2021-05-21 |  |
 | [Crank It Up](https://open.spotify.com/track/1dlwBmalURXIQ29gMXYBnt) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Crank It Up](https://open.spotify.com/album/03X6psm4BYCDWJzN0U9a3X) | 3:20 | 2021-05-21 | 2022-07-29 |
 | [Crank It Up](https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:20 | 2022-07-22 |  |

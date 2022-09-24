@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,081 likes - 95 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,208 likes - 95 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 82 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 |
 | 83 | [Too Much Fun](https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [Daryle Singletary](https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0) | 2:45 |
 | 84 | [Alcohol You Later](https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:06 |
-| 85 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 |
-| 86 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
-| 87 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/33AQv3sfvHmtGfYNIJpi96) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Greatest Hits](https://open.spotify.com/album/6nnI4w6ogIVZLeNJgLmu94) | 3:07 |
-| 88 | [When the Sun Goes Down](https://open.spotify.com/track/6KbpvmsV6L8JsON1C3JHAV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:49 |
-| 89 | [I Love This Bar](https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 5:33 |
-| 90 | [All Night](https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [All Night](https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk) | 2:48 |
-| 91 | [Waitin' on 5](https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:54 |
-| 92 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
-| 93 | [Fuzzy](https://open.spotify.com/track/03KvM5ZGtTvl1qaK73g5wN) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Trouble](https://open.spotify.com/album/1o7INpzyHybRX9vWpOjKNs) | 3:20 |
-| 94 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
-| 95 | [Pour Whiskey on My Grave](https://open.spotify.com/track/3fHhEDmEFKI8BlZMlrcHgT) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Practice What I Preach](https://open.spotify.com/album/6ruP878JYgaWhlxgBOdC3M) | 5:04 |
+| 85 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
+| 86 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 |
+| 87 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
+| 88 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/33AQv3sfvHmtGfYNIJpi96) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Greatest Hits](https://open.spotify.com/album/6nnI4w6ogIVZLeNJgLmu94) | 3:07 |
+| 89 | [When the Sun Goes Down](https://open.spotify.com/track/6KbpvmsV6L8JsON1C3JHAV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:49 |
+| 90 | [I Love This Bar](https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 5:33 |
+| 91 | [All Night](https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [All Night](https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk) | 2:48 |
+| 92 | [Waitin' on 5](https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:54 |
+| 93 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
+| 94 | [Fuzzy](https://open.spotify.com/track/03KvM5ZGtTvl1qaK73g5wN) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Trouble](https://open.spotify.com/album/1o7INpzyHybRX9vWpOjKNs) | 3:20 |
+| 95 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDBiY2ZlMDUyY2ZlOTQ5ODgwYzRhODhlZmNlZmM1MTFm`
+Snapshot ID: `MTY2MzkwNTkwNSwwMDAwMDAwMDk3NzBiYjkxYjdkY2JkNzRiY2U1MDkyMGM2MDBhNzFi`

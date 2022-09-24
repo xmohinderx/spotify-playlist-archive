@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=7Fic5eRsS4asQlK\-vSZUKA">Shooterkhumz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,266 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,285 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 11 | [The Suns Song](https://open.spotify.com/track/3AwroN22G3Dp20titBZtwJ) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [The Suns Song](https://open.spotify.com/album/7zC7xV7FyPOTfORb9S4t90) | 3:42 |
 | 12 | [Nonchalant](https://open.spotify.com/track/5LmglsVNpPZwjIZV3bmHfH) | [Jay Sip](https://open.spotify.com/artist/0OK9vbAC0dRhByipFAHkHC), [Marksman Lucre](https://open.spotify.com/artist/3u91CE4u3HQaZQalHTnXYn) | [More From Me](https://open.spotify.com/album/4cXKNC3nuHewQNy43TNj2Z) | 3:26 |
 | 13 | [Somewhere In Between](https://open.spotify.com/track/15HJGuiZm2PIOE99qRqfEF) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Before I Say More](https://open.spotify.com/album/6Nb7ZsVppxcaRMSAWQaBpt) | 4:11 |
-| 14 | [Spane De Job](https://open.spotify.com/track/2f4nN8PFPT9OBWndHGTWd0) | [Coli Cougar](https://open.spotify.com/artist/3uj9rfXhLlQ3tehnnQmjcf), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Spane De Job](https://open.spotify.com/album/0Y70t8CWt2YO0SUAbA5WtN) | 3:56 |
+| 14 | [Spane De Job](https://open.spotify.com/track/4bkEQppLPEAuudxJ59FSWE) | [Coli Cougar](https://open.spotify.com/artist/3uj9rfXhLlQ3tehnnQmjcf), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [The Bopline Massacre \(Extended Version\)](https://open.spotify.com/album/18HhHKgEMNKFsyA9CDpVxe) | 3:56 |
 | 15 | [Top Ten](https://open.spotify.com/track/66up8vDuQBeJF9w03S3UsG) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Owethu](https://open.spotify.com/artist/26onEbIE7wVmDSrMseL5pq), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [Holy Alpha](https://open.spotify.com/artist/2Yy2Im8JOCPaECv2OgLKNy) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 4:11 |
 | 16 | [SUPREME](https://open.spotify.com/track/502pGwAEVBh8z59oOJY3N2) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Talk to Me Naace](https://open.spotify.com/album/2yVW8fu5S5LomeioeSKPlE) | 2:50 |
 | 17 | [Buddah of the year](https://open.spotify.com/track/0t60whoNK0BztGvGSDKRaw) | [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0), [Soul T Idyan](https://open.spotify.com/artist/7D94UybsHMksRMPc6e1ybB), [Blue K](https://open.spotify.com/artist/2vF0eCfzKrLkg7fsVD2TW1) | [iVangeli](https://open.spotify.com/album/7d6zphfuSNz41GTNw1TlPM) | 3:41 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 58 | [To Be Honest](https://open.spotify.com/track/4cDGJKWgWifHdncqzNbTEf) | [KB.](https://open.spotify.com/artist/7GLCMWRqFH0Wn4iAGPauqO) | [When The Party's Over](https://open.spotify.com/album/3jAWPMC0bpGnsHUZ6pIIki) | 2:58 |
 | 59 | [Philosophy](https://open.spotify.com/track/64YubdMI7OQOilzPe1UJk8) | [Jayhood](https://open.spotify.com/artist/4z3nlXVD9GSOdBYD82aPa4), [Blaklez](https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [Philosophy](https://open.spotify.com/album/27QqUH6a4vib7sjVmXaiIh) | 3:58 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMDZiYjkyNDdkYzJlMTFjZjkyNjBiN2NiNWZkNWU4NTVl`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMDJiOTMxZTA2OTIzNGU3YTVkNzlhZDAyMzFlYmIyYTQ2`

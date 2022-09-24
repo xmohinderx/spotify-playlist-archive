@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Sports Team
 
-262 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+263 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Same Thing](https://open.spotify.com/track/1IPqkeBkpSXFwKPMyMNLV6) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Same Thing](https://open.spotify.com/album/7LMss2uXAre6SMuq2yAXtT) | 3:24 | 2022-08-18 |  |
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Say It](https://open.spotify.com/track/6gvLsy6dkUJyPqBDhzEgtc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Banshee](https://open.spotify.com/album/5KKwrFNlCb3XcjGxnxdA8Y) | 3:14 | 2022-08-18 |  |
+| [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 |  |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 | 2022-07-29 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-04-01 | 2022-08-19 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-08 |  |

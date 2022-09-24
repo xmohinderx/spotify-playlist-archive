@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Block Party",
+        "url": "https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Like A Boy",
+      "url": "https://open.spotify.com/track/1ibBdYjfVVqFOA04Q0NnJ6"
+    },
+    {
+      "album": {
         "name": "Liquor & Pills",
         "url": "https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY"
       },

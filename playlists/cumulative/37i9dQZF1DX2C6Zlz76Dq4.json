@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/1t1UAfuQfaENQlvMv393i5"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193145,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/32OH3VGKAqEOrFIqdkHCMe"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa"
       },

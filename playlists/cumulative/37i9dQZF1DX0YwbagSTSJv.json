@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 209181,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o"
@@ -1003,6 +1003,24 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "album": {
+        "name": "Invisible Waters",
+        "url": "https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "Invisible Waters",
+      "url": "https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ"
     },
     {
       "album": {
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186600,
       "name": "Pace Of Nature",
       "url": "https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq"
@@ -1745,10 +1763,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196000,
       "name": "Small Sprites",
       "url": "https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe"
+    },
+    {
+      "album": {
+        "name": "Sobre las Nubes",
+        "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
+      },
+      "artists": [
+        {
+          "name": "Tormenta Solar",
+          "url": "https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Sobre las Nubes",
+      "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
     },
     {
       "album": {

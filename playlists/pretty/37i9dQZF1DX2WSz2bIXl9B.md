@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 ### [RADAR Podcasters España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
-> Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Maldito Bollodrama
+> Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Terrores Nocturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,255 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY1ODgyNDE3MCwwMDAwMDAwMDI0OGI4NjljZDkwNDA0ODQyY2Y0ZDA3YmY2MzAwMGY3`
+Snapshot ID: `MTY2MzkzODg4NiwwMDAwMDAwMDQ4OTcwZWNiYmE2MjkxYTA5MjlhZjZjZGY5NWQzOWY4`

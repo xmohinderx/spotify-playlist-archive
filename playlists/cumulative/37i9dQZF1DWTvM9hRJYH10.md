@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-225 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+228 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Addicted](https://open.spotify.com/track/5SZRA1aAqnHBUt5edqY8OM) | [Marisa McKaye](https://open.spotify.com/artist/0fHHqRhyzE4VquF6JrYGar) | [Addicted](https://open.spotify.com/album/5K8BnbzuEmhfWDkj4m6gzU) | 3:36 | 2021-12-31 | 2022-02-12 |
 | [Ain't Gonna Lie](https://open.spotify.com/track/1htLrwuSGkNj90H9u6tSQx) | [Lauren Hall](https://open.spotify.com/artist/2Qb27JzTmCKVBDmeaiEvCf) | [Ain't Gonna Lie](https://open.spotify.com/album/0pZrdfFqbFsHu9UZG99M5O) | 3:10 | 2021-12-31 |  |
 | [Ain't Got A Shot](https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/1ai40yy9DyrO8YxyI31zm6) | 3:23 | 2021-12-31 | 2022-02-12 |
+| [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 | 2022-09-23 |  |
 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 | 2021-12-31 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-31 |  |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 |  |
@@ -98,7 +99,8 @@
 | [I'm Not There Yet](https://open.spotify.com/track/2kPNQECMXwnYZdpkp77YWf) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [I'm Not There Yet](https://open.spotify.com/album/4tQgfgItam1kvIwRNuJm3s) | 3:24 | 2022-04-01 | 2022-08-02 |
 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 | 2021-12-31 | 2022-02-12 |
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
-| [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-01 |  |
+| [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-01 | 2022-09-24 |
+| [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 | 2022-09-23 |  |
 | [In Denial](https://open.spotify.com/track/0VbjCDupilMeIaOS7u11bT) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [In Denial](https://open.spotify.com/album/3faTxfyUZdmYeQJwv4Sbvj) | 3:37 | 2021-12-31 | 2022-01-08 |
 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 | 2022-06-24 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 |  |
@@ -182,6 +184,7 @@
 | [She Broke My Heart](https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [She Broke My Heart](https://open.spotify.com/album/2FP7BFxp5nnCf8dkkvTJ2k) | 3:00 | 2021-12-31 | 2022-02-12 |
 | [She's a Fire](https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs) | [JT Harker](https://open.spotify.com/artist/32uxYRmt38L7lp9VyAn3bJ) | [She's a Fire](https://open.spotify.com/album/7sytcojuGjBcPv8C7AN7md) | 3:14 | 2021-12-31 |  |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |
+| [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 |  |
 | [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 | 2022-09-10 |
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
 | [Somethin' in the Sunshine](https://open.spotify.com/track/1JDRyKJkKgmm8F4m9QSTnk) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Somethin' in the Sunshine](https://open.spotify.com/album/2vZKaE4y1UoVuJboLV0ZHE) | 2:52 | 2021-12-31 | 2022-02-12 |

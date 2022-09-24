@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Melanie Dyer
+> The cream of today's Country crop\. Cover: Kelsea Ballerini
 
-225 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+229 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,8 @@
 | [Blow Our Cover](https://open.spotify.com/track/67hXpN0LZxZgQN2bS12mRf) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Blow Our Cover](https://open.spotify.com/album/5diAiYQd0LqFslr6jxEhWj) | 2:48 | 2022-09-15 |  |
 | [Blue Guitar](https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Blue Guitar](https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn) | 3:30 | 2022-08-05 |  |
 | [Both](https://open.spotify.com/track/1qXQM8fJLLcb1Eyus7L4Iu) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Both](https://open.spotify.com/album/7yVvcpH3mUxdGuXuZ629Bj) | 2:59 | 2022-08-05 |  |
-| [Break Up With A Friend](https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Break Up With A Friend](https://open.spotify.com/album/1UxCw54gPJDBtOjaaEiahB) | 3:25 | 2022-06-16 |  |
-| [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 |  |
+| [Break Up With A Friend](https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Break Up With A Friend](https://open.spotify.com/album/1UxCw54gPJDBtOjaaEiahB) | 3:25 | 2022-06-16 | 2022-09-24 |
+| [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 | 2022-09-24 |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-07-07 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-12-30 | 2022-04-01 |
 | [Carefree](https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [Carefree](https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi) | 3:20 | 2022-07-28 |  |
@@ -133,8 +133,11 @@
 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-11 |  |
 | [Memory Lane](https://open.spotify.com/track/2FsHQotAXaB8colawUzXQG) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Memory Lane](https://open.spotify.com/album/6EoqlNlbld5ks0Vy6eDYNz) | 3:30 | 2022-07-14 |  |
 | [Messy](https://open.spotify.com/track/1P9PIhdizfnJMHbTn3EJP5) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Messy](https://open.spotify.com/album/5W9lqFf7aQ9T4NS4x4HmOf) | 2:51 | 2021-12-30 | 2022-01-07 |
-| [Mind Of Its Own](https://open.spotify.com/track/7kaWbPYrx51y8rdZ4vjT5d) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2) | [Mind Of Its Own](https://open.spotify.com/album/6f8oqU2S6SFdshhQyCorkk) | 3:09 | 2022-06-23 |  |
+| [Mind Of Its Own](https://open.spotify.com/track/7kaWbPYrx51y8rdZ4vjT5d) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2) | [Mind Of Its Own](https://open.spotify.com/album/6f8oqU2S6SFdshhQyCorkk) | 3:09 | 2022-06-23 | 2022-09-24 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-30 | 2022-01-28 |
+| [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
+| [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 | 2022-09-23 |  |
+| [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 | 2022-09-23 |  |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-30 | 2022-01-07 |
 | [Night Needs You](https://open.spotify.com/track/7z56QYtQNduD3QJY9QEcSn) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Night Needs You](https://open.spotify.com/album/0b0b4BY7NwWDG2XxOA5BkL) | 3:22 | 2022-06-23 |  |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-03-31 | 2022-08-12 |
@@ -206,12 +209,13 @@
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-30 | 2022-04-01 |
 | [Tokyo](https://open.spotify.com/track/7gEzofK3SW8xsccVa5R30v) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Tokyo](https://open.spotify.com/album/4MqS9aaFo8l3Y9CBLUS7Vb) | 3:09 | 2022-05-06 | 2022-08-12 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-21 | 2022-09-16 |
-| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 |  |
+| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 | 2022-09-24 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 | 2022-07-29 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-08 |  |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 | 2022-04-22 |
+| [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-23 |  |
 | [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 | 2022-04-29 |
-| [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 |  |
+| [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 | 2022-09-24 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 |  |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-30 |  |
 | [What You Make It](https://open.spotify.com/track/5ruiqSweVb8QjUTYfKlomJ) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:05 | 2021-12-30 | 2022-05-20 |

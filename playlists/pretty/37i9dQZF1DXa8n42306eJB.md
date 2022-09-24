@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,781 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,814 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 37 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 |
 | 38 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
 | 39 | [If Tomorrow Never Comes](https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh) | 3:50 |
-| 40 | [My Guy](https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg) | 3:51 |
+| 40 | [My Guy \(with Wayno\)](https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg) | 3:51 |
 | 41 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |
 | 42 | [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 |
 | 43 | [Oh My Goodness Ft\. Big Steve](https://open.spotify.com/track/0ySxHGWdbENkqGdthmBxps) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [Dear Billy](https://open.spotify.com/album/0DOQvfdera8Np9cZ7ppSC2) | 4:03 |

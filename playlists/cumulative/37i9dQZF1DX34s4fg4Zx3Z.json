@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "chu\u1ed3n chu\u1ed3n",
+        "url": "https://open.spotify.com/album/7MypVv6J5kBESdULO0Et4v"
+      },
+      "artists": [
+        {
+          "name": "T\u00f9ng",
+          "url": "https://open.spotify.com/artist/1TdtsDVivxc6PpkQdNuXdR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "chu\u1ed3n chu\u1ed3n",
+      "url": "https://open.spotify.com/track/3N1OdG5gRia2eYeP51jNKK"
+    },
+    {
+      "album": {
         "name": "Ch\u00e0o 04",
         "url": "https://open.spotify.com/album/3TjmHyjZF3bycamaXEsA2r"
       },
@@ -3031,7 +3049,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 227316,
       "name": "Em L\u00e0 Ho\u00e0ng H\u00f4n",
       "url": "https://open.spotify.com/track/4txHJlFChAtxl9lFhSqKB0"
@@ -3309,7 +3327,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 161492,
       "name": "EMCOHAY",
       "url": "https://open.spotify.com/track/6BVomcgT4btVhkZrt5FyMI"

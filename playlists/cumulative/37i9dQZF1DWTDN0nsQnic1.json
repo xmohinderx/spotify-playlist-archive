@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71945,
+      "name": "When She's Mine",
+      "url": "https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8"
+    },
+    {
+      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/2PsuF65UNAcSLDQaj3njop"
       },

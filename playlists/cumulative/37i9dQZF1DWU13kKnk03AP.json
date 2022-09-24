@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "20 Questions",
+        "url": "https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "20 Questions",
+      "url": "https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD"
+    },
+    {
+      "album": {
         "name": "2011",
         "url": "https://open.spotify.com/album/15zabwPUdPTC2JLygT5blT"
       },
@@ -563,6 +581,24 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "album": {
@@ -1399,6 +1435,28 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
+    },
+    {
+      "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/5q1YapGe7F6PUseo0mTLSj"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159322,
+      "name": "Common (with Big Sean)",
+      "url": "https://open.spotify.com/track/2CJc3U1pViZ5E44pA0f2YI"
     },
     {
       "album": {
@@ -2908,6 +2966,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Dead Yet",
+        "url": "https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178852,
+      "name": "I'm Not Dead Yet",
+      "url": "https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu"
       },
@@ -3949,7 +4025,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186815,
       "name": "Manners",
       "url": "https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC"
@@ -5088,6 +5164,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -5183,7 +5277,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 133226,
       "name": "Serial Heartbreaker",
       "url": "https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw"
@@ -5981,7 +6075,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 173200,
       "name": "Talking to Yourself",
       "url": "https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr"
@@ -6195,7 +6289,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 175613,
       "name": "TWO SUGARS",
       "url": "https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH"
@@ -6383,7 +6477,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 145979,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"

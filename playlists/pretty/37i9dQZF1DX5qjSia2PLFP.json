@@ -1,12 +1,12 @@
 {
   "description": "New music breaking waves.  Cover: Ice Spice",
-  "num_followers": 18961,
+  "num_followers": 19026,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2OTkzOSwwMDAwMDAwMGU4ZTMzODMwMjM4ZjcwNGM3YTljYmUxZTExNjIwNzI0",
+  "snapshot_id": "MTY2MzkxNzE5MiwwMDAwMDAwMGMzNzAyYTgzNTMzNzBlOWI0ZGFiMzU2ODlhODI4NjQw",
   "tracks": [
     {
       "added_at": "2022-09-16 23:12:18",
@@ -23,6 +23,22 @@
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+    },
+    {
+      "added_at": "2022-09-23 07:13:12",
+      "album": {
+        "name": "Longwood Legends",
+        "url": "https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv"
+      },
+      "artists": [
+        {
+          "name": "OTR CHAZ",
+          "url": "https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "1722",
+      "url": "https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI"
     },
     {
       "added_at": "2022-09-16 23:12:18",
@@ -43,6 +59,26 @@
       "duration_ms": 201923,
       "name": "NO PLACE TO GO",
       "url": "https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L"
+    },
+    {
+      "added_at": "2022-09-23 07:13:12",
+      "album": {
+        "name": "Safehouse (Remix)",
+        "url": "https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Safehouse (Remix)",
+      "url": "https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi"
     },
     {
       "added_at": "2022-09-16 23:12:18",
@@ -103,6 +139,30 @@
       "duration_ms": 185806,
       "name": "How To Kill A Narcissist",
       "url": "https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE"
+    },
+    {
+      "added_at": "2022-09-23 07:13:12",
+      "album": {
+        "name": "Pote Day 2",
+        "url": "https://open.spotify.com/album/27jOOsA5RVyicVVRSzYO5d"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        },
+        {
+          "name": "Danielle Carr",
+          "url": "https://open.spotify.com/artist/0PeyaNO5OnLdSdDEeuBCrZ"
+        },
+        {
+          "name": "Simmie",
+          "url": "https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Playin 2",
+      "url": "https://open.spotify.com/track/57RYV5tcbV016vtv5rFgpQ"
     },
     {
       "added_at": "2022-09-16 23:12:18",
@@ -835,58 +895,6 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
-    },
-    {
-      "added_at": "2022-06-07 21:28:03",
-      "album": {
-        "name": "Let's Get Money",
-        "url": "https://open.spotify.com/album/5xkMGkWkc8Ng0UAzEq6WUG"
-      },
-      "artists": [
-        {
-          "name": "Idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Let's Get Money",
-      "url": "https://open.spotify.com/track/0hpCqkNmZPuICMY2h0S3aB"
-    },
-    {
-      "added_at": "2022-05-27 04:27:09",
-      "album": {
-        "name": "APPARENT",
-        "url": "https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "APPARENT",
-      "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
-    },
-    {
-      "added_at": "2022-05-27 04:27:09",
-      "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk"
-      },
-      "artists": [
-        {
-          "name": "Your Grandparents",
-          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
-        },
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 255094,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
     }
   ],
   "unique_name": "Ripple Effect",

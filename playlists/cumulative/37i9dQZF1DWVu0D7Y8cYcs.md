@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-69 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
+70 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Feeling Irie](https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw) | [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [Feeling Irie](https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH) | 3:11 | 2021-10-24 |  |
 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 | 2021-10-24 |  |
 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 | 2021-10-24 |  |
-| [Grateful](https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Grateful](https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa) | 4:33 | 2021-10-24 |  |
+| [Grateful](https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Grateful](https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa) | 4:33 | 2021-10-24 | 2022-09-24 |
 | [Hey Now Now](https://open.spotify.com/track/2kftb6UA1jan9BaDnYt6Xa) | [Michael Franti](https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo), [Spearhead](https://open.spotify.com/artist/19hpf6aLV5qwTfGOGptzA3) | [Yell Fire!](https://open.spotify.com/album/5qYW0P0YKnMBOvbpIJWB51) | 5:36 | 2021-10-24 | 2022-07-29 |
 | [Hey Now Now](https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Yell Fire!](https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF) | 5:36 | 2022-06-20 |  |
 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 | 2021-10-24 |  |
@@ -58,6 +58,7 @@
 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 | 2021-10-24 |  |
 | [Sunday Morning](https://open.spotify.com/track/3gonK3rQEsWNMyETqnOyxl) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/2wF68GbQuZQxui1sOq385l) | 3:56 | 2021-10-24 | 2022-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Strictly Roots](https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX) | 3:56 | 2022-06-20 |  |
+| [Ten Cane Row](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 | 2022-09-23 |  |
 | [The Sound Of Sunshine](https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [The Sound Of Sunshine](https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy) | 3:45 | 2021-10-24 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2022-06-20 |  |
 | [Three Little Birds](https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:00 | 2021-10-24 | 2022-07-29 |

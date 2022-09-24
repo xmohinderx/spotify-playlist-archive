@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Los Dos Carnales en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Jes\u00fas Mendoza en portada.",
   "name": "Banda 2022",
   "published_playlist_ids": [
     "029aY0bfQdNwToDmSRYzRr"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/64XhhZoDZOUmCpLahCEXYZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/3ECAmHIIzezCppLjPYzU1R"
+    },
+    {
+      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 197306,
       "name": "Al Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 190114,
       "name": "Amigos Con Beneficio",
       "url": "https://open.spotify.com/track/5LoB3vdJ2C8rHbCHh1wMAl"
@@ -167,6 +185,24 @@
       "duration_ms": 165428,
       "name": "Amigos \u00bfDe Qui\u00e9n?",
       "url": "https://open.spotify.com/track/472RYrDoNry11jkmJIWeat"
+    },
+    {
+      "album": {
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/4l89Z2kzqjkEXxJclXIEsm"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
     },
     {
       "album": {
@@ -937,7 +973,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201213,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
@@ -1087,6 +1123,24 @@
       "duration_ms": 178569,
       "name": "Junto A Ti",
       "url": "https://open.spotify.com/track/1CyTC2O3w0Pc7hy8SXNG73"
+    },
+    {
+      "album": {
+        "name": "La Bolsita",
+        "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180900,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
     },
     {
       "album": {
@@ -1260,6 +1314,28 @@
     },
     {
       "album": {
+        "name": "Los FECH (En Vivo)",
+        "url": "https://open.spotify.com/album/08orCVqu9n3iLy90IrIG08"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "La Nacional Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/1tz33qDL2ip3JfXmaO4fSd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177449,
+      "name": "Los FECH (En Vivo)",
+      "url": "https://open.spotify.com/track/2lYxE4DGv8ScNhRq98w1Z6"
+    },
+    {
+      "album": {
         "name": "Me Equivoqu\u00e9 en Amarte",
         "url": "https://open.spotify.com/album/59EiA4FLSz1szxHSIbMNZ8"
       },
@@ -1333,7 +1409,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
@@ -1469,7 +1545,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 128513,
       "name": "Modo Crudo",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
@@ -1487,7 +1563,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186706,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
@@ -1557,6 +1633,24 @@
       "duration_ms": 175746,
       "name": "Necesito Tu Perd\u00f3n",
       "url": "https://open.spotify.com/track/6uBL9bmmwwQeDK8wbE9LDr"
+    },
+    {
+      "album": {
+        "name": "Necesito Una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213471,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7"
     },
     {
       "album": {
@@ -1752,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "Pase Y Pase",
+        "url": "https://open.spotify.com/album/4do2lBnzGHYQbe09kOQXTG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147240,
+      "name": "Pase Y Pase",
+      "url": "https://open.spotify.com/track/3VukobckIWjx1eOyWrtMOq"
+    },
+    {
+      "album": {
         "name": "Pelotero a la Bola",
         "url": "https://open.spotify.com/album/60ImhtY4GfPH2J3gX0kCoR"
       },
@@ -1891,7 +2003,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 155525,
       "name": "Por Culpa De Tu Amor",
       "url": "https://open.spotify.com/track/3YSgBGYK61LCNvrtfmFEMQ"
@@ -1945,7 +2057,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
@@ -2043,6 +2155,50 @@
       "duration_ms": 177912,
       "name": "Qu\u00e9 Voy A Hacer Para Olvidarte",
       "url": "https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30"
+    },
+    {
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221414,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI"
+    },
+    {
+      "album": {
+        "name": "R\u00e1pido y Furioso L.A",
+        "url": "https://open.spotify.com/album/2s9VERJvtoIirWRavKDGea"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mendoza",
+          "url": "https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "R\u00e1pido y Furioso L.A",
+      "url": "https://open.spotify.com/track/5o01yiZIoCJf84D3s1Mhva"
     },
     {
       "album": {
@@ -2282,6 +2438,24 @@
     },
     {
       "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
+    },
+    {
+      "album": {
         "name": "Calidad Y Cantidad",
         "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
@@ -2373,7 +2547,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
@@ -2481,7 +2655,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 204266,
       "name": "Ya Estuvo Suave",
       "url": "https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ"
@@ -2521,6 +2695,28 @@
       "duration_ms": 186305,
       "name": "Ya Lo Pens\u00e9 Mejor",
       "url": "https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J"
+    },
+    {
+      "album": {
+        "name": "Ya No Est\u00e9s Chingando",
+        "url": "https://open.spotify.com/album/1RD6tsQ8Hf4eg6HwcfsZZC"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya No Est\u00e9s Chingando",
+      "url": "https://open.spotify.com/track/6cWW02JMQj4Ey06QtkRsDs"
     },
     {
       "album": {

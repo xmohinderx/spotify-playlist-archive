@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-367 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+368 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Nanna Kanmani](https://open.spotify.com/track/2cHcq3JVqn7gL2xYmRxEI3) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Dan Konopka](https://open.spotify.com/artist/2DtkYIOwjh2C3xzcOy65LJ) | [Rocketry The Nambi Effect \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4EdgXPDlNvqS7SySZtDIlR) | 3:46 | 2022-06-24 | 2022-07-16 |
 | [Nannalli Neeneega \(From "Nirmuktha"\)](https://open.spotify.com/track/5un4Op2UjXZqx8aE1eTpDT) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2) | [Nannalli Neeneega \(From "Nirmuktha"\)](https://open.spotify.com/album/3mSgNq2P5HIl8oGSIJCNL6) | 4:29 | 2022-05-18 |  |
 | [Nanthak Baa](https://open.spotify.com/track/6jGIdR3M2hS4EMmXYOg4pF) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y) | [Shiva 143](https://open.spotify.com/album/2VxoqmOPfQiUZ78eB4KdJJ) | 4:23 | 2022-08-26 |  |
+| [Navilina Gari](https://open.spotify.com/track/4OL9i29BQ6alzdVcEJ2WEj) | [Sashikala Sunil](https://open.spotify.com/artist/0vKSH0rNxL68bCOhROk1mW) | [19th Century \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7ttLOoHRuMBqQYTwfMviuR) | 4:41 | 2022-09-23 |  |
 | [Nee Kotiyali Obbane](https://open.spotify.com/track/5c3Ftg5MvltJWORB1Fl5qO) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kotigobba 3](https://open.spotify.com/album/5euJTTpvZwTNojhGoUqYQb) | 3:43 | 2021-12-06 | 2022-03-14 |
 | [Nee Sigoovaregu](https://open.spotify.com/track/4ZWqQlh5Xaab9rn9agKJfr) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Bhajarangi 2](https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0) | 3:36 | 2021-12-06 | 2022-05-19 |
 | [Neenaade Naa](https://open.spotify.com/track/2LFI7beuuO3cZUls7QWarg) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Yuvarathnaa \(Kannada\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ) | 4:12 | 2021-12-06 | 2022-06-15 |

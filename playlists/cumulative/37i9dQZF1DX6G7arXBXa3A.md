@@ -4,7 +4,7 @@
 
 > Big bands, big sounds.
 
-67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
+68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3540LvahXVa3DfJ3k1sJDB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 | 2020-03-06 |  |
 | [Begin The Beguine](https://open.spotify.com/track/1H13WKDhOgwVeWzveBPTh0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [The Essential Artie Shaw](https://open.spotify.com/album/22j6P1Uwky141vdWj3ozKf) | 3:14 | 2020-03-06 | 2022-07-29 |
 | [Begin the Beguine](https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:16 | 2020-03-06 |  |
+| [Brother J](https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:00 | 2022-09-23 |  |
 | [Chattanooga Choo Choo](https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:26 | 2020-03-06 |  |
 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 | 2020-03-06 |  |
-| [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 | 2022-03-11 |  |
+| [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 | 2022-03-11 | 2022-09-24 |
 | [Everybody Eats When They Come To My House](https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Hi De Ho Man](https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT) | 2:47 | 2020-03-06 |  |
 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 | 2020-03-06 |  |
 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 | 2020-03-06 | 2022-07-29 |

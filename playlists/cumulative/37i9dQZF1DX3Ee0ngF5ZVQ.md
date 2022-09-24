@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-359 songs - 21 hr 29 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+361 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Dance Hall Hell](https://open.spotify.com/track/5G2VgMq3PRET97pQ9zZkTc) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Western & Roll](https://open.spotify.com/album/3yYi2yRTDctlJEsSddZ9yv) | 3:33 | 2022-06-24 | 2022-07-15 |
 | [Danced All Night Long](https://open.spotify.com/track/3Kqz6fQwqNjvebOaPPslFt) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Danced All Night Long](https://open.spotify.com/album/5G5OQaWKa8I4oUrC5dmLB9) | 4:04 | 2022-03-11 | 2022-03-19 |
 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 |  |
-| [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 |  |
+| [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 | 2022-09-24 |
 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 | 2022-06-17 |  |
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
@@ -197,6 +197,7 @@
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 | 2022-07-10 |
 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 |  |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
+| [Know That by Now](https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Know That by Now](https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC) | 4:01 | 2022-09-23 |  |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-17 | 2022-03-19 |
 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2021-12-17 | 2022-03-19 |
@@ -310,6 +311,7 @@
 | [The Old Man Said \- Radio Edit](https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Old Man Said \(Radio Edit\)](https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb) | 3:14 | 2022-08-26 |  |
 | [The One You Know](https://open.spotify.com/track/1x3pjQoyhtctVe7NsTVeAU) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The One You Know](https://open.spotify.com/album/2Ghe25vEXBDc17A5YlOaaB) | 3:40 | 2022-07-15 | 2022-09-10 |
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2021-12-17 | 2022-07-20 |
+| [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 | 2022-09-23 |  |
 | [The Way She Moved](https://open.spotify.com/track/4lHVEKYLFStOIqxlAHbUDU) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [The Way She Moved](https://open.spotify.com/album/6Bo8CdyNYImWquDAFjZXCG) | 3:44 | 2021-12-17 | 2022-03-19 |
 | [The Whiskey Will](https://open.spotify.com/track/5vqu1ypiHCb4NakEl2q0zT) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [The Whiskey Will](https://open.spotify.com/album/6cijmrntIehNVs7Qo75M5R) | 3:14 | 2021-12-17 | 2022-07-26 |
 | [Therapy's Good](https://open.spotify.com/track/3SCs4MWsf3Vmj034QeSvcc) | [Grady Spencer & the Work](https://open.spotify.com/artist/5QEQTOTzN3kxmK41BaLFK5) | [Therapy's Good](https://open.spotify.com/album/69lUni43sgGdRPzu7HxpDN) | 4:19 | 2021-12-17 | 2022-07-20 |
@@ -363,7 +365,7 @@
 | [Wish It Was You](https://open.spotify.com/track/67QeP29uBpp9FRM6OqrCIT) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Wish It Was You](https://open.spotify.com/album/2W6gl0v91b8jbLKwcQYiRw) | 4:06 | 2021-12-17 | 2022-03-19 |
 | [Wishin' on an Airplane](https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Wishin' on an Airplane](https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf) | 3:30 | 2022-09-09 |  |
 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 | 2021-12-17 | 2022-07-29 |
-| [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 |  |
+| [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 | 2022-09-24 |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 |  |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |

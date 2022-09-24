@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: WOS
 
-119 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+120 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Lejos del 2](https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Lejos del 2](https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh) | 2:40 | 2021-12-30 | 2022-03-11 |
 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 | 2021-12-30 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 | 2022-06-24 |  |
+| [Leyenda Viva](https://open.spotify.com/track/7pQ3dOGXwjBMqfC2z3cvNW) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Leyenda Viva](https://open.spotify.com/album/27nbClc2d310EdLPCxwF2M) | 2:17 | 2022-09-23 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-12-30 | 2022-02-19 |
 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 | 2022-08-15 |  |
 | [Los Guachos en la Esquina](https://open.spotify.com/track/0tBx1TV0dXaCNugZCSQ6E9) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:09 | 2022-06-24 |  |
@@ -92,7 +93,7 @@
 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 | 2022-03-13 | 2022-07-30 |
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-13 | 2022-02-25 |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
-| [Quién No Llora](https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Quién No Llora](https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy) | 3:56 | 2021-12-30 |  |
+| [Quién No Llora](https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Quién No Llora](https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy) | 3:56 | 2021-12-30 | 2022-09-24 |
 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 | 2021-12-30 | 2022-01-27 |
 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 | 2021-12-30 |  |
 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 | 2021-12-30 | 2022-02-15 |

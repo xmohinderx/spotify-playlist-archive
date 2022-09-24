@@ -2,9 +2,9 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Samantha Barrón
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Yoss Bones
 
-153 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+154 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 | 2021-12-13 | 2022-01-29 |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2021-12-13 | 2022-01-08 |
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-07 |  |
+| [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2022-09-23 |  |
 | [Espacios](https://open.spotify.com/track/2mBV1l2SU4FUHYIJqMKALN) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Espacios](https://open.spotify.com/album/0w7ryRYrkIftHlvNLBQoDR) | 3:20 | 2021-12-13 |  |
 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 | 2021-12-13 |  |
 | [Faro de Luz](https://open.spotify.com/track/6G02m7plB1AyAxsDvaKadP) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Faro de Luz](https://open.spotify.com/album/6IC1Xq0b040La0dgcK71LF) | 3:12 | 2021-12-13 |  |
@@ -136,7 +137,7 @@
 | [Señales](https://open.spotify.com/track/3gOA4thR0Rv6pMzQgeh3Kk) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Señales](https://open.spotify.com/album/07sanYUCVRMbsAAwBiIWkk) | 3:06 | 2022-03-26 | 2022-07-02 |
 | [Shorty](https://open.spotify.com/track/6nOKHS69nUyVHSlWbAkP6q) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Shorty](https://open.spotify.com/album/10Q4axLIttUjmSb026Svui) | 2:37 | 2022-03-11 |  |
 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 | 2021-12-13 | 2022-05-13 |
-| [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-12-13 |  |
+| [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-12-13 | 2022-09-24 |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/7jiVLuYG7RgzsINDzthEWM) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 2:47 | 2022-05-12 |  |
 | [Suave](https://open.spotify.com/track/17N1MnXZFLsv1tlGBNxFuW) | [Primoroso](https://open.spotify.com/artist/5n4Xu444iA1jWNbKnD545N), [Def Rabbit](https://open.spotify.com/artist/0z78KTlQp3IHGdAp9XqdIz) | [Suave](https://open.spotify.com/album/7yoJNr3DxenGB2TKDfS8Ai) | 3:19 | 2021-12-13 |  |
 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-13 |  |

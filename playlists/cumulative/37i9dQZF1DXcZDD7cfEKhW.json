@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: David Guetta & Bebe Rexha.",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
     {
       "album": {
         "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
@@ -5739,7 +5761,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 204720,
       "name": "On My Way (Marry Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/55MuRbaxxRwiVHNsIIZZDD"

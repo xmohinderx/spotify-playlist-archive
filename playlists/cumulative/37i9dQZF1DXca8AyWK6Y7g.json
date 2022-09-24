@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "living life in your 250 sq ft micro apt. Cover: Dylan",
+  "description": "living life in your 250 sq ft micro apt. Cover: JVKE",
   "name": "young & free",
   "published_playlist_ids": [
     "5ughHfqxtBosozqZ6BniQD"
@@ -135,6 +135,24 @@
       "duration_ms": 155862,
       "name": "2 The Weekend",
       "url": "https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x"
+    },
+    {
+      "album": {
+        "name": "20 Questions",
+        "url": "https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "20 Questions",
+      "url": "https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD"
     },
     {
       "album": {
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 126316,
       "name": "blue",
       "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 154640,
       "name": "BLUSH!",
       "url": "https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW"
@@ -3665,7 +3683,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177641,
       "name": "Change",
       "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
@@ -5390,6 +5408,24 @@
     },
     {
       "album": {
+        "name": "Detached",
+        "url": "https://open.spotify.com/album/48OY2oZrUCNSp88zt7vWbk"
+      },
+      "artists": [
+        {
+          "name": "Naliya",
+          "url": "https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141590,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/6ZoGCUlUCmc9zMaRMMP8fK"
+    },
+    {
+      "album": {
         "name": "(Un)Commentary",
         "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
       },
@@ -6221,7 +6257,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 130088,
       "name": "EAGER",
       "url": "https://open.spotify.com/track/3c6XFFyJbaEXuktEOG4aU6"
@@ -7305,7 +7341,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 198243,
       "name": "Flying",
       "url": "https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK"
@@ -7853,7 +7889,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 219542,
       "name": "Garden On The Kitchen Floor",
       "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"
@@ -7871,7 +7907,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 191076,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H"
@@ -9469,7 +9505,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 219373,
       "name": "Her",
       "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
@@ -9779,7 +9815,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 149230,
       "name": "hold the applause",
       "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
@@ -10505,7 +10541,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
       "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
@@ -10675,6 +10711,24 @@
       "duration_ms": 147996,
       "name": "I Try",
       "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
+    },
+    {
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210590,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra"
     },
     {
       "album": {
@@ -11845,7 +11899,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177720,
       "name": "Keeping Tabs",
       "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
@@ -12131,7 +12185,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
@@ -12897,7 +12951,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 196142,
       "name": "Line",
       "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
@@ -14831,7 +14885,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 159800,
       "name": "Never Too Young",
       "url": "https://open.spotify.com/track/2ViB8ZYP0Tmbje2eF0f67s"
@@ -15165,7 +15219,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 153093,
       "name": "No Time (For My Life To Suck)",
       "url": "https://open.spotify.com/track/46FwyEmZaPPzUViyEvloXo"
@@ -16383,7 +16437,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 182694,
       "name": "PDA",
       "url": "https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB"
@@ -16499,7 +16553,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 204702,
       "name": "Peaked in High School",
       "url": "https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7"
@@ -17729,7 +17783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 180060,
       "name": "Run & Hide",
       "url": "https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB"
@@ -18021,10 +18075,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 145520,
       "name": "SAN FRANCISCO SIDEWALK",
       "url": "https://open.spotify.com/track/1EgT600glf6aCE9GAQkgm2"
+    },
+    {
+      "album": {
+        "name": "Sandcastle",
+        "url": "https://open.spotify.com/album/3zRFYJfZzLlYKICALX1kyS"
+      },
+      "artists": [
+        {
+          "name": "Zia Victoria",
+          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170748,
+      "name": "Sandcastle",
+      "url": "https://open.spotify.com/track/0aoQatLl8N7NtLr1YPSu91"
     },
     {
       "album": {
@@ -18632,6 +18704,24 @@
     },
     {
       "album": {
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Shelly",
+      "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
+    },
+    {
+      "album": {
         "name": "Shit Show",
         "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
       },
@@ -18665,6 +18755,24 @@
       "duration_ms": 161906,
       "name": "Shitty People",
       "url": "https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz"
+    },
+    {
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "Shock Value",
+      "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
     },
     {
       "album": {
@@ -18831,7 +18939,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 166122,
       "name": "Sick & Selfish",
       "url": "https://open.spotify.com/track/21mnFpxWrEdFrfg0H0ZS1Q"
@@ -19329,7 +19437,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 208966,
       "name": "Sociopath",
       "url": "https://open.spotify.com/track/6CpFDHNMRiPk47pQeQIb0B"
@@ -20139,7 +20247,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 193986,
       "name": "Strangers Forever",
       "url": "https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E"
@@ -21457,7 +21565,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 155840,
       "name": "That's What Makes Me Love You",
       "url": "https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf"
@@ -22893,7 +23001,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 154087,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3BV2uhqrUnHif4ZFI5l8Np"
@@ -23604,6 +23712,24 @@
     },
     {
       "album": {
+        "name": "What Happened to Forever?",
+        "url": "https://open.spotify.com/album/60xOgVSjEdjBG4rfZllE03"
+      },
+      "artists": [
+        {
+          "name": "Luke Alvin",
+          "url": "https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "What Happened to Forever?",
+      "url": "https://open.spotify.com/track/6ICGj9koDOkKXNda8lEpMH"
+    },
+    {
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -23923,7 +24049,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 149833,
       "name": "Wild Girls",
       "url": "https://open.spotify.com/track/5y4x94092ALbFl8aik6rew"
@@ -24523,7 +24649,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 120000,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > Tudo o que está bombando e viralizando por aí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,087 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,740 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 3 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Silva MC](https://open.spotify.com/artist/0xbV62T2N67aqaRQbgU943), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 |
 | 4 | [Eu Acho Que Vi um Gatinho](https://open.spotify.com/track/3JJXjB4TtfJMQSqVl1Ul9y) | [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [MC Guto VGS](https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF), [Dj kl do abc](https://open.spotify.com/artist/7b5xQYXOGADyt95myhrJZ3) | [Eu Acho Que Vi um Gatinho](https://open.spotify.com/album/4VKYyuE46HAADrEQXhHzpH) | 2:00 |
 | 5 | [Na Rebolada](https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Thamirys](https://open.spotify.com/artist/3P1msOpSX2q616eW8UewYU) | [Na Rebolada](https://open.spotify.com/album/5BFgoR7RFXpcH5pHQBPu7x) | 1:51 |
-| 6 | [EI AMOR OLHA BEM NA MINHA CARA \- Miury Dj Remix](https://open.spotify.com/track/0EpV2cWiUe2ruTxEy9ho9u) | [Ritmada Maloqueira](https://open.spotify.com/artist/2K1wnNBNGdkIPMXr7vXypk), [Miury Dj](https://open.spotify.com/artist/0i6kLC0qEUKTkZbpB8nhWh) | [EI AMOR OLHA BEM NA MINHA CARA \(Miury Dj Remix\)](https://open.spotify.com/album/507kbZViwJ8WZTqBMtIvGE) | 1:35 |
-| 7 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
-| 8 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 |
+| 6 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
+| 7 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 |
+| 8 | [EI AMOR OLHA BEM NA MINHA CARA \- Miury Dj Remix](https://open.spotify.com/track/0EpV2cWiUe2ruTxEy9ho9u) | [Ritmada Maloqueira](https://open.spotify.com/artist/2K1wnNBNGdkIPMXr7vXypk), [Miury Dj](https://open.spotify.com/artist/0i6kLC0qEUKTkZbpB8nhWh) | [EI AMOR OLHA BEM NA MINHA CARA \(Miury Dj Remix\)](https://open.spotify.com/album/507kbZViwJ8WZTqBMtIvGE) | 1:35 |
 | 9 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 10 | [Voltei pra Put4Ria](https://open.spotify.com/track/724pvVQHyko3mId2lLWQJ9) | [Mc Jaovittin](https://open.spotify.com/artist/05E23554F57Qsq97Ii8o2f) | [Voltei pra Put4Ria](https://open.spotify.com/album/67RQHtXdCKzTTzy1Sa9ZuB) | 1:58 |
 | 11 | [Bafora e Mama](https://open.spotify.com/track/1Y9L0vdDNfXYBjf5XxC99O) | [MC Juninho da VD](https://open.spotify.com/artist/4hvKwCPgk7IGVynYX8bQqc) | [Bafora e Mama](https://open.spotify.com/album/3FoCZNSSC2TK2qXNX5sagG) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 |
 | 70 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 |
 
-Snapshot ID: `MTY2Mzg1NTk2NSwwMDAwMDAwMDYyM2RiMjkyODhlMzM0M2U2MmZkMDNlMGMxM2UwMjc5`
+Snapshot ID: `MTY2Mzk0NDc4MywwMDAwMDAwMGQzMzI1YjQ3YjNjZDBmZTE2OTk4ZmMzMzM1OTNmYjJl`

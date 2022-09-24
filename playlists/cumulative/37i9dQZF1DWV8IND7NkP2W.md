@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-502 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+503 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
-| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2022-09-24 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
 | [on the way home](https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW) | 2:48 | 2022-07-28 |  |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-26 |

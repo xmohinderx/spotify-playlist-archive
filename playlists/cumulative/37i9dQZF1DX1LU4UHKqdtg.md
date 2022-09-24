@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BLACKPINK
 
-365 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+366 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 | 2022-04-05 | 2022-07-01 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-29 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-08-04 |
+| [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 | 2022-09-22 |  |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/0pE16sFbRDVuTOEL0yxFoy) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb) | 3:12 | 2022-05-17 | 2022-07-09 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 | 2022-05-10 | 2022-06-03 |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 |  |

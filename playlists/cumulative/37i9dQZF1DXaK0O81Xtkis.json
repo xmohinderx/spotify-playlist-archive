@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Tai Verdes",
+  "description": "make it pop! cover: 5 Seconds of Summer",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 169823,
       "name": "1234",
       "url": "https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 189246,
       "name": "3am in nyc",
       "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
@@ -563,10 +563,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 177095,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/6c2GmMxmjmDbytdyXpHPvw"
+    },
+    {
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "album": {
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156226,
       "name": "can't help but let you down",
       "url": "https://open.spotify.com/track/2OvIR6pjKr2NLLYblooT5d"
@@ -1125,6 +1143,28 @@
       "duration_ms": 168336,
       "name": "Chelsea's Coming Over",
       "url": "https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A"
+    },
+    {
+      "album": {
+        "name": "Chloe (feat. Jutes)",
+        "url": "https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205254,
+      "name": "Chloe (feat. Jutes)",
+      "url": "https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d"
     },
     {
       "album": {
@@ -1587,7 +1627,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
@@ -1609,6 +1649,24 @@
       "duration_ms": 151664,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163543,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj"
     },
     {
       "album": {
@@ -1822,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "album": {
         "name": "DUMP HIM",
         "url": "https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0"
       },
@@ -1873,6 +1949,24 @@
       "duration_ms": 160675,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk"
+    },
+    {
+      "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188352,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA"
     },
     {
       "album": {
@@ -3055,7 +3149,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 219270,
       "name": "i don't wanna know!",
       "url": "https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT"
@@ -3687,7 +3781,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 185346,
       "name": "kaleidoscope",
       "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
@@ -3705,7 +3799,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 141023,
       "name": "kassidy",
       "url": "https://open.spotify.com/track/5jrwsc97zyaJrO3I7C2bHQ"
@@ -4549,7 +4643,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 180713,
       "name": "Moonrock",
       "url": "https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO"
@@ -5128,6 +5222,24 @@
     },
     {
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5JqFpeJ12d0fGEfUHGIuXM"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173966,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v"
+    },
+    {
+      "album": {
         "name": "OVER EVERYTHING",
         "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
       },
@@ -5251,7 +5363,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
@@ -5637,7 +5749,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 166569,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5DYZiEZfIKBEEwhiTXhLND"
@@ -5677,6 +5789,24 @@
       "duration_ms": 178253,
       "name": "Sad Tonight",
       "url": "https://open.spotify.com/track/2NPQbiRn9f5JWlCgNLNZJn"
+    },
+    {
+      "album": {
+        "name": "saddest soundtrack",
+        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170742,
+      "name": "saddest soundtrack",
+      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
     },
     {
       "album": {
@@ -5767,6 +5897,24 @@
       "duration_ms": 187809,
       "name": "Searching For The Light",
       "url": "https://open.spotify.com/track/0QVZBtrQavTRm7yqWFwm7n"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347146,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7"
     },
     {
       "album": {
@@ -5965,7 +6113,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 155795,
       "name": "Slide",
       "url": "https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2"
@@ -6425,7 +6573,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"

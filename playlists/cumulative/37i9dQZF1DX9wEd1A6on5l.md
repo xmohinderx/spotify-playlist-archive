@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-81 songs - 4 hr 11 min - not published yet
+81 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7h4pniSIBGlzdMHb6j7Ipo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

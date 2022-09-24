@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 369648,
+  "num_followers": 370002,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzExMDI2NSwwMDAwMDAwMGQxODc2ZGJmMmZhYzhjODBlYmRlMzVjMjA1MWEyMmFh",
+  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDRiZmQ4OWFkYWNkZGM1ZGZlNTM3NmMyNzFjMzA2Njc4",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
     },
     {
+      "added_at": "2022-09-23 10:47:53",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "we fell in love in october / forget her",
@@ -55,22 +71,6 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -107,6 +107,22 @@
       "duration_ms": 136506,
       "name": "i want to die in your arms",
       "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -175,22 +191,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "at least, I tried",
         "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -235,6 +235,22 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -335,22 +351,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "it only gets worse, i promise",
-      "url": "https://open.spotify.com/track/5H0BawU5IlPVzLTiresJwa"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 154640,
+      "name": "it only gets worse, i promise",
+      "url": "https://open.spotify.com/track/5H0BawU5IlPVzLTiresJwa"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -631,6 +647,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "The Way He Looks",
         "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
       },
@@ -659,22 +691,6 @@
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Blue Suicide",
         "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1639,26 +1655,6 @@
       "duration_ms": 290000,
       "name": "I Am the Car",
       "url": "https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 172729,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
     }
   ],
   "unique_name": "Lo-fi Indie",

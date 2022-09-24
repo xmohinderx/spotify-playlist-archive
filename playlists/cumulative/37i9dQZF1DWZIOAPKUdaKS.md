@@ -2,7 +2,7 @@
 
 ### [Focus Piano](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS)
 
-> Piano music to hone your thought process.
+> Piano music for late night work; reading, writing and studying in the quiet hours.
 
 566 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/7cjodZVzQ3VbBI3fx7ewwS)
 

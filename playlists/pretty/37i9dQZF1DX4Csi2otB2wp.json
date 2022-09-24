@@ -1,12 +1,12 @@
 {
   "description": "una lloradita tranqui",
-  "num_followers": 97005,
+  "num_followers": 97267,
   "original_name": "mexican doomer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU4NTkyNSwwMDAwMDAwMDNiMTFhZTU0MGQ4ZTIzZjZjYTQ3OGY0NzBjZWFlMTJh",
+  "snapshot_id": "MTY2Mzk2MjA3MCwwMDAwMDAwMDEwY2ExNWExOWQ4OGIwMjZkYTFmMjQ5ZGJmNzVhNGU2",
   "tracks": [
     {
       "added_at": "2022-09-07 21:25:25",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi"
     },
     {
+      "added_at": "2022-09-23 19:41:10",
+      "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 221887,
+      "name": "Dias Nublados",
+      "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
+    },
+    {
       "added_at": "2022-03-07 23:19:43",
       "album": {
         "name": "Sus 16 Grandes Exitos",
@@ -171,54 +187,6 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
-    },
-    {
-      "added_at": "2022-09-07 21:25:25",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
-    },
-    {
-      "added_at": "2022-09-07 21:25:25",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-09-07 21:25:25",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2022-01-18 23:31:02",
@@ -319,22 +287,6 @@
     {
       "added_at": "2022-01-18 23:31:02",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
-    },
-    {
-      "added_at": "2022-01-18 23:31:02",
-      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -347,6 +299,22 @@
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2022-09-23 19:41:10",
+      "album": {
+        "name": "Quiero Contarte",
+        "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 160597,
+      "name": "Quiero Contarte",
+      "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
     },
     {
       "added_at": "2022-01-18 23:31:02",
@@ -395,6 +363,22 @@
       "duration_ms": 295666,
       "name": "Quiero Perderme Contigo",
       "url": "https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE"
+    },
+    {
+      "added_at": "2022-09-23 19:41:10",
+      "album": {
+        "name": "nuestro amor sacrificado",
+        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        }
+      ],
+      "duration_ms": 82500,
+      "name": "nuestro amor",
+      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-03-07 23:19:43",
@@ -461,6 +445,22 @@
       "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
+      "added_at": "2022-09-23 19:41:10",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 328982,
+      "name": "Volveremos",
+      "url": "https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX"
+    },
+    {
       "added_at": "2022-03-07 23:19:43",
       "album": {
         "name": "Quien Como T\u00fa",
@@ -525,6 +525,38 @@
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
+      "added_at": "2022-09-07 21:25:25",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-09-07 21:25:25",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
       "added_at": "2022-01-18 23:31:02",
       "album": {
         "name": "20 Exitos",
@@ -555,6 +587,22 @@
       "duration_ms": 178240,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+    },
+    {
+      "added_at": "2022-01-18 23:31:02",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2022-01-18 23:31:02",
@@ -745,6 +793,26 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
+      "added_at": "2022-09-23 19:41:10",
+      "album": {
+        "name": "Loko (with Los Primos Del Este)",
+        "url": "https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 128739,
+      "name": "Loko (with Los Primos Del Este)",
+      "url": "https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t"
+    },
+    {
       "added_at": "2022-08-08 23:01:16",
       "album": {
         "name": "Noches Tristes",
@@ -831,22 +899,6 @@
       "duration_ms": 186709,
       "name": "Solo Me Dejaste",
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2022-06-03 16:51:13",
-      "album": {
-        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
     },
     {
       "added_at": "2022-04-11 22:27:54",
@@ -1045,22 +1097,6 @@
       "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
-      "added_at": "2022-08-08 23:01:16",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 237190,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/3IMACfPG8wHaC6KccsyuUn"
-    },
-    {
       "added_at": "2022-01-18 23:31:02",
       "album": {
         "name": "Serenata con Los Tecolines",
@@ -1173,22 +1209,6 @@
       "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
-      "added_at": "2022-03-29 19:53:41",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
       "added_at": "2022-08-08 23:01:16",
       "album": {
         "name": "Canciones del Ancla",
@@ -1223,22 +1243,6 @@
       "duration_ms": 196800,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd"
-    },
-    {
-      "added_at": "2022-01-18 23:31:02",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     }
   ],
   "unique_name": "mexican doomer",

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 340266,
+  "num_followers": 340292,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg1ODgwMCwwMDAwMDAwMDQ4MmI5ZmEzNDA5OWQxYjYzYmY0OTJjMTRmOTgzNWY1",
+  "snapshot_id": "MTY2Mzg1ODgwMCwwMDAwMDAwMGQ3ZDIyZTAyMTlmMTc2NTA1NmFiNDk0ODZhMDdkOTlm",
   "tracks": [
     {
       "added_at": "2022-09-22 15:00:00",
@@ -171,6 +171,26 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 155267,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+    },
+    {
+      "added_at": "2022-09-22 15:00:00",
+      "album": {
         "name": "Hurricanes",
         "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
       },
@@ -219,8 +239,8 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "\u8d855\u6b21\u5143",
-        "url": "https://open.spotify.com/album/7bkS1kTjGiqCMKtqtG4Zfp"
+        "name": "Hyper 5th Dimension",
+        "url": "https://open.spotify.com/album/66pCXMDxtnOpTeMuxoHvnE"
       },
       "artists": [
         {
@@ -233,8 +253,8 @@
         }
       ],
       "duration_ms": 174517,
-      "name": "\u8d855\u6b21\u5143",
-      "url": "https://open.spotify.com/track/0msWrLwaWts7KAbBIrakHp"
+      "name": "Hyper 5th Dimention",
+      "url": "https://open.spotify.com/track/42Fqdcrd5axKxYUWo1Obei"
     },
     {
       "added_at": "2022-09-22 15:00:00",
@@ -963,8 +983,8 @@
     {
       "added_at": "2022-09-22 15:00:00",
       "album": {
-        "name": "37.5\u00b0C",
-        "url": "https://open.spotify.com/album/6wNizIxKsGdvJEfVCP9oF4"
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/2vhItqUsvlJjaknJCjMuCG"
       },
       "artists": [
         {
@@ -974,7 +994,7 @@
       ],
       "duration_ms": 167410,
       "name": "37.5\u00b0C",
-      "url": "https://open.spotify.com/track/2xBq6S5pDvVsIxxlCxlC1z"
+      "url": "https://open.spotify.com/track/5XuCNgnDB3oFVz4pbPXFcJ"
     },
     {
       "added_at": "2022-09-22 15:00:00",
