@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,647 likes - 180 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,666 likes - 180 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 156 | [De Puro Gusto \(En Vivo\)](https://open.spotify.com/track/3KJkfQIGxUOCq2ImgYFPni) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [De Puro Gusto \(En Vivo\)](https://open.spotify.com/album/1NS2pCVAohnBnXbq3YkoTl) | 2:42 |
 | 157 | [Como Tu Decidas \- Sones De Mi Tierra En Vivo Desde El Palenque](https://open.spotify.com/track/4KediCfdxQ6rkLNRtgiWp9) | [El Juanma](https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF) | [Como Tu Decidas \(Sones De Mi Tierra En Vivo Desde El Palenque\)](https://open.spotify.com/album/0NocgiDhEOyIKFcKvfeTdy) | 2:46 |
 | 158 | [Te Amo Y Te Amo \- En Vivo](https://open.spotify.com/track/1Hx6JkOrY3K665STfZnD88) | [Los Morroz](https://open.spotify.com/artist/1kTt9LcqFOpo54xNNFx6EM) | [Te Amo Y Te Amo \(En Vivo\)](https://open.spotify.com/album/6e1RwB7Jj1nw8nkluMHaOc) | 3:32 |
-| 159 | [Cariño Prohibido \- En Vivo](https://open.spotify.com/track/4walRkR7DUEnrTm0tekIF1) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Amanecida en Caborca Sonora, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6V8nu6XClbgJHp7XVZshiQ) | 3:28 |
+| 159 | [Cariño Prohibido \(En Vivo\)](https://open.spotify.com/track/4walRkR7DUEnrTm0tekIF1) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Amanecida en Caborca Sonora, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6V8nu6XClbgJHp7XVZshiQ) | 3:28 |
 | 160 | [El Balenciaga \- En Vivo](https://open.spotify.com/track/6TM4XplDYUrkHPXVUBD2xm) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J) | [Al Limite \(En Vivo\)](https://open.spotify.com/album/0TesywM6XrhHiJqWSNoUim) | 2:29 |
 | 161 | [Suelta Tu Pelo \- En Vivo](https://open.spotify.com/track/3eMyVT3lCVk93fbAQVfxaF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Suelta Tu Pelo \(En Vivo\)](https://open.spotify.com/album/2l2jHJSfUUaIVUubZj872w) | 2:48 |
 | 162 | [La Plebada De Archivaldo \(En Vivo\)](https://open.spotify.com/track/11e8P3zquAFA7j2cf5FJMm) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [La Plebada De Archivaldo \(En Vivo\)](https://open.spotify.com/album/16klovKHeCLcwm7VPjFmzc) | 2:55 |

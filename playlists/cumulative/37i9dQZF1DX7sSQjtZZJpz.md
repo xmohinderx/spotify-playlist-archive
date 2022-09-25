@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-83 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
+84 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Roy G\. Biv](https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:07 | 2020-04-22 |  |
 | [Shapes Train Song](https://open.spotify.com/track/4DvfoXiSwTT6TOAQ2XTwmx) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 2:02 | 2020-06-26 | 2022-07-29 |
 | [Shapes Train Song](https://open.spotify.com/track/5EQNnclurQIg5uAtNcqfc0) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [ABC Colors Shapes and More \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/73AdelAITLoU5PxRGGYyk0) | 2:02 | 2020-06-26 |  |
-| [Solar System](https://open.spotify.com/track/5zc9lVtIyznZOSEyQaOwqe) | [Kids Learning Tube](https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0) | [Planets of Our Solar System](https://open.spotify.com/album/6IDvLE2zmw0d6mgFHBBLg8) | 3:28 | 2020-04-22 |  |
+| [Solar System](https://open.spotify.com/track/4bRKc6gfJwv6MykBCOj6ju) | [Kids Learning Tube](https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0) | [Planets of Our Solar System](https://open.spotify.com/album/6iApbHoANBNEz1hxZ6eLcv) | 3:26 | 2020-04-22 |  |
+| [Solar System](https://open.spotify.com/track/5zc9lVtIyznZOSEyQaOwqe) | [Kids Learning Tube](https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0) | [Planets of Our Solar System](https://open.spotify.com/album/6IDvLE2zmw0d6mgFHBBLg8) | 3:28 | 2020-04-22 | 2022-09-25 |
 | [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2020-04-22 |  |
 | [Ten Little Speckled Eggs \- Learn Numbers with Chicks and Bunnies](https://open.spotify.com/track/3Tr4BBQbmGMmlyl9e6wdBw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 1:59 | 2020-06-26 | 2022-07-29 |
 | [Ten Little Speckled Eggs \- Learn Numbers with Chicks and Bunnies](https://open.spotify.com/track/5rA5GviXad7rQQzNMQXDyC) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5) | 1:59 | 2020-06-26 |  |

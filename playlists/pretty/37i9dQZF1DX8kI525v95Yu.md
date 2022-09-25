@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 
 > The greatest hits of U2, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,974 likes - 59 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,463 likes - 59 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 | 58 | [Ordinary Love](https://open.spotify.com/track/7kCrYUDtWsPldohOKPTKPL) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Mandela – Long Walk To Freedom \(Original Motion Picture Soundtrack\) \[UK/International\]](https://open.spotify.com/album/7xEZ5aXtQaAAzN6uBweaC6) | 3:41 |
 | 59 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
 
-Snapshot ID: `MTY0MzE0MTkwMSwwMDAwMDAwMGQwOGJmNDQwMjJkN2ZiOWU1NTZiNmE5ZTg1OGJhMTM1`
+Snapshot ID: `MTY2NDA1NDUzNiwwMDAwMDAwMDU5OTE2NWIzOTFiNDA5ZTExM2RlYzVjZWYyYzcyOGEx`

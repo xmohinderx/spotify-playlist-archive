@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Wonder Years
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,934 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,981 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 41 | [Feral \- Edit](https://open.spotify.com/track/6EBeLfNsP2JL3OoeTiwxuY) | [SCATTERED ASHES](https://open.spotify.com/artist/3dF9KsXUOgzNKS59c1eVIA) | [Feral](https://open.spotify.com/album/4zX7ZtYKhct6ZWrPseGfUM) | 3:31 |
 | 42 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 43 | [Blood and dance](https://open.spotify.com/track/4Pm6BVdUJD4MgSxchmoAGM) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:45 |
-| 44 | [Old Friends Like Lost Teeth](https://open.spotify.com/track/0hO47G5FaU2kbs8sSwwbda) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Old Friends Like Lost Teeth](https://open.spotify.com/album/6oC4dyi4zjkrzja7sxcD8n) | 3:14 |
+| 44 | [Old Friends Like Lost Teeth](https://open.spotify.com/track/2jBht07e0UE7kROyswZ0dp) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:14 |
 | 45 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 |
 | 46 | [Out the Door](https://open.spotify.com/track/3sSILvMDzKAk2PG4TLJoJM) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Out the Door](https://open.spotify.com/album/0Yr5rPIOoT1QlwpfUgHfDp) | 2:45 |
 | 47 | [Kill to Be Heard](https://open.spotify.com/track/1B5w8VVuKPTjd7nEYgMoY0) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Kill to Be Heard](https://open.spotify.com/album/5U6WPf9eTW0ImDXqzDNNWJ) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 | 100 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 |
 
-Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMDRiYjQ2OGVjMWY1NGQ5MTRmODU5NzFlZThlNmRlMjRm`
+Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMGVmNzQ4ODRhMjhiNDA5NDZhYTM5ZjA0ZGNmOTIxNTFh`

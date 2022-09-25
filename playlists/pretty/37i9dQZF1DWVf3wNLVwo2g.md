@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,732 likes - 195 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,737 likes - 195 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

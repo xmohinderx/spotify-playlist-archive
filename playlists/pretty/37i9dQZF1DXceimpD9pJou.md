@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: Generación 12
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,931 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,010 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 56 | [Indescriptible](https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk) | [Pas Music](https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h) | [Indescriptible](https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6) | 4:53 |
 | 57 | [De Adentro Hacia Afuera](https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [De Adentro Hacia Afuera](https://open.spotify.com/album/07M4BYXA44jag1dWW9nYZm) | 3:11 |
 | 58 | [Mi Lugar Es Aquí](https://open.spotify.com/track/7DKyZ3vvmilx3FXgFAzLXx) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Daniel Simão](https://open.spotify.com/artist/5ddc6O8wLY6VVXCuUhK0ff) | [Mi Lugar Es Aquí](https://open.spotify.com/album/2HkP8Rq4hiDh7QEuhOSe7r) | 4:56 |
-| 59 | [Llena Este Lugar \- Live](https://open.spotify.com/track/4S9dzKT2ZD7TeWTH8XDW1f) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Favor & Gracia \(Live\)](https://open.spotify.com/album/2pZwI5UyQpCk0MckYGocG2) | 10:47 |
+| 59 | [Llena Este Lugar \- Live](https://open.spotify.com/track/4S9dzKT2ZD7TeWTH8XDW1f) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Favor & Gracia](https://open.spotify.com/album/2pZwI5UyQpCk0MckYGocG2) | 10:47 |
 | 60 | [Seguro Estoy](https://open.spotify.com/track/1sHUz1pV1twY2w0kShSaLq) | [Moises Cancel](https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Seguro Estoy](https://open.spotify.com/album/7hd0cfdDle1RIhzbd3CwPB) | 4:38 |
 | 61 | [Que Rico Es](https://open.spotify.com/track/3VBl3d5JBlqG8adMBkghBg) | [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [JonCarlos + Gabriella](https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47), [Edwin Lebron](https://open.spotify.com/artist/6usspkofkkxT1vCCDj7w9i) | [Que Rico Es](https://open.spotify.com/album/0bMclpOkgIHCBcEGVLBiyq) | 4:47 |
 | 62 | [La Bondad De Dios](https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [La Bondad De Dios](https://open.spotify.com/album/2VaiSe5CsjPOuIqpqdqATX) | 2:19 |

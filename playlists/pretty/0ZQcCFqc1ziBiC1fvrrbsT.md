@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,245 likes - 37 songs - 2 hr 27 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,259 likes - 37 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 7 | [My Life](https://open.spotify.com/track/3JGGRU7LCpJv5WLUlmIZnZ) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV) | [My Life](https://open.spotify.com/album/29F13hU5RygDt8IjRQ8cQ7) | 6:15 |
 | 8 | [mythsysizer instinct](https://open.spotify.com/track/3hA2YUBfFu8avbPnPicWSx) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb), [Hemlock Ernst](https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa) | [mythsysizer instinct](https://open.spotify.com/album/0dcWJ9meWWkNdSMxAlVTGd) | 4:00 |
 | 9 | [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 |
-| 10 | [Ten Cane Row](https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Third Time's the Charm](https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7) | 3:29 |
+| 10 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Third Time's The Charm](https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7) | 3:29 |
 | 11 | [Corbeau](https://open.spotify.com/track/0UfZ1Kene61dfTHZdm6TlX) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Corbeau](https://open.spotify.com/album/4cxphvAIZWTzykzVOg4T8U) | 3:38 |
 | 12 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 | 13 | [Magical Thinking](https://open.spotify.com/track/5dkhw3KEwufj4WXk5RsFPH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Magical Thinking](https://open.spotify.com/album/2ZuaDhfl1Kp6VPU9ngGmpj) | 3:41 |

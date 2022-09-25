@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250 sq ft micro apt\. Cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423,683 likes - 150 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,931 likes - 150 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,366 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,406 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Passa Nada](https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [JEFFRO](https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi) | [Passa Nada](https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT) | 3:44 |
-| 2 | [60K](https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [60K](https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT) | 2:38 |
+| 2 | [60K](https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [60K](https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT) | 2:38 |
 | 3 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 |
 | 4 | [Debochando da Mídia](https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [L7NNON](https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc), [Ian Girão](https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF) | [Debochando da Mídia](https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo) | 3:21 |
 | 5 | [Faixa Preta](https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Faixa Preta](https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH) | 2:49 |

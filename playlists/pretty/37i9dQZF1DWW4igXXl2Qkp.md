@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: RALAN STYLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,378 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,439 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 |
 | 2 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 |
-| 3 | [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 |
+| 3 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 |
 | 4 | [Black Visa](https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Black Visa](https://open.spotify.com/album/558YuTRXhHZk8RAq8wMm1i) | 3:06 |
 | 5 | [NO PLACE TO GO](https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L) | [Gengis Don](https://open.spotify.com/artist/4R4iFqELWPg6TAnnD6ccpI), [witSmusic](https://open.spotify.com/artist/6H4uK8igktMYWfXX3PNEEW) | [NO PLACE TO GO](https://open.spotify.com/album/59wuLv8LEXoekRowJwkpYp) | 3:21 |
 | 6 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Iyum](https://open.spotify.com/track/138vvaXg2wnEi7KHfs6rFO) | [Nezi Momodu](https://open.spotify.com/artist/38N4mjrrjyqXksEoMFrPWm) | [The Pound](https://open.spotify.com/album/2heRKh4uxtALf3oxqOOXZv) | 3:24 |
 | 50 | [Feelings](https://open.spotify.com/track/42hfVS3MCDIbyFoBriCiJF) | [Shani Boni](https://open.spotify.com/artist/1tzZtJUaD3xPSetRFaP5Ae) | [Feelings](https://open.spotify.com/album/2vl4TeVHnGQTnfr9qptusw) | 2:24 |
 
-Snapshot ID: `MTY2Mzc3NjE4NywwMDAwMDAwMDgxZWI3MGZmZGIyZDkzYTg4ODMwOTk1MzZmMDY5ZjZm`
+Snapshot ID: `MTY2Mzc3NjE4NywwMDAwMDAwMDkyZTJjMDI1MDhmNzI5Nzc5YmU2NWZjMjgwMzQ4MmQ3`

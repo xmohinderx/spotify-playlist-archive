@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en good vibes! Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,297 likes - 64 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,327 likes - 64 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:14 |
+| 1 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 |
 | 2 | [Boot \(Remix\)](https://open.spotify.com/track/0vnFNnC6gLwuvSS0xnMMTt) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Boot \(Remix\)](https://open.spotify.com/album/0HflMPvY6WOSgY3pLvgjC3) | 3:07 |
 | 3 | [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [C.c](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 |
 | 4 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 |
-| 5 | [leave me alone](https://open.spotify.com/track/26SPFrRr7cx7IhfHySFTvh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:53 |
+| 5 | [leave me alone](https://open.spotify.com/track/26SPFrRr7cx7IhfHySFTvh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:54 |
 | 6 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 |
 | 7 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 8 | [Backazz](https://open.spotify.com/track/7mHX2qBPHMsckyURJCHgpx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Backazz](https://open.spotify.com/album/5WoPkk8iD8SA8UrQE0o8ux) | 2:22 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 12 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 13 | [Lekker Man](https://open.spotify.com/track/30hcfvZX6l2vHhonJlscNU) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lekker Man](https://open.spotify.com/album/4rF4UY8K36cqnrWLrTpc8v) | 3:24 |
 | 14 | [Good Girls](https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jordan Knows](https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId) | [Good Girls](https://open.spotify.com/album/321080p33tt05xgRoJHEov) | 2:46 |
-| 15 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:27 |
+| 15 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 |
 | 16 | [Stylo](https://open.spotify.com/track/0aoysW5V50MCNJYgIMtGH9) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Stylo](https://open.spotify.com/album/63L9KTEs3t94u6Rm7IKX50) | 3:29 |
 | 17 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
 | 18 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 |

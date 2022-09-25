@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ckay
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,741 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,887 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 7 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
 | 8 | [The Assignment](https://open.spotify.com/track/7BbdnCkvf2TygKbSVYaiIw) | [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [SaveOurSummer: The Playlist](https://open.spotify.com/album/4izbmGZcyNctJXDs3R5Ohm) | 2:43 |
 | 9 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 |
-| 10 | [Nack Remix](https://open.spotify.com/track/0SzvGgLW3d3P6ODpRwxGPA) | [The Therapist](https://open.spotify.com/artist/70aLDdX4tBrj9ZcsmHmwTQ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Nack Remix](https://open.spotify.com/album/27iamLPlZhs4W8c8SYl6mD) | 2:58 |
+| 10 | [Nack Remix](https://open.spotify.com/track/0SzvGgLW3d3P6ODpRwxGPA) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Nack Remix](https://open.spotify.com/album/27iamLPlZhs4W8c8SYl6mD) | 2:58 |
 | 11 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:22 |
 | 12 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 13 | [Ten Toes](https://open.spotify.com/track/2l6cWeDkec1ZZbiMlI47kR) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SIMMA DOWN](https://open.spotify.com/album/58ocawJCZM1RNuMEgqJJ93) | 2:30 |

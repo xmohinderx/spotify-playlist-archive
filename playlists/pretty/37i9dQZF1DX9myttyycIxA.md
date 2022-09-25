@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,573 likes - 140 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,571 likes - 140 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

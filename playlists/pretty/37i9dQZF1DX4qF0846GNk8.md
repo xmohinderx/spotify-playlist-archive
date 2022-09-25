@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,511 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,738 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 23 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 |
 | 24 | [El 3aw \- العو](https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El 3aw \- العو](https://open.spotify.com/album/7pduZbuDZ53U3jeDTYJQej) | 3:28 |
 | 25 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 |
-| 26 | [يلا نفتح الحساب](https://open.spotify.com/track/12h9Zu7E5LG8pRj0XnPX9A) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/4x1nQ9tP0qe3ZclwgXdCNF) | 3:48 |
+| 26 | [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 |
 | 27 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 |
 | 28 | [صحي الاخصام بطلقه](https://open.spotify.com/track/3m8UZ8AmSXJtHWeQnvXWXs) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [صحي الاخصام بطلقه](https://open.spotify.com/album/383dd0IEiY5nmbSVSGbE7m) | 4:29 |
 | 29 | [عادي عادي مبيشغلنيش](https://open.spotify.com/track/24JteCymkDnedpSDPCjLCR) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [بوده محمد](https://open.spotify.com/artist/1RqbnHZJu6fkerAn262p31) | [عادي عادي مبيشغلنيش](https://open.spotify.com/album/2EhOx2z4MHnBhjFlf6D2Q0) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 51 | [على وضعنا](https://open.spotify.com/track/5sb9l21Adj5wafYN0U2eo7) | [Ahmed Faransa](https://open.spotify.com/artist/4edzZOS8Fd330sVuzn8D6q) | [على وضعنا](https://open.spotify.com/album/1etJ2v9Joi2EyIjZqQDNJo) | 2:02 |
 | 52 | [قموصه \( لو مدايق \)](https://open.spotify.com/track/3PZuWYrm3p78Sx96HNWusd) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC) | [قموصه \( لو مدايق \)](https://open.spotify.com/album/58agffHGyi4ojubltavq6Z) | 3:17 |
 
-Snapshot ID: `MTY2MzY2NTg3MiwwMDAwMDAwMDNkZjE1NzlmZDU5MGY2OTU1NzJiMGQzZTMyN2FlMzRj`
+Snapshot ID: `MTY2MzY2NTg3MiwwMDAwMDAwMGZlZjA4ZDIyMWY4OTdiMzQ0MDkyMjA3NTFlYmZmYThl`

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 300386,
       "name": "5:15",
       "url": "https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 227600,
       "name": "Athena",
       "url": "https://open.spotify.com/track/255k7GWdOau9yOsewX85lg"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 125320,
       "name": "I Can't Explain - Mono Version",
       "url": "https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s"
@@ -449,9 +449,27 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125967,
+      "name": "I Can't Explain - Stereo Version",
+      "url": "https://open.spotify.com/track/0xHxeH4QTqlfNrQvczkoTA"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 156327,
       "name": "I Don't Mind - Stereo Version",
       "url": "https://open.spotify.com/track/10dFDqltx3vJbGXyjWyxIk"
@@ -509,6 +527,24 @@
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157853,
+      "name": "I'm One",
+      "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
     },
     {
       "album": {

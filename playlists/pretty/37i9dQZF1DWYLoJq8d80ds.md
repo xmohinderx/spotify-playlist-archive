@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,620 likes - 95 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,665 likes - 95 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

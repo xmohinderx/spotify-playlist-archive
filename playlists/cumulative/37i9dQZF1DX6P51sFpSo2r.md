@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
 
-59 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [My Will Be Done](https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The March](https://open.spotify.com/album/708sfirbWrGGssUqiq8Gie) | 3:37 | 2022-01-17 |  |
 | [Nerdy](https://open.spotify.com/track/5qonKXM5Uh1I7PB75Xhx86) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [The Opposite of December..\. A Season of Separation](https://open.spotify.com/album/6mmNgiTBec2A1jp8N3XMHq) | 2:43 | 2022-01-17 |  |
 | [Not The American Average](https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:39 | 2022-01-17 |  |
-| [On Wings Of Lead](https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous \(Explicit Version\)](https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC) | 5:21 | 2022-01-17 |  |
+| [On Wings Of Lead](https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous \(Explicit Version\)](https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC) | 5:21 | 2022-01-17 | 2022-09-25 |
 | [On Wings of Lead](https://open.spotify.com/track/7MMc50k0I12cCeXS8503X9) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/2ZWA7Os6UzInZOC9SJx0uz) | 5:21 | 2022-01-17 | 2022-07-29 |
+| [On Wings Of Lead](https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz) | 5:21 | 2022-01-17 |  |
 | [Paramount](https://open.spotify.com/track/3xuOmbJpeVFsMY7dh0Pc3e) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Guardians](https://open.spotify.com/album/3KJ44LRyBaBsZi2eW79pCV) | 4:48 | 2022-01-17 |  |
 | [Pittsburgh \(No Intro\)](https://open.spotify.com/track/6RcsAN8XF5KX6mMh6dum8e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let the Ocean Take Me](https://open.spotify.com/album/0gJQUJxCWLw6V5IlDKarWI) | 3:59 | 2022-01-17 |  |
 | [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 | 2022-01-17 |  |

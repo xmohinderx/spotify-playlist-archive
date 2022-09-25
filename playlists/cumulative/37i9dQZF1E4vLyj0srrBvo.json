@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224417,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru"
+    },
+    {
+      "album": {
         "name": "All Mirrors",
         "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 228440,
       "name": "AMERICAN GURL",
       "url": "https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh"
@@ -3213,7 +3231,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 289320,
       "name": "Bulbform",
       "url": "https://open.spotify.com/track/5c5LFrdYFQSyb5gIUiVCY9"
@@ -7097,7 +7115,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 221905,
       "name": "Feyd Rautha Dark Heart",
       "url": "https://open.spotify.com/track/3Kiw15uKSNoByOSAL8vlGV"
@@ -7693,7 +7711,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Full Mental Erase",
       "url": "https://open.spotify.com/track/2zNDnnBjErbLTSFMeeKuPk"
@@ -8545,7 +8563,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 229323,
       "name": "Hands All Over Me",
       "url": "https://open.spotify.com/track/6SUDCYjesC8aFI0Lic0m3T"
@@ -8635,7 +8653,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 219029,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/1FLGG1DM2xyVuN1UR81CBE"
@@ -9115,7 +9133,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
@@ -9693,7 +9711,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 192001,
       "name": "I Felt Love",
       "url": "https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt"
@@ -10711,7 +10729,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "JUICY",
       "url": "https://open.spotify.com/track/7v7UZAX5TR64Pmvda8kI8E"
@@ -12069,7 +12087,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 273840,
       "name": "Lost Souls/Eelings",
       "url": "https://open.spotify.com/track/36LU5nIrAZzLXDFxvwzASU"
@@ -12829,7 +12847,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 212201,
       "name": "Meat",
       "url": "https://open.spotify.com/track/6eTKiVyN9yvi2kuO8KKtVd"
@@ -13161,7 +13179,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 276526,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/3vKPvqvgyAwod4x8BLdAaN"
@@ -13967,7 +13985,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
@@ -14647,6 +14665,28 @@
       "duration_ms": 196790,
       "name": "Omaha",
       "url": "https://open.spotify.com/track/72wDx33Nc6jl6j1TAbFBMN"
+    },
+    {
+      "album": {
+        "name": "Harlecore",
+        "url": "https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "DJ Danny",
+          "url": "https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "On A Mountain",
+      "url": "https://open.spotify.com/track/3BIOgDZVS4iAmtDJ1S6RrD"
     },
     {
       "album": {
@@ -16617,7 +16657,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 140563,
       "name": "Rich Bitch Juice - Laura Les Remix",
       "url": "https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx"
@@ -17155,7 +17195,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 183423,
       "name": "Satanic Slumber Party",
       "url": "https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz"
@@ -17347,7 +17387,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 180133,
       "name": "Sea Without Blue",
       "url": "https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96"
@@ -18167,7 +18207,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 178105,
       "name": "Smokescreen",
       "url": "https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX"
@@ -18185,7 +18225,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 357454,
       "name": "Snakes & Ladders",
       "url": "https://open.spotify.com/track/1BYtgOZhetQ3qqxd0FEg66"
@@ -19037,7 +19077,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 168230,
       "name": "Starfall",
       "url": "https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv"
@@ -20927,7 +20967,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 115000,
       "name": "UCKERS",
       "url": "https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI"
@@ -22035,7 +22075,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 178546,
       "name": "where does the party go?",
       "url": "https://open.spotify.com/track/1UQPpMWGjykuHEdEI7RNIp"
@@ -22089,7 +22129,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 223640,
       "name": "White Elephant - Strange Fruit Remix",
       "url": "https://open.spotify.com/track/1gUNAceY99kXgFMpA4N2ah"
@@ -22237,7 +22277,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 236066,
       "name": "Wild Flowers",
       "url": "https://open.spotify.com/track/0XMrWmqFh1FqR1y0JI1R2Y"
@@ -22399,7 +22439,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 305752,
       "name": "World Princess part II",
       "url": "https://open.spotify.com/track/7v9t1j6m5nYYGG1etmAD12"

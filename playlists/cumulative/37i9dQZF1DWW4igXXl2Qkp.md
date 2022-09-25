@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: RALAN STYLES
 
-482 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+483 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [FLOWERS](https://open.spotify.com/track/2LRyHmhUWF9fBcvX07d0SY) | [LANO](https://open.spotify.com/artist/5WJNhEfooEIDF4XZHUTLJ3), [ANDA](https://open.spotify.com/artist/2OVDGyCAvAI1IABk83Hpcm), [DAE the VIDEO](https://open.spotify.com/artist/3TCoDJq011eE6A7PnKBsus), [jale](https://open.spotify.com/artist/07ui0wa7tEX8hnt1wKyDhd), [Bobbon](https://open.spotify.com/artist/1IL0tUcT6MjfT6r8twAcUf) | [FLOWERS](https://open.spotify.com/album/7qwlKXw58FZK4SuVvGeHWm) | 3:34 | 2022-06-30 | 2022-08-25 |
 | [Foreigns & Trackhawks](https://open.spotify.com/track/4UfLpe2coVsWjywb1phLgL) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Foreigns & Trackhawks](https://open.spotify.com/album/7GgC2L1qY2y3twExhtYYK2) | 2:26 | 2022-02-03 | 2022-03-03 |
 | [Four Walls](https://open.spotify.com/track/05VTU3Txslze8gIkvyi1Aw) | [Kill Dusty](https://open.spotify.com/artist/3SaQpHMKQexa6qIOmyliea) | [Four Walls](https://open.spotify.com/album/4OkCI1jrBlEzJ1KBNWP9QY) | 1:43 | 2022-01-19 | 2022-02-17 |
-| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-21 |  |
+| [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 | 2022-09-21 |  |
+| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-21 | 2022-09-25 |
 | [Fresh off the UFO](https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Fresh off the UFO](https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC) | 1:55 | 2022-04-27 | 2022-07-01 |
 | [FRESH OFF TOUR](https://open.spotify.com/track/7eQ7oeNgCDmoWRe8aDjuqx) | [Monroe Flow](https://open.spotify.com/artist/3k1r4MyxGh3oVE906HXt9s) | [SCARRED FOR LIFE](https://open.spotify.com/album/0sq8PKHH8VgXkhKDjJh6TW) | 3:09 | 2022-03-09 | 2022-03-17 |
 | [From Rags 2 Riches](https://open.spotify.com/track/4MsSQKCg2TVyvszBu3BbYq) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [From Rags 2 Riches](https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P) | 2:17 | 2022-06-30 | 2022-08-04 |

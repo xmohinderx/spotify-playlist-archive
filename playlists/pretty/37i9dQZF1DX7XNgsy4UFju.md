@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Pierre Kwenders
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,025 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,138 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 70 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 |
 | 71 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 |
 | 72 | [In the Dark](https://open.spotify.com/track/2xETgec2TnBkVct3J2G3yh) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [In the Dark](https://open.spotify.com/album/5p0ILU7DFbjTFhu7di07Ke) | 3:16 |
-| 73 | [Hurt Happens](https://open.spotify.com/track/0JdBewDaXQhXpzp7cEpLfL) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Hurt Happens](https://open.spotify.com/album/5u07ptkhl9vJ2CV0pl3fBS) | 3:25 |
+| 73 | [Hurt Happens](https://open.spotify.com/track/2tZwyOCd9xoDzlXUJgjojB) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Pale Blue](https://open.spotify.com/album/3pvfDz1eiriCaGiM97jGx3) | 3:25 |
 | 74 | [Middle Name](https://open.spotify.com/track/2FDg95ORv44iorLnmaxkIc) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:38 |
 | 75 | [Chemical Emotion](https://open.spotify.com/track/57KXGxtYYTZB0bLwrHHvTD) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [Chemical Emotion](https://open.spotify.com/album/4VzLUZMDRGHN5vpyYbLBPd) | 3:10 |
 | 76 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Motel](https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q) | 3:29 |
 | 100 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDcyOGJiNzc3MTMxMzQ2NGI3ZjI5YmQzZDllMzRiNmYx`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDVhY2FhOWZmZjEyMzY0MzU2ZTk5ZjZhNmI1MTc4NDIz`

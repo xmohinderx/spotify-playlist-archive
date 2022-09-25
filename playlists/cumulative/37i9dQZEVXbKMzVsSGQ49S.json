@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 292458,
       "name": "700 \u00de\u00fasund st\u00f3lar",
       "url": "https://open.spotify.com/track/42hyqD9o4Gdt3dmYu2oAKm"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 324568,
       "name": "Afgan",
       "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 169655,
       "name": "Aldrei Toppa\u00f0",
       "url": "https://open.spotify.com/track/7teFuwH2migyw406oQEEWW"
@@ -3653,10 +3653,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 264913,
       "name": "D\u00ednam\u00edt",
       "url": "https://open.spotify.com/track/3808LH7NVd0ZaGCZpKcNRc"
+    },
+    {
+      "album": {
+        "name": "D\u00ednam\u00edt",
+        "url": "https://open.spotify.com/album/5LKCy2Xp5V8VKiKBFvSpJF"
+      },
+      "artists": [
+        {
+          "name": "\u00dalfur \u00dalfur",
+          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264913,
+      "name": "D\u00ednam\u00edt",
+      "url": "https://open.spotify.com/track/7gGRbOhWFyWmjYD6xzauQ0"
     },
     {
       "album": {
@@ -3971,6 +3993,24 @@
       "duration_ms": 193210,
       "name": "Einn \u00ed Einu (feat. Herra Hnetusmj\u00f6r) - \u00deorm\u00f3\u00f0ur Remix",
       "url": "https://open.spotify.com/track/4ya5Shhfn8tuZjLGF07mPb"
+    },
+    {
+      "album": {
+        "name": "....Eitt lag enn",
+        "url": "https://open.spotify.com/album/73ytBNTFmeoTuAzx73HihC"
+      },
+      "artists": [
+        {
+          "name": "Brimkl\u00f3",
+          "url": "https://open.spotify.com/artist/7Ejb1AuXvrKXzcM3k5nLJ9"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162818,
+      "name": "Eitt lag enn",
+      "url": "https://open.spotify.com/track/6p87m8IQhHCTqOmOSeakWd"
     },
     {
       "album": {
@@ -4801,7 +4841,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 277270,
       "name": "Fimm",
       "url": "https://open.spotify.com/track/77GxNN9ZQKnASt4sLMnTxk"
@@ -7213,7 +7253,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 197946,
       "name": "Hvert \u00f6rstutt spor",
       "url": "https://open.spotify.com/track/0f6kCIN4AKer6C5zI9vosm"
@@ -9017,7 +9057,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -16260,6 +16300,28 @@
     },
     {
       "album": {
+        "name": "T\u00e1rin falla h\u00e6gt",
+        "url": "https://open.spotify.com/album/1gqsQjO45RmdqGsgl000qB"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        },
+        {
+          "name": "Au\u00f0ur",
+          "url": "https://open.spotify.com/artist/21SqAOtuXFpwygK1GNxjTm"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "T\u00e1rin falla h\u00e6gt",
+      "url": "https://open.spotify.com/track/6Vd8hxisvvbtZloYVH5kAo"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2022",
         "url": "https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi"
       },
@@ -16643,7 +16705,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 196709,
       "name": "Vikivaki",
       "url": "https://open.spotify.com/track/1PpVP5oRzfz0qFWlRnEU3b"
@@ -17774,6 +17836,28 @@
     },
     {
       "album": {
+        "name": "\u00c1hyggjur",
+        "url": "https://open.spotify.com/album/2avnaRSLLgKDPukrqU58lb"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127613,
+      "name": "\u00c1hyggjur",
+      "url": "https://open.spotify.com/track/4gksS6ZXD2Bdv8YaMY6R6q"
+    },
+    {
+      "album": {
         "name": "\u00c1lit",
         "url": "https://open.spotify.com/album/0a0qQArN1o0pSQ2thb685P"
       },
@@ -17895,7 +17979,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 269693,
       "name": "\u00c1str\u00f3s",
       "url": "https://open.spotify.com/track/42BgRqXAu46c2Iz55krZGy"
@@ -18175,7 +18259,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 231880,
       "name": "\u00c9g veit \u00fe\u00fa kemur",
       "url": "https://open.spotify.com/track/283fTQ0gdXA0ixUxj4SGTW"
@@ -18255,7 +18339,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 134005,
       "name": "\u00d3, \u00fe\u00fa",
       "url": "https://open.spotify.com/track/1gs1lAEoN5MqVhkrhngc0K"

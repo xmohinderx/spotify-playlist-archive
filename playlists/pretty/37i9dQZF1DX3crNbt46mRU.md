@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sido
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,204 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,223 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 16 | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun) | 2:32 |
 | 17 | [Fernsehturm](https://open.spotify.com/track/4T1wbGlRSXRdRYDjMlzfBS) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Liebeskummerparty](https://open.spotify.com/album/4n1jkVPLnKJuHp7Kcb4XZh) | 2:18 |
 | 18 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 |
-| 19 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:15 |
+| 19 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
 | 20 | [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 |
 | 21 | [Afterglow \- Radio Edit](https://open.spotify.com/track/4IFrCY8U9rjurbrbOJpWXS) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Afterglow \(Radio Edit\)](https://open.spotify.com/album/1kHr8xTcX8zNjoJnTz6dzC) | 2:37 |
 | 22 | [ME & MY GIRLFRIEND](https://open.spotify.com/track/6NOxswgDuXFHihzlYqgaCn) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [ME & MY GIRLFRIEND](https://open.spotify.com/album/1tnLuexF2f0AeyXBc25kQr) | 2:31 |
-| 23 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:14 |
+| 23 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 |
 | 24 | [90 Summernächt](https://open.spotify.com/track/5IgHeIRWfPV2cuZgu9XZxd) | [ZID](https://open.spotify.com/artist/6388aDqfUD73rIX2ThecHI) | [90 Summernächt](https://open.spotify.com/album/2VdcRpFPtdjKD4zFqsFHvo) | 2:56 |
 | 25 | [EZ Aquarii](https://open.spotify.com/track/1WNzPckO5pdIdn2e0rOLcH) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [EZ Aquarii](https://open.spotify.com/album/35VOrTfiIKL0LxHFJPm6rV) | 3:14 |
 | 26 | [I Feel Love](https://open.spotify.com/track/54eti8CxzBFYUNRB5UQDbp) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [I Feel Love](https://open.spotify.com/album/3RQNWINhsWeNOHptBCPtFH) | 2:52 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 30 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
 | 31 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
 | 32 | [One Last Time \(with R3HAB\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Last Time \(with R3HAB\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
-| 33 | [90x180](https://open.spotify.com/track/17yFjZSYYRT4n3t99TuqTu) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [90x180](https://open.spotify.com/album/1JdqQVc8S9IuKb5ofhPMjR) | 2:32 |
+| 33 | [90x180](https://open.spotify.com/track/17yFjZSYYRT4n3t99TuqTu) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [90x180](https://open.spotify.com/album/1JdqQVc8S9IuKb5ofhPMjR) | 2:34 |
 | 34 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 35 | [Summer Really Hurt Us](https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer Really Hurt Us](https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD) | 2:48 |
 | 36 | [Du fehlst mir](https://open.spotify.com/track/7JH5X0pPLg5qW3qMYKVhzu) | [Dagobert](https://open.spotify.com/artist/6ggenA9SmMMwVYsDSOKIqJ) | [Bonn Park](https://open.spotify.com/album/32WKwdz1XIyutOjRXAJgHp) | 2:19 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 52 | [Baby Blue](https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Baby Blue](https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV) | 2:55 |
 | 53 | [Song for You](https://open.spotify.com/track/3WoMoIJxgMWHBjSSMiU0rf) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Sebastian Krenz](https://open.spotify.com/artist/5JqvosTRPE7gN9xSXUoT1S) | [Song for You](https://open.spotify.com/album/5pVlW2xVLYmgOY6f4ZJbig) | 2:26 |
 | 54 | [I'm Not Dead Yet](https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [I'm Not Dead Yet](https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT) | 2:58 |
-| 55 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
+| 55 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
 | 56 | [High sein](https://open.spotify.com/track/5fQllnHCmwjhmhnpFAcknW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [High sein](https://open.spotify.com/album/76UbTO36WLsNpyaGQ54JV0) | 2:13 |
 | 57 | [Common \(with Big Sean\)](https://open.spotify.com/track/2CJc3U1pViZ5E44pA0f2YI) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Common](https://open.spotify.com/album/5q1YapGe7F6PUseo0mTLSj) | 2:39 |
 | 58 | [Blau](https://open.spotify.com/track/6MtITh8babONvS9D5lwMaN) | [Sina](https://open.spotify.com/artist/247FRQa4LHRl35cojaAxTh) | [Ziitsammläri](https://open.spotify.com/album/2VzvaY1btc2OAHoWdEcHqM) | 3:34 |

@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blanca
 
-1,708 songs - 4 day 21 hr 41 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+1,708 songs - 4 day 21 hr 42 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1602,7 +1602,7 @@
 | [WEEEEEEE](https://open.spotify.com/track/0mfDzWeydHEOyPyAegX6U0) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [WEEEEEEE](https://open.spotify.com/album/40Uw06qtsQDCOgKXM0z5MS) | 1:58 | 2022-09-09 | 2022-09-17 |
 | [Weight in Gold](https://open.spotify.com/track/2qlshgH68iULnrpXt3QmpD) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Weight in Gold](https://open.spotify.com/album/4b1LbmNQHWUCEKUtoBEFCL) | 3:28 | 2022-06-03 | 2022-06-18 |
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-11 | 2022-03-18 |
-| [Weight of Glory \- Live Session](https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies \(Live Sessions\)](https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1) | 2:21 | 2022-09-23 |  |
+| [Weight of Glory \- Live Session](https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies \(Live Sessions\)](https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1) | 2:52 | 2022-09-23 |  |
 | [Welcome the King](https://open.spotify.com/track/0rsJz6ZuBbASbqhqPwIPX1) | [Destiny Worship Music](https://open.spotify.com/artist/5qlCb5hbJ9JGhi6FcMwwbc) | [Welcome the King](https://open.spotify.com/album/6YjtJT70RBJEvJpWW5Fz3l) | 4:45 | 2022-04-01 | 2022-04-16 |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-20 | 2022-06-04 |
 | [Wellness](https://open.spotify.com/track/7tv0fVi5Cxs2KqzsHIElz3) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Wellness](https://open.spotify.com/album/1vTrf1IpfKM9C08EQRjb4d) | 4:50 | 2022-08-26 | 2022-09-10 |

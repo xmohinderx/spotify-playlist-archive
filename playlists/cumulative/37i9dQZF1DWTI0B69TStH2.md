@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Panilas \| Playlista odświeżana w każdy wtorek.
 
-412 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
+413 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Nie wszyscy muszą wiedzieć](https://open.spotify.com/track/49MFtO0DokA4SdRwKmusnR) | [JET PACK](https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW) | [Nie wszyscy muszą wiedzieć](https://open.spotify.com/album/3YDV5LQ0xtYD28HSi5YOGt) | 3:09 | 2022-06-27 | 2022-08-30 |
 | [nie\(ex\)](https://open.spotify.com/track/3qTetIugxdg5GEDYmhCYlG) | [MONA](https://open.spotify.com/artist/1cQLxJtyXEglCOvGLkWPIP) | [nie\(ex\)](https://open.spotify.com/album/2U6DBBMhQf3g78P2BKbEbV) | 2:49 | 2022-09-19 |  |
 | [Nieba](https://open.spotify.com/track/1I3Y4ajmDRoYrwO3IGLrFG) | [Dots](https://open.spotify.com/artist/77dvGbzTXfYwrAYxlXFoKZ) | [Nieba](https://open.spotify.com/album/1w22861mw1Zd9rotrHFXge) | 3:04 | 2022-06-27 | 2022-08-16 |
-| [Niejednomyślnie](https://open.spotify.com/track/12STIUPLL9ZGEgdnQifTOF) | [Baboki!](https://open.spotify.com/artist/6Q1Aw8DGwI0LnAOgS44Szp) | [Niejednomyślnie](https://open.spotify.com/album/2YJmBrzDH5Jz9m08WxDxg5) | 3:45 | 2022-09-05 |  |
+| [Niejednomyślnie](https://open.spotify.com/track/12STIUPLL9ZGEgdnQifTOF) | [Baboki!](https://open.spotify.com/artist/6Q1Aw8DGwI0LnAOgS44Szp) | [Niejednomyślnie](https://open.spotify.com/album/2YJmBrzDH5Jz9m08WxDxg5) | 3:45 | 2022-09-05 | 2022-09-25 |
+| [Niejednomyślnie](https://open.spotify.com/track/5iWAc5ecWLqjcaIEwneeAv) | [Baboki!](https://open.spotify.com/artist/6Q1Aw8DGwI0LnAOgS44Szp) | [Niejednomyślnie](https://open.spotify.com/album/6J9eF6UkcMHPFv6dkp36LQ) | 3:45 | 2022-09-19 |  |
 | [Niemiłość](https://open.spotify.com/track/1qjisCpbdlu8HPH6XBW4Uw) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Niemiłość](https://open.spotify.com/album/70m7YHTyLQVg2m9Mqky9Q5) | 3:31 | 2022-09-05 |  |
 | [Nieustawiczna](https://open.spotify.com/track/0PiKMkIMyqHgdAi9tUe4mQ) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Ula Kowalska](https://open.spotify.com/artist/123wQ583hZkCUjHCfTf8Em) | [Nieustawiczna](https://open.spotify.com/album/79N6PbiHbBUO0ja6wSdBJK) | 2:09 | 2022-08-01 | 2022-08-23 |
 | [Niewtenczas](https://open.spotify.com/track/1zjpvXagdTGizDm5RjbqnE) | [OUTPOST](https://open.spotify.com/artist/7cS6COG2pifHvvQR2VUNJl), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z), [mary magdalene](https://open.spotify.com/artist/7ddkABIwEms5oRYjt6OEgN) | [Godziny Otwarcia](https://open.spotify.com/album/31VubszgDoHwlm6qKhboB5) | 2:22 | 2022-06-20 | 2022-07-19 |

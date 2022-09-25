@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Wonder Years
 
-609 songs - 1 day 6 hr 35 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+610 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Nuns, Guns & Cowboys](https://open.spotify.com/track/0HUdKAx0FIjdCtDFUhEt0I) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Nuns, Guns & Cowboys](https://open.spotify.com/album/38TzuUfiMcBRQMPE83ZNlk) | 2:57 | 2022-01-14 | 2022-02-25 |
 | [OC93](https://open.spotify.com/track/6agpJq6aZjAH53s4IS3ZsP) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 2:58 | 2022-09-08 |  |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-25 |  |
-| [Old Friends Like Lost Teeth](https://open.spotify.com/track/0hO47G5FaU2kbs8sSwwbda) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Old Friends Like Lost Teeth](https://open.spotify.com/album/6oC4dyi4zjkrzja7sxcD8n) | 3:14 | 2022-09-01 |  |
+| [Old Friends Like Lost Teeth](https://open.spotify.com/track/0hO47G5FaU2kbs8sSwwbda) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Old Friends Like Lost Teeth](https://open.spotify.com/album/6oC4dyi4zjkrzja7sxcD8n) | 3:14 | 2022-09-01 | 2022-09-25 |
+| [Old Friends Like Lost Teeth](https://open.spotify.com/track/2jBht07e0UE7kROyswZ0dp) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:14 | 2022-09-22 |  |
 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 | 2022-04-21 | 2022-06-18 |
 | [Omens \(feat\. Spencer Chamberlain\)](https://open.spotify.com/track/3fztnHcEJ8xjtCONtN2qMg) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Out of Light](https://open.spotify.com/album/5ltB1kwrCDqYclK0hcoIge) | 3:45 | 2022-05-26 | 2022-07-15 |
 | [On a Grave](https://open.spotify.com/track/1NHXt1fYAfFptko6m0g5HX) | [Between Bodies](https://open.spotify.com/artist/4c9as8vPweJK4VD8JvdjQr) | [On a Grave](https://open.spotify.com/album/6twhdW8vyCwUOkM7QQf3SZ) | 3:53 | 2022-07-21 | 2022-09-09 |

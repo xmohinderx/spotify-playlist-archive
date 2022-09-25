@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dBRZjmvIQV.md) - [plain]
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dBRZjmvIQV.md) - [plain]
 | 13 | [Hazel Chandeliers](https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:26 |
 | 14 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
 | 15 | [Friday Morning](https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 6:50 |
-| 16 | [Angel](https://open.spotify.com/track/4R71PteUPOtFa3yEz0q8Z5) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Slow Grooves](https://open.spotify.com/album/63afHwA8RSAyqndkFiE5dD) | 5:00 |
+| 16 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
 | 17 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
 | 18 | [vanishing \- A COLORS SHOW](https://open.spotify.com/track/3noFeCe86lQkdejwHxPBzB) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [vanishing \- A COLORS SHOW](https://open.spotify.com/album/2CSOwAzDgG7PsZTwuQc3QG) | 3:46 |
 | 19 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dBRZjmvIQV.md) - [plain]
 | 49 | [Hypnosis](https://open.spotify.com/track/70LJDJUseObPU5czxfHYkB) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 1:36 |
 | 50 | [I Am Connected](https://open.spotify.com/track/62yfikv1AIqaXDPxgLYHkH) | [Beautiful Chorus](https://open.spotify.com/artist/1bL7zNdRZRQtgMnMpsCh0K) | [Wheels of Light](https://open.spotify.com/album/3vDG9Ux4CHDjMoMz3Eiw63) | 7:05 |
 
-Snapshot ID: `MTY0Njc1ODk3NSwwMDAwMDAwMGE4OTc2NGNjZjAwMzdhNDIxZTcyMTE5OTkwMTM1MjIx`
+Snapshot ID: `MTY0Njc1ODk3NSwwMDAwMDAwMDA1NzExODAzYmU4YmFhMjQwZmY5YWNiZmU4MGJlZmIw`

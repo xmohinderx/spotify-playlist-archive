@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,161 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,470 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 33 | [I Believe](https://open.spotify.com/track/1djDyrvcG5IvhgyNOQh5VH) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cecilia Bartoli](https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 4:14 |
 | 34 | [Hallelujah](https://open.spotify.com/track/1jTI06Buy2Tpoy2ddBwbX3) | [The Italian Tenors](https://open.spotify.com/artist/7a8BaftaL1KRlItwhsxNOU) | [Viva La Vita](https://open.spotify.com/album/64E2O1kyI9QZWGuptzmRiJ) | 3:14 |
 | 35 | [I Believe in You \(Je crois en toi\)](https://open.spotify.com/track/2x3IkNv39smZqUBmOo7Ors) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 4:00 |
-| 36 | [Slow Down](https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir](https://open.spotify.com/artist/7dU4BCisBfJxyS1JWmPdQD), [Orchestra at Temple Square](https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA) | [Slow Down](https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI) | 5:08 |
+| 36 | [Slow Down](https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [Slow Down](https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI) | 5:08 |
 | 37 | [Tell Me It's Not True](https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 4:30 |
 | 38 | [What a Wonderful World](https://open.spotify.com/track/6ZcTsXUmJcCtVtgbxVIzPn) | [Lexi Walker](https://open.spotify.com/artist/6C2Jmyv6fdiRAbcadxmNtS), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Inspire](https://open.spotify.com/album/1Uh9wfpuVzpoVoAFrTV6x2) | 4:28 |
 | 39 | [Hasta mi final](https://open.spotify.com/track/1fZDEjhNs6zyqKzMC7HjyZ) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:36 |

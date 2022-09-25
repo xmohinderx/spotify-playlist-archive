@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Conner Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,783 likes - 176 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,955 likes - 176 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 8 | [Never Leave](https://open.spotify.com/track/1rWoeYw0Vnnj8BLH6ECoiB) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Leave](https://open.spotify.com/album/7okh01uYgCUb6VxU5k4CR3) | 3:27 |
 | 9 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 |
 | 10 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
-| 11 | [You Ain't \(Ft\. Meghan Patrick\)](https://open.spotify.com/track/3DNcOGlAIjosd5mBdcCd0s) | [Aaron Goodwin](https://open.spotify.com/artist/0tqNS5nqQ1PFfLHOPrTi0w), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [You Ain't \(feat\. Meghan Patrick\)](https://open.spotify.com/album/0kGmLcZ48CKCXwxvPNcG9K) | 3:24 |
+| 11 | [You Ain't \(Ft\. Meghan Patrick\)](https://open.spotify.com/track/3DNcOGlAIjosd5mBdcCd0s) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [You Ain't \(feat\. Meghan Patrick\)](https://open.spotify.com/album/0kGmLcZ48CKCXwxvPNcG9K) | 3:24 |
 | 12 | [Chevy Nova](https://open.spotify.com/track/7zXV9zgIIYZ6doQmjsi2Xh) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [The Whiskey Will EP](https://open.spotify.com/album/0F3VU3U0VkH7JIRf8gNZv5) | 3:25 |
 | 13 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
 | 14 | [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 |

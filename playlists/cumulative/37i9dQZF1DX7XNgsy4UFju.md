@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Pierre Kwenders
 
-682 songs - 1 day 16 hr 24 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+683 songs - 1 day 16 hr 27 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [How Does It Feel?](https://open.spotify.com/track/1OvKX3ZIbOhZgFJBqozqxH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [How Does It Feel?](https://open.spotify.com/album/3GRrJQlccv4BAXIkmmz2tK) | 3:39 | 2021-12-31 | 2022-01-29 |
 | [Humble Lion](https://open.spotify.com/track/6wPO0yk9q05eq7tnQ4Z75K) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Crushed Grapes](https://open.spotify.com/album/6Ix6glvXbSAzGJmm9cBcOD) | 3:42 | 2022-09-23 |  |
 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 | 2022-09-24 |
-| [Hurt Happens](https://open.spotify.com/track/0JdBewDaXQhXpzp7cEpLfL) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Hurt Happens](https://open.spotify.com/album/5u07ptkhl9vJ2CV0pl3fBS) | 3:25 | 2022-09-09 |  |
+| [Hurt Happens](https://open.spotify.com/track/0JdBewDaXQhXpzp7cEpLfL) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Hurt Happens](https://open.spotify.com/album/5u07ptkhl9vJ2CV0pl3fBS) | 3:25 | 2022-09-09 | 2022-09-25 |
+| [Hurt Happens](https://open.spotify.com/track/2tZwyOCd9xoDzlXUJgjojB) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Pale Blue](https://open.spotify.com/album/3pvfDz1eiriCaGiM97jGx3) | 3:25 | 2022-09-23 |  |
 | [Hurts \(But It Goes Away\)](https://open.spotify.com/track/0ZjKlvWb93Ey2OyQki02nT) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Hurts \(But It Goes Away\)](https://open.spotify.com/album/6KwEKCAiphHNsXw4PAZ4yC) | 3:14 | 2022-04-22 | 2022-04-29 |
 | [Hurts to Love](https://open.spotify.com/track/1L11xLS2t34QQIBwwCWHly) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2lIlLooy0MEOJsO5n67GGs) | 4:05 | 2022-02-18 | 2022-04-23 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-12-31 | 2022-02-12 |

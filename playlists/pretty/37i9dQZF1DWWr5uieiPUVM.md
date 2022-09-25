@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Xamã, N.I.N.A, Luísa Sonza, MC Cabelinho, Tz da Coronel, Oruam, L7NNON, Chris MC, Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,797 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,756 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

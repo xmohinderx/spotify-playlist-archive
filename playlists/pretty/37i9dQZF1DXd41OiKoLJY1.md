@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Reanne Borela, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,202 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,210 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 4 | [Bago Ka Umuwi](https://open.spotify.com/track/6gbm1osJmAMqh8wB1Sptfx) | [Suddenly Monday](https://open.spotify.com/artist/4YTZj5kMhZdNjLxJbfRlb1) | [Bago Ka Umuwi](https://open.spotify.com/album/4N828YPaA2LiT4BVOwQVl8) | 3:31 |
 | 5 | [Malayo](https://open.spotify.com/track/2QJMZwOrjd7xDD4fFCaG3Q) | [Polo Pi](https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3), [Gerald Bato](https://open.spotify.com/artist/0uv1lbPGWuwq1sgRbyYBcY) | [Malayo](https://open.spotify.com/album/47q1TT1d77sp9QtwrCCfVZ) | 3:19 |
 | 6 | [Tayo Na't Mag\-Funk](https://open.spotify.com/track/0n72tREm8MMS25WCiEPF9A) | [Brass Pas Pas Pas Pas](https://open.spotify.com/artist/732hX2NTZ4ndFxaLZNyjM0) | [Tayo Na't Mag\-Funk](https://open.spotify.com/album/1WnZUxX8xkNW58c1TCDm6a) | 4:49 |
-| 7 | ['Di Na Uto Uto](https://open.spotify.com/track/7hak53Qke4dE4lPsdwqi82) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | ['Di Na Uto Uto](https://open.spotify.com/album/2bADUYqi98OIoweOwKQmzQ) | 3:34 |
+| 7 | ['Di Na Uto Uto](https://open.spotify.com/track/7hak53Qke4dE4lPsdwqi82) | [JEWLS](https://open.spotify.com/artist/7q04BWRYEPkJ1vKJlQgzap) | ['Di Na Uto Uto](https://open.spotify.com/album/2bADUYqi98OIoweOwKQmzQ) | 3:34 |
 | 8 | [Drive and Meet You](https://open.spotify.com/track/0KuTQlAitRKGhPRdjyJ3Ht) | [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Drive and Meet You](https://open.spotify.com/album/6oKxJdV8je7SBnwWr37S5P) | 3:13 |
 | 9 | [Something New](https://open.spotify.com/track/3vJDtvBZHLN29eW8jEv4g4) | [Marckenny](https://open.spotify.com/artist/1g0nZFSoTHic1hFJVQ9AKT) | [Butterflies](https://open.spotify.com/album/54qxVBELRAaOhNY8P3Kfkf) | 2:53 |
 | 10 | [Ako Na Lang](https://open.spotify.com/track/7HNJgZ3P3B2PL1tBrfW8Fb) | [Tito Alvs and the Jojoes](https://open.spotify.com/artist/1JcK4Da20zj3ZnnEaHIdIT) | [Ako Na Lang](https://open.spotify.com/album/7Icj6bQ6YOby0awWGaGchC) | 4:17 |
 | 11 | [In](https://open.spotify.com/track/2GSOY6jJLV8s9RNEshcm8S) | [Cobear](https://open.spotify.com/artist/0mOvajLtWUY88nRjYCrvVR) | [In](https://open.spotify.com/album/7cAGLRBwfM8Ux5uHIW8R7K) | 4:00 |
-| 12 | [Apple](https://open.spotify.com/track/2t46xEXFhcxIyG0eEhZXb0) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Apple](https://open.spotify.com/album/0EpJGwpnd8TLNhYtrhFLIK) | 4:40 |
+| 12 | [Apple](https://open.spotify.com/track/2t46xEXFhcxIyG0eEhZXb0) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Apple](https://open.spotify.com/album/0EpJGwpnd8TLNhYtrhFLIK) | 4:45 |
 | 13 | [Gabi](https://open.spotify.com/track/38bEXfp86RqpV4JkyQC25W) | [glen cloeny](https://open.spotify.com/artist/59EJmRfDjmbVZC7avONJpJ), [Kenshin Pontillo](https://open.spotify.com/artist/38vQ0wnK9SOzGTTL5cLa6L) | [Gabi](https://open.spotify.com/album/4WC2UEGaGk59ElAojHsUSH) | 4:17 |
 | 14 | [Where I Should Go](https://open.spotify.com/track/2CmvsbkVsJXT4tx7rJgi9i) | [HYMNOTIZE](https://open.spotify.com/artist/6veDzk8jH7u6P7feMhWNSt), [Nicole Calisin](https://open.spotify.com/artist/7arvIE09UfVWvd1XCQA8gm) | [Where I Should Go](https://open.spotify.com/album/5FwEsrASBPiETfTuifauIu) | 4:45 |
 | 15 | [Hiling](https://open.spotify.com/track/2K5r4Y3Ahxg8nVE0SZR88e) | [ELEVEN](https://open.spotify.com/artist/1PQM6m3BhE1uPOFDvM90EO) | [Hiling](https://open.spotify.com/album/1ppWbz04lBM2z0ZrlWMiCn) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,431 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,455 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

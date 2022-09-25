@@ -2,9 +2,9 @@
 
 ### [Latest Romance Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
+> Check out the Latest Love Tunes.<br/>Cover : Prince
 
-86 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+87 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ice Katti Kuruvi \- From "D Block"](https://open.spotify.com/track/4WQjkG66fNyFE1N7XOSoL6) | [Ron Ethan Yohann](https://open.spotify.com/artist/0AojazIcemdBzAX3LqAGFF), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Ice Katti Kuruvi \(From "D Block"\)](https://open.spotify.com/album/6kR7SUlPfVCDFZ3LkLn9RF) | 4:23 | 2022-02-04 |  |
 | [Idhaya Idhaya](https://open.spotify.com/track/7AsFn91CpxFxj8h6UGpKB2) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thalli Pogathey](https://open.spotify.com/album/1NrPJQZZbyjtxQykc7rJeP) | 3:31 | 2021-11-29 | 2022-06-21 |
 | [Imaikkariye \(From "Selfie"\)](https://open.spotify.com/track/2IFfZMYB9QxEgPOkYE429O) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manasvini Gopal](https://open.spotify.com/artist/1BrCEQF7TR8lWb933yxYTO) | [Imaikkariye \(From "Selfie"\)](https://open.spotify.com/album/73jBNscobCp7Yh36kHAKt7) | 3:29 | 2022-03-08 |  |
+| [Jessica](https://open.spotify.com/track/1BQGKaUYFQzD0Dsy0FfoeD) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Prince \(Tamil\)](https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp) | 4:19 | 2022-09-24 |  |
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-11-29 | 2022-07-15 |
 | [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-06-28 |  |
 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "published_playlist_ids": [
     "5CGNkHqKFRMPH4a9UfC44H"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
@@ -5737,7 +5737,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 208560,
       "name": "Eya mater fidelium",
       "url": "https://open.spotify.com/track/4zVfdf7ETESISDZHSkqhjm"
@@ -6047,7 +6047,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 404240,
       "name": "Francesco Landini: Partesi con dolore",
       "url": "https://open.spotify.com/track/2Ou0bSNPdkTFVo7PwCHrUS"
@@ -6229,6 +6229,32 @@
       "duration_ms": 301173,
       "name": "Fumeux fume par fum\u00e9e",
       "url": "https://open.spotify.com/track/7Gwevd1ZbWmLJDwub7b2OT"
+    },
+    {
+      "album": {
+        "name": "Under der Linden",
+        "url": "https://open.spotify.com/album/53SuLpIIJiw3l8BzSk9nXj"
+      },
+      "artists": [
+        {
+          "name": "Frauenlob",
+          "url": "https://open.spotify.com/artist/2oBTFVou4WikRvYTytXjNl"
+        },
+        {
+          "name": "Ensemble Celadon",
+          "url": "https://open.spotify.com/artist/3ha9slqgoQKxJWpjCjQT9T"
+        },
+        {
+          "name": "Paulin Bundgen",
+          "url": "https://open.spotify.com/artist/5yeDYqucWsOWVATNbcNjQi"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Gar starc bekannt ist der helffant",
+      "url": "https://open.spotify.com/track/6AkrDT8gUeQOvyVm9cJ9PU"
     },
     {
       "album": {
@@ -6515,7 +6541,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 365226,
       "name": "Helas piti\u00e9 envers moy dort si fort",
       "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
@@ -6757,7 +6783,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 224613,
       "name": "H\u00e9las emy! Ma dame et ma mestresse",
       "url": "https://open.spotify.com/track/2nPleG7CKCUztBobOAlWWg"
@@ -7057,7 +7083,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -7613,7 +7639,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 223386,
       "name": "Je ne merveil (Ballade)",
       "url": "https://open.spotify.com/track/3tk64wFqaiwMxHtEX1SOtG"
@@ -8103,7 +8129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 258560,
       "name": "La harpe de melodie (virelai)",
       "url": "https://open.spotify.com/track/56VnWdiNZhedAnLfOoAdQx"
@@ -10215,7 +10241,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 223586,
       "name": "Ne me vueill\u00e9s belle oblier",
       "url": "https://open.spotify.com/track/0gXnPON96qcv7etJz3q34V"
@@ -10301,7 +10327,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "Nella partita",
       "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
@@ -10581,7 +10607,7 @@
       ],
       "date_added": "2020-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 301960,
       "name": "Nu rue mit sorgen",
       "url": "https://open.spotify.com/track/3zhYNpsRX5Oqy7Ux0ErpwX"
@@ -11475,7 +11501,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 198560,
       "name": "Pal\u00e4stinalied",
       "url": "https://open.spotify.com/track/7xSRVPjj7WfO2GYNontpeZ"
@@ -11857,7 +11883,7 @@
       ],
       "date_added": "2019-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 391706,
       "name": "Petre Clemens, tam re quam nimine - Lugentium siccentur occuli plaudant senes (Motette)",
       "url": "https://open.spotify.com/track/3EKK87FM9sC1TxbWcVs2jj"
@@ -13837,7 +13863,7 @@
       ],
       "date_added": "2019-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-24",
+      "date_removed": null,
       "duration_ms": 336327,
       "name": "Stabat Mater",
       "url": "https://open.spotify.com/track/6rh5S9IX8xf1HJrsi96VSa"
@@ -14716,6 +14742,36 @@
     },
     {
       "album": {
+        "name": "Under der Linden",
+        "url": "https://open.spotify.com/album/53SuLpIIJiw3l8BzSk9nXj"
+      },
+      "artists": [
+        {
+          "name": "Walther von der Vogelweide",
+          "url": "https://open.spotify.com/artist/1mVqS151vBHsgMZxGUCXUe"
+        },
+        {
+          "name": "Ensemble Celadon",
+          "url": "https://open.spotify.com/artist/3ha9slqgoQKxJWpjCjQT9T"
+        },
+        {
+          "name": "Paulin Bundgen",
+          "url": "https://open.spotify.com/artist/5yeDYqucWsOWVATNbcNjQi"
+        },
+        {
+          "name": "Clara Coutouly",
+          "url": "https://open.spotify.com/artist/1BqjzkEuQ8PcKvCVA7BmYP"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381997,
+      "name": "Under der Linden",
+      "url": "https://open.spotify.com/track/0kmL21HzbwQAyhCjhaXp7p"
+    },
+    {
+      "album": {
         "name": "Herz, Prich!: Medieval German Music",
         "url": "https://open.spotify.com/album/2TxiFJ9ELRf3j31BnOa8GV"
       },
@@ -15017,7 +15073,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Vil lieber grusse susse",
       "url": "https://open.spotify.com/track/53Zd0HSvyyTcuUK5QQSUZh"
@@ -15213,7 +15269,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 365733,
       "name": "Wer half Adam us not in fure",
       "url": "https://open.spotify.com/track/4n4vvBQIBnDY4TM3M4E0Ht"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,848 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,855 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 16 | [I Am a Rock](https://open.spotify.com/track/11NbOBBwU3a3Eu3gBLoPN4) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Pete Yorn Sings the Classics](https://open.spotify.com/album/1M5qds7V6rmcjV3O9MTutn) | 3:27 |
 | 17 | [Homeward Bound \- Remastered 2001](https://open.spotify.com/track/6qhzkJOOWkCa7t4LTqfTgb) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:39 |
 | 18 | [Kodachrome](https://open.spotify.com/track/6uPUACLG1QledvvJRdIVeH) | [Conor Oberst and the Mystic Valley Band](https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [One of My Kind](https://open.spotify.com/album/1xRNt5fAKXrMG0L8JBXQHo) | 4:08 |
-| 19 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 |
+| 19 | [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/1YFcnho5vA5BVQqQ5f8ACM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:42 |
 | 20 | [Bridge Over Troubled Water](https://open.spotify.com/track/0gaZi6J3Pk7FG7GNMHsK5o) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [That's the Way It Is](https://open.spotify.com/album/5Daouulcid6tWztS39KWhc) | 4:35 |
 | 21 | [Slip Sliding Away](https://open.spotify.com/track/2HX8D5h48H0ehKA1nSGTlx) | [The Persuasions](https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5), [Joe Russell](https://open.spotify.com/artist/4vXOxRMidWplwRVuEf5Bgo) | [No Frills](https://open.spotify.com/album/7fYwACZdlTIJWc0rJNnXnD) | 4:24 |
 | 22 | [The Boxer](https://open.spotify.com/track/1LLWePORuf78aYlTpSsduc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Self Portrait](https://open.spotify.com/album/3bXEPGWxOplvbLwyasRSW3) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 49 | [The Boxer](https://open.spotify.com/track/04Dqz6T7vL4APHblHSdR4q) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMGEzOTMxOWE4ODc2MzUzOTI1MzY3MjBhNDcxNzgzY2Vi`
+Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMDM5OGNjYjkzMjRmNjU2MDFiYWU2YWQ0N2FjNjE3YzFi`

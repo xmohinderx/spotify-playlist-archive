@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Moneybagg Yo, GloRilla, Cardi B, and more\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,404 likes - 48 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,562 likes - 48 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
 | 4 | [Red Flag](https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Red Flag](https://open.spotify.com/album/7Dars3VivMCmaW6JR5qy09) | 3:27 |
 | 5 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
-| 6 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
+| 6 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
 | 7 | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK) | 3:45 |
 | 8 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 |
 | 9 | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv) | 2:11 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [Nann Hoe](https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [RAW](https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc) | 2:04 |
 | 39 | [Riko Suave](https://open.spotify.com/track/5oJHTQYmsRecNRiZp6OTG1) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Riko Suave](https://open.spotify.com/album/1YeLzUSBy0rBEpLSbltsIt) | 2:40 |
 | 40 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
-| 41 | [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 |
+| 41 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 |
 | 42 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 |
-| 43 | [Paula Dean \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Dean \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:03 |
+| 43 | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:03 |
 | 44 | [Comme Des Garcons](https://open.spotify.com/track/5lamyzmrRFRxN5G6LKh2Gk) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Comme Des Garcons](https://open.spotify.com/album/5TwL6oF6Qm1XzBeWUEBmRM) | 2:42 |
 | 45 | [Sneaky Link](https://open.spotify.com/track/0ehWDjJsZlo3HmdYotsYMc) | [3Breezy](https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG) | [Sneaky Link](https://open.spotify.com/album/3Iwjhmmf4DL4vjLwd4gJP1) | 1:22 |
 | 46 | [Rapper Who?](https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Rapper Who?](https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ) | 2:03 |
 | 47 | [Grinch](https://open.spotify.com/track/6NkVB8rpTMdz7K3RRlIlif) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Grinch](https://open.spotify.com/album/77soxYjbwxHedQOaBNFc4M) | 1:53 |
 | 48 | [Idk](https://open.spotify.com/track/1wZOqVkpr9oY4Yvoug3cIE) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee) | [Idk](https://open.spotify.com/album/6n7DYPzrZ4pbt516cB1i11) | 2:28 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGNiY2IyY2RjZWE4NWU3MGVlNzViY2MwOTYyMWEyM2Q0`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDlhMGJlODE5MGY0MDUxYzMzZGY4OTYxMTk4MjFhMTQw`

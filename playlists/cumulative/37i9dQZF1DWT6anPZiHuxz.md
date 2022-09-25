@@ -4,7 +4,7 @@
 
 > Pick up the pace to energetic remixes.
 
-50 songs - 2 hr 50 min - not published yet
+50 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/5dIpw3uEqybXhnEO66YlIn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

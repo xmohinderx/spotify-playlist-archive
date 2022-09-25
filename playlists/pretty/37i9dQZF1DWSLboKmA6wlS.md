@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Wolftone\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,149 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,157 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 2 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
 | 3 | [ฝังใจ](https://open.spotify.com/track/3yySZ2pd0wWkw9ktaJH8A0) | [PINGx](https://open.spotify.com/artist/5JJCTw2FWdwpSdHTIMYjnh) | [ฝังใจ](https://open.spotify.com/album/0tTmHlb7SdcGel4RFRqzCJ) | 3:48 |
 | 4 | [โฮกปี๊บ](https://open.spotify.com/track/11XGRK0hUhOSgp1A5rrPuk) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [โฮกปี๊บ](https://open.spotify.com/album/7pwOg2SRX9ZwVbfdZcBYOc) | 4:27 |
-| 5 | [คนไกลไกล](https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u) | [Yoong](https://open.spotify.com/artist/2HtePasRvz3zZ8tzJfozFZ) | [คนไกลไกล](https://open.spotify.com/album/1tj7lNgAMclTge6gbH1TYx) | 4:17 |
+| 5 | [คนไกลไกล](https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u) | [Yoong](https://open.spotify.com/artist/0Tbbu6RrRX8pd2LXotYeBc) | [คนไกลไกล](https://open.spotify.com/album/1tj7lNgAMclTge6gbH1TYx) | 4:17 |
 | 6 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 7 | [คืนวันศุกร์](https://open.spotify.com/track/2bepAvTPvI3JPl6hQA568H) | [Greenglasses](https://open.spotify.com/artist/0McyZ5AuCB5d0elP2JlzO9) | [คืนวันศุกร์](https://open.spotify.com/album/077V1uqVVVWVVD9HwkK5p8) | 4:27 |
 | 8 | [คำที่เคยบอก \(Try\)](https://open.spotify.com/track/0fz6w8NFJerxS1ADLtMWan) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [คำที่เคยบอก \(Try\)](https://open.spotify.com/album/1c94Uu2EQ0DgzVYU8PMzzT) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Kassimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,469 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,509 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 32 | [Possessivo](https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Possessivo](https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN) | 2:35 |
 | 33 | [Lycamobile](https://open.spotify.com/track/1VFhL47A4eXjEkb8Posmdq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Lycamobile](https://open.spotify.com/album/7CnUxTj8QB1OybIkKwXRBc) | 2:24 |
 | 34 | [CRACK COCA](https://open.spotify.com/track/0J69jDXSJLdUVSKsV9r8lY) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [CRACK COCA](https://open.spotify.com/album/6dEYHcH5MzuOuGkEqZvJbQ) | 1:26 |
-| 35 | [Miss You](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [Miss You](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 |
+| 35 | [MISS YOU](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [MISS YOU](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 |
 | 36 | [OMC 1](https://open.spotify.com/track/4qrX0dnwtzWmr2d9Tq1B2a) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [OMC 1](https://open.spotify.com/album/3lv09vp2TtuXze4OoezrXh) | 1:46 |
 | 37 | [Too Famous](https://open.spotify.com/track/2jPBMQ9EF1Zyrt3b6b8maS) | [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Too Famous](https://open.spotify.com/album/5wJ6w4a6xBxTBxkgT3ajGm) | 2:16 |
 | 38 | [Minorè](https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Minorè](https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ) | 2:26 |

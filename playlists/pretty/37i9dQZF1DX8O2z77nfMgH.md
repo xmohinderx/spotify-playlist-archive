@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Rauw Alejandro y Baby Rasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,824 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,904 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 |
 | 52 | [Malvada](https://open.spotify.com/track/7DzxVskreNHhWa8XiCBFpP) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Skinny](https://open.spotify.com/artist/7MHHoMQy9LlPNlFLWVNZ26), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Malvada](https://open.spotify.com/album/62DhF0KJ9FU2T75jL8TciC) | 3:29 |
 | 53 | [Cone](https://open.spotify.com/track/29ItlvzUe5omyGAE9s529X) | [Squiz Nine](https://open.spotify.com/artist/79MQXIRLbX25QY6iAxlITO), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [Cone](https://open.spotify.com/album/6Nrvc1TN3dIpkjnqg3rXYu) | 2:20 |
-| 54 | [Only](https://open.spotify.com/track/4ZXPNVxN7tcYudCjXZPGUR) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [Only](https://open.spotify.com/album/0TYWDZ6bBwPM3aK3F76Zx9) | 2:19 |
+| 54 | [only](https://open.spotify.com/track/4ZXPNVxN7tcYudCjXZPGUR) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [only](https://open.spotify.com/album/0TYWDZ6bBwPM3aK3F76Zx9) | 2:19 |
 | 55 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 56 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
 | 57 | [HEROINA](https://open.spotify.com/track/1pVjriUlc7mAynzCunLm3b) | [Lozza](https://open.spotify.com/artist/76aNccAPsJeTsM4Uv7N8ze), [Merce](https://open.spotify.com/artist/5iJsZyGemL5QPK3awe0M7z) | [MOODS, Vol\. 1](https://open.spotify.com/album/1jo5xaS7IDceCGVkM7zaz3) | 2:41 |

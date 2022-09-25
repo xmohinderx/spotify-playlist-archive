@@ -1,13 +1,45 @@
 {
   "description": "Texas music breaking waves. Cover, Teezo Don Toliver",
-  "num_followers": 3768,
+  "num_followers": 3772,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2MjUwMCwwMDAwMDAwMDU5NTQ3N2M5YmUwMDUxOGRlYWJhYmZjODRjYjMwYzc3",
+  "snapshot_id": "MTY2Mzk5MzQ5NSwwMDAwMDAwMGU0MWJjMWJhODE0Zjk2Mzk4NDk1YzRhYzgyYzMzMGE0",
   "tracks": [
+    {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4QmMqZsBxfTFNYmXNvh2Aw"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 182780,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/3Y3x8eEcYfkBTcS75d38h7"
+    },
     {
       "added_at": "2022-09-09 18:55:33",
       "album": {
@@ -33,6 +65,22 @@
       "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "West Texas",
+        "url": "https://open.spotify.com/album/68NYxyBCID4EwQ1iWRQVfW"
+      },
+      "artists": [
+        {
+          "name": "Yoza",
+          "url": "https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT"
+        }
+      ],
+      "duration_ms": 93714,
+      "name": "West Texas",
+      "url": "https://open.spotify.com/track/4pgnw7IcB3fpQTiiJb3HVB"
+    },
+    {
       "added_at": "2022-09-16 21:08:20",
       "album": {
         "name": "Miss My Dawgs",
@@ -53,56 +101,84 @@
       "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
     },
     {
-      "added_at": "2022-09-16 21:08:20",
+      "added_at": "2022-09-24 04:24:55",
       "album": {
-        "name": "803MAYJOR VOL. 1",
-        "url": "https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp"
+        "name": "Safehouse (Remix)",
+        "url": "https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE"
       },
       "artists": [
         {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 80883,
-      "name": "WILD WILD WEST",
-      "url": "https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY"
+      "duration_ms": 182142,
+      "name": "Safehouse (Remix)",
+      "url": "https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi"
     },
     {
-      "added_at": "2022-09-16 21:08:20",
+      "added_at": "2022-09-24 04:24:55",
       "album": {
-        "name": "Master P",
-        "url": "https://open.spotify.com/album/0BOgBcsOtJJrEySOygBMt9"
+        "name": "Renegade (feat. Finesse2Tymes)",
+        "url": "https://open.spotify.com/album/6hpizSNriru6KzpCmcNoT6"
       },
       "artists": [
         {
           "name": "Hotboy Wes",
           "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 109810,
-      "name": "Master P",
-      "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
+      "duration_ms": 185379,
+      "name": "Renegade (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/7vNYajhTYaKSx9Ac9PEoLG"
     },
     {
-      "added_at": "2022-09-16 21:08:20",
+      "added_at": "2022-09-24 04:24:55",
       "album": {
-        "name": "Confidential",
-        "url": "https://open.spotify.com/album/1a8lUC6KHjXG05I0uecnZV"
+        "name": "ALL IS WELL TO ALL Pt. 1",
+        "url": "https://open.spotify.com/album/43cODiquw7rjkejBDxkiGc"
       },
       "artists": [
         {
-          "name": "Signature IllI",
-          "url": "https://open.spotify.com/artist/0InRUdfzax5woMIwNk2IjG"
+          "name": "Mufasa Enzor",
+          "url": "https://open.spotify.com/artist/3k6scsIVLFlZKVJyHc2mZF"
         },
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Daud Leon",
+          "url": "https://open.spotify.com/artist/0UiurUNUeb6L2vIZGcdjSE"
         }
       ],
-      "duration_ms": 146782,
-      "name": "Confidential",
-      "url": "https://open.spotify.com/track/2I7oyNm0qBlCiZFETMg0G7"
+      "duration_ms": 280555,
+      "name": "FLO LIKE WINE",
+      "url": "https://open.spotify.com/track/33aen8x3FvkTaYpdAtgMeA"
+    },
+    {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
     },
     {
       "added_at": "2022-09-16 21:08:20",
@@ -127,6 +203,22 @@
     {
       "added_at": "2022-09-16 21:08:20",
       "album": {
+        "name": "803MAYJOR VOL. 1",
+        "url": "https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 80883,
+      "name": "WILD WILD WEST",
+      "url": "https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
         "name": "The Wolves",
         "url": "https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP"
       },
@@ -139,6 +231,42 @@
       "duration_ms": 174511,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49"
+    },
+    {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2022-09-24 04:24:55",
+      "album": {
+        "name": "Demons 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5TqNKKbtYDlB79q3bVRWsB"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "duration_ms": 136224,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3hr0rTdFr1Go0IJ39ceRdn"
     },
     {
       "added_at": "2022-09-09 18:55:33",
@@ -749,26 +877,6 @@
       "url": "https://open.spotify.com/track/6LIoVGrBTYU4o7fyJCkYuN"
     },
     {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "THE VISION (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
-      },
-      "artists": [
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 137634,
-      "name": "THE VISION (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
-    },
-    {
       "added_at": "2022-08-05 15:35:24",
       "album": {
         "name": "Let's Do A Drill",
@@ -791,22 +899,6 @@
       "duration_ms": 243264,
       "name": "Rock",
       "url": "https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 121112,
-      "name": "Grrrls",
-      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
       "added_at": "2022-07-29 19:38:06",
@@ -863,22 +955,6 @@
     {
       "added_at": "2022-07-22 19:49:57",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/3HOFHbFPuc9EivNvAE8elD"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        }
-      ],
-      "duration_ms": 136224,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6FRIqrtV9CxN1phJNRf5JI"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
         "name": "What I Want (feat. Jacquees)",
         "url": "https://open.spotify.com/album/35SGTgFnncFTZQ4RJyFfoU"
       },
@@ -931,70 +1007,6 @@
       "duration_ms": 128780,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/5hVGZQJaeYB3CjIK5vaJ20"
-    },
-    {
-      "added_at": "2022-08-12 17:13:35",
-      "album": {
-        "name": "LOST IN HERE",
-        "url": "https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        },
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "STEP BACK (FEAT. MIKE DIMES)",
-      "url": "https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/576p9th3PrurpjwAuwnjlW"
-      },
-      "artists": [
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        },
-        {
-          "name": "DJ Horse",
-          "url": "https://open.spotify.com/artist/4hCK913HvW0zFRKEKrgukR"
-        },
-        {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Pystall Poppin",
-      "url": "https://open.spotify.com/track/6PExpTEtS1doWjrsDVZ2vD"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2022-04-15 07:50:00",

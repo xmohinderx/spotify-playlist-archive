@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Abel Selaocoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,943 likes - 77 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,089 likes - 77 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Selaocoe: Ibuyile I'Africa / Africa is Back](https://open.spotify.com/track/5O61g4G30xMmRyommzmihe) | [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU) | [Where is Home / Hae ke Kae](https://open.spotify.com/album/6IYAr9pzGQJ2c9I5ZWuYEb) | 6:15 |
+| 1 | [Selaocoe: Ibuyile I'Africa / Africa is Back](https://open.spotify.com/track/5O61g4G30xMmRyommzmihe) | [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU), [Alice Zawadzki](https://open.spotify.com/artist/26XEt7IyPRWRrnjv6WBCvy), [Cherise Adams\-Burnett](https://open.spotify.com/artist/6OYwEPCWf19z5wNesPYW03), [Colin Alexander](https://open.spotify.com/artist/5sh2HD1dzKWMqHpq6WYUqM), [Fred Thomas](https://open.spotify.com/artist/6QA7spY3kFRPGsl2xV4QTf), [Max Baillie](https://open.spotify.com/artist/4uRXyyGO8Qng073o80UyCm), [Simran Singh](https://open.spotify.com/artist/48OFDQ3ufcyZmrJR0WXYjJ), [Thandanani Gumede](https://open.spotify.com/artist/1JyutgamQiv09AJG6ez0Cf), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Where is Home / Hae ke Kae](https://open.spotify.com/album/6IYAr9pzGQJ2c9I5ZWuYEb) | 6:15 |
 | 2 | [Symphony No\. 5 in E Minor, Op\. 64: III\. Valse\. Allegro moderato](https://open.spotify.com/track/5h5TXciEjxt3lgd1cVPTHa) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Gianandrea Noseda](https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Tchaikovsky: Symphony No\. 5 in E Minor, Op\. 64: III\. Valse\. Allegro moderato](https://open.spotify.com/album/4UlkblXjTOFX3UiofQlzcR) | 5:44 |
 | 3 | [Träumerei \(from Kinderszenen, Op\. 15\) \- Upright Piano](https://open.spotify.com/track/5p6tdVc1RW7Y7lAEctTQNM) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Schumann: Träumerei \(from Kinderszenen, Op\. 15\)](https://open.spotify.com/album/3UV60S6fFyUrebB7c0jU9v) | 2:41 |
 | 4 | [self.seed](https://open.spotify.com/track/5napRFHstqXkKCVCAXZbyr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 4:31 |

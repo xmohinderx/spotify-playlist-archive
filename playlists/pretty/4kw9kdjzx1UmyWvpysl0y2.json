@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127222,
+  "num_followers": 127221,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYzOSxiNmY0MDg5YzMwMjU5YTA5MWQ0MGQ5YjkzYWM0YWNlZTVmZDc3NjU4",
+  "snapshot_id": "MzY0MSwwMzYwOGVhZGQxNTZlODE0MDFmOTdiNGU2MzAxMjZlOGM1NjJhZTdk",
   "tracks": [
+    {
+      "added_at": "2022-09-23 16:28:51",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW"
+      },
+      "artists": [
+        {
+          "name": "Mick Mazoo",
+          "url": "https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve"
+        }
+      ],
+      "duration_ms": 152827,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB"
+    },
+    {
+      "added_at": "2022-09-23 16:28:39",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        },
+        {
+          "name": "Julian Gray",
+          "url": "https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN"
+        },
+        {
+          "name": "Avrii Castle",
+          "url": "https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8"
+        }
+      ],
+      "duration_ms": 168624,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl"
+    },
     {
       "added_at": "2022-09-22 16:56:00",
       "album": {

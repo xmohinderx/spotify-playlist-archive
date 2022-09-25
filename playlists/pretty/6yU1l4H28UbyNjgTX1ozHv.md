@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,996 likes - 117 songs - 6 hr 27 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,995 likes - 117 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 24 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 |
 | 25 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 |
 | 26 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
-| 27 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 |
+| 27 | [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 |
 | 28 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 |
 | 29 | [Never Too Much \- Acoustic](https://open.spotify.com/track/5pogDdn3JuddF2kkYXRJKb) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/75BcA0fgNTUDn9USI0VsYO) | 3:01 |
 | 30 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 116 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 117 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
-Snapshot ID: `Nzc4LGJhMjNmZDRjOWMxYTZlNjQ3YTQxZWRhMzM4NmVmOGE3YTQ1OTE4MjI=`
+Snapshot ID: `NzgwLDQ4MDY0ODU1MWJhN2E3NzJmZGI3N2Y0MjhlOTllY2QzNDExMmRiNjg=`

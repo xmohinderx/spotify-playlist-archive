@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-69 songs - 4 hr 3 min - not published yet
+69 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

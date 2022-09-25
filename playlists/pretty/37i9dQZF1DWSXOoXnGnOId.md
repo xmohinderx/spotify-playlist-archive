@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXOoXnGnOId.md) - [plain]
 
 > A new take on the freshest dance tracks with remixes from Dubdogz & JØRD, Sonny Fodera, LP Giobbi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,144 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,151 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

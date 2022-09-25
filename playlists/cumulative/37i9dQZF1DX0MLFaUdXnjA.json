@@ -10423,10 +10423,28 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 264080,
       "name": "Living In Symphony",
       "url": "https://open.spotify.com/track/1vLGeIX4csrWmpvhGrMVNf"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Always Summer in Supertropicali (Chapter 2)",
+        "url": "https://open.spotify.com/album/3dFcnv9Ki98p4DvuSfUGAF"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264080,
+      "name": "Living In Symphony",
+      "url": "https://open.spotify.com/track/3hYjlBIsmguyL7jtnSEOpQ"
     },
     {
       "album": {
@@ -11636,7 +11654,7 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194115,
+      "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
     },
@@ -13397,6 +13415,24 @@
     {
       "album": {
         "name": "Palladium",
+        "url": "https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247419,
+      "name": "Palladium",
+      "url": "https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I"
+    },
+    {
+      "album": {
+        "name": "Palladium",
         "url": "https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR"
       },
       "artists": [
@@ -13407,7 +13443,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 247419,
       "name": "Palladium",
       "url": "https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Panilas \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,404 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,400 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 62 | [Tonik](https://open.spotify.com/track/0wr20RKdd0fbmQR0dJwYfp) | [Kixi](https://open.spotify.com/artist/6mAicfExIN7O30EmhYnA1V) | [Tonik](https://open.spotify.com/album/1LbuPm7Jxk2peZl7EzWU2z) | 2:52 |
 | 63 | [Non\-romanceable NPC](https://open.spotify.com/track/6nm2w0i8kEL2LTA350AukR) | [Twardowski](https://open.spotify.com/artist/6Fq0uZ2q54Xfu0I7E2jSZh) | [One Coin Clear](https://open.spotify.com/album/2Ytvt8jGRgPbivHZdXAkD4) | 1:56 |
 | 64 | [Pół na pół](https://open.spotify.com/track/5pRhvHu0UYOWlGfH19ykBL) | [Mark Mantra](https://open.spotify.com/artist/7rwnGooywpcHn7OH0CvCGa) | [Pół na pół](https://open.spotify.com/album/3ULBgMCQUkU4NbIkFfCmUH) | 3:08 |
-| 65 | [Niejednomyślnie](https://open.spotify.com/track/12STIUPLL9ZGEgdnQifTOF) | [Baboki!](https://open.spotify.com/artist/6Q1Aw8DGwI0LnAOgS44Szp) | [Niejednomyślnie](https://open.spotify.com/album/2YJmBrzDH5Jz9m08WxDxg5) | 3:45 |
+| 65 | [Niejednomyślnie](https://open.spotify.com/track/5iWAc5ecWLqjcaIEwneeAv) | [Baboki!](https://open.spotify.com/artist/6Q1Aw8DGwI0LnAOgS44Szp) | [Niejednomyślnie](https://open.spotify.com/album/6J9eF6UkcMHPFv6dkp36LQ) | 3:45 |
 | 66 | [Hymn Do Miłości](https://open.spotify.com/track/5njXm1sDqykD0rXYThei4t) | [GRALIRYKA](https://open.spotify.com/artist/2n4AGfHkzwXOLZhY5rxXLd), [Milena Alot](https://open.spotify.com/artist/32BCNofJ3hwr9PGkycC8VK) | [Hymn Do Miłości](https://open.spotify.com/album/5V7ULwj3RA9kX8ZQEZ7S9H) | 3:22 |
 | 67 | [Krzyk](https://open.spotify.com/track/3Du0ark7CUH8Jw8L2ykqDR) | [Klinton](https://open.spotify.com/artist/5UYY23PwhJJnQOu5UhZOEB) | [Krzykot](https://open.spotify.com/album/472bfmqcJz93NtmL5bEMXT) | 4:26 |
 | 68 | [List do przyszłych nas](https://open.spotify.com/track/5xxZGTHuEpSev37cXbx5EP) | [Król Samołyk](https://open.spotify.com/artist/1tsJdpCkze1p8IfnweNHjA) | [List do przyszłych nas](https://open.spotify.com/album/18PlMkjFoQnBJR1Dc4imKH) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Smutne Oczy](https://open.spotify.com/track/06PooqWutrW5DdET8UH18D) | [TUGA](https://open.spotify.com/artist/2Ru81cKWOnjwUiaQWpJJYZ) | [Smutne Oczy](https://open.spotify.com/album/6gv1efPgCVz2SwLqAuT2vM) | 3:56 |
 | 100 | [W klub](https://open.spotify.com/track/4IePEd7kymVmuknPyIYo94) | [JET PACK](https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW) | [W klub](https://open.spotify.com/album/1fsoWndgmAMWfLSKm6NROb) | 3:09 |
 
-Snapshot ID: `MTY2MzYyNDgwMCwwMDAwMDAwMDJmMDM0ODgzYWRkNzZhYjQzZjExZWUwMDI5ZjA0YmI4`
+Snapshot ID: `MTY2MzYyNDgwMCwwMDAwMDAwMDJhY2E2NDJkNjBmMjI5ZmM1Y2U5NGMzNzc4NDkyMzgx`

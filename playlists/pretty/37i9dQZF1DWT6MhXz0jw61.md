@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,360 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,550 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 10 | [Don't Check Me](https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 2:45 |
 | 11 | [YAMI YUGI MOTO](https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [YAMI YUGI MOTO](https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3) | 1:57 |
 | 12 | [More Thoughts \(2019\)](https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 2:36 |
-| 13 | [Paula Dean \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Dean \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:03 |
+| 13 | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:03 |
 | 14 | [Find Hope](https://open.spotify.com/track/4qZmVQw7vABIHChMfaUeZ6) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Find Hope](https://open.spotify.com/album/7ryWT82hHjprBUjvQNFbMt) | 3:28 |
 | 15 | [Gangsters Anonymous](https://open.spotify.com/track/0WDo3YEg8ShNfoq6rhX57R) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA SUMMERS2](https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh) | 2:03 |
 | 16 | [Neybors](https://open.spotify.com/track/17PBGFi8cRuahLFErgN0Cj) | [Heno.](https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m) | [Neybors](https://open.spotify.com/album/3JfIX9dEtzZ2KD9sZ2QLZu) | 3:00 |

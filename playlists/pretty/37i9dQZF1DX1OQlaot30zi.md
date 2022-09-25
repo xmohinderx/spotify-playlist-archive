@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di thasup, Night Skinny, Lazza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,578 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,625 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 44 | [TUTT E SBAGL](https://open.spotify.com/track/0buNokncaTlwjJR0LPOnG4) | [Armouann](https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6) | [TUTT E SBAGL](https://open.spotify.com/album/2DkCCRODSWiDkQxXS9Hyx7) | 2:41 |
 | 45 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 |
 | 46 | [Skyline](https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Skyline](https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl) | 2:17 |
-| 47 | [Sotto la mole](https://open.spotify.com/track/4Q9dh5PMY7SlDNnqCdIoro) | [CHA CHA](https://open.spotify.com/artist/1WAaVzkzuU1InRBcl5KGOi), [BR1](https://open.spotify.com/artist/1qdRRr53OI85dJznzTaFWp), [Angelino Panebianco](https://open.spotify.com/artist/0kDxfqbKHIyyCe1XhEiGaW) | [Sotto la mole](https://open.spotify.com/album/7scd1MdLXdRanvlBp1NQru) | 3:12 |
+| 47 | [Sotto la mole](https://open.spotify.com/track/4Q9dh5PMY7SlDNnqCdIoro) | [CHA CHA](https://open.spotify.com/artist/1WAaVzkzuU1InRBcl5KGOi), [Angelino Panebianco](https://open.spotify.com/artist/0kDxfqbKHIyyCe1XhEiGaW), [BR1](https://open.spotify.com/artist/1qdRRr53OI85dJznzTaFWp) | [Sotto la mole](https://open.spotify.com/album/7scd1MdLXdRanvlBp1NQru) | 3:12 |
 | 48 | [Pistole a via Libetta](https://open.spotify.com/track/1DTaT7xjkJMPPzTwbutwQ9) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb) | [Pistole a via Libetta](https://open.spotify.com/album/6YNfmNuXWwL42abFCQk3nU) | 3:11 |
 | 49 | [Estorsione](https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Estorsione](https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa) | 3:36 |
 | 50 | [Dejavu](https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Dejavu](https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm) | 2:47 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 54 | [TORINO\-PARIGI](https://open.spotify.com/track/5VFivAlAnYnMdzlgumjtmY) | [THA](https://open.spotify.com/artist/0HEuldZV0DKT32Fd43r0j4) | [TORINO\-PARIGI](https://open.spotify.com/album/2o1CRqynOkDdKOCwMSiTC0) | 2:21 |
 | 55 | [Serpeverde](https://open.spotify.com/track/4eqCBjw37o0Dx53QDfTAwh) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Offpatt](https://open.spotify.com/artist/6o35EjCaVKanneiIcLMTwK) | [Serpeverde](https://open.spotify.com/album/6vBbLr3nziGxEYi7ApJTHM) | 2:11 |
 | 56 | [Troia](https://open.spotify.com/track/2bTaFk4O8I9WsHJ6qDoka0) | [Disa](https://open.spotify.com/artist/3vxADmyPkDsjBzoUu8imYj) | [Troia](https://open.spotify.com/album/3BtL4SL6xF75s3SSvoS69R) | 2:56 |
-| 57 | [Miss You](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [Miss You](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 |
+| 57 | [MISS YOU](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [MISS YOU](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 |
 | 58 | [SETTEMBRE](https://open.spotify.com/track/3orIAOBdATjYpuzHc7H60R) | [Capo](https://open.spotify.com/artist/6HXHgAFc1EszRCOyFZ348T), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [SETTEMBRE](https://open.spotify.com/album/075Po4qZBn0mEnydlZ13m5) | 2:06 |
 | 59 | [Nessuno è figlio di nessuno](https://open.spotify.com/track/7krJeMeLG9B2R3kR76kSpV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Il treno dell'anima](https://open.spotify.com/album/5NJjG40nOZrYrNJSsQWeii) | 2:57 |
 | 60 | [Y.D.C.T.L\. \(You Don't Cross The Line\)](https://open.spotify.com/track/0mM8eVrBUNAFs7pJUaf9ks) | [Dope One](https://open.spotify.com/artist/3hkuxweLT2NqX7opoaRyKB), [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6) | [A Voce Do Quartiere \- EP](https://open.spotify.com/album/6bTF6p6OdDxmYAdxESZ7Q5) | 2:55 |

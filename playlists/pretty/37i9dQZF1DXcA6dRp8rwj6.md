@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Nas X\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,082 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,126 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 6 | [5 Star \(with Rick Ross\)](https://open.spotify.com/track/5shjJZp662loniBOyjqr8h) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [5 Star \(with Rick Ross\)](https://open.spotify.com/album/6IX1qlt5sGAWAF2XPteKy6) | 2:49 |
 | 7 | [Red Flag](https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Red Flag](https://open.spotify.com/album/7Dars3VivMCmaW6JR5qy09) | 3:27 |
 | 8 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
-| 9 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
+| 9 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 |
 | 10 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 |
 | 11 | [Why Did I](https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Why Did I](https://open.spotify.com/album/3tsuymG1fHwb1EdhiOVOM5) | 2:25 |
 | 12 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 48 | [Based On A True Story](https://open.spotify.com/track/5sLum4KXtWLTtb3Lr9So1h) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Marvelous Right Wrist](https://open.spotify.com/album/6urAXKYpK5C1oIB8AHKcBn) | 1:51 |
 | 49 | [City Gyals](https://open.spotify.com/track/3onnvmWiFAjzbu6maCuS1X) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [City Gyals](https://open.spotify.com/album/1cqjrf3oyQuu2MEJn6J3vl) | 2:55 |
 | 50 | [SHTICKY](https://open.spotify.com/track/01XBoslQj87lB9Y2Hqae6j) | [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH), [DJ Ziqq](https://open.spotify.com/artist/732U6klwMbJypcaYvGkQmo), [Fuego](https://open.spotify.com/artist/7CnWVhfXRU4HM3p9ZlBaAo) | [SHTICKY](https://open.spotify.com/album/2ILLjRCMWKMzYxL3IY6w8P) | 2:33 |
-| 51 | [mess](https://open.spotify.com/track/2bLmwcjOAGJnJogZoILY4M) | [L8er](https://open.spotify.com/artist/1HT3Z1VACtoCr585fA3SDV), [Jeffu](https://open.spotify.com/artist/4d465C7Ot3kUlV7UuLx2Sq), [Jeff Shadows](https://open.spotify.com/artist/7zLmMFaagkxhVrJISI5Ata) | [mess](https://open.spotify.com/album/3KEfOHbENV6UMUmAppNHq3) | 1:47 |
+| 51 | [mess](https://open.spotify.com/track/3ypx8jwG7bkMJCCgRLQSav) | [L8er](https://open.spotify.com/artist/1HT3Z1VACtoCr585fA3SDV), [Jeffu](https://open.spotify.com/artist/4d465C7Ot3kUlV7UuLx2Sq), [Jeff Shadows](https://open.spotify.com/artist/7zLmMFaagkxhVrJISI5Ata) | [mess](https://open.spotify.com/album/3YO79TL9tpbrOIJKFtk6Y2) | 1:47 |
 | 52 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 |
 | 53 | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V) | 2:46 |
 | 54 | [NIKE DRIP](https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [NIKE DRIP](https://open.spotify.com/album/17uYQm4gLmpiuwAa3rkyaz) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
 | 100 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 |
 
-Snapshot ID: `MTY2MzkwMjg5OSwwMDAwMDAwMDE5Mjk1MjFlZTkyZDZmZGQyYTM1MTQwMWZmOWMwY2Yx`
+Snapshot ID: `MTY2MzkwMjg5OSwwMDAwMDAwMDk2NTUwYTNlOWY0NmMzNDJmZDczNzY3MTFlZmNiYzY1`

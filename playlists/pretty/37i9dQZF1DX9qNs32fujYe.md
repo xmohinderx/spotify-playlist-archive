@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,899 likes - 200 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,407 likes - 200 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

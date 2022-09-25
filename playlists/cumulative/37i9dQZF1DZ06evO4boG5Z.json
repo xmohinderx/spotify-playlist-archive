@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 166093,
       "name": "For Yesterday",
       "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 176800,
       "name": "In a Room",
       "url": "https://open.spotify.com/track/3msKuwHFNaHteIb7E66Iou"
@@ -473,6 +473,24 @@
       "duration_ms": 132933,
       "name": "Lozin' Must",
       "url": "https://open.spotify.com/track/7Kd6VbwhKBfEMV3aLbxLkC"
+    },
+    {
+      "album": {
+        "name": "Machine 15",
+        "url": "https://open.spotify.com/album/37R1jMircABSFxsoWulxTa"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Machine 15",
+      "url": "https://open.spotify.com/track/0A0iJ8S2YskwUruZTHEAWu"
     },
     {
       "album": {
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 165240,
       "name": "Trendy Winds",
       "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"

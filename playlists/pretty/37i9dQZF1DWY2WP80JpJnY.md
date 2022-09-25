@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 
 > You know\. Epik High Is Here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,694 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,716 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 | 44 | [Rich](https://open.spotify.com/track/16jg76zHuYHMPghRdMfHeL) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:17 |
 | 45 | [Don't Hate Me](https://open.spotify.com/track/3MWKd1ae7ZM6IiDODVGC8r) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [99](https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE) | 3:43 |
 | 46 | [US AGAINST THE WORLD](https://open.spotify.com/track/6hdLMk2pfad3oP4YWSdawd) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 4:01 |
-| 47 | [In Seoul \(Feat\. Sunwoojunga\)](https://open.spotify.com/track/4XiIVGujb1imYN7pylf90s) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 3:42 |
+| 47 | [In Seoul \(Feat\. Sunwoojunga\)](https://open.spotify.com/track/4XiIVGujb1imYN7pylf90s) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 3:42 |
 | 48 | [Run](https://open.spotify.com/track/3kUJ9u148oaHwdKFT45qb3) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 3:30 |
 | 49 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
 | 50 | [막을 올리며 Encore](https://open.spotify.com/track/03DZZDvcEeK9E7iv24f8Gr) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:34 |

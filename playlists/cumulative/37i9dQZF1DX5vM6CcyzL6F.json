@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Latino! Grandes \u00c9xitos - Juan Luis Guerra / Karen Records",
+        "url": "https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295626,
+      "name": "A Pesar del Tiempo",
+      "url": "https://open.spotify.com/track/4hAL5hEovJ29cHPAN1r1Yy"
+    },
+    {
+      "album": {
         "name": "A Pesar Del Tiempo",
         "url": "https://open.spotify.com/album/2w7deBpcUwnDDk2pIEhzd3"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 297888,
       "name": "A Pesar Del Tiempo",
       "url": "https://open.spotify.com/track/694UEye58A0IZCIluDQNRv"
@@ -2695,10 +2713,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 305806,
       "name": "Y Qu\u00e9 Me Pasa",
       "url": "https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B"
+    },
+    {
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303306,
+      "name": "Y Qu\u00e9 Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN"
     },
     {
       "album": {

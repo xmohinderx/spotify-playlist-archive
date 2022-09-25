@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,382 likes - 97 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,498 likes - 97 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

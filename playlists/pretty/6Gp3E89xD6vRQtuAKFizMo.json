@@ -6,8 +6,44 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTkyMyxjZWY5ZTA1MTdhMjIyMTkzYzA2ZDU5ODU3YTkwZWFiNjVmOTcxMWZm",
+  "snapshot_id": "NTkyOSw4M2RmODE4MmEwMWFiOTMxMGVmMTQ1YzhhMTEwMmQ4Y2UwMzNkNzM5",
   "tracks": [
+    {
+      "added_at": "2022-09-23 17:37:12",
+      "album": {
+        "name": "A Slushii Summer",
+        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "I Don't Miss U",
+      "url": "https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz"
+    },
+    {
+      "added_at": "2022-09-23 17:37:31",
+      "album": {
+        "name": "A Slushii Summer",
+        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Love Jesse",
+          "url": "https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5"
+        }
+      ],
+      "duration_ms": 160201,
+      "name": "Summer Lasts Forever (feat. Love Jesse)",
+      "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
+    },
     {
       "added_at": "2022-09-19 18:36:11",
       "album": {
@@ -1127,46 +1163,6 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
-    },
-    {
-      "added_at": "2022-09-19 18:36:11",
-      "album": {
-        "name": "Wild Things",
-        "url": "https://open.spotify.com/album/58IBI9deFJ3VDvZv6Z7CMT"
-      },
-      "artists": [
-        {
-          "name": "SUNDRESS",
-          "url": "https://open.spotify.com/artist/4QLFBPW2qkQiYUv9yL3wwn"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wild Things",
-      "url": "https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG"
-    },
-    {
-      "added_at": "2022-09-19 18:36:11",
-      "album": {
-        "name": "Music Means Love Forever",
-        "url": "https://open.spotify.com/album/2Fd0eRQIYmYhmQguxmZH8j"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Music Means Love Forever",
-      "url": "https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt"
     }
   ],
   "unique_name": "Dim Mak New Releases",

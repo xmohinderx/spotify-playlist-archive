@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-341 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
+342 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-09-03 | 2022-09-10 |
 | [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-07-29 | 2022-07-31 |
 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 | 2022-09-10 | 2022-09-21 |
-| [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-16 |  |
+| [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-16 | 2022-09-25 |
 | [Destination](https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Destination](https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk) | 2:24 | 2022-07-29 | 2022-08-05 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-11 | 2022-06-28 |
 | [Diamanty](https://open.spotify.com/track/5TKjAQyTkezAQGz6eRMOL6) | [Earth](https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr) | [Changes](https://open.spotify.com/album/2XDlC26opmzdw3j037huUM) | 3:17 | 2022-08-31 |  |
@@ -124,7 +124,8 @@
 | [Gin](https://open.spotify.com/track/2sDjhPlr7bLi7teo8o9CaP) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Album, co mi změnilo život](https://open.spotify.com/album/4NybXmmponlJSA5JnjXaae) | 3:16 | 2022-07-26 | 2022-07-28 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-05 | 2022-09-09 |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2022-09-12 | 2022-09-17 |
-| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-08-26 |  |
+| [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-09-24 |  |
+| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-08-26 | 2022-09-25 |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-06-09 | 2022-06-22 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-29 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-15 |  |
@@ -335,7 +336,7 @@
 | [WITHOUT A HEAD](https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ) | [SPURIA](https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil) | [WITHOUT A HEAD](https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1) | 2:00 | 2022-07-22 | 2022-08-11 |
 | [Word to the Wise](https://open.spotify.com/track/2dFz5ravSFl9FL82ujab6y) | [Matt Corman](https://open.spotify.com/artist/2AqMgLvl1EKuvpjFQIIX0U) | [Word to the Wise](https://open.spotify.com/album/1CZseWUGDh5jamHTp6lThC) | 3:12 | 2022-09-08 | 2022-09-11 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2) | 2:58 | 2022-09-03 | 2022-09-15 |
-| [Xanadu](https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Xanadu](https://open.spotify.com/album/1rAR24GD7AcmgSjyXRra87) | 3:49 | 2022-09-08 | 2022-09-18 |
+| [Xanadu](https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Xanadu](https://open.spotify.com/album/1rAR24GD7AcmgSjyXRra87) | 3:49 | 2022-09-08 |  |
 | [Xenogenesis](https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Xenogenesis](https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF) | 3:53 | 2022-09-15 |  |
 | [YAK](https://open.spotify.com/track/3ei0xhESHXFdWOd0avlo35) | [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [YO](https://open.spotify.com/album/7wXd6hDP4E0Jx3wZxigayH) | 3:50 | 2022-07-05 | 2022-07-16 |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:45 | 2022-08-30 | 2022-09-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Shania Twain, Kelsea Ballerini, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,123 likes - 67 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,326 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 23 | [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 |
 | 24 | [Hey Girl \- Kentucky Version](https://open.spotify.com/track/5AKZUVRCc6g1rFCHsHTDQk) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/5SyWGUtvXYdtXPAifVtyEV) | 3:10 |
 | 25 | [Hood of That Car \- Piano Version](https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car \(Piano Version\)](https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu) | 3:28 |
-| 26 | [You Ain't \(Ft\. Meghan Patrick\)](https://open.spotify.com/track/3DNcOGlAIjosd5mBdcCd0s) | [Aaron Goodwin](https://open.spotify.com/artist/0tqNS5nqQ1PFfLHOPrTi0w), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [You Ain't \(feat\. Meghan Patrick\)](https://open.spotify.com/album/0kGmLcZ48CKCXwxvPNcG9K) | 3:24 |
+| 26 | [You Ain't \(Ft\. Meghan Patrick\)](https://open.spotify.com/track/3DNcOGlAIjosd5mBdcCd0s) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [You Ain't \(feat\. Meghan Patrick\)](https://open.spotify.com/album/0kGmLcZ48CKCXwxvPNcG9K) | 3:24 |
 | 27 | [Buckle Up](https://open.spotify.com/track/4RS5N7IIHzlG5tsq770Esl) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Buckle Up](https://open.spotify.com/album/0hz5rm9t1iEPJzV3KWUIOH) | 2:16 |
 | 28 | [Hometown Buzz](https://open.spotify.com/track/3zOLYg3FXzPIAbUSYX38LV) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [Hometown Buzz](https://open.spotify.com/album/5p6LaqBFpPZzAk0JnvutpU) | 3:26 |
 | 29 | [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 |

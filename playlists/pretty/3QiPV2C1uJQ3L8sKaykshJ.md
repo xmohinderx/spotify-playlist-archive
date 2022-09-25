@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from Steve Lacy, Chris Brown, SZA, Flo Milli, Latto, and more\. Cover: Steve Lacy
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,219 likes - 25 songs - 1 hr 18 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,218 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 | 24 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
 | 25 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
 
-Snapshot ID: `MjEzOCwwMzhmZDg4MWIzMDY0N2U2MDllNDkyZmQ4OGI0OTg2ZTNmMTBmZjkz`
+Snapshot ID: `MjE0MCwzYjNhZmVmYmVmY2Q2NWM0Yzg5N2JkYjQ4ZjhkNTM4YTMzYTYwN2Rj`

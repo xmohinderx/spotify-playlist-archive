@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,468 likes - 63 songs - 4 hr 6 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,465 likes - 63 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 62 | [Forget About Me \- Nite Version \(DJ Seinfeld Remix\)](https://open.spotify.com/track/6SBtkeGadB3yOKnwfGbGMG) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:56 |
 | 63 | [Not Enough](https://open.spotify.com/track/5piaLz775INjlnFJ1Rvh5d) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [Closer](https://open.spotify.com/album/0EPh7k3gmF42OU2dzhw5HP) | 2:43 |
 
-Snapshot ID: `NjIxNCxhMzNiMDMwOTI2N2QxYmFkNGZmZjk0MWIzYTFiMGM2ZDBhNzcwMTAy`
+Snapshot ID: `NjIxNiw5ZWVkMWI2ZDU1MThkMjc1MTVkNDNjNjc4N2RkNzc3MTEwN2Y1YjM4`

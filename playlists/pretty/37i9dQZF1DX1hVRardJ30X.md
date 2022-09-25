@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Polimá Westcoast, J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,916 likes - 73 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,098 likes - 73 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

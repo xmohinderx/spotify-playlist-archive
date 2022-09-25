@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > it's a cinnamon infused kind of mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,702 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,981 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 79 | [eyes don't lie](https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don't lie](https://open.spotify.com/album/4QRxLPMrWWw1NCEc1sCVGw) | 3:46 |
 | 80 | [so much more than me](https://open.spotify.com/track/64mtT1WVFNfd7eas2g41K3) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [so much more than me](https://open.spotify.com/album/6gqClqXMbodL5mwP8yFqHd) | 3:06 |
 
-Snapshot ID: `MTY2Mzk0NzA2OSwwMDAwMDAwMDc4OWVlZWJmZmQ3NDgxNDc0NzNlYTk4NTM5NDlmMDBi`
+Snapshot ID: `MTY2NDA1NTgyMiwwMDAwMDAwMDM4YTBiZWViNWMyNjUwZGE2MmZkYTM4NGU0ZTM1YTU2`

@@ -4,7 +4,7 @@
 
 > Energetic tracks from the 2000s to boost your running session.
 
-50 songs - 3 hr 16 min - not published yet
+50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/5Hvqr14xQJgQOv15YvOQEM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

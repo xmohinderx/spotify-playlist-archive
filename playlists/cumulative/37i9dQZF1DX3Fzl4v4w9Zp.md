@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Nikki Lane
 
-342 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+343 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [Harness the Wind](https://open.spotify.com/track/3yCuPXH95r8oCucf2MRYXH) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV) | 2:54 | 2022-08-19 |  |
 | [Harness the Wind](https://open.spotify.com/track/42xT0Ihj3mgS1Afa92vcMS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Harness the Wind](https://open.spotify.com/album/3LYvDxTZ0BXlhZWMBM3OgT) | 2:54 | 2022-04-01 | 2022-09-09 |
 | [Hawk For The Dove](https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0) | 3:47 | 2022-05-27 | 2022-07-29 |
-| [Hawk For The Dove](https://open.spotify.com/track/4wgACmMIe2SWmTdCBgKxgd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:47 | 2022-07-22 |  |
+| [Hawk For The Dove](https://open.spotify.com/track/4wgACmMIe2SWmTdCBgKxgd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:47 | 2022-07-22 | 2022-09-25 |
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-07-22 | 2022-08-01 |
+| [Hawk For The Dove](https://open.spotify.com/track/6vbukr6UTH4aLxraGiA6Ge) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:47 | 2022-09-23 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2021-12-17 | 2022-02-23 |
 | [Heading West](https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Barn](https://open.spotify.com/album/7vlrGBbvKz2tZmVqAxK5ec) | 3:22 | 2021-12-17 | 2022-01-29 |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2022-06-03 |  |

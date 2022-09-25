@@ -4,7 +4,7 @@
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Q
 
-605 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+606 songs - 1 day 8 hr 57 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2022-06-10 | 2022-09-10 |
 | [Changes](https://open.spotify.com/track/422CiQ73fOUAlKFpn2dayo) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:58 | 2021-07-09 | 2022-01-19 |
 | [Chattin' Shit](https://open.spotify.com/track/2TA1k1hO7kUcMBZcbV0ABq) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:11 | 2022-04-01 | 2022-04-13 |
-| [Cherie](https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Cherie](https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg) | 3:25 | 2022-07-29 |  |
+| [Cherie](https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Cherie](https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg) | 3:25 | 2022-07-29 | 2022-09-25 |
 | [Cherish \(furs\)](https://open.spotify.com/track/21M5nMK9Jz4QOa301kiqFt) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 3:52 | 2022-07-15 | 2022-07-24 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2021-03-19 | 2022-08-09 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2022-04-01 | 2022-04-14 |
@@ -405,6 +405,7 @@
 | [Passport \- シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport \(シングル版\)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2021-03-19 | 2022-01-02 |
 | [Patient](https://open.spotify.com/track/730CcAUVjw3qLxvaBfB7qf) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Patient](https://open.spotify.com/album/0bj3ttjgVGDYOEtJLA4Bar) | 4:04 | 2022-04-01 | 2022-06-08 |
 | [Perfect](https://open.spotify.com/track/4dGRpl0xZg9C9aesFhlsoe) | [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Clearly Confused](https://open.spotify.com/album/15DzB3KZMXfo7cpoWXxjJh) | 2:25 | 2021-08-13 | 2022-01-07 |
+| [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2022-09-23 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-03-19 | 2022-07-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2022-04-01 | 2022-04-14 |
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |

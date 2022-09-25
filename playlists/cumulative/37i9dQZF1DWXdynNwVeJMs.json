@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "The New Lady Llama",
+        "url": "https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm"
+      },
+      "artists": [
+        {
+          "name": "Steiger",
+          "url": "https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331853,
+      "name": "Absolution of a French Fry",
+      "url": "https://open.spotify.com/track/2zab7PHAybogB0HTOkUAxv"
+    },
+    {
+      "album": {
         "name": "Absolution Of A French Fry",
         "url": "https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 331853,
       "name": "Absolution of a French Fry",
       "url": "https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ"
@@ -543,10 +561,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 286422,
       "name": "Cumulus",
       "url": "https://open.spotify.com/track/0pDMECDdo0SkE81fqc4k54"
+    },
+    {
+      "album": {
+        "name": "T(h)reats",
+        "url": "https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI"
+      },
+      "artists": [
+        {
+          "name": "STUFF.",
+          "url": "https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286422,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/5uFYKPsV8x6D2swS6IXcWC"
     },
     {
       "album": {
@@ -1000,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "The New Lady Llama",
+        "url": "https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm"
+      },
+      "artists": [
+        {
+          "name": "Steiger",
+          "url": "https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157706,
+      "name": "Lambda",
+      "url": "https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU"
+    },
+    {
+      "album": {
         "name": "Lambda",
         "url": "https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6"
       },
@@ -1011,7 +1065,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 157706,
       "name": "Lambda",
       "url": "https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2"
@@ -1539,10 +1593,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 342893,
       "name": "Reflet",
       "url": "https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg"
+    },
+    {
+      "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1"
+      },
+      "artists": [
+        {
+          "name": "Glass Museum",
+          "url": "https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342893,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd"
     },
     {
       "album": {
@@ -1564,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Gulliver",
+        "url": "https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h"
+      },
+      "artists": [
+        {
+          "name": "Condor Gruppe",
+          "url": "https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359440,
+      "name": "Rhymes On Our Mind",
+      "url": "https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp"
+    },
+    {
+      "album": {
         "name": "Rhymes On Our Mind",
         "url": "https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b"
       },
@@ -1575,7 +1665,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 359440,
       "name": "Rhymes On Our Mind",
       "url": "https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey"
@@ -1854,6 +1944,24 @@
     },
     {
       "album": {
+        "name": "Mammoet",
+        "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG"
+    },
+    {
+      "album": {
         "name": "Tzatz\u00ecki",
         "url": "https://open.spotify.com/album/4UTpoktqZgI9eOtN2d4eK6"
       },
@@ -1865,7 +1973,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 391226,
       "name": "Tzatz\u00ecki",
       "url": "https://open.spotify.com/track/71as0IomI571JigqGYx76F"
@@ -1941,10 +2049,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 303915,
       "name": "Wessel",
       "url": "https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs"
+    },
+    {
+      "album": {
+        "name": "An Arp in Tunisia",
+        "url": "https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303915,
+      "name": "Wessel",
+      "url": "https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX"
     },
     {
       "album": {

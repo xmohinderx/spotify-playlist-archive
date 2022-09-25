@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2MjQ1MiwwMDAwMDAwMDI0NzQyMmY3Njg3MWNiYWM4NTM4MjYwNTFhMTZkOTM1",
+  "snapshot_id": "MTY2Mzk5MzYxMiwwMDAwMDAwMGZkYjg4MjBlZWY0NGQ1ZTVlYzdkYzYyNmUxNTM2Yzgy",
   "tracks": [
     {
       "added_at": "2022-09-02 17:53:38",
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
-      "added_at": "2022-09-16 21:07:32",
+      "added_at": "2022-09-24 04:26:52",
       "album": {
-        "name": "STONE COLD!",
-        "url": "https://open.spotify.com/album/4GTtDcfQD23xyt5otxlu7K"
+        "name": "DELIVER!",
+        "url": "https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 104000,
-      "name": "STONE COLD!",
-      "url": "https://open.spotify.com/track/3h4EcZwKDcJl11xjI3gPMQ"
+      "duration_ms": 109766,
+      "name": "DELIVER!",
+      "url": "https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv"
     },
     {
       "added_at": "2022-08-19 19:55:05",
@@ -301,6 +301,26 @@
       "url": "https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA"
     },
     {
+      "added_at": "2022-09-24 04:26:52",
+      "album": {
+        "name": "BLUR",
+        "url": "https://open.spotify.com/album/5uD0p91oVYykfymNyxzJL0"
+      },
+      "artists": [
+        {
+          "name": "JORD4NEVERDIED",
+          "url": "https://open.spotify.com/artist/2UPrUSRrUq2ZNSN7kiQFD6"
+        },
+        {
+          "name": "Starchild Kayla",
+          "url": "https://open.spotify.com/artist/5UtRvOzPj961COo2uSbCRb"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "RIGHT NOW",
+      "url": "https://open.spotify.com/track/1ncAOdlSZhWskM5NwFAeSj"
+    },
+    {
       "added_at": "2022-09-16 21:07:32",
       "album": {
         "name": "Book of Sun",
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/1pn2A373ZsEUyX1FtEccOZ"
     },
     {
-      "added_at": "2022-09-09 19:33:50",
+      "added_at": "2022-09-24 04:26:52",
       "album": {
         "name": "DSM",
         "url": "https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol"
@@ -420,25 +440,21 @@
           "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
         },
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
+        },
+        {
+          "name": "SAINT LYOR",
+          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
         },
         {
           "name": "Jiles",
           "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
-        },
-        {
-          "name": "Ricky Felix",
-          "url": "https://open.spotify.com/artist/2SmC9XkFSqrH0sAn9F9E19"
-        },
-        {
-          "name": "FELIX",
-          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
         }
       ],
-      "duration_ms": 210955,
-      "name": "The Source",
-      "url": "https://open.spotify.com/track/2wHD7sPxQgMS8S5dEQHu7c"
+      "duration_ms": 259117,
+      "name": "War Mode",
+      "url": "https://open.spotify.com/track/0WsmublUjkN9iSiat5tpUN"
     },
     {
       "added_at": "2022-08-05 19:58:13",
@@ -563,26 +579,6 @@
       "duration_ms": 224297,
       "name": "Shopping Spree",
       "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "Watch The Chrome",
-        "url": "https://open.spotify.com/album/6vCrkxYzWU9cJMB0DW4ukz"
-      },
-      "artists": [
-        {
-          "name": "BoriRock",
-          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
-        },
-        {
-          "name": "Caev",
-          "url": "https://open.spotify.com/artist/0mkMBdJb4grjol3blckHxe"
-        }
-      ],
-      "duration_ms": 140669,
-      "name": "NIGGAS IN DIORCHESTER",
-      "url": "https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7"
     },
     {
       "added_at": "2022-09-02 17:53:38",
@@ -741,10 +737,10 @@
       "url": "https://open.spotify.com/track/4cGMLUZEr8HU6QPlcUcZ2r"
     },
     {
-      "added_at": "2022-09-01 14:39:30",
+      "added_at": "2022-09-24 04:26:52",
       "album": {
-        "name": "1017 ALYX",
-        "url": "https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0"
+        "name": "BE OK",
+        "url": "https://open.spotify.com/album/3vEWxsTm3AAlcuMSirnYjs"
       },
       "artists": [
         {
@@ -752,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
         }
       ],
-      "duration_ms": 113712,
-      "name": "1017 ALYX",
-      "url": "https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6"
+      "duration_ms": 127075,
+      "name": "BE OK",
+      "url": "https://open.spotify.com/track/2piBc7Tf4OneZ8gbChmWpb"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -771,6 +767,26 @@
       "duration_ms": 172154,
       "name": "Beleive Me",
       "url": "https://open.spotify.com/track/0TztxVGAoatcgqhUR7K3qI"
+    },
+    {
+      "added_at": "2022-09-24 04:26:52",
+      "album": {
+        "name": "In My City",
+        "url": "https://open.spotify.com/album/1db6x6nZ2IN1JjLDqIBa7B"
+      },
+      "artists": [
+        {
+          "name": "Stizzy Leftlane",
+          "url": "https://open.spotify.com/artist/2dQwBBED5oUeKyHYU7R5VN"
+        },
+        {
+          "name": "$hayBand$",
+          "url": "https://open.spotify.com/artist/7jxxXzCLgiFE57KCjWw4H2"
+        }
+      ],
+      "duration_ms": 160731,
+      "name": "In My City",
+      "url": "https://open.spotify.com/track/1fGXDyFhiAlvm0siIF8JyH"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -793,22 +809,6 @@
       "url": "https://open.spotify.com/track/5y3o0v46j0zbOhFpXiTl19"
     },
     {
-      "added_at": "2022-08-19 19:55:05",
-      "album": {
-        "name": "ZIP (7OUNZE EDIT)",
-        "url": "https://open.spotify.com/album/0Pa8YqrdmG6zzSrBwaZrkH"
-      },
-      "artists": [
-        {
-          "name": "Krew$",
-          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
-        }
-      ],
-      "duration_ms": 166043,
-      "name": "ZIP (7OUNZE EDIT)",
-      "url": "https://open.spotify.com/track/1JTiPvL5b3Ug0SXIqJU7Rn"
-    },
-    {
       "added_at": "2022-08-05 19:58:13",
       "album": {
         "name": "BREAK IT DOWN",
@@ -823,22 +823,6 @@
       "duration_ms": 126551,
       "name": "BREAK IT DOWN",
       "url": "https://open.spotify.com/track/7aHzEZTz87BY3HGQ9ce27C"
-    },
-    {
-      "added_at": "2022-08-19 19:55:05",
-      "album": {
-        "name": "God Speed",
-        "url": "https://open.spotify.com/album/0tDnqaNl2NmK2Cvhcqwo3R"
-      },
-      "artists": [
-        {
-          "name": "$ean Wire",
-          "url": "https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "God Speed",
-      "url": "https://open.spotify.com/track/3mj4fkUK39rD8kpYa0ND2p"
     },
     {
       "added_at": "2022-09-09 19:33:50",
@@ -875,22 +859,6 @@
     {
       "added_at": "2022-01-29 00:15:56",
       "album": {
-        "name": "baby steps",
-        "url": "https://open.spotify.com/album/0cIJI6arDds9AOiVLtyW4y"
-      },
-      "artists": [
-        {
-          "name": "kei",
-          "url": "https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "pressed",
-      "url": "https://open.spotify.com/track/2F1iYQpSIqSkpUKOGmPNXj"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
         "name": "BROWNSTONES 2",
         "url": "https://open.spotify.com/album/5vssnZx0msxs1saDwnP7yu"
       },
@@ -911,38 +879,6 @@
       "duration_ms": 182786,
       "name": "Chez Vous",
       "url": "https://open.spotify.com/track/3IXLux9HHfxT2kogNpCzZm"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
-        "name": "FEED THE FAMILY",
-        "url": "https://open.spotify.com/album/5K9swQvqm8U7w8Y4Ozi6nH"
-      },
-      "artists": [
-        {
-          "name": "FEED THE FAMILY",
-          "url": "https://open.spotify.com/artist/51FDoBQuWwRFUGHpSQTmLD"
-        },
-        {
-          "name": "Shaykh Hanif",
-          "url": "https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg"
-        },
-        {
-          "name": "Dun Dealy",
-          "url": "https://open.spotify.com/artist/6GjQh4aojWl1rPSkN3kBgE"
-        },
-        {
-          "name": "BoriRock",
-          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
-        },
-        {
-          "name": "Tremendiss",
-          "url": "https://open.spotify.com/artist/2L9BuG9iW0jm6Sm1bSSvzM"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "CONVERSATIONS WITH THE PLUG",
-      "url": "https://open.spotify.com/track/7EyDWblggvlq72t9uegWtt"
     },
     {
       "added_at": "2022-09-09 19:33:50",
@@ -979,6 +915,22 @@
       "duration_ms": 204068,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/47apDG3Hq3HNXMDanJ5b9v"
+    },
+    {
+      "added_at": "2022-09-24 04:26:52",
+      "album": {
+        "name": "10 On a One",
+        "url": "https://open.spotify.com/album/0maeEjuWdqxhHNX2mIOsRT"
+      },
+      "artists": [
+        {
+          "name": "Dun Dealy",
+          "url": "https://open.spotify.com/artist/6GjQh4aojWl1rPSkN3kBgE"
+        }
+      ],
+      "duration_ms": 149681,
+      "name": "10 On a One",
+      "url": "https://open.spotify.com/track/7nXWHvpMTz2Mx5J3l56nbw"
     }
   ],
   "unique_name": "Ripple Effect: New England",

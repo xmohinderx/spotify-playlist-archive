@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Izzy Spears, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,830 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,804 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 7 | [Cycles \(feat\. Isaiah\)](https://open.spotify.com/track/2iyaSzxyl0B744yPbXpcEK) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles](https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm) | 3:18 |
 | 8 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 |
 | 9 | [Statistics](https://open.spotify.com/track/4MhO110MAsJJfTqwv5EVKY) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Black Mona Lisa](https://open.spotify.com/album/1FFEcyvXKJQEJ78DK2knZg) | 3:29 |
-| 10 | [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 |
+| 10 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 |
 | 11 | [vancouver](https://open.spotify.com/track/2YrskXqA4JsBzmW0jM6qE0) | [Chlsy](https://open.spotify.com/artist/316TfRq3qjtJpsjGzIOSBL) | [quantum entanglement](https://open.spotify.com/album/2De9U487mC8vxUByLv93Km) | 4:48 |
 | 12 | [Judas](https://open.spotify.com/track/1XJIjkaQuzoUGXaR4lQQfj) | [Summer Vee](https://open.spotify.com/artist/3GsVkkWXzpZiBVTjT5FGrX) | [Key To All Your Love & Judas](https://open.spotify.com/album/1q2NuLM1pKQoUVOyOG9W8e) | 4:55 |
 | 13 | [Back to you](https://open.spotify.com/track/5JIktP5Tdr1Azs6xAQGssi) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Back to you](https://open.spotify.com/album/5iwR3OV9mPjCQH1GmDq1AF) | 4:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 54 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 |
 | 55 | [Just Wanna Love You](https://open.spotify.com/track/7wPwLeCgPY0TclMaIdPbgC) | [Benjamin Barth](https://open.spotify.com/artist/0UU0uuyrwixjg1aqQTeuh9) | [Just Wanna Love You](https://open.spotify.com/album/2mmkX0EK9FoYjKZ0VAQSUu) | 3:50 |
 
-Snapshot ID: `MTY2Mzc3OTc2MywwMDAwMDAwMDI3ZWZlMDYyMWM3NGJhNDQxZTJjMDhjYzkzYzAzNTFl`
+Snapshot ID: `MTY2Mzc3OTc2MywwMDAwMDAwMDM4M2FiYjhhYTkwMzVkNmM4NzI3YzU1ZDc0MTQ3MTI3`

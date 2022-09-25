@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Sunnery James &amp; Ryan Marciano
+> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Andrew Rayel
 
-255 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+256 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Girl](https://open.spotify.com/track/4YsMDOgS5vQf5RyZD8lR34) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF) | 2:39 | 2022-06-09 |  |
 | [Going Home](https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Max Vidima](https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6) | [Going Home](https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y) | 4:22 | 2022-06-09 |  |
 | [Gold](https://open.spotify.com/track/1AFZzulpCuxiJNqaUjmP1O) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Belle Humble](https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM) | [Gold](https://open.spotify.com/album/5ktG7pHxnHdBmnldXsrNpa) | 3:07 | 2022-09-08 |  |
+| [Gone Tomorrow](https://open.spotify.com/track/0ge3ZUDEvyPZvd13VoVd0H) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Gone Tomorrow](https://open.spotify.com/album/3u25jj4B4cqGqxEsPRFmZO) | 2:23 | 2022-09-23 |  |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-06-09 |  |
 | [Great Spirit](https://open.spotify.com/track/1ZY65WHQJk5TJ5UJL9ffyq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [Trance Top 1000 \(Mini Mix 010\) \- Armada Music](https://open.spotify.com/album/4uY3v6NGQh8DhQG2ky8CWm) | 3:35 | 2022-08-30 | 2022-09-01 |
 | [Great Spirit](https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [Great Spirit](https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt) | 3:35 | 2022-08-31 |  |

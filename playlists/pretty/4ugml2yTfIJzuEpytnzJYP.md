@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
-### [An\-Ten\-Nae \-  Deep Bass Vibes](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
+### [Medicine Playlist \-  Deep Bass Vibes](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
-> Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
+> Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,449 likes - 24 songs - 1 hr 40 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,461 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,9 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 22 | [Trooper's Clash](https://open.spotify.com/track/6WhCzDmXwkGloyUYPkw4hK) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Feels Like Home EP](https://open.spotify.com/album/1QRustkabNUNqbDBnD56gC) | 5:01 |
 | 23 | [Pathways](https://open.spotify.com/track/37MQC1HF0hiApuaSEcq5fl) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Pathways](https://open.spotify.com/album/2aIi4kmiK0wipFpm8PJm1l) | 3:42 |
 | 24 | [Westside](https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob) | [Untitld](https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd) | [Westside](https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD) | 2:58 |
+| 25 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 |
+| 26 | [Bad Boi Sound](https://open.spotify.com/track/0S5xkB9hWYPKDrGW4FzXM5) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt), [leet](https://open.spotify.com/artist/55zsOqeG5Xk57wpvWjOKXo) | [The Chef Boyarleet EP](https://open.spotify.com/album/1rIa8oKcTbtyRQRMnL70Zc) | 4:44 |
+| 27 | [Reallo](https://open.spotify.com/track/2O5Z7wPZOlUS3Ux0O9rrfQ) | [Shelajit](https://open.spotify.com/artist/0zunin3sxLeigHfiefKSiL) | [Reallo](https://open.spotify.com/album/7nT1Y6z7tsztUDJ4SACWog) | 3:56 |
+| 28 | [Up in the Safe \- Mythm Remix](https://open.spotify.com/track/45UwlxaR2cVemGxdtJpk0D) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Up in the Safe \(MYTHM Remix\)](https://open.spotify.com/album/7quwFHbQD0LZZFAR1wuNdH) | 3:00 |
 
-Snapshot ID: `MTk5NSwzODNkMzQ3M2RjMjk4MjNhYWQwMjg5MDY5N2UwMzkyYWE3ZDZhMzRj`
+Snapshot ID: `MjAwMSw0MDM2NGYyNTdhYTAzNmU2NTlhZTE2YWRmNjU4NWM1OGI5MjE4ZWY0`

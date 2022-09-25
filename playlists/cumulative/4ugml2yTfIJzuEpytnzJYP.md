@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/4ugml2yTfIJzuEpytnzJYP.md) - cumulative - [plain](/playlists/plain/4ugml2yTfIJzuEpytnzJYP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ugml2yTfIJzuEpytnzJYP)
 
-### [An\-Ten\-Nae \-  Deep Bass Vibes](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
+### [Medicine Playlist \-  Deep Bass Vibes](https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP)
 
-> Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
+> Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-149 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+153 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Arachne](https://open.spotify.com/track/7A5jeuHXoI3ZGbIcZZ8Irm) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:30 | 2022-08-18 | 2022-09-17 |
 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 | 2021-11-10 | 2022-02-28 |
 | [Back in the Mix](https://open.spotify.com/track/03F2ojTzplOO36V7cmiM0L) | [Dredlok](https://open.spotify.com/artist/1KBcLRftIZBoT2idLxrrC1) | [Back in the Mix](https://open.spotify.com/album/47I7XdZYlEbfcbL7XTblPM) | 2:51 | 2022-01-22 | 2022-02-28 |
+| [Bad Boi Sound](https://open.spotify.com/track/0S5xkB9hWYPKDrGW4FzXM5) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt), [leet](https://open.spotify.com/artist/55zsOqeG5Xk57wpvWjOKXo) | [The Chef Boyarleet EP](https://open.spotify.com/album/1rIa8oKcTbtyRQRMnL70Zc) | 4:44 | 2022-09-23 |  |
 | [Bad Things \- 11th Hour Remix](https://open.spotify.com/track/0aGLQnuOBPHqpHW61xbrya) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8), [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [Bad Things \(11th Hour Remix\)](https://open.spotify.com/album/6mXh0aonbjxgzm9oXWPSEa) | 4:14 | 2022-04-26 | 2022-09-17 |
 | [Balaclava](https://open.spotify.com/track/1eAkkYLE0xkfwp0kXVX38R) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Balaclava](https://open.spotify.com/album/3dXuQqB5pNyH2GweiRzTDp) | 3:17 | 2022-09-17 |  |
 | [Balance](https://open.spotify.com/track/4EMwRAupQ2Sn3lTzc7dYXk) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Balance](https://open.spotify.com/album/5DOzIJtdvM8dfnS5LarNHk) | 4:10 | 2022-08-18 |  |
@@ -39,6 +40,7 @@
 | [CREATE](https://open.spotify.com/track/6pQeuElje6CepCLUSTTs1o) | [TR!P HVZVRD](https://open.spotify.com/artist/5Lx937tgItqFWdlOoyATpC), [OTATOP](https://open.spotify.com/artist/4kMFIAZUbaMvqb7cJjvtRj) | [CREATE](https://open.spotify.com/album/1yAyjHimE6Iandit8s0Ki3) | 3:05 | 2022-01-17 | 2022-02-18 |
 | [Cruise Control](https://open.spotify.com/track/1SAv0E7nYW6hnP13HRWIFF) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [The Power of Sound EP](https://open.spotify.com/album/5g3x8ghArJk8epL0R5NWj4) | 4:06 | 2022-08-18 |  |
 | [Daisy](https://open.spotify.com/track/6r5HkXJGRfCrbcdYMxGZhM) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Daisy](https://open.spotify.com/album/3oZ61a5CcnPYLkMFzCPKPO) | 3:13 | 2022-09-17 |  |
+| [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 |  |
 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 | 2022-04-15 | 2022-09-17 |
 | [Do What You Love](https://open.spotify.com/track/2d6VpS0QGYPDipralkDfCY) | [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Comfort In The Orange Glow](https://open.spotify.com/album/5IPhg5fIyLvkA2eJj3tsOQ) | 3:10 | 2022-02-25 | 2022-09-17 |
 | [Dreams](https://open.spotify.com/track/6Zdtl56h0h1VmrJKWX1lTU) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Dreams](https://open.spotify.com/album/1fj98y73pWLncom9XmaftK) | 3:34 | 2022-09-17 |  |
@@ -114,6 +116,7 @@
 | [Purification](https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [The Gaslamp Killer](https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ) | [Purification](https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6) | 3:54 | 2022-07-15 | 2022-09-17 |
 | [Qualify](https://open.spotify.com/track/5kAj8k3iB7qo5mAAerdor4) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Captcha](https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM) | 3:12 | 2021-09-25 | 2022-04-16 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
+| [Reallo](https://open.spotify.com/track/2O5Z7wPZOlUS3Ux0O9rrfQ) | [Shelajit](https://open.spotify.com/artist/0zunin3sxLeigHfiefKSiL) | [Reallo](https://open.spotify.com/album/7nT1Y6z7tsztUDJ4SACWog) | 3:56 | 2022-09-23 |  |
 | [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 | 2022-08-19 |  |
 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 | 2022-01-21 | 2022-02-28 |
 | [Ruminate](https://open.spotify.com/track/7wqq6vKvzbaTYFZ4QUGjic) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [SMBR](https://open.spotify.com/artist/7afurVeEHZHC1d8LV3wnQQ) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:05 | 2022-09-19 |  |
@@ -146,6 +149,7 @@
 | [Undercover \(feat\. Kayla Rae\)](https://open.spotify.com/track/3TrXgzMCWBxkyXjm7eeahk) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur), [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Undercover \(feat\. Kayla Rae\)](https://open.spotify.com/album/7CDGFJARMiy2KOR8i2KDDX) | 2:56 | 2022-01-12 | 2022-02-13 |
 | [Up in Smoke](https://open.spotify.com/track/44pU0jjcq3kxtXe9Nv3mOU) | [WerD](https://open.spotify.com/artist/6rik4C78AcU2bAncYFNLgZ) | [Neurotransmission](https://open.spotify.com/album/6Oiqyx3pmTGdzJG1EZL93b) | 4:04 | 2022-04-25 | 2022-09-17 |
 | [Up in the Safe](https://open.spotify.com/track/2sMqWQvSw5FBphrjhby5Se) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Up in the Safe](https://open.spotify.com/album/48nO2BxjWwKFW68OIYHaCc) | 3:56 | 2022-02-06 | 2022-03-10 |
+| [Up in the Safe \- Mythm Remix](https://open.spotify.com/track/45UwlxaR2cVemGxdtJpk0D) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Up in the Safe \(MYTHM Remix\)](https://open.spotify.com/album/7quwFHbQD0LZZFAR1wuNdH) | 3:00 | 2022-09-23 |  |
 | [Utopia](https://open.spotify.com/track/6hFx04XsHt99HQdO51w28Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Utopia](https://open.spotify.com/album/4TVo5m16Nw2x5B2uzHuuwh) | 3:29 | 2021-09-17 | 2022-04-16 |
 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 | 2022-04-26 | 2022-09-17 |
 | [Vision Quest](https://open.spotify.com/track/78muRkn22ADBNBwDmDg4VM) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Vision Quest](https://open.spotify.com/album/3h04FoSQ3lsjPI1V0Qo0Wo) | 4:41 | 2022-04-15 | 2022-09-17 |

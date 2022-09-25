@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Ingrid St\-Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,061 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 9 | [Mano](https://open.spotify.com/track/4DUuzdS16ZC7SMAGpAONmo) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Mano](https://open.spotify.com/album/3L7u8TzxIr6JjqPPdaTGE8) | 3:30 |
 | 10 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 |
 | 11 | [Murciélago](https://open.spotify.com/track/4XZyPSlpUW0HrpYOcFJFZX) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Murciélago](https://open.spotify.com/album/2my4wNL1hk75yFIJgVljIl) | 2:53 |
-| 12 | [Distant](https://open.spotify.com/track/51vGgZuSUq4ORWFpNEfOO8) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Instable](https://open.spotify.com/album/5pYl65bna6qFdaOSHbp4fe) | 3:41 |
+| 12 | [Distant](https://open.spotify.com/track/51vGgZuSUq4ORWFpNEfOO8) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Instable](https://open.spotify.com/album/5pYl65bna6qFdaOSHbp4fe) | 3:41 |
 | 13 | [Gravité](https://open.spotify.com/track/5fBkJQXG6UiwGUkZtkVMKz) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [L'EP](https://open.spotify.com/album/30Sl2MlX4q0DBQni39JFFo) | 3:17 |
 | 14 | [Royal Royal](https://open.spotify.com/track/6cSmQb7nhpXVQ0iK8SJN4Q) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4) | [Royal Royal](https://open.spotify.com/album/0m3ZkkNn6TRr7soLGIjItD) | 3:40 |
 | 15 | [Dancing on the Edge \- Version Française](https://open.spotify.com/track/3St2qCfl7Kx9jvWWIbYGfn) | [Mc12](https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN) | [Dancing on the Edge \(Version Française\)](https://open.spotify.com/album/2GHTSwdLNoXAmqi0LXE9e5) | 2:44 |

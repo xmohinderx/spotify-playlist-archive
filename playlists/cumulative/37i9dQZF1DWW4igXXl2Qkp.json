@@ -3095,7 +3095,7 @@
     {
       "album": {
         "name": "Legendary",
-        "url": "https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5"
+        "url": "https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ"
       },
       "artists": [
         {
@@ -3106,6 +3106,24 @@
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163998,
+      "name": "Free Yola",
+      "url": "https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
       "duration_ms": 164129,
       "name": "Free Yola",
       "url": "https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0"

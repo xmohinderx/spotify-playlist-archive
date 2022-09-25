@@ -2,7 +2,7 @@
 
 ### [Hard Rock Workout](https://open.spotify.com/playlist/6kXNv8J3HCYztxjOIUzApv)
 
-> Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!
+> Rock out while you work out! Follow for updates!
 
 179 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
 

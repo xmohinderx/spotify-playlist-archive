@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 
 > Upbeat piano for stepping out
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,833 likes - 200 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,836 likes - 200 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

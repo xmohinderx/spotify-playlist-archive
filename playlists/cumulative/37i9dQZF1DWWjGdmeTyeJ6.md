@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Izzy Spears, Artwork: Isu Kim
 
-2,288 songs - 5 day 5 hr 32 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,289 songs - 5 day 5 hr 35 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,7 +747,8 @@
 | [Frankenstein](https://open.spotify.com/track/1UaKZDqPvCfFX2kgqOczsB) | [TRAMP](https://open.spotify.com/artist/6ijgEPSDNChOTSh7hmRf7t) | [Frankenstein](https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz) | 3:12 | 2022-04-27 | 2022-05-05 |
 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 | 2022-08-03 | 2022-08-11 |
 | [Freak](https://open.spotify.com/track/0Rvju1AKA3cqwX8TwVRhpx) | [Lewis CanCut](https://open.spotify.com/artist/6s185hBvaMT7xUfKSRnPfo), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR) | [Magic Circle](https://open.spotify.com/album/4Wx083ht3L88b9Iftk23A3) | 3:12 | 2022-03-02 | 2022-03-10 |
-| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-21 |  |
+| [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 | 2022-09-21 |  |
+| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-21 | 2022-09-25 |
 | [FRESH](https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FRESH](https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz) | 2:31 | 2022-05-04 | 2022-05-12 |
 | [Friday Night](https://open.spotify.com/track/4iiJq9UTrqybE8iBwxAGnJ) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/0NZ9WyKqAL580Im5eO0XNo) | 3:49 | 2022-02-09 | 2022-02-17 |
 | [Friends](https://open.spotify.com/track/6ostbIRfI1MYhu0mZt4npR) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Friends](https://open.spotify.com/album/7ymLDbW2jHU1l1S62f8LTP) | 2:57 | 2021-12-08 | 2022-01-13 |

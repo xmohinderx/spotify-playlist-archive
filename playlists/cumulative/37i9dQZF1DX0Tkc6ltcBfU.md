@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: DaBaby
 
-414 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+415 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [For The Birds](https://open.spotify.com/track/3hFItPrdA76Aayvntz0wrI) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [For The Birds](https://open.spotify.com/album/6nTXiHXc611qvitLz0FYvc) | 1:58 | 2022-06-24 | 2022-07-09 |
 | [Free Mason](https://open.spotify.com/track/4kisEdLXmdb4MVr25XZV9B) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Free Mason](https://open.spotify.com/album/2x1eDK721WNTGKXMVNcLKi) | 2:10 | 2022-01-28 | 2022-02-12 |
 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 | 2022-03-25 | 2022-06-04 |
-| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-23 |  |
+| [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 | 2022-09-23 |  |
+| [Free Yola](https://open.spotify.com/track/0c1Ke3XYnUQ7qNq6kmzJe0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/4YtjeKtoAw0kAHNQTHS4O5) | 2:44 | 2022-09-23 | 2022-09-25 |
 | [Freedom of Speech \(with J\. Cole\)](https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:11 | 2022-04-01 | 2022-04-05 |
 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 | 2022-08-19 |  |
 | [From Rags 2 Riches](https://open.spotify.com/track/4MsSQKCg2TVyvszBu3BbYq) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [From Rags 2 Riches](https://open.spotify.com/album/1NK6GHI9PEVb50IrTdEx7P) | 2:17 | 2022-06-24 | 2022-07-16 |

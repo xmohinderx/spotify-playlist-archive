@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Girl Of My Dreams",
+        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg"
+    },
+    {
+      "album": {
         "name": "Cross Your Mind",
         "url": "https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH"
       },

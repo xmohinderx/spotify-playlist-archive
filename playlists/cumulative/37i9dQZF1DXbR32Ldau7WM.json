@@ -2282,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "Only One,Only You",
+        "url": "https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x"
+      },
+      "artists": [
+        {
+          "name": "GLAY",
+          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268053,
+      "name": "Only One,Only You",
+      "url": "https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp"
+    },
+    {
+      "album": {
         "name": "Opening Ceremony",
         "url": "https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj"
       },
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 194784,
       "name": "September",
       "url": "https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2"

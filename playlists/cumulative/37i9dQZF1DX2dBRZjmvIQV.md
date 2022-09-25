@@ -4,13 +4,14 @@
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-52 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
+53 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hymn](https://open.spotify.com/track/2mXmEn4LAnD9S46blDgNH1) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2022-03-08 |  |
 | [Agua de Estrellas](https://open.spotify.com/track/5cUZjfXFdHwpldGnUzCLNx) | [Rolando Carrasco Segovia](https://open.spotify.com/artist/5hEnS4gYx1p6PdxrnpD2eI), [Zamy Juárez Abad](https://open.spotify.com/artist/5F29j7H8qR1qB2oorUOEbV) | [Paqcha Sirena](https://open.spotify.com/album/3dHRknP0bhG8Dlwtyz1ybC) | 3:58 | 2022-03-08 |  |
-| [Angel](https://open.spotify.com/track/4R71PteUPOtFa3yEz0q8Z5) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Slow Grooves](https://open.spotify.com/album/63afHwA8RSAyqndkFiE5dD) | 5:00 | 2022-03-08 |  |
+| [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 | 2022-03-08 |  |
+| [Angel](https://open.spotify.com/track/4R71PteUPOtFa3yEz0q8Z5) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Slow Grooves](https://open.spotify.com/album/63afHwA8RSAyqndkFiE5dD) | 5:00 | 2022-03-08 | 2022-09-25 |
 | [Baby Girl](https://open.spotify.com/track/1AYn4YyxEF0SR3fGr6x7KN) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 3:32 | 2022-03-08 |  |
 | [Beige](https://open.spotify.com/track/3dvRD7tnKF9Kxocks07jue) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Beige](https://open.spotify.com/album/67VkDUL4cKcQeMrV2CDPHf) | 3:17 | 2022-03-08 |  |
 | [Bluebird](https://open.spotify.com/track/1w1UFvNdHZZLhozS2Ysdub) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:14 | 2022-03-08 |  |

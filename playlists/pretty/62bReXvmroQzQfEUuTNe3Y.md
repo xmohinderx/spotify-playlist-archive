@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 975,488 likes - 100 songs - 5 hr 20 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 976,446 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 99 | [Sublime](https://open.spotify.com/track/0o2T56CRKV9hh4RS6PNaVN) | [Firstwave](https://open.spotify.com/artist/391rJg2YdneMI1zyy1o44E) | [Sublime](https://open.spotify.com/album/0n5opfTgottSKloO8bw8C3) | 2:55 |
 | 100 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `MzU4Myw5ZWNmZjZiY2QzZmI5NzJhY2E4YTc4OWRmODY4MmVhNTlkODc2NmM1`
+Snapshot ID: `MzU4NSw5NzFhZjU5OWNkZDE1YWM4YTg0NWNiY2U0Yjk2NzYzYjI3M2ExNjhh`

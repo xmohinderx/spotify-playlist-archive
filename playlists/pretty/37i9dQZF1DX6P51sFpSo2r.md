@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,629 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,787 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 30 | [Forever](https://open.spotify.com/track/3vMPhppWYQoLN7Ji4JXWo7) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 4:42 |
 | 31 | [Chaney Can't Quite Riff Like Helmet's Page Hamilton](https://open.spotify.com/track/0Czv4guRdFGrQWSxWeLmkJ) | [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Wolfbiker](https://open.spotify.com/album/0KTVwCbYSpkUuPXvQYbhJE) | 4:40 |
 | 32 | [The Worst Is yet to Come](https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 3:50 |
-| 33 | [On Wings Of Lead](https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous \(Explicit Version\)](https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC) | 5:21 |
+| 33 | [On Wings Of Lead](https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz) | 5:21 |
 | 34 | [Erased](https://open.spotify.com/track/4P2OiHcrk7j10MHFiVK3N3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 3:22 |
 | 35 | [A Certain Death](https://open.spotify.com/track/6MVGo38XGhUJ2RUznCK9xm) | [Misery Signals](https://open.spotify.com/artist/0OSABE1yGiZK2ALQDJ0SeO) | [Controller](https://open.spotify.com/album/6Ii1G4koVfmBZpywrjnsqg) | 3:25 |
 | 36 | [Memphis Will Be Laid To Waste](https://open.spotify.com/track/7qwqtk58ZpQjlGM8WFIrt7) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Bless The Martyr And Kiss...](https://open.spotify.com/album/5omjmAcRyBdCI7LxO9o8Tk) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 49 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 |
 | 50 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 |
 
-Snapshot ID: `MTY1MDkxNjQzOSwwMDAwMDAwMDg2OTczZGVkOTNhMTU4NzQxNTQ2ODQyZjE2YjU5ZWMz`
+Snapshot ID: `MTY1MDkxNjQzOSwwMDAwMDAwMDE2ZTRkNTdmNTBjMzBlMWE4YTY3OGEzYTE4MWU5ZmM1`

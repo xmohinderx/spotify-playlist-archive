@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Steve Aoki, Snow Tha Product & Santa Fe Klan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,069 likes - 97 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,081 likes - 97 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

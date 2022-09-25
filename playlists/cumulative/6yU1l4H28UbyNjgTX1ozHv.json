@@ -1116,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211710,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF"
+    },
+    {
+      "album": {
         "name": "L-O-V-E (Acoustic)",
         "url": "https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET"
       },
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 188487,
       "name": "Uptown Girl - Acoustic",
       "url": "https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf"

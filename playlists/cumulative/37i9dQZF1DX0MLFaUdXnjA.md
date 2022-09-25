@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Giveon
 
-1,064 songs - 2 day 8 hr 31 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,066 songs - 2 day 8 hr 40 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,7 +564,8 @@
 | [lips \- Original Music from The L Word: Generation Q](https://open.spotify.com/track/2RZ7iGHryigk7AbK4SS7yD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [lips \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/4FpOvP5qpLTv6F8MV0FQXO) | 3:07 | 2021-09-11 | 2021-10-09 |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-04-30 | 2021-08-21 |
 | [Little Things](https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Little Things](https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw) | 2:26 | 2020-10-23 | 2020-11-21 |
-| [Living In Symphony](https://open.spotify.com/track/1vLGeIX4csrWmpvhGrMVNf) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81) | 4:24 | 2022-09-19 |  |
+| [Living In Symphony](https://open.spotify.com/track/1vLGeIX4csrWmpvhGrMVNf) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81) | 4:24 | 2022-09-19 | 2022-09-25 |
+| [Living In Symphony](https://open.spotify.com/track/3hYjlBIsmguyL7jtnSEOpQ) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/3dFcnv9Ki98p4DvuSfUGAF) | 4:24 | 2022-09-23 |  |
 | [Living In Symphony](https://open.spotify.com/track/3yRcxFz0tlcm45Uc46tUPl) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Living In Symphony](https://open.spotify.com/album/4BbHI3lGZG68Q3ANzOJFQI) | 4:24 | 2022-08-12 | 2022-09-22 |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-26 | 2022-09-10 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2022-02-04 | 2022-07-29 |
@@ -628,7 +629,7 @@
 | [Miss You 2](https://open.spotify.com/track/0j5QKkgh58UmjjONmDxYhE) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Miss You 2](https://open.spotify.com/album/13LBDvOZQHzlVxwddnWGar) | 3:16 | 2020-04-26\* | 2020-07-31 |
 | [Missing You Today](https://open.spotify.com/track/0Nr2vFKsz207NQY0LP7IvV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Missing You Today](https://open.spotify.com/album/5QWuQRtI7d96CMTOO2zlya) | 2:37 | 2021-07-31 | 2022-02-05 |
 | [Misunderstood](https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/6dyVIZIzfEgDXR4GmnyHvE) | 3:18 | 2021-01-15 | 2021-03-19 |
-| [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:14 | 2022-09-23 |  |
+| [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 |  |
 | [Modern Art](https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Modern Art](https://open.spotify.com/album/6YQt8LnQUXAEzO4eWIdPfx) | 2:39 | 2022-03-11 | 2022-07-23 |
 | [Modern Loneliness](https://open.spotify.com/track/1eyek0KJEh2v5HQ9uQSybb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 4:12 | 2020-04-26\* | 2020-08-21 |
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2021-12-24 | 2022-07-09 |
@@ -722,7 +723,8 @@
 | [Outta This World](https://open.spotify.com/track/58Rt4LpJI0HoYuOX9ILG7L) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Outta This World](https://open.spotify.com/album/5j6iEQQKvgHYIBmusCIU2B) | 2:39 | 2021-11-06 | 2022-05-03 |
 | [Over You](https://open.spotify.com/track/73sP0b1YZ74voCWVWbbueL) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Over You](https://open.spotify.com/album/6Gy9u1jVgnQWjW0bCJKnWD) | 3:00 | 2020-05-30 | 2020-07-24 |
 | [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 | 2022-09-20 |
-| [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 |  |
+| [Palladium](https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:07 | 2022-09-23 |  |
+| [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 | 2022-09-25 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-04-02 |
 | [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 | 2022-08-26 |  |
 | [Paper Planes](https://open.spotify.com/track/5GzgEC6pWf1USZsCtkG8yC) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Paper Planes](https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0) | 3:19 | 2020-04-26\* | 2020-09-04 |

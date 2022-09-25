@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,530 likes - 112 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,638 likes - 112 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
 | 2 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 |
 | 3 | [Salooq \(From "MOH"\)](https://open.spotify.com/track/6fgIBVQ0GJ1kijpGL9N5Vs) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Salooq \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6eUXw6BZjKb61a27JPzklk) | 5:06 |
-| 4 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 |
+| 4 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 |
 | 5 | [Cause Of You](https://open.spotify.com/track/0J4IWvRmKF6Trw9MxSeCWE) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Cause Of You](https://open.spotify.com/album/1SyQUhkArShf1ARqk8d4b6) | 2:52 |
 | 6 | [Perfect](https://open.spotify.com/track/0z9pKdemlN3xkxA2eIpIFy) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:52 |
 | 7 | [Dil Vich Kho](https://open.spotify.com/track/5aqiljS9HFXlnjK6ZfJ4gD) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 2:34 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 30 | [Haaye Ni](https://open.spotify.com/track/5V3MzZjIQ5MP2g8AMCBbRi) | [Sartaj Virk](https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w) | [Haaye Ni](https://open.spotify.com/album/01nqQiPsbGrNwLD10dZ6sa) | 3:08 |
 | 31 | [Panjab Warga](https://open.spotify.com/track/7ocsOa1Ah6sJOp6g7N7V9e) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Panjab Warga](https://open.spotify.com/album/1yYPZhzq5GDYmnhPXHj8cf) | 2:44 |
 | 32 | [Precious](https://open.spotify.com/track/2VHEiOqgiJpeXZkArZfSJx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [No Limit](https://open.spotify.com/album/1AKXje51TkC8qrPH3BG6Gt) | 2:38 |
-| 33 | [Yaar Milya](https://open.spotify.com/track/7GMBkNtGEyMRD3fNYvI2Al) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h) | [Yaar Milya](https://open.spotify.com/album/1YcIYbcLWBCYsiYezUVTCu) | 3:05 |
+| 33 | [Yaar Milya](https://open.spotify.com/track/7GMBkNtGEyMRD3fNYvI2Al) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Yaar Milya](https://open.spotify.com/album/1YcIYbcLWBCYsiYezUVTCu) | 3:05 |
 | 34 | [Half Love](https://open.spotify.com/track/2QnxW3fdMpm9I9sJr5LmOw) | [Harman Sohi](https://open.spotify.com/artist/122Lfw8OKRD099oLm11Xds) | [Half Love](https://open.spotify.com/album/6nl3hlsx1ezU6iA7Zt2tga) | 3:44 |
 | 35 | [Diamond](https://open.spotify.com/track/4c7UDUrZj5P2yltoJslXHi) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Diamond](https://open.spotify.com/album/1KCr941XpGxiUNvDk1UerK) | 2:32 |
 | 36 | [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 |

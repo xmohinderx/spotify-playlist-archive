@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 72 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 72 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 31 | [routine](https://open.spotify.com/track/05HBUzEgUCBc89i7pshnLK) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [routine](https://open.spotify.com/album/717BWqHWne4kvOvFaiZm8d) | 3:08 |
 | 32 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
 | 33 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
-| 34 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
-| 35 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
-| 36 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 34 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 35 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
+| 36 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
 | 37 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
 | 38 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
 | 39 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 45 | [just another day](https://open.spotify.com/track/7J5lMhBctps6q86jQGAsUl) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:22 |
 | 46 | [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 |
 | 47 | [Red Rover](https://open.spotify.com/track/6omoJ2EWNrB7iwFKogOsBV) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Red Rover](https://open.spotify.com/album/5h10WaA0OwtGyq2u1pZkb4) | 3:06 |
-| 48 | [good stuff](https://open.spotify.com/track/6mglSejg7jejo0thhHQvER) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/7bLybHcr7HWEAMghCBIKZL) | 3:11 |
-| 49 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 |
+| 48 | [come over](https://open.spotify.com/track/7sg07HUwalXexpb0i0QPIm) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:50 |
+| 49 | [good stuff](https://open.spotify.com/track/6mglSejg7jejo0thhHQvER) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/7bLybHcr7HWEAMghCBIKZL) | 3:11 |
 | 50 | [Halftime](https://open.spotify.com/track/0dYC9Xt3t8SfY0CdK1Vitk) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 3:05 |
 | 51 | [Mood Swings](https://open.spotify.com/track/61MjxgY9B0UqkOM2Jt8tVV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 2:41 |
 | 52 | [ruin it](https://open.spotify.com/track/38zxMTxPyAwdwmr8M749hj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 55 | [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 |
 | 56 | [Heart of Snow](https://open.spotify.com/track/3WaITDWjpDyZb0S6Y4PV3c) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:50 |
 | 57 | [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 |
-| 58 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
-| 59 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
+| 58 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
+| 59 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
 | 60 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
 | 61 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 |
 | 62 | [love notes and hate mail](https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 3:18 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 71 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 72 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc3MzE2MDAsMDAwMDAwMDA2MzQ2MDM5YzBjNDM2ZjViOGZmNzBjODI0ZmJkNjcxYg==`
+Snapshot ID: `Mjc3MzQ0NzksMDAwMDAwMDBiNTI0OTQ1YTg3OTA2Y2Q4ZmViYzc1MDQ1NmI1NTEzYg==`
