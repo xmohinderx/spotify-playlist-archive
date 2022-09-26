@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 > With John Mayer, Luca Fogale, Dave Barnes, Joshua Hyslop and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 738 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 738 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 41 | [Til the Right One Comes](https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:39 |
 | 42 | [london](https://open.spotify.com/track/1nqNnu4DVABLftYBp55oAQ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:26 |
 | 43 | [What Would I Do Without You](https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 2:52 |
-| 44 | [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 |
-| 45 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
+| 44 | [Caroline \- Acoustic](https://open.spotify.com/track/2GRgfuqbBkJMHcTouipXzR) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Caroline \(Acoustic\)](https://open.spotify.com/album/5gIirWNlzKEpZcXF5ZAn7H) | 3:57 |
+| 45 | [Heart and Soul](https://open.spotify.com/track/03XFoApkEE01zSo1H0f2US) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [Skellig](https://open.spotify.com/album/27hnagIqdt0QyIgrRkZTeY) | 4:20 |
 | 46 | [Rosie](https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 4:00 |
-| 47 | [Miss California](https://open.spotify.com/track/6isMNDPxxXyJAUl8mcU1VC) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Imperfect Circle](https://open.spotify.com/album/55jKopASR7pMEHX3XFsDmh) | 3:11 |
-| 48 | [Caroline \- Acoustic](https://open.spotify.com/track/2GRgfuqbBkJMHcTouipXzR) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Caroline \(Acoustic\)](https://open.spotify.com/album/5gIirWNlzKEpZcXF5ZAn7H) | 3:57 |
+| 47 | [Magnolia \(feat\. John Mayer\)](https://open.spotify.com/track/0VzLAYIns618H651sG09Gp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:41 |
+| 48 | [flickers](https://open.spotify.com/track/6J3G0HMT4s7JBjntVifHmP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:50 |
 | 49 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
-| 50 | [flickers](https://open.spotify.com/track/6J3G0HMT4s7JBjntVifHmP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:50 |
+| 50 | [Always Been the End of the World](https://open.spotify.com/track/0usp7mJCNcjfkI0GlVaV6J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 4:04 |
 
-Snapshot ID: `MTY2NDA3MTUzNiwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`
+Snapshot ID: `MTY2NDE1ODM0NSwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`

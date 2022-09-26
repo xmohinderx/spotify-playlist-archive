@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Reanne Borela, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,210 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,223 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just for Today](https://open.spotify.com/track/2Nzpyr9SNK7QEhnKYYTJGo) | [Reanne Borela](https://open.spotify.com/artist/4VesHAVAMMJsmXZGMEo4IA) | [Just for Today](https://open.spotify.com/album/25UEe7XiMFOOyl7uXWQl73) | 4:39 |
 | 2 | [Soy\-Sauced Lovers](https://open.spotify.com/track/69Kta6dbEUB44iZ7Nr8iF0) | [Flamingos & Eggs](https://open.spotify.com/artist/4FRkcvH6AHRvrdnCth8NdH) | [Soy\-Sauced Lovers](https://open.spotify.com/album/2NfWclHl5YkNbxPZ4GiPmu) | 3:56 |
-| 3 | [PAANO MO KINAYA \(WATERWALK Sessions Version\)](https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF) | [Lee Simon Brown](https://open.spotify.com/artist/2JCVZPC2G6aBFrcDfLRSIX) | [PAANO MO KINAYA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3) | 4:10 |
+| 3 | [PAANO MO KINAYA \- WATERWALK Sessions Version](https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF) | [Lee Simon Brown](https://open.spotify.com/artist/2JCVZPC2G6aBFrcDfLRSIX) | [PAANO MO KINAYA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3) | 4:10 |
 | 4 | [Bago Ka Umuwi](https://open.spotify.com/track/6gbm1osJmAMqh8wB1Sptfx) | [Suddenly Monday](https://open.spotify.com/artist/4YTZj5kMhZdNjLxJbfRlb1) | [Bago Ka Umuwi](https://open.spotify.com/album/4N828YPaA2LiT4BVOwQVl8) | 3:31 |
 | 5 | [Malayo](https://open.spotify.com/track/2QJMZwOrjd7xDD4fFCaG3Q) | [Polo Pi](https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3), [Gerald Bato](https://open.spotify.com/artist/0uv1lbPGWuwq1sgRbyYBcY) | [Malayo](https://open.spotify.com/album/47q1TT1d77sp9QtwrCCfVZ) | 3:19 |
 | 6 | [Tayo Na't Mag\-Funk](https://open.spotify.com/track/0n72tREm8MMS25WCiEPF9A) | [Brass Pas Pas Pas Pas](https://open.spotify.com/artist/732hX2NTZ4ndFxaLZNyjM0) | [Tayo Na't Mag\-Funk](https://open.spotify.com/album/1WnZUxX8xkNW58c1TCDm6a) | 4:49 |

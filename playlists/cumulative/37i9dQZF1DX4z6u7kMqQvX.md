@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-384 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+385 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Adentro Tuyo](https://open.spotify.com/track/3tWGyy6uUOIEJdIYPMYYYD) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Adentro Tuyo](https://open.spotify.com/album/35wVdZoWrTEI8mq41DwHtS) | 4:49 | 2022-01-28 | 2022-04-20 |
 | [Adicción](https://open.spotify.com/track/67YtZBiH3sjtXNaAgmkIHP) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Adicción](https://open.spotify.com/album/142KuhiLPPcKCAHRW67i3L) | 3:32 | 2022-04-01 | 2022-07-18 |
 | [Admirador](https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Admirador](https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy) | 3:32 | 2022-01-07 |  |
-| [Agua Marfil](https://open.spotify.com/track/6mYdnKt43uGw3gmtOz4yQi) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/6ZSWmVkucGkNzqWZYGMGMK) | 4:11 | 2022-01-07 |  |
+| [Agua Marfil](https://open.spotify.com/track/6mYdnKt43uGw3gmtOz4yQi) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/6ZSWmVkucGkNzqWZYGMGMK) | 4:11 | 2022-01-07 | 2022-09-26 |
 | [Ahinoa](https://open.spotify.com/track/54Kijzvio3D7phfsOZswpQ) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3AanjgFzLrCKprTwBY3wYW) | 3:44 | 2022-04-01 | 2022-07-15 |
 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 |  |
 | [Aislado Pero a Tu Lado](https://open.spotify.com/track/5XqJR12vXDEg7uk33UhBoP) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Aislado Pero a Tu Lado](https://open.spotify.com/album/20nbi5kxENVeByVLv00X7Y) | 1:08 | 2022-04-01 | 2022-04-04 |
@@ -339,6 +339,7 @@
 | [Te Dejé una Carta](https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:10 | 2022-01-07 | 2022-07-28 |
 | [Te Estoy Amando Locamente](https://open.spotify.com/track/7EGYaSZLD1N9q6TizjuBXq) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Te Estoy Amando Locamente](https://open.spotify.com/album/4mhoEgQJgFKiU4c0hF9cxR) | 3:20 | 2022-01-28 | 2022-07-21 |
 | [Te extraño](https://open.spotify.com/track/4DbemOwzWCwqGV6Q98as2h) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [YAGO](https://open.spotify.com/artist/1fKpVLI7kfwxckD1uhdrzO) | [Te extraño](https://open.spotify.com/album/7vp6CoBejsvEanbaaEr1ZO) | 2:42 | 2022-05-09 | 2022-07-24 |
+| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 |  |
 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/0NoBvPqHXHjlH0QOGp0vUu) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1RCjfjr0AuKRNfmzPT3ZxB) | 3:33 | 2022-01-07 | 2022-07-29 |
 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 | 2022-07-15 |  |
 | [Telarañas](https://open.spotify.com/track/6T5kyODSlNmy1Y5dxY2O9J) | [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1), [WONKO](https://open.spotify.com/artist/127KKgqAoF3VOd0cRVkql9) | [Telarañas](https://open.spotify.com/album/4pZu7kxfje0NYWsrkMUqEo) | 2:41 | 2022-04-01 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-412 songs - 1 day 14 hr 42 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+413 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [34\-46](https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [34\-46](https://open.spotify.com/album/2BNq4qGhepJGroEyfTIJBU) | 4:01 | 2022-02-18 | 2022-07-28 |
 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 | 2022-03-30 | 2022-07-29 |
 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 | 2021-10-06 | 2022-05-30 |
-| [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-08-03 |  |
+| [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-08-03 | 2022-09-26 |
 | [A Life \(1895 \- 1915\)](https://open.spotify.com/track/7dXjq4Wp7eEPsGVsOhRQDQ) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 8:10 | 2021-10-06 | 2022-04-15 |
 | [A Piece Of Me](https://open.spotify.com/track/6XKxVHFiCkXHncdQo8jLo7) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [A Piece Of Me](https://open.spotify.com/album/2QASfNCUSCDpIeVzzASHKT) | 4:16 | 2022-03-11 | 2022-04-15 |
 | [a romance](https://open.spotify.com/track/0e2rjmGfFrrMcg3VjDf4xH) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [oneiric](https://open.spotify.com/album/3Denkl4Rdu6z7K14ieeSo7) | 8:16 | 2022-04-13 | 2022-05-24 |
@@ -282,6 +282,7 @@
 | [Possibilities](https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Limits](https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu) | 4:38 | 2022-03-30 | 2022-07-27 |
 | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/track/3gxcuLf2ZMpOTEyreIwRcN) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 23:31 | 2021-10-06 | 2022-07-19 |
 | [Present](https://open.spotify.com/track/13fcxKQcqzCIKt2TLwzLEs) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/0jc20NPLBybXUqRSxexOxF) | 2:26 | 2022-03-30 | 2022-04-16 |
+| [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 | 2022-03-30 |  |
 | [Protocol](https://open.spotify.com/track/33VZCwIpv7WCNr2Ln94LEZ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Protocol](https://open.spotify.com/album/3rbf5DWPQ1qx3tjVnNCgqG) | 5:57 | 2021-10-06 | 2022-07-13 |
 | [Public Life](https://open.spotify.com/track/0w30bNeW6egnqqgfME9u0L) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Vanessa Benelli Mosell](https://open.spotify.com/artist/38mceDz890rw1ci5pcTyk5) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 3:59 | 2021-10-06 | 2022-07-29 |
 | [Quadra](https://open.spotify.com/track/57sCAykHpKeAidVax6lyXg) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 3:22 | 2021-10-06 | 2022-07-28 |

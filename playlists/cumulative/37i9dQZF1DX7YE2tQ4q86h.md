@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Sam Smith & Kim Petras
 
-288 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+289 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Good](https://open.spotify.com/track/7pQWuLdHOSIkXfjNWnqT8v) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Good](https://open.spotify.com/album/06h85FlYs3o2wFsMdDB48Y) | 2:23 | 2022-09-16 |  |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-03-18 |  |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-03-18 | 2022-08-13 |
-| [Good Time](https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Good Time](https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o) | 3:10 | 2022-08-19 |  |
+| [Good Time](https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Good Time](https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o) | 3:10 | 2022-08-19 | 2022-09-26 |
 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 | 2022-09-23 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-05-27 | 2022-06-25 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-16 |  |
@@ -238,6 +238,7 @@
 | [Seasons](https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Seasons](https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI) | 2:43 | 2022-05-13 | 2022-06-11 |
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
 | [She Can Dance](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [She Can Dance](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-22 | 2022-07-30 |
+| [Shot a friend](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Shot a friend](https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI) | 2:09 | 2022-09-25 |  |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-15 | 2022-05-07 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-15 | 2022-08-27 |

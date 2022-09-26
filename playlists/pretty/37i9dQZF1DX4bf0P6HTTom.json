@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 118216,
+  "num_followers": 118311,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDNmMWRiOGQ0YzJhMzY4ZDkwMjZjNTg1NTkwZGU2ZjJl",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGU3MDcwNzg4NTAzZmY4Mzc3YzRjYTc4M2NmNTBmN2Nj",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Almost Blue",
         "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 188920,
       "name": "Good Year For The Roses",
       "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Adventures Of Panama Red",
-        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
-      },
-      "artists": [
-        {
-          "name": "New Riders of the Purple Sage",
-          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Lonesome L.A. Cowboy",
-      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Manassas",
         "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 172533,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Adventures Of Panama Red",
+        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
+      },
+      "artists": [
+        {
+          "name": "New Riders of the Purple Sage",
+          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Commander Cody & His Lost Planet Airmen",
         "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 218493,
       "name": "Willin'",
       "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Ton-Ton Macoute!",
         "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 205093,
       "name": "Down Along The Cove",
       "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2020-08-05 15:52:11",

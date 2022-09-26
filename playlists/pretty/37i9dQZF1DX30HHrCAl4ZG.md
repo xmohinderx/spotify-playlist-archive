@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,987 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,975 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 24 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
 | 25 | [Martian Man](https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Martian Man](https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9) | 2:04 |
 | 26 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
-| 27 | [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 |
+| 27 | [Dig!](https://open.spotify.com/track/04urDR7Vxw4CY4tHYVeNPm) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:41 |
 | 28 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 |
 | 29 | [Motels](https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:23 |
 | 30 | [Park Lodge](https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Park Lodge](https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5) | 3:23 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 100 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 |
 | 101 | [Easy](https://open.spotify.com/track/0vE0pWGR8YUUiSSXXjQsaU) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Easy](https://open.spotify.com/album/4y5UGgpDwJKuaupRopXA6P) | 3:18 |
 
-Snapshot ID: `MTY2MzkxMjA4MCwwMDAwMDAwMDFkNmNlMGRiMzM1ZDNkZjc2YmYxZjE1MTM0OTQ0MWVm`
+Snapshot ID: `MTY2MzkxMjA4MCwwMDAwMDAwMGNjZGE5ZGZkZDk1YWZlNWY4N2YxZTFhNDQ1Y2FjZDVi`

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 48220,
+  "num_followers": 48240,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGFlNmM1YjBkNGI1NjNmNzY5NDgzYTE0ZTRjZTgxZmFj",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDE1NDBmMzJkYzBiZTI5NTg3Y2I5NmZkNjljZTk1YjQ5",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+        "name": "Cosas Que Nadie Oia",
+        "url": "https://open.spotify.com/album/2Wb7ZhNgnQ3cGNPoiqbpka"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Resistencia Suburbana",
+          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
         }
       ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+      "duration_ms": 245613,
+      "name": "Va a Servir",
+      "url": "https://open.spotify.com/track/2vFJHDlaEg0xR4dwNuypUW"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Cosas Que Nadie Oia",
-        "url": "https://open.spotify.com/album/2Wb7ZhNgnQ3cGNPoiqbpka"
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
       "artists": [
         {
-          "name": "Resistencia Suburbana",
-          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 245613,
-      "name": "Va a Servir",
-      "url": "https://open.spotify.com/track/2vFJHDlaEg0xR4dwNuypUW"
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+        "name": "Worrrrssss!!!!",
+        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Resistencia Suburbana",
+          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
         }
       ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+      "duration_ms": 309259,
+      "name": "Por Cultivar Marihuana",
+      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -407,6 +407,22 @@
       "duration_ms": 234733,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -443,38 +459,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Worrrrssss!!!!",
-        "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
-      },
-      "artists": [
-        {
-          "name": "Resistencia Suburbana",
-          "url": "https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ"
-        }
-      ],
-      "duration_ms": 309259,
-      "name": "Por Cultivar Marihuana",
-      "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "La B\u00fasqueda",
-        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Algo mejor - Remastered",
-      "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 193817,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Algo mejor - Remastered",
+      "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Vuela Alto",
-        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Vuela Alto",
-      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Sig Ragga",
         "url": "https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 343880,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Vuela Alto",
+        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Vuela Alto",
+      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232342,
       "name": "Laba Laba Craven",
       "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Cuanto Heredamos",
         "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "\u00c1ngel Del Pasado",
         "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 246857,
       "name": "\u00c1ngel Del Pasado",
       "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1035,38 +1051,6 @@
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Si No Fuera",
-      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Sergio Colombo Presenta el Natty Combo",
-        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 349280,
-      "name": "La Pipa",
-      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+        "name": "Sergio Colombo Presenta el Natty Combo",
+        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+      "duration_ms": 349280,
+      "name": "La Pipa",
+      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 218000,
       "name": "A Contratiempo",
       "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 260170,
-      "name": "Si vas a dejarme...",
-      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 260170,
+      "name": "Si vas a dejarme...",
+      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 264278,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1307,22 +1291,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
+      "duration_ms": 264278,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 281920,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Flores y Burbujas",
+        "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+      "duration_ms": 304426,
+      "name": "Flores y Burbujas",
+      "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Flores y Burbujas",
-        "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 304426,
-      "name": "Flores y Burbujas",
-      "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+        "name": "Va Salir",
+        "url": "https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy"
       },
       "artists": [
         {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         },
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
         }
       ],
-      "duration_ms": 245000,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+      "duration_ms": 253170,
+      "name": "Va Salir",
+      "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"
     }
   ],
   "unique_name": "Reggae Al Sur",

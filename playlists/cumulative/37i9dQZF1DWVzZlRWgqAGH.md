@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: bLAck pARty
 
-725 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+726 songs - 1 day 18 hr 51 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 | 2020-10-06 | 2021-01-15 |
 | [Good News](https://open.spotify.com/track/3ClBKQkKoaUQ6UOhe2xlJK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Good News](https://open.spotify.com/album/4CCaoRnCugI6RsHHBKiMLs) | 5:42 | 2020-02-12 | 2020-05-08 |
 | [Good Omen](https://open.spotify.com/track/4wy9BD5OqFNPs5wjhiKdEo) | [Imani](https://open.spotify.com/artist/1vhhb59EZaDEKfoEQOzah2) | [Good Omen](https://open.spotify.com/album/3vjuVSUGrOPXdUCUdxVYkp) | 2:52 | 2021-08-16 | 2022-07-29 |
+| [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 | 2022-09-22 |  |
 | [Gravity](https://open.spotify.com/track/280ujxycRyK4akeaAPDqNz) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Gravity](https://open.spotify.com/album/2UoXXes6BWXXoCwKDFzJKC) | 3:26 | 2020-05-15 | 2020-06-05 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-18 | 2022-05-22 |
@@ -568,7 +569,7 @@
 | [Smoke](https://open.spotify.com/track/092s6wVDOgosfuZKY4ccj7) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Smoke](https://open.spotify.com/album/4xnAka30RUXgejpy6knE8M) | 4:24 | 2021-05-15 | 2022-07-27 |
 | [Snowflower](https://open.spotify.com/track/5iW0UFq95KuAbwoMyhgFB9) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Snowflower](https://open.spotify.com/album/5ZaTktssgaH0LP5boYH2K7) | 3:15 | 2020-10-16 | 2021-01-15 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 |  |
-| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 |  |
+| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 | 2022-09-26 |
 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2022-09-02 | 2022-09-23 |
 | [So We Won't Forget](https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [So We Won't Forget](https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa) | 4:58 | 2020-05-22 | 2020-06-20 |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-06 | 2020-04-24 |

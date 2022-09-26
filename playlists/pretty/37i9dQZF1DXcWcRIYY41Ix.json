@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 93670,
+  "num_followers": 93754,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDg3YTk1ZTg4MGU0MThmNGUyNzBjMGYwMDZmMTYyZjMx",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGE3NTY2ODYxNDA2NjI0M2ZmY2JlM2IzYWYyMjFhMjI3",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Perot\u00e1 Ching\u00f3",
-        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 309044,
-      "name": "Rie Chinito",
-      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+      "duration_ms": 173453,
+      "name": "Peligrosamente Dark (feat. Silvana Estrada)",
+      "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+        "name": "Perot\u00e1 Ching\u00f3",
+        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Peligrosamente Dark (feat. Silvana Estrada)",
-      "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
+      "duration_ms": 309044,
+      "name": "Rie Chinito",
+      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "La Danza de las Lib\u00e9lulas",
-        "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Iseo",
+          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
         }
       ],
-      "duration_ms": 220867,
-      "name": "La Danza de las Lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
+      "duration_ms": 214760,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -515,18 +511,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz"
+        "name": "La Danza de las Lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
       "artists": [
         {
-          "name": "Iseo",
-          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 214760,
-      "name": "El Camino",
-      "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
+      "duration_ms": 220867,
+      "name": "La Danza de las Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Las Dos Caras del Hilo",
+        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 214405,
+      "name": "Tu Ciudad",
+      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 214777,
       "name": "Dividido",
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Las Dos Caras del Hilo",
-        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Tu Ciudad",
-      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -871,6 +839,38 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "la corriente",
+        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+      "duration_ms": 175642,
+      "name": "la corriente",
+      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "la corriente",
-        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 175642,
-      "name": "la corriente",
-      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Sin Remitente",
-        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Balbis",
-          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Canci\u00f3n Con Vos",
-      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Sin Remitente",
+        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Balbis",
+          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Canci\u00f3n Con Vos",
+      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Al Margen de Ojal\u00e1",
-        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Iwasaki",
-          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Al Margen de Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Voltearemos",
         "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 192293,
       "name": "Voltearemos",
       "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Al Margen de Ojal\u00e1",
+        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Iwasaki",
+          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Al Margen de Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 216891,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1487,42 +1487,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 311080,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Aho Uhal",
-        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
-      },
-      "artists": [
-        {
-          "name": "Olatz Salvador",
-          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Ahots Hari",
-      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1543,6 +1507,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 311080,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Aho Uhal",
+        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
+      },
+      "artists": [
+        {
+          "name": "Olatz Salvador",
+          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Ahots Hari",
+      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
     },
     {
       "added_at": "2022-09-09 05:00:00",

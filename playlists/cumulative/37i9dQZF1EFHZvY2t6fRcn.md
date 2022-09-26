@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
+91 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-05-18 |  |
 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 | 2021-12-27 |  |
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-12-27 |  |
+| [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 | 2022-09-25 |  |
 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 | 2021-12-27 |  |
 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 | 2021-12-27 |  |
 | [Fuck Me Up](https://open.spotify.com/track/2I6dXeG4yOmf4aztiXPjWE) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/7n3YiMbN91Cwc9amrzmjgo) | 3:07 | 2021-12-27 |  |
@@ -86,7 +87,8 @@
 | [Still Love You](https://open.spotify.com/track/4HhYCUVN6YEXY9Wi7VRwut) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 | 2022-04-01 |  |
 | [Stroke](https://open.spotify.com/track/01a0H5HPeCMOktdRMygi3t) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:26 | 2021-12-27 |  |
 | [Tell Me \(feat\. Vic Mensa\)](https://open.spotify.com/track/4wMBHhPp9eHO0xJ1mmAFmb) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Fireside](https://open.spotify.com/album/6EZJiq22sPeZK7fz1LYLVV) | 2:54 | 2021-12-27 |  |
-| [The Long Way Out](https://open.spotify.com/track/4QPI8lcujq9ZguPjx1fONP) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [The Long Way Out](https://open.spotify.com/album/6YoDuQvQ0rWfhi5pI2IbEk) | 3:34 | 2021-12-27 |  |
+| [The Long Way Out](https://open.spotify.com/track/4QPI8lcujq9ZguPjx1fONP) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [The Long Way Out](https://open.spotify.com/album/6YoDuQvQ0rWfhi5pI2IbEk) | 3:34 | 2021-12-27 | 2022-09-26 |
+| [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 | 2022-09-25 |  |
 | [Therapy](https://open.spotify.com/track/0Nw0Z2VXKuiFSikzWvgqR6) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Therapy](https://open.spotify.com/album/472JU7mEYpwNTNTdqyYVFU) | 3:27 | 2021-12-27 |  |
 | [Things](https://open.spotify.com/track/4wMfUdAxgiJno6flL6VW5r) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Things](https://open.spotify.com/album/5FRzeJ7HhrMjD8TPDFE38j) | 3:06 | 2021-12-27 |  |
 | [Today](https://open.spotify.com/track/7kjAhE3dcaP3tCQTWqayt8) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/5DY1jkYe4cOdok3HgGS6X3) | 3:34 | 2021-12-27 |  |

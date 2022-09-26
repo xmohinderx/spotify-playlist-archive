@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,235 likes - 81 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,262 likes - 81 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 14 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
 | 15 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 16 | [Ishimura](https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo) | [Jason Richardson](https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY), [Luke Holland](https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb) | [Ishimura](https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y) | 5:40 |
-| 17 | [World on Fire](https://open.spotify.com/track/1qdhBYfE5OqEv23gDYso2I) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/0BgiXlKZgOiRIJJJGI4odZ) | 4:26 |
+| 17 | [World On Fire](https://open.spotify.com/track/3bm1cNf31qW8Q0mzt5XrGS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Survive](https://open.spotify.com/album/1s1HJF1Zn5f0VTwRRLOBVb) | 4:26 |
 | 18 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 |
 | 19 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
 | 20 | [Pure Life Unfolds](https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy) | 5:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 80 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 | 81 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGQzNjJlYTdjZTVjNTE0NDNmNDg0YmRhZDgxNjRmMjJm`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGMxZDU4ODIwY2RiYjI2Yjg3OTRmMTRjODFiYmVhMGNk`

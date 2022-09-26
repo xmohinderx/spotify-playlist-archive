@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 1010421,
+  "num_followers": 1010813,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDFhNWRmMmZjZTg4NWZkYTlmNGZkMzI5OWJlNjc2Nzk2",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDNjZDVhNTVjNzYxOGVlMGZiN2ZjNmJlNTRhMTFlZTcw",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202573,
       "name": "Want You Bad",
       "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 261959,
       "name": "Decode",
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "The All-American Rejects",
-        "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Swing, Swing",
-      "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Burnout (Deluxe Version)",
         "url": "https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 172645,
       "name": "Feeling This",
       "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "The All-American Rejects",
+        "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Swing, Swing",
+      "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "American Hi-Fi",
         "url": "https://open.spotify.com/album/3lFnWZBoKJiMZiCOG8WQdU"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188840,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 218054,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 218054,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 191373,
-      "name": "Grand Theft Autumn / Where Is Your Boy",
-      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 191373,
+      "name": "Grand Theft Autumn / Where Is Your Boy",
+      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care - Single Version",
-      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care - Single Version",
+      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 218706,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "Kids In The Dark",
-      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "Kids In The Dark",
+      "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Dead Reflection",
-        "url": "https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 188885,
-      "name": "The Afterglow",
-      "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+        "name": "Dead Reflection",
+        "url": "https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
+      "duration_ms": 188885,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
     },
     {
       "added_at": "2022-06-16 15:49:01",

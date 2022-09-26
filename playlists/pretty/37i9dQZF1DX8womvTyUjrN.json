@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pol Granch",
-  "num_followers": 260385,
+  "num_followers": 260453,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1ODkxNywwMDAwMDAwMDI5NTBmZWU2NzRmYTVmOTUxMTg5NjY4ODZjNDFjZmVj",
+  "snapshot_id": "MTY2Mzk1ODkxNywwMDAwMDAwMGJjMThmYTBiMWI2NDJmNjZkM2YzOTA0MWI1OWM0ODEx",
   "tracks": [
     {
       "added_at": "2022-09-23 15:14:49",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Algod\u00f3n",
         "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 165521,
       "name": "Byemalandra",
       "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Platicamos",
+        "url": "https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 176721,
+      "name": "Platicamos",
+      "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Medio Crazy Remix",
         "url": "https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Platicamos",
-        "url": "https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 176721,
-      "name": "Platicamos",
-      "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 213434,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 199468,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Agua Salada",
-        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 213434,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -803,6 +819,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Duele Tanto",
         "url": "https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe"
       },
@@ -819,22 +851,6 @@
       "duration_ms": 193900,
       "name": "Duele Tanto",
       "url": "https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -859,22 +875,6 @@
       "duration_ms": 188394,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/2g6C2LvQTxrqq3ncYWG9nO"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -915,6 +915,22 @@
       "duration_ms": 184651,
       "name": "guerra fr\u00eda",
       "url": "https://open.spotify.com/track/2DixC7X56VnSsQfxlP6m7w"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
+        "name": "ITA :)",
+        "url": "https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 160451,
+      "name": "ITA :)",
+      "url": "https://open.spotify.com/track/47i903DULtuCdNST7sprvg"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -963,22 +979,6 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "ITA :)",
-        "url": "https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 160451,
-      "name": "ITA :)",
-      "url": "https://open.spotify.com/track/47i903DULtuCdNST7sprvg"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
         "name": "Amor Y Sal",
         "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 152249,
       "name": "Amor Y Sal",
       "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
+        "name": "Aquel Bolero",
+        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Aquel Bolero",
+      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1011,22 +1027,6 @@
       "duration_ms": 167994,
       "name": "Dol\u00eda (feat. Las Villa)",
       "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Aquel Bolero",
-        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Aquel Bolero",
-      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "NO VUELVAS",
-        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
-      },
-      "artists": [
-        {
-          "name": "KRISTAL",
-          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
-        }
-      ],
-      "duration_ms": 178178,
-      "name": "NO VUELVAS",
-      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
         "name": "Gracias x Nada",
         "url": "https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 172655,
       "name": "Gracias x Nada",
       "url": "https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
+        "name": "NO VUELVAS",
+        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
+      },
+      "artists": [
+        {
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+        }
+      ],
+      "duration_ms": 178178,
+      "name": "NO VUELVAS",
+      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1175,26 +1175,30 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "D\u00edmelo",
-        "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
+        "name": "Fuckin' Cupido </3",
+        "url": "https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Jean Kala",
+          "url": "https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9"
         },
         {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+          "name": "Jeudy Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz"
         },
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Ndrey Botto",
+          "url": "https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9"
         }
       ],
-      "duration_ms": 162435,
-      "name": "D\u00edmelo",
-      "url": "https://open.spotify.com/track/0L2FkH5RUaRlkBajIhRpwK"
+      "duration_ms": 226052,
+      "name": "Fuckin' Cupido </3",
+      "url": "https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db"
     }
   ],
   "unique_name": "el nuevo pop",

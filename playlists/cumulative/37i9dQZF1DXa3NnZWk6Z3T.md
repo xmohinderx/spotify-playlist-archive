@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-287 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+288 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 | 2021-12-09 |  |
 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 | 2021-12-09 |  |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 | 2022-07-29 |
+| [La Aventurera](https://open.spotify.com/track/2Gqu40SIdJcf1FfN5U8fVf) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Bajo el Mismo Cielo](https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK) | 3:18 | 2022-09-21 |  |
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 |  |
 | [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 |  |
 | [La Creatividad](https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [La Creatividad](https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN) | 2:04 | 2021-12-09 | 2022-07-28 |
@@ -228,7 +229,7 @@
 | [Quédate](https://open.spotify.com/track/4UgxaVgMFnoZfAkoDqLwjE) | [Caravanchela](https://open.spotify.com/artist/647pAP1QqIu4XzEYuuR26c), [Camilla Faustino](https://open.spotify.com/artist/0R8sn7t6Paq64I5UmwM6Vc) | [Quédate](https://open.spotify.com/album/5sFOnKauJ39baQlzqRR7Wq) | 2:20 | 2021-12-09 | 2022-07-29 |
 | [Quémame](https://open.spotify.com/track/00p2eQGJy60FtOHjnI1Ch0) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Quémame](https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 | 2021-12-09 |  |
-| [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 | 2021-12-09 |  |
+| [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 | 2021-12-09 | 2022-09-26 |
 | [Riéndose de Mí](https://open.spotify.com/track/0ZnmpuDFDqokEM0gget638) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Riéndose de Mí](https://open.spotify.com/album/5DZuc93pCvPra5ecaYgNKa) | 3:21 | 2021-12-09 | 2022-07-27 |
 | [Salvavidas de hielo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:29 | 2021-12-09 |  |
 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-09-21 |  |

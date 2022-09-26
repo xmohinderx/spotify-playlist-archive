@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,201 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,611 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 29 | [Lens](https://open.spotify.com/track/371H6HjS4SXGbQ9IVfFUIL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Lens](https://open.spotify.com/album/5F4I5eUqVK1CpQbzt1ntMC) | 3:47 |
 | 30 | [SUMMER](https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:45 |
 | 31 | [Time](https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:44 |
-| 32 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
-| 33 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
+| 32 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
+| 33 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
 | 34 | [Nuh Time / Tek Time](https://open.spotify.com/track/5YxaccATvDTIOpue7vu6Tn) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX) | 5:40 |
 | 35 | [THINGS & SUCH](https://open.spotify.com/track/2ld2cRCzXcJU3q8dNdOENY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:57 |
 | 36 | [Karaoke](https://open.spotify.com/track/5bDEA48Dxyxoc3K4Dt7yRE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [blow](https://open.spotify.com/track/4FWh74bqSeP6KOiYNUrQMK) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [to feel love/d](https://open.spotify.com/album/0XotuUDdk43G8R4edptbju) | 4:00 |
 | 50 | [1 to 2](https://open.spotify.com/track/1Y4KPZ4UX1reo8V5d622Ch) | [Blaq Tuxedo](https://open.spotify.com/artist/1KmFm3UgUbNBOuw0yLDN2p) | [Blaq Tuxedo](https://open.spotify.com/album/0AJJUuifzEBIm20sLDKzyg) | 2:37 |
 
-Snapshot ID: `MTY2MjYwOTYwMCwwMDAwMDAwMGVjNDllMTVkNzU1MWM3M2JmMDVjMWMyYzlhZTg0MTA4`
+Snapshot ID: `MTY2MjYwOTYwMCwwMDAwMDAwMDE5NDdjOTdkNDFjMzViMGEzZjk0ZGJkZmU5ZjNiNjY4`

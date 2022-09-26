@@ -4,7 +4,7 @@
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Joshua Bassett
 
-332 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+333 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Gone Away](https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Gone Away](https://open.spotify.com/album/14R3wGT7xu5FoFRhf5jZyo) | 3:48 | 2022-02-25 | 2022-03-26 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-19 |  |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-27 |  |
-| [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 | 2021-12-17 |  |
+| [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 | 2021-12-17 | 2022-09-26 |
 | [Gradually](https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Gradually](https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV) | 2:35 | 2022-01-28 | 2022-03-22 |
 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 | 2021-12-17 |  |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-12-17 |  |
@@ -141,6 +141,7 @@
 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-16 |  |
 | [i can't breathe](https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:33 | 2021-12-17 | 2022-09-11 |
 | [I Don’t Think You Love Me](https://open.spotify.com/track/6aWGDTAPUyCLWS9mbbbo3G) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [I Don't Think You Love Me](https://open.spotify.com/album/4QkNLSAk97QwfQw76RQNbh) | 3:12 | 2022-01-21 | 2022-01-29 |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2022-01-07 |  |

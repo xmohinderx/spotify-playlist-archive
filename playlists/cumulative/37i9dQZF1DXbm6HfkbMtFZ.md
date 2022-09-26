@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-425 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+426 songs - 1 day 1 hr 53 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Billy](https://open.spotify.com/track/2eQHAwP1oz4XsjHXSEaqZQ) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Gallows](https://open.spotify.com/album/744MtN08OGTISO8JUtHk7L) | 3:33 | 2021-12-16 | 2022-07-29 |
 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 | 2022-02-23 |  |
 | [Black and Blue \- Pat Van Dyke Remix](https://open.spotify.com/track/14AAryrZE6er7tCquvotBq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ) | [Black and Blue \(Pat Van Dyke Remix\)](https://open.spotify.com/album/6OKIQScQS3xOJPsuDFph9L) | 2:58 | 2021-12-16 | 2022-07-29 |
-| [Black Rain](https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 3:51 | 2021-12-16 |  |
+| [Black Rain](https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 3:51 | 2021-12-16 | 2022-09-26 |
 | [Body and Soul](https://open.spotify.com/track/4H7MtvOMVqg7ZwQYKHSBaJ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Shout](https://open.spotify.com/album/0mz8H39pXZPUOpkU7dL48p) | 2:46 | 2022-02-04 | 2022-04-19 |
 | [Bold Soul Sister, Bold Soul Brother](https://open.spotify.com/track/255kBW0xbGQtP48RLrB0I6) | [The Black On White Affair](https://open.spotify.com/artist/1C69pZ4adGi3zgz4tojXSb) | [Kearney Barton: Architect of the Northwest Sound](https://open.spotify.com/album/5AkmoYc5XFDpJaJzstO9HS) | 2:56 | 2022-03-30 | 2022-04-17 |
 | [Bring It On Home to Me](https://open.spotify.com/track/5EoYc5wvRYOtkudLfrjsL1) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:44 | 2022-07-26 |  |
@@ -240,6 +240,7 @@
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-03-30 |  |
 | [Make Love](https://open.spotify.com/track/3vswwICYQI9Wtq4QCj2nDV) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [The Jack Moves](https://open.spotify.com/album/48GX3PHuxLRJemYHX934YI) | 2:44 | 2022-03-30 | 2022-04-16 |
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-12-16 | 2022-07-29 |
+| [Make You](https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7) | 2:50 | 2022-09-08 |  |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2022-03-30 | 2022-08-22 |
 | [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 | 2022-03-30 | 2022-09-16 |
 | [Marcy Son What](https://open.spotify.com/track/4Sp1D2xf63Y1QR572hW0He) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 4:55 | 2021-12-16 | 2022-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 128142,
+  "num_followers": 128385,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDU0MjdmMGU0OWYyODJjZTJkZDAyZGYwYzQ2MzBjZGQ2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDhmMDgyMDZmNzI0ZmJhNzMzNjFhMzgxNjJjYzU4ZjAx",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Sun's Tirade",
-        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 232571,
-      "name": "4r Da Squaw",
-      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
+      "duration_ms": 222653,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Da Art of Storytellin' (Pt. 1)",
-      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      "duration_ms": 232571,
+      "name": "4r Da Squaw",
+      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Below the Heavens",
-        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
-        }
-      ],
-      "duration_ms": 265826,
-      "name": "Dancing In The Rain",
-      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "God Bless The Child",
         "url": "https://open.spotify.com/album/4PXGJHjmwPOZjQyCz6tRzE"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 160879,
       "name": "FEDS",
       "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Below the Heavens",
+        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        }
+      ],
+      "duration_ms": 265826,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1217,50 +1217,6 @@
       "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "MOVIN'",
-        "url": "https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Ar\u00e9na",
-          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
-        }
-      ],
-      "duration_ms": 153028,
-      "name": "MOVIN'",
-      "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
-    },
-    {
-      "added_at": "2022-08-19 19:38:15",
-      "album": {
-        "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
-        "url": "https://open.spotify.com/album/7ktNqKZ0BJUWtz7824OEM4"
-      },
-      "artists": [
-        {
-          "name": "Sonnyjim",
-          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
-        },
-        {
-          "name": "The Purist",
-          "url": "https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
-      "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Flying High",
@@ -1295,18 +1251,26 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+        "name": "MOVIN'",
+        "url": "https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
         }
       ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
+      "duration_ms": 153028,
+      "name": "MOVIN'",
+      "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1327,6 +1291,42 @@
       "duration_ms": 166640,
       "name": "My Favorite Ladies",
       "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
+    },
+    {
+      "added_at": "2022-08-19 19:38:15",
+      "album": {
+        "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
+        "url": "https://open.spotify.com/album/7ktNqKZ0BJUWtz7824OEM4"
+      },
+      "artists": [
+        {
+          "name": "Sonnyjim",
+          "url": "https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4"
+        },
+        {
+          "name": "The Purist",
+          "url": "https://open.spotify.com/artist/00cTKZh4nRgtQ7TmWEmDD5"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
+      "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
@@ -1513,24 +1497,20 @@
       "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
+      "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "No Gold Teeth",
-        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
         }
       ],
-      "duration_ms": 153600,
-      "name": "No Gold Teeth",
-      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-06-10 12:00:00",
@@ -1551,6 +1531,26 @@
       "duration_ms": 285866,
       "name": "Drink Away the Pain (Situations) (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "No Gold Teeth",
+        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Gold Teeth",
+      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1905,6 +1905,38 @@
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Baltimore Housing Project",
+        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
+      },
+      "artists": [
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Reefer Clouds",
+      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
       "added_at": "2022-07-29 12:00:00",
       "album": {
         "name": "Morning Glory",
@@ -1927,42 +1959,6 @@
       "duration_ms": 260062,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/5ZrvXAqXaFW1MJe0xkgDbh"
-    },
-    {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
-      },
-      "artists": [
-        {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/6u5tqSj1AjjRP99XujvXYI"
-      },
-      "artists": [
-        {
-          "name": "Alec Hershey",
-          "url": "https://open.spotify.com/artist/0n0DLx9JnjPF4A6B3l2ZPX"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
     }
   ],
   "unique_name": "The Skate Shop",

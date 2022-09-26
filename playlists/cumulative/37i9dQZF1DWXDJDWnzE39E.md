@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-223 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
+224 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [molotov \[OK\]](https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:16 | 2022-03-11 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2022-03-11 | 2022-07-20 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 |  |
-| [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 | 2021-05-15 |  |
+| [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 | 2021-05-15 | 2022-09-26 |
 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 | 2020-12-07\* |  |
 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 | 2020-12-07\* |  |
 | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/track/2F33HiU5YDmFKFmlTgUuS6) | [If I Die First](https://open.spotify.com/artist/1YITexXsar0m4s4AROHCKE) | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/album/2Qvi0VnGTYVteHW7pCSJvV) | 3:14 | 2021-05-15 | 2021-10-16 |
@@ -187,6 +187,7 @@
 | [Take Me There](https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Take Me There](https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj) | 3:41 | 2020-12-07\* | 2022-07-29 |
 | [Take Me There](https://open.spotify.com/track/7AirDADqbXKplcwcpvVJZF) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:41 | 2022-03-11 | 2022-08-08 |
 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 | 2020-12-07\* |  |
+| [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 | 2022-03-11 |  |
 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 | 2021-10-02 | 2022-09-11 |
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |
 | [The Final Theory \(Demo\)](https://open.spotify.com/track/51xmR73DF3JviQZfPRpvBA) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [The Final Theory \(Demo\)](https://open.spotify.com/album/7MhvVSqmUtWNAUu3tHnV95) | 4:22 | 2020-12-07\* | 2021-05-29 |

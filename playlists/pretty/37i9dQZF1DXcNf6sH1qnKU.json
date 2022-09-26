@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 310373,
+  "num_followers": 310785,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDY0YjMzZDc4ZGUyYjk0ZGQ1MDE2MmI5MjYwMWJkYzEw",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMGFjMTU4NGJmODE0NTY1OTZkYjMyMWVhNDA4ZTQyMjI0",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Everything Else Matters",
+        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 248744,
+      "name": "Holy Forest",
+      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "The Comforts of Madness",
         "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
       },
@@ -555,24 +571,8 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Everything Else Matters",
-        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 248744,
-      "name": "Holy Forest",
-      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
-    },
-    {
-      "added_at": "2022-03-18 05:40:30",
-      "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
+      "duration_ms": 192000,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Tal Uno",
-        "url": "https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 267274,
-      "name": "Tal Uno",
-      "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Tal Uno",
+        "url": "https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+      "duration_ms": 267274,
+      "name": "Tal Uno",
+      "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -699,6 +683,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Isn't Anything",
         "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
@@ -713,10 +713,10 @@
       "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-03-18 05:40:30",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
     },
     {
       "added_at": "2021-10-01 10:38:06",

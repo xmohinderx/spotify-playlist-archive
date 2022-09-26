@@ -4267,7 +4267,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 257142,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
@@ -6611,6 +6611,24 @@
       "duration_ms": 227653,
       "name": "Reefer Clouds",
       "url": "https://open.spotify.com/track/1tCIUI2b2t3R3WIrSxfXle"
+    },
+    {
+      "album": {
+        "name": "The Baltimore Housing Project",
+        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
+      },
+      "artists": [
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227661,
+      "name": "Reefer Clouds",
+      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
     },
     {
       "album": {

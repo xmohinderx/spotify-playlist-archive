@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb"
       },
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"

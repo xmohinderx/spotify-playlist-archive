@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-308 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+309 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [I Melt with You](https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 4:11 | 2021-09-17 | 2022-04-20 |
 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 | 2021-03-26 | 2022-04-16 |
 | [I Saw the Light \- 2015 Remaster](https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1) | 3:00 | 2022-02-20 | 2022-04-21 |
+| [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2022-09-06 |  |
 | [I'll Be Here in the Morning](https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 3:00 | 2022-02-03 | 2022-04-21 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-09 |  |
 | [I'm Looking Through You \- Remastered 2009](https://open.spotify.com/track/5E3BVY66TEDexFutOO5GeS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2021-08-06 | 2022-04-20 |
@@ -238,7 +239,7 @@
 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 | 2021-05-15 | 2022-04-14 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2021-05-15 |  |
 | [Sleep it Off](https://open.spotify.com/track/1dp3L4RsP70L6SYSSMy8zV) | [Brother Bird](https://open.spotify.com/artist/6QRcVji67cTbSEfjAC43YC) | [Sleep it Off](https://open.spotify.com/album/6jCmtR63BR7kLx4UotWP3y) | 3:35 | 2021-09-01 | 2022-07-28 |
-| [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 | 2021-03-26 |  |
+| [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 | 2021-03-26 | 2022-09-26 |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2021-03-26 | 2022-07-24 |
 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 | 2022-03-18 | 2022-07-24 |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 | 2021-06-18 | 2022-04-21 |

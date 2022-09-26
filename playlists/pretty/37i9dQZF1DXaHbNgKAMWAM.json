@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7043,
+  "num_followers": 7064,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMGM2YzQ3MzZmN2UyNjljYThiODdkOGYzMGY0NzJiZDli",
+  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMDkzZGJkYjU1YTlkMzNiODc4NGY5MmVlODEzODJmNTUy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:11",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -303,38 +319,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 199766,
       "name": "Celeb",
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
-        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
-      },
-      "artists": [
-        {
-          "name": "SU A",
-          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Still with you",
-      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -691,6 +675,38 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
+      },
+      "artists": [
+        {
+          "name": "SU A",
+          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Still with you",
+      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Real LOVE",
-      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -859,22 +843,6 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "The Love",
-        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -915,6 +883,38 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "When I look at you",
         "url": "https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 189680,
       "name": "When I look at you",
       "url": "https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
-        "name": "Poong, the Joseon Psychiatrist OST Part.2",
-        "url": "https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "I Guess I Like You",
-      "url": "https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG"
     },
     {
       "added_at": "2022-09-05 15:51:11",
@@ -979,6 +963,22 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
+        "name": "Poong, the Joseon Psychiatrist OST Part.2",
+        "url": "https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "I Guess I Like You",
+      "url": "https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "\ud669\uae08\uac00\uba74 (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
       "artists": [
         {
-          "name": "RUNY",
-          "url": "https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 237931,
-      "name": "\uc774\ub807\uac8c \uc9c0\uae08",
-      "url": "https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX"
+      "duration_ms": 248078,
+      "name": "Our Love is Great",
+      "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
     },
     {
       "added_at": "2022-09-05 15:51:11",

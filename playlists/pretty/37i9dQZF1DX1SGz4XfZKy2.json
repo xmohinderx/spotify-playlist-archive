@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 60128,
+  "num_followers": 60166,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDk4ZWViOGZjNmE3NDhlYmYwYzNkM2Q0ZTk3Zjk0YmEy",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDY1YThhYjAwYmRkYjVkYTE4YjkxY2E1YzU5MzkyODQ1",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -163,6 +163,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Sounds of Mirrors",
+        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 437534,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams",
         "url": "https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 359213,
       "name": "Love",
       "url": "https://open.spotify.com/track/2haduuaSMHdj6UE39Fbwb6"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Sounds of Mirrors",
-        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
-      },
-      "artists": [
-        {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
-        }
-      ],
-      "duration_ms": 437534,
-      "name": "Humankind",
-      "url": "https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Silt",
-        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+        "name": "Kanun Resitali 3 - Sezen Aksu \u015eark\u0131lar\u0131 (Live)",
+        "url": "https://open.spotify.com/album/4Hz0rQTOqR9WDeHvO8Hctf"
       },
       "artists": [
         {
-          "name": "Alsarah & The Nubatones",
-          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+          "name": "Aytac Dogan",
+          "url": "https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi"
         }
       ],
-      "duration_ms": 155371,
-      "name": "Oud Solo",
-      "url": "https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ"
+      "duration_ms": 276480,
+      "name": "Takvim - Live",
+      "url": "https://open.spotify.com/track/76vcQaU6QvT9CZ20q0Cl1z"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "duration_ms": 155371,
+      "name": "Oud Solo",
+      "url": "https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "A Dancing Heart",
         "url": "https://open.spotify.com/album/6JCj95B37ypKWD6R39bRGD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 296117,
       "name": "A Dancing Heart",
       "url": "https://open.spotify.com/track/1yJLIpzDhDzWM5irYR3trF"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Kanun Resitali 3 - Sezen Aksu \u015eark\u0131lar\u0131 (Live)",
-        "url": "https://open.spotify.com/album/4Hz0rQTOqR9WDeHvO8Hctf"
-      },
-      "artists": [
-        {
-          "name": "Aytac Dogan",
-          "url": "https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Takvim - Live",
-      "url": "https://open.spotify.com/track/76vcQaU6QvT9CZ20q0Cl1z"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Lucent Path",
+        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
+      },
+      "artists": [
+        {
+          "name": "NAYAT",
+          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lucent Path",
+      "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Shenididar",
         "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 304680,
       "name": "Aseman",
       "url": "https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Lucent Path",
-        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
-      },
-      "artists": [
-        {
-          "name": "NAYAT",
-          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lucent Path",
-      "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Persian Oud, Dirine Delkhah",
-        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
-      },
-      "artists": [
-        {
-          "name": "Shahram Gholami",
-          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Raghsan",
-      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "One day November",
         "url": "https://open.spotify.com/album/6HpOPx4W6b3gjZ84o9qzP8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 313154,
       "name": "The Semuta Jig",
       "url": "https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Persian Oud, Dirine Delkhah",
+        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
+      },
+      "artists": [
+        {
+          "name": "Shahram Gholami",
+          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Raghsan",
+      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Among the Clouds / Dar Miyan e Abrha (Original Score)",
-        "url": "https://open.spotify.com/album/4k77fSLa2sPePBPt1Wg9Oj"
-      },
-      "artists": [
-        {
-          "name": "Ali Samadpour",
-          "url": "https://open.spotify.com/artist/5ZP6McaPyj1lHUDWymntv1"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Neg\u00e2r",
-      "url": "https://open.spotify.com/track/4TENTrKfnaEOsWHCG43Q8E"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193703,
       "name": "Longing",
       "url": "https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Among the Clouds / Dar Miyan e Abrha (Original Score)",
+        "url": "https://open.spotify.com/album/4k77fSLa2sPePBPt1Wg9Oj"
+      },
+      "artists": [
+        {
+          "name": "Ali Samadpour",
+          "url": "https://open.spotify.com/artist/5ZP6McaPyj1lHUDWymntv1"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Neg\u00e2r",
+      "url": "https://open.spotify.com/track/4TENTrKfnaEOsWHCG43Q8E"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Aloud Taqaseem Ala",
+        "url": "https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7"
+      },
+      "artists": [
+        {
+          "name": "Ali Hassan",
+          "url": "https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Maqam tour reefy mohammdawiy",
+      "url": "https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "And",
         "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 267500,
       "name": "Farewell With Mirror",
       "url": "https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Aloud Taqaseem Ala",
-        "url": "https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7"
-      },
-      "artists": [
-        {
-          "name": "Ali Hassan",
-          "url": "https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Maqam tour reefy mohammdawiy",
-      "url": "https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "The Passage",
+        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
+      },
+      "artists": [
+        {
+          "name": "Siavash Roshan",
+          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "And",
         "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 164073,
       "name": "Improvisation In Shour",
       "url": "https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "The Passage",
-        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
-      },
-      "artists": [
-        {
-          "name": "Siavash Roshan",
-          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
     },
     {
       "added_at": "2021-02-15 11:04:36",

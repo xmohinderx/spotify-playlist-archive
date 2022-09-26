@@ -1,15 +1,15 @@
 {
   "description": "This is Descendents. The essential tracks, all in one playlist.",
-  "num_followers": 11920,
+  "num_followers": 11927,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3MzQwMjUsMDAwMDAwMDA1ZGMxOTY5ZTY3MmMyNmE2NmRjYjcwY2I4NGQxMTVmNw==",
+  "snapshot_id": "Mjc3MzU1MDUsMDAwMDAwMDA1NmMxMTk5Y2IxNmYwOGYzNDYzNjI5Y2E1MjVhNGJkNg==",
   "tracks": [
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "I'm The One",
-      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/7HHle8A6urSZT4RxkDQIiz"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/2albIR3fBkSoAj76RjqGw7"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 90200,
-      "name": "Everything Sux",
-      "url": "https://open.spotify.com/track/0LDAMbrDwcMlH94AG9VYwW"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/1o0cObpbURSTFEoXSgmL6a"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 90200,
+      "name": "Everything Sux",
+      "url": "https://open.spotify.com/track/0LDAMbrDwcMlH94AG9VYwW"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
@@ -137,71 +137,7 @@
       "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "When I Get Old",
-      "url": "https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 81266,
-      "name": "I Don't Want To Grow Up",
-      "url": "https://open.spotify.com/track/0eDc197F5458sCXioVf2PJ"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Myage",
-      "url": "https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
@@ -217,10 +153,10 @@
       "url": "https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
       },
       "artists": [
         {
@@ -228,60 +164,12 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 34573,
-      "name": "Coffee Mug",
-      "url": "https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe"
+      "duration_ms": 81266,
+      "name": "I Don't Want To Grow Up",
+      "url": "https://open.spotify.com/track/0eDc197F5458sCXioVf2PJ"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Somery",
-        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Clean Sheets",
-      "url": "https://open.spotify.com/track/3pCc0a00cKo9o1qCsNDgiP"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 88773,
-      "name": "I'm Not a Loser",
-      "url": "https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Nothing with You",
-      "url": "https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
@@ -297,23 +185,7 @@
       "url": "https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "Descendents",
-      "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
@@ -324,15 +196,15 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 64160,
-      "name": "I'm Not a Punk",
-      "url": "https://open.spotify.com/track/1VMnHHIyXnIWbkhhMoI9kM"
+      "duration_ms": 120800,
+      "name": "Myage",
+      "url": "https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
       },
       "artists": [
         {
@@ -340,60 +212,12 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 199618,
-      "name": "Without Love",
-      "url": "https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb"
+      "duration_ms": 147533,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 106200,
-      "name": "Sick-O-Me",
-      "url": "https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Enjoy!",
-        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Sour Grapes",
-      "url": "https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Bikeage",
-      "url": "https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
@@ -409,10 +233,10 @@
       "url": "https://open.spotify.com/track/4LlmKr3eGaU3oxnvd84kY4"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
       },
       "artists": [
         {
@@ -420,12 +244,28 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+      "duration_ms": 34573,
+      "name": "Coffee Mug",
+      "url": "https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 88773,
+      "name": "I'm Not a Loser",
+      "url": "https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
@@ -436,12 +276,12 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 167560,
-      "name": "Mass Nerder",
-      "url": "https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx"
+      "duration_ms": 149333,
+      "name": "Nothing with You",
+      "url": "https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
@@ -452,12 +292,60 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 183906,
-      "name": "Cheer",
-      "url": "https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu"
+      "duration_ms": 231266,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 106200,
+      "name": "Sick-O-Me",
+      "url": "https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 64160,
+      "name": "I'm Not a Punk",
+      "url": "https://open.spotify.com/track/1VMnHHIyXnIWbkhhMoI9kM"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 199618,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
@@ -473,7 +361,71 @@
       "url": "https://open.spotify.com/track/7a8u4fFQF8BbYOPLtsWsTg"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Bikeage",
+      "url": "https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "Mass Nerder",
+      "url": "https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "Descendents",
+      "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Hypercaffium Spazzinate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
@@ -489,7 +441,23 @@
       "url": "https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Clean Sheets",
+      "url": "https://open.spotify.com/track/3pCc0a00cKo9o1qCsNDgiP"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
@@ -505,119 +473,7 @@
       "url": "https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Enjoy!",
-        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "H\u00fcrtin' Cr\u00fce",
-      "url": "https://open.spotify.com/track/0FaXeLoE7VHzwjpkVX8KBx"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "All",
-        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "Cameage",
-      "url": "https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 105864,
-      "name": "On Paper",
-      "url": "https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "'Merican",
-        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Here with Me",
-      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 61719,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Enjoy!",
-        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Get The Time",
-      "url": "https://open.spotify.com/track/2H7W4q8W86r9GzRuTiiuTs"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 195649,
-      "name": "Spineless and Scarlet Red",
-      "url": "https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
@@ -633,39 +489,7 @@
       "url": "https://open.spotify.com/track/2dsB4EWZpV3X5jin2pcjhm"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 76538,
-      "name": "Tired of Being Tired",
-      "url": "https://open.spotify.com/track/4u3eECXPRzUzQQVdiSmsoS"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
-      "album": {
-        "name": "Enjoy!",
-        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Wendy",
-      "url": "https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58"
-    },
-    {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Hypercaffium Spazzinate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
@@ -676,12 +500,108 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 190924,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
+      "duration_ms": 105864,
+      "name": "On Paper",
+      "url": "https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "'Merican",
+        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Get The Time",
+      "url": "https://open.spotify.com/track/2H7W4q8W86r9GzRuTiiuTs"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 61719,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 195649,
+      "name": "Spineless and Scarlet Red",
+      "url": "https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Cheer",
+      "url": "https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
@@ -697,7 +617,7 @@
       "url": "https://open.spotify.com/track/2SJHPnqYZPBAOFXqqiMUU9"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
@@ -713,10 +633,10 @@
       "url": "https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
-        "name": "Suffrage",
-        "url": "https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9"
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
       },
       "artists": [
         {
@@ -724,12 +644,60 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 142861,
-      "name": "On You",
-      "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
+      "duration_ms": 82183,
+      "name": "Testosterone",
+      "url": "https://open.spotify.com/track/6jnunhDko6kFi4sVWFaR85"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Wendy",
+      "url": "https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 88516,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/4YpjGR5zqcDfxAhpAYbnG6"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Hypercaffium Spazzinate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
@@ -745,7 +713,7 @@
       "url": "https://open.spotify.com/track/37lLexBCC4kCIPZFL1unDo"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
@@ -761,7 +729,23 @@
       "url": "https://open.spotify.com/track/1z3URfQ4jYzrFmStzUu20i"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Suffrage",
+        "url": "https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 142861,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
@@ -777,7 +761,7 @@
       "url": "https://open.spotify.com/track/14FjdxiIwPJBJteMrqHBoL"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "That's The Breaks",
         "url": "https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z"
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs"
     },
     {
-      "added_at": "2022-09-24 17:45:25",
+      "added_at": "2022-09-25 18:25:12",
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "H\u00fcrtin' Cr\u00fce",
+      "url": "https://open.spotify.com/track/0FaXeLoE7VHzwjpkVX8KBx"
+    },
+    {
+      "added_at": "2022-09-25 18:25:12",
       "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"

@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 81352,
+  "num_followers": 81400,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMGEwYzlkZDIwYmRiNTQxNzZhNmI3ODU4NmNmMTJhZDM2",
+  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMDI5MDJkZjYyM2ExNTYyMjdhNjBkZGQ3ZGFiMGRiMmYx",
   "tracks": [
     {
       "added_at": "2022-09-23 03:01:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Bl\u00fc Moon",
+        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Bl\u00fc Moon",
+      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Bl\u00fc Moon",
-        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Bl\u00fc Moon",
-      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "FYF",
         "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
       },
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -675,18 +675,34 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -707,22 +723,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "All Pride Aside with Summer Walker",
         "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+        "name": "A Muse",
+        "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 237573,
-      "name": "The Pressure",
-      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -855,22 +871,6 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "A Muse",
-        "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "A Muse",
-      "url": "https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Summer in November",
+      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "DNA (Live)",
         "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 228292,
       "name": "DNA - Live",
       "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 229879,
-      "name": "Summer in November",
-      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
-      },
-      "artists": [
-        {
-          "name": "Kaleem Taylor",
-          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Rare Pleasure",
         "url": "https://open.spotify.com/album/4ZwuqG7srOt86hMjF0o3No"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 315798,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/0Nc4QJeqhbkFsjZWwyaDlt"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 206304,
       "name": "GLA",
       "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Midnight Snacks",
         "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia"
-      },
-      "artists": [
-        {
-          "name": "Devvon Terrell",
-          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Ifwu",
-      "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Organic",
         "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 197647,
       "name": "Organic",
       "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia"
+      },
+      "artists": [
+        {
+          "name": "Devvon Terrell",
+          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Ifwu",
+      "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Wait On Me (Pt. 2 / Remix)",
+        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Wait On Me - Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/4OtJ4StIlfpWJz3BsXAKSV"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 283405,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3pEXcNA3Qe7Q2xTfRp3G3k"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Wait On Me (Pt. 2 / Remix)",
-        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Wait On Me - Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
     },
     {
       "added_at": "2022-09-23 03:01:00",

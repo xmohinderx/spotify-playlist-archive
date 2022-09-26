@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-245 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
+246 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-25 | 2022-07-29 |
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2022-07-13 |  |
 | [Honesty](https://open.spotify.com/track/68vX3NqqjR7LVbyBd2EHF7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/7haisAWnBurqvjXerdrGzG) | 3:11 | 2021-12-10 | 2022-07-29 |
-| [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 |  |
+| [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 | 2022-09-26 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-13 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-07 | 2022-07-29 |
@@ -122,6 +122,7 @@
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-11 | 2022-07-29 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-13 |  |
 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 | 2022-03-25 | 2022-04-21 |
+| [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 | 2022-09-25 |  |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-05-20 | 2022-07-16 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-07-13 |  |
 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 | 2022-01-14 | 2022-07-29 |
@@ -172,7 +173,7 @@
 | [Purple](https://open.spotify.com/track/0FrZlv2YeaeNoegY6ZwWJ3) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Purple](https://open.spotify.com/album/1ACYwKV5Eo6IGA0NAcUnAN) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Purple Emoji \(feat\. J\. Cole\)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji \(feat\. J Cole\)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2021-12-24 | 2022-04-21 |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-01-26 | 2022-07-29 |
-| [raw](https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:06 | 2022-05-17 | 2022-07-29 |
+| [raw](https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:06 | 2022-05-17 |  |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-12-10 | 2022-05-18 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-26 | 2022-01-29 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-07-13 |  |
@@ -246,7 +247,7 @@
 | [What's On Ur Mind](https://open.spotify.com/track/1tCMbFn0uTiIqBqIdZ0cES) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [What's On Ur Mind](https://open.spotify.com/album/7Hk38z2ouRgFRwIuo5FfJ9) | 3:24 | 2021-12-10 | 2022-07-29 |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-03-11 | 2022-05-22 |
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-05-20 | 2022-07-11 |
-| [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 | 2022-06-17 |  |
+| [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 | 2022-06-17 | 2022-09-26 |
 | [Worth It](https://open.spotify.com/track/1bWBqEOlBwHnsYWViiBOFC) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [November Love Notes](https://open.spotify.com/album/4fQ1Dn0bHqfqKD9R6TRws5) | 2:49 | 2021-12-24 | 2022-06-30 |
 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 | 2021-12-10 |  |
 | [You Belong To Somebody Else](https://open.spotify.com/track/7izlgARoZsidRx23DOBhad) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Fuck A Friend Zone](https://open.spotify.com/album/51OWMVKHXRYaXdizydeRSd) | 3:38 | 2022-07-13 | 2022-09-10 |

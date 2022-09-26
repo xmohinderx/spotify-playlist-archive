@@ -3164,6 +3164,28 @@
     },
     {
       "album": {
+        "name": "Love Instead",
+        "url": "https://open.spotify.com/album/60TqE96idOeQrOV29DNpk8"
+      },
+      "artists": [
+        {
+          "name": "SKGN",
+          "url": "https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Love Instead",
+      "url": "https://open.spotify.com/track/40VOWVEYAZ4PQZSW6yHzAP"
+    },
+    {
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR"
       },
@@ -5091,7 +5113,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 358095,
       "name": "Steps",
       "url": "https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az"

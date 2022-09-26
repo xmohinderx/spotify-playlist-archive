@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music.",
-  "num_followers": 38378,
+  "num_followers": 38438,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMDFhYjllY2Q5ZmVjODU5YTgyZTgxOWRlNzkzY2ZlZmQ1",
+  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMGE0NjYxM2Y1MGU4YmIyNTFmOTA4YjhiOWUzN2UwMTlk",
   "tracks": [
     {
       "added_at": "2021-09-02 08:24:19",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Clash the Truth",
+        "url": "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "Sleep Apnea",
+      "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Ice On The Dune",
-        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 204591,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Clash the Truth",
-        "url": "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
+        "name": "Ice On The Dune",
+        "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 146293,
-      "name": "Sleep Apnea",
-      "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
+      "duration_ms": 204591,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "A Bad Girl In Harlem",
-        "url": "https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI"
-      },
-      "artists": [
-        {
-          "name": "New Politics",
-          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Harlem",
-      "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "A Bad Girl In Harlem",
+        "url": "https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI"
+      },
+      "artists": [
+        {
+          "name": "New Politics",
+          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 254620,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Oblivion (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 356674,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254620,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Reflektor",
+        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 353086,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Reflektor",
-        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+        "name": "Dear Miss Lonelyhearts",
+        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 353086,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
+      "duration_ms": 180133,
+      "name": "Miracle Mile",
+      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1063,22 +1079,6 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Dear Miss Lonelyhearts",
-        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Miracle Mile",
-      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+        "name": "Warm Water (Snakehips Remix)",
+        "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         }
       ],
-      "duration_ms": 281133,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+      "duration_ms": 253584,
+      "name": "Warm Water - Snakehips Remix",
+      "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Warm Water (Snakehips Remix)",
-        "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
         }
       ],
-      "duration_ms": 253584,
-      "name": "Warm Water - Snakehips Remix",
-      "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
+      "duration_ms": 281133,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Changing of the Seasons",
-        "url": "https://open.spotify.com/album/6fuQH2pXMCVMWqLCUrPDv5"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Changing of the Seasons",
-      "url": "https://open.spotify.com/track/3KL3eFVpAVW36M9YrK2Zrk"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 292546,
       "name": "Inhaler",
       "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Changing of the Seasons",
+        "url": "https://open.spotify.com/album/6fuQH2pXMCVMWqLCUrPDv5"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Changing of the Seasons",
+      "url": "https://open.spotify.com/track/3KL3eFVpAVW36M9YrK2Zrk"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
       "artists": [
         {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
+      "duration_ms": 217120,
+      "name": "Life Round Here",
+      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Life Round Here",
-      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1451,22 +1451,6 @@
       "duration_ms": 232746,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4EaO2XR7gWaHq8DW7nu1iY"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Birthmarks",
-        "url": "https://open.spotify.com/album/3WDn6Zj4NRmYSperrOJcJZ"
-      },
-      "artists": [
-        {
-          "name": "Born Ruffians",
-          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "Needle",
-      "url": "https://open.spotify.com/track/6FV9xcL49P5jMdzyBDG9wY"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "I'm Leaving",
-        "url": "https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z"
+        "name": "Birthmarks",
+        "url": "https://open.spotify.com/album/3WDn6Zj4NRmYSperrOJcJZ"
       },
       "artists": [
         {
-          "name": "IS TROPICAL",
-          "url": "https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi"
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
         }
       ],
-      "duration_ms": 318419,
-      "name": "Dancing Anymore",
-      "url": "https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0"
+      "duration_ms": 213870,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/6FV9xcL49P5jMdzyBDG9wY"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1519,6 +1503,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z"
+      },
+      "artists": [
+        {
+          "name": "IS TROPICAL",
+          "url": "https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi"
+        }
+      ],
+      "duration_ms": 318419,
+      "name": "Dancing Anymore",
+      "url": "https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "When It Was Now",
+        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "If So",
+      "url": "https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 230053,
       "name": "While I'm Alive",
       "url": "https://open.spotify.com/track/6wtcxwSJs82tpdeIoj93LF"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
-      },
-      "artists": [
-        {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "If So",
-      "url": "https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf"
     },
     {
       "added_at": "2021-09-02 08:24:19",

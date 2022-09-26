@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 536825,
+  "num_followers": 536960,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMDg4NjJkMWFiODE0MDY5YmM4YWVjM2Q4M2JiZDU2Y2Nm",
+  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMDhiODA1ODUwOGYyMThhZGE1MjI2N2RiYzU0NDYzZDE4",
   "tracks": [
     {
       "added_at": "2020-08-26 23:57:42",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Pat Barrett",
         "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 244893,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -499,38 +499,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 249242,
-      "name": "Hills and Valleys (The Valleys Version)",
-      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -547,22 +515,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "I Won't Let You Go",
-        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 247422,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -587,18 +551,38 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
       "artists": [
         {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -615,6 +599,22 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Unknown - EP",
         "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "Hallelujah Even Here",
+      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "All The Earth (Live)",
         "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "Hallelujah Even Here",
-      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Even Then",
-      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "God's Not Done with You",
+        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 195617,
+      "name": "God's Not Done with You - Single Version",
+      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "God's Not Done with You",
-        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 195617,
-      "name": "God's Not Done with You - Single Version",
-      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1115,22 +1131,6 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "Anything Worth Saying",
+        "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 291986,
+      "name": "My Savior My God",
+      "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 298226,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 218171,
-      "name": "Amadeo (Still My God)",
-      "url": "https://open.spotify.com/track/7BhvOAA8kaGhd2dsa27XP8"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Anything Worth Saying",
-        "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
       },
       "artists": [
         {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 291986,
-      "name": "My Savior My God",
-      "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+      "duration_ms": 218171,
+      "name": "Amadeo (Still My God)",
+      "url": "https://open.spotify.com/track/7BhvOAA8kaGhd2dsa27XP8"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Ultimate Worship: Hillsong (Live)",
-        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 218813,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Ultimate Worship: Hillsong (Live)",
+        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+        "name": "Into The Deep (Live)",
+        "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
         }
       ],
-      "duration_ms": 200680,
-      "name": "Never Been a Moment",
-      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
+      "duration_ms": 388133,
+      "name": "Into The Deep - Live",
+      "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
     }
   ],
   "unique_name": "Everyday Inspiration",

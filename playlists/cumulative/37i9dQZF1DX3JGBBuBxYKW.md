@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad, Lali & Natalia Oreiro.
 
-100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
+101 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 | 2022-01-14 |  |
 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 | 2022-01-14 |  |
 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 | 2022-01-14 |  |
+| [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 | 2022-09-23 |  |
 | [China](https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:19 | 2022-07-08 |  |
 | [China](https://open.spotify.com/track/6sZqjAOBBRTG3yKFduEjdQ) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/2MurDlHKd3umOCIXtDX9J7) | 3:19 | 2022-01-14 | 2022-07-28 |
 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 | 2022-01-14 |  |
@@ -102,7 +103,7 @@
 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 | 2022-01-14 |  |
 | [Un Pasaje al Mas Allá](https://open.spotify.com/track/1Ls6oXf6L6us1DzOruPGQ4) | [La Kosmica](https://open.spotify.com/artist/2rRqBAduZDY1nyge8evc19) | [Un Pasaje al Mas Allá](https://open.spotify.com/album/73ZPz63iS1N6WuTxOs9NiR) | 3:55 | 2022-01-14 | 2022-07-29 |
 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 | 2022-01-14 | 2022-08-10 |
-| [Vete](https://open.spotify.com/track/4BekwfLP64FbQNrp0oRA6J) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vete](https://open.spotify.com/album/6n9Z8TtDg5RrvrIPOGRYDL) | 3:49 | 2022-01-14 |  |
+| [Vete](https://open.spotify.com/track/4BekwfLP64FbQNrp0oRA6J) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vete](https://open.spotify.com/album/6n9Z8TtDg5RrvrIPOGRYDL) | 3:49 | 2022-01-14 | 2022-09-26 |
 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 | 2022-01-14 |  |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL) | 3:31 | 2022-07-08 |  |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |

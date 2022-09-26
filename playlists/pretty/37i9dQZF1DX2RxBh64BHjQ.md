@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:220xv2aB3dsGxaJI1gGs7l">Hotboii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,681,417 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,681,628 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 74 | [Savages](https://open.spotify.com/track/4T7SSgpvgt0BfQz73sjAvM) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 2:34 |
 | 75 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 |
 | 76 | [Lit](https://open.spotify.com/track/7vQlEKT4vGvaNNxgnjPj2U) | [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Lit](https://open.spotify.com/album/6wsxDHolwGyIRMl1BRMifm) | 2:11 |
-| 77 | [Dip! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
+| 77 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
 | 78 | [Put Me In The Game](https://open.spotify.com/track/33dE78WbBIzSCZMYDdOaTr) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Put Me In The Game](https://open.spotify.com/album/4bl6fMBTVSXZZwKwtEBZGj) | 1:47 |
 | 79 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 |
 | 80 | [Lonely](https://open.spotify.com/track/6B2Uwx4edHAudfLdL82tlT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Lonely](https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n) | 2:56 |

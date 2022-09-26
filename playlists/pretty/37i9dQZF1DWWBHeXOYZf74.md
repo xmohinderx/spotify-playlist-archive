@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,596 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,514 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 52 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 |
 | 53 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 |
 | 54 | [Kite Day](https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Kite Day](https://open.spotify.com/album/2O8b1i8Ii2WOSSWa6z2Yc5) | 5:56 |
-| 55 | [Dip! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
+| 55 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
 | 56 | [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 |
 | 57 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
 | 58 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 |

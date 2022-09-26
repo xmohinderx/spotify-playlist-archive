@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Sports Team
 
-263 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+265 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Cowardly Custard](https://open.spotify.com/track/2nCaFhJQRp5Dq8bbYiQZJL) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Cowardly Custard](https://open.spotify.com/album/2vMDEesmESdoQwWgrkn9YO) | 3:42 | 2022-08-18 |  |
 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 | 2022-08-18 |  |
 | [Crybaby](https://open.spotify.com/track/61a0LXQA7wJ64CGzttDaN9) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:10 | 2021-03-09 | 2022-01-17 |
-| [Cut My Hair](https://open.spotify.com/track/0vhDL4PlraJhlfGYtYFaB6) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Cut My Hair](https://open.spotify.com/album/3K6BzyGqvZCujtg6nIMS3F) | 3:01 | 2022-09-22 |  |
+| [Cut My Hair](https://open.spotify.com/track/0EK5CqqFEUSr5HgBt1Lnpt) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [House Without a View](https://open.spotify.com/album/38E9pUjpxwpxb8kqHXrAp6) | 3:01 | 2022-09-22 |  |
+| [Cut My Hair](https://open.spotify.com/track/0vhDL4PlraJhlfGYtYFaB6) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Cut My Hair](https://open.spotify.com/album/3K6BzyGqvZCujtg6nIMS3F) | 3:01 | 2022-09-22 | 2022-09-26 |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-22 |  |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-17 | 2022-08-19 |
 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 | 2022-01-17 | 2022-08-19 |
@@ -234,7 +235,8 @@
 | [Texas](https://open.spotify.com/track/4HyH27bE1P1GU1zKQyaHlP) | [The Pink Slips](https://open.spotify.com/artist/6fkWlAAWpesLkdp4Cj88Ra) | [Trigger](https://open.spotify.com/album/7iXhqvDbb7s1gl6iknDZkn) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/album/2PI3lgEBf6tTcJlb0vMWlF) | 3:55 | 2021-07-16 | 2022-08-19 |
 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 |  |
-| [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 |  |
+| [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 | 2022-09-26 |
+| [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-22 |  |
 | [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 | 2022-08-18 |  |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-08-18 |  |
 | [The Way It Shatters](https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:22 | 2022-04-01 | 2022-09-02 |

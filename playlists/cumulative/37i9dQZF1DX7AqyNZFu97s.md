@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Kingfishr
 
-541 songs - 1 day 5 hr 12 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+542 songs - 1 day 5 hr 16 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Between The Lines](https://open.spotify.com/track/55al6E0C7qaYRmTQM1GyhQ) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Between The Lines](https://open.spotify.com/album/4SGn2OkOQyeHI73obluwZv) | 4:07 | 2022-02-23 | 2022-03-17 |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2022-02-09 | 2022-02-17 |
 | [Binge](https://open.spotify.com/track/2XWb5MPAZCcNfHx6jumdXX) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Binge](https://open.spotify.com/album/6RgRsK2DUfAYEFLFqXFiGP) | 3:15 | 2022-08-24 | 2022-09-22 |
-| [Black Hole](https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L) | [Siobhán](https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp) | [Black Hole](https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq) | 4:01 | 2022-07-06 |  |
+| [Black Hole](https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L) | [Siobhán](https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp) | [Black Hole](https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq) | 4:01 | 2022-07-06 | 2022-09-26 |
+| [Black Hole](https://open.spotify.com/track/5KZX9IFFM1671Xt3Uji7oC) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Black Hole](https://open.spotify.com/album/6hZMs2JBmHOEaRdkyFXHkY) | 4:01 | 2022-09-21 |  |
 | [blocked](https://open.spotify.com/track/24AthZW8c7jwI9E5fqwRBl) | [Max Armfield](https://open.spotify.com/artist/1W8tDkSW5WnB38vW6nqrQN) | [blocked](https://open.spotify.com/album/4Ui16oxKfYuIdRYqgWBLX1) | 1:57 | 2022-04-13 | 2022-06-01 |
 | [Blood](https://open.spotify.com/track/0yNyMQhVlmqYJSYtBIPUZq) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Blood](https://open.spotify.com/album/1KqWIh4S19Awll9HkdJRuf) | 3:19 | 2022-07-13 | 2022-08-25 |
 | [Blood Money](https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Blood Money](https://open.spotify.com/album/0eiBDyD35crWZEu8GaPHr3) | 3:32 | 2022-05-11 | 2022-06-30 |

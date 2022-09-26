@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Surf Curse
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,651 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,770 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 56 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 |
 | 57 | [Teen Beat](https://open.spotify.com/track/3HyhlfFMzfXjcDzI061LAM) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Excess](https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J) | 3:28 |
 | 58 | [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 |
-| 59 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 |
+| 59 | [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 |
 | 60 | [Dirty Water](https://open.spotify.com/track/45YxYUys5nuXLwrV4DnxFF) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Dirty Water](https://open.spotify.com/album/1gnhCT9K4f5yMpNxM8b6J1) | 3:14 |
 | 61 | [Morning View](https://open.spotify.com/track/7z0ZmNJLTyMKEziFzRTk1l) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Morning View](https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX) | 3:15 |
 | 62 | [More Than It Hurts You](https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [More Than It Hurts You](https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS) | 3:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 |
 | 125 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 |
 
-Snapshot ID: `MTY2Mzk0NzYyOSwwMDAwMDAwMDVhMzZhZjAwOTBmZWEzM2YyYjA0ODgyNmU1MzU2MWIw`
+Snapshot ID: `MTY2Mzk0NzYyOSwwMDAwMDAwMDc1ZjkwOGEwZmQwNzVhMzkyZTg4NTgwMzhhMGEwMTFk`

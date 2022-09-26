@@ -4,7 +4,7 @@
 
 > It's all about the girls tonight.
 
-187 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/1ityN4Bm7ljJtFkTthOEOy)
+188 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/1ityN4Bm7ljJtFkTthOEOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2021-10-11 | 2022-07-28 |
 | [Love You Better](https://open.spotify.com/track/4UuGBDjt8gLXsANZqZxMBz) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Love You Better](https://open.spotify.com/album/6eYxEOCIiUy763yQwd9Glm) | 2:50 | 2021-10-11 | 2022-07-29 |
 | [Mad Love](https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love](https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0) | 2:49 | 2021-10-11 | 2022-07-19 |
-| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-06-30 |  |
+| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-06-30 | 2022-09-26 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2022-06-30 |  |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [ME!](https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy) | 3:13 | 2022-01-20 | 2022-07-29 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2022-06-30 |  |
@@ -158,6 +158,7 @@
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2022-01-20 |  |
 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 | 2021-10-11 | 2022-07-29 |
 | [Slow Dance \(feat\. Ava Max\) \- Sam Feldt Remix](https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Slow Dance \(feat\. Ava Max\) \[Sam Feldt Remix\]](https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv) | 3:13 | 2021-10-11 | 2022-07-29 |
+| [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2022-06-30 |  |
 | [Somebody](https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody](https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi) | 3:14 | 2021-10-11 | 2022-07-29 |
 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 | 2021-10-11 | 2022-07-29 |
 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2021-10-11 |  |

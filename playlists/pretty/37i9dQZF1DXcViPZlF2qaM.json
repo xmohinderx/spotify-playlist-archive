@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 30387,
+  "num_followers": 30449,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMzk5MCwwMDAwMDAwMDg3ZWIyYjZiNjAzMmYwYzAwZWM2Y2I4YWE1ODkwNDQy",
+  "snapshot_id": "MTY2MzMwMzk5MCwwMDAwMDAwMGYyOTM0MzQ0NGEyZDMyOGVlNGJlZjdiN2FlODA4NDQ5",
   "tracks": [
     {
       "added_at": "2022-09-12 20:19:40",
@@ -163,7 +163,7 @@
     {
       "added_at": "2022-09-12 20:12:53",
       "album": {
-        "name": "Somos fuerza",
+        "name": "Somos Fuerza",
         "url": "https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx"
       },
       "artists": [
@@ -180,8 +180,8 @@
           "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Somos fuerza",
+      "duration_ms": 221733,
+      "name": "Somos Fuerza",
       "url": "https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH"
     },
     {
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
     },
     {
-      "added_at": "2022-04-04 18:08:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "DELIRIO DE GRANDEZA",
-      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
-    },
-    {
       "added_at": "2022-04-08 19:03:44",
       "album": {
         "name": "Imagina",
@@ -255,6 +239,22 @@
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "added_at": "2022-04-04 18:08:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "DELIRIO DE GRANDEZA",
+      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
       "added_at": "2022-04-01 20:35:15",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
-      "added_at": "2022-02-11 00:27:46",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2022-04-17 20:11:32",
       "album": {
         "name": "Uno",
@@ -607,6 +591,22 @@
       "duration_ms": 173202,
       "name": "Canci\u00f3n de Ba\u00f1ar la Luna",
       "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
+    },
+    {
+      "added_at": "2022-02-11 00:27:46",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Uno Dos Tres 1-2-3",
         "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 183293,
       "name": "Fried Neck Bones And Some Home Fries",
       "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
@@ -865,22 +881,6 @@
       "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Maria Elena",
-        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Maria Elena",
-      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
-    },
-    {
       "added_at": "2022-03-30 01:48:29",
       "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
-      "added_at": "2022-01-14 04:35:40",
-      "album": {
-        "name": "Mis Amigos",
-        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 180569,
-      "name": "Mis Amigos",
-      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "COMO LA PIEL",
@@ -935,6 +919,22 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
+    },
+    {
+      "added_at": "2022-01-14 04:35:40",
+      "album": {
+        "name": "Mis Amigos",
+        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 180569,
+      "name": "Mis Amigos",
+      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Mr. Carisma",
-        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Mr. Carisma",
-      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
         "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
@@ -1023,18 +1007,34 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+        "name": "Mr. Carisma",
+        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 237500,
-      "name": "La Cumbia Del Cafe Martinez",
-      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
+      "duration_ms": 231716,
+      "name": "Mr. Carisma",
+      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
+      "duration_ms": 237500,
+      "name": "La Cumbia Del Cafe Martinez",
+      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 71 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 66 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
 | 67 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
 | 68 | [State of Love](https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/6NW8p8IBDzSJzQdcoiH5T6) | [State of Love](https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA) | 3:23 |
-| 69 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
-| 70 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 69 | [God Only Knows](https://open.spotify.com/track/0SZimpCB6XxixvTav2YoUy) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [God Only Knows](https://open.spotify.com/album/5aei5Brs37JLBRvNKGAilc) | 3:24 |
+| 70 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
+| 71 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc3MzQ0ODAsMDAwMDAwMDA0NjE5ODViMjg5ZjM5NWY5NjJiZmMyMjFhYzdmYWE3ZQ==`
+Snapshot ID: `Mjc3MzU5MjAsMDAwMDAwMDA0ZjMxYWZjNTFiZDNiZTk3MTIzMWM2ZDg5OWRjMmVkMA==`

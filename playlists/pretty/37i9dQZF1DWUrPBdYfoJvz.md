@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,204 likes - 121 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,394 likes - 121 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 99 | [Harmony in Blue III](https://open.spotify.com/track/7h1Vds2ETEav7wNP0xtSDg) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 2:41 |
 | 100 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
 | 101 | [Island No\. 1](https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 8:01 |
-| 102 | [Astrosat](https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3) | 5:00 |
+| 102 | [Astrosat](https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 5:00 |
 | 103 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
-| 104 | [Andromeda](https://open.spotify.com/track/5URyPQ8YrT1Ne2vKP2pqO5) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Andromeda](https://open.spotify.com/album/3640RzzgIrciQFKtFLICEP) | 4:15 |
+| 104 | [Andromeda](https://open.spotify.com/track/1DgRiSsSduNYi6zS9pCOf7) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 4:15 |
 | 105 | [Music for 18 Musicians: Pulses](https://open.spotify.com/track/3TBO0QhrrrOiAZIzRlTUfQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Ensemble Links](https://open.spotify.com/artist/4ONRsCP74pMfs2GAL8gf3Z), [Rémi Durupt](https://open.spotify.com/artist/3lSXsU3A9NTWoYT38Q9Vcn) | [Steve Reich: Music for 18 Musicians](https://open.spotify.com/album/7ndBYWWUQTM3i7if0upsPF) | 4:36 |
 | 106 | [Foil](https://open.spotify.com/track/07C2MiIIwVUEqcnwXpHO67) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:04 |
 | 107 | [Rasch Und Mäßig Bewegt](https://open.spotify.com/track/1BhNdKPskUFQVELGgqaHIH) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Eisgang / Dämmerattacke](https://open.spotify.com/album/2cNBhp9Us7dF9R9ldFRmRa) | 19:53 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 120 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 121 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY2MzY4OTExNSwwMDAwMDAwMGU0MTkxNGJmNWJmYmQ1NzYxMzBlZWZhNmYyMzBkYmZi`
+Snapshot ID: `MTY2MzY4OTExNSwwMDAwMDAwMDcxODU5NmQ2OWNkMDJiODdhOWViNWFhNDVkMDk5MmFj`

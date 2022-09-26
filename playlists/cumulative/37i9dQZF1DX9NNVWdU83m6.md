@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-121 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
+122 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hazard Profile Part 5](https://open.spotify.com/track/3Wgry7XCJ7PPEovyaKWxza) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/0xC77HJHW6dHMGLxumSNAd) | 5:29 | 2021-01-27 | 2022-07-25 |
 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 | 2021-01-27 |  |
 | [Hazard Profile, Pt\. 5](https://open.spotify.com/track/5pZdl7YgmgIu8O06wS8sg9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0) | 5:29 | 2021-01-27 | 2022-08-30 |
+| [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 | 2021-01-27 |  |
 | [Hazard Profile, Pt.1](https://open.spotify.com/track/6IEhhjx0lVrW228QsDKrpB) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0) | 9:19 | 2021-01-27 | 2022-08-29 |
 | [Heksen Romance](https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Heksen Romance](https://open.spotify.com/album/4SUzYTki8mF5xSw69e6V8H) | 6:34 | 2021-10-08 | 2022-07-26 |
 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Dennis Hamm](https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 | 2021-01-27 | 2022-07-28 |
@@ -58,7 +59,7 @@
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 | 2022-07-27 |
 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 |  |
 | [Inner Babylon](https://open.spotify.com/track/3OQ3kWHotovS0RE3ZMgeNY) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/55Xi3WIyXMIUYPRRVboNQK) | 5:20 | 2021-01-27 | 2022-05-05 |
-| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 |  |
+| [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 | 2021-01-27 | 2022-09-26 |
 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 | 2021-01-27 |  |
 | [Just Call Me Nige](https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mehliana: Taming the Dragon](https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q) | 5:41 | 2021-01-27 | 2022-07-26 |
 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 | 2021-01-27 |  |

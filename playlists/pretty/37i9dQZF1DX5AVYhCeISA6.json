@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 594124,
+  "num_followers": 594204,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGM5Y2NlZjFhOGU2MzE3ZTNmZTA1YWYxZDFkYmFmZTVj",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGIzNjZlYWQzMDcyYjJlNWFhYzI5NjM5ODU3MjRlODVk",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -859,18 +859,30 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+        "name": "Las Nenas (feat. La Duraca)",
+        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "La Duraca",
+          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
         }
       ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+      "duration_ms": 224739,
+      "name": "Las Nenas (feat. La Duraca)",
+      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -915,50 +927,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Las Nenas (feat. La Duraca)",
-        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "La Duraca",
-          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "Las Nenas (feat. La Duraca)",
-      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 160177,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Ella (Remix De Ellas)",
         "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 190813,
       "name": "Ella - Remix De Ellas",
       "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 160177,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "GUR\u00da",
-      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 172426,
       "name": "Pa' Mi Entero",
       "url": "https://open.spotify.com/track/1oUYEiQ669zjwQOMKGMuKH"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "GUR\u00da",
+      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Quiero Que Me Quieras",
+      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Visceral",
         "url": "https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Quiero Que Me Quieras",
-      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
     },
     {
       "added_at": "2022-08-31 07:13:59",

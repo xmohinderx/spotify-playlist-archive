@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181140,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf"
+    },
+    {
+      "album": {
         "name": "Free Spirit",
         "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
       },

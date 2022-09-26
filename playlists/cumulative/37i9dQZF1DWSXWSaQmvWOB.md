@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-550 songs - 1 day 9 hr 37 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+551 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Feelings Mutual?](https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Feelings Mutual?](https://open.spotify.com/album/1X8csoHCSCdhiM37VtKGM6) | 3:09 | 2021-07-30 | 2021-12-01 |
 | [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 | 2022-07-21 |  |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2021-06-18 | 2022-09-23 |
+| [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-22 |  |
 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 | 2021-02-06 | 2021-07-02 |
 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 | 2022-02-03 |  |
 | [Finally](https://open.spotify.com/track/4Hh9ZoTvVs7BjNUKPFTy7G) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Finally](https://open.spotify.com/album/0jY40dx3ca56Fyb4z6hYDs) | 3:24 | 2021-06-18 | 2022-09-23 |
@@ -389,7 +390,7 @@
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2021-06-18 | 2021-10-29 |
 | [Remedy](https://open.spotify.com/track/0hnpoj1FS6bpPbFXLXLBTH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Remedy](https://open.spotify.com/album/1heefxZcK41kW2gzLtnwTM) | 3:39 | 2020-03-25\* | 2020-10-09 |
 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 | 2021-01-09 | 2021-12-01 |
-| [Rhodes](https://open.spotify.com/track/6oLwWCpeJu2PnIObPWNGma) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Rhodes](https://open.spotify.com/album/2CRUQQC4EbWTaOxZMymSv6) | 3:54 | 2022-09-22 |  |
+| [Rhodes](https://open.spotify.com/track/6oLwWCpeJu2PnIObPWNGma) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Rhodes](https://open.spotify.com/album/2CRUQQC4EbWTaOxZMymSv6) | 3:54 | 2022-09-22 | 2022-09-26 |
 | [Ride or Die](https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/4ogV05oprfriua7n9icbvN) | 4:14 | 2021-07-30 | 2021-12-01 |
 | [Rise](https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Rise](https://open.spotify.com/album/4TnL5ML7n7N7NJtkbozZtD) | 4:34 | 2020-06-20 | 2020-07-18 |
 | [Rise](https://open.spotify.com/track/6ZKs0LHSpN5fA17tA3lqIT) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Rise](https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin) | 2:38 | 2021-07-31 | 2021-09-24 |

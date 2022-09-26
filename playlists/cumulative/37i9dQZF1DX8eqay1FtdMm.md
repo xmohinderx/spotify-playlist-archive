@@ -4,7 +4,7 @@
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Lim Sa Rang\(임사랑\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-338 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+339 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 | 2022-02-10 |  |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2021-12-20 | 2022-07-27 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-07-25 |
-| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-03-24 |  |
+| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-03-24 | 2022-09-26 |
 | [Blame](https://open.spotify.com/track/4D0Zn7ULyzUVDC5z4dx5VT) | [Ragoon](https://open.spotify.com/artist/6KukpOkfUcJxKmgsGEvTaz) | [Blame](https://open.spotify.com/album/5CtYaFaa9tWwfgyJkfODVF) | 4:19 | 2022-03-29 | 2022-04-21 |
 | [Blank](https://open.spotify.com/track/2OyX69J0H3ZaO3irKbcemY) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/7xSPokUlRKABb78sL7WRsm) | 3:12 | 2022-03-29 | 2022-06-10 |
 | [blue lagoon](https://open.spotify.com/track/6biXLR6erSRv6PtgTt3Nd9) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [blue lagoon](https://open.spotify.com/album/2J4f8XpnORZvKOxqRmWQfx) | 3:37 | 2022-03-24 | 2022-04-18 |
@@ -125,6 +125,7 @@
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-20 | 2022-07-29 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 |  |
+| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 |  |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-01-14 | 2022-04-16 |
 | [I hate you](https://open.spotify.com/track/4cuvGQEBMIWnGBQu9yLgOh) | [ZOIN](https://open.spotify.com/artist/6piQESINjWBSElYa126dD7) | [I hate you](https://open.spotify.com/album/0p4tIoEV2Z60mUexJyY4SD) | 3:56 | 2022-03-31 | 2022-06-07 |
 | [I hope](https://open.spotify.com/track/5ylBPTi0o2plQ4sFrhzd0s) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [I hope](https://open.spotify.com/album/3rw63CsSL39xUhvW2yuEx2) | 3:50 | 2022-05-13 | 2022-05-18 |

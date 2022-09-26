@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 346352,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 211813,
       "name": "Come Fly with Me",
       "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
@@ -6985,7 +6985,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 261614,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/4h81nhqJF8r4Fx6DXSecYF"
@@ -7223,6 +7223,24 @@
       "duration_ms": 312527,
       "name": "Something Cool - Brian Losch Remix",
       "url": "https://open.spotify.com/track/3f7cqY7cu3n1aMx01KfCnW"
+    },
+    {
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
     },
     {
       "album": {

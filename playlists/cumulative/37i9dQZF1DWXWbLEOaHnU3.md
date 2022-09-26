@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-200 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+201 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [San Pedro](https://open.spotify.com/track/04x4RHqb7UQMG978AlxkrD) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [San Pedro](https://open.spotify.com/album/5sHYnWWk6HZMu5o5L64F91) | 7:28 | 2022-04-15 |  |
 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 |  |
 | [Save Me](https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Save Me](https://open.spotify.com/album/0qH7mbypWgfElVWaG4LJUZ) | 3:34 | 2022-05-06 | 2022-05-08 |
-| [Scottica](https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Scottica](https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy) | 3:19 | 2022-07-28 |  |
+| [Scottica](https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Scottica](https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy) | 3:19 | 2022-07-28 | 2022-09-26 |
 | [See Me](https://open.spotify.com/track/7tHgjmzPziQQKYs6JtIPs4) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [See Me](https://open.spotify.com/album/1cUIPPAO8OHNBPwsOvBgpN) | 3:38 | 2022-07-07 |  |
 | [See The Light](https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [See The Light](https://open.spotify.com/album/2jtU9gx30PSYWExLBYrMVD) | 3:44 | 2022-04-15 |  |
 | [Shiva Lingam \- S3N0 Remix](https://open.spotify.com/track/2sxbKvKtJvYpqNo2nCCkqP) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Asante Sana](https://open.spotify.com/artist/6rI9AVUw0k5hX9viNM0ssc), [S3N0](https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1) | [Shiva Lingam \(S3N0 Remix\)](https://open.spotify.com/album/6POjkorUF5fPeDH4pg5qO7) | 6:24 | 2022-05-26 | 2022-06-08 |
@@ -186,6 +186,7 @@
 | [Transparent](https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/2OKDQOcsc2yOWFjHqjcPdk) | 4:17 | 2022-06-03 |  |
 | [Under the Surface](https://open.spotify.com/track/0rBhgOIK1JApO01uP5OSLs) | [Hidden Secret](https://open.spotify.com/artist/1h3OfpOaCVBgmlNcuoZR8t) | [Under the Surface](https://open.spotify.com/album/6Z1ZXaERxUl15NXFAOwXlI) | 5:04 | 2022-04-15 | 2022-07-20 |
 | [Underwater](https://open.spotify.com/track/0mYB0z3lSNiaMqBpSFoUPd) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm) | [Underwater](https://open.spotify.com/album/0pXfYT6I1KDwC3gMqzlktK) | 3:40 | 2022-04-15 | 2022-07-26 |
+| [Varosti](https://open.spotify.com/track/0IhYuvcKECTjURzAaokoYF) | [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2), [KRAL](https://open.spotify.com/artist/17zE2eEyOUdEwLwHe6xtmW) | [Varosti](https://open.spotify.com/album/5rc306fqSwTFvwL0Dvv3Hc) | 2:58 | 2022-09-23 |  |
 | [Vibes](https://open.spotify.com/track/37eQ13yBg842gYEz6sat92) | [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [Vibes](https://open.spotify.com/album/6tgzstTEXkKkDkyJpMYeAt) | 4:49 | 2022-04-15 | 2022-07-16 |
 | [Viera](https://open.spotify.com/track/121Qef9f4Fa2AKfsBLQWpW) | [Stevie Melani](https://open.spotify.com/artist/5V4bg7oqV1I1l6acHS18Qx), [Sousa](https://open.spotify.com/artist/41HmpeBfYeKmfs7wL3qyHU) | [Viera](https://open.spotify.com/album/0I1PNYIS289CGyTOOo4wug) | 2:30 | 2022-07-28 |  |
 | [Viera](https://open.spotify.com/track/1WLomcEjsvUCsjAnALioxF) | [Stevie Melani](https://open.spotify.com/artist/5V4bg7oqV1I1l6acHS18Qx), [Sousa](https://open.spotify.com/artist/41HmpeBfYeKmfs7wL3qyHU) | [Viera](https://open.spotify.com/album/3ZC3crqk6y2iwEugMpw54Z) | 2:30 | 2022-04-15 | 2022-07-29 |

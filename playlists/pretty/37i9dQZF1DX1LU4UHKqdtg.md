@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BLACKPINK
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: IVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,371 likes - 81 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,719 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
-| 2 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 |
-| 3 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 |
-| 4 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
-| 5 | [Promise](https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e) | 2:30 |
-| 6 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 |
-| 7 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 |
-| 8 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 9 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 |
-| 10 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
-| 11 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/1tP7SiJE8uQ7fs2LQaPDbP) | 2:58 |
+| 1 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/1tP7SiJE8uQ7fs2LQaPDbP) | 2:58 |
+| 2 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
+| 3 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 |
+| 4 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 |
+| 5 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
+| 6 | [Promise](https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e) | 2:30 |
+| 7 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 |
+| 8 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 |
+| 9 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
+| 10 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 |
+| 11 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
 | 12 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 |
 | 13 | [Daisy](https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 2:56 |
 | 14 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
@@ -78,16 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 68 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 |
 | 69 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 |
 | 70 | [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 |
-| 71 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
-| 72 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
-| 73 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
-| 74 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 |
-| 75 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 |
-| 76 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
-| 77 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
-| 78 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 |
-| 79 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
-| 80 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
-| 81 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
+| 71 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
+| 72 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
+| 73 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 |
+| 74 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 |
+| 75 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
+| 76 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
+| 77 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 |
+| 78 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
+| 79 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
+| 80 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
 
-Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGJkNTU1NzQyMGIyNDk2YTVlNDYzNWUzZjc0Zjc5NGM2`
+Snapshot ID: `MTY2NDExODAwMCwwMDAwMDAwMDM0ZjA3ZjA3ODlkNzI0ZTk4YzQzZGY5Yjc5MDc3MTFl`

@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-322 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
+324 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-07-22 |  |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2022-03-25 |  |
 | [California Numb \- Acoustic](https://open.spotify.com/track/3MKcaz7j0far7FN9EVhlwx) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California Numb \(Acoustic\)](https://open.spotify.com/album/04otrNTnlmVPNqp7kfJ0i3) | 3:21 | 2022-03-25 | 2022-04-18 |
-| [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 | 2021-10-13 |  |
+| [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 | 2021-10-13 | 2022-09-26 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-07-22 |  |
 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 | 2021-10-13 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-10-13 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Honey](https://open.spotify.com/track/2sksCUIpcWYO5imUxTonvd) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Honey](https://open.spotify.com/album/5N9dItG2SXPHuvqW1wfT5J) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/7ahKxobHI1fMPSbhf9KvyP) | 3:22 | 2021-10-13 | 2022-06-18 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-07-22 |  |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-22 |  |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2021-10-13 | 2022-07-29 |
 | [I Don't Love You \(I'm Just Lonely\) \- Acoustic](https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [I Don't Love You \(I'm Just Lonely\) \[Acoustic\]](https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e) | 3:03 | 2021-10-13 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-10-13 | 2022-06-25 |
 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [On the Run](https://open.spotify.com/track/0H1iykZgTGLQ7UzqTakG7k) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [On the Run](https://open.spotify.com/album/6ARRhGYLiWrIE5U6BEOdv7) | 3:26 | 2021-10-13 | 2022-07-29 |
-| [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2021-10-13 |  |
+| [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2021-10-13 | 2022-09-26 |
 | [One Step Ahead](https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj) | 3:11 | 2022-06-24 |  |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2021-10-13 |  |
 | [Only Us \(Acoustic\)](https://open.spotify.com/track/4D92frBIgwF9MOpeHuQ4o2) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Only Us \(Acoustic\)](https://open.spotify.com/album/5e6fsm9Agc9pO7q9dqe5qP) | 3:38 | 2021-10-13 | 2022-07-29 |
@@ -222,6 +223,7 @@
 | [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-10-13 | 2022-07-29 |
 | [Raincoat \- Acoustic](https://open.spotify.com/track/4W6lFeuSPi2pnFTIOrMUiD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Raincoat \(Acoustic\)](https://open.spotify.com/album/69wwst5yeNvmd6sjmOPdRv) | 3:35 | 2021-10-13 | 2022-01-08 |
 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2022-03-25 | 2022-04-19 |
+| [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-07-22 |  |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-09-15 |
 | [Reasons \- Acoustic](https://open.spotify.com/track/6WCejh5wPX3OHgpdT6jvn4) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Reasons \(Acoustic\)](https://open.spotify.com/album/0TLR0qnNUlN191ISwzxYnd) | 3:04 | 2021-10-13 | 2022-07-22 |
 | [Requiem](https://open.spotify.com/track/2ypFTgovLdraNhgnSwAfxv) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:38 | 2022-03-25 |  |

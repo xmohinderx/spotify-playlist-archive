@@ -1552,6 +1552,28 @@
     },
     {
       "album": {
+        "name": "Come On Eileen / Dubious",
+        "url": "https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        },
+        {
+          "name": "Kevin Rowland",
+          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Come On Eileen - Single Edit",
+      "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/7h6XeTzy0SRXDrFJeA9gO7"
       },
@@ -2933,7 +2955,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 244586,
       "name": "Haven't Met You Yet",
       "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"

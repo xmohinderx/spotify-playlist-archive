@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada.",
-  "num_followers": 954775,
+  "num_followers": 954970,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDdjNWI5OGRhN2FkZjNlMjBiZTFiODY2ZWU3MWJiZjE4",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDFlMTQ0MjFjYjJlNDk1NzQ3ODM3OGQ1ZDJkMGRhYTI5",
   "tracks": [
     {
       "added_at": "2022-09-23 05:00:00",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
+      "added_at": "2022-04-19 19:45:44",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "El Colmo",
+      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+    },
+    {
       "added_at": "2022-01-14 14:14:57",
       "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
@@ -257,38 +273,6 @@
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
     },
     {
-      "added_at": "2022-04-19 19:45:44",
-      "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "El Colmo",
-      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
-    },
-    {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
       "added_at": "2022-01-14 14:14:57",
       "album": {
         "name": "Hijos del pueblo",
@@ -307,6 +291,22 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2022-04-19 19:45:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-04-19 19:45:44",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "Veneno Vil",
-      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
-    },
-    {
-      "added_at": "2022-04-19 19:45:44",
-      "album": {
         "name": "Apocalypshit",
         "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 228293,
       "name": "Rastaman- Dita",
       "url": "https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP"
+    },
+    {
+      "added_at": "2022-04-19 19:45:44",
+      "album": {
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 297533,
+      "name": "Veneno Vil",
+      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
     },
     {
       "added_at": "2022-01-14 14:14:57",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2022-01-14 14:14:57",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
     },
     {
-      "added_at": "2022-04-19 19:45:44",
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Tu Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
-    },
-    {
       "added_at": "2022-04-09 04:59:08",
       "album": {
         "name": "No Olvidamos",
@@ -835,6 +819,22 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2022-04-19 19:45:44",
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Tu Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
     },
     {
       "added_at": "2022-04-19 19:45:44",

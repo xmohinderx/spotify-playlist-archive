@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-316 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+317 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Someone to Break Your Heart](https://open.spotify.com/track/1j1eVY0fZLQH5W0UMNz5hd) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Someone to Break Your Heart](https://open.spotify.com/album/6uWWQBNQke5npCz2UwI5G3) | 3:19 | 2022-01-05 | 2022-07-25 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-12-06 |  |
 | [Someone You Loved \- Acoustic](https://open.spotify.com/track/7iSool3PmS50F5St2bhmTU) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [Someone You Loved \(Acoustic\)](https://open.spotify.com/album/69WwEw6R3xBZgmwpp9aY5u) | 2:42 | 2021-12-06 | 2022-08-20 |
-| [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-01-18 |  |
+| [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-01-18 | 2022-09-26 |
 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 | 2021-12-06 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 | 2022-07-08 |  |
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2021-12-06 | 2022-07-29 |
@@ -283,6 +283,7 @@
 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:04 | 2022-07-08 |  |
 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/3UOvd4bfGqepCVx4EJLy57) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Thinking 'Bout Love \(Acoustic\)](https://open.spotify.com/album/4RuXbV8f3JjPJzTtGmBtss) | 3:04 | 2021-12-06 | 2022-07-29 |
 | [This Is My Version](https://open.spotify.com/track/5qJZxVKQ8vz9Rak3t4b2VY) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:28 | 2021-12-06 | 2022-07-29 |
+| [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 |  |
 | [This Kind of Heavy](https://open.spotify.com/track/1uINT6Vl2hbqhFsBY4RGo1) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [This Kind of Heavy](https://open.spotify.com/album/3WWLVYF0DZNEtvzbVUwwIT) | 3:42 | 2021-12-06 | 2022-07-28 |
 | [Time Out](https://open.spotify.com/track/08e9dUkEQMYCrtvoeZhqhP) | [AJ Wander](https://open.spotify.com/artist/5fr3sYfFREtEo0KCnnionb) | [Time Out](https://open.spotify.com/album/6V2hNO0oVg0OiO0ewhK4Fk) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-06 |  |

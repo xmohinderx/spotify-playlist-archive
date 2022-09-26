@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Meghan Trainor
 
-249 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+250 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [No Wifey](https://open.spotify.com/track/4NlOOhdYDA1pIksaZ7TmpB) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [No Wifey](https://open.spotify.com/album/24LIfXNCzKU1QRclf30Ich) | 3:41 | 2021-12-03 | 2022-07-19 |
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2021-12-03 |  |
 | [Off The Ground](https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0) | 4:02 | 2021-12-03 | 2022-07-24 |
-| [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 |  |
+| [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-09-26 |
 | [One Thing](https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [One Thing](https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l) | 2:20 | 2022-01-28 | 2022-04-21 |
 | [OUT OF CONTEXT](https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [OUT OF CONTEXT](https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd) | 2:42 | 2022-09-09 | 2022-09-24 |
 | [Out of Time](https://open.spotify.com/track/5U18fsaWoMtJHR3pqgOkrt) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Out of Time](https://open.spotify.com/album/2kiWC4fHtpbdu4SpEryLql) | 3:56 | 2021-12-03 | 2022-06-22 |
@@ -252,6 +252,7 @@
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-09 |  |
 | [Work of Art](https://open.spotify.com/track/4L6bK3JIEJpctCTxX9BJqO) | [Alex J\. Price](https://open.spotify.com/artist/7D3ZgjKGSixJVqJBSEdLZ7), [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [Work of Art](https://open.spotify.com/album/6wSrZfl0XlnN5REUZX8GvL) | 3:10 | 2021-12-03 | 2022-07-25 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 |  |
+| [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2021-12-03 |  |
 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2021-12-03 | 2022-09-20 |
 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 | 2021-12-03 |  |
 | [You Are The Best Thing](https://open.spotify.com/track/7885mFKPXjWNyxkOvuFK1j) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in The Grain \(Standard DMD\)](https://open.spotify.com/album/2sOE2ErQdW8Az2I6IC6Py3) | 3:54 | 2021-12-03 | 2022-07-28 |

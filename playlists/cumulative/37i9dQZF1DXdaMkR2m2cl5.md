@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-220 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
+221 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 | 2020-11-25 | 2022-07-29 |
 | [A Light On In The Dark](https://open.spotify.com/track/6JbfmKceztqS3SYfA9CwQR) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/48mwALvRndLkgANgah5qmd) | 3:51 | 2020-11-25 | 2022-07-29 |
 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 | 2020-11-25 | 2022-09-19 |
+| [Absentee](https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Tip of the Sphere](https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG) | 2:48 | 2020-11-25 |  |
 | [All I Know Is](https://open.spotify.com/track/6ERFuCVkwAcOpWELq71Gxt) | [Doc Robinson](https://open.spotify.com/artist/5O0efDEpkqEmWbXD2zpkjz), [Taylor Meier](https://open.spotify.com/artist/2Tz99faL8Eyjl1ct9d5oLx) | [The Musicol Sessions \(Vol 2\)](https://open.spotify.com/album/6rawzLMa2l39VaRJH9aUVf) | 4:20 | 2020-11-25 | 2022-07-21 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2020-11-25 |  |
 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 | 2020-11-25 |  |
@@ -180,7 +181,7 @@
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2020-11-25 |  |
 | [The Barrel](https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 4:59 | 2020-11-25 | 2022-07-28 |
 | [The Long Way Home](https://open.spotify.com/track/1WyEIbcYvdHkovLGTGEQu7) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [The Long Way Home](https://open.spotify.com/album/6WNvaJpy5CTSbMQb7HwsAh) | 3:25 | 2020-11-25 | 2022-07-25 |
-| [The Moons Detriment](https://open.spotify.com/track/7w9E1aY0Y7O0EmF2aEXYQu) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:35 | 2020-11-25 |  |
+| [The Moons Detriment](https://open.spotify.com/track/7w9E1aY0Y7O0EmF2aEXYQu) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:35 | 2020-11-25 | 2022-09-26 |
 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 | 2020-11-25 |  |
 | [The Pool](https://open.spotify.com/track/3PXbcti7P1ZekivSWu48A3) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/3yx7FdDCtxXE7zQeGWCgwj) | 4:02 | 2020-11-25 | 2022-07-29 |
 | [The Running Styles of New York](https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Running Styles of New York](https://open.spotify.com/album/3FngH5IRWvC0DFC7FbIVZy) | 5:11 | 2020-11-25 | 2022-07-29 |

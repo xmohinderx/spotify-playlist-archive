@@ -4,7 +4,7 @@
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
+69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Mr\. Moustafa](https://open.spotify.com/track/1uNhvxpkPrNHUNfeclo6xD) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Grand Budapest Hotel \(Original Soundtrack\)](https://open.spotify.com/album/6IV7472Hni7A1ENilCManS) | 3:03 | 2022-02-17 |  |
 | [Neverland \- Piano Variation In Blue \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/3rwboSQlP6nOElurhXQFnB) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 4:29 | 2022-02-17 |  |
 | [Now, Voyager](https://open.spotify.com/track/5XM2pLN5ByvLjNh8XyDRr6) | [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Classic Film Scores: Now, Voyager](https://open.spotify.com/album/6gXWOxZNWS90iGUFXY5R1S) | 5:52 | 2022-02-17 |  |
-| [Overture \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/1Hh8SCwbrwqly06fv6LYDP) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX) | [Work From Home With Ennio Morricone](https://open.spotify.com/album/1Jd1cieRXVrtMsxj0YOjUH) | 3:11 | 2022-02-17 |  |
+| [Overture \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/1Hh8SCwbrwqly06fv6LYDP) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX) | [Work From Home With Ennio Morricone](https://open.spotify.com/album/1Jd1cieRXVrtMsxj0YOjUH) | 3:11 | 2022-02-17 | 2022-09-26 |
+| [Overture \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/6KgHPNuC386tCRjK7q6T4P) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Czech National Symphony Orchestra, Prague](https://open.spotify.com/artist/5sywRx2uuyXtkfnXCdyQX0) | [Morricone: Movie Classics](https://open.spotify.com/album/1vnPavo6AI34MtKlex4Ark) | 3:11 | 2022-02-17 |  |
 | [Planetarium](https://open.spotify.com/track/70RecAVg5QudOXfJs64sM5) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 4:17 | 2022-02-17 |  |
 | [Prologue: Beauty and the Beast](https://open.spotify.com/track/4xrravITYOGqfLkAg7re5K) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:29 | 2022-02-17 |  |
 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 | 2022-02-17 |  |

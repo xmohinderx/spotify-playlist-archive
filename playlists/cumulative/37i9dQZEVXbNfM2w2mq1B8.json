@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 213146,
       "name": "Alpha Doll",
       "url": "https://open.spotify.com/track/5JwxdYpoZPJasiOjpmeeB0"
@@ -5363,7 +5363,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5461,7 +5461,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3"
@@ -8141,7 +8141,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 200068,
       "name": "MAYBACH",
       "url": "https://open.spotify.com/track/3AXZZgreuwWgYX2IL3oGkA"
@@ -14910,6 +14910,28 @@
     },
     {
       "album": {
+        "name": "\u0411\u0440\u0443\u0442\u0430\u043b\u0435\u043d",
+        "url": "https://open.spotify.com/album/4UuAa6Qp2JviqaHUKenDpd"
+      },
+      "artists": [
+        {
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233513,
+      "name": "\u0411\u0440\u0443\u0442\u0430\u043b\u0435\u043d",
+      "url": "https://open.spotify.com/track/4JFBEg1MNSuzGgsJNgoyYG"
+    },
+    {
+      "album": {
         "name": "\u0411\u044f\u0445 \u0441 \u0442\u0435\u0431",
         "url": "https://open.spotify.com/album/7H3zQyq8wlcWZ7XrAF62wy"
       },
@@ -15665,7 +15687,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 201000,
       "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
       "url": "https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ"

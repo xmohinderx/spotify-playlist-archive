@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: ella jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,926 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,971 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 |
 | 2 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 3 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 |
-| 4 | [One Last Time \(with R3HAB\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Last Time \(with R3HAB\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
+| 4 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
 | 5 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 |
 | 6 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 |
 | 7 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 |

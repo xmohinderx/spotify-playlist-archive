@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,732 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,970 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

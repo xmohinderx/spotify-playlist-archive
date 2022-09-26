@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 83290,
+  "num_followers": 83483,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDk0NmRmYTUyNWJkZDhlM2E4ZTM0YzA0ZjljZDAyYTM2",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDdhYmMwZTVhMzA5ZWYxMmEyNDI0YTEyNTI0OWI2YjY4",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 206800,
       "name": "Salud y Vida",
       "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Los Aguacates De Jilquilpan",
-        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Anda Y Ve",
-      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 218697,
       "name": "Grandes Pasos",
       "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Los Aguacates De Jilquilpan",
+        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Anda Y Ve",
+      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Teorema",
-        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 204125,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "24/Siempre Vol.1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 110229,
       "name": "C.R.O",
       "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Teorema",
+        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 204125,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Luces Fantasma",
+        "url": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 273176,
+      "name": "Solo Como Amigos",
+      "url": "https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Luces Fantasma",
-        "url": "https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj"
-      },
-      "artists": [
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 273176,
-      "name": "Solo Como Amigos",
-      "url": "https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1323,6 +1323,54 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
+        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Hermano L",
+          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
+        },
+        {
+          "name": "Shabu One Shant",
+          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
+      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 216024,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1351,54 +1399,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 216024,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
-        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
-      },
-      "artists": [
-        {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        },
-        {
-          "name": "Hermano L",
-          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
-        },
-        {
-          "name": "Shabu One Shant",
-          "url": "https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
-      "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Vivir para Contarlo",
         "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 332853,
       "name": "Cantando",
       "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
-        "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 177326,
-      "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
-      "url": "https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 263091,
       "name": "Haces Mal",
       "url": "https://open.spotify.com/track/57ZAQ9KG9Oeq6hQlMdDnWR"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+        "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 177326,
+      "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+      "url": "https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Henceforth",
-        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fue un Placer",
-      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Poesia Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Henceforth",
+        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fue un Placer",
+      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Nunca Vemos Nada",
         "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 221538,
       "name": "Sexo de Despedida",
       "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Mis Disculpas",
-        "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 488470,
-      "name": "Mis Disculpas",
-      "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1807,6 +1791,38 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Mis Disculpas",
+        "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 488470,
+      "name": "Mis Disculpas",
+      "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Un D\u00eda En Suburbia",
+        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 276120,
+      "name": "Efectos Vocales",
+      "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Manos de Anillo",
         "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 225957,
       "name": "Manos de Anillo",
       "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Aquel Que Habia Muerto",
-        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 371000,
-      "name": "Tony Presidio",
-      "url": "https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL"
     },
     {
       "added_at": "2021-11-16 20:18:05",

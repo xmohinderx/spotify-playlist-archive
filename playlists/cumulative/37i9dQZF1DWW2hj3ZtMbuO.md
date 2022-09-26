@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning"
 
-272 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
+273 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 | 2022-03-03 | 2022-07-13 |
 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 | 2021-12-15 | 2022-06-02 |
 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 | 2022-07-20 | 2022-09-16 |
+| [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-09-23 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2022-01-08 |  |
 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 | 2022-01-08 | 2022-04-21 |
 | [Anna](https://open.spotify.com/track/4DzfD0gswlyVhgYGrgzS0T) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Anna](https://open.spotify.com/album/30TrmO3DCBGjXHoR4zUtUw) | 2:50 | 2022-06-01 | 2022-07-23 |
@@ -232,7 +233,7 @@
 | [Special Girl](https://open.spotify.com/track/2YIsnl3xxvV34QgnT9HLCY) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:13 | 2022-01-08 | 2022-04-16 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 | 2022-01-08 | 2022-04-21 |
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-12-15 | 2022-09-16 |
-| [Teenage Blue](https://open.spotify.com/track/7mgI1HLrLMlIHL3wzotbyM) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty \- EP](https://open.spotify.com/album/2M7CnxGiFH8xKQUr5RW5yE) | 3:54 | 2021-12-15 |  |
+| [Teenage Blue](https://open.spotify.com/track/7mgI1HLrLMlIHL3wzotbyM) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty \- EP](https://open.spotify.com/album/2M7CnxGiFH8xKQUr5RW5yE) | 3:54 | 2021-12-15 | 2022-09-26 |
 | [terminal paradise](https://open.spotify.com/track/1WBavEwIws3xdg7GVDUZWp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:59 | 2022-02-11 | 2022-03-02 |
 | [The Fairest Of The Seasons](https://open.spotify.com/track/3YX4WviUJiDEov6IrAdFYD) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 4:06 | 2022-04-06 | 2022-05-13 |
 | [The Fear of Losing This](https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 3:53 | 2021-12-15 |  |

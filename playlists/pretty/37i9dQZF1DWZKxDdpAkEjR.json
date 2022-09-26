@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 397726,
+  "num_followers": 397689,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDA3YWZiZThmODUyMjdiZTQ0MGY4MjYyODlkYWY5ZDY0",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDQ0YzExNGUxYjlkMTFjY2I4YTIwMGNiYmE2OTk0YzU1",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 149642,
       "name": "We Could Be Together (feat. Daddy DJ)",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 177156,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -387,18 +387,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -423,22 +427,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -627,30 +627,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-        "url": "https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 165215,
-      "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
-      "url": "https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
       },
@@ -675,6 +651,30 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
+        "url": "https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 165215,
+      "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
+      "url": "https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 177634,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -723,6 +707,22 @@
       "duration_ms": 145807,
       "name": "Fading Like A Flower",
       "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2022-06-30 22:02:00",

@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-332 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
+333 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Lifeline](https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI) | [Tómas Welding](https://open.spotify.com/artist/5A03saeTY76fYsuWrzUXqr), [ELVA](https://open.spotify.com/artist/1RyxB2ZzW51PHFrjNio8nL) | [Lifeline](https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w) | 3:20 | 2022-05-09 |  |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 | 2020-11-07 |  |
 | [Lose You Too](https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Lose You Too](https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW) | 3:06 | 2020-10-20 |  |
+| [Lost Sparks](https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Bluebird](https://open.spotify.com/album/5tUvSrIpluvVXXJq0E1mYf) | 3:45 | 2022-09-09 |  |
 | [Lost Sparks](https://open.spotify.com/track/7fZ2GktS3lfZuI6BbDamrS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Lost Sparks](https://open.spotify.com/album/1GDrq6I76KWXJCDKAlYXes) | 3:46 | 2020-10-06\* | 2022-07-26 |
 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2020-10-20 | 2022-07-29 |
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-05-09 |  |
@@ -330,7 +331,7 @@
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2021-05-22 | 2021-10-16 |
 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 | 2020-11-07 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2020-11-07 | 2021-01-21 |
-| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 |  |
+| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 | 2022-09-26 |
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2021-05-22 | 2022-07-07 |
 | [You Make It Real](https://open.spotify.com/track/5tTj367c98D4roNryoIhfN) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(EU Version\)](https://open.spotify.com/album/7A1mKWt3smgL4WiLap3sx2) | 3:31 | 2021-04-08 | 2022-07-29 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-09 |  |

@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-182 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
+183 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ave Nocturna](https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5) | [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Ave Nocturna](https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH) | 3:37 | 2022-06-24 |  |
 | [Baracunatana](https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 2:32 | 2022-03-11 |  |
 | [Barco de Papel](https://open.spotify.com/track/1ufmRhXT4AWHwSGak3ZO9T) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/2GQgIRVZ3XkqyiZKxHBDZP) | 3:31 | 2022-03-11 | 2022-09-16 |
+| [Barco de Papel](https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:32 | 2022-06-24 |  |
 | [Bogogo](https://open.spotify.com/track/6cJwesf2LH5NZStkd4qfDy) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Bogogo](https://open.spotify.com/album/23KrVdPnfv8PK6gR8aGl1z) | 2:56 | 2022-03-11 | 2022-07-24 |
 | [Bolero Falaz](https://open.spotify.com/track/6sayXgNAqCmfUAqGAxP4xA) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 3:45 | 2022-03-11 |  |
 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 | 2022-03-11 |  |
@@ -76,7 +77,7 @@
 | [Fiesta Entre Demonios](https://open.spotify.com/track/0O7xG0e4I188WBg93DT0G5) | [Donkristobal](https://open.spotify.com/artist/4fixbG823SdZndhG2SYAlB) | [Vida](https://open.spotify.com/album/7xpsydvszLDGU6WsSnAanq) | 2:59 | 2022-03-11 | 2022-07-23 |
 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 | 2022-06-24 |  |
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2022-03-11 | 2022-07-28 |
-| [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 | 2022-09-21 |
+| [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 |  |
 | [Hacia la Noche](https://open.spotify.com/track/4WcRew9JOPLtM6TfOKABKg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:55 | 2022-03-11 | 2022-07-29 |
 | [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 | 2022-06-24 |  |
 | [Himno a los Solitarios](https://open.spotify.com/track/7D4KfqQBGYPRbunFMdxHgZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer \(Deluxe Edition\)](https://open.spotify.com/album/5W9BId7OXCwbjLcOAbRo5T) | 3:52 | 2022-03-11 | 2022-07-29 |
@@ -93,7 +94,7 @@
 | [La Juega](https://open.spotify.com/track/0I0eF8w8KGQNv6GloHx2FK) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Código Fuente](https://open.spotify.com/album/5lXXq90l5EvS2m2Lc7A6vx) | 3:28 | 2022-03-11 | 2022-07-27 |
 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2022-03-11 |  |
 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 | 2022-03-11 | 2022-07-29 |
-| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 |  |
+| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 | 2022-09-26 |
 | [Lenguaje de Mi Piel](https://open.spotify.com/track/2OzYLQAGN7VY1e3HEkvlzU) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Piel de Cobre](https://open.spotify.com/album/4zYOTjZnyKCWLfqi91QbTx) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Lobo Hombre en Paris](https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:47 | 2022-06-24 |  |
 | [Lobo Hombre en París](https://open.spotify.com/track/5b7PX1tG1RQ9msIRtXHalE) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:49 | 2022-03-11 | 2022-07-29 |
@@ -150,7 +151,7 @@
 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 | 2022-06-24 |  |
 | [Salvaje Vagabundo](https://open.spotify.com/track/5eePEucQO2cluD0ToDqnXK) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Salvaje Vagabundo](https://open.spotify.com/album/1HTvnF60Ik9GQXKIQIKJQG) | 3:16 | 2022-03-11 | 2022-07-27 |
 | [Sangre de Prófugo](https://open.spotify.com/track/09avsricP8Wl6MAB8F71vL) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3bBvYcVnGmhsXE3U5cF7gY) | 3:31 | 2022-03-11 | 2022-07-28 |
-| [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 | 2022-06-24 |  |
+| [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 | 2022-06-24 | 2022-09-26 |
 | [Santa Fe](https://open.spotify.com/track/3lIDl1z8S2n0Ga1a6L4vnA) | [Distrito Especial](https://open.spotify.com/artist/2nV0WCZHU0dQpzRersbuo7), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [No Tire Tanta Bala](https://open.spotify.com/album/4Gjx7eC492BS5wKtkLBvVJ) | 2:37 | 2022-03-11 | 2022-07-28 |
 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 | 2022-03-11 | 2022-07-29 |
 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 | 2022-03-11 |  |

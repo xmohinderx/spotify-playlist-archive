@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,638 likes - 112 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,722 likes - 112 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-179 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/7puZyd9Qd5VJbpPXwEk9KN)
+180 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7puZyd9Qd5VJbpPXwEk9KN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,12 +34,13 @@
 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 | 2021-05-15 |  |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/0Xhg05D95egupooxyWYd4f) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos, Vol\. 2](https://open.spotify.com/album/27u9LlecBGDngpTp0SRghR) | 4:59 | 2022-01-12 | 2022-07-29 |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:59 | 2021-05-15 |  |
+| [Concierto de Mariachi \- Morena de Mi Corazon](https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 | 2021-05-15 |  |
 | [Contigo Aprendí](https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:23 | 2021-05-15 |  |
 | [Corazon Partio](https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 4:09 | 2021-05-15 |  |
 | [Corrido De Chihuahua](https://open.spotify.com/track/10K2HaoGv6hmt7bhuHyYHE) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:49 | 2021-05-15 |  |
 | [Corrido De Chihuahua](https://open.spotify.com/track/66ULvaDP1UHux7C6uYHESl) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/0jU75I0W8UhgQJFvVk9cjO) | 2:49 | 2022-01-12 | 2022-07-28 |
 | [Costumbres](https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 4:06 | 2021-05-15 |  |
-| [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 | 2021-05-15 |  |
+| [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 | 2021-05-15 | 2022-09-26 |
 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2022-01-12 | 2022-08-20 |
 | [Cuando Escuches Este Vals](https://open.spotify.com/track/34krpqsN3vglTu5XoDwLax) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Antonio Bribiesca y Su Guitarra Mexicana](https://open.spotify.com/album/0PrKgLLkGWAgYCumkduODV) | 3:34 | 2022-01-12 | 2022-07-29 |
 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 | 2021-05-15 |  |

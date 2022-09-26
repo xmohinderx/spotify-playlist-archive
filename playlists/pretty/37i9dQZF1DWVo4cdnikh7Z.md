@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Naane Varuvean
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,644 likes - 57 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,079 likes - 57 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

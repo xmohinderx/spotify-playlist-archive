@@ -4,7 +4,7 @@
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-101 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/1ITekc4Nu1jto5msNE6Yd5)
+102 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/1ITekc4Nu1jto5msNE6Yd5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Song of the South](https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection](https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T) | 3:10 | 2022-05-06 |  |
 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 | 2022-05-06 |  |
 | [Stand By Your Man](https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 2:39 | 2022-05-06 |  |
+| [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 | 2022-05-06 |  |
 | [Take This Job and Shove It](https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 2:36 | 2022-05-06 |  |
 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 | 2022-05-06 |  |
 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 | 2022-05-06 |  |
@@ -103,7 +104,7 @@
 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 | 2022-05-06 |  |
 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 | 2022-05-06 |  |
 | [Welcome to My World](https://open.spotify.com/track/2kfKzsVOdfeh778FtuT5bo) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/2pU9doTVvJH0xeZQnzvsPU) | 2:22 | 2022-05-06 |  |
-| [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 | 2022-05-06 |  |
+| [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 | 2022-05-06 | 2022-09-26 |
 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 | 2022-05-06 |  |
 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 | 2022-05-06 |  |
 | [Y'all Come Back Saloon](https://open.spotify.com/track/790HdFZdub1eobl2iLzcem) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [You're The One](https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ) | 2:54 | 2022-05-06 |  |

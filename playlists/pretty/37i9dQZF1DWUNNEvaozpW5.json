@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Extremoduro.",
-  "num_followers": 522123,
+  "num_followers": 522212,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMGMxYjlkZTYxNDQzMDQ0MTcyNjQyNTg3OTZlMzUzZDAw",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDdjNTkxZDc1NzZjNTg3MThiZDMxNzFlYzYwY2U2YmIx",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Voy A Pasarmelo Bien",
-        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
+        "name": "Yo, Minor\u00eda Absoluta",
+        "url": "https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
+      "duration_ms": 243320,
+      "name": "La vereda de la puerta de atr\u00e1s",
+      "url": "https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Yo, Minor\u00eda Absoluta",
-        "url": "https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh"
+        "name": "Voy A Pasarmelo Bien",
+        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 243320,
-      "name": "La vereda de la puerta de atr\u00e1s",
-      "url": "https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk"
+      "duration_ms": 235466,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Agila",
+        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Agila",
-        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
-      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 250093,
       "name": "El roce de tu cuerpo",
       "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
+      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Negociando gasolina",
         "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        },
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Historia de una Banda (En Directo)",
         "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/10706ilBOvqVSOAbUoxean"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        },
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Ellos Dicen Mierda",
         "url": "https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 279000,
       "name": "Ellos Dicen Mierda",
       "url": "https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2022-09-22 22:00:00",

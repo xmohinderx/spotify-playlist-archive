@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-268 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+269 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-11-26 |  |
 | [All I Know](https://open.spotify.com/track/6gbcV35Fx1UG74mqXYCloC) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Pantheon](https://open.spotify.com/artist/3JX3pY7okkEyFnbtuELshV), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [All I Know](https://open.spotify.com/album/6CBxsT89sBIpqKbibw9eT3) | 5:14 | 2022-04-04 | 2022-07-15 |
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-11-26 | 2022-08-13 |
+| [All That Glitters](https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI) | [Midnight Sky](https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP) | [Future Disco: Poolside Sounds Vol\. 10](https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6) | 3:48 | 2022-09-02 |  |
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 |  |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-04-04 |  |
 | [Amethyst](https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m) | [Stefanie Raschke](https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7) | [Triation, Vol\. II](https://open.spotify.com/album/3CBYYnnmwIIJmWdPlvzfSy) | 6:24 | 2021-11-26 | 2022-07-23 |
@@ -83,7 +84,7 @@
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-04-04 |  |
 | [Fallin'](https://open.spotify.com/track/5cIDMXMgn3FyZIJEY8soMS) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [Fallin'](https://open.spotify.com/album/3SrDrvbn4r077AJqaJ5kXs) | 3:23 | 2022-02-18 | 2022-04-20 |
 | [Far Behind](https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Far Behind](https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP) | 3:54 | 2022-09-02 |  |
-| [Feels Good](https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt) | [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Feels Good](https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF) | 4:41 | 2021-11-26 |  |
+| [Feels Good](https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt) | [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Feels Good](https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF) | 4:41 | 2021-11-26 | 2022-09-26 |
 | [Fenner \- Bebetta Remix](https://open.spotify.com/track/2AD8gWLE1j0tpt8UJQ6LrC) | [Steve Parry](https://open.spotify.com/artist/594SGKr5D8OPj62X3hauZn), [Bebetta](https://open.spotify.com/artist/1UGUF4voyBXt5wXrLjvS5s) | [Selected Reworks](https://open.spotify.com/album/4nqYX65iOFh1sABLmpMMUh) | 7:36 | 2021-11-26 | 2022-07-14 |
 | [Fir](https://open.spotify.com/track/1EGAeOf7KRUj8VyzDh2TlJ) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Fir](https://open.spotify.com/album/1HsQkcWuDhtL77QDNozm0D) | 4:31 | 2021-11-26 | 2022-07-29 |
 | [Fireblade](https://open.spotify.com/track/4WzBCQDwfaGG1p25ky8xx6) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Henry Saiz](https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W) | [Fireblade](https://open.spotify.com/album/0vJKpqOnajgVSJKrhfzFph) | 10:11 | 2021-11-26 | 2022-04-19 |

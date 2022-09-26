@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 27467,
+  "num_followers": 27582,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDg5MDUwNjdmNGI5N2Q4YzM1MmI5MjI2NWMxOGIwYThj",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDA4MjNkYWY2MDFhNzdiMGVmZTIyZDA3OTZjMzhiNWEy",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -159,26 +159,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 227518,
       "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
       "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -879,6 +879,46 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "No Es Justo",
+      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Cuando Te Bes\u00e9",
+        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 254383,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Asesina (Remix)",
         "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
       },
@@ -911,26 +951,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Cuando Te Bes\u00e9",
-        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 254383,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "No Es Justo",
-      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Rebota",
         "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -1027,18 +1011,34 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Mar De Colores (Versi\u00f3n Extendida)",
-        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm"
       },
       "artists": [
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
         }
       ],
-      "duration_ms": 204666,
-      "name": "La Cintura",
-      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
+      "duration_ms": 179693,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Mala M\u00eda",
+        "url": "https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Mala M\u00eda",
+      "url": "https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh"
     }
   ],
   "unique_name": "Latin Hits 2018",

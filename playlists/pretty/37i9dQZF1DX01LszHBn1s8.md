@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > doing something unholy..\. 😈🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,310 likes - 592 songs - 1 day 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,518 likes - 592 songs - 1 day 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

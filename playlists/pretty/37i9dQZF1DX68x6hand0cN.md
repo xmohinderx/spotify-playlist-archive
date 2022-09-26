@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,874 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,967 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 20 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |
 | 21 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 22 | [Keșke](https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN) | 2:36 |
-| 23 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 |
+| 23 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
 | 24 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 25 | [Non Stop](https://open.spotify.com/track/25ebw2P96Ko23Hadj76hgp) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Door](https://open.spotify.com/album/7aWyb1hPRmwMFnGKhtdIXS) | 2:22 |
 | 26 | [Tropical](https://open.spotify.com/track/3qIxnOusGoTpHvNVMLHscw) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Tropical](https://open.spotify.com/album/5hauZY0ifQpodzn5MNh3vx) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 79 | [Mango \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/2xFfjs4zBBmwX9nsZPkcat) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Mango \(Extrait de la BO de « En Passant Pécho »\)](https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1) | 3:04 |
 | 80 | [Souhila](https://open.spotify.com/track/6RdwpQ01MVtJ10tyJDaxkE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Souhila](https://open.spotify.com/album/6cS3kHSrmFMJFcisWs2lHR) | 2:44 |
 
-Snapshot ID: `MTY2MzkyMTYyOCwwMDAwMDAwMDM0MWNmYWIwODE3NmQ0ZDMyM2FlZjZiNzQ4YWU1M2Q2`
+Snapshot ID: `MTY2MzkyMTYyOCwwMDAwMDAwMGUzMTVkODMwYzg0NDRkNTE4NjIwYzkxODhhYzdkN2Mz`

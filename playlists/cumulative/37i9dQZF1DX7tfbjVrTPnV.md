@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-235 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+236 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Jerusalem](https://open.spotify.com/track/04LpPNq2WuR0mZkHATmxTZ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/0KNl6D74M7TPHxl0hEmIbc) | 3:56 | 2021-11-11 | 2022-07-29 |
 | [Jerusalem](https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs) | 3:56 | 2022-04-22 |  |
 | [Johnson Blvd](https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mountains Of Sorrow, Rivers Of Song \(Deluxe\)](https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx) | 4:15 | 2021-11-11 |  |
-| [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 | 2021-11-11 |  |
+| [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 | 2021-11-11 | 2022-09-26 |
 | [Keep It Clean](https://open.spotify.com/track/1m40egpVSckTffR0Bo3d4U) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folk Singer Vol\. 1](https://open.spotify.com/album/0eeRI8qJNyTX6Z6pof5DyB) | 3:35 | 2021-11-11 | 2022-07-29 |
 | [Keep It Clean](https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folk Singer Vol\. 1](https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq) | 3:35 | 2022-04-22 |  |
 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 | 2021-11-11 |  |
@@ -146,6 +146,7 @@
 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 | 2021-11-11 |  |
 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 | 2021-11-11 |  |
 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 | 2021-11-11 |  |
+| [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 | 2022-09-23 |  |
 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 | 2021-11-11 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 |  |
 | [Night Still Comes](https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 3:47 | 2022-04-22 |  |

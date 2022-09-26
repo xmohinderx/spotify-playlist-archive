@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei.",
-  "num_followers": 1139869,
+  "num_followers": 1139907,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDY2ZDBlMWMwYThhNzBkOGU0YjJiZWEyM2U1ZWZjOWJl",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDMyNmM0M2MwNjJhODllODAyZGQ5NWZhMzk4NTUwNzU4",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1195,18 +1195,26 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+        "name": "Vas a Querer Regresar",
+        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Maxi Tolosa",
+          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
         }
       ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
+      "duration_ms": 199270,
+      "name": "Vas a Querer Regresar",
+      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1247,26 +1255,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Vas a Querer Regresar",
-        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
       "artists": [
         {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Maxi Tolosa",
-          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
         }
       ],
-      "duration_ms": 199270,
-      "name": "Vas a Querer Regresar",
-      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 362946,
+      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Todavia Me Amas / La Novelita / Los Infieles",
         "url": "https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0"
       },
@@ -1483,6 +1499,22 @@
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1507,54 +1539,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
         }
       ],
-      "duration_ms": 362946,
-      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Sigue Bailando",
-        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 159980,
-      "name": "Sigue Bailando",
-      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE"
-      },
-      "artists": [
-        {
-          "name": "Megapuesta",
-          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1575,18 +1571,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE"
       },
       "artists": [
         {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+          "name": "Megapuesta",
+          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
+      "duration_ms": 182952,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1623,22 +1619,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 494464,
-      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Por Eso Canto para Bailar",
         "url": "https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA"
       },
@@ -1659,6 +1639,42 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Sigue Bailando",
+        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 159980,
+      "name": "Sigue Bailando",
+      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 494464,
+      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
         "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
       },
@@ -1675,38 +1691,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n para una Amiga",
-        "url": "https://open.spotify.com/album/57hV017eOcP3SjmsZCyl46"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 132936,
-      "name": "Canci\u00f3n para una Amiga",
-      "url": "https://open.spotify.com/track/1VTg97n1ntojItZCkm9KEO"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Una Cerveza (Versi\u00f3n 2018)",
         "url": "https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 238173,
       "name": "Una Cerveza - Versi\u00f3n 2018",
       "url": "https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 126615,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Ponte Pa' Mix",
-        "url": "https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU"
+        "name": "Hoy Te Vi",
+        "url": "https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d"
       },
       "artists": [
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 185118,
-      "name": "Ponte Pa' Mix",
-      "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
+      "duration_ms": 214514,
+      "name": "Hoy Te Vi - Remasterizado 2019",
+      "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Hoy Te Vi",
-        "url": "https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d"
+        "name": "Ponte Pa' Mix",
+        "url": "https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
         }
       ],
-      "duration_ms": 214514,
-      "name": "Hoy Te Vi - Remasterizado 2019",
-      "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
+      "duration_ms": 185118,
+      "name": "Ponte Pa' Mix",
+      "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
     },
     {
       "added_at": "2022-09-23 03:00:00",

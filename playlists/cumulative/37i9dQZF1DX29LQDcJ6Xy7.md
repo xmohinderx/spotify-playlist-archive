@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-168 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+169 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Switch Me On](https://open.spotify.com/track/0zMXMRSvsp1rUR6b2OQzM8) | [DK\-Zero](https://open.spotify.com/artist/4cLLqaNLRraPsftkZ8FhjV) | [Switch Me On](https://open.spotify.com/album/72E6OfSpNvTkNdqHJ90wgF) | 3:23 | 2022-07-01 | 2022-07-28 |
 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 | 2022-07-01 |  |
 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 | 2022-07-01 | 2022-07-29 |
-| [Terrible Lie](https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:38 | 2022-09-16 |  |
+| [Terrible Lie](https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:38 | 2022-09-16 | 2022-09-26 |
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2022-07-01 |  |
 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 | 2022-07-01 |  |
 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 | 2022-07-01 | 2022-07-29 |
@@ -175,6 +175,7 @@
 | [Void \(Single Edit\)](https://open.spotify.com/track/3ZJksw8qj1f0beS3RHm8I3) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Void](https://open.spotify.com/album/2HaACELASgZjZ7ZopojIMl) | 2:55 | 2022-07-01 | 2022-07-29 |
 | [WDYT](https://open.spotify.com/track/3Ka3b6jgY9XH6SrcUzOCjn) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [WDYT](https://open.spotify.com/album/56YLXWml8fCbCG65Za9VOC) | 3:40 | 2022-07-01 | 2022-07-29 |
 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 | 2022-08-12 |  |
+| [Wish](https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 3:46 | 2022-09-16 |  |
 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 | 2022-07-01 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

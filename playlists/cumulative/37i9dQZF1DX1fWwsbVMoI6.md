@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Puro Sentimiento
 
-106 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
+107 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amor Incomparable](https://open.spotify.com/track/2rDl3wOeXZF6upPLD94Ah9) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Grupo Guinda](https://open.spotify.com/album/7vGzZqzcIjxEvJgF6T53K1) | 3:12 | 2022-02-11 | 2022-07-29 |
 | [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 | 2022-02-11 |  |
 | [Amor Prohibido](https://open.spotify.com/track/2SOWAjUzwv0xbSaMx7j522) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol\. 11: Amor Prohibido](https://open.spotify.com/album/39Mr4G9fWujU9CIlMoPlPW) | 3:33 | 2022-02-11 | 2022-07-28 |
-| [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 | 2022-08-05 |  |
+| [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 | 2022-08-05 | 2022-09-26 |
 | [Antahuara](https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Los Éxitos del Grupo Maravilla](https://open.spotify.com/album/1mu9n0cqtB9vDRg2vOqpyl) | 3:58 | 2022-02-11 | 2022-07-15 |
 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 | 2022-02-11 | 2022-07-29 |
 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 | 2022-02-11 | 2022-07-25 |
@@ -77,6 +77,7 @@
 | [No se puede amar a dos](https://open.spotify.com/track/5d0s5Tb6xNDyXSnVuS0Isv) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbias de Oro Vol\. 2](https://open.spotify.com/album/5SPbW2Q9beZM1TzPUE5OdV) | 4:47 | 2022-02-11 | 2022-07-29 |
 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 | 2022-02-11 |  |
 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 | 2022-02-11 |  |
+| [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 | 2022-08-05 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/2Kd45irIJVHP2F5zrb8c66) | 4:08 | 2022-02-11 | 2022-09-03 |
 | [Pecadora 2020 \- Versión Cumbia](https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Johnny Orosco](https://open.spotify.com/artist/4ghTBFu8toXHUUVNtLILX0), [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Pecadora 2020 \(Versión Cumbia\)](https://open.spotify.com/album/7GIrQUCOrL7BKz2StdGcRc) | 3:39 | 2022-02-11 | 2022-07-29 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 | 2022-02-11 | 2022-07-28 |

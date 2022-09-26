@@ -630,6 +630,24 @@
     },
     {
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241852,
+      "name": "Ana Negm",
+      "url": "https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 206714,
       "name": "Betadeen",
       "url": "https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE"
@@ -3646,6 +3664,24 @@
     },
     {
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244729,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/1GKqff6G0zabRInKN9Vz1S"
+    },
+    {
+      "album": {
         "name": "James Dean",
         "url": "https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD"
       },
@@ -3657,7 +3693,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 244729,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M"
@@ -6423,10 +6459,28 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 175840,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo"
+    },
+    {
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177281,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO"
     },
     {
       "album": {
@@ -6651,7 +6705,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
@@ -7759,7 +7813,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 253908,
       "name": "Ya Salam - Remix",
       "url": "https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP"
@@ -7839,6 +7893,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210155,
+      "name": "Zaman El Kalam",
+      "url": "https://open.spotify.com/track/3foAgkfOvNK13ZImQWdGwp"
     },
     {
       "album": {
@@ -8733,7 +8805,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 141887,
       "name": "\u0633\u062a\u0648 \u0623\u0646\u0627",
       "url": "https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT"

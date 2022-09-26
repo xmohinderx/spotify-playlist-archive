@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Philippines](https://open.spotify.com/playlist/37i9dQZF1DX4pM2KqKhsLT)
 
-> Exciting podcasters on the RADAR: The Week Sauce, Wisdom Bars with Real Talk Darbs, and The Linya\-Linya Show! \#PinoyPride
+> Exciting podcasters on the RADAR: The Linya\-Linya Show, The Week Sauce, and Wisdom Bars with Real Talk Darbs! \#PinoyPride
 
 0 song - 0 sec - [published](https://open.spotify.com/playlist/1T7qZ5pj3R8jW35xjgTaaX)
 

@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-263 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
+264 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Moving Boxes](https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 | 2020-11-20 |  |
 | [Moving Boxes](https://open.spotify.com/track/7lSqt09mk5hlzVWLzYIuWI) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/07aGx2IErugtk4d7clL03j) | 3:15 | 2020-11-20 | 2022-07-29 |
 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 | 2020-11-20 |  |
-| [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2021-07-08 |  |
+| [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2021-07-08 | 2022-09-26 |
 | [Never Coming Home](https://open.spotify.com/track/0TVqltg5lxOhLpeImpaAYH) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/47z6lzRf8ka60nxT2TiCrE) | 3:16 | 2020-11-20 | 2022-07-29 |
 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 | 2020-11-20 |  |
 | [Never Enough \(feat\. Benji Madden\)](https://open.spotify.com/track/0Z7QYJM8gByo9IW7HKmraA) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Benji Madden](https://open.spotify.com/artist/6l5sHFQQoaknd4dEepYQgJ) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:41 | 2020-11-20 | 2022-06-10 |
@@ -253,6 +253,7 @@
 | [Tough Luck](https://open.spotify.com/track/4X1Tj3Y41B9HR4VANUBWyC) | [FELICITY](https://open.spotify.com/artist/2aqSgJBj7gtdClLx6SQ1mK) | [Old Habits](https://open.spotify.com/album/2CNXl541z0rKCB9WqPTkQ5) | 3:39 | 2020-11-20 | 2022-06-19 |
 | [Tune You Out](https://open.spotify.com/track/28VxaqLBkdHe4wlJczoSDT) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Tune You Out](https://open.spotify.com/album/1lFHC12npAlZb5agVqp57z) | 2:58 | 2020-11-20 | 2022-07-29 |
 | [Underground](https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Underground](https://open.spotify.com/album/5odlFX6q0PglF7dGhsLzkf) | 2:59 | 2020-11-20 | 2022-07-28 |
+| [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 | 2020-11-20 |  |
 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 | 2020-11-20 | 2022-07-29 |
 | [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 | 2020-11-20 | 2022-09-05 |
 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 | 2020-11-20 | 2022-07-29 |

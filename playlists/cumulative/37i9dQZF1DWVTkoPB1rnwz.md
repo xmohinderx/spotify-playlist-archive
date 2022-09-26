@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-240 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+241 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2022-07-25 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
 | [Glass Ripples](https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6) | [Himalayan Beach Ensemble](https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o) | [Glass Ripples](https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT) | 2:29 | 2022-01-07 | 2022-07-29 |
-| [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 | 2022-08-19 |  |
+| [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 | 2022-08-19 | 2022-09-26 |
 | [gorge](https://open.spotify.com/track/1DryFlz9GE3GM1FneruABy) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [gorge](https://open.spotify.com/album/5q4UKuEjVFpzZZhGuPWQQ2) | 3:01 | 2021-10-16 | 2022-07-29 |
 | [Gorge](https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gorge](https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr) | 3:01 | 2021-10-16 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-16 | 2022-06-29 |
@@ -114,7 +114,7 @@
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-16 |  |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-16 | 2022-07-29 |
 | [Key Biscayne](https://open.spotify.com/track/13BzLaprFANuAWHvsjJUHO) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Key Biscayne](https://open.spotify.com/album/1heNLAFADQlacIrKljVI2w) | 5:15 | 2021-10-16 | 2022-07-29 |
-| [Key Biscayne](https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Sunday Painter](https://open.spotify.com/album/1ktavSWpvxxD4w7QmBxSww) | 5:15 | 2021-10-16 | 2022-08-17 |
+| [Key Biscayne](https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Sunday Painter](https://open.spotify.com/album/1ktavSWpvxxD4w7QmBxSww) | 5:15 | 2021-10-16 |  |
 | [Kombucha](https://open.spotify.com/track/0DdKTv7NiZ4DWV99zoNv6A) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/27cW4XLj3mNWOb5VOv8k79) | 1:23 | 2021-10-16 |  |
 | [Kombucha](https://open.spotify.com/track/3MCvwmA6zeYml0q7kQLgLu) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:23 | 2021-10-16 | 2022-07-29 |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
@@ -152,7 +152,7 @@
 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2022-07-29 |
 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 | 2021-10-16 |  |
-| [Passages](https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/2RIolYrKkkc3ZEGHSwUSCV) | 2:26 | 2021-10-16 |  |
+| [Passages](https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/2RIolYrKkkc3ZEGHSwUSCV) | 2:26 | 2021-10-16 | 2022-09-26 |
 | [Passages](https://open.spotify.com/track/1GrJr1EYlUcB0dP8NTSbtT) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Passages](https://open.spotify.com/album/5hUHOgvbMrKcfaNs9pNRPL) | 2:26 | 2021-10-16 | 2022-07-13 |
 | [People On Sunday](https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People on Sunday](https://open.spotify.com/album/5ia6LeaizcrUEwWs9koCcL) | 3:45 | 2021-10-16 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-10-16 |  |
@@ -165,6 +165,7 @@
 | [Prelude To A Desaster](https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Prelude To A Desaster](https://open.spotify.com/album/4IkGXYQjErxs4C4XN5Yxdq) | 2:50 | 2022-04-23 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
+| [Rainy Forest](https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj) | 2:00 | 2021-10-16 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-16 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/3nWeRDTscrrz33s4Ruu7uM) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/5kzIE3Vhr8FZjaQHIBjEng) | 4:27 | 2021-10-16 | 2022-07-29 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-16 | 2022-07-27 |

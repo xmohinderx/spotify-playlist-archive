@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BLACKPINK
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: IVE
 
 366 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
@@ -152,7 +152,7 @@
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 | 2022-08-09 |
 | [Hush Hush \- Korean Version](https://open.spotify.com/track/7ys6BVqLd76ztQvc4Qan0L) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Rookie Cops \(Original Television Soundtrack\) Special](https://open.spotify.com/album/1NJCW55EE56cOKkDA5RI49) | 3:01 | 2022-03-10 | 2022-05-11 |
 | [I CAN'T STOP ME \- Japanese ver.](https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:29 | 2022-03-15 | 2022-05-18 |
-| [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-09 |  |
+| [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-09 | 2022-09-26 |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 | 2022-08-31 |
 | [I LOVE U](https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/7GzeKow6a3UwRNvJESxl3m) | 2:56 | 2022-07-05 | 2022-07-29 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-06-29 |

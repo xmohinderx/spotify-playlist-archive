@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 39476,
+  "num_followers": 39516,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDNkOWUwYjQzY2UzYzIxMWZmMzdkMjEzYmI0MmRkOWRk",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGI1MGMwYjYyMmI0OGEyYTc4OGUyZmNiOWUyMjRkNjQy",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "HeadBoppin (with bonus track)",
-        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
-      },
-      "artists": [
-        {
-          "name": "Shilts",
-          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "110 Degrees and Rising",
+        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Toney",
+          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Just Like The First Time",
+      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -615,34 +631,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+        "name": "HeadBoppin (with bonus track)",
+        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Shilts",
+          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
         }
       ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "110 Degrees and Rising",
-        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Toney",
-          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Just Like The First Time",
-      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+      "duration_ms": 248733,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "4 On The Floor",
-      "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 327973,
       "name": "Bumpin' on the Wes Side",
       "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "4 On The Floor",
+      "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
     },
     {
       "added_at": "2020-08-19 19:15:51",

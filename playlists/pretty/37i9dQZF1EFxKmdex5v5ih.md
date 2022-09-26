@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467 likes - 172 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 172 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 96 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
 | 97 | [Jewel \(feat\. Nikki Vianna\)](https://open.spotify.com/track/1YL4frxSZ1NeSLafqIwmWZ) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Nikki Vianna](https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 2:58 |
 | 98 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
-| 99 | [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 |
-| 100 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 99 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 100 | [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 |
 | 101 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
 | 102 | [My Own Hero](https://open.spotify.com/track/0KednpCIKKLMC17fcW80cN) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:29 |
 | 103 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 143 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 |
 | 144 | [Hopeful](https://open.spotify.com/track/5NYoDiS8tn1pJgZ7z6r6vE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:18 |
 | 145 | [You Don't Know Me \- Sidekick Remix](https://open.spotify.com/track/2ccYBt0ueoDgsechbxOxAp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Sidekick](https://open.spotify.com/artist/1t3FcaCHl6XU3kkZbF1L3R) | [TREAT MYSELF \(Remixes\)](https://open.spotify.com/album/3rVTt0GeBwr0JRLTxzX1no) | 3:24 |
-| 146 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 |
-| 147 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 146 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 147 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 |
 | 148 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 |
 | 149 | [No Love Songs](https://open.spotify.com/track/0OI0XaMptcfdrGBWhZCTvW) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:08 |
 | 150 | [I Don't Think About You \- Luca Schreiner Remix](https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [I Don't Think About You \(Remixes\)](https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW) | 3:44 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 158 | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/track/1rhsSBqFquASX0hyihA2K2) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/album/5mZ4QIoN4l2i1lYfKImgUx) | 2:39 |
 | 159 | [the chase](https://open.spotify.com/track/7fmVgRV5pOAswl7HC2Z6P4) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:13 |
 | 160 | [Any Day Now](https://open.spotify.com/track/3yl7YwoNy3hzbjQV4Ae4xO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Any Day Now](https://open.spotify.com/album/4yp9MilA3JmnynGkK33EZw) | 3:13 |
-| 161 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
-| 162 | [I Don't Love You Like I Used To](https://open.spotify.com/track/5TOUVsGgdv3MBkfey1QcE3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:13 |
+| 161 | [I Don't Love You Like I Used To](https://open.spotify.com/track/5TOUVsGgdv3MBkfey1QcE3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:13 |
+| 162 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
 | 163 | [All That Love](https://open.spotify.com/track/5rnGF6xiFwbXSL6IEELei8) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [All That Love \- SM STATION](https://open.spotify.com/album/4OJCJDqVmugtPC6iHCsdOZ) | 3:13 |
 | 164 | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl) | 3:06 |
 | 165 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 171 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 | 172 | [Wild Dreams](https://open.spotify.com/track/5aRR8YJ6Q7Y7DhurrzgbDY) | [Jay John](https://open.spotify.com/artist/0J1W4llL0TJLG48XsJUSgC) | [Understand Me](https://open.spotify.com/album/0uvBj08KCEjIcXP9aHuDWN) | 3:25 |
 
-Snapshot ID: `Mjc3MzQ0NjgsMDAwMDAwMDAxYWVhNGZkNjQzMWExZGU5OGQ5ZGJiNDMwMDNjN2JmMQ==`
+Snapshot ID: `Mjc3MzU5NjgsMDAwMDAwMDAwNWI3N2ViNThlZTUyYjFlZjdhMDBjMDc4N2FiYTk1MA==`

@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Ashley Cooke
 
-287 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
+288 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boys and Girls](https://open.spotify.com/track/6MNC6shWy6gJPtQxPa7fdY) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Feels Like This](https://open.spotify.com/album/0XQX8svQeK9zt85vjPx8VR) | 3:10 | 2022-03-02 | 2022-04-20 |
 | [Break My Heart](https://open.spotify.com/track/3OLjsUcHEN3LseRaqiYxoD) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Break My Heart](https://open.spotify.com/album/1Gz1G8IgDgJK5M5PAmb6K7) | 3:17 | 2022-03-25 | 2022-04-21 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-03-01 | 2022-07-29 |
+| [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-09-23 |  |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2021-12-01 |  |
 | [Butterflies](https://open.spotify.com/track/2YWk92sHwPWcQAUZSZRl61) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Butterflies](https://open.spotify.com/album/5najMRHbojeAEDnil8C52o) | 3:39 | 2021-12-01 | 2022-04-21 |
 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 | 2022-03-25 |  |
@@ -248,7 +249,7 @@
 | [The Woman I've Become](https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:20 | 2021-12-01 | 2022-07-29 |
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-01 | 2022-08-05 |
 | [There Is No Arizona](https://open.spotify.com/track/7Hgcw6qYU1ukRdRGvEkJk3) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Shiver](https://open.spotify.com/album/3Uzu7TMSJiHQNqkIEYFMjb) | 3:56 | 2021-12-01 | 2022-07-01 |
-| [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 | 2021-12-01 |  |
+| [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 | 2021-12-01 | 2022-09-26 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2022-07-22 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 | 2021-12-01 | 2022-07-29 |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-01 | 2022-07-04 |

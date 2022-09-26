@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,077 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,160 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 10 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 |
 | 11 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 |
 | 12 | [Catfish Blues \- Live](https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 8:00 |
-| 13 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
-| 14 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
+| 13 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
+| 14 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
 | 15 | [Baby, Please Don't Go](https://open.spotify.com/track/1jyznfH2Lp3TrIHx5cFQwv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | ['74 Jailbreak](https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y) | 5:00 |
 | 16 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 17 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:19 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 25 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
 | 26 | [Sweet Home Chicago](https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:16 |
 | 27 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
-| 28 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 |
-| 29 | [Worried Life Blues](https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 2:55 |
+| 28 | [Worried Life Blues](https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 2:55 |
+| 29 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 |
 | 30 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
 | 31 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
 | 32 | [It Hurts Me Too](https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Nicky Hopkins](https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Jamming With Edward](https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO) | 5:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 47 | [Worried Life Blues](https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 2:52 |
 | 48 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
 | 49 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
-| 50 | [Kansas City](https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:31 |
+| 50 | [Stack\-O\-Lee](https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:56 |
 
-Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDVkNjczMDk1MDE4YjliYjhlYWI4YWRkNmE4ZjVlMDhh`
+Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDc5MDY1MmZmZmQ5OWIzYTJhNzMzNzk1YTY4NDdjMTgx`

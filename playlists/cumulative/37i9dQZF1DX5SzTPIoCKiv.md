@@ -4,7 +4,7 @@
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-215 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
+216 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 | 2021-10-15 | 2022-07-24 |
 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 | 2021-10-15 |  |
 | [Defender](https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Own It](https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0) | 7:04 | 2021-10-15 |  |
+| [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 | 2021-10-15 |  |
 | [Different](https://open.spotify.com/track/3wfoaC3ApX2Yf30b7Q7P2q) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE) | 3:17 | 2021-10-15 | 2022-08-15 |
 | [Do For Love](https://open.spotify.com/track/4ecGGCNfUtlOKLYGcxrsUp) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Do For Love](https://open.spotify.com/album/1u1h9JWh54EnDNoZkMlNDn) | 3:37 | 2021-10-15 | 2022-07-20 |
 | [Don't Quit](https://open.spotify.com/track/7Astyw7Pvb7a7VgmtZM25Y) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Don't Quit](https://open.spotify.com/album/3N6aAb9jiFxqb1xDevsLdS) | 4:44 | 2021-10-15 | 2022-07-28 |
@@ -222,6 +223,6 @@
 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 | 2021-10-15 | 2022-09-20 |
 | [You've Always Been](https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 | 2021-10-15 |  |
-| [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2021-10-15 |  |
+| [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2021-10-15 | 2022-09-26 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-307 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+308 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-06 | 2022-07-29 |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 |  |
 | [Picnic In The Rain](https://open.spotify.com/track/3FenxrOYkVI0qlQuW0AWyz) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Picnic In The Rain](https://open.spotify.com/album/4v5lvDQMTrgTbbaYvCw0TF) | 3:15 | 2022-07-06 | 2022-07-29 |
+| [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 | 2022-07-06 |  |
 | [Pixel Affection](https://open.spotify.com/track/46IEYjzyS37lltLLCDJbC0) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Pixel Affection](https://open.spotify.com/album/6293U8X30osYTMXgFpVnub) | 3:39 | 2019-11-19\* | 2020-12-22 |
 | [Plum](https://open.spotify.com/track/04DdNbTmZAgHfNP6FdY3Sa) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/5qB5eP8fWoFrKk6qxyazUJ) | 4:24 | 2020-08-09 | 2022-07-29 |
 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 | 2022-07-06 |  |
@@ -244,7 +245,7 @@
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
 | [Snow Globe](https://open.spotify.com/track/2XRT5pPoxTdudrcqfxHSvK) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/2JPbwAK27FVJmNYHiCB0lS) | 5:23 | 2019-11-19\* | 2021-03-06 |
-| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 |  |
+| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 | 2022-09-26 |
 | [So You're Young](https://open.spotify.com/track/4Em5Dsf7FZheKNUuBvujzf) | [Mike Edge](https://open.spotify.com/artist/4Em1Ttxf3w2t0QtKYtYImx) | [So You're Young](https://open.spotify.com/album/0A0k4R7nJELE6lClsJBv4g) | 3:08 | 2019-11-19\* | 2020-08-09 |
 | [Somebody Else](https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X) | 5:31 | 2020-08-09 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF) | 5:31 | 2022-07-06 |  |

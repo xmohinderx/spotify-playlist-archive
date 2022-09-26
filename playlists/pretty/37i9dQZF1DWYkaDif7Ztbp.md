@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=vq7JM\_g7TVioQtm4ZfLE5Q"> CKay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,657 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,484 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 43 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
 | 44 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 |
 | 45 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
-| 46 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 |
+| 46 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
 | 47 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 | 48 | [Inhliziyo \(feat\. Nkosazana Daughter, Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/track/1NjWiElrN3etvPvkmDdinn) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Inhliziyo \(feat\. Nkosazana Daughter, Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/album/7sTxwHX5ermIv5Wfy2HGnv) | 6:17 |
 | 49 | [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 |
 | 50 | [Big Thug Boys](https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Big Thug Boys](https://open.spotify.com/album/79PtaeN11NuACxUaeipBom) | 2:51 |
 
-Snapshot ID: `MTY2Mzg5MzEwNywwMDAwMDAwMDE0NjRhYTQ2NDQzNDcyYjBjMWQzYjJkNDg1ZDIwNTky`
+Snapshot ID: `MTY2Mzg5MzEwNywwMDAwMDAwMDhkNGE5N2ViOWIwYWNlZjY1OTUwN2UzMWYxZmY4Y2Zi`

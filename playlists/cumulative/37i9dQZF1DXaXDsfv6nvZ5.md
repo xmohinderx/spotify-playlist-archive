@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-123 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+124 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2021-12-03 | 2021-12-31 |
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2022-03-11 | 2022-09-10 |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 |  |
+| [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 |  |
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2022-09-19 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 |  |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |
@@ -126,7 +127,7 @@
 | [Visions](https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 5:23 | 2022-03-11 | 2022-09-17 |
 | [Wake Up \(feat\. Sa\-Roc\)](https://open.spotify.com/track/2YjUR0XRhaLa080fcd5r5t) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg) | [Wake Up \(feat\. Sa\-Roc\)](https://open.spotify.com/album/21gFrBvha5DfY41rFYRFoQ) | 5:04 | 2021-12-03 | 2022-06-17 |
 | [Wake Up Everybody \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Wake Up Everybody \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL) | 3:47 | 2021-12-03 | 2022-07-29 |
-| [What a Fool Believes \(with Michael McDonald\) \- Live](https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Outside: From The Redwoods](https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz) | 4:12 | 2022-03-11 |  |
+| [What a Fool Believes \(with Michael McDonald\) \- Live](https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Outside: From The Redwoods](https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz) | 4:12 | 2022-03-11 | 2022-09-26 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 |  |
 | [With You](https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:09 | 2021-12-03 |  |

@@ -606,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
+      },
+      "artists": [
+        {
+          "name": "Kolohe Kai",
+          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Catching Lightning",
+      "url": "https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB"
+    },
+    {
+      "album": {
         "name": "Closer To The Sun",
         "url": "https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b"
       },
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"

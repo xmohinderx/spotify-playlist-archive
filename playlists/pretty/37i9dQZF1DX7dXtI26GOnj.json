@@ -1,12 +1,12 @@
 {
   "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25  Foto: Camilo",
-  "num_followers": 95743,
+  "num_followers": 95805,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MTQ4MiwwMDAwMDAwMGM4NzAxMDdkYmNmNDAxNzY5NTQwNTBlZjYzNGE1MGUy",
+  "snapshot_id": "MTY2Mzk0MTQ4MiwwMDAwMDAwMGUyMDliOWRhMjhkY2Q0Y2ZlY2EwZmVlMGYzYjMyMTkz",
   "tracks": [
     {
       "added_at": "2022-09-23 13:58:02",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -575,22 +575,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "El Que Espera",
-        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 170396,
-      "name": "El Que Espera",
-      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -615,22 +615,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+        "name": "El Que Espera",
+        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 234706,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+      "duration_ms": 170396,
+      "name": "El Que Espera",
+      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -715,22 +735,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -775,26 +779,18 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -815,6 +811,30 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -863,6 +883,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 120991,
+      "name": "CHIRI",
+      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -879,22 +915,6 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 120991,
-      "name": "CHIRI",
-      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -923,22 +943,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Nathy Peluso",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 197647,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -959,26 +979,6 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Nathy Peluso",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "Mal Acostumbrao (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 190405,
-      "name": "Mal Acostumbrao - con Maria Becerra",
-      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1063,22 +1063,58 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+        "name": "Mal Acostumbrao (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+      "duration_ms": 190405,
+      "name": "Mal Acostumbrao - con Maria Becerra",
+      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Nobody Like Yo",
+        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Nobody Like Yo",
+      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1111,26 +1147,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "Reggaetonea",
         "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 182000,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Nobody Like Yo",
-        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nobody Like Yo",
-      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "Naturaleza",
-        "url": "https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Naturaleza",
-      "url": "https://open.spotify.com/track/4Au8XE7B4fdG5LieLLTdP4"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "Apretaito",
         "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 199627,
       "name": "Apretaito",
       "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1323,46 +1323,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "D\u00e9jame Revisarte el Celular 2",
-        "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Laien",
-          "url": "https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg"
-        },
-        {
-          "name": "Los del fino",
-          "url": "https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw"
-        }
-      ],
-      "duration_ms": 158119,
-      "name": "D\u00e9jame Revisarte el Celular 2",
-      "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1379,6 +1339,26 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "D\u00e9jame Revisarte el Celular 2",
+        "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Laien",
+          "url": "https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg"
+        },
+        {
+          "name": "Los del fino",
+          "url": "https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw"
+        }
+      ],
+      "duration_ms": 158119,
+      "name": "D\u00e9jame Revisarte el Celular 2",
+      "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
+        "name": "Naturaleza",
+        "url": "https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Naturaleza",
+      "url": "https://open.spotify.com/track/4Au8XE7B4fdG5LieLLTdP4"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Ojos Rojos",
-        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 152110,
-      "name": "Ojos Rojos",
-      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1503,6 +1487,22 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Ojos Rojos",
+        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 152110,
+      "name": "Ojos Rojos",
+      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
     },
     {
       "added_at": "2022-09-23 13:58:02",

@@ -4,7 +4,7 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-350 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+351 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Hurt By You](https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Hurt By You](https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05) | 3:50 | 2020-04-18 | 2022-04-21 |
 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 | 2019-07-29\* | 2021-03-23 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-16 |  |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2021-10-30 | 2022-04-20 |
 | [I Found Out](https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:53 | 2019-08-20 | 2022-05-22 |
 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 | 2022-07-18 |  |
@@ -334,7 +335,7 @@
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2019-10-25 | 2022-06-28 |
 | [What If I](https://open.spotify.com/track/4WseJ30wu5uelTqxvAK9oy) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [What If I](https://open.spotify.com/album/61XRiZkqYuCg6wWGdo32nn) | 3:34 | 2021-10-16 | 2022-07-29 |
 | [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2019-10-25 | 2021-03-22 |
-| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2022-07-18 |  |
+| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2022-07-18 | 2022-09-26 |
 | [When They Fight, They Fight](https://open.spotify.com/track/37r6i0GTqgR05rGe5wNhmp) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6mES0vIWVEiegixo1F9L0a) | 3:20 | 2021-02-26 | 2022-04-17 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-14 | 2022-07-29 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-07-18 |  |

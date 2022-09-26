@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,391 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,462 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 48 | [La Bella Mafia](https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [La Bella Mafia](https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP) | 4:00 |
 | 49 | [Conto](https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Conto](https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi) | 3:22 |
 | 50 | [Lucy Lucy](https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:13 |
-| 51 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
-| 52 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
+| 51 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
+| 52 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
 | 53 | [Tu Não Sabes](https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Tu Não Sabes](https://open.spotify.com/album/3wcBnAfGTwOUbhOI4YTdlG) | 4:11 |
-| 54 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
+| 54 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 | 55 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
 | 56 | [1100 Cegonhas](https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [1100 Cegonhas](https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy) | 3:55 |
 | 57 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 60 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMGQ1ZDk2Yjg0ZmU5NTgzNzk1NDY0NzE4MjlkZTBhNGJi`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMGUzODI0MTQyNTRmYThjYTlkNTcwOGNkOTQyYmViYTBk`

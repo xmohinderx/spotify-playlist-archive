@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1333381,
+  "num_followers": 1333359,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDA2NGQ3Zjk4NzBkZjhkOGEyMGYzODkwYzMzNDE5NjM1",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDVlOTJkNzVmMTYwYWNiMTJmZmUwOTAzMzk2NzFjNjZi",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/66nJBHV6WtQI3IiU6n8fY5"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/66nJBHV6WtQI3IiU6n8fY5"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Slow Tide",
         "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191916,
       "name": "Now You Don't",
       "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Lice",
         "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 205176,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Build A Problem",
-        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+        "name": "Build A Problem",
+        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -859,6 +859,22 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -923,22 +939,6 @@
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 319213,
-      "name": "Rest (Acoustic)",
-      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 229133,
       "name": "symbol",
       "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 319213,
+      "name": "Rest (Acoustic)",
+      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1071,38 +1071,6 @@
       "duration_ms": 125408,
       "name": "Woodpecker",
       "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 331173,
-      "name": "I Will Be Blessed",
-      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Splintered",
-      "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1143,6 +1111,38 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 331173,
+      "name": "I Will Be Blessed",
+      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Splintered",
+      "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+        "name": "Back to Love",
+        "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
         }
       ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
+      "duration_ms": 231120,
+      "name": "Back to Love",
+      "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Back to Love",
-        "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 231120,
-      "name": "Back to Love",
-      "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "Little More Time",
-      "url": "https://open.spotify.com/track/44yqXBoQ7KV3jZdvGUiAex"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234546,
       "name": "Bare",
       "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Little More Time",
+      "url": "https://open.spotify.com/track/44yqXBoQ7KV3jZdvGUiAex"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Cormorant Bird",
-        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 207441,
-      "name": "Cormorant Bird",
-      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -1451,6 +1419,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Cormorant Bird",
+        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 207441,
+      "name": "Cormorant Bird",
+      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gems and Bones",
-        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
       "artists": [
         {
-          "name": "The Woodlands",
-          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Long Lost Century",
-      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1499,22 +1483,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/1DFWuEhj6xlfeaprFOv3yY"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Trainsong",
-      "url": "https://open.spotify.com/track/338sd5AVTuHZLGzIzJY36Q"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Sub Rosa",
         "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
       },
@@ -1527,6 +1495,22 @@
       "duration_ms": 244570,
       "name": "Should I",
       "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gems and Bones",
+        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
+      },
+      "artists": [
+        {
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Long Lost Century",
+      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1547,6 +1531,22 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/1DFWuEhj6xlfeaprFOv3yY"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Trainsong",
+      "url": "https://open.spotify.com/track/338sd5AVTuHZLGzIzJY36Q"
     },
     {
       "added_at": "2022-04-15 16:56:49",

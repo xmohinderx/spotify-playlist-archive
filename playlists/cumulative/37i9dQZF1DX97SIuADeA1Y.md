@@ -4,7 +4,7 @@
 
 > When the bassline slaps.
 
-194 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/23LmxEelz4EGFpmadTKqNt)
+195 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/23LmxEelz4EGFpmadTKqNt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [EAT MY BRAIN](https://open.spotify.com/track/6uN2YTWoQjzuRcVaaSrlXp) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EAT MY BRAIN](https://open.spotify.com/album/37UKJuQpCGgqtYMdM61TaA) | 2:56 | 2022-01-17 | 2022-05-18 |
 | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/track/5UEsKg7v5m0l0e37q7CTYj) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nethy Aber](https://open.spotify.com/artist/4tqEIuplzwTXtKp9jnvZ3O) | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/album/3YnETFpf0RXW2O7OTA7Y3z) | 2:37 | 2022-01-31 | 2022-07-22 |
 | [Enough Of You](https://open.spotify.com/track/0mDINHqydpdNSyPKPCxB7z) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Enough Of You](https://open.spotify.com/album/3VTbSW7HLWr6WCwEHphVCZ) | 2:26 | 2022-01-17 | 2022-02-05 |
+| [Everybody Cries](https://open.spotify.com/track/2522T0x7yLWMwA5Uw0s2A7) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/6Mhb8yybeWrddHI0fLPhky) | 2:50 | 2022-08-26 |  |
 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 | 2022-01-17 | 2022-07-29 |
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-01-17 | 2022-09-06 |
 | [Faded](https://open.spotify.com/track/6ioF5JQREw0LPPTW9czakA) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Faded](https://open.spotify.com/album/3xe7lH5Rau8yjs0qGEG8Wy) | 2:31 | 2022-01-17 | 2022-04-29 |
@@ -193,7 +194,7 @@
 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 | 2022-01-17 |  |
 | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt) | 2:59 | 2022-05-13 |  |
 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 | 2022-01-17 | 2022-07-29 |
-| [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 | 2022-06-24 |  |
+| [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 | 2022-06-24 | 2022-09-26 |
 | [Won't Run Away](https://open.spotify.com/track/4cBTymbUfM3Tle5Sk4P8lt) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Won't Run Away](https://open.spotify.com/album/72D9AM7V3ctFQDwNsBkMVj) | 2:40 | 2022-01-17 | 2022-04-21 |
 | [Wonderful Life](https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj) | [Wonderful Life](https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd) | 2:40 | 2022-01-17 |  |
 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 | 2022-07-08 |  |

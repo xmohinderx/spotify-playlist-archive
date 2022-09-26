@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 100902,
+  "num_followers": 100964,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODI2MCwwMDAwMDAwMGY0YTY5ZDU2YjUwYTdhYmViZDE5OTJhNjYzMTVjNDZj",
+  "snapshot_id": "MTY2MTUyODI2MCwwMDAwMDAwMGQyZTVhZjhhNDNkNmI3NjkyZTg1YTI1NWIyYWEwOGQw",
   "tracks": [
     {
       "added_at": "2022-08-26 15:37:40",
@@ -31,6 +31,22 @@
     {
       "added_at": "2022-08-26 15:37:40",
       "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 97466,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
+    },
+    {
+      "added_at": "2022-08-26 15:37:40",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
-    },
-    {
-      "added_at": "2022-08-26 15:37:40",
-      "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
     },
     {
       "added_at": "2022-08-26 15:37:40",
@@ -672,7 +672,7 @@
       "added_at": "2022-08-26 15:37:40",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 180244,
-      "name": "Mi Condena - En Vivo",
-      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
     },
     {
       "added_at": "2022-08-26 15:37:40",
@@ -800,7 +800,7 @@
       "added_at": "2022-08-26 15:37:40",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+      "duration_ms": 180244,
+      "name": "Mi Condena - En Vivo",
+      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
     },
     {
       "added_at": "2022-08-26 15:37:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-08-26 15:37:40",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+    },
+    {
+      "added_at": "2022-08-26 15:37:40",
+      "album": {
         "name": "Adicta al Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-08-26 15:37:40",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "No Te Vi Crecer - En Vivo",
-      "url": "https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf"
-    },
-    {
-      "added_at": "2022-08-26 15:37:40",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-08-26 15:37:40",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+      "duration_ms": 172333,
+      "name": "No Te Vi Crecer - En Vivo",
+      "url": "https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf"
     }
   ],
   "unique_name": "Vivo de Cumbia",

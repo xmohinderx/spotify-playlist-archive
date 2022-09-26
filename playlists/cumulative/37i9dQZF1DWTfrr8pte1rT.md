@@ -4,7 +4,7 @@
 
 > Rock with a Drop  Cover: GG Magree \\m/
 
-240 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
+241 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Better Than Before](https://open.spotify.com/track/2TRSQ4CTkyaAGM4N9nI9ef) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6), [Vanthe](https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE) | [Better Than Before](https://open.spotify.com/album/6355ImRWAhH4xOHwuG6CWL) | 2:44 | 2022-07-08 |  |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-24 |  |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 |  |
+| [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-02 |  |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2021-12-10 | 2022-02-26 |
 | [BLVCK](https://open.spotify.com/track/41klTnnqKeBmhwqgbIuTOA) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [BLVCK](https://open.spotify.com/album/2Av1p0DEnZTPnteLzJ2YKF) | 2:53 | 2021-12-10 | 2022-06-25 |
 | [Bored To Death \- Steve Aoki Remix](https://open.spotify.com/track/7xddswKFyyesNjV8wpCGLo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Bored To Death \(Steve Aoki Remix\)](https://open.spotify.com/album/7E7PahPGnTqpY4OxzSs9pY) | 3:58 | 2022-04-01 | 2022-08-04 |
@@ -72,7 +73,7 @@
 | [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 | 2022-06-24 |  |
 | [Dying To Know You](https://open.spotify.com/track/7KD8qQSdaWUVjECHhqRtaQ) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/33Efdv2w7tLBoLOm0mtVt9) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [Dynamo](https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Monstercat Instinct Vol\. 1](https://open.spotify.com/album/5Pk3QLxMsbaj3vwxffAG3X) | 3:59 | 2021-12-10 | 2022-01-29 |
-| [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 |  |
+| [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 | 2022-09-26 |
 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 | 2022-06-24 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Emotion Sickness](https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe) | 3:22 | 2022-02-18 | 2022-08-03 |
 | [Enemy Brain](https://open.spotify.com/track/225lMWq2wtUmUeETswWKu8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain](https://open.spotify.com/album/2Gi7K1ROVbpnF4kP19TWMT) | 4:11 | 2022-07-08 |  |

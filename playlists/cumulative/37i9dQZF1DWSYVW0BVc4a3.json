@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
@@ -1548,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Club Vibes Part 03",
+        "url": "https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487680,
+      "name": "In The Shadows",
+      "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
+    },
+    {
+      "album": {
         "name": "It's Not You",
         "url": "https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT"
       },
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 199680,
       "name": "Rendez-Vu - Marco Lys Remix - Edit",
       "url": "https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI"
@@ -2637,6 +2655,36 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0"
+    },
+    {
+      "album": {
+        "name": "Sete (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/3yvWSNvxkbUMUnhOLtXfCG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Sete - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/0Evni7gpUVEAJn3qE9PNY4"
     },
     {
       "album": {

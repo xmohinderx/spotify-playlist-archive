@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-135 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
+136 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Jeito Sexy](https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo) | [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Retratos](https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP) | 4:12 | 2021-07-02 | 2022-07-29 |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2021-07-02 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-07-02 |  |
-| [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2021-07-02 |  |
+| [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2021-07-02 | 2022-09-26 |
 | [Linda](https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 2:55 | 2021-07-02 | 2022-07-29 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2021-07-02 |  |
 | [Lourinha Bombril](https://open.spotify.com/track/3eUOVnvVw9ntGUqJmHKF1J) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nove Luas](https://open.spotify.com/album/4ZhHdPLQtqUgTfHbxxB8xB) | 2:38 | 2021-07-02 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2021-07-02 |  |
 | [Sobre o Tempo](https://open.spotify.com/track/5wSagCWflNwJ1xM59ZKw6O) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631) | [Gol de Quem?](https://open.spotify.com/album/4asdrzl5pRLgM4LCXt00gm) | 3:27 | 2021-07-02 | 2022-07-29 |
 | [Some que ele vem atrás](https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Some que ele vem atrás](https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI) | 3:14 | 2021-07-02 | 2022-07-29 |
+| [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 | 2021-07-02 |  |
 | [Só Love](https://open.spotify.com/track/6tghVVbANieSAMpFpzYl8M) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Novo Millennium](https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4) | 4:12 | 2021-07-02 | 2022-07-29 |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2021-07-02 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2021-07-02 |  |

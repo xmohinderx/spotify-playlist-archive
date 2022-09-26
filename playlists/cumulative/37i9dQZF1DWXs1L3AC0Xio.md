@@ -4,7 +4,7 @@
 
 > lighters up for these awesome rock ballads.
 
-141 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
+142 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [let go of your love](https://open.spotify.com/track/1ehMNecFGwZu0tmCImU473) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [let go of your love](https://open.spotify.com/album/0Y2gHxgmQQbkgJVYSMph9m) | 3:24 | 2021-06-03 | 2022-07-02 |
 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 | 2022-08-29 |  |
 | [Life Is Beautiful 2017](https://open.spotify.com/track/2Et49kpeirx87RIqwJ9Hdj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Life Is Beautiful 2017](https://open.spotify.com/album/0l9cMT1BVOnqrgsYFRFvrr) | 4:30 | 2021-06-03 | 2022-08-23 |
+| [Lifeless Stars](https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lifeless Stars](https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU) | 3:17 | 2022-09-23 |  |
 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-13 |  |
 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 | 2021-06-03 |  |
 | [Lost In You](https://open.spotify.com/track/5DILybiCczVw6JlBOMCJig) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Lost In You](https://open.spotify.com/album/5z5QTuaGtN3naTEgtnXOlx) | 4:17 | 2021-06-03 | 2022-07-29 |
@@ -123,7 +124,7 @@
 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 | 2021-06-03 |  |
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2021-06-03 | 2022-07-29 |
 | [The Fighter](https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Black Widow](https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P) | 4:52 | 2021-06-03 |  |
-| [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 | 2022-07-22 |  |
+| [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 | 2022-07-22 | 2022-09-26 |
 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-13 |  |
 | [The Reason](https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Best Of](https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU) | 3:52 | 2021-06-03 |  |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2021-06-03 |  |

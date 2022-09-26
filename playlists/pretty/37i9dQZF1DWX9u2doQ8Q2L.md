@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,313 likes - 66 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,344 likes - 66 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
 | 2 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
 | 3 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 |
-| 4 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
-| 5 | [Summer](https://open.spotify.com/track/6K8b9K4EeQLUyNBBgyb9ap) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Summer](https://open.spotify.com/album/5hEzk2a2rXPnjZhRjeF71v) | 3:58 |
+| 4 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 |
+| 5 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 6 | [Wonderful Life](https://open.spotify.com/track/6V36HaM6MDqRKCg8OY716v) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 7:22 |
 | 7 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 |
 | 8 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 9 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
-| 10 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 |
-| 11 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 |
-| 12 | [Baby I love you so](https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Baby I love you so](https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb) | 3:41 |
-| 13 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
+| 10 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 |
+| 11 | [Baby I love you so](https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Baby I love you so](https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb) | 3:41 |
+| 12 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
+| 13 | [Summer](https://open.spotify.com/track/6K8b9K4EeQLUyNBBgyb9ap) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Summer](https://open.spotify.com/album/5hEzk2a2rXPnjZhRjeF71v) | 3:58 |
 | 14 | [Hyper 5th Dimention](https://open.spotify.com/track/42Fqdcrd5axKxYUWo1Obei) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Hyper 5th Dimension](https://open.spotify.com/album/66pCXMDxtnOpTeMuxoHvnE) | 2:54 |
 | 15 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
 | 16 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 65 | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/track/42puayM78xtWfZgQR8q2XH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv), [筒井康隆](https://open.spotify.com/artist/7CVwuk73WJuFogsp0HN4bl) | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/album/7IF7TfpbLsQEeYSqYomkcK) | 3:04 |
 | 66 | [HOMEBASE](https://open.spotify.com/track/52ZDhRd2VohOijIAQGH3qw) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [HOMEBASE](https://open.spotify.com/album/1z2boax5hhfvuXsHRMdHDS) | 3:50 |
 
-Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGQ3ZDIyZTAyMTlmMTc2NTA1NmFiNDk0ODZhMDdkOTlm`
+Snapshot ID: `MTY2NDA2OTQ2OSwwMDAwMDAwMGZhZTQ0NGUyNjk0NTNhN2ZiMzk3MjUyYTQ4ZDUzMTg3`

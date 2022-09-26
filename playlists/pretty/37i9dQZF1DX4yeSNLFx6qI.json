@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1695759,
+  "num_followers": 1695973,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMDk1NTc1MjNjNzYwMjk3NTJjMjkwZTNkZGJkN2Y1NWYy",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMDVjZDM2MTI2NWRlOTVkNzNkYWI5MDUwYmI3NWQ4MWY1",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "D\u00e9jame Ir",
-        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 232743,
-      "name": "D\u00e9jame Ir",
-      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 219367,
       "name": "+",
       "url": "https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "D\u00e9jame Ir",
+        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 232743,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -667,54 +667,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Acu\u00e9rdate de M\u00ed",
-      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 220155,
-      "name": "Yo No Merezco Volver",
-      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Coraz\u00f3n Sin Vida",
         "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
       },
@@ -735,6 +687,38 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Acu\u00e9rdate de M\u00ed",
+      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 220155,
+      "name": "Yo No Merezco Volver",
+      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Si Fuera M\u00eda - EP",
         "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 227373,
       "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1043,42 +1043,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
         "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
       },
@@ -1099,6 +1063,26 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "A\u00fan me amas",
         "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 220000,
       "name": "A\u00fan me amas",
       "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Me vas a ver",
+        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 135739,
+      "name": "Me vas a ver",
+      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 198448,
       "name": "Lo Siento Mucho",
       "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Me vas a ver",
-        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 135739,
-      "name": "Me vas a ver",
-      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1347,46 +1347,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Se Me Olvid\u00f3 Olvidarte",
-        "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 234309,
-      "name": "Se Me Olvid\u00f3 Olvidarte",
-      "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Cuerno",
-        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 178199,
-      "name": "Cuerno",
-      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1411,6 +1383,50 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Cuerno",
+        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 178199,
+      "name": "Cuerno",
+      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Se Me Olvid\u00f3 Olvidarte",
+        "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "duration_ms": 234309,
+      "name": "Se Me Olvid\u00f3 Olvidarte",
+      "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2022-08-31 06:52:27",

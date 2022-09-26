@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Lil Nas X
 
-845 songs - 1 day 18 hr 41 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+846 songs - 1 day 18 hr 44 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [Bite Marks](https://open.spotify.com/track/4U4fRUWIKRBXlSCZQV5gG3) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Bite Marks](https://open.spotify.com/album/7ecazNuZJ58S1JwZsSwxCw) | 2:43 | 2021-05-14 | 2021-06-26 |
 | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/track/21vPjrAwqTWvNm4HqODEIY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/album/46JzNo2nsnGWzYyjnbPjL0) | 3:14 | 2020-10-13\* | 2020-11-28 |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2021-08-28 | 2021-12-04 |
+| [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-09-23 |  |
 | [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-14 | 2022-07-29 |
-| [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-14 |  |
+| [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-14 | 2022-09-26 |
 | [blind](https://open.spotify.com/track/6d1ffV5RisInvrDxkLgBxe) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [blind](https://open.spotify.com/album/5fLkyJYzfpB523XXxM70o0) | 2:33 | 2020-10-13\* | 2020-10-24 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-07-02 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 |  |

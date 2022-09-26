@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-218 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+219 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Quemado](https://open.spotify.com/track/0C4IACJ0aYrjexMvv50YiP) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 3:16 | 2021-11-26 | 2022-07-29 |
 | [El Quemado](https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 3:16 | 2022-04-15 |  |
 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 | 2021-11-26 | 2022-07-25 |
+| [Entre Patía y Sanquianga \(Remix\)](https://open.spotify.com/track/3N2DH7xV0Z737nxuOQ1w3o) | [Agrupacion Changó](https://open.spotify.com/artist/4sVxogNVnTtnikmperp8YS), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Prieto Riddiman Remixes](https://open.spotify.com/album/1DYhKEFj38cTOH0VqJkcqu) | 3:34 | 2022-04-15 |  |
 | [Entre Patía y Sanquianga \(Remix\)](https://open.spotify.com/track/4vp9L8PRzrFALF8pYT5EEP) | [Agrupacion Changó](https://open.spotify.com/artist/4sVxogNVnTtnikmperp8YS), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Prieto Riddiman Remixes](https://open.spotify.com/album/2Bh8f7qMbePfkKSWtybaow) | 3:34 | 2021-11-26 | 2022-07-06 |
 | [Eso](https://open.spotify.com/track/3qetNN5FwmaJ56SSD2tsZF) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF) | [Las Frutas EP](https://open.spotify.com/album/0Xg7V0xcI1R4WOsraOg8c3) | 3:33 | 2021-11-26 | 2022-07-25 |
 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 | 2022-04-15 | 2022-04-20 |
@@ -187,7 +188,7 @@
 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 | 2022-04-15 | 2022-04-20 |
 | [Solo Quiero](https://open.spotify.com/track/17KTRLb9qJRYSSckf0xYBD) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Solo Quiero](https://open.spotify.com/album/3dm2o7RYfKTdLdFZzouNYr) | 4:23 | 2021-11-26 | 2022-07-29 |
 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 | 2022-04-15 |  |
-| [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-11-26 |  |
+| [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-11-26 | 2022-09-26 |
 | [Sondiramá](https://open.spotify.com/track/3NEVeetLmkytUgwca0pwi3) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/0jSebDCVektiSoY7gkapr7) | 3:23 | 2021-11-26 | 2022-07-29 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2022-04-15 |  |
 | [Sonic Forest \(Déjame Respirar\)](https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Sonic Forest](https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6) | 2:49 | 2021-11-26 |  |

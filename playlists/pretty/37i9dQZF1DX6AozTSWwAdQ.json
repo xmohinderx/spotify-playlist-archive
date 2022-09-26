@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 53327,
+  "num_followers": 53330,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU1NDI3MCwwMDAwMDAwMDQ1OTliZDczMjUyZTM1NjZiZTMwYTgyZWRkODJiNDQ3",
+  "snapshot_id": "MTY2MzU1NDI3MCwwMDAwMDAwMDdjNjUyNzM2YWJkMjAzMjg3NjVkNjY4OTM0Yjg2OGY4",
   "tracks": [
     {
       "added_at": "2022-09-19 02:24:30",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-09-19 02:24:30",
-      "album": {
         "name": "Come Over When You're Sober, Pt. 2",
         "url": "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2022-09-19 02:24:30",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
+        "name": "Give Me A Kiss",
+        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 169204,
+      "name": "Give Me A Kiss",
+      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
+    },
+    {
+      "added_at": "2022-09-19 02:24:30",
+      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2022-09-19 02:24:30",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2022-09-19 02:24:30",
+      "album": {
         "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
-        "name": "Give Me A Kiss",
-        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 169204,
-      "name": "Give Me A Kiss",
-      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -483,22 +499,6 @@
       "duration_ms": 232384,
       "name": "Irrelevant",
       "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
-    },
-    {
-      "added_at": "2022-09-19 02:24:30",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -531,22 +531,6 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2022-09-19 02:24:30",
-      "album": {
-        "name": "BLENDER",
-        "url": "https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "BLENDER",
-      "url": "https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -599,26 +583,6 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159096,
-      "name": "emo girl (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
-    },
-    {
-      "added_at": "2022-09-19 02:24:30",
-      "album": {
         "name": "Something to Someone",
         "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
@@ -635,18 +599,22 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
-        "name": "Love Of Mine (Night Visions Demo)",
-        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 249995,
-      "name": "Love Of Mine - Night Visions Demo",
-      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -679,6 +647,22 @@
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
+    },
+    {
+      "added_at": "2022-09-19 02:24:30",
+      "album": {
+        "name": "Love Of Mine (Night Visions Demo)",
+        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 249995,
+      "name": "Love Of Mine - Night Visions Demo",
+      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
     },
     {
       "added_at": "2022-09-19 02:24:30",
@@ -835,18 +819,42 @@
     {
       "added_at": "2022-09-19 02:24:30",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
       "artists": [
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
         }
       ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+      "duration_ms": 197633,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
+    },
+    {
+      "added_at": "2022-09-19 02:24:30",
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

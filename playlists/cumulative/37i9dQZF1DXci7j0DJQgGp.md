@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-340 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
+341 songs - 21 hr 45 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2022-06-10 |  |
 | [McKenzie](https://open.spotify.com/track/6r105oew3DqGLUEIYRMk9L) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 | 2022-03-25 |  |
-| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-10 |  |
+| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-10 | 2022-09-26 |
 | [Mighty Soul](https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Mighty Soul](https://open.spotify.com/album/6T7wqhIl7v7jj5yMIZXozN) | 1:57 | 2021-12-17 | 2022-07-29 |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-12-17 |  |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2022-05-06 |  |
@@ -340,6 +340,7 @@
 | [White Lies](https://open.spotify.com/track/5i7g5BIOAQeZu4cXkuXh1H) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [White Lies](https://open.spotify.com/album/0jEb2g4SUcHyXBYItiOCGw) | 4:07 | 2022-03-25 | 2022-07-29 |
 | [Who Else Could I Be](https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:35 | 2022-03-25 | 2022-04-18 |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2021-12-17 | 2022-04-19 |
+| [Without Your Love](https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:30 | 2022-09-16 |  |
 | [Without Your Love \(feat\. Julia Stone\)](https://open.spotify.com/track/2v8HD6zQlo3PLhKgpMyiCc) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Without Your Love \(feat\. Julia Stone\)](https://open.spotify.com/album/2v4vJhifzY5GfqtWM8FufY) | 3:30 | 2021-12-17 | 2022-07-29 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-12-17 | 2022-08-02 |
 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 | 2022-04-20 |  |

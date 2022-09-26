@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-239 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+240 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2021-04-30 |  |
 | [Aeroplane](https://open.spotify.com/track/0KZsNuPlsR2670u3uHJaza) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Aeroplane](https://open.spotify.com/album/5niosuCjmc3WpdkcEZ7Uoc) | 3:49 | 2021-04-30 | 2022-07-29 |
 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 | 2021-04-30 | 2022-09-16 |
+| [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 | 2022-06-30 |  |
 | [Again](https://open.spotify.com/track/6TxXpZ17qTxOVDleRQ3aM9) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [And It's the Same](https://open.spotify.com/album/54OHuVIsIzyZoiUhTGpreI) | 3:51 | 2021-04-30 | 2022-05-07 |
 | [AHH!!](https://open.spotify.com/track/5usoDf4LqO4wPmmlEVXNWv) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/0qbKZllp43YAIDfDuQFapc) | 1:36 | 2021-07-09 | 2022-04-18 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-04-30 | 2022-07-25 |
@@ -40,7 +41,7 @@
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-28 | 2022-04-20 |
 | [Be Around Me](https://open.spotify.com/track/5MzNoRzcRrXH6kDtwnEAJD) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Be Around Me](https://open.spotify.com/album/4dJ5NmLGNjEfIxRMyS0SRa) | 3:01 | 2021-08-13 | 2022-04-16 |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2021-04-30 |  |
-| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 | 2022-09-16 |
+| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 |  |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-03-04 | 2022-07-10 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-04-30 | 2022-04-21 |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-04-30 |  |
@@ -142,7 +143,7 @@
 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 | 2021-04-30 | 2022-07-01 |
 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2022-06-30 |  |
 | [John Cusack](https://open.spotify.com/track/23jRaDzAOM7nbhJTPCtlma) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [John Cusack](https://open.spotify.com/album/5g4ccjwZLuQxLxebRXWnsN) | 3:39 | 2022-05-20 | 2022-06-10 |
-| [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-04-30 |  |
+| [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-04-30 | 2022-09-26 |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2021-04-30 | 2022-07-29 |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2021-04-30 | 2022-07-29 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-04-30 |  |
@@ -233,7 +234,7 @@
 | [what was the last thing u said](https://open.spotify.com/track/7j8Pum7QmJNtFR5mjniLMu) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 3:47 | 2022-01-28 | 2022-07-27 |
 | [When Did Your Heart Go Missing?](https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Calling The World](https://open.spotify.com/album/1qnCc35z3I85Igk8l7crK1) | 3:33 | 2022-05-20 | 2022-05-24 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2022-05-20 |  |
-| [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 | 2021-04-30 |  |
+| [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 | 2021-04-30 | 2022-09-26 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-04-30 | 2022-04-18 |
 | [wonder](https://open.spotify.com/track/1CgEckS4RBzxmhL6hzEihW) | [Kt3lly](https://open.spotify.com/artist/1zWO6ivwir6lZ557cfYiM5), [eWop](https://open.spotify.com/artist/18KvY2Nuo22lWCVbwL17zP) | [wonder](https://open.spotify.com/album/0gkheKSZqpEVgITh2iDwR9) | 2:08 | 2022-01-28 | 2022-02-12 |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-04-30 | 2022-04-18 |

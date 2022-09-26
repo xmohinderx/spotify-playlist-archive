@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Ørdop Wolkenscheidt Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,217 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,257 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 27 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 |
 | 28 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 |
 | 29 | [Our Wretched Fantasy](https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP) | 3:30 |
-| 30 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
-| 31 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 32 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 30 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
+| 31 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 32 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
 | 33 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
 | 34 | [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 |
 | 35 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
-| 36 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 |
+| 36 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
 | 37 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
-| 38 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
-| 39 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
-| 40 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
-| 41 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
-| 42 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
-| 43 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
-| 44 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
+| 38 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 |
+| 39 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
+| 40 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
+| 41 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
+| 42 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 43 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
+| 44 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 45 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
-| 46 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
-| 47 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
-| 48 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
-| 49 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
-| 50 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 46 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
+| 47 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
+| 48 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
+| 49 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 50 | [sunflower](https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [it's a secret / sunflower](https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6) | 3:44 |
 
-Snapshot ID: `MTY2MzcyODg1MCwwMDAwMDAwMGI1YzRhMzQ3YjRhMmQ4ZGRhZWEzNGNmYTc1MzcwNjA1`
+Snapshot ID: `MTY2MzcyODg1MCwwMDAwMDAwMGNiZDNkZDU1MGViOTI1ODRhMWRjMTcxZGNmM2Q3Mjgz`

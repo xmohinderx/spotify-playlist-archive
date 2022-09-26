@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 541746,
+  "num_followers": 541980,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDRjNDc2ODA5ZmQ2NTlhN2U3NzlkNTBmODI0MDAwMWYy",
+  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDU3OTQzNWM0YzU2YzRkNGQ1Y2FlZTA5ZWY1NmUyNDgy",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Runnin' Wild (Special Edition)",
         "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 222240,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 317206,
-      "name": "Children of the Grave - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Breakin' Outta Hell",
         "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Hunted",
-        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+        "name": "Master of Reality (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
       },
       "artists": [
         {
-          "name": "Egypt Central",
-          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 173398,
-      "name": "Hunted",
-      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
+      "duration_ms": 317206,
+      "name": "Children of the Grave - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -907,6 +891,22 @@
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Hunted",
+        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+      },
+      "artists": [
+        {
+          "name": "Egypt Central",
+          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Hunted",
+      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "No Remorse",
         "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 279306,
       "name": "Killed by Death",
       "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
+        "name": "Motherbrain",
+        "url": "https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Motherbrain",
-        "url": "https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm"
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
       },
       "artists": [
         {
-          "name": "Crobot",
-          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
         }
       ],
-      "duration_ms": 216514,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm"
+      "duration_ms": 191669,
+      "name": "Viva La Victoria",
+      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
       },
       "artists": [
         {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Viva La Victoria",
-      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
+      "duration_ms": 191440,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1191,22 +1207,6 @@
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
     },
     {
       "added_at": "2021-12-07 10:22:45",

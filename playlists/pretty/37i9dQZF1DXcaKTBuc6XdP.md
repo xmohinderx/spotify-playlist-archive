@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,600 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,621 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 29 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 |
 | 30 | [Alive \- Studio Version](https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [We Are Young & Free \(Live\)](https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ) | 3:47 |
 | 31 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
-| 32 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
-| 33 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
+| 32 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
+| 33 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 34 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
 | 35 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 36 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDllNGRlMDYxMzBiNzZhMzkzMGM4NjI0YmMzNzc2YWRj`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDQ5YWEwMjk1MDVhZThlMGI3MmIxYjAzZDFmMWMwZGYz`

@@ -4,11 +4,11 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-413 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+415 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-20 |  |
+| [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-20 | 2022-09-26 |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2021-08-04 | 2022-04-01 |
 | [2 / 14](https://open.spotify.com/track/5sCvipEhpAhVhu3K6kzm1P) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts on You](https://open.spotify.com/album/6cSlODoo4uSPxXfyGwcY9I) | 2:43 | 2021-08-04 | 2022-07-29 |
 | [400 Trillion](https://open.spotify.com/track/7J6nmPoXm6dIlVAIvSzUVp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [400 Trillion](https://open.spotify.com/album/3nu8vM1n4tAuHPDzkxlN8H) | 3:42 | 2022-03-11 | 2022-04-17 |
@@ -180,6 +180,7 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\) \- Recorded at Electric Lady Studios](https://open.spotify.com/track/67GCmLBIyOlIhXwyRqX5S2) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Live at Electric Lady](https://open.spotify.com/album/3cjPWHrJJWSNhNWxRVh0e0) | 4:26 | 2022-09-16 | 2022-09-24 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-04-08 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-12-03 | 2022-04-20 |
 | [I Do](https://open.spotify.com/track/1xV8hp4N7QNCtjY3GYoymI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:47 | 2021-08-05 | 2022-04-21 |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 |  |
@@ -257,6 +258,7 @@
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2021-08-04 | 2022-09-03 |
 | [Moving On and Getting Over](https://open.spotify.com/track/1crSsvtU9wZB15dIQXV2QH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 4:25 | 2021-08-05 | 2022-08-25 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
+| [Mr\. Percocet](https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:13 | 2022-05-13 |  |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
 | [Musta Been Something](https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 5:46 | 2021-08-04 | 2022-04-02 |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-25 | 2022-04-21 |
@@ -385,7 +387,7 @@
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Warm Animal](https://open.spotify.com/track/7oiZRx7OZbUAYUiYeFTXrf) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [What's It Like?](https://open.spotify.com/album/5LJzP85Zn7B2IAt7zhLImG) | 3:31 | 2021-08-04 | 2022-03-30 |
 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2021-08-04 | 2022-03-30 |
-| [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 |  |
+| [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-09-26 |
 | [Way of the Heart](https://open.spotify.com/track/10JB2ih1BNYlactGPCet1M) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Detour de Force \(Deluxe Edition\)](https://open.spotify.com/album/1qP0WiK1cW3bE91eNQqGpi) | 3:48 | 2022-06-03 | 2022-06-11 |
 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 | 2021-08-04 | 2022-03-28 |
 | [We'll Be Alright](https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [We’ll Be Alright](https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf) | 3:53 | 2021-08-04 | 2022-05-21 |

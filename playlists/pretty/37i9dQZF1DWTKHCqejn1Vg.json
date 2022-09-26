@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 7749,
+  "num_followers": 7826,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMDNmYjMyYzczYjY4MTEzMjU1MThmM2RmYmZiYmRiMmVh",
+  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMGVkNTRkYjU0OGU3ZjA1ZDJmNzAzZjZjNWRkYzhhOTUz",
   "tracks": [
     {
       "added_at": "2022-09-05 15:52:37",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 221834,
       "name": "woo ah",
       "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -231,18 +231,22 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 197013,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -267,22 +271,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
         }
       ],
-      "duration_ms": 208786,
-      "name": "She Said (with BIBI)",
-      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+      "duration_ms": 197013,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "FALL IN LUST",
-        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "FALL IN LUST",
-      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -383,42 +363,22 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Not my fault",
-        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
+        "name": "FALL IN LUST",
+        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
       "artists": [
         {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
         },
         {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
         }
       ],
-      "duration_ms": 214319,
-      "name": "I wonder (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+      "duration_ms": 199026,
+      "name": "FALL IN LUST",
+      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -455,6 +415,46 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Not my fault",
+        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 214319,
+      "name": "I wonder (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Neo Seoul",
-        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        }
-      ],
-      "duration_ms": 195891,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 81101,
       "name": "OVERZONE",
       "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 253411,
+      "name": "Point (feat. Loopy)",
+      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -691,26 +711,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 253411,
-      "name": "Point (feat. Loopy)",
-      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -727,18 +727,38 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+        "name": "CLAASSIC",
+        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
       "artists": [
         {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Harujongil",
-      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+      "duration_ms": 217922,
+      "name": "SWEATY",
+      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -763,38 +783,18 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
       "artists": [
         {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
         }
       ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "CLAASSIC",
-        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 217922,
-      "name": "SWEATY",
-      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+      "duration_ms": 224000,
+      "name": "Harujongil",
+      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "I want to (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -923,6 +903,22 @@
       "duration_ms": 186755,
       "name": "Remained scent",
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -947,18 +943,22 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+      "duration_ms": 213000,
+      "name": "I want to (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "glass",
-        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 208740,
-      "name": "glass",
-      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm"
       },
@@ -1027,18 +1011,34 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL"
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
       },
       "artists": [
         {
-          "name": "OWLER",
-          "url": "https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr"
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
         }
       ],
-      "duration_ms": 141500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i"
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "glass",
+        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 208740,
+      "name": "glass",
+      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
     },
     {
       "added_at": "2022-09-05 15:52:37",

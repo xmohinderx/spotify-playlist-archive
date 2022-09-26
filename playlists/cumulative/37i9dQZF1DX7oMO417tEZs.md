@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: TOBi
 
-501 songs - 1 day 4 hr 6 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+502 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-06-11 |
 | [Body](https://open.spotify.com/track/0xVignO0cMBVC1M0LiHktA) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Body](https://open.spotify.com/album/01quniBZxAxXzvAoeRO8mH) | 3:33 | 2022-02-18 | 2022-04-23 |
 | [Bombo Papi \- Edit](https://open.spotify.com/track/1TroB6d70fx4rhfJdOLM0V) | [James Bradshaw](https://open.spotify.com/artist/5H2mwUufyk5W51OS8B1fLN), [Andy Reid](https://open.spotify.com/artist/5znh0xqBQcvTfJVtget9Ca), [Savista](https://open.spotify.com/artist/0B0mZslIROIgTrziXzhPDp) | [Bombo Papi](https://open.spotify.com/album/7r5ri8EOL2cMUnTw69wd4K) | 3:24 | 2022-05-20 | 2022-06-18 |
-| [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-07-08 |  |
+| [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-07-08 | 2022-09-26 |
 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2022-02-18 | 2022-03-18 |
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2022-07-15 | 2022-09-10 |
 | [brain food](https://open.spotify.com/track/2Vlw9U2Vzn6dHrb4J14TDU) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Grown?](https://open.spotify.com/album/5VWaQLaBvE8djbRkHRc3Fd) | 3:41 | 2022-04-29 | 2022-06-11 |
@@ -80,6 +80,7 @@
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2022-02-18 | 2022-03-05 |
 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/6b1uvC2GnPm4wNsHaOlZM7) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:23 | 2022-09-03 |  |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-02-18 | 2022-04-23 |
+| [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 | 2022-09-25 |  |
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-02-18 | 2022-04-02 |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-10 | 2022-07-16 |
 | [CATCH 22](https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [CATCH 22](https://open.spotify.com/album/4XeMqeZz3kJPowaqMMB1uo) | 1:35 | 2022-04-15 | 2022-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1207,
+  "num_followers": 1208,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGQ0MzBlMjdjNzA2MTRkZjAzOTQ3MDkyMGJhNTE2YTJm",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDJjZDE5MTQ1OTQ0ODg3Njg0NzdjMjYzNzg5MzU2ODc3",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Family Time",
-      "url": "https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Transportes en mis vacaciones",
         "url": "https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 70739,
       "name": "Al agua patos",
       "url": "https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -423,8 +423,8 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
@@ -432,25 +432,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Please Come To My Party",
-        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
-      },
-      "artists": [
-        {
-          "name": "Miss Kitty",
-          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Potty Song",
-      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -467,6 +451,22 @@
       "duration_ms": 200920,
       "name": "Getting Dressed Is the Best",
       "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Juguemos a cantar con Barney",
+        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "duration_ms": 113034,
+      "name": "Me cepillo los dientes",
+      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Please Come To My Party",
+        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
+      },
+      "artists": [
+        {
+          "name": "Miss Kitty",
+          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Potty Song",
+      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
@@ -503,38 +519,6 @@
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Juguemos a cantar con Barney",
-        "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
-      },
-      "artists": [
-        {
-          "name": "Barney",
-          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
-        }
-      ],
-      "duration_ms": 113034,
-      "name": "Me cepillo los dientes",
-      "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 109896,
-      "name": "Nice 'N' Clean",
-      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -555,6 +539,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 109896,
+      "name": "Nice 'N' Clean",
+      "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Music for Classroom Management",
         "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
-      },
-      "artists": [
-        {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
-        }
-      ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "20 Canciones Infantiles",
         "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Pink!",
-        "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
+        "name": "Las Mejores Canciones para Ni\u00f1os",
+        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
       },
       "artists": [
         {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+          "name": "HooplaKidz En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Nappin' Time",
-      "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
+      "duration_ms": 129536,
+      "name": "La Canci\u00f3n del Ba\u00f1o",
+      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -799,6 +783,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Nappin' Time",
+      "url": "https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Las 4 Estaciones, vol. 11",
         "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 58644,
       "name": "Sonidos al Comer",
       "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Moey's Music Party",
-        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
-      },
-      "artists": [
-        {
-          "name": "Moey",
-          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
-        }
-      ],
-      "duration_ms": 129560,
-      "name": "I Always Sit When I Eat",
-      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -847,6 +831,22 @@
       "duration_ms": 103147,
       "name": "Exercise Time",
       "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "I Always Sit When I Eat",
+      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     }
   ],
   "unique_name": "Daily Rutina",

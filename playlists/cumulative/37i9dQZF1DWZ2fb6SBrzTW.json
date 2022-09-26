@@ -1919,6 +1919,28 @@
     {
       "album": {
         "name": "Machala",
+        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154565,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
+    },
+    {
+      "album": {
+        "name": "Machala",
         "url": "https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I"
       },
       "artists": [
@@ -2323,6 +2345,24 @@
       "duration_ms": 203434,
       "name": "One Shokoto (feat. Ajebutter 22)",
       "url": "https://open.spotify.com/track/06QkF0VUAB95p5Ry7WRoPa"
+    },
+    {
+      "album": {
+        "name": "palazzo",
+        "url": "https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB"
+      },
+      "artists": [
+        {
+          "name": "Rodi0",
+          "url": "https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186003,
+      "name": "palazzo",
+      "url": "https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu"
     },
     {
       "album": {
@@ -3385,7 +3425,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 189913,
       "name": "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
       "url": "https://open.spotify.com/track/41OAbUwS3yasOZU7CGAPy7"
@@ -3407,7 +3447,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 146598,
       "name": "Yawa No Dey End",
       "url": "https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe"

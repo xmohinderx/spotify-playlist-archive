@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 105689,
+  "num_followers": 106090,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0ODcyNCwwMDAwMDAwMGFjZDFiNzRhODllNGZiY2ZlNDE5ZDk1ODQ2MjljMGQw",
+  "snapshot_id": "MTY2Mzk0ODcyNCwwMDAwMDAwMDkwNDk5NmMwMmQ1NDE2NmY2NjA0NmM0MDY2Y2QzYmQy",
   "tracks": [
     {
       "added_at": "2022-09-15 23:29:21",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-09-15 23:29:21",
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
+    },
+    {
+      "added_at": "2022-09-15 23:29:21",
+      "album": {
         "name": "Punk Tactics",
         "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 201508,
       "name": "See Me Fall - Y2K Remix",
       "url": "https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB"
-    },
-    {
-      "added_at": "2022-09-15 23:29:21",
-      "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
     },
     {
       "added_at": "2022-09-15 23:29:21",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-09-15 23:29:21",
       "album": {
-        "name": "Ethereal",
-        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
-    },
-    {
-      "added_at": "2022-09-15 23:29:21",
-      "album": {
         "name": "Chaxsthexry",
         "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
       },
@@ -715,22 +695,22 @@
     {
       "added_at": "2022-09-15 23:29:21",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
       "artists": [
         {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         },
         {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 108013,
-      "name": "Want (feat. prodby668)",
-      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+      "duration_ms": 171453,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
     },
     {
       "added_at": "2022-09-15 23:29:21",
@@ -763,6 +743,26 @@
       "duration_ms": 259000,
       "name": "FACE",
       "url": "https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy"
+    },
+    {
+      "added_at": "2022-09-15 23:29:21",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
     },
     {
       "added_at": "2022-09-15 23:29:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-15 23:29:21",
       "album": {
+        "name": "Dat $tick",
+        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "Dat $tick",
+      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
+    },
+    {
+      "added_at": "2022-09-15 23:29:21",
+      "album": {
         "name": "Melt My Eyez See Your Future",
         "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 127573,
       "name": "Sanjuro [Feat. 454]",
       "url": "https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT"
-    },
-    {
-      "added_at": "2022-09-15 23:29:21",
-      "album": {
-        "name": "Dat $tick",
-        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Dat $tick",
-      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
     },
     {
       "added_at": "2022-09-15 23:29:21",

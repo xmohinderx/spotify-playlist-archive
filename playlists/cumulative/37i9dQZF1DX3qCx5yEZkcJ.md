@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-403 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+404 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2019-05-26\* | 2022-07-23 |
 | [Boston \(Instrumental\)](https://open.spotify.com/track/215zB0CsvAcVNF9d44yyyd) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [My Own Worst Enemy \(Deluxe\)](https://open.spotify.com/album/0b1qkXG0gkPogImzF4oQQH) | 3:16 | 2019-05-26\* | 2020-01-14 |
 | [Brazilian Lady](https://open.spotify.com/track/3yossuLGsxiJnvoOFrs1CH) | [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [Cakeology](https://open.spotify.com/album/5R1w2n83qusxH7Ay92KUJb) | 2:50 | 2019-05-26\* | 2020-01-14 |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-09-22 |  |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-07-28 | 2022-07-30 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/4AhZSWtLMK6X9ckhFcyhCh) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/5qa0XEgENHFDpO8PEGxPvP) | 2:52 | 2022-03-24 | 2022-04-21 |
 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 | 2020-06-19 |  |
@@ -386,7 +387,7 @@
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-28 |
 | [Wake Up](https://open.spotify.com/track/7d4R7B6FWSiXFTD7p6REdx) | [Wenzel](https://open.spotify.com/artist/1tQmb1kAHc5lpCA5Pdl7Pz) | [Wake Up](https://open.spotify.com/album/0k043wif6WPtTIbfO0zMX7) | 1:21 | 2019-05-26\* | 2019-06-15 |
 | [Warmer Together](https://open.spotify.com/track/1PFBZIQJ5ETnT0f1zTSPQs) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/5H601bXKqXGE6LpnIZwkne) | 2:37 | 2020-06-19 | 2022-04-19 |
-| [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 | 2022-08-25 |  |
+| [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 | 2022-08-25 | 2022-09-26 |
 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 |  |
 | [Watermelon](https://open.spotify.com/track/4hVHvx9vDKwAb4qcRQeC5a) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/5xxJeAuwkfzO0XylnLM02T) | 2:24 | 2022-07-21 | 2022-07-29 |
 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 | 2022-07-28 |  |

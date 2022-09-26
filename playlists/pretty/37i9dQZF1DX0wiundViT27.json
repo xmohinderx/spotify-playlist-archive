@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611893,
+  "num_followers": 611881,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGRmMmNkZjNiYzRjODViYzQzMWFiZGVhYmUxMmY1Zjlk",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGJiMjA0YTM0ZDYwNjk2YjJkMjZiNTAxZDk2YmYwZTBm",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "ZOMBIFIED",
         "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 218626,
       "name": "Ignorance",
       "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Natural Born Killer/Pink Lullabye",
-        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 186156,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Don't Miss",
-        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 186156,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -835,34 +835,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "indieedgycool",
-        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "you're not special",
-        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 166758,
-      "name": "you're not special",
-      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -883,22 +867,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Eye of the Storm",
-        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 234149,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Young The Giant (Special Edition)",
         "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 244400,
       "name": "My Body",
       "url": "https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "you're not special",
+        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 166758,
+      "name": "you're not special",
+      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "indieedgycool",
+        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "SZNZ: Summer",
-        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Records",
-      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+        "name": "SZNZ: Summer",
+        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+      "duration_ms": 208920,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "\u2022NOTDEAD!\u2022",
-        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 190188,
-      "name": "\u2022NOTDEAD!\u2022",
-      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Pop Evil",
         "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203273,
       "name": "Be Legendary",
       "url": "https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "\u2022NOTDEAD!\u2022",
+        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "\u2022NOTDEAD!\u2022",
+      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
     },
     {
       "added_at": "2022-08-19 04:00:00",

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-323 songs - 23 hr 54 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+324 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Crazy That You Love](https://open.spotify.com/track/29fj51COdjexcBe9pm4aIM) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/7GdKMLqc7Gzg9yWWZHH84l) | 3:29 | 2022-03-08 | 2022-03-09 |
 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 | 2022-01-14 | 2022-07-29 |
 | [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 | 2022-08-18 |  |
+| [Cristo Redentor](https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Cristo Redentor](https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO) | 5:20 | 2022-09-23 |  |
 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 | 2021-12-17 | 2022-07-08 |
 | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/track/3Q1H4z0M8Gm9AHhZ0vzFPq) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO), [Ava Joseph](https://open.spotify.com/artist/3qohF4OEF0OXfERIcj5dkH), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy) | 6:18 | 2022-04-08 | 2022-07-29 |
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2022-07-28 |  |
@@ -197,7 +198,7 @@
 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 | 2021-12-17 | 2022-03-18 |
 | [Nights In Havana](https://open.spotify.com/track/1WIT85qChJThW4G53ZtP3x) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Alex Blake](https://open.spotify.com/artist/2Zg7PFrzPRux43T3G1UuNe) | [We Will Rise](https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ) | 4:13 | 2021-12-17 |  |
 | [No Be Today \- Yeye Be Dem Policy](https://open.spotify.com/track/1or6YdEd7OVm9bo72rYBOe) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [No Be Today \(Yeye Be Dem Policy\)](https://open.spotify.com/album/01EuhGK8frKIRtHJEdMEOI) | 3:37 | 2021-12-17 | 2022-02-14 |
-| [No BS](https://open.spotify.com/track/4evaB44maldA4OML15SHQk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [No BS](https://open.spotify.com/album/1IPnJcCa21qh6CNfOVyrBV) | 5:28 | 2022-03-24 |  |
+| [No BS](https://open.spotify.com/track/4evaB44maldA4OML15SHQk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [No BS](https://open.spotify.com/album/1IPnJcCa21qh6CNfOVyrBV) | 5:28 | 2022-03-24 | 2022-09-26 |
 | [Noa Noa](https://open.spotify.com/track/27OctETisMkxIypWYruUUG) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Emilia Anastazja](https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr) | [Noa Noa](https://open.spotify.com/album/6j5P4RVziXXAql965dFXCp) | 4:08 | 2021-12-17 | 2022-07-23 |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2021-12-17 | 2022-05-14 |
 | [Not Today Mate](https://open.spotify.com/track/7wkKPIBtnWwXpQxDXFSmQO) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/6a1IXJ5uCSDmNngN10IZRV) | 3:37 | 2021-12-17 | 2022-06-28 |

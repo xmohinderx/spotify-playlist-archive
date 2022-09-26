@@ -4,11 +4,11 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-256 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+257 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 0:00 | 2022-07-19 |  |
+| [](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 0:00 | 2022-07-19 | 2022-09-26 |
 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 | 2022-06-29 |  |
 | [A Dream Within a Dream](https://open.spotify.com/track/0Ppijcm8jxyzGBAielM8xH) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [A Dream Within a Dream](https://open.spotify.com/album/04GgqYWBW4zJpCET3ymzpo) | 2:22 | 2022-07-19 |  |
 | [A Dream Within a Dream](https://open.spotify.com/track/52KqG9DvcMJ3cV4ZZwpbJ2) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [A Dream Within a Dream](https://open.spotify.com/album/36AE8RoOpwmjPziC7ZvnVI) | 2:22 | 2022-07-19 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [Tranquillity](https://open.spotify.com/track/4SicYFBGOGcfRHUG7YvJdg) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/1EvF3Q8ZtqnOTKmjsbwvi0) | 3:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq) | 2:21 | 2022-07-19 |  |
+| [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 |  |
 | [Tronco](https://open.spotify.com/track/36LHOPIIkvB3Erf9mofRHr) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/0h3wrye3q4pHAkQXkPW1rJ) | 1:07 | 2022-06-29 | 2022-07-28 |
 | [Vendrán Lluvias Suaves](https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B) | [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [The Order Of Change](https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ) | 4:04 | 2022-06-29 |  |
 | [Warm Summer Rain](https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Warm Summer Rain](https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH) | 3:31 | 2022-06-29 |  |

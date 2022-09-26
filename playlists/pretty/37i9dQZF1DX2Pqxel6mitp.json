@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 34384,
+  "num_followers": 34500,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0Nzk4OCwwMDAwMDAwMDQ4Zjc5NjY1MjRkYmJkZmJjZGMyZGFiNGZhMTBkNTYw",
+  "snapshot_id": "MTY2Mzk0Nzk4OCwwMDAwMDAwMDlhOTEzYjYxMjRjM2M4ODVmMDIzNWMwMTNjMzYyNjg5",
   "tracks": [
     {
       "added_at": "2022-09-23 15:46:28",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 253853,
+      "name": "Goodbye Jimmy Reed",
+      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Rough and Rowdy Ways",
-        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 253853,
-      "name": "Goodbye Jimmy Reed",
-      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
       },
@@ -287,26 +287,6 @@
       "duration_ms": 247496,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "Raise The Roof",
-        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "High And Lonesome",
-      "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -343,18 +323,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+        "name": "Raise The Roof",
+        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+      "duration_ms": 273946,
+      "name": "High And Lonesome",
+      "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -375,6 +359,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 383200,
-      "name": "A Man And The Blues",
-      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
         "name": "Boneyard",
         "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 200000,
       "name": "Boneyard - Edit",
       "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 383200,
+      "name": "A Man And The Blues",
+      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 218357,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -691,22 +691,18 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
         }
       ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+      "duration_ms": 298293,
+      "name": "Outside (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -763,18 +763,34 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
       "artists": [
         {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+      },
+      "artists": [
+        {
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
         "name": "How Many Miles",
         "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
       },
@@ -839,42 +839,6 @@
       "duration_ms": 238533,
       "name": "Wounded Dog",
       "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "Country Blues Guitar",
-        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        },
-        {
-          "name": "Stefan Grossman",
-          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -907,6 +871,42 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "Country Blues Guitar",
+        "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        },
+        {
+          "name": "Stefan Grossman",
+          "url": "https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
+        "name": "Death Valley Blues",
+        "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Death Valley Blues",
+      "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -1123,6 +1139,42 @@
       "duration_ms": 185640,
       "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "Navigation Blues",
+        "url": "https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr"
+      },
+      "artists": [
+        {
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Navigation Blues",
+      "url": "https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk"
+    },
+    {
+      "added_at": "2022-09-23 15:46:28",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
     },
     {
       "added_at": "2022-09-23 15:46:28",
@@ -1159,22 +1211,6 @@
     {
       "added_at": "2022-09-23 15:46:28",
       "album": {
-        "name": "Death Valley Blues",
-        "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Death Valley Blues",
-      "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
         "name": "Man in the Ground",
         "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
@@ -1187,42 +1223,6 @@
       "duration_ms": 186920,
       "name": "Man in the Ground",
       "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2022-09-23 15:46:28",
-      "album": {
-        "name": "Navigation Blues",
-        "url": "https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr"
-      },
-      "artists": [
-        {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "The Black Tornado",
-          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Navigation Blues",
-      "url": "https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk"
     },
     {
       "added_at": "2022-09-23 15:46:28",

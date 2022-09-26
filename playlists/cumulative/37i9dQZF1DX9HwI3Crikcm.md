@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-118 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+119 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Brennans Reel](https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [Brennans Reel](https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks) | 3:02 | 2020-11-11 |  |
 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 | 2020-11-11 |  |
 | [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/7HGUltqTH6YqynkMQl3zzd) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP) | 5:05 | 2020-11-11 | 2022-07-29 |
-| [Coleraine Jig](https://open.spotify.com/track/7n76JlxTrfGMUHfCK7s4Nw) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Best Of DeDannan](https://open.spotify.com/album/72QISrRZoQmgNZa7ucSlra) | 5:39 | 2020-11-11 |  |
+| [Coleraine Jig](https://open.spotify.com/track/7n76JlxTrfGMUHfCK7s4Nw) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Best Of DeDannan](https://open.spotify.com/album/72QISrRZoQmgNZa7ucSlra) | 5:39 | 2020-11-11 | 2022-09-26 |
+| [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- Remastered](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(Remastered\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 | 2020-11-11 |  |
 | [Coleraine Jig/Derrane's/John Stenson's/Mother Reel](https://open.spotify.com/track/60DXGx8p9BFHko5IgDwEmO) | [De Danann All\-Stars](https://open.spotify.com/artist/4GiZqMvreWFc0AZL2rhnbX) | [The Star Spangled Molly](https://open.spotify.com/album/5go8p25WL9vT4sX2baR433) | 5:40 | 2020-11-11 | 2022-09-23 |
 | [Coleraine Jig/Derrane's/John Stenson's/Mother Reel](https://open.spotify.com/track/6KwgDPblRn3AjFBeaU3kbz) | [De Danann All\-Stars](https://open.spotify.com/artist/4GiZqMvreWFc0AZL2rhnbX) | [The Star Spangled Molly](https://open.spotify.com/album/23syN7EPKdqXszRPCJikMN) | 5:42 | 2020-11-11 | 2022-07-29 |
 | [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl) | 4:26 | 2020-11-11 |  |

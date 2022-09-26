@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 6901,
+  "num_followers": 6963,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDNjMTczMTljMDM1ZjRjODg2YTViMTg3NGExYzUyYjRh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGE0NmNiY2UxYjNmMDRiNDRjYTIxNzkxMDU4YWJiOGE4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Joyfunk Is Dead",
-        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
+        "name": "Best Kept Secrets",
+        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
       },
       "artists": [
         {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
         }
       ],
-      "duration_ms": 173105,
-      "name": "New Eyes",
-      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+      "duration_ms": 259826,
+      "name": "Keep Your Hands to Yourself",
+      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Best Kept Secrets",
-        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
+        "name": "Joyfunk Is Dead",
+        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
       },
       "artists": [
         {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
         }
       ],
-      "duration_ms": 259826,
-      "name": "Keep Your Hands to Yourself",
-      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
+      "duration_ms": 173105,
+      "name": "New Eyes",
+      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "The Arcade",
-        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Just a Little",
@@ -267,6 +251,22 @@
       "duration_ms": 370666,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "The Arcade",
+        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Phone.Keys.Wallet",
         "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91"
       },
       "artists": [
         {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
         }
       ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+      "duration_ms": 304120,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -431,18 +447,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91"
+        "name": "The Werks",
+        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
       "artists": [
         {
-          "name": "The String Cheese Incident",
-          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+          "name": "The Werks",
+          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
         }
       ],
-      "duration_ms": 304120,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy"
+      "duration_ms": 456631,
+      "name": "Duck Farm",
+      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -459,22 +475,6 @@
       "duration_ms": 342111,
       "name": "River Drift",
       "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "The Werks",
-        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
-      },
-      "artists": [
-        {
-          "name": "The Werks",
-          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
-        }
-      ],
-      "duration_ms": 456631,
-      "name": "Duck Farm",
-      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Out of Line",
         "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
       },
@@ -577,20 +593,32 @@
       "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+        "name": "Waltz of a Thousand Stars",
+        "url": "https://open.spotify.com/album/6Nr0Ma9gfD1Uq4jOrNh6Ju"
       },
       "artists": [
         {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+        },
+        {
+          "name": "Ray Paczkowski",
+          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
+        },
+        {
+          "name": "Soule Monde",
+          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
         }
       ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+      "duration_ms": 160157,
+      "name": "Waltz of a Thousand Stars",
+      "url": "https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -641,20 +669,20 @@
       "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Time Dilates",
-        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
+        "name": "Native Sons",
+        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
       },
       "artists": [
         {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
-      "duration_ms": 321688,
-      "name": "Time Dilates",
-      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
+      "duration_ms": 513070,
+      "name": "The World Is A Ghetto",
+      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -673,20 +701,20 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Native Sons",
-        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+        "name": "Time Dilates",
+        "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
         }
       ],
-      "duration_ms": 513070,
-      "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+      "duration_ms": 321688,
+      "name": "Time Dilates",
+      "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -737,22 +765,6 @@
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Best in Show",
-        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
-      },
-      "artists": [
-        {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
-        }
-      ],
-      "duration_ms": 485880,
-      "name": "Random Company",
-      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Remain",
@@ -771,6 +783,38 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Best in Show",
+        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
+      },
+      "artists": [
+        {
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+        }
+      ],
+      "duration_ms": 485880,
+      "name": "Random Company",
+      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
+      },
+      "artists": [
+        {
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
+        }
+      ],
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Don't Say Goodnight Just Yet",
         "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
       },
@@ -783,38 +827,6 @@
       "duration_ms": 354127,
       "name": "Don't Say Goodnight Just Yet",
       "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Off Leash",
-        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 462830,
-      "name": "Off Leash",
-      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Yes We Can Can",
-        "url": "https://open.spotify.com/album/471new68y9IZShdxJHtCUT"
-      },
-      "artists": [
-        {
-          "name": "Moonalice",
-          "url": "https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e"
-        }
-      ],
-      "duration_ms": 283299,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA"
     }
   ],
   "unique_name": "Modern Jam Band",

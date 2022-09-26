@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 160160,
+  "num_followers": 160492,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMDIzNmEwMmI2MDY0MGU3Y2Y1ZjNiNjAzODE0NjBhYzAz",
+  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMGViNTYyMGU5OWZlZjU5ZWVkZWQwYWVmODY0YjQ2ODUw",
   "tracks": [
     {
       "added_at": "2022-08-22 18:52:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 125520,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -663,6 +647,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 305776,
       "name": "Cheer Up, My Brother",
       "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Love Letter From The Sea to The Shore",
         "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Around the Well",
-        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Around the Well",
+        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 251280,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Kingdom Leader \u2013 Single",
-        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "Kingdom Leader",
-      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Kingdom Leader \u2013 Single",
+        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "Kingdom Leader",
+      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
     },
     {
       "added_at": "2022-08-22 18:52:28",

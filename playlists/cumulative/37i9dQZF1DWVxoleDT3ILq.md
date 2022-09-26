@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Amapola
 
-261 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+262 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Apuesto Que el Mundo No Dura](https://open.spotify.com/track/6VDCmJpts1sUhJ7AwB90EZ) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [Apuesto Que el Mundo No Dura](https://open.spotify.com/album/7Euakry7vjtya8RrClYF8s) | 3:03 | 2022-04-15 | 2022-07-28 |
 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 | 2022-04-15 | 2022-07-24 |
 | [Arabesco](https://open.spotify.com/track/3iiUKOvQ27hAfttpkNovNT) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Arabesco](https://open.spotify.com/album/0UCexnEz4hSnNEPdpMtLZe) | 3:57 | 2022-04-15 | 2022-07-27 |
+| [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 |  |
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
 | [Barreras de Cartón](https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Barreras de Cartón](https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj) | 3:48 | 2022-07-08 |  |
@@ -95,7 +96,7 @@
 | [Estalló la Revuelta](https://open.spotify.com/track/17xn80al7euSF9rqRhrvTn) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Estalló la Revuelta](https://open.spotify.com/album/3xKbStQSnYjsnkcYA6jNHl) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-04-15 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-05-27 | 2022-07-27 |
-| [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 | 2022-09-24 |
+| [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 |  |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
@@ -128,7 +129,7 @@
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 |  |
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
-| [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 |  |
+| [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2022-09-26 |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 |  |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
@@ -189,7 +190,7 @@
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 |  |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 |  |
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-08-27 |
-| [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 |  |
+| [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 | 2022-09-26 |
 | [Precio y Detalles](https://open.spotify.com/track/6YHU8WZI7eaa1EicKKWX2j) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Mismas Viejas Costumbres](https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO) | 3:02 | 2022-04-15 | 2022-07-26 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |

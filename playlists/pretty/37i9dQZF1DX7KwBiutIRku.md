@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,558 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,635 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 5 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 |
 | 6 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:16 |
 | 7 | [Let's Work Together](https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 3:13 |
-| 8 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
+| 8 | [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 |
 | 9 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
-| 10 | [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 |
+| 10 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
 | 11 | [Smokin' in the Boy's Room](https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ) | [Brownsville Station](https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu) | [Yeah! \(US Internet Release\)](https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3) | 2:56 |
 | 12 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 13 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 15 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 |
 | 16 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
 | 17 | [Let's Work Together](https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 2:50 |
-| 18 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
-| 19 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
+| 18 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
+| 19 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
 | 20 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
 | 21 | [Sweet Little Rock 'N' Roller](https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 3:42 |
 | 22 | [Going Back Home](https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG) | [Dr\. Feelgood](https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV) | [Malpractice](https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO) | 4:00 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 25 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
 | 26 | [Charming Mess](https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Charming Mess](https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W) | 3:33 |
 | 27 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
-| 28 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
-| 29 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
+| 28 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
+| 29 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
 | 30 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 31 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
 | 32 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Tars Of India](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 50 | [My Babe](https://open.spotify.com/track/1GEorvHprTNDgyzlcADpdO) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Fool for the City](https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi) | 4:36 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDI3ZjNiYTU0ZWYxODViMWMyMjA0NjIzNjA4YTMzODNi`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGRmYmJhMzA5MmRjYWExZjU0NWVlMmZhZWFhNGM4ZGRi`

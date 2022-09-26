@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-88 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/12HWYiTUQkdIKRtyDC4XH7)
+89 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/12HWYiTUQkdIKRtyDC4XH7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/1GGWnDtmIe5WiyxPlQVnkA) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Christmas Time Is Here](https://open.spotify.com/album/5tAT9J0RwvpzLQH3wsezhj) | 3:14 | 2021-11-19 | 2022-09-19 |
 | [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 | 2021-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:21 | 2021-11-12 | 2022-07-28 |
+| [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 | 2021-11-12 |  |
 | [Christmas Time is Here](https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu) | 3:46 | 2021-11-12 | 2022-09-03 |
 | [Christmas Time is Here](https://open.spotify.com/track/6L33ji3tovMzS8zUoXV2GB) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0NWplaqdsAibLPSPYV6AdV) | 3:46 | 2021-11-12 | 2022-07-29 |
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-11-12 | 2022-09-06 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 | 2021-11-12 |  |
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-11-12 |  |
-| [Fly Santa Fly](https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 2:48 | 2021-11-12 |  |
+| [Fly Santa Fly](https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 2:48 | 2021-11-12 | 2022-09-26 |
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-11-12 |  |
 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 | 2021-11-12 |  |
 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 | 2021-11-12 |  |

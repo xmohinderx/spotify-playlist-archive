@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen con Kenia OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,727 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,061 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 3 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 4 | [Dame Tu Cruz](https://open.spotify.com/track/1Ra386thvEEIz7cQp2GPwp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dame Tu Cruz](https://open.spotify.com/album/36jPYsM19P6uSB0na1wrhj) | 3:22 |
 | 5 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
-| 6 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
-| 7 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
+| 6 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
+| 7 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 8 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
 | 9 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 |
 | 10 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 28 | [qué voy a hacer conmigo???](https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [qué voy a hacer conmigo???](https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg) | 2:45 |
 | 29 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
 | 30 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 |
-| 31 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 |
-| 32 | [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 |
+| 31 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 |
+| 32 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 |
 | 33 | [Tenías Que Avisar](https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [Lucas Beguerie](https://open.spotify.com/artist/3v7EPGIjdVJkMmG9G18lkv) | [Tenías Que Avisar](https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ) | 2:33 |
-| 34 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 |
+| 34 | [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 |
 | 35 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 |
 | 36 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
 | 37 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 41 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 42 | [Bla Bla Bla](https://open.spotify.com/track/3HwiSLeCrkBPeF1Qpdx3l1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Bla Bla Bla](https://open.spotify.com/album/6bLLRIJ9H9eVES6TFcqZMI) | 2:26 |
 | 43 | [Luces](https://open.spotify.com/track/3wNcTAYdBGJgUtJ6HtBB5p) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:26 |
-| 44 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 45 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 |
+| 44 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 |
+| 45 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
 | 46 | [Volver A Caer](https://open.spotify.com/track/5AganyOOzJscDmQ1Wd6JBN) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:34 |
 | 47 | [Cariñito](https://open.spotify.com/track/26FBz04mrErn56k9I0iSxT) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [RUZZICOVERS](https://open.spotify.com/album/3nvMGeYALoHZ49WrNN3QL1) | 3:41 |
 | 48 | [Provocándome](https://open.spotify.com/track/78lkXvkwipv7f7FaKz2RBT) | [Laya Kalima](https://open.spotify.com/artist/486wYu7oGhLQ5LjKPBcCMM) | [Provocándome](https://open.spotify.com/album/67CiPwJZiG3wToKgdu0XVn) | 2:39 |
 
-Snapshot ID: `MTY2MjU4MzcxMiwwMDAwMDAwMGZkZjg1Nzg5ODBlZDM4MDc0ODA2MjMwY2JkNzIzNTM4`
+Snapshot ID: `MTY2MjU4MzcxMiwwMDAwMDAwMGJjYTEwNTcxNmVlMzk3ZWFmOTQ1ZDgwZDExN2JhZTdl`

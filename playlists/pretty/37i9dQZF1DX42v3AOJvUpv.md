@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,398 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,407 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 44 | [Ricardo Ruben](https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Cataratas Musicales](https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq) | 3:23 |
 | 45 | [Himno De Mi Corazón](https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 5:05 |
 | 46 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
-| 47 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
-| 48 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 |
+| 47 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 |
+| 48 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
 | 49 | [Viajando Hacia el Este](https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 4:41 |
 | 50 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 |
 
-Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDAzNTRhNTRjOWZhNGMzZTA4YzBhYzE2MGE4OWEyMjdi`
+Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMGNlMmQ2YmNhOTU4MWQzNmRmZWVkYzUzZTU3MjVjMmI0`

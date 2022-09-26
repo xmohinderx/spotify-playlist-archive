@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853598,
+  "num_followers": 853563,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDQ2NWE5M2M2ZTQ1ZDUwOWYzOThlYjRhOTNlYWU2NmMw",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDcwYmZhMjFlZTAzMWI4NWIzYmFmYjcwNGQ0YzE5MDZk",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Pull From The Ghost",
-        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
       },
       "artists": [
         {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
         }
       ],
-      "duration_ms": 251191,
-      "name": "Pull From The Ghost",
-      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
+      "duration_ms": 204040,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -271,6 +271,22 @@
       "duration_ms": 223050,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Pull From The Ghost",
+        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 251191,
+      "name": "Pull From The Ghost",
+      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
       },
       "artists": [
         {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
         }
       ],
-      "duration_ms": 204040,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 202418,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Deathrattle Sing for Me",
-        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 284485,
-      "name": "A Killing Word",
-      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Shade Astray",
         "url": "https://open.spotify.com/album/13V5598DE5BTivaX1zecEF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 277093,
       "name": "Shade Astray",
       "url": "https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 284485,
+      "name": "A Killing Word",
+      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Venenosa",
+        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 190495,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Ketamine",
         "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 172019,
       "name": "Ketamine",
       "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Lifestyles of the Sick & Dangerous",
-        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 189482,
-      "name": "Alive or Only Burning",
-      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Venenosa",
-        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
+        "name": "Lifestyles of the Sick & Dangerous",
+        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
       },
       "artists": [
         {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
         }
       ],
-      "duration_ms": 190495,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
+      "duration_ms": 189482,
+      "name": "Alive or Only Burning",
+      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "The Price Of Dreaming",
-        "url": "https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4"
-      },
-      "artists": [
-        {
-          "name": "Hollow Front",
-          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
-        }
-      ],
-      "duration_ms": 280579,
-      "name": "Thick As Blood",
-      "url": "https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 182057,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "The Price Of Dreaming",
+        "url": "https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4"
+      },
+      "artists": [
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "duration_ms": 280579,
+      "name": "Thick As Blood",
+      "url": "https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "duration_ms": 210385,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Your Love I'll Never Need",
         "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "The Collapse",
-        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
       },
       "artists": [
         {
-          "name": "Secrets",
-          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+          "name": "VENUES",
+          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
         }
       ],
-      "duration_ms": 210385,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
+      "duration_ms": 187285,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -727,22 +743,6 @@
       "duration_ms": 264306,
       "name": "Aching Longing",
       "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
-      },
-      "artists": [
-        {
-          "name": "Awake the Dreamer",
-          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
+      },
+      "artists": [
+        {
+          "name": "Awake the Dreamer",
+          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 239975,
       "name": "What Is War",
       "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
-      },
-      "artists": [
-        {
-          "name": "VENUES",
-          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -839,18 +839,54 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
       },
       "artists": [
         {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
         }
       ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+      },
+      "artists": [
+        {
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -867,22 +903,6 @@
       "duration_ms": 183069,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -919,38 +939,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -971,38 +971,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9"
       },
       "artists": [
         {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
+      "duration_ms": 222386,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1039,18 +1019,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Shadows in Time",
-        "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
       "artists": [
         {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
         }
       ],
-      "duration_ms": 224511,
-      "name": "Shadows in Time",
-      "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
+      "duration_ms": 169000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 207627,
       "name": "Damage Done",
       "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Shadows in Time",
+        "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 224511,
+      "name": "Shadows in Time",
+      "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "White Eyes",
-        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
-      },
-      "artists": [
-        {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "White Eyes",
-      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "I Will Return",
         "url": "https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 209230,
       "name": "I Will Return",
       "url": "https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "White Eyes",
+        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
+      },
+      "artists": [
+        {
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "White Eyes",
+      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "No King Rules Forever",
-        "url": "https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI"
-      },
-      "artists": [
-        {
-          "name": "Alex Yarmak",
-          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "No King Rules Forever",
-      "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Snow",
         "url": "https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 224062,
       "name": "The Snow",
       "url": "https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "No King Rules Forever",
+        "url": "https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI"
+      },
+      "artists": [
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No King Rules Forever",
+      "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
     }
   ],
   "unique_name": "The Core",

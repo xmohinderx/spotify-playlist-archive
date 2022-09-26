@@ -1,12 +1,12 @@
 {
   "description": "meet me at midnight",
-  "num_followers": 150133,
+  "num_followers": 150274,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MzQ1NywwMDAwMDAwMDdiZDU5OTNkOTNiYjIyMGU1Y2JlNGI4MzFkMmZkOTEy",
+  "snapshot_id": "MTY2NDE0ODQwMywwMDAwMDAwMDA3ZDVmNDI4ZDNjM2MzZjNkZTAwMTBiMTE4OWI2MmEw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:11:04",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "The Archer",
+      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -179,6 +179,22 @@
       "duration_ms": 171306,
       "name": "Shelly",
       "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -211,22 +227,6 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "The Archer",
-      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 172563,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 184000,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -687,8 +687,8 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "Love You When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 184166,
-      "name": "Love You When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -755,6 +755,38 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
+        "name": "pl4yg1rl",
+        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "pl4yg1rl",
+      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
         "name": "Naked in Manhattan",
         "url": "https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p"
       },
@@ -771,18 +803,18 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
         }
       ],
-      "duration_ms": 159608,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -799,22 +831,6 @@
       "duration_ms": 215621,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "cool water",
-        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
-      },
-      "artists": [
-        {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "cool water",
-      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -899,18 +915,18 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "pl4yg1rl",
-        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
         }
       ],
-      "duration_ms": 159493,
-      "name": "pl4yg1rl",
-      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 191983,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "SUPERIMPOSE",
-        "url": "https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 187974,
-      "name": "SUPERIMPOSE",
-      "url": "https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -995,18 +979,18 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "Lost In The Moment",
-        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
+        "name": "SUPERIMPOSE",
+        "url": "https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO"
       },
       "artists": [
         {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         }
       ],
-      "duration_ms": 153214,
-      "name": "Lost In The Moment",
-      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
+      "duration_ms": 187974,
+      "name": "SUPERIMPOSE",
+      "url": "https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
         "name": "Je te vois enfin",
         "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 205626,
       "name": "Je te vois enfin",
       "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Temper",
-      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -1075,6 +1059,22 @@
       "duration_ms": 175320,
       "name": "Slow Dancing - Hazel English Remix",
       "url": "https://open.spotify.com/track/5XLyFoBmLC4iV9R1Uqsfzw"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -1111,6 +1111,26 @@
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny"
+    },
+    {
+      "added_at": "2022-09-23 04:11:04",
+      "album": {
+        "name": "AMAN",
+        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 190962,
+      "name": "AMAN",
+      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -1171,38 +1191,18 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "deep in the woods",
-        "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
+        "name": "Die 4 Ur Love (Deluxe)",
+        "url": "https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 189898,
-      "name": "deep in the woods",
-      "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
-    },
-    {
-      "added_at": "2022-09-23 04:11:04",
-      "album": {
-        "name": "AMAN",
-        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 190962,
-      "name": "AMAN",
-      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
+      "duration_ms": 199773,
+      "name": "Die 4 Ur Love",
+      "url": "https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK"
     },
     {
       "added_at": "2022-09-23 04:11:04",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-23 04:11:04",
       "album": {
-        "name": "Die 4 Ur Love (Deluxe)",
-        "url": "https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj"
+        "name": "deep in the woods",
+        "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
       },
       "artists": [
         {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Die 4 Ur Love",
-      "url": "https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK"
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
     },
     {
       "added_at": "2022-09-23 04:11:04",

@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 28722,
+  "num_followers": 28757,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDc0NmU0N2QxOTc3OTg2ZjhmMGNhNTBhZDk1YTg2MzNi",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGM5ZDQwNzM0ZWI3M2QyYzNiNzM1ZDNlMTNkOWNkNzRl",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -69,20 +69,28 @@
       "url": "https://open.spotify.com/track/5JVLklFBxXYa6HKYKx3Beo"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "You Know What...?",
-        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+        "name": "Flight of the Murder Hornet",
+        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
       },
       "artists": [
         {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        },
+        {
+          "name": "Carlos Homs",
+          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
+        },
+        {
+          "name": "Lenny \"The Ox\" Reece",
+          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
         }
       ],
-      "duration_ms": 416720,
-      "name": "Spanish Eddie",
-      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
+      "duration_ms": 233523,
+      "name": "Flight of the Murder Hornet",
+      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -111,18 +119,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Batch",
-        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
+        "name": "You Know What...?",
+        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
       },
       "artists": [
         {
-          "name": "FORQ",
-          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
         }
       ],
-      "duration_ms": 374652,
-      "name": "Lymaks",
-      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
+      "duration_ms": 416720,
+      "name": "Spanish Eddie",
+      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -139,6 +147,22 @@
       "duration_ms": 171008,
       "name": "Apocahop",
       "url": "https://open.spotify.com/track/6ZmEv6dHADpoHDFSxIZSzh"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Batch",
+        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
+      },
+      "artists": [
+        {
+          "name": "FORQ",
+          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+        }
+      ],
+      "duration_ms": 374652,
+      "name": "Lymaks",
+      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -189,28 +213,52 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Flight of the Murder Hornet",
-        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
+        "name": "Immigrance",
+        "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
       },
       "artists": [
         {
-          "name": "Brady Watt",
-          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
-        },
-        {
-          "name": "Carlos Homs",
-          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
-        },
-        {
-          "name": "Lenny \"The Ox\" Reece",
-          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
         }
       ],
-      "duration_ms": 233523,
-      "name": "Flight of the Murder Hornet",
-      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
+      "duration_ms": 571323,
+      "name": "Xavi",
+      "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 349786,
+      "name": "Apostrophe'",
+      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Badeep",
+        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 363554,
+      "name": "Badeep",
+      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -231,54 +279,6 @@
       "duration_ms": 475818,
       "name": "Fear Not",
       "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Apostrophe(')",
-        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Apostrophe'",
-      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Immigrance",
-        "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 571323,
-      "name": "Xavi",
-      "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Badeep",
-        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 363554,
-      "name": "Badeep",
-      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Tayakad\u0131n",
@@ -611,18 +595,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
       },
       "artists": [
         {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -639,6 +623,22 @@
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -679,22 +679,6 @@
       "duration_ms": 269920,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
-      },
-      "artists": [
-        {
-          "name": "Derek Sherinian",
-          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
-        }
-      ],
-      "duration_ms": 218559,
-      "name": "Scorpion",
-      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -793,6 +777,22 @@
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
+      },
+      "artists": [
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
+        }
+      ],
+      "duration_ms": 218559,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
+    },
+    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "ENCORE",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Little Big",
+        "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Melodic Trance",
@@ -887,34 +903,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Little Big",
-        "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t"
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
       },
       "artists": [
         {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
         }
       ],
-      "duration_ms": 441386,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn"
-      },
-      "artists": [
-        {
-          "name": "Jean-Luc Ponty",
-          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
-        }
-      ],
-      "duration_ms": 299466,
-      "name": "Is Once Enough?",
-      "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
+      "duration_ms": 323520,
+      "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
     }
   ],
   "unique_name": "Prog Jazz",

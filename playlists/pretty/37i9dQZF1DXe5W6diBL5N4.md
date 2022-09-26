@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:JAY B\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,839 likes - 205 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,982 likes - 205 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 20 | [Wanna hold you](https://open.spotify.com/track/7uOj1hGkmCTW5zAIF0UjJQ) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Wanna hold you](https://open.spotify.com/album/5K1lk4Z8FZ53Kqe1JGSJEa) | 3:52 |
 | 21 | [007 \(feat\. Syd\)](https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [007](https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB) | 3:25 |
 | 22 | [sinner in the end](https://open.spotify.com/track/1MfnMrduKw5tyIsgy5Rg2U) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [angel](https://open.spotify.com/album/5DxGRsBdRlbyWoEWvrYQ5P) | 2:49 |
-| 23 | [Love is a Miracle](https://open.spotify.com/track/6qeBhFGcJ279T4aU5mmjqr) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [YERIN](https://open.spotify.com/artist/6r4VlwFn1WaGCJ1O09XKFN) | [Sing in the Green Part 5](https://open.spotify.com/album/3xSfTJQeGUNDXnS9WE3dY4) | 3:01 |
+| 23 | [Love is a Miracle](https://open.spotify.com/track/6qeBhFGcJ279T4aU5mmjqr) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Sing in the Green Part 5](https://open.spotify.com/album/3xSfTJQeGUNDXnS9WE3dY4) | 3:01 |
 | 24 | [Please Goodbye \(Feat\. DOKO\)](https://open.spotify.com/track/7BIzpvYfiybuZuT8tAoo1p) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Please Goodbye](https://open.spotify.com/album/69mdObXRgg7BUnZ88WRPAy) | 3:07 |
 | 25 | [Dream](https://open.spotify.com/track/7i5yPOy2Hk0MiI7Awjki3z) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Dream](https://open.spotify.com/album/0bRv8xCqnvsQAWlWqZVS0A) | 4:29 |
 | 26 | [Love & Care](https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau), [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Love & Care](https://open.spotify.com/album/1GQqMT6zPFX1AiFWSsZmyd) | 3:54 |

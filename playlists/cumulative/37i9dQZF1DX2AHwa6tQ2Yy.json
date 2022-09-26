@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
+    },
+    {
+      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 249966,
       "name": "Infatuated",
       "url": "https://open.spotify.com/track/0EdayFT9VybIDXZFBUC2xr"
@@ -1411,6 +1429,24 @@
       "duration_ms": 220440,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3uMewMD8hz7pCWnpgC10ay"
+    },
+    {
+      "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
     },
     {
       "album": {
@@ -2009,7 +2045,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 207427,
       "name": "Serious",
       "url": "https://open.spotify.com/track/4WHJkzPajfcS2SuJ2FaheS"

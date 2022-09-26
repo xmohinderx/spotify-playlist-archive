@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 19406,
+  "num_followers": 19429,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1OTM5MywwMDAwMDAwMDUyZjFkZWQzZGU5MjE4ZGI5ZDliNzU3ZDNmZDUzNjRl",
+  "snapshot_id": "MTY2Mzk1OTM5MywwMDAwMDAwMDA5NTE5ZGM4MDUwZWVmYzUwMGJkMjQzODQxYzVhMGU5",
   "tracks": [
     {
       "added_at": "2022-09-23 18:56:33",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "Mais Que Isso",
-        "url": "https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 162271,
-      "name": "Mais Que Isso",
-      "url": "https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 120958,
       "name": "12",
       "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
+        "name": "Mais Que Isso",
+        "url": "https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 162271,
+      "name": "Mais Que Isso",
+      "url": "https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -351,30 +351,30 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "Favelado Chique",
-        "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
       },
       "artists": [
         {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
         },
         {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
         },
         {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 163000,
-      "name": "1.5.7",
-      "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
+      "duration_ms": 238247,
+      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
+      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -439,30 +439,30 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "RUNNING",
-        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
+        "name": "Favelado Chique",
+        "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
       },
       "artists": [
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
         },
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
         },
         {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
         }
       ],
-      "duration_ms": 238247,
-      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
-      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
+      "duration_ms": 163000,
+      "name": "1.5.7",
+      "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
         "name": "Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
       },
@@ -543,42 +563,6 @@
       "duration_ms": 91682,
       "name": "Puxa o Gatilho Primeiro",
       "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
-        "name": "Fura Bilion\u00e1rios",
-        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Ghetto ZN",
-          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Fura Bilion\u00e1rios",
-      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -619,26 +603,6 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
         "name": "Edgar Davids",
         "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 163404,
       "name": "Edgar Davids",
       "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
+        "name": "Fura Bilion\u00e1rios",
+        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ghetto ZN",
+          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Fura Bilion\u00e1rios",
+      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -759,30 +759,6 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "Me liga",
-        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        },
-        {
-          "name": "Erick Di",
-          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Me liga",
-      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 150064,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
+        "name": "Me liga",
+        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
     },
     {
       "added_at": "2022-09-23 18:56:33",
@@ -887,6 +887,30 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
         "name": "Robin Hood",
         "url": "https://open.spotify.com/album/0h5JsBVrmQganNjaLXpuPd"
       },
@@ -931,30 +955,6 @@
       "duration_ms": 158923,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2022-09-23 18:56:33",

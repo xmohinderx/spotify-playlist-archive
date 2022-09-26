@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,831 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,962 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 33 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 |
 | 34 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 |
 | 35 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
-| 36 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
-| 37 | [Jelly](https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:49 |
+| 36 | [Jelly](https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:49 |
+| 37 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
 | 38 | [Love song](https://open.spotify.com/track/12ZIJvwUlRiu8KXomPkihd) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Love song](https://open.spotify.com/album/0tbJQJEE3eQCdhvD1WJ7PJ) | 3:27 |
 | 39 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 |
 | 40 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 44 | [Lucky](https://open.spotify.com/track/6SHuwpzmG1QRujJggCOiOP) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Lucky](https://open.spotify.com/album/1mTpH3zLPA4hiN8KUsHe0k) | 3:22 |
 | 45 | [Know My Place](https://open.spotify.com/track/0V4htNEkO8aPlPSZZ5XHdx) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Know My Place](https://open.spotify.com/album/4ElozCyJA6lnyll0H4FdTR) | 2:43 |
 | 46 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
-| 47 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
-| 48 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
+| 47 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
+| 48 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 49 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
 | 50 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
 
-Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMDA5OWU4YTBkZjcwYWQxNzc0ZjRjYjVjN2M5ZWRhZWZj`
+Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMDRhODdkZTA1YmEyODY1Mzk5MTIwMzllNDM4MTQyYTcy`

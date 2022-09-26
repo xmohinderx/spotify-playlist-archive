@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 256519,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o"
@@ -1673,6 +1673,24 @@
       "duration_ms": 351706,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/0vT84T4aw786D4tnVpUor6"
+    },
+    {
+      "album": {
+        "name": "Summertime Groove",
+        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
+      },
+      "artists": [
+        {
+          "name": "Bohannon",
+          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352106,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     },
     {
       "album": {

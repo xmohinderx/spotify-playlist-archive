@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 85695,
+  "num_followers": 85776,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGI1N2RkMGZhNDc4YTE1MTY0MzgzZTIzYTk5MmE1ZjRm",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDBjZDFkYzU2OTU2YTA2Y2JlYmU3Y2JhOTg2NmE2NmE3",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Mordechai Remixes",
-        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Dearest Alfred (MyJoy)",
-      "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -663,18 +643,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+        "name": "Mordechai Remixes",
+        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+      "duration_ms": 195604,
+      "name": "Dearest Alfred (MyJoy)",
+      "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -699,38 +683,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
       "artists": [
         {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Romeo (feat. Bas)",
-        "url": "https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Romeo (feat. Bas)",
-      "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -751,6 +715,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Romeo (feat. Bas)",
+        "url": "https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Romeo (feat. Bas)",
+      "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK"
-      },
-      "artists": [
-        {
-          "name": "OSHUN",
-          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Szikra",
         "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 401573,
       "name": "Szikra",
       "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY"
+      },
+      "artists": [
+        {
+          "name": "Fantasy 15",
+          "url": "https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Space Is Only Noise",
-        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "OSHUN",
+          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
         }
       ],
-      "duration_ms": 202762,
-      "name": "Colomb",
-      "url": "https://open.spotify.com/track/5PV6r93MQICDlBiCEbURLZ"
+      "duration_ms": 213333,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 205760,
-      "name": "A Moment Of Mystery (feat. Toro y Moi)",
-      "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1039,6 +1035,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Space Is Only Noise",
+        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 202762,
+      "name": "Colomb",
+      "url": "https://open.spotify.com/track/5PV6r93MQICDlBiCEbURLZ"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Diego E.P.",
         "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
       },
@@ -1051,38 +1063,6 @@
       "duration_ms": 221946,
       "name": "Ozu",
       "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY"
-      },
-      "artists": [
-        {
-          "name": "Fantasy 15",
-          "url": "https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Dr. Buzzard's Original Savannah Band",
-        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Buzzard's Original Savannah Band",
-          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Sunshower",
-      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1103,6 +1083,42 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "A Moment Of Mystery (feat. Toro y Moi)",
+      "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Dr. Buzzard's Original Savannah Band",
+        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Buzzard's Original Savannah Band",
+          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -1119,26 +1135,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 298713,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "La Perla",
         "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
       },
@@ -1151,22 +1147,6 @@
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1191,22 +1171,38 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 298713,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1243,6 +1239,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
       },
@@ -1259,34 +1275,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
       },
       "artists": [
         {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
-        },
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
     }
   ],
   "unique_name": "Turntable",

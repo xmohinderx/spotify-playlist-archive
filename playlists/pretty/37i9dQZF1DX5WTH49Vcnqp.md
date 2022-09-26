@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > all the hottest indie tunes in the world rn feat\. Sycco, The 1975, Channel Tres & Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,314 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,298 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

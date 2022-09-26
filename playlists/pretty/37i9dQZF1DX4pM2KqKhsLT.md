@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pM2KqKhsLT.md) - [plain]
 
 ### [RADAR Podcasters Philippines](https://open.spotify.com/playlist/37i9dQZF1DX4pM2KqKhsLT)
 
-> Exciting podcasters on the RADAR: The Week Sauce, Wisdom Bars with Real Talk Darbs, and The Linya\-Linya Show! \#PinoyPride
+> Exciting podcasters on the RADAR: The Linya\-Linya Show, The Week Sauce, and Wisdom Bars with Real Talk Darbs! \#PinoyPride
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY2MzE0NTQxMCwwMDAwMDAwMGI2ODE0ZDM3NDEzOTNiNTY5NDIyNGE0ZjA4YzYwZTNk`
+Snapshot ID: `MTY2NDEyODIzOCwwMDAwMDAwMGY5ZDA0OTNlZDg4N2I1YWQ0ZTBlMGM3NDEyNTY1NDI3`

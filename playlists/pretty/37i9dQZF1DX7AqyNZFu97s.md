@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Kingfishr
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,456 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,464 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 35 | [god damn shame](https://open.spotify.com/track/0E1MhNoaV7boJfi58aNsV0) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [god damn shame](https://open.spotify.com/album/4tslZ022UfQGn98tQIk3WU) | 2:26 |
 | 36 | [last kiss](https://open.spotify.com/track/25j9iRq1hEGZZxGn2EBl68) | [AER](https://open.spotify.com/artist/6BmbDNVQF1LFBRIeHVUGYR), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [beauty from chaos \(deluxe\)](https://open.spotify.com/album/3Qdm3ZelxjVR7VMkqJpdXD) | 3:37 |
 | 37 | [Just Talk](https://open.spotify.com/track/5FQOnQ2UDM4uSjlL3IQ3XP) | [wtr](https://open.spotify.com/artist/5eX9fwoNnYywE0qOFazRbF) | [Just Talk](https://open.spotify.com/album/5t6T8e50hlAMM0Ia9DCo7p) | 2:15 |
-| 38 | [Black Hole](https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L) | [Siobhán](https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp) | [Black Hole](https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq) | 4:01 |
+| 38 | [Black Hole](https://open.spotify.com/track/5KZX9IFFM1671Xt3Uji7oC) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Black Hole](https://open.spotify.com/album/6hZMs2JBmHOEaRdkyFXHkY) | 4:01 |
 | 39 | [Let It Ride](https://open.spotify.com/track/3QYeBUd9Dqpip2kTuECDQ3) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Let It Ride](https://open.spotify.com/album/5Bm5JGpEgYEzAAwqVjm2xQ) | 2:14 |
 | 40 | [Where Did the Time Go?](https://open.spotify.com/track/4vb9iqACCg9NCRzOZcY0Wn) | [Louis Coupe](https://open.spotify.com/artist/0z3rfEBIv0g8M5x7z2SVz5) | [Where Did the Time Go?](https://open.spotify.com/album/0MaKfhmFPydTiy7oNajn7W) | 3:25 |
 | 41 | [gaslight](https://open.spotify.com/track/3EEBPFJts7jsz37sD5PvOW) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [gaslight](https://open.spotify.com/album/4V6oE935wVy1XBktVEzOYs) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Dau Fyd](https://open.spotify.com/track/56iNeWBIKXEZZjuRpKBUQO) | [Yws Gwynedd](https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO) | [Dau Fyd](https://open.spotify.com/album/1rOVUie4TiFTwTBS6Jljis) | 3:02 |
 | 80 | [Pickle Juice](https://open.spotify.com/track/7A2gmEbaYLV9pyJv2CArPt) | [daisy veacock](https://open.spotify.com/artist/3PCWmgzCD4eAIiVGMjBL1M) | [Pickle Juice](https://open.spotify.com/album/4UxMAFBzDMcgcJ8wOPNrg6) | 3:33 |
 
-Snapshot ID: `MTY2Mzc5Mzg0NiwwMDAwMDAwMGRjN2I3NTc4NmVhYzE2MGE3MDFjMDg2M2EzOGE4NmFh`
+Snapshot ID: `MTY2Mzc5Mzg0NiwwMDAwMDAwMGM3Mzg3N2Q1NjNkNmI5ZGE2NTY0YmY4YWJkMzA3MzMw`

@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-354 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+355 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-11 |  |
 | [Got a Lotta Love](https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 3:02 | 2022-07-11 |  |
 | [Got a Lotta Love](https://open.spotify.com/track/2eudmfFsYkZv1MEI1acWih) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/3fE0XsKfZtrTFVcVGIQWBX) | 3:02 | 2021-11-12 | 2022-07-29 |
+| [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 | 2022-09-16 |  |
 | [Halo \- Acoustic Version](https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Halo & Begin Again \(Unplugged\)](https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU) | 3:37 | 2022-04-01 | 2022-04-19 |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-07-11 |  |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-11-12 | 2022-07-28 |
@@ -210,7 +211,7 @@
 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-05-25 |  |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 | 2022-07-29 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-07-11 |  |
-| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-11-12 |  |
+| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-11-12 | 2022-09-26 |
 | [Moontalk](https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Moontalk](https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6) | 3:11 | 2021-11-12 | 2022-07-27 |
 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ) | 5:32 | 2022-04-01 | 2022-07-29 |
 | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3), [Luke Krutzke](https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL) | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg) | 3:56 | 2021-11-12 | 2022-07-29 |

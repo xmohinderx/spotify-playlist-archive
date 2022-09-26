@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 714345,
+  "num_followers": 714522,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjAxOSwwMDAwMDAwMDM5YmNjNGNmMDcwYzNmMDFjYjI1ZWRiNWI5ZTdmODlh",
+  "snapshot_id": "MTY2MzkwNjAxOSwwMDAwMDAwMDc4ZTU3OGZkZmIzOTY3NGRiNjUxODljMzg4ZGQ5YTVj",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Table For Two",
         "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 302240,
       "name": "How Much Can A Heart Take (feat. Yebba)",
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 203483,
-      "name": "When You Were Mine",
-      "url": "https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -505,6 +505,42 @@
       "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "My Way (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ryan James Carr",
+          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
+        }
+      ],
+      "duration_ms": 192064,
+      "name": "Nice & Slow - Ryan James Carr Remake",
+      "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
+    },
+    {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Money",
@@ -523,22 +559,6 @@
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -591,26 +611,6 @@
       "duration_ms": 204000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "My Way (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ryan James Carr",
-          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
-        }
-      ],
-      "duration_ms": 192064,
-      "name": "Nice & Slow - Ryan James Carr Remake",
-      "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -789,6 +789,42 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "I Won't Fall To Your Love",
@@ -821,6 +857,22 @@
       "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
     },
     {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Footsteps in the Dark Pts. 1 & 2",
@@ -835,26 +887,6 @@
       "duration_ms": 317992,
       "name": "Footsteps in the Dark Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 252616,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -877,20 +909,20 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+      "duration_ms": 168906,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -911,34 +943,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
+        "name": "Louie Bag (feat. Smino)",
+        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+      "duration_ms": 227756,
+      "name": "Louie Bag (feat. Smino)",
+      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -959,22 +979,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Louie Bag (feat. Smino)",
-        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Louie Bag (feat. Smino)",
-      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
-      },
-      "artists": [
-        {
-          "name": "Natanya Popoola",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 256853,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
+      },
+      "artists": [
+        {
+          "name": "Natanya Popoola",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Brown Angel",
-        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
-      },
-      "artists": [
-        {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Brown Angel",
-      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Sol Empowered",
         "url": "https://open.spotify.com/album/7aHPzt88ZLkOZu26dqlEvs"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Brown Angel",
+        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
+      },
+      "artists": [
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Brown Angel",
+      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "One More Kiss",
         "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 226629,
       "name": "One More Kiss",
       "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1287,42 +1319,6 @@
       "duration_ms": 172493,
       "name": "Take Me Away (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Outside: From The Redwoods",
-        "url": "https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "What a Fool Believes (with Michael McDonald) - Live",
-      "url": "https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ"
     }
   ],
   "unique_name": "Soul Coffee",

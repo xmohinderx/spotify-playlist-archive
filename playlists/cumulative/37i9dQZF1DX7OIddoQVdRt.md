@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2021-06-25 |  |
+| [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2021-06-25 | 2022-09-26 |
 | [A Billion People](https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Deitrick Haddon & Hill City Worship Camp](https://open.spotify.com/album/54fmFSJ25qYXO4mUD9wt3O) | 7:38 | 2021-06-25 | 2022-07-29 |
 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 | 2021-06-25 | 2022-07-29 |
 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 | 2021-06-25 |  |
@@ -73,7 +73,7 @@
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2021-06-25 |  |
 | [Speak To Me](https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Speak To Me](https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r) | 2:46 | 2021-06-25 | 2022-07-26 |
 | [Speechless](https://open.spotify.com/track/50CnlEH8KWLVNPxi29dnwb) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/7czy5VoDEF3LejpGK8Ia0o) | 6:16 | 2021-06-25 | 2022-07-29 |
-| [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 | 2021-06-25 | 2022-08-25 |
+| [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 | 2021-06-25 |  |
 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 | 2021-06-25 |  |
 | [Sunday Morning \(Thinkin ‘Bout You\)](https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Love & Other Dreams](https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75) | 4:50 | 2021-06-25 | 2022-07-16 |
 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 | 2021-06-25 |  |

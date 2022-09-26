@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 90795,
+  "num_followers": 90865,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDg0MzZhMWRiM2Y5MGQyYzM3NWVkMGY1OWZmYjdmMjg2",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGJiZDc5M2IzMmJiNDJhNzU2Zjg5ZjRmNGNlZjlmNzhj",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I Don't Want to Lose You",
         "url": "https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 171013,
       "name": "I Don't Want to Lose You",
       "url": "https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 224445,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Ie+",
-        "url": "https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b"
-      },
-      "artists": [
-        {
-          "name": "BRDGS",
-          "url": "https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT"
-        }
-      ],
-      "duration_ms": 248032,
-      "name": "Dancing Without Music",
-      "url": "https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Ie+",
+        "url": "https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b"
+      },
+      "artists": [
+        {
+          "name": "BRDGS",
+          "url": "https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT"
+        }
+      ],
+      "duration_ms": 248032,
+      "name": "Dancing Without Music",
+      "url": "https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 329266,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "songs from 3am",
-        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
-      },
-      "artists": [
-        {
-          "name": "carobae",
-          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
-        }
-      ],
-      "duration_ms": 178895,
-      "name": "i don't miss u",
-      "url": "https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -647,6 +631,22 @@
       "duration_ms": 269986,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "songs from 3am",
+        "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "duration_ms": 178895,
+      "name": "i don't miss u",
+      "url": "https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Covered up with Flowers",
+        "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "I\u2019ll Still Have Me",
         "url": "https://open.spotify.com/album/0bO19AlrcNsk8t5gOqKDgX"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Covered up with Flowers",
-        "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
+        "name": "Nothing Is Wrong (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2"
       },
       "artists": [
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
+      "duration_ms": 342786,
+      "name": "A Little Bit of Everything",
+      "url": "https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -843,18 +859,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Nothing Is Wrong (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2"
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 342786,
-      "name": "A Little Bit of Everything",
-      "url": "https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm"
+      "duration_ms": 189335,
+      "name": "Samson",
+      "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -871,22 +887,6 @@
       "duration_ms": 386786,
       "name": "I Know Places",
       "url": "https://open.spotify.com/track/4u3aErjHkwVqqdyfNDMyJ1"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 189335,
-      "name": "Samson",
-      "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 189337,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
+      "duration_ms": 215373,
+      "name": "Foreground",
+      "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Foreground",
-      "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
       },
@@ -1131,6 +1115,38 @@
       "duration_ms": 195240,
       "name": "Heal",
       "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 189337,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "I Went To The Store One Day",
+      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1155,22 +1171,6 @@
       "duration_ms": 272033,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/5JquknF5yqKV2lZFeffMIQ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "I Went To The Store One Day",
-      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Daisies Of The Galaxy",
         "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 236482,
-      "name": "Historians",
-      "url": "https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b"
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
       "artists": [
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 230006,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
+      "duration_ms": 236482,
+      "name": "Historians",
+      "url": "https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1491,6 +1475,38 @@
       "duration_ms": 211770,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "placeholder",
+        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 230006,
+      "name": "placeholder",
+      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
+      },
+      "artists": [
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Heart In My Hands",
+      "url": "https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
-      },
-      "artists": [
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Heart In My Hands",
-      "url": "https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Running Still",
-        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
-      },
-      "artists": [
-        {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "She Went Quietly",
-      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "One Last Wedding",
         "url": "https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 222568,
       "name": "One Last Wedding",
       "url": "https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Running Still",
+        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
+      },
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "She Went Quietly",
+      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
     },
     {
       "added_at": "2021-04-30 17:29:47",

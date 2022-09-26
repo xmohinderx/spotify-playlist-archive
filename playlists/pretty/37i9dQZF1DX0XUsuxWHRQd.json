@@ -1,29 +1,13 @@
 {
   "description": "New music from DaBaby, Moneybagg Yo and YG.",
-  "num_followers": 14661077,
+  "num_followers": 14662632,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0ODU5OSwwMDAwMDAwMDMxNDNmMGM2MGRhNmFjNTI2MDY1NmI1MGFiOTFkNGFl",
+  "snapshot_id": "MTY2NDEyODkzNywwMDAwMDAwMDIxNzk3YWRmMTFmNDRlYzJjYWQ0ZGQwNjI4OGY5NTZl",
   "tracks": [
-    {
-      "added_at": "2022-09-23 15:56:39",
-      "album": {
-        "name": "Baby On Baby 2",
-        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 126277,
-      "name": "GO AGAIN - Intro",
-      "url": "https://open.spotify.com/track/7gDBTPpsYhVi93lvhVTJWZ"
-    },
     {
       "added_at": "2022-09-23 15:56:39",
       "album": {
@@ -83,6 +67,42 @@
     {
       "added_at": "2022-09-23 15:56:39",
       "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "added_at": "2022-09-23 15:56:39",
+      "album": {
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 126277,
+      "name": "GO AGAIN - Intro",
+      "url": "https://open.spotify.com/track/7gDBTPpsYhVi93lvhVTJWZ"
+    },
+    {
+      "added_at": "2022-09-23 15:56:39",
+      "album": {
         "name": "Realer 2",
         "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
       },
@@ -119,22 +139,6 @@
       "duration_ms": 207306,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
-    },
-    {
-      "added_at": "2022-09-23 15:56:39",
-      "album": {
-        "name": "Baby On Baby 2",
-        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "SOCKS",
-      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "added_at": "2022-09-23 15:56:39",
@@ -303,22 +307,18 @@
     {
       "added_at": "2022-09-23 15:56:39",
       "album": {
-        "name": "Tomorrow 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "added_at": "2022-09-23 15:56:39",

@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-187 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
+188 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,14 @@
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2022-03-30 | 2022-07-29 |
 | [Anywhere Away from Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/5gjATWO1EIhrCP1CQ2GWg8) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:58 | 2022-06-30 |  |
 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 | 2022-03-30 |  |
+| [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 | 2022-09-23 |  |
 | [Avalanche](https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Avalanche](https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy) | 3:47 | 2022-03-30 | 2022-07-29 |
 | [Back In The Water](https://open.spotify.com/track/2pu58Ze8wqgZDq1eQs3P8c) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Back In The Water](https://open.spotify.com/album/4AFg8jti4zlGxS2RGAU4NV) | 3:09 | 2022-03-30 | 2022-07-29 |
 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 | 2022-06-30 |  |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-03-30 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-03-30 |  |
 | [Black Converse](https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Black Converse](https://open.spotify.com/album/5veCdVBHBm0jt5SeNq52ql) | 3:06 | 2022-03-30 | 2022-07-28 |
-| [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2022-06-30 |  |
+| [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2022-06-30 | 2022-09-26 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-06-30 |  |
 | [Break It Right](https://open.spotify.com/track/2ggaQJV9jcN2dJt8BMV4SD) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Break It Right](https://open.spotify.com/album/3oTPnnvEW5k9XSD9DURps6) | 3:55 | 2022-03-30 | 2022-07-25 |
 | [Breathe It In](https://open.spotify.com/track/4zImPL4a69TWpEPfvWfbCm) | [Strandels](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Breathe It In](https://open.spotify.com/album/0lh6s8UCxkpCMULEIQZycO) | 3:05 | 2022-03-30 | 2022-07-29 |

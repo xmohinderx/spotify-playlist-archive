@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,554 likes - 94 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,042 likes - 94 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rasiya \(From "Brahmastra"](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 |
+| 1 | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 |
 | 2 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 |
 | 3 | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui) | 3:51 |
 | 4 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |

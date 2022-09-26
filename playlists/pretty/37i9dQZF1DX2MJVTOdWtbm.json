@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Ramon Vega",
-  "num_followers": 100203,
+  "num_followers": 100259,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMGYwYzRmZGJhZTI3YzViOTNkMTM1ODAyZTFmYWU2YTk3",
+  "snapshot_id": "MTY2Mzk0NjgzMiwwMDAwMDAwMGQ5OGMxNzI2Mjg4ZTUyNzg3NDk2MzQzNmZmNGQ2Y2Y0",
   "tracks": [
     {
       "added_at": "2022-09-23 15:27:11",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Garabatos (with Jay Wheeler)",
-        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Garabatos (with Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2022-09-23 15:27:11",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 251106,
       "name": "Podemos Intentar",
       "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
+    },
+    {
+      "added_at": "2022-09-23 15:27:11",
+      "album": {
+        "name": "Garabatos (with Jay Wheeler)",
+        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Garabatos (with Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "i hope you're very unhappy without me",
+        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+      "duration_ms": 125166,
+      "name": "De Na'",
+      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "i hope you're very unhappy without me",
-        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 125166,
-      "name": "De Na'",
-      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
+        "name": "PAELLA",
+        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "duration_ms": 182753,
+      "name": "PAELLA",
+      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
+    },
+    {
+      "added_at": "2022-09-23 15:27:11",
+      "album": {
         "name": "Ninf\u00f3manos",
         "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 188400,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx"
-    },
-    {
-      "added_at": "2022-09-23 15:27:11",
-      "album": {
-        "name": "PAELLA",
-        "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
-      },
-      "artists": [
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        }
-      ],
-      "duration_ms": 182753,
-      "name": "PAELLA",
-      "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1431,34 +1431,18 @@
     {
       "added_at": "2022-09-23 15:27:11",
       "album": {
-        "name": "Deli\u0107",
-        "url": "https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx"
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
       },
       "artists": [
         {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
         }
       ],
-      "duration_ms": 273023,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
-    },
-    {
-      "added_at": "2022-09-23 15:27:11",
-      "album": {
-        "name": "entrevayus",
-        "url": "https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "la que calla",
-      "url": "https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj"
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-09-23 15:27:11",
@@ -1475,6 +1459,22 @@
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
+    },
+    {
+      "added_at": "2022-09-23 15:27:11",
+      "album": {
+        "name": "Deli\u0107",
+        "url": "https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 273023,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
     }
   ],
   "unique_name": "Latin R&B",

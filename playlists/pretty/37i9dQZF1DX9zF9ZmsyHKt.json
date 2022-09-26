@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 312919,
+  "num_followers": 312972,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTA3NTc5NCwwMDAwMDAwMDVmZDFhOGMwM2Q3MzQ1ODJjN2FmYTU1YTliOTA1MTI4",
+  "snapshot_id": "MTYzOTA3NTc5NCwwMDAwMDAwMGQ5NDA2ZmU3NGJiZDk2Yzk0ZTkyYjBiYzdiMDQ5Yjcz",
   "tracks": [
     {
       "added_at": "2021-10-15 03:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Admir\u00e1vel Chip Novo",
-        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Admir\u00e1vel Chip Novo",
+        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Livre (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Andan\u00e7a",
+      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
         "name": "50 Reais",
         "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Andan\u00e7a",
-      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
         "name": "Monomania",
         "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Primeira Vez",
-        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Primeira Vez",
+        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 226243,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Te Fa\u00e7o um Cafun\u00e9",
         "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 227604,
       "name": "Te Fa\u00e7o um Cafun\u00e9",
       "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 226243,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 210261,
-      "name": "Poemas Que Colori",
-      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Poemas Que Colori",
+      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
         "name": "Eu",
         "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
-      },
-      "artists": [
-        {
-          "name": "Obinrin Trio",
-          "url": "https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R"
-        },
-        {
-          "name": "Ju Strassacapa",
-          "url": "https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH"
-        }
-      ],
-      "duration_ms": 281034,
-      "name": "Feito Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
+      },
+      "artists": [
+        {
+          "name": "Obinrin Trio",
+          "url": "https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R"
+        },
+        {
+          "name": "Ju Strassacapa",
+          "url": "https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH"
+        }
+      ],
+      "duration_ms": 281034,
+      "name": "Feito Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
+        "name": "Ambulante",
+        "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Boss in Drama",
+          "url": "https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1211,22 +1231,18 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Ambulante",
-        "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
       },
       "artists": [
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Boss in Drama",
-          "url": "https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB"
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
         }
       ],
-      "duration_ms": 151520,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+      "duration_ms": 321647,
+      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
       },
       "artists": [
         {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
         }
       ],
-      "duration_ms": 321647,
-      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
+      "duration_ms": 185341,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 167341,
       "name": "Baldin de Gelo",
       "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
-      },
-      "artists": [
-        {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
+        "name": "Ciranda Sem Fim",
+        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
+      },
+      "artists": [
+        {
+          "name": "Lia de Itamarac\u00e1",
+          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Meu S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
-        "name": "Ciranda Sem Fim",
-        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
-      },
-      "artists": [
-        {
-          "name": "Lia de Itamarac\u00e1",
-          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Meu S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Azul Moderno",
-        "url": "https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        }
-      ],
-      "duration_ms": 234927,
-      "name": "Azul Moderno",
-      "url": "https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "\u00c9 Isso A\u00ed",
         "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 201840,
       "name": "\u00c9 Isso A\u00ed",
       "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
+        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
+      },
+      "artists": [
+        {
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Suave Veneno",
+      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
     }
   ],
   "unique_name": "Escuta as Minas",

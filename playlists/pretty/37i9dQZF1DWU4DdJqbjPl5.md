@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw" >Elaine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,427 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,572 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 52 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
 | 53 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 |
 | 54 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
-| 55 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 |
+| 55 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
 | 56 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 |
 | 57 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 |
 | 58 | [Forever](https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa) | [Andi K](https://open.spotify.com/artist/2kB03CmhDTWP3asDmD2iYB), [Shizzi](https://open.spotify.com/artist/1247AZNYLxb33DmPibFLZZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Forever](https://open.spotify.com/album/2JuPCMHU5tQwYVTjOWCeLF) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [attention](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 |
 | 80 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 |
 
-Snapshot ID: `MTY2Mzg5MzMwNSwwMDAwMDAwMDExYTJmMDI1NWNjNjQ2YjhjZGZlYTgyZjNlN2NkZWU2`
+Snapshot ID: `MTY2Mzg5MzMwNSwwMDAwMDAwMDhjYzNkZmE5YzFhMzA1MzgxM2UwZmM3MGRkZDM3MGMx`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-781 songs - 1 day 18 hr 23 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+782 songs - 1 day 18 hr 28 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,10 +522,11 @@
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-31 | 2022-07-23 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-16 | 2022-08-22 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2022-01-18 | 2022-02-02 |
+| [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-25 |  |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-03-01 | 2022-03-03 |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-29 | 2022-04-05 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-09-14 | 2022-09-18 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-26 |
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2022-05-10 | 2022-05-29 |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-05-17 | 2022-05-20 |
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-05 | 2022-03-23 |

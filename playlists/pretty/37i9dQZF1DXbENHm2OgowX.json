@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 17391,
+  "num_followers": 17486,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDU4MywwMDAwMDAwMDhhMDFlMTQzNzE0Zjg1YzdjNGUzMTA4ZjY1NDg5OTQ3",
+  "snapshot_id": "MTY2MzAwMDU4MywwMDAwMDAwMGU1MTdhYmIyODg3ZTM0NmY2NWZmNjdjZjk1YjBlNDAw",
   "tracks": [
     {
       "added_at": "2022-09-12 16:36:23",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-09-12 16:36:23",
       "album": {
+        "name": "You Stay by the Sea (Deluxe)",
+        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+    },
+    {
+      "added_at": "2022-09-12 16:36:23",
+      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 368692,
       "name": "The Mysterious Vanishing of Electra",
       "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"
-    },
-    {
-      "added_at": "2022-09-12 16:36:23",
-      "album": {
-        "name": "You Stay by the Sea (Deluxe)",
-        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
     },
     {
       "added_at": "2022-09-12 16:36:23",

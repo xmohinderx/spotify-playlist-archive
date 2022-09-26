@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 245733,
       "name": "All Or Nothin'",
       "url": "https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 274813,
       "name": "All You Can Carry",
       "url": "https://open.spotify.com/track/757plEIHl29OU5hOMRvJnH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 169893,
       "name": "Alright for Now - Live",
       "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 235278,
       "name": "Climb That Hill",
       "url": "https://open.spotify.com/track/5d3uVVKg38en0klxOycXJU"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 206120,
       "name": "Full Grown Boy",
       "url": "https://open.spotify.com/track/1u4HpdpAG9W8HGXAlEqAhb"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 259320,
       "name": "Green Onions - Live",
       "url": "https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q"
@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 734813,
+      "name": "It's Good to Be King - Live",
+      "url": "https://open.spotify.com/track/3fr8eOb9TWfp7VM7IrTg2Q"
+    },
+    {
+      "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 186733,
       "name": "Kings Highway",
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"

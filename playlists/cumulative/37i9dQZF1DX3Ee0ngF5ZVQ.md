@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-361 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+362 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-05-27 |  |
 | [Glory of True Love](https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Glory of True Love](https://open.spotify.com/album/5HU1SmRWt20DsYKazXiMQa) | 4:09 | 2022-01-14 | 2022-07-29 |
 | [Go For A Drive](https://open.spotify.com/track/03h9MHRWj80zAF84Q0839u) | [Hunter Thomas](https://open.spotify.com/artist/0KwfJ6dji46g0lr6oab77I) | [Go for a Drive](https://open.spotify.com/album/1RMUz5G2ILPsKcCQfWnwG4) | 3:22 | 2021-12-17 | 2022-05-28 |
-| [God & Everybody](https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [God & Everybody](https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I) | 2:54 | 2022-07-08 |  |
+| [God & Everybody](https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [God & Everybody](https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I) | 2:54 | 2022-07-08 | 2022-09-26 |
 | [Gold Standard](https://open.spotify.com/track/3ZVMKmTQfuzGgMAV85zYVf) | [Kelley Mickwee](https://open.spotify.com/artist/1mL6Bc23N2p1OTNnlrgy3K) | [Gold Standard](https://open.spotify.com/album/31CLQQHswNksEu8ODlpvEC) | 3:04 | 2022-02-25 | 2022-07-09 |
 | [Gonna Come Back as a Country Song](https://open.spotify.com/track/5KTRvA487P1YQ0gyZ11TRb) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Gonna Come Back as a Country Song](https://open.spotify.com/album/5cPlErhGpL5E8kujxQsQsk) | 3:04 | 2022-04-15 | 2022-08-11 |
 | [Goodbye Gasoline](https://open.spotify.com/track/30mjMeBQmodiVVWfrpFhPM) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Goodbye Gasoline](https://open.spotify.com/album/5PKGayTUSJYbZBCeMxEDqY) | 2:45 | 2022-02-11 | 2022-07-29 |
@@ -302,6 +302,7 @@
 | [Terrifying Nature \- Radio Edit](https://open.spotify.com/track/3mZmMGoGqyVjjLRkR9ZP1l) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-09-16 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 |  |
+| [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
 | [The Good Ol' U.S\. of A.](https://open.spotify.com/track/0GjSVSf4E80qZQFuRBADZs) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [The Good Ol' U.S\. of A.](https://open.spotify.com/album/12KYJ6Y3Z60POCITCFz6nN) | 3:40 | 2021-12-17 | 2022-03-19 |
 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 | 2022-08-05 |  |
 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 | 2021-12-17 | 2022-06-11 |

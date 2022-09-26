@@ -4,13 +4,14 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-372 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+374 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2, 3, 4](https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 3:37 | 2021-01-15 |  |
 | [1000 \- sunset version](https://open.spotify.com/track/4p6e7EE4NVJ8ZkO7UNRyq6) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1000](https://open.spotify.com/album/2YHeBvEeEKpRN04rUIMRWp) | 3:59 | 2021-09-19 | 2022-07-28 |
-| [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 |  |
+| [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 | 2022-09-26 |
+| [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 | 2022-09-23 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* |  |
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
 | [Acid Rain](https://open.spotify.com/track/2GlDzxxz0k9aUZdM7cGAJV) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Acid Rain](https://open.spotify.com/album/7n06K0Qu5z9cb7KMR7ufHF) | 3:35 | 2022-01-21 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 |  |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-04-15 |  |
 | [Heureux infidèles](https://open.spotify.com/track/5nOl6RJKPDlXrgxmLst4Yr) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Heureux infidèles](https://open.spotify.com/album/4J23D2h8q0B82j9hOsGvAJ) | 3:05 | 2022-05-13 | 2022-07-23 |
-| [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 |  |
+| [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-09-26 |
 | [Hôtel W](https://open.spotify.com/track/1m4j2CTdFInGzB9LhUx3ST) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Hôtel W](https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD) | 3:08 | 2021-01-03\* | 2021-01-27 |
 | [If Life Were a Movie](https://open.spotify.com/track/1NbVr5Rjhr1cFRGaYTNhGw) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [If Life Were a Movie](https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti) | 2:15 | 2022-07-08 | 2022-07-25 |
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
@@ -246,6 +247,7 @@
 | [Morceaux](https://open.spotify.com/track/0zEcIEPHJj4MsE021bP11Y) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1zEmqQmj5Fw1ICjE8uYBwn) | 4:59 | 2021-01-03\* | 2022-07-29 |
 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 | 2022-07-08 |  |
 | [Mourir au large \- sunrise version](https://open.spotify.com/track/1Sl7Lu4hrGSl3agn3OUEZW) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mourir au large](https://open.spotify.com/album/5ZC4UbRnVaHmzg5oIhlDyY) | 2:32 | 2021-10-09 | 2021-11-09 |
+| [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 |  |
 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 | 2021-01-15 | 2022-04-16 |
 | [Métamorphose](https://open.spotify.com/track/7mBKtspKXvQSUZZZqjsSYR) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Métamorphose](https://open.spotify.com/album/0QmmTp77ovJzMPXW78pNvb) | 3:08 | 2021-08-17 | 2021-10-02 |
 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 | 2022-04-15 |  |

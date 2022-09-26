@@ -1145,6 +1145,28 @@
     {
       "album": {
         "name": "Everybody Cries",
+        "url": "https://open.spotify.com/album/6Mhb8yybeWrddHI0fLPhky"
+      },
+      "artists": [
+        {
+          "name": "Cleez",
+          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
+        },
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170662,
+      "name": "Everybody Cries",
+      "url": "https://open.spotify.com/track/2522T0x7yLWMwA5Uw0s2A7"
+    },
+    {
+      "album": {
+        "name": "Everybody Cries",
         "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
       },
       "artists": [
@@ -4213,7 +4235,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 142000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"

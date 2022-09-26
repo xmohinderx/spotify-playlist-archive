@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 166960,
       "name": "Glint",
       "url": "https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 315705,
       "name": "Key Biscayne",
       "url": "https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV"
@@ -2751,7 +2751,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 146521,
       "name": "Passages",
       "url": "https://open.spotify.com/track/0d4eOwlQzOc5bmed9kqLQb"
@@ -2975,6 +2975,28 @@
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1"
+    },
+    {
+      "album": {
+        "name": "The Essentials : ihaveaface",
+        "url": "https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj"
+      },
+      "artists": [
+        {
+          "name": ".ihaveaface",
+          "url": "https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av"
+        },
+        {
+          "name": "Pueblo Vista",
+          "url": "https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Rainy Forest",
+      "url": "https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV"
     },
     {
       "album": {

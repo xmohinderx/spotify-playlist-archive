@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 4446,
+  "num_followers": 4460,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDc0ZDg2ODZhNjY2ZTBkODA2NGJkNzRjZmY2NjI0ZmVm",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGRlMjViMDBmMzAzNGY0ODRiOWUyMGE4NTRkODc2MDg3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Malfunktionality Part One",
-        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
-      },
-      "artists": [
-        {
-          "name": "Beat Fatigue",
-          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
-        }
-      ],
-      "duration_ms": 258776,
-      "name": "A Blues Malfunktion",
-      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "I'm Back With Trouble",
@@ -311,6 +295,22 @@
       "duration_ms": 198058,
       "name": "I'm Back With Trouble",
       "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Malfunktionality Part One",
+        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
+      },
+      "artists": [
+        {
+          "name": "Beat Fatigue",
+          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
+        }
+      ],
+      "duration_ms": 258776,
+      "name": "A Blues Malfunktion",
+      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
-      },
-      "artists": [
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Music for Cop Shows",
@@ -623,22 +607,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Precious Time",
         "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
       },
@@ -651,6 +619,22 @@
       "duration_ms": 319253,
       "name": "Back Against The Wall",
       "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -683,6 +667,22 @@
       "duration_ms": 255840,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        },
-        {
-          "name": "E-Z Rollers",
-          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
-        }
-      ],
-      "duration_ms": 738306,
-      "name": "Can't Help Myself - E-Z Rollers Remix",
-      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Come on Jump Right In",
         "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 319893,
       "name": "Idol (Should I Know)",
       "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "A Different Beat",
+        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        },
+        {
+          "name": "E-Z Rollers",
+          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
+        }
+      ],
+      "duration_ms": 738306,
+      "name": "Can't Help Myself - E-Z Rollers Remix",
+      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
     }
   ],
   "unique_name": "Bluestronica",

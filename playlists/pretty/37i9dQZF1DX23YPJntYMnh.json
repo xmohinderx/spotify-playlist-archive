@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 448900,
+  "num_followers": 448974,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDFkZmVlZDA3NThhOWU2YmNmNjRhY2IwOTMyYWYzZjk3",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDQ4YjIzOGIxMTQ0MWJjZWJkM2NkNmJiZTFmMTZlMDcw",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Breaking Glass - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 262360,
       "name": "I Know Somethin (Bout You)",
       "url": "https://open.spotify.com/track/358XBWJ3pa71P4U89v393N"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Breaking Glass - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "duration_ms": 390339,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5"
+    },
+    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "The Essential Fishbone",
@@ -683,22 +699,6 @@
       "duration_ms": 272426,
       "name": "Anti Love Song",
       "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw"
-      },
-      "artists": [
-        {
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
-        }
-      ],
-      "duration_ms": 390339,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
-        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 224379,
-      "name": "Shakey Ground",
-      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Street Sweeper Social Club",
         "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Mas Borracho",
+        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
+      },
+      "artists": [
+        {
+          "name": "Infectious Grooves",
+          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Please Excuse This Funk Up",
+      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Mas Borracho",
-        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
+        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
+        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
       },
       "artists": [
         {
-          "name": "Infectious Grooves",
-          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
         }
       ],
-      "duration_ms": 277173,
-      "name": "Please Excuse This Funk Up",
-      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
+      "duration_ms": 224379,
+      "name": "Shakey Ground",
+      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Street Sweeper Social Club",
+        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
+      },
+      "artists": [
+        {
+          "name": "Street Sweeper Social Club",
+          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Clap For The Killers",
+      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Soundsystem",
         "url": "https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 283026,
       "name": "Sever",
       "url": "https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
-      },
-      "artists": [
-        {
-          "name": "Screaming Headless Torsos",
-          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Vinnie",
-      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
       },
       "artists": [
         {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+          "name": "Screaming Headless Torsos",
+          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
         }
       ],
-      "duration_ms": 289893,
-      "name": "What Time Is It?",
-      "url": "https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA"
+      "duration_ms": 264933,
+      "name": "Vinnie",
+      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Street Sweeper Social Club",
-        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
       "artists": [
         {
-          "name": "Street Sweeper Social Club",
-          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Clap For The Killers",
-      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+      "duration_ms": 289893,
+      "name": "What Time Is It?",
+      "url": "https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA"
     },
     {
       "added_at": "2022-02-04 05:02:00",

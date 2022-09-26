@@ -4,7 +4,7 @@
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/53sjBaslS5oMykII3x7VVQ)
+53 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/53sjBaslS5oMykII3x7VVQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [I'm so Bored with the U.S.A\. \- Remastered](https://open.spotify.com/track/6bbQuT0lK4ekunMnK446Bt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:24 | 2022-09-17 |  |
 | [Janie Jones \- Remastered](https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:08 | 2022-09-17 |  |
 | [Julie's Been Working for the Drug Squad \- Remastered](https://open.spotify.com/track/2rUVY6uXm8J0IEr230B1L1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:03 | 2022-09-17 |  |
-| [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 | 2022-09-17 | 2022-09-25 |
+| [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 | 2022-09-17 |  |
 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 | 2022-09-17 |  |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2022-09-17 |  |
 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 | 2022-09-17 |  |
@@ -41,7 +41,7 @@
 | [Police & Thieves \- Remastered](https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 6:03 | 2022-09-17 |  |
 | [Police On My Back \- Remastered](https://open.spotify.com/track/3lILuFinx7CFaYXJ6FWz54) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:16 | 2022-09-17 |  |
 | [Pressure Drop](https://open.spotify.com/track/2pnxIOz7WbWZX8lKyLixHn) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 3:25 | 2022-09-17 |  |
-| [Red Angel Dragnet \- Remastered](https://open.spotify.com/track/3AySFupxPGQWjauQfFXcr0) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:44 | 2022-09-19 |  |
+| [Red Angel Dragnet \- Remastered](https://open.spotify.com/track/3AySFupxPGQWjauQfFXcr0) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:44 | 2022-09-19 | 2022-09-26 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2022-09-17 |  |
 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 | 2022-09-17 |  |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2022-09-17 |  |
@@ -49,8 +49,9 @@
 | [Spanish Bombs \- Remastered](https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:18 | 2022-09-17 |  |
 | [Stay Free \- Remastered](https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:40 | 2022-09-17 |  |
 | [Straight to Hell \- Remastered](https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 5:30 | 2022-09-17 |  |
-| [The Call Up \- Remastered](https://open.spotify.com/track/1DVZCooCJVp4DmCteQ5XlM) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 5:28 | 2022-09-17 |  |
+| [The Call Up \- Remastered](https://open.spotify.com/track/1DVZCooCJVp4DmCteQ5XlM) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 5:28 | 2022-09-17 | 2022-09-26 |
 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 | 2022-09-17 |  |
+| [The Leader \- Remastered](https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 1:42 | 2022-09-25 |  |
 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 | 2022-09-17 |  |
 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/3Ro71R8Vpy166E2PuQDSc8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 5:33 | 2022-09-17 |  |
 | [This is England](https://open.spotify.com/track/7p949cKSO5MDSjajSrAcfI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:50 | 2022-09-17 |  |

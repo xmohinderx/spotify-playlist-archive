@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Carin León en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,534 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,712 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 13 | [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 |
 | 14 | [Ignacio Parra](https://open.spotify.com/track/7CHLz5o5iO1T8E0TvnBJwo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ignacio Parra](https://open.spotify.com/album/4EHo1LRCtNhfd64IqEYVKX) | 4:18 |
 | 15 | [Los Billetes](https://open.spotify.com/track/4CcFT2GlTajlWUWncgXv0p) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [Grupo Mi Revolucion](https://open.spotify.com/artist/0xN8GVH0vVNe7PSDPrqJAl) | [Los Billetes](https://open.spotify.com/album/4JXdC67ZZEC1vqj65uh3Y4) | 3:26 |
-| 16 | [Seguimos De Pie M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
+| 16 | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
 | 17 | [El Escocés](https://open.spotify.com/track/5tQHOTHxGXxuQA8EI9CHML) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Escocés](https://open.spotify.com/album/0nFB0y3LnogYpF37iicmDB) | 3:12 |
 | 18 | [Amor Ranchero](https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Amor Ranchero](https://open.spotify.com/album/4l89Z2kzqjkEXxJclXIEsm) | 2:23 |
 | 19 | [Tu Risa](https://open.spotify.com/track/6wcmen6rVhsm1BDFwjR72z) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Tu Risa](https://open.spotify.com/album/58nDDv8VjluknsHWGOLKj2) | 3:44 |

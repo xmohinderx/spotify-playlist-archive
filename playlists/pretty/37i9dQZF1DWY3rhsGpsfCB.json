@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 2350,
+  "num_followers": 2367,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDY4MCwwMDAwMDAwMDI4M2U4ZTFkNjIwMjRkMDQzMTc5MzgyM2JmNWYxMmQy",
+  "snapshot_id": "MTY2MzkxNDY4MCwwMDAwMDAwMGVjZmViYmE4MzAxZmVmZWU2NzYxZWE1YTdlMjM4YmRm",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
+      "added_at": "2022-09-19 07:33:37",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Wild Side (feat. Cardi B)",
@@ -593,22 +609,6 @@
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
-      "added_at": "2022-09-19 07:33:37",
-      "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Give Or Take",
@@ -663,18 +663,26 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2022-08-26 09:38:47",
@@ -691,6 +699,22 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -715,30 +739,6 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2022-09-02 08:51:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -835,30 +835,6 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -907,6 +883,30 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -929,38 +929,6 @@
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
-      "added_at": "2022-07-22 04:39:56",
-      "album": {
-        "name": "If I Get Caught",
-        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Rave & Roses",
@@ -979,6 +947,38 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2022-07-22 04:39:56",
+      "album": {
+        "name": "If I Get Caught",
+        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 146400,
       "name": "Different (With Majid Jordan)",
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "D O D O (Adekunle Gold Version)",
-        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
         "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
         "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
       },
@@ -1281,24 +1245,92 @@
       "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
-      "added_at": "2022-08-12 05:47:41",
+      "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "KEYS II",
-        "url": "https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX"
+        "name": "D O D O (Adekunle Gold Version)",
+        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Stay (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G"
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+    },
+    {
+      "added_at": "2022-09-19 07:33:37",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205788,
+      "name": "Miss My Dawgs (with 6LACK)",
+      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-09-23 06:31:20",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
     },
     {
       "added_at": "2022-08-05 07:52:38",
@@ -1317,20 +1349,40 @@
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-08-22 18:00:00",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "added_at": "2022-08-12 05:47:41",
+      "album": {
+        "name": "KEYS II",
+        "url": "https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Stay (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1357,20 +1409,20 @@
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
-      "added_at": "2022-08-22 18:00:00",
+      "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1393,22 +1445,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
-    },
-    {
       "added_at": "2022-09-02 08:51:16",
       "album": {
         "name": "Eye to Eye",
@@ -1425,20 +1461,20 @@
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
+      "added_at": "2022-08-18 23:00:00",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1455,46 +1491,6 @@
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
-    },
-    {
-      "added_at": "2022-09-19 07:33:37",
-      "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205788,
-      "name": "Miss My Dawgs (with 6LACK)",
-      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
     }
   ],
   "unique_name": "Cocoa Butter ",

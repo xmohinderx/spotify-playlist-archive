@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Boza & Beéle.
 
-241 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+242 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Mírate Bien](https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Mírate Bien](https://open.spotify.com/album/2ihZsxbhXzGAIWzG51ImRM) | 3:00 | 2022-05-13 | 2022-07-02 |
 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 | 2022-08-19 | 2022-09-22 |
 | [Nena De Casa](https://open.spotify.com/track/05MDFoOYSTe7IUIg4JZJeq) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [La Dulce y Ruda Melodía](https://open.spotify.com/album/2cdK1Vrxe6zO9ZOsrmFhnB) | 2:41 | 2022-07-08 | 2022-08-27 |
-| [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 | 2022-09-06 |  |
+| [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 | 2022-09-06 | 2022-09-26 |
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-07-12 | 2022-08-12 |
 | [Niña de Mis Sueños](https://open.spotify.com/track/5R70etCKr7FOqdTqnohNfT) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Niña de Mis Sueños](https://open.spotify.com/album/1EXy8WlpTf6BU7J2XLyjVG) | 2:41 | 2022-03-21 | 2022-03-30 |
 | [No Confío](https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 3:33 | 2022-08-19 |  |
@@ -239,6 +239,7 @@
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-03-21 | 2022-06-04 |
 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 | 2022-04-15 | 2022-07-09 |
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-08-26 | 2022-09-24 |
+| [V16](https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG) | 1:59 | 2022-09-23 |  |
 | [Vamos pa' la Calle](https://open.spotify.com/track/6wYg8famUEPTy5T0GW88Ss) | [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei) | [Vamos pa' la Calle](https://open.spotify.com/album/78ve7Z6x8WDVxoR6oUetPZ) | 2:27 | 2022-07-22 | 2022-08-27 |
 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 | 2022-07-29 | 2022-09-10 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-07-01 | 2022-08-12 |

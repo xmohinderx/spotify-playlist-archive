@@ -256,6 +256,28 @@
     },
     {
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
+      },
+      "artists": [
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "album": {
         "name": "Muta",
         "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
       },
@@ -1807,7 +1829,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 229667,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4BekwfLP64FbQNrp0oRA6J"

@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27048,
+  "num_followers": 27050,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQ0YmEwNmNkM2RiMThkYjUwMmFhZDY5ZWQ4MjY1OWNk",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDVjZDMyOTgyZTEwYjhlZDc3NTgyNjM1NzczNGRhYWVh",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -311,26 +311,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -351,22 +331,42 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 211362,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+      "duration_ms": 210226,
+      "name": "The Greatest (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -391,22 +391,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+      "duration_ms": 211362,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -767,6 +767,30 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
@@ -807,30 +831,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Solo Dance",
         "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 174933,
       "name": "Solo Dance",
       "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -867,22 +883,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Sylo Songs",
+        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 127268,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thing For You (With Martin Solveig)",
         "url": "https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 191398,
       "name": "Thing For You (With Martin Solveig)",
       "url": "https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Sylo Songs",
-        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 127268,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
     },
     {
       "added_at": "2020-02-18 13:31:30",

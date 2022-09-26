@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 175891,
+  "num_followers": 175963,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDY5MGUxY2VjZjJmZmY1NTk1OTI2OTQ2MzVmZGExOTc4",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGE3ZmFjNzNmNDQ5N2M2YmZmMWJlNDNkNTBhMjc5Y2E5",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Puro Tejano",
-        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
-      },
-      "artists": [
-        {
-          "name": "Little Joe",
-          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Borrachera",
-      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Puro Tejano Gold",
         "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186706,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Puro Tejano",
+        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
+      },
+      "artists": [
+        {
+          "name": "Little Joe",
+          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Borrachera",
+      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -859,8 +859,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
+      "duration_ms": 221826,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "10 Grandes Exitos",
-        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pulido",
-          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "La Ronera",
-      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 194013,
       "name": "Al Partir",
       "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "10 Grandes Exitos",
+        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pulido",
+          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "La Ronera",
+      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
     },
     {
       "added_at": "2022-01-01 08:00:00",

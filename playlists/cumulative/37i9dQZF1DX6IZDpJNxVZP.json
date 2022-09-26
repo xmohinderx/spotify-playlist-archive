@@ -477,10 +477,28 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 116389,
       "name": "Eeny Meeny Miny Monster",
       "url": "https://open.spotify.com/track/0hYADFwp87tvEGJGsPPy7T"
+    },
+    {
+      "album": {
+        "name": "Halloween With Cocomelon",
+        "url": "https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116389,
+      "name": "Eeny Meeny Miny Monster",
+      "url": "https://open.spotify.com/track/3q3qBl2tHuOTu35SozYFBF"
     },
     {
       "album": {
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 119000,
       "name": "Halloween Jack In The Box",
       "url": "https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu"
@@ -2646,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "30 Kids' Halloween Party Tracks",
+        "url": "https://open.spotify.com/album/1TABHN2mIGRKynJ0ZjDV5W"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/0boylEapfSI87ao8KndwsW"
+    },
+    {
+      "album": {
         "name": "Kidz Bop Halloween Hits!",
         "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
       },
@@ -2657,7 +2693,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 219066,
       "name": "Werewolves Of London",
       "url": "https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0"

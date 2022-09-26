@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 170400,
+  "num_followers": 170497,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDYyNDU4ZTM2ZDNjYTFmY2I2NzY2YmViMGYzZDZjYjky",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDYyZWM3MjkxYTVjZDk0ZjA1ODAzODhkZDE5MTI2YjNk",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "The Nightfly",
         "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 363413,
       "name": "I.G.Y.",
       "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 316266,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -315,22 +347,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 331706,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 316266,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 188973,
       "name": "I Zimbra - 2005 Remaster",
       "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -675,22 +691,6 @@
       "duration_ms": 354213,
       "name": "The Sweetest Meditation",
       "url": "https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Voices Inside My Head",
-      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
+        "name": "First True Love Affair",
+        "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
       "artists": [
         {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+          "name": "Jimmy Ross",
+          "url": "https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX"
         }
       ],
-      "duration_ms": 414000,
-      "name": "Running Away - 12-Inch Long Version",
-      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
+      "duration_ms": 428026,
+      "name": "First True Love Affair - Larry Levan Remix",
+      "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "First True Love Affair",
-        "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
       "artists": [
         {
-          "name": "Jimmy Ross",
-          "url": "https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX"
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
         }
       ],
-      "duration_ms": 428026,
-      "name": "First True Love Affair - Larry Levan Remix",
-      "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+      "duration_ms": 414000,
+      "name": "Running Away - 12-Inch Long Version",
+      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Mysteries of the World",
-        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        }
-      ],
-      "duration_ms": 330080,
-      "name": "Mysteries of the World",
-      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Has Come Around - Finest Moments",
         "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Mysteries of the World",
+        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        }
+      ],
+      "duration_ms": 330080,
+      "name": "Mysteries of the World",
+      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 327560,
       "name": "Exotica Dance Club",
       "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1043,6 +1027,22 @@
       "duration_ms": 300826,
       "name": "On and On",
       "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
-      },
-      "artists": [
-        {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
-        }
-      ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 423240,
       "name": "Found a Cure - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587050,
+      "name": "Heartbeat - Club Mix",
+      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 438199,
       "name": "Haven't You Heard - 12\" Version",
       "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Two (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC"
+        "name": "Summertime Groove",
+        "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
       "artists": [
         {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+          "name": "Bohannon",
+          "url": "https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6"
         }
       ],
-      "duration_ms": 256519,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o"
+      "duration_ms": 352106,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
     }
   ],
   "unique_name": "Disco Hi-Life",

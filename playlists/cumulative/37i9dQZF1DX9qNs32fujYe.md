@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
 
-652 songs - 2 day 0 hr 44 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+653 songs - 2 day 0 hr 45 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A New Heartbeat](https://open.spotify.com/track/3sstQegc7AaQqP20x2TrL0) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [A New Heartbeat](https://open.spotify.com/album/4JTsXydqlKIYCTJ2HOjG0u) | 4:12 | 2022-04-08 | 2022-07-19 |
 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [A Perfect Apocalypse](https://open.spotify.com/track/7bYey6XdAn8I5fTXWPrXOz) | [Reece](https://open.spotify.com/artist/3y2xjLsVCS4M4pMoYY3dM5) | [A Perfect Apocalypse](https://open.spotify.com/album/380JHizLF357lyRGRCGP8c) | 4:07 | 2022-01-14 | 2022-04-17 |
-| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 |  |
+| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 | 2022-09-26 |
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [Absinthe Children](https://open.spotify.com/track/1sLuebUQL26k6N47EE7lD7) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [Ruins](https://open.spotify.com/album/7ddNWr43lXlo6LbFZgOLdf) | 5:31 | 2022-01-28 | 2022-07-26 |
 | [Abyss](https://open.spotify.com/track/45NROGUYtGuOJzO7NTlgx9) | [Mind Riot](https://open.spotify.com/artist/1TfGMeYSHRoSmgkNqhPdRw) | [Abyss](https://open.spotify.com/album/5LHQvwBOHoHQb45ss15KkH) | 3:49 | 2021-12-17 | 2022-04-20 |
@@ -210,6 +210,7 @@
 | [From Hell with Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell with Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2021-12-17 |  |
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 |  |
 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 | 2021-12-17 |  |
+| [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-10 |  |
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2022-08-19 | 2022-08-27 |
@@ -366,7 +367,7 @@
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-08-19 |  |
 | [Mystic Voices](https://open.spotify.com/track/23qe3H5ToeXOfFj9gSSPrX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Mystic Voices](https://open.spotify.com/album/0X5n66zXSf8NkEanAwC7QR) | 5:05 | 2021-12-29 | 2022-04-24 |
 | [Nabbed in Nebraska](https://open.spotify.com/track/2DcykF5eaHu1z2TiuRmns0) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Nabbed in Nebraska](https://open.spotify.com/album/1Q7cGukENcz0K2QPr9AIAE) | 4:33 | 2021-12-17 | 2022-07-20 |
-| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 |  |
+| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2022-09-26 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2022-07-05 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
 | [New Colossal Hate](https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New Colossal Hate](https://open.spotify.com/album/4NZx3KzZVmxxMr4ZbJnAhi) | 4:30 | 2021-12-17 | 2022-04-18 |
@@ -483,7 +484,7 @@
 | [Slaves of Babylon](https://open.spotify.com/track/2PJ9Aqx5dF2BQtJXZqbCx2) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Armageddon](https://open.spotify.com/album/4zmX2IJjCSSGzTxmURSRDM) | 4:37 | 2022-03-22 | 2022-04-18 |
 | [Slayer of Kings](https://open.spotify.com/track/0qoznAGKZOBgne7MiycPPc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Slayer of Kings](https://open.spotify.com/album/692ScTjOsP51VwCcJtbs9S) | 5:03 | 2021-12-29 | 2022-07-18 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2022-07-13 |  |
-| [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 | 2022-09-24 |
+| [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 |  |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-07-13 |  |
 | [Snake Eyes](https://open.spotify.com/track/1i9JhqoNK9JVPkXwGxQR4m) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Snake Eyes](https://open.spotify.com/album/7vrpqWml8U2goskFO0AX7R) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 | 2022-08-19 |  |

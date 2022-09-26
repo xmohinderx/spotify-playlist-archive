@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-72 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
+73 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 |  |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 |  |
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 |  |
-| [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 |  |
+| [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 | 2022-09-26 |
 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 | 2022-06-23 |  |
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 |  |
 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 | 2022-09-23 |  |
@@ -76,9 +76,10 @@
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 |  |
+| [Waltz of a Thousand Stars](https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [Waltz of a Thousand Stars](https://open.spotify.com/album/6Nr0Ma9gfD1Uq4jOrNh6Ju) | 2:40 | 2022-09-23 |  |
 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2022-09-03 |
-| [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 | 2022-09-24 |
+| [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 |  |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-29 |
-| [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 |  |
+| [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 | 2022-09-26 |
 
 \*This playlist was first scraped on 2022-06-28. Prior content cannot be recovered.

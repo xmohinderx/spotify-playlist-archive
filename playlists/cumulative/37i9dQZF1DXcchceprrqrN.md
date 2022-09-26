@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-50 songs - 2 hr 40 min - not published yet
+50 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/23FhSvlNczzZhdU1RZbwcI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

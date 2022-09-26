@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: دنيا سمير غانم
 
-221 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+222 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Mlook Alfarhah](https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Enaba](https://open.spotify.com/artist/6oKthe3hcKm6ZuPuTiyTnE) | [Mlook Alfarhah](https://open.spotify.com/album/0AU9qF9WsMUgbrYm6QqSDQ) | 1:36 | 2021-12-23 | 2022-01-21 |
 | [Momken Azaalak](https://open.spotify.com/track/4QKRv2FjUogwA1tHRr8LBH) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Momken Azaalak](https://open.spotify.com/album/0TaRvYnIEuXDfH5JVU0Q4f) | 3:38 | 2022-02-11 | 2022-05-19 |
 | [Moody Aali](https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE) | [Dalida Khalil](https://open.spotify.com/artist/43frAQLY3YdRaaGTt2Jobb) | [Moody Aali](https://open.spotify.com/album/7nZflWlZjFWWwY3iL864hh) | 2:48 | 2021-12-23 | 2022-03-03 |
-| [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 |  |
+| [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 | 2022-09-26 |
 | [Ohdoneny](https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ohdoneny](https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi) | 3:21 | 2022-02-17 | 2022-06-03 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 |  |
 | [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 | 2022-07-21 |
@@ -164,7 +164,7 @@
 | [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-02-22 | 2022-06-03 |
 | [S.N.I.T.C.H.](https://open.spotify.com/track/23M7HHUlytLFnFiVjYOq70) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:26 | 2022-08-18 |  |
 | [Sa3et el Tagaly](https://open.spotify.com/track/2TfCBbEFWDG75KijCmcAwN) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sa3et el Tagaly](https://open.spotify.com/album/4dOdX0tGwKsJMSR9mRzv34) | 4:03 | 2022-08-18 |  |
-| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 |  |
+| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-09-26 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |
 | [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 | 2022-06-06 |
@@ -179,6 +179,7 @@
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-07 | 2022-09-02 |
 | [Taka Taka](https://open.spotify.com/track/56wfjZl06ATKuczJoL5RI6) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Taka Taka](https://open.spotify.com/album/4QaIYxJWkv0wL6rGalJFH2) | 3:18 | 2022-09-01 |  |
 | [Talakik](https://open.spotify.com/track/4EqU9JKazUgb8ogjx4nIPm) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Talakik](https://open.spotify.com/album/1b6GHVe41cj2ruyohBJ7Vu) | 2:39 | 2022-06-23 | 2022-09-23 |
+| [Tamer Hosny Haytna](https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Tamer Hosny Haytna](https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v) | 4:51 | 2022-09-25 |  |
 | [Tannesh](https://open.spotify.com/track/0rcn4mXRKFJ5c9kipAVrUy) | [Mohamed Attia](https://open.spotify.com/artist/2mANCpyw2C2TpO5rj4zV9N) | [Tannesh](https://open.spotify.com/album/0tvgJ1DmR6qmbUvpauxZnb) | 2:47 | 2021-12-23 | 2022-01-28 |
 | [Tanteet](https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Tanteet](https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi) | 1:59 | 2022-06-23 | 2022-09-23 |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2021-12-29 | 2022-03-10 |

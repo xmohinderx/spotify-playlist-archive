@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk...
 
-87 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
+88 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 | 2022-07-12 |  |
 | [Ghost Dance](https://open.spotify.com/track/3PZICJN5uM26u0nF3sYNvo) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/4Oq8HJhXnjJucSwEGEyQMZ) | 3:34 | 2021-12-17 | 2022-07-29 |
+| [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 | 2022-09-12 |  |
 | [Gone Clear](https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Gone Clear](https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u) | 6:07 | 2021-12-17 | 2022-07-29 |
 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 | 2022-07-12 |  |
 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 | 2021-12-17 |  |
@@ -62,7 +63,7 @@
 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 | 2022-07-12 |  |
 | [New Anthem](https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ) | 2:34 | 2021-12-17 | 2022-07-29 |
 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 | 2022-07-12 |  |
-| [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 | 2021-12-17 |  |
+| [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 | 2021-12-17 | 2022-09-26 |
 | [Orange County Serenade](https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 3:32 | 2021-12-17 | 2022-07-28 |
 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 | 2022-07-12 |  |
 | [Plains Of Waterloo / James Connolly](https://open.spotify.com/track/4LQTu75E30lxao3W0FSXbS) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3neRUS7AJfbMdtSdEFTZQg) | 5:39 | 2021-12-17 | 2022-07-29 |

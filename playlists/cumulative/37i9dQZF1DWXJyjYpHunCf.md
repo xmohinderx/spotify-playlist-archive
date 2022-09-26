@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-226 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+227 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Hello, Hello On Fire!](https://open.spotify.com/track/672wGcpVju84aK9OVWxuNr) | [Josiah Johnson](https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg) | [Hello, Hello On Fire!](https://open.spotify.com/album/4lfOPK2pxFu9ketMzOaCv2) | 4:56 | 2022-02-21 | 2022-07-15 |
 | [Help Me to Feel Again](https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A) | 4:22 | 2021-11-12 | 2022-09-25 |
 | [Hey Babe](https://open.spotify.com/track/5zma4SF6sjsEt0j9zlzHeG) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [Hey Babe](https://open.spotify.com/album/7yIygk6tvPcgCQuAFAFzgX) | 2:55 | 2021-11-12 | 2022-07-29 |
-| [Hey You](https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:26 | 2022-03-12 |  |
+| [Hey You](https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:26 | 2022-03-12 | 2022-09-26 |
 | [Hey You](https://open.spotify.com/track/1bFJ0r89CnY0wTz95hcKWc) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/2qeOXQCVeG1AgUD0LQHLSF) | 3:26 | 2021-11-12 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Hollow](https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO) | 3:03 | 2021-11-12 |  |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-11-12 |  |
@@ -113,6 +113,7 @@
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-21 |  |
 | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/track/0shbrNXspWANKNatl7E4OD) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/album/0ny7XUdcuKAHbTWRAKTjwA) | 3:39 | 2022-02-21 | 2022-06-08 |
 | [In My Shoes](https://open.spotify.com/track/2wl91MKN2rQy7CUKuS0Bgo) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [In My Shoes](https://open.spotify.com/album/4vrRiKDShL2QJZd4AczAU7) | 3:35 | 2021-11-12 | 2022-07-15 |
+| [In This Life](https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI) | 2:43 | 2022-08-19 |  |
 | [In This Life](https://open.spotify.com/track/6LVBLqjO3uh7UmSfp0PNyI) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/0qzrRGMp3q7kt5l2d4SS8j) | 2:43 | 2022-03-12 | 2022-09-15 |
 | [In This Life](https://open.spotify.com/track/7oOHmn71o7XjdeHJkfGNj2) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/2Q06IiBSrCsS11HhYME17x) | 2:43 | 2021-11-12 | 2022-07-28 |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-11-12 |  |

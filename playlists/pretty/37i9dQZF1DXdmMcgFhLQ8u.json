@@ -1,12 +1,12 @@
 {
   "description": "These country songs know exactly how you feel.",
-  "num_followers": 149163,
+  "num_followers": 149260,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDA2MzM2NDllN2RhNWVkNDI2ZTllNDdlMDhkNzVmYTM3",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDBlN2I2NTYxMGM4ZmU5N2E2OGNiNGE3MDY4MGFmMTkx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -267,42 +267,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Carly Pearce",
         "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
       },
@@ -323,22 +287,54 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 254746,
-      "name": "Outrunnin' Your Memory",
-      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
       "artists": [
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+      "duration_ms": 254746,
+      "name": "Outrunnin' Your Memory",
+      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Just About Over You",
-        "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Just About Over You",
-      "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Just About Over You",
+        "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Just About Over You",
+      "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 205960,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Giving You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232039,
+      "name": "Giving You Up - Acoustic",
+      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -959,38 +959,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Giving You Up (Acoustic)",
-        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 232039,
-      "name": "Giving You Up - Acoustic",
-      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Hemingway's Whiskey",
-        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "You and Tequila (feat. Grace Potter)",
-      "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
+      "duration_ms": 205960,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Enjoy The Ride",
-        "url": "https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG"
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
       "artists": [
         {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 284426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy"
+      "duration_ms": 242840,
+      "name": "You and Tequila (feat. Grace Potter)",
+      "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Enjoy The Ride",
+        "url": "https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG"
+      },
+      "artists": [
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "All of It",
         "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 199693,
       "name": "Break Up in the End",
       "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Hemingway's Whiskey",
-        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Somewhere With You",
-      "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "I Drive Your Truck",
+      "url": "https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 234840,
-      "name": "I Drive Your Truck",
-      "url": "https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj"
+      "duration_ms": 243520,
+      "name": "Somewhere With You",
+      "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
     },
     {
       "added_at": "2022-09-16 04:00:00",

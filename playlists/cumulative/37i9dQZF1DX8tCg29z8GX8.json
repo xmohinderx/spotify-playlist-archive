@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 282920,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79"
@@ -1364,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+    },
+    {
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
@@ -1973,6 +1991,28 @@
       "duration_ms": 169043,
       "name": "Shaye",
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
+      "album": {
+        "name": "Lap 5",
+        "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "She's Not Anyone",
+      "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
     },
     {
       "album": {

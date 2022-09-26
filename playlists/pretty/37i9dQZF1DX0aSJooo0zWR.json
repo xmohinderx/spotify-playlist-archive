@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 160569,
+  "num_followers": 160642,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDg5OGFkNWZjNTk3MWYwNDllMmFiNzZkMTQ2ZWM0MDI0",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDEyMmRiYTFkMWYwYmY5ODg0OTFkZDg2NWVkZWJiMjFh",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Antidote Is in the Poison",
-        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 352692,
-      "name": "The Antidote Is in the Poison",
-      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "PARADISE",
@@ -215,6 +199,22 @@
       "duration_ms": 349520,
       "name": "Night Cruise",
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Romantic Warrior",
-        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
-      },
-      "artists": [
-        {
-          "name": "Return To Forever",
-          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "Medieval Overture - Instrumental",
-      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
-    },
-    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Bring Backs",
@@ -287,6 +271,22 @@
       "duration_ms": 360053,
       "name": "Teki",
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Romantic Warrior",
+        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
+      },
+      "artists": [
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "Medieval Overture - Instrumental",
+      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
-    },
-    {
       "added_at": "2021-10-29 04:02:00",
       "album": {
         "name": "Blue Macaw",
@@ -627,6 +611,22 @@
       "duration_ms": 274000,
       "name": "Blue Macaw",
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -661,6 +661,26 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Jackets XL",
+        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 392960,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Maiden Voyage",
@@ -683,26 +703,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Jackets XL",
-        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 392960,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 209276,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Visions of the Emerald Beyond",
         "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212560,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 209276,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Bass-ic Collection",
+        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+    },
+    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Space-Time",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Bass-ic Collection",
-        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
       },
       "artists": [
         {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
         }
       ],
-      "duration_ms": 469333,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1047,22 +1063,6 @@
       "duration_ms": 169000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "I Promise",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/0qbO0VkbG4gPPdDF7vCjMb"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
         }
       ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd"
     },
     {
       "added_at": "2022-02-11 19:09:35",
@@ -1147,22 +1163,6 @@
       "duration_ms": 433160,
       "name": "Goodbye for Now",
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/0qbO0VkbG4gPPdDF7vCjMb"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 227150,
-      "name": "Thirty One",
-      "url": "https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1245,6 +1245,50 @@
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Cousin Vinnie",
+        "url": "https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        }
+      ],
+      "duration_ms": 378489,
+      "name": "Prophecy Extended",
+      "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Axiom",
@@ -1277,70 +1321,6 @@
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Cousin Vinnie",
-        "url": "https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 378489,
-      "name": "Prophecy Extended",
-      "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1363,6 +1343,26 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Hunting Heads",
-        "url": "https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        }
-      ],
-      "duration_ms": 422882,
-      "name": "Hunting Heads",
-      "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Aslan",
@@ -1459,6 +1443,22 @@
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Hunting Heads",
+        "url": "https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        }
+      ],
+      "duration_ms": 422882,
+      "name": "Hunting Heads",
+      "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
     },
     {
       "added_at": "2021-02-12 00:49:35",

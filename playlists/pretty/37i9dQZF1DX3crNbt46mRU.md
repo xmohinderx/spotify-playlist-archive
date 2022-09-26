@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sido
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,223 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,224 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 29 | [Rette Mich](https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Auf Anfang](https://open.spotify.com/album/503iC3dEbNox92qC6vJOiP) | 3:11 |
 | 30 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
 | 31 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
-| 32 | [One Last Time \(with R3HAB\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Last Time \(with R3HAB\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
+| 32 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
 | 33 | [90x180](https://open.spotify.com/track/17yFjZSYYRT4n3t99TuqTu) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [90x180](https://open.spotify.com/album/1JdqQVc8S9IuKb5ofhPMjR) | 2:34 |
 | 34 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 35 | [Summer Really Hurt Us](https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer Really Hurt Us](https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD) | 2:48 |

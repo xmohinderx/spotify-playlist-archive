@@ -4,10 +4,11 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-52 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
+53 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 | 2022-03-18 |  |
 | [Agua que Cae del Cielo \(Lluvia\) \(feat\. Willie Rosario\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:22 | 2022-03-18 | 2022-09-23 |
 | [Aguanile \- Live Version](https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 6:28 | 2022-03-18 |  |
 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 | 2022-03-18 |  |
@@ -31,7 +32,7 @@
 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 | 2022-03-18 |  |
 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 | 2022-03-18 |  |
 | [La Murga \- Live](https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 7:02 | 2022-03-18 |  |
-| [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 | 2022-03-18 |  |
+| [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 | 2022-03-18 | 2022-09-26 |
 | [Llorarás \- Live](https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:33 | 2022-03-18 |  |
 | [Lo Mio Es Amor \- En Vivo](https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:00 | 2022-03-18 |  |
 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 | 2022-03-18 |  |

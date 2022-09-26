@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Dark Hearts",
+        "url": "https://open.spotify.com/album/1dMkUqXlm5b3JxSzBmVIX5"
+      },
+      "artists": [
+        {
+          "name": "Annie",
+          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226869,
+      "name": "American Cars",
+      "url": "https://open.spotify.com/track/7t1C2Z5kYtmhZGMs5mIFz2"
+    },
+    {
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/2dwabGQ19mCQ16GhQL4BzA"
       },
@@ -2893,7 +2911,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 155227,
       "name": "keep on",
       "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
@@ -3647,6 +3665,32 @@
       "duration_ms": 243348,
       "name": "Modern Touch",
       "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/53x07LQf5NZUvR0UMRxsxh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Weikum",
+          "url": "https://open.spotify.com/artist/4xWupN4Z8DJwehAOfdS0CT"
+        },
+        {
+          "name": "Alexey Sonar",
+          "url": "https://open.spotify.com/artist/3kylBPGbC27D97TR1JUwod"
+        },
+        {
+          "name": "\u00c67",
+          "url": "https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Monsoon - \u00c67 Night Remix",
+      "url": "https://open.spotify.com/track/2KLaeABcYhR1K37R7uj6Ji"
     },
     {
       "album": {
@@ -4959,7 +5003,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 240000,
       "name": "Shimmer Isle",
       "url": "https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY"

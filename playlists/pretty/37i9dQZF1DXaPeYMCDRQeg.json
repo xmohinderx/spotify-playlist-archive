@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 138768,
+  "num_followers": 138861,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDJhNjFmZWI4ODEyYzZjMTNjOWMwODk3M2ViNTBkNzIy",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDRhYmYyZTk3ODg0NjMwZDI5N2NmYWViYjcyMTJhOThm",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204133,
       "name": "DYING 4 YOUR LOVE",
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
@@ -659,6 +675,22 @@
       "duration_ms": 240306,
       "name": "This Woman's Work - Remastered 2021",
       "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 292884,
+      "name": "Roll Some Mo",
+      "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -679,38 +711,6 @@
       "duration_ms": 205000,
       "name": "On It",
       "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 292884,
-      "name": "Roll Some Mo",
-      "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -919,22 +919,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Touch Me (feat. Kehlani) [Remix]",
-        "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
+        "name": "You Want My Love",
+        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 187951,
-      "name": "Touch Me (feat. Kehlani) - Remix",
-      "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+      "duration_ms": 194373,
+      "name": "You Want My Love",
+      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -955,6 +955,26 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Touch Me (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "Touch Me (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -991,22 +1011,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Three for Love",
         "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
@@ -1055,38 +1055,6 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "ONCE UPON A TIME",
-        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 130882,
-      "name": "CINDERELLA, Pt. 2",
-      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1107,6 +1075,38 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "ONCE UPON A TIME",
+        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 130882,
+      "name": "CINDERELLA, Pt. 2",
+      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 378373,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 276000,
       "name": "Happily Ever After",
       "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 378373,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl"
     },
     {
       "added_at": "2022-03-14 19:54:18",

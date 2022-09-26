@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-108 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+109 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-07 |  |
 | [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 | 2022-09-16 |  |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
-| [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 | 2022-09-16 |  |
+| [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 | 2022-09-16 | 2022-09-26 |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 |  |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-16 |  |
@@ -92,6 +92,7 @@
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 |  |
 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 | 2022-09-01 | 2022-09-23 |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |
+| [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 | 2022-09-22 |  |
 | [Rewind](https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Rewind](https://open.spotify.com/album/6rw2SnFtTME10y7rwVfszh) | 2:39 | 2022-07-07 | 2022-08-11 |
 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 | 2022-07-07 |  |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-07 |  |

@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-158 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+160 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Disturbia](https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:30 | 2021-09-10 |  |
 | [Dracula](https://open.spotify.com/track/5yWfv221O1PWuEmq2FRMEn) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 2:22 | 2021-09-10 |  |
 | [DRACULA: A Children's Story](https://open.spotify.com/track/40OHlrykUVxbIp1OUcOr3U) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [DRACULA: A Children's Story](https://open.spotify.com/album/75bHKoH63jSVVuhOrcVHgF) | 5:12 | 2021-09-24 |  |
-| [Eeny Meeny Miny Monster](https://open.spotify.com/track/0hYADFwp87tvEGJGsPPy7T) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Everyday Is Halloween](https://open.spotify.com/album/7J38JSeloioAyrcZtVV3Jm) | 1:56 | 2021-10-04 |  |
+| [Eeny Meeny Miny Monster](https://open.spotify.com/track/0hYADFwp87tvEGJGsPPy7T) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Everyday Is Halloween](https://open.spotify.com/album/7J38JSeloioAyrcZtVV3Jm) | 1:56 | 2021-10-04 | 2022-09-26 |
+| [Eeny Meeny Miny Monster](https://open.spotify.com/track/3q3qBl2tHuOTu35SozYFBF) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 1:56 | 2022-09-25 |  |
 | [Evil Like Me](https://open.spotify.com/track/0oe0UYSKAESBUR12I1ESXQ) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:44 | 2021-08-30 |  |
 | [Five Little Ghosts](https://open.spotify.com/track/0ABAdoCdNORkJqMIB5rbwv) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [This is the Way We Trick or Treat & More Kids Halloween Songs](https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W) | 2:05 | 2021-08-30 |  |
 | [Five Little Pumpkins Sitting on a Gate](https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 1:56 | 2021-09-10 |  |
@@ -52,7 +53,7 @@
 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 |  |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 | 2021-09-10 |  |
-| [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 |  |
+| [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 | 2022-09-26 |
 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 | 2021-09-10 |  |
 | [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 | 2021-09-10 |  |
 | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 3:11 | 2021-09-10 |  |
@@ -151,7 +152,8 @@
 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 | 2021-08-30 |  |
 | [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 | 2021-09-10 |  |
 | [We Love Halloween](https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/1OlgNg367Vh1lDWc32cwCs) | 2:00 | 2021-09-10 | 2022-07-29 |
-| [Werewolves Of London](https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 3:39 | 2021-08-30 |  |
+| [Werewolves Of London](https://open.spotify.com/track/0boylEapfSI87ao8KndwsW) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [30 Kids' Halloween Party Tracks](https://open.spotify.com/album/1TABHN2mIGRKynJ0ZjDV5W) | 3:30 | 2022-09-25 |  |
+| [Werewolves Of London](https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 3:39 | 2021-08-30 | 2022-09-26 |
 | [Werewolves of London](https://open.spotify.com/track/66TwYuATZiIe3SyuiKvpRd) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 3:39 | 2021-08-30 | 2022-07-29 |
 | [Werewolves Of London](https://open.spotify.com/track/2YB6oRXEKmgAcl9ON5capM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:42 | 2021-09-10 |  |
 | [Werewolves of London](https://open.spotify.com/track/2nmaEzFZrSm2aMLtfJDzyG) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [A Quiet Normal Life: The Best of Warren Zevon](https://open.spotify.com/album/41u8E08e0jIP808qLi1GHB) | 3:28 | 2021-09-10 |  |

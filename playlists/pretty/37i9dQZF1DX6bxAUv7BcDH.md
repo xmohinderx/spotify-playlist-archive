@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,633 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,631 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 30 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 |
 | 31 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 32 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
-| 33 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
-| 34 | [Always on My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
+| 33 | [Always on My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
+| 34 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
 | 35 | [A Whole New World \(Aladdin's Theme\)](https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Passion](https://open.spotify.com/album/3JoYvcDgsinWj0xCb4SaoC) | 4:03 |
 | 36 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 37 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 61 | [You’ve Got A Friend \- Live At The Troubadour / 2007](https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Live At The Troubadour](https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv) | 5:51 |
 | 62 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 |
 
-Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDU1ZjQ5NDA0MDI1NmQ5NjQwN2RkNmU3ZjE1NWE0NGQ1`
+Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMGY3ZWRiNDdmMDQ2NDgyOGZiYTMwODk0MGM2MThkYmNl`

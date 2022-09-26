@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 87559,
+  "num_followers": 87686,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDgyOGQ1ZWE2MzFmZDdkN2YwMzFiY2U0ZTJjYWM5MDE2",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDM0OTlmNjg2ZmQ1YjIyNmY1MDk2M2ZhNGRkMjIwMjU3",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Somebody's Baby",
-      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Another Page",
         "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Classic Masters",
-        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
-      },
-      "artists": [
-        {
-          "name": "Robert John",
-          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Sad Eyes - Remastered",
-      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "The Essentials: Orleans",
         "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
+      },
+      "artists": [
+        {
+          "name": "Robert John",
+          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Sad Eyes - Remastered",
+      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
+      },
+      "artists": [
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 251426,
       "name": "Love Will Find A Way",
       "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
-      },
-      "artists": [
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 282040,
-      "name": "Get It Right Next Time",
-      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 265221,
       "name": "This Time I'm In It For Love",
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 282040,
+      "name": "Get It Right Next Time",
+      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
     },
     {
-      "added_at": "2022-01-26 21:27:23",
-      "album": {
-        "name": "Sleeping Gypsy",
-        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "The Lady Wants to Know",
-      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Greatest Hits",
@@ -1067,6 +1051,22 @@
       "duration_ms": 180906,
       "name": "Better Love Next Time",
       "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
+    },
+    {
+      "added_at": "2022-01-26 21:27:23",
+      "album": {
+        "name": "Sleeping Gypsy",
+        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "The Lady Wants to Know",
+      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
     },
     {
       "added_at": "2022-01-26 21:27:23",

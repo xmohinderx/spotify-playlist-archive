@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-173 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/1bJpZrfcjIxVYffJWDkWtS)
+174 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/1bJpZrfcjIxVYffJWDkWtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Day by Day \- Acoustic](https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day \(Acoustic\)](https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42) | 3:29 | 2021-10-29 |  |
 | [Dead Man's Suit](https://open.spotify.com/track/3h21zgsmD8ncbYz3RSlAJI) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Dead Man's Suit](https://open.spotify.com/album/5Q5vl3ZCUQhbSOOp0TIuW2) | 3:39 | 2021-10-29 | 2022-07-29 |
 | [Different Kinds of Light](https://open.spotify.com/track/2FYewA5HBNfiLD4CoK1COv) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/33h7fEWP9jsMrn9OR5yZrJ) | 3:05 | 2021-10-29 | 2022-07-29 |
+| [Different Kinds of Light](https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:05 | 2021-10-29 |  |
 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 | 2021-10-29 |  |
-| [Dome](https://open.spotify.com/track/5F5hkKjJhqpuoM5VJER5pW) | [Firewoodisland](https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW) | [Dome](https://open.spotify.com/album/01cD5X3u8Iv4gWFHmrWYfK) | 4:00 | 2021-10-29 |  |
+| [Dome](https://open.spotify.com/track/5F5hkKjJhqpuoM5VJER5pW) | [Firewoodisland](https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW) | [Dome](https://open.spotify.com/album/01cD5X3u8Iv4gWFHmrWYfK) | 4:00 | 2021-10-29 | 2022-09-26 |
 | [Don't Go Far](https://open.spotify.com/track/0ZqW2Io1QDmy0R7GffmeSC) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Bite](https://open.spotify.com/album/7wk5T0X8Op7jvjOIOIXAWZ) | 3:39 | 2021-10-29 | 2022-07-29 |
 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 | 2021-10-29 |  |
 | [Dreamer](https://open.spotify.com/track/38LpfUrHP7jVXLTvj67AgP) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN) | 3:46 | 2021-10-29 | 2022-07-29 |

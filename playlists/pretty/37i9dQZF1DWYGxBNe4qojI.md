@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Cam'Ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,031 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,216 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 46 | [Liquid Swords](https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 4:30 |
 | 47 | [Temperature's Rising \(feat\. Crystal Johnson\)](https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Crystal Johnson](https://open.spotify.com/artist/1MlPgLXb3K58qQLfg88lUZ) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:00 |
 | 48 | [What Up Gangsta](https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 2:59 |
-| 49 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 |
-| 50 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 49 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 50 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 |
 
-Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDA3YmQ3ODNhMWUxYjRhNjAwM2EyMGExZjk0YzVmM2M1`
+Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDJlMDhlODlmOGQxNmM5MmQxNmUzMWM1ZDEwMzViOTE1`

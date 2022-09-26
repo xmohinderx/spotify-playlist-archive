@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,830 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,947 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 99 | [Can I Call You](https://open.spotify.com/track/7A4WMpcH8VN8hsRrLoj2fn) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:48 |
 | 100 | [Measuring Cities \- Retrospective Sessions](https://open.spotify.com/track/1Ex3dahRo2zd3GpgovxWql) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Measuring Cities \(Retrospective Sessions\)](https://open.spotify.com/album/53JvE9TZoXXvS5O0SSunTN) | 5:37 |
 | 101 | [Symmetry \- Live from Nest Recorders](https://open.spotify.com/track/1FbwCAzXevb2GA9BwuiwxL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Live from Nest Recorders](https://open.spotify.com/album/4huIPiqLQRPL4tIKARWgJX) | 4:47 |
-| 102 | [Go Out Fighting](https://open.spotify.com/track/66tg5bmqB6NzCs5QhACkdQ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Go Out Fighting](https://open.spotify.com/album/24zRUsESY62pYsatp99SkM) | 3:27 |
+| 102 | [Go Out Fighting](https://open.spotify.com/track/034QEHm74xXScEeEPqdUaq) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 3:27 |
 | 103 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/3SGLrn5arZurgQifNAV7Sm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/1AnS0syANUM5Qpv6hLxd22) | 1:49 |
 | 104 | [Sweet Bunch \(feat\. Matthew E\. White\)](https://open.spotify.com/track/1Bo86IP547UQzMNAkhLfSr) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/1OAd43hLS7VwHeXAP0BwBp) | 5:58 |
 | 105 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDM1YmI2Y2YzZmRmYmZjYWYwMjI1NWQ4MWQ4YzIxZDA4`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDM0MDI4ZWE2MWVkMzE5ZTIxMjY5ZWVlOTZjNTExMDg4`

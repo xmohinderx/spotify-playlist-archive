@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-93 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
+94 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 | 2022-06-09 |  |
 | [Elevate \- Remix](https://open.spotify.com/track/1z7GarqBjaBc47v3PC1MZD) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Elevate \(Remix\)](https://open.spotify.com/album/4Wj9d3QveiYJdbeAhIKnRz) | 2:37 | 2022-06-16 |  |
 | [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 | 2022-06-09 |  |
-| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 |  |
+| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
+| [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-09 |  |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 |  |
 | [Feeling](https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [4 Play](https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ) | 2:23 | 2022-06-09 |  |
 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 | 2022-06-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Jes\u00fas Mendoza en portada.",
-  "num_followers": 1046536,
+  "num_followers": 1046686,
   "original_name": "Banda 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGY3NWMyZjIxZmMwNTJmZTc1ODhhN2UyODk2ZDkwNWE3",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGE4MzcyMGVhYjA0NTM0NWMwZjI1OTc4M2E2MmYyYWUw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+      "duration_ms": 165613,
+      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Ya Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Por Apodo Soy Sobrino (En Vivo)",
         "url": "https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Se Manda Sola",
         "url": "https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 154640,
       "name": "Se Manda Sola",
       "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "La Propina",
         "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 226978,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 165000,
       "name": "Que Llore, Que Llore",
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+        "name": "Modo Crudo",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+      "duration_ms": 128513,
+      "name": "Modo Crudo",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
     }
   ],
   "unique_name": "Banda 2022",

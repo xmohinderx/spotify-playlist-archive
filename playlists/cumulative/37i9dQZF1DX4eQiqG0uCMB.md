@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-138 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0IH3xMG1wgIStcChEOMik2)
+139 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0IH3xMG1wgIStcChEOMik2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alert Your Boy](https://open.spotify.com/track/1i14NQ2jmAKxEIl2rFjlEq) | [PerryMetals](https://open.spotify.com/artist/36a7QNBn0Hgd0fpsxw4hCE) | [Alert Your Boy](https://open.spotify.com/album/0EJ1cKIOze9Oc2aYtaVeZ1) | 2:24 | 2022-06-09 | 2022-07-27 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2022-07-29 |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2022-06-09 | 2022-07-29 |
-| [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-06-09 | 2022-09-05 |
+| [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-06-09 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 |  |
 | [Back In Office](https://open.spotify.com/track/1Br3JtJFsEN9byeuryq9zQ) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Back In Office](https://open.spotify.com/album/1gfcxREIzWiCKzAw71PxHp) | 3:11 | 2022-06-09 | 2022-07-25 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-06-09 |  |
@@ -45,7 +45,7 @@
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-06-09 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2022-09-10 |
 | [Dreams](https://open.spotify.com/track/4rbmoqtKWALCrCUYPFZCyz) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Boy Spyce](https://open.spotify.com/album/5lsk9UPtpMStsuVJCZgtin) | 3:13 | 2022-06-09 | 2022-07-27 |
-| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 |  |
+| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 |  |
 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 | 2022-06-09 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/5ba4KjrBg1k5KYZjYx0UVZ) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/7hTvmL5OmZwGVpQzwg0enD) | 2:32 | 2022-06-09 | 2022-07-21 |
@@ -92,6 +92,7 @@
 | [Marathorn](https://open.spotify.com/track/2vrCbDTFRAYLWrKtSjTQ4T) | [Xlim Jay](https://open.spotify.com/artist/1BaLw8i2rIUW1kTQKAEPIn), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Marathorn](https://open.spotify.com/album/24LqIweNLRL8T6gDx9ibuk) | 3:25 | 2022-06-09 | 2022-07-28 |
 | [Medicine](https://open.spotify.com/track/5KD0JO8AHXZ9MFByI6SHqA) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Love or the Word \(EP\)](https://open.spotify.com/album/38mdA7Tdg3GF3MFxz2IQSM) | 2:39 | 2022-06-09 | 2022-08-05 |
 | [Miniskirt](https://open.spotify.com/track/5W2JnzMTTGEIpXDzP0EcPe) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/5BzGiOWRTSHoSseuc4yWxs) | 2:45 | 2022-06-09 | 2022-07-29 |
+| [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 |  |
 | [Mood](https://open.spotify.com/track/7MO1rDXtbbgpgRlIREIqWo) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [A Fierce Piano](https://open.spotify.com/album/7sXmc7pbCD9VXXC3QFzmM9) | 6:10 | 2022-07-05 | 2022-07-22 |
 | [More](https://open.spotify.com/track/40KU1IqyqXKwYnLKdMxOl6) | [Teeto](https://open.spotify.com/artist/7ymel9KpuAAHusHyDil3rT), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Moon](https://open.spotify.com/artist/4bc2Fc6nmXwFOllgMxpl3M) | [Culture of Honour](https://open.spotify.com/album/1wYPyjlnTdhRa66UNS8wfA) | 3:13 | 2022-07-07 | 2022-07-23 |
 | [More](https://open.spotify.com/track/79xh9a2LfIBIzMxIkDGvxZ) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0iIUaUxmBdL0zByeXuMjtm) | 2:58 | 2022-06-09 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Sometimes \- Remix](https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc) | 3:08 | 2022-06-09 | 2022-09-10 |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-06-09 | 2022-07-29 |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-09 |  |
-| [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2022-06-09 |  |
+| [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2022-06-09 | 2022-09-26 |
 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 | 2022-06-09 |  |
 | [Toxic Love](https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Toxic Love](https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w) | 2:15 | 2022-06-09 | 2022-07-26 |
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-16 | 2022-08-19 |

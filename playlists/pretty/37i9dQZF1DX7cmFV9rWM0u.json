@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1840128,
+  "num_followers": 1840239,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMDZjYmUxMDZmZGMwY2FhOTM3OTRjYzc5Y2I2YWFhNzQ4",
+  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMGEzY2RkMzI5NjFjMzA4N2VlODI0ZDIzZmI3OWI3Njhl",
   "tracks": [
     {
       "added_at": "2022-09-21 18:08:29",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
         "name": "Se Te Nota (with Guaynaa)",
         "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
       },
@@ -539,18 +519,22 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -571,6 +555,22 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -715,22 +715,22 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "Ram Pam Pam",
-        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 200785,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -751,22 +751,22 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+        "name": "Ram Pam Pam",
+        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 199357,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+      "duration_ms": 200785,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
         "name": "A Un Paso De La Luna (Remix)",
         "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "ME PASE (feat. Farruko)",
-        "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "ME PASE (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
         "name": "WOW BB",
         "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
+        "name": "ME PASE (feat. Farruko)",
+        "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "ME PASE (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -1099,6 +1099,34 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
+        "name": "R\u00f3mpela",
+        "url": "https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "One Six",
+          "url": "https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "R\u00f3mpela",
+      "url": "https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
         "name": "Selfish Love (with Selena Gomez)",
         "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
       },
@@ -1167,34 +1195,6 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
-        "name": "R\u00f3mpela",
-        "url": "https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "One Six",
-          "url": "https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "R\u00f3mpela",
-      "url": "https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ"
     },
     {
       "added_at": "2022-09-21 18:08:29",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "El Teke Teke",
-        "url": "https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        }
-      ],
-      "duration_ms": 177636,
-      "name": "El Teke Teke",
-      "url": "https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
+        "name": "El Teke Teke",
+        "url": "https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "duration_ms": 177636,
+      "name": "El Teke Teke",
+      "url": "https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV"
     }
   ],
   "unique_name": "Zumba\u00ae Beats",

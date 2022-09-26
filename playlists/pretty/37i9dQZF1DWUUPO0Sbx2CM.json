@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 104045,
+  "num_followers": 104165,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGE1MTc3ZjU4OTk5MTAyM2UwMzFiYmU0MTYyN2YwMmZm",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDdjNzBmYTdkZjJjZjBhNjk4NTM5ZGQ1OTRlMGU0NmRm",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Coming In Hot - Wuki Remix",
         "url": "https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 179541,
       "name": "Coming In Hot - Wuki Remix",
       "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
       },
       "artists": [
         {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
         }
       ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+      "duration_ms": 175040,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -491,22 +491,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Burn The Ships (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         },
         {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Close (feat. Steven Furtick)",
-      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
+      "duration_ms": 146020,
+      "name": "Burn The Ships (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -527,22 +527,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Burn The Ships (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 146020,
-      "name": "Burn The Ships (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z"
+      "duration_ms": 168000,
+      "name": "Close (feat. Steven Furtick)",
+      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -579,8 +579,8 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -683,24 +683,28 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+      "duration_ms": 193809,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
     },
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
       },
       "artists": [
         {
@@ -708,9 +712,25 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better View, Part I - EP",
+        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "perfection",
+      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -731,22 +751,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 193809,
-      "name": "Working On It",
-      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -775,22 +791,6 @@
       "duration_ms": 213410,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Better View, Part I - EP",
-        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "perfection",
-      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "If You Only Knew!",
         "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 170307,
       "name": "If You Only Knew!",
       "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Bring The Whole Hood",
         "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 160874,
-      "name": "BUENA ONDA",
-      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+      "duration_ms": 160874,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 204271,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5"
+      "duration_ms": 158198,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
       "artists": [
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 158198,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
+      "duration_ms": 181426,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     }
   ],
   "unique_name": "Christian Dance Party",

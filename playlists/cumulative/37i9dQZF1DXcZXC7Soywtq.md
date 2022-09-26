@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: أصيل هميم
 
-185 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+186 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Darhali Galbi](https://open.spotify.com/track/5rX5sT9yC44Rq61EmtGrk5) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Darhali Galbi](https://open.spotify.com/album/2014sSwnnhZMXV5pMDeiXn) | 3:26 | 2022-04-08 |  |
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2022-04-08 |  |
 | [Ehda Ya Qalby](https://open.spotify.com/track/7uEZPoEfOQbmmNGMtNmVug) | [Shaymaa Sulaiman](https://open.spotify.com/artist/1yTlXgm1Qli3UhkAoOjSdA) | [Ehda Ya Qalby](https://open.spotify.com/album/6uKya6hsyIIo8K4l8rgyGD) | 4:01 | 2022-04-08 | 2022-07-28 |
-| [Ehfaz Shakli](https://open.spotify.com/track/2njzmIFGKJcQFIcwlZV6ds) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ehfaz Shakli](https://open.spotify.com/album/3C7zH2AW1jB2qeukuLpYeF) | 3:57 | 2022-04-08 |  |
+| [Ehfaz Shakli](https://open.spotify.com/track/2njzmIFGKJcQFIcwlZV6ds) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ehfaz Shakli](https://open.spotify.com/album/3C7zH2AW1jB2qeukuLpYeF) | 3:57 | 2022-04-08 | 2022-09-26 |
 | [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-04-08 |  |
 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 | 2022-07-14 |  |
 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-04-08 |  |
@@ -78,6 +78,7 @@
 | [Galbi Tlef](https://open.spotify.com/track/75uPMqyybZN0jPzfV93a9E) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Galbi Tlef](https://open.spotify.com/album/02dB6JX78mIrKolDkwiS9q) | 3:04 | 2022-04-08 |  |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-04-08 |  |
 | [Go\-Ahead](https://open.spotify.com/track/7dJ90WUWkUhVftovR92Zjs) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Go\-Ahead](https://open.spotify.com/album/59bUsavlETDylQVUQhXYcA) | 3:16 | 2022-04-08 | 2022-07-29 |
+| [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-09-22 |  |
 | [Haga Wahda](https://open.spotify.com/track/2ZTvXg1K0WkXdrpByVVjhf) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [Haga Wahda](https://open.spotify.com/album/0dsTRGZYG07RdME01EuVXs) | 3:03 | 2022-04-08 | 2022-07-29 |
 | [Hateshtaou](https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hateshtaou](https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM) | 4:35 | 2022-04-08 |  |
 | [Hay Elgedida](https://open.spotify.com/track/4aqbxpjFqyrGrXslQSrvY1) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hay Elgedida](https://open.spotify.com/album/4fxsCTk0anQLi44BwJAurV) | 3:22 | 2022-04-08 | 2022-07-29 |

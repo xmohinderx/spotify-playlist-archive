@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-290 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+291 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 | 2022-05-28 |  |
 | [Friday Night TYO](https://open.spotify.com/track/0JbjX9KO5VN2cqsSCGwd8u) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [INTERWEAVE 02](https://open.spotify.com/album/2ujuanUjHgl8sDGvipTmq3) | 3:52 | 2022-05-28 | 2022-07-04 |
 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 | 2022-07-27 | 2022-08-17 |
+| [Getsuyou no Dance](https://open.spotify.com/track/51zSpfOogDG3NqCsVfI8O0) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Shikousei](https://open.spotify.com/album/0WYt2Vo6QgYJeB3KHWUhgV) | 3:22 | 2022-09-25 |  |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-05-24 | 2022-07-29 |
 | [Gimme](https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5) | 3:31 | 2022-09-13 |  |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 |  |
@@ -287,7 +288,7 @@
 | [笑ってほしいよ](https://open.spotify.com/track/6IcZU5CPGK8x5V9GTwxfJ3) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [笑ってほしいよ](https://open.spotify.com/album/4cBISpXQQZkbO29bQj0ZJl) | 2:56 | 2022-06-28 | 2022-07-06 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-05-24 | 2022-07-27 |
 | [終電で帰ります](https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [終電で帰ります](https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr) | 4:04 | 2022-05-28 | 2022-07-25 |
-| [薄明](https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [薄明](https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd) | 4:25 | 2022-05-28 |  |
+| [薄明](https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [薄明](https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd) | 4:25 | 2022-05-28 | 2022-09-26 |
 | [蜃気楼](https://open.spotify.com/track/1poGs2OYI3IJvRRf3lnwHy) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [蜃気楼](https://open.spotify.com/album/5wuHxESE0c3fKwyRRq6W07) | 3:42 | 2022-06-30 | 2022-07-09 |
 | [誓い](https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [誓い](https://open.spotify.com/album/6bHUl9K4cipCsU2wew0XrU) | 3:33 | 2022-05-24 | 2022-07-07 |
 | [踊らせないで](https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:47 | 2022-05-24 | 2022-07-29 |

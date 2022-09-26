@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3978,
+  "num_followers": 3979,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDVhZjQ1ZWZmYTlmMjViNWQ1MGQ5OWIwOTA3Y2Y5Y2Nm",
+  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDE5YTkwMTQ0NmY1MWJhM2JmZDg4OTY5MTE5MjU1MTM2",
   "tracks": [
     {
       "added_at": "2022-09-05 15:55:02",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "Syndrome",
+        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Syndrome",
+      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -151,38 +167,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Syndrome",
-        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Syndrome",
-      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
-      },
-      "artists": [
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Take Me (with 11Kitties)",
-      "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -203,22 +199,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "She lives in Paris",
         "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 197000,
       "name": "She lives in Paris",
       "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Take Me (with 11Kitties)",
+      "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 213377,
       "name": "Thief (Feat. MINNIE of (G)I-DLE)",
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Like a Diamond",
-        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
-      },
-      "artists": [
-        {
-          "name": "KangHyeWon",
-          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
-        },
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Like a Diamond (With. Stella Jang)",
-      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -427,6 +407,26 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "Like a Diamond",
+        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
+      },
+      "artists": [
+        {
+          "name": "KangHyeWon",
+          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
+        },
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Like a Diamond (With. Stella Jang)",
+      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -475,6 +459,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "monochrome",
-        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 261941,
-      "name": "monochrome",
-      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+        "name": "monochrome",
+        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
       },
       "artists": [
         {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
         }
       ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+      "duration_ms": 261941,
+      "name": "monochrome",
+      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -627,22 +611,50 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        },
-        {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
         }
       ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -667,22 +679,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -699,18 +695,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 235693,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -735,22 +731,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
       },
@@ -763,6 +743,46 @@
       "duration_ms": 183281,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+        }
+      ],
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+        }
+      ],
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -803,26 +823,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Song of the rain",
-        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
-      },
-      "artists": [
-        {
-          "name": "Bambiroyalprince",
-          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
-        }
-      ],
-      "duration_ms": 214556,
-      "name": "Song of the rain",
-      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Hate this love",
         "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Song of the rain",
+        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+      },
+      "artists": [
+        {
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Song of the rain",
+      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
     },
     {
       "added_at": "2022-09-05 15:55:02",

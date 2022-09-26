@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,611 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,669 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 20 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 |
 | 21 | [Biggest Lie](https://open.spotify.com/track/4h39acKcAORSlCCbWEYhek) | [No Use For A Name](https://open.spotify.com/artist/5p3WimI9yquAF6Lqhlm4Ol) | [The Feel Good Record of the Year](https://open.spotify.com/album/4u8maWk9uRQ7ipjkKTVHup) | 2:09 |
 | 22 | [Artificial Life \- 2007 Remaster](https://open.spotify.com/track/6oQ4aZWJ665RrhzhXrMZrm) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:05 |
-| 23 | [BITE BACK](https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BITE BACK](https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy) | 3:10 |
-| 24 | [The Wounded World](https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:10 |
-| 25 | [Foundations To Burn](https://open.spotify.com/track/450H5ytmWAlMuBUnE2eCY7) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [Tomorrow Come Today](https://open.spotify.com/album/3EG9x8LkWJaYPPWKVKWLF7) | 3:46 |
+| 23 | [Foundations To Burn](https://open.spotify.com/track/450H5ytmWAlMuBUnE2eCY7) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [Tomorrow Come Today](https://open.spotify.com/album/3EG9x8LkWJaYPPWKVKWLF7) | 3:46 |
+| 24 | [BITE BACK](https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BITE BACK](https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy) | 3:10 |
+| 25 | [The Wounded World](https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:10 |
 | 26 | [Womanarchist](https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn) | [Bad Cop, Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ) | 2:52 |
 | 27 | [Dry Season](https://open.spotify.com/track/44uEz0HaEadUrgZefxyKl5) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Peace in Our Time](https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE) | 2:20 |
 | 28 | [Hate Conquers All](https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hate Conquers All](https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0) | 2:46 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 44 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
 | 45 | [Super Spreader](https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Super Spreader](https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy) | 2:45 |
 | 46 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
-| 47 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
-| 48 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
+| 47 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
+| 48 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
 | 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 | 50 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 
-Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMGI1MWIzNWMxMTk3YzRlODZlOTc0YmY5Y2JjM2Q1ZmVj`
+Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMGRiMzEzNjNlZTM3MmY2ZmUwM2JhNzBlNTMwY2FmMzJh`

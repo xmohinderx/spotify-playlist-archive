@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53321,
+  "num_followers": 53322,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGU2MzQ0MzBhM2RhM2EzYTQwMmJhNTVlNGNiMTM5YTgx",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDk5MjAyOGVkNWI0ZDg5ZTFhMDZmOTE0YjRiODI0YTFk",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -731,6 +731,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "The End of History",
+        "url": "https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "The Underwood Typewriter",
+      "url": "https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
@@ -763,38 +779,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Break It Yourself",
-        "url": "https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 293860,
-      "name": "Orpheo Looks Back",
-      "url": "https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "The End of History",
-        "url": "https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "The Underwood Typewriter",
-      "url": "https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Break It Yourself",
+        "url": "https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 293860,
+      "name": "Orpheo Looks Back",
+      "url": "https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ"
     }
   ],
   "unique_name": "The Writer's Playlist",

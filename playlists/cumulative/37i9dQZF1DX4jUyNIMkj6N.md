@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-166 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
+167 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Forest Fires](https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9) | 3:30 | 2022-07-14 |  |
 | [Freedom](https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 2:16 | 2022-07-14 |  |
 | [Freedom](https://open.spotify.com/track/4zzvNcm9aUbVy1zugFYS7u) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Freedom](https://open.spotify.com/album/0EWv02vhy1bg3c00RtiDG7) | 2:16 | 2022-03-24 | 2022-07-29 |
-| [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 | 2022-07-14 |  |
+| [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 | 2022-07-14 | 2022-09-26 |
 | [Ghost Mess](https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8) | [Kristofer Åström](https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA) | [The Story Of A Heart's Decay](https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija) | 4:26 | 2021-12-02 | 2022-07-29 |
 | [Ghosts in Our Hearts](https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD), [Franziskamaze](https://open.spotify.com/artist/78jrTPJmSEGjZrsMdCkkBs) | [Ghosts in Our Hearts](https://open.spotify.com/album/56mxck2QGvQf6MXcwQDgaE) | 3:39 | 2022-01-20 | 2022-07-28 |
 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 |  |
@@ -163,6 +163,7 @@
 | [While He Is Still Asleep](https://open.spotify.com/track/11QGYpsukruD6f85WSDyQD) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [While He Is Still Asleep](https://open.spotify.com/album/1KGp59EIwjR3kh4eRHAHjM) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [While I Was Asleep](https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh) | 3:27 | 2021-12-02 | 2022-07-17 |
 | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/album/1hAYAyoKGVinR7S1ETybdu) | 2:57 | 2022-02-17 | 2022-07-29 |
+| [Wild Dreams](https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Wild Dreams](https://open.spotify.com/album/2UeNGwnXHPQEdouzwRUMZ5) | 4:01 | 2022-09-08 |  |
 | [Winter never lasts forever](https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [With Tomorrow/I'm On Fire](https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5) | [Ólöf Sings \- EP](https://open.spotify.com/album/36k7RNKHKNGJyOnEI2C6ZU) | 4:17 | 2021-12-02 | 2022-06-08 |
 | [Wolf](https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/6UndV62df5KRebmj3zyn53) | 3:40 | 2022-07-14 |  |

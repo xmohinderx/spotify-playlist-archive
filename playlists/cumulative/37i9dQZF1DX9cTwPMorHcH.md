@@ -4,7 +4,7 @@
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-106 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3sRnc53jhYf8ZsxDWtZTQ9)
+107 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/3sRnc53jhYf8ZsxDWtZTQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2021-03-03 |  |
 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 | 2021-03-03 |  |
 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 | 2021-03-03 |  |
-| [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 | 2021-03-03 |  |
+| [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 | 2021-03-03 | 2022-09-26 |
 | [Don't Leave Me Here](https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 5:01 | 2021-03-03 |  |
 | [Don't Owe You a Thang](https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Bright Lights EP](https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG) | 3:35 | 2021-03-03 |  |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2021-03-03 |  |
@@ -44,6 +44,7 @@
 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2021-07-23 |  |
 | [Goodbye Carolina](https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Goodbye Carolina](https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7) | 4:01 | 2021-03-03 |  |
 | [Have You Ever Loved A Woman?](https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 6:52 | 2021-03-03 |  |
+| [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 | 2022-02-25 |  |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2022-02-25 | 2022-09-15 |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2021-05-14 |  |
 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 | 2021-03-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 4816,
+  "num_followers": 4835,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMGM3NmQ0YjdiZDBlMjgyM2NiZTNmMzQ2ODgwNWZiNjFk",
+  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMDEyNDc1N2IxMWFhZTFhOTZkYjE5ZWExNWYzZGRjNjI3",
   "tracks": [
     {
       "added_at": "2022-09-13 13:21:30",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Sigue y Sigue",
-        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 146269,
-      "name": "Sigue y Sigue",
-      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "\u00dasame",
         "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 203294,
       "name": "\u00dasame",
       "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Sigue y Sigue",
+        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 146269,
+      "name": "Sigue y Sigue",
+      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -423,18 +423,22 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Vete Y Dile",
-        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
       "artists": [
         {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 147535,
-      "name": "Vete Y Dile",
-      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -455,22 +459,18 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "Vete Y Dile",
+        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+      "duration_ms": 147535,
+      "name": "Vete Y Dile",
+      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 206928,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
         }
       ],
-      "duration_ms": 206928,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -547,22 +563,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 120000,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -687,22 +703,6 @@
       "duration_ms": 190102,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/6265pP7vOElddtF32MJmts"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2022-09-13 13:21:30",

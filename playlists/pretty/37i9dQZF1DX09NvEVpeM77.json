@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 198356,
+  "num_followers": 198597,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDE4MWM1ZjYwOTA5NWU4ZjQ4ZTllM2QyZjc2Mzg2NDFh",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDMwYWQ3MDcwNzk1MDQyMjI4ZjM0ZTFlMmRjNmEwY2Ez",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
@@ -299,6 +283,22 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Hotel California (2013 Remaster)",
@@ -363,6 +347,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
-      "added_at": "2022-06-15 19:50:25",
-      "album": {
-        "name": "But Seriously, Folks...",
-        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
-      },
-      "artists": [
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 536226,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
-    },
-    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Fire of Unknown Origin",
@@ -635,6 +619,22 @@
       "duration_ms": 280636,
       "name": "Hold On Loosely",
       "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
+    },
+    {
+      "added_at": "2022-06-15 19:50:25",
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
       "added_at": "2022-03-14 17:21:32",

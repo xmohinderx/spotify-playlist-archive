@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 175424,
+  "num_followers": 175690,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDRlOWU0YjA4MTlhMjM0YTA1ZmFmMTdhMTgxZjIxOTU4",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDM1ZDZjZTEwZDZiNWY1NTM3MzlhOGIwZmZiODM0ZGQw",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
     },
     {
+      "added_at": "2022-07-05 15:47:05",
+      "album": {
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Southern Cross - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
+    },
+    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Street Talk (Expanded Edition)",
@@ -667,22 +683,6 @@
       "duration_ms": 307306,
       "name": "I Can't Go for That (No Can Do)",
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
-      "added_at": "2022-07-05 15:47:05",
-      "album": {
-        "name": "Daylight Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Southern Cross - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-03-28 14:29:51",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2022-03-28 14:29:51",
-      "album": {
         "name": "View From The Ground",
         "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 248426,
       "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
+    },
+    {
+      "added_at": "2022-03-28 14:29:51",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
+      "added_at": "2021-05-06 11:08:15",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+        "name": "The Principle of Moments",
+        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
       },
       "artists": [
         {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+      "duration_ms": 304800,
+      "name": "Big Log - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2021-05-06 11:08:15",
-      "album": {
-        "name": "The Principle of Moments",
-        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Big Log - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
     },
     {
       "added_at": "2020-12-08 17:52:17",

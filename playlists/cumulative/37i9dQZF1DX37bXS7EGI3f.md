@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-492 songs - 1 day 13 hr 57 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+493 songs - 1 day 14 hr 2 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,8 @@
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5mjPofHP2uRZx8IqXs2cki) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness](https://open.spotify.com/album/4qHmxRDBpZ1JnHfVBsu82F) | 5:20 | 2022-07-13 | 2022-07-30 |
 | [Witch House](https://open.spotify.com/track/0RoJGJA3g0Oop7xDfsbTw9) | [Scale The Summit](https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [In a World of Fear](https://open.spotify.com/album/1svX5NjgJMiqEL6ZLvJD0T) | 4:45 | 2022-07-13 | 2022-07-22 |
 | [Wolves At The Door](https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Wolves At The Door](https://open.spotify.com/album/0MVixPgkMXEeGQRMiNcuKR) | 5:54 | 2021-05-07 | 2021-06-04 |
-| [World on Fire](https://open.spotify.com/track/1qdhBYfE5OqEv23gDYso2I) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/0BgiXlKZgOiRIJJJGI4odZ) | 4:26 | 2022-07-08 |  |
+| [World on Fire](https://open.spotify.com/track/1qdhBYfE5OqEv23gDYso2I) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/0BgiXlKZgOiRIJJJGI4odZ) | 4:26 | 2022-07-08 | 2022-09-26 |
+| [World On Fire](https://open.spotify.com/track/3bm1cNf31qW8Q0mzt5XrGS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Survive](https://open.spotify.com/album/1s1HJF1Zn5f0VTwRRLOBVb) | 4:26 | 2022-09-16 |  |
 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 | 2022-07-01 | 2022-07-29 |
 | [Wouldst Thou Like to Live Deliciously? \- Live](https://open.spotify.com/track/6hCpzW3IHokg4JMoY883I3) | [Andrew Baena](https://open.spotify.com/artist/31Jtwuc3XU8MypjID0ZuIm) | [Wouldst Thou Like to Live Deliciously?](https://open.spotify.com/album/2crNpguxPKpzw8oQbUHEjG) | 2:32 | 2022-07-13 | 2022-07-29 |
 | [Woven into Sorrow](https://open.spotify.com/track/4itNbJ5IAoEnzVH8YlIO4B) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Woven into Sorrow](https://open.spotify.com/album/1faVZr47N9uIDH1btAqLYs) | 7:46 | 2021-09-25 | 2021-10-29 |

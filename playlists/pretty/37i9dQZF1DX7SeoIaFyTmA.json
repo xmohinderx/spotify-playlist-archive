@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1049479,
+  "num_followers": 1050048,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODEwOCwwMDAwMDAwMGIzODIzYjBiNDQzNmQ3MWM2OGQwZTI0OTMzZTY4MjVh",
+  "snapshot_id": "MTY2MTkyODEwOCwwMDAwMDAwMDc2NzMwOTFjMTk2NWMzOTdhNzJiNDhmNzY4OGRkZjM0",
   "tracks": [
     {
       "added_at": "2022-08-31 06:41:48",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-08-31 06:41:48",
       "album": {
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 304640,
+      "name": "Api\u00e1date de Mi",
+      "url": "https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk"
+    },
+    {
+      "added_at": "2022-08-31 06:41:48",
+      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-08-31 06:41:48",
       "album": {
-        "name": "Victor Manuelle (3 CD Box Set)",
-        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 304640,
-      "name": "Api\u00e1date de Mi",
-      "url": "https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk"
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2022-08-31 06:41:48",
@@ -703,22 +719,6 @@
       "duration_ms": 298515,
       "name": "Un verano en Nueva York",
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
-    },
-    {
-      "added_at": "2022-08-31 06:41:48",
-      "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2022-08-31 06:41:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-31 06:41:48",
       "album": {
-        "name": "\u00c9xitos Y Algo M\u00e1s",
-        "url": "https://open.spotify.com/album/3Mwk5ZpeJjRGxiJp4d3xDE"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 307281,
-      "name": "Ven Morena",
-      "url": "https://open.spotify.com/track/5f0RBkGnyC5BatCdEQXXwy"
-    },
-    {
-      "added_at": "2022-08-31 06:41:48",
-      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 346306,
       "name": "Mi Ritmo Es Bueno",
       "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
+    },
+    {
+      "added_at": "2022-08-31 06:41:48",
+      "album": {
+        "name": "\u00c9xitos Y Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/3Mwk5ZpeJjRGxiJp4d3xDE"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 307281,
+      "name": "Ven Morena",
+      "url": "https://open.spotify.com/track/5f0RBkGnyC5BatCdEQXXwy"
     },
     {
       "added_at": "2022-08-31 06:41:48",

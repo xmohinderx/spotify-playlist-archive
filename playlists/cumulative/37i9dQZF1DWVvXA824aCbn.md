@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-310 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+312 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [I'd Rather Be Alone](https://open.spotify.com/track/1hvi20elKFkF39L4jIdHRZ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:07 | 2020-10-20\* |  |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-10-29 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/3QU0LuySpN6J3jZUb9XYFv) | [Loretta Scott](https://open.spotify.com/artist/0aqKvHRVIcAor1S7jxLvyx) | [Nardis](https://open.spotify.com/album/1llSYGLKfSsFhHPeBdJTRJ) | 3:48 | 2020-10-20\* | 2020-12-09 |
+| [I'm Glad There's You](https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:01 | 2022-09-20 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/2yOraIy6RgkENDX4Wo2z33) | [Tonya Malone](https://open.spotify.com/artist/3uC9zMR3YcPCLX47MTDq6N) | [All Blues](https://open.spotify.com/album/6fC5AN5GxERt3MSZcie5eB) | 3:59 | 2020-10-20\* | 2021-01-21 |
 | [I'm Through With Love](https://open.spotify.com/track/38DuwiVs95AQqNTYTJLJFe) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [I'm Through With Love](https://open.spotify.com/album/1468tP4UUGtE9dHEKSBnbq) | 4:44 | 2022-08-17 |  |
 | [I've Got the World on a String](https://open.spotify.com/track/08CCBWNLV3SzYjhSYPswQs) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 2:34 | 2020-10-20\* | 2021-01-21 |
@@ -146,7 +147,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/55C4kway5euJFyKBafRgrP) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Acceptance](https://open.spotify.com/album/3dtXMJBjEBZ5qvV6HmVMzB) | 5:12 | 2020-10-20\* | 2020-11-05 |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-05-17 |  |
 | [It's Alright With Me](https://open.spotify.com/track/0od0SgUUGkbQdDhdVQf75c) | [Tyler Elkins](https://open.spotify.com/artist/45xwQAYDQqmpNydr6lnogn) | [The Lady Is a Tramp](https://open.spotify.com/album/4LPxEBOK71hzP3sQ9dedjp) | 4:52 | 2020-10-20\* | 2020-11-11 |
-| [It's Magic](https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh) | [Brooks Jazz Band](https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3) | [Mack the Knife](https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw) | 4:48 | 2020-10-20\* |  |
+| [It's Magic](https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh) | [Brooks Jazz Band](https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3) | [Mack the Knife](https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw) | 4:48 | 2020-10-20\* | 2022-09-26 |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2020-10-20\* | 2021-01-21 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2020-10-20\* |  |
@@ -154,7 +155,7 @@
 | [I’m Old Fashioned](https://open.spotify.com/track/1jdgzJGZxD8iP1Cc7FRD5F) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 4:32 | 2020-10-20\* | 2020-11-05 |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-10-01 |  |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2020-12-02 |  |
-| [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* |  |
+| [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* | 2022-09-26 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-02-15 |  |
 | [La Vie en rose](https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [La Vie en rose](https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E) | 2:48 | 2022-05-24 | 2022-08-31 |
 | [Lady D](https://open.spotify.com/track/1YEGJGKECYxGoRDE1TLjJC) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Lady D](https://open.spotify.com/album/6jtCNH0s9qMhzP746qNrHj) | 3:23 | 2021-09-16 |  |
@@ -195,6 +196,7 @@
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2021-05-22 |  |
 | [my romance](https://open.spotify.com/track/1jUutuE0MOLuCYq8K7WKcB) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:27 | 2020-10-20\* | 2021-01-21 |
 | [My Romance](https://open.spotify.com/track/536cUtbCGI3ic8xqGQTsry) | [Red Rose Jazz Trio](https://open.spotify.com/artist/18pdfLWgThCHa9DBN1OcwW) | [My Romance](https://open.spotify.com/album/6qW9Bj24JVdDcoUl2JH6UC) | 6:32 | 2020-10-20\* | 2020-11-18 |
+| [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Never Let Me Go](https://open.spotify.com/track/3jBc8ArlFCzEKc7nATMJUO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:49 | 2021-01-21 | 2021-06-18 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2021-07-02 |  |
 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 | 2020-10-20\* | 2021-01-21 |

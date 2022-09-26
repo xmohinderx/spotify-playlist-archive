@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 59822,
+  "num_followers": 59825,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzNTQyMiwwMDAwMDAwMGU4YTYxMzE0MWNjM2IyOGQ4ZDlhMGY2NGE4Mzk4MjY4",
+  "snapshot_id": "MTY2MzMzNTQyMiwwMDAwMDAwMGEyMWVmZjE3OTNkMTg4MDY1YTBhZWIzNmM3ZTcyN2My",
   "tracks": [
     {
       "added_at": "2022-09-16 13:37:02",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -335,26 +351,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Christmas In New Orleans",
-      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -383,6 +379,26 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 167506,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "The Twelve Days of Christmas",
-      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 329000,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+      "duration_ms": 240200,
+      "name": "The Twelve Days of Christmas",
+      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
+        "name": "White Nights",
+        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Meadowpoint",
+          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+      "duration_ms": 145483,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -531,34 +531,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "White Nights",
-        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
       "artists": [
         {
-          "name": "Meadowpoint",
-          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 145483,
-      "name": "Ding Dong Merrily on High",
-      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
-      "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
+      "duration_ms": 178066,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -575,6 +559,22 @@
       "duration_ms": 238706,
       "name": "I've Got My Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
+      "url": "https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "An Oscar Peterson Christmas",
         "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 169506,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO"
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -723,34 +723,34 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
+      "duration_ms": 214920,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO"
     },
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
+      "duration_ms": 180160,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Christmas With The Andrews Sisters",
-        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 180160,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+      "duration_ms": 220133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
         }
       ],
-      "duration_ms": 206040,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/1ba3RJ93r300sxl3BXUstM"
+      "duration_ms": 194613,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Hark! The Herald Angels Sing",
         "url": "https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 162223,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "That Holiday Feelin'",
+        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "Christmas Rainbows",
+      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
         }
       ],
-      "duration_ms": 194613,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
+      "duration_ms": 206040,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/1ba3RJ93r300sxl3BXUstM"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
-        "name": "That Holiday Feelin'",
-        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Christmas Rainbows",
-      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
         "name": "Jazz For Joy: A Verve Christmas Album",
         "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
         "name": "The Time of the Year",
         "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
       },
@@ -1111,38 +1111,6 @@
       "duration_ms": 208146,
       "name": "The Time of the Year",
       "url": "https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Once A Year Miracle",
-      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
-    },
-    {
-      "added_at": "2022-09-16 13:37:02",
-      "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 309453,
-      "name": "A Toast to Friends",
-      "url": "https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ"
     },
     {
       "added_at": "2022-09-16 13:37:02",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2022-09-16 13:37:02",
       "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Once A Year Miracle",
+      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 235866,
       "name": "Let's Share Christmas",
       "url": "https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm"
+    },
+    {
+      "added_at": "2022-09-16 13:37:02",
+      "album": {
+        "name": "Hope of Christmas",
+        "url": "https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Christmas Isn't Christmas At All",
+      "url": "https://open.spotify.com/track/2peDwHsnN3T2U62N2hWgDA"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy these relaxed beats.
 
-211 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+212 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ipanema](https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Ipanema](https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq) | 2:04 | 2022-01-21 | 2022-05-14 |
 | [Kalmar \- Lassjo's Dive](https://open.spotify.com/track/7sjPnJvroufu2baQuwoZ7Z) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Kalmar](https://open.spotify.com/album/2KxqTqUFYM335WGrCy9V4T) | 4:00 | 2022-03-25 | 2022-07-16 |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-25 | 2022-04-21 |
-| [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 | 2022-02-26 |  |
+| [Kobicha](https://open.spotify.com/track/1G8KzCELG4AXvmpf1WRMY6) | [Soul Flower](https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra) | [Kobicha](https://open.spotify.com/album/0suJmrWbXjCIT6bgR4AYhR) | 3:01 | 2022-02-26 | 2022-09-26 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2021-12-09 | 2022-09-13 |
 | [Kyoto](https://open.spotify.com/track/6PjXctzAvL8UjkSozwctep) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Kyoto](https://open.spotify.com/album/2z2Z5IohSxt1cNL3hSs5E3) | 2:21 | 2021-12-09 | 2022-06-24 |
 | [Last Forever](https://open.spotify.com/track/6jt9ksqmpgggBsIj5pVZNd) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Not from Here](https://open.spotify.com/album/3wltnpCzev9PmIK5aQmDhv) | 4:14 | 2021-12-09 | 2022-05-21 |
@@ -214,6 +214,7 @@
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-12-09 |  |
 | [White Noise](https://open.spotify.com/track/4wAoAGYIAzAUOJ1EDTd2r5) | [Belikeme](https://open.spotify.com/artist/3bq5uvcwCx8g4xdHTW8qaG) | [White Noise](https://open.spotify.com/album/4uGPtw7oPrBh1fy9d4OpBG) | 2:39 | 2022-09-12 |  |
 | [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 | 2022-08-14 |
+| [White Sand](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 3:08 | 2022-09-12 |  |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |

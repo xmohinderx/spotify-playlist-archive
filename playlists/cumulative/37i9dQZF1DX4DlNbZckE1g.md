@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-107 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
+108 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-02-10 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-02-10 |  |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-02-10 |  |
-| [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/track/5dGrBsOpigUZ00Nugkzl4y) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/album/65POYnT18wlACkcvurFl6e) | 3:00 | 2022-02-10 |  |
+| [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/track/3qluBAef6SQ0RBJGDUPnLC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:00 | 2022-02-10 |  |
+| [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/track/5dGrBsOpigUZ00Nugkzl4y) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/album/65POYnT18wlACkcvurFl6e) | 3:00 | 2022-02-10 | 2022-09-26 |
 | [Lose Your Head](https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:19 | 2022-02-10 |  |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2022-02-10 |  |
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2022-02-10 |  |

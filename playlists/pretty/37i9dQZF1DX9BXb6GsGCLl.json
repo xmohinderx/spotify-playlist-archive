@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 490063,
+  "num_followers": 490051,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGE0MDMwOTU2M2E0OTcyYmRjYzliMzBiMWUyMDEyOWNm",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDE3MmEyZTY1YjYzMDc1Y2FjNWRmYTgwYjQzZTI4MmNm",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -83,6 +83,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -303,26 +303,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Alone, Pt. II",
         "url": "https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -879,22 +879,18 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Summer Feeling",
-        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
       },
       "artists": [
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Summer Feeling",
-      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -947,22 +943,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Summer Feeling",
+        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Summer Feeling",
+      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 185277,
+      "name": "X (with KAROL G)",
+      "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "XV",
-        "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 185277,
-      "name": "X (with KAROL G)",
-      "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 193829,
       "name": "Physical",
       "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1243,18 +1259,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1279,46 +1299,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 161167,
-      "name": "Bet You Wanna (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
     },
     {
       "added_at": "2021-08-20 08:20:52",

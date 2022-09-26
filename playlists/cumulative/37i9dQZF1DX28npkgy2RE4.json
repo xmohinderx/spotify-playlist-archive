@@ -2414,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "Greatest Weapon / Under The Water",
+        "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174156,
+      "name": "Greatest Weapon",
+      "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
+    },
+    {
+      "album": {
         "name": "Halo & Begin Again (Unplugged)",
         "url": "https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU"
       },
@@ -3819,7 +3837,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"

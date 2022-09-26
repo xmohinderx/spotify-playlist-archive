@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-345 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+346 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 | 2021-11-30 |  |
 | [Agree to Disagree](https://open.spotify.com/track/3llg6uc2Z1OJDUoxqdiWTO) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Agree to Disagree](https://open.spotify.com/album/55HD0uCDX9M7azoanIRqIa) | 3:02 | 2021-11-30 | 2022-07-28 |
 | [Agree to Disagree](https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:02 | 2022-04-01 |  |
-| [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-04-25 |  |
+| [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-04-25 | 2022-09-26 |
 | [Alive](https://open.spotify.com/track/38OYsRVNgQX0J9KE1AwESQ) | [Led by Lanterns](https://open.spotify.com/artist/5kp3UOrrlc3GP5b5bymA07), [Tobi Duncan](https://open.spotify.com/artist/1OIHOPY48xnKhjbWHmrH8P) | [Alive](https://open.spotify.com/album/6w3bbH8fq5Tj1M2VIhJvug) | 3:15 | 2021-11-30 | 2022-07-28 |
 | [All in Time](https://open.spotify.com/track/0kF01NTUMMlrGDy0QVqtmY) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time](https://open.spotify.com/album/6FTNA4FWpNNEYHiqzXKSbA) | 3:29 | 2021-11-30 | 2022-07-27 |
 | [All My Life](https://open.spotify.com/track/1LQDC4iJRmgPAg8Ev95L3I) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [All My Life](https://open.spotify.com/album/42QmZ9w0J8BUVALVkKN80i) | 3:04 | 2021-11-30 | 2022-07-29 |
@@ -305,6 +305,7 @@
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 |  |
 | [Swipe](https://open.spotify.com/track/5Xm3q9DHDSCGyQg2o3RGhD) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Swipe](https://open.spotify.com/album/4xdo8J0AGTVlvxQoIkR0jB) | 3:13 | 2021-11-30 | 2022-07-27 |
 | [Synthetic](https://open.spotify.com/track/0TjdRpN1VNAqmQPmGkwGBd) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy), [Nick Casasanto](https://open.spotify.com/artist/3IwnEcBxXV4WR3M4zroChh) | [Synthetic](https://open.spotify.com/album/6HVeTYGVcf6Qazkj2jXR2f) | 3:47 | 2021-11-30 | 2022-06-24 |
+| [Synthetic Sympathy](https://open.spotify.com/track/6IzY4FSs1vsPjjkeFJNIkL) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:34 | 2022-04-01 |  |
 | [Synthetic Sympathy](https://open.spotify.com/track/5U87poJhGdDVROtitLtEyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Synthetic Sympathy](https://open.spotify.com/album/381HXBJcgKxxeRLYX8i9nx) | 3:36 | 2021-11-30 | 2022-07-29 |
 | [Take Your Pill](https://open.spotify.com/track/4rfa4cvs3mkw0Sm2bQtlGN) | [Belle Haven](https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh) | [Take Your Pill](https://open.spotify.com/album/5fOJzfkFMdUoFEl7wbz9M8) | 3:21 | 2021-11-30 | 2022-07-20 |
 | [Takeover](https://open.spotify.com/track/3fFI5D9ExkYFhBEGkLFz0A) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [B\-Sides](https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17) | 2:58 | 2021-11-30 | 2022-07-23 |

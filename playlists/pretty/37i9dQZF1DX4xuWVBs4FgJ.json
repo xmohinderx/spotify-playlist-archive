@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1453764,
+  "num_followers": 1454266,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDY5MCwwMDAwMDAwMDM0YzM0ZWE0Njg2NGEzOGRjOTZkMWYzNTM5NWZmYzgz",
+  "snapshot_id": "MTY2Mzk2MDY5MCwwMDAwMDAwMGU0NjIxMzM5NmI5NmE5MjYyMTU1NGY5Zjg3YjQ0ZTM4",
   "tracks": [
     {
       "added_at": "2022-09-23 19:18:10",
@@ -23,6 +23,22 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -79,22 +95,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Only Human (Special Edition)",
         "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -535,22 +535,18 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -567,6 +563,26 @@
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 208080,
       "name": "To Be With You - 2021 Remastered",
       "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -735,6 +719,22 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240439,
       "name": "Water Under the Bridge",
       "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2p0wIeEZOvOp61z7nrACjC"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 195401,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3JE04xcSOB8zuUzzazuaDj"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
         "name": "Hold Me While You Wait",
         "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
       },
@@ -1027,18 +1043,34 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/2p0wIeEZOvOp61z7nrACjC"
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 195401,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3JE04xcSOB8zuUzzazuaDj"
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1127,6 +1143,22 @@
       "duration_ms": 204309,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1183,22 +1215,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Say Love",
-      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 189672,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+      "duration_ms": 221386,
+      "name": "Say Love",
+      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1267,22 +1283,6 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 258066,
-      "name": "Nightswimming",
-      "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "Echos",
         "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
         "name": "Just You and I",
         "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 174982,
       "name": "Just You and I",
       "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
         }
       ],
-      "duration_ms": 205601,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
+      "duration_ms": 183571,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1447,22 +1463,6 @@
       "duration_ms": 224063,
       "name": "You And I",
       "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 183571,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
-        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 130955,
-      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
-    },
-    {
-      "added_at": "2022-09-23 19:18:10",
-      "album": {
         "name": "When I Look In Your Eyes",
         "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
       },
@@ -1627,6 +1595,22 @@
       "duration_ms": 258959,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2022-09-23 19:18:10",
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2022-09-23 19:18:10",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+        "name": "Embers Mixtape",
+        "url": "https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI"
       },
       "artists": [
         {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+          "name": "Blakey",
+          "url": "https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl"
         }
       ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+      "duration_ms": 215239,
+      "name": "Confidant",
+      "url": "https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ"
+    },
+    {
+      "added_at": "2022-09-23 19:18:10",
+      "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     }
   ],
   "unique_name": "Dinner with Friends",

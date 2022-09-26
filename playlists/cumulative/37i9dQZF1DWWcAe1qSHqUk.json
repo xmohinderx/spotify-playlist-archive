@@ -1179,10 +1179,32 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 308393,
       "name": "The Night We Called It a Day",
       "url": "https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl"
+    },
+    {
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        },
+        {
+          "name": "Lizette",
+          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157786,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
     },
     {
       "album": {

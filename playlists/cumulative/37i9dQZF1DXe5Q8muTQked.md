@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-607 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+608 songs - 1 day 13 hr 32 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Chocolate](https://open.spotify.com/track/0eL6GTiBBYL9DGaX3SSomq) | [Jesse Mann](https://open.spotify.com/artist/20roawY1tlpPSVJj1R29T3) | [Chocolate](https://open.spotify.com/album/7hFm9X82QTmI9jAxbUZfAR) | 3:40 | 2022-04-29 | 2022-05-25 |
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-10-20 |  |
 | [City of Stars](https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City of Stars](https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU) | 2:34 | 2021-10-20 | 2022-07-29 |
-| [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 | 2022-06-10 |  |
+| [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 | 2022-06-10 | 2022-09-26 |
 | [Clandestino](https://open.spotify.com/track/4d0CFrVqgqmw5qZxouAad0) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Clandestino](https://open.spotify.com/album/3aw4lSLpOV5gH52wJrwIkM) | 2:11 | 2021-10-20 | 2022-07-21 |
 | [Cleanup Hitter](https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Busted Jukebox Volume 2](https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14) | 3:53 | 2022-06-10 | 2022-07-21 |
 | [Closer](https://open.spotify.com/track/5H6Bc7oEWYuKrwb1pUZWhh) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Closer](https://open.spotify.com/album/4kAAzBoHtNQaOYTTQGQ5YH) | 2:58 | 2022-06-10 |  |
@@ -349,6 +349,7 @@
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2021-10-20 |  |
 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 | 2021-10-20 |  |
 | [Live And Let Die](https://open.spotify.com/track/7xGgissfweCRip2WmupekT) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [War Child \- Heroes Vol.1](https://open.spotify.com/album/68Q7huXVb1AVSUPtORn1qq) | 2:53 | 2021-10-20 | 2022-06-29 |
+| [Long Black Veil \- Remastered](https://open.spotify.com/track/2mkz7LrEqofmv0PvcihXW7) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 3:01 | 2022-06-10 |  |
 | [Lord Protect My Child](https://open.spotify.com/track/7pEevLRzUALbFAIBzJOx1c) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 4:44 | 2022-06-10 | 2022-07-23 |
 | [Lose You to Love Me \- Acoustic](https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Maddy Newton](https://open.spotify.com/artist/15MDrArE0tDC8GTMSOCKcp) | [Lose You to Love Me \(Acoustic\)](https://open.spotify.com/album/3LEbT1tRrGObg4JWMmte5y) | 3:20 | 2021-10-20 |  |
 | [Losing My Religion](https://open.spotify.com/track/1oXL3rpccEIey1ncsRqjap) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/3DCsXZiCjPnszqfc0YnJi3) | 4:06 | 2021-10-20 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,504 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,548 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 14 | [ZEAL of proud](https://open.spotify.com/track/2OHctF8boBgJOEECY8RHeA) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:39 |
 | 15 | [Introduction](https://open.spotify.com/track/479rfCAZgXrHUFsn1AaN4V) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Introduction](https://open.spotify.com/album/58MD7W6v8GSzXLa97BoGvy) | 3:41 |
 | 16 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 |
-| 17 | [I\-I Never Said Love!](https://open.spotify.com/track/6cB1HzM544iuFeXEIba8ug) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 3:55 |
+| 17 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 18 | [ワクワクmeetsトリップ](https://open.spotify.com/track/5zszZKQ7XJwtA66bPlFMj0) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 4:07 |
-| 19 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
+| 19 | [I\-I Never Said Love!](https://open.spotify.com/track/6cB1HzM544iuFeXEIba8ug) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 3:55 |
 | 20 | [ONE OF US](https://open.spotify.com/track/3XwMtNKatIHz7fOpCIaixE) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 4:41 |
 | 21 | [Wacha\-Mocha Pettan March](https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [I need you!](https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA) | 3:53 |
 | 22 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 45 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 |
 | 46 | [Quintuple☆Smile](https://open.spotify.com/track/4u5uWG6Z7DI8eysB5KfpQe) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Quintuple☆Smile](https://open.spotify.com/album/3Sch89X2lpqgiCfyansDMH) | 4:05 |
 | 47 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 |
-| 48 | [glee glee glee!](https://open.spotify.com/track/4JGA3qbiGKjOpV2THH1vSD) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:31 |
-| 49 | [Doki\-Doki Sing Out!](https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [Doki\-Doki Sing Out!](https://open.spotify.com/album/7C7Kxyra0SlTUPtcO6k1tW) | 4:09 |
+| 48 | [Doki\-Doki Sing Out!](https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [Doki\-Doki Sing Out!](https://open.spotify.com/album/7C7Kxyra0SlTUPtcO6k1tW) | 4:09 |
+| 49 | [glee glee glee!](https://open.spotify.com/track/4JGA3qbiGKjOpV2THH1vSD) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:31 |
 | 50 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 |
 
-Snapshot ID: `MTY2MzY5NjA1MywwMDAwMDAwMGVhNDAzMzk3YjhkNWIyMzhkM2RlN2YxNTFiZDkzYTA2`
+Snapshot ID: `MTY2MzY5NjA1MywwMDAwMDAwMGJlNmQwMzE0MjhlNzc2NTU3YmQwZjJjYmNhNzgyMDY2`

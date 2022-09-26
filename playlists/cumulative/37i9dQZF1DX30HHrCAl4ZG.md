@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: EKKSTACY
 
-643 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+644 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2021-07-23 | 2022-06-10 |
 | [Did You Sleep Last Night?](https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Did You Sleep Last Night?](https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68) | 3:10 | 2022-01-14 | 2022-06-11 |
 | [DIE A MILLION TIMES](https://open.spotify.com/track/2IyoD78j9rD0TvYyvQnNgm) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [STAR STUFF](https://open.spotify.com/album/5X9TPHbtJ6TOBQ11spB2MM) | 3:39 | 2022-07-15 | 2022-08-13 |
-| [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-02 |  |
+| [Dig!](https://open.spotify.com/track/04urDR7Vxw4CY4tHYVeNPm) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:41 | 2022-09-02 |  |
+| [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-02 | 2022-09-26 |
 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 | 2022-06-17 | 2022-07-19 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2022-04-20 |
 | [Disco](https://open.spotify.com/track/644hazYIWNQq4URUn7CPnQ) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Heaven Surrounds You](https://open.spotify.com/album/1bCQnu3tpmINpX3tvXQjb1) | 2:32 | 2021-06-07 | 2022-06-11 |

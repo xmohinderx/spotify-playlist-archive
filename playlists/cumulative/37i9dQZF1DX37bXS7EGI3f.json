@@ -9039,10 +9039,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 266000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/1qdhBYfE5OqEv23gDYso2I"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/1s1HJF1Zn5f0VTwRRLOBVb"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/3bm1cNf31qW8Q0mzt5XrGS"
     },
     {
       "album": {

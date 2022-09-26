@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-417 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+418 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 | 2022-07-08 |  |
 | [Barefoot](https://open.spotify.com/track/023dRXdxcLXjVCRsMt5Rah) | [Slowfly](https://open.spotify.com/artist/1bUmm488JSph1kbkram8hS) | [Barefoot](https://open.spotify.com/album/24oyRm9nkMTTbb7wuGxfHO) | 3:18 | 2022-01-27 | 2022-07-29 |
 | [bartender](https://open.spotify.com/track/1wux7Qx0FGtbeKGEsbzRiz) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [bartender](https://open.spotify.com/album/1lN2FUxEBBMwxcjLdR45Fw) | 3:35 | 2022-01-27 | 2022-07-29 |
-| [bartender](https://open.spotify.com/track/4vIfaQtTXdbZShr3oOErlP) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:35 | 2022-07-08 |  |
+| [bartender](https://open.spotify.com/track/4vIfaQtTXdbZShr3oOErlP) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:35 | 2022-07-08 | 2022-09-26 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-07-08 |  |
 | [Be Something](https://open.spotify.com/track/5fyhNy0XC0JjVBXBrODuk5) | [Memi](https://open.spotify.com/artist/31izqGyZa2M6cgBAkNQ4kt), [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [For The Little Things](https://open.spotify.com/album/4xuADOa4tPDmW3t8pQtMRN) | 3:22 | 2022-01-27 | 2022-07-29 |
 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 | 2022-01-27 |  |
@@ -215,6 +215,7 @@
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-07-08 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2022-01-27 | 2022-07-29 |
 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2022-01-27 | 2022-07-29 |
+| [Lifeline](https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Sad Songs In A Hotel Room](https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss) | 3:49 | 2022-09-23 |  |
 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 | 2022-07-08 |  |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2022-01-27 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/3GeI3Jh2eRhwBnFOkFYUdO) | 2:49 | 2022-08-19 |  |

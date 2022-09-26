@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 923652,
+  "num_followers": 923875,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzgzODc5NywwMDAwMDAwMDVkNWI3NDhjZWUzNzljMWFhNWZhNzAwMDEwYmMwZjJi",
+  "snapshot_id": "MTY2MzgzODc5NywwMDAwMDAwMDUwMDkyOWNkN2I2ZGUzZWY0MDcyNjU3MDQyYjJlZGIz",
   "tracks": [
     {
       "added_at": "2022-09-22 09:26:37",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -379,34 +395,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "That Towering Feeling",
+        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Mr Bojangles",
-      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+      "duration_ms": 118400,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "That Towering Feeling",
-        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
       "artists": [
         {
-          "name": "Vic Damone",
-          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 118400,
-      "name": "Let's Fall in Love",
-      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
+      "duration_ms": 197800,
+      "name": "Mr Bojangles",
+      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "This Guy's In Love With You",
+      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 234320,
       "name": "Fever",
       "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "This Guy's In Love With You",
-      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
         "name": "That Face!",
         "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184600,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+        "name": "Someone To Watch Over Me",
+        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 256959,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
+      "duration_ms": 215520,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1251,18 +1255,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 235200,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R"
+      "duration_ms": 256959,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1331,26 +1335,6 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Someone To Watch Over Me",
-        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
         "name": "Only Trust Your Heart",
         "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 337866,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
         "name": "The Manhattan Transfer",
         "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
+        "name": "Moonlight Serenade",
+        "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 229986,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
         "name": "Greatest Hits Volume II",
         "url": "https://open.spotify.com/album/65YVCw3Gk9ttaiPNNKaHR5"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Moonlight Serenade",
-        "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 229986,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+      "duration_ms": 186040,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "Something Cool (1955 Mono Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
+        "name": "Something Cool (1955 Mono Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2022-09-22 09:26:37",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-09-22 09:26:37",
       "album": {
-        "name": "The Essential Glenn Miller",
-        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
-      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
-    },
-    {
-      "added_at": "2022-09-22 09:26:37",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 170506,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
+    },
+    {
+      "added_at": "2022-09-22 09:26:37",
+      "album": {
+        "name": "The Essential Glenn Miller",
+        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
     },
     {
       "added_at": "2022-09-22 09:26:37",

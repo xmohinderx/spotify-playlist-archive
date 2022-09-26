@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 28713,
+  "num_followers": 28724,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMGE0ZGI5ZmU1ZmM1MDljMGI3MzQ2MGNiNGE2YjYwOGQ0",
+  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDYyZWQyMzk1YmUxYjZkOTBiNzZlZjMwY2FiZWEyZTBk",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -251,6 +251,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Bajo Belgrano",
+        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Jade",
+          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Maribel Se Durmi\u00f3",
+      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Cuero Caliente",
         "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 222693,
       "name": "El Momento En Que Est\u00e1s",
       "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Tiempo de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
-      },
-      "artists": [
-        {
-          "name": "Arco Iris",
-          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
-        }
-      ],
-      "duration_ms": 169525,
-      "name": "Ma\u00f1ana Campestre",
-      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -299,18 +299,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Bajo Belgrano",
-        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
+        "name": "Tiempo de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
       },
       "artists": [
         {
-          "name": "Spinetta Jade",
-          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+          "name": "Arco Iris",
+          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Maribel Se Durmi\u00f3",
-      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+      "duration_ms": 169525,
+      "name": "Ma\u00f1ana Campestre",
+      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -395,34 +411,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
       },
       "artists": [
         {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+          "name": "Polifemo",
+          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
         }
       ],
-      "duration_ms": 174973,
-      "name": "El Oso",
-      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
+      "duration_ms": 213760,
+      "name": "Sueltate Rock And Roll",
+      "url": "https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
       "artists": [
         {
-          "name": "Polifemo",
-          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Sueltate Rock And Roll",
-      "url": "https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK"
+      "duration_ms": 174973,
+      "name": "El Oso",
+      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -555,38 +555,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r"
-      },
-      "artists": [
-        {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "La mam\u00e1 de Jimmy - Le\u00ed",
-      "url": "https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Mi Cuarto",
-        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
-      },
-      "artists": [
-        {
-          "name": "Vivencia",
-          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r"
+      },
+      "artists": [
+        {
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "La mam\u00e1 de Jimmy - Le\u00ed",
+      "url": "https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 230146,
       "name": "No Pibe",
       "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
+      },
+      "artists": [
+        {
+          "name": "Vivencia",
+          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -663,22 +663,6 @@
       "duration_ms": 166960,
       "name": "Ana No Duerme",
       "url": "https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Mi Cuarto",
-        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
-      },
-      "artists": [
-        {
-          "name": "Vivencia",
-          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Los Juguetes Y Los Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -763,6 +747,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
+      },
+      "artists": [
+        {
+          "name": "Vivencia",
+          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Los Juguetes Y Los Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 303925,
       "name": "S\u00f3lo le pido a dios",
       "url": "https://open.spotify.com/track/5JNZh5pSVcqgacUDd41rTy"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -871,22 +887,6 @@
       "duration_ms": 415826,
       "name": "La Casa De La Mente",
       "url": "https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "40 Obras Fundamentales",
-        "url": "https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF"
-      },
-      "artists": [
-        {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Vamos a Buscar la Luz",
-      "url": "https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ"
     }
   ],
   "unique_name": "Esp\u00edritu Setentista",

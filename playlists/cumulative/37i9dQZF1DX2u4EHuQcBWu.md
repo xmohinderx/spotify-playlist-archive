@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-265 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+266 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Conflicto De Interés](https://open.spotify.com/track/4oJWDZxbMRbWrt7cHPyObu) | [Andrés Volkov](https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw) | [Conflicto De Interés](https://open.spotify.com/album/0nzbwpMH8O4Lc9x7woiGoz) | 4:04 | 2021-09-24 | 2022-07-18 |
 | [Cordillera](https://open.spotify.com/track/3DuoQtlM73ccKP45QV2eXV) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/0wqBRC4M43u5UhM7t5PdWN) | 4:21 | 2021-09-24 | 2022-09-09 |
 | [Cordillera](https://open.spotify.com/track/360ODYiUNFVFaVSCJhy3nm) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/1hWMZutJpm0afsshH6EQug) | 4:22 | 2021-09-24 | 2022-07-20 |
+| [Cordillera](https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN) | 4:22 | 2021-09-24 |  |
 | [Corrido de la Ocupación Militar de la Universidad](https://open.spotify.com/track/3IwvBgvRTY0vYMP5unMdFH) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [México 68, Vol\. 2](https://open.spotify.com/album/2APDKCxkpAcrRC7VlGdzei) | 4:37 | 2021-09-24 | 2022-07-23 |
 | [Corrido del 2 de Octubre](https://open.spotify.com/track/5P5mjyY1WXkYpnbyZdT7TQ) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [México 68, Vol\. 2](https://open.spotify.com/album/2APDKCxkpAcrRC7VlGdzei) | 4:56 | 2021-09-24 | 2022-07-27 |
 | [Cuando Muere una Lengua](https://open.spotify.com/track/6Xysjq5vZU1QvbWxJXZoqv) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 5:52 | 2022-04-27 | 2022-07-16 |
@@ -242,8 +243,8 @@
 | [Sobreviviendo](https://open.spotify.com/track/550EfMa9YTG5hUz0r5M528) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia \- 2da Parte](https://open.spotify.com/album/3tMmbUTG6koA8IHzenaEFj) | 5:46 | 2021-09-24 | 2022-07-29 |
 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 | 2021-09-24 |  |
 | [Soldado Sin Cara \(Radio Edit\)](https://open.spotify.com/track/3rX8hB8G35YMlGTC3h8w4X) | [Los Macuanos](https://open.spotify.com/artist/4bYrlBddwEtF2kYpMm9gBG) | [Soldado Sin Cara \(Radio Edit\)](https://open.spotify.com/album/1J5MXcrrdggZD2fmlg5D9s) | 4:20 | 2021-09-24 | 2022-07-28 |
-| [Somos fuerza](https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Somos fuerza](https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx) | 3:41 | 2022-09-12 |  |
-| [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 | 2021-09-24 |  |
+| [Somos Fuerza](https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Somos Fuerza](https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx) | 3:41 | 2022-09-12 |  |
+| [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 | 2021-09-24 | 2022-09-26 |
 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 | 2021-09-24 |  |
 | [Somos Más Americanos](https://open.spotify.com/track/7ruHDQSfqJygovzRn7nzaN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/6eaHfflY8fJzRoUFkIA9Bj) | 4:10 | 2021-09-24 | 2022-07-29 |
 | [Somos Sur](https://open.spotify.com/track/6Zt4nMBWfHfZE979gZQKJM) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/5QKDGyeoMiEfh4hH21ae1J) | 3:46 | 2021-09-24 | 2022-07-23 |

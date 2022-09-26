@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGFlNDgwNzljY2EzY2NhMzhmMjBkNThhMzM0ZTBmMTI3",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDQyOTg0MDczMGEyNzMzMzZmOGRhZjc2OWU2ZmU1YzFh",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 183242,
       "name": "All My Friends Are Nobodies",
       "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Off the Leash",
         "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 194453,
       "name": "Chip",
       "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
@@ -823,22 +839,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -887,22 +903,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 204253,
-      "name": "Lavender Bones",
-      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -955,18 +955,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
+      "duration_ms": 204253,
+      "name": "Lavender Bones",
+      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Proper Dose",
         "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Never Coming Home",
-      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Sundressed & Nominee",
         "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 187795,
       "name": "So Poetic",
       "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Without Me (P\u00e2querette)",
-        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Without Me (P\u00e2querette)",
-      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Without Me (P\u00e2querette)",
+        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Without Me (P\u00e2querette)",
+      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1601,26 +1601,6 @@
       "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
-      "album": {
-        "name": "My Town (feat. Joe Talbot)",
-        "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
-      },
-      "artists": [
-        {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
-        },
-        {
-          "name": "Joe Talbot",
-          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
-        }
-      ],
-      "duration_ms": 164485,
-      "name": "My Town (feat. Joe Talbot)",
-      "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Greatest Hits",
@@ -1635,6 +1615,22 @@
       "duration_ms": 166673,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
     }
   ],
   "unique_name": "Punk Rock Workout",

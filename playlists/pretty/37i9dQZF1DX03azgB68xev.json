@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDkzNWM2ZmY2NDI5MDU1ODA4Y2NlZjkwYjY5MmY0Zjk4",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGIyZDM4NzdmYTRjZmVkYjIxMjY0YjBiNTcxNmNmYTVi",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "The Road",
-        "url": "https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq"
-      },
-      "artists": [
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "HEATHEN",
         "url": "https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 181598,
       "name": "Not Too Far",
       "url": "https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "The Road",
+        "url": "https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -299,6 +299,26 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "RICHLIN",
+        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        },
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Love Like Thunder",
+      "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -311,22 +331,6 @@
       "duration_ms": 228960,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -347,22 +351,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Close (feat. Steven Furtick)",
-      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -387,22 +387,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "RICHLIN",
-        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         },
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Love Like Thunder",
-      "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
+      "duration_ms": 168000,
+      "name": "Close (feat. Steven Furtick)",
+      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "I'm Still Breathing",
         "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "OTHERSIDE",
-        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 194517,
-      "name": "OTHERSIDE",
-      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
+      "duration_ms": 182000,
+      "name": "No Better Day",
+      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -719,34 +719,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 182000,
-      "name": "No Better Day",
-      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+      "duration_ms": 205328,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -767,6 +751,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "OTHERSIDE",
+        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 194517,
+      "name": "OTHERSIDE",
+      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "I'm Here For You",
         "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "High Low",
-        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 205328,
-      "name": "High Low",
-      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -975,18 +975,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
       "artists": [
         {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "L.H.U.Y (LET HIM USE YA)",
         "url": "https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 201978,
       "name": "L.H.U.Y (LET HIM USE YA)",
       "url": "https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "RICHLIN",
+        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Royal Blood",
+      "url": "https://open.spotify.com/track/6UMtVYclu7bfEmGUJNQoqi"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "RICHLIN",
-        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Royal Blood",
-      "url": "https://open.spotify.com/track/6UMtVYclu7bfEmGUJNQoqi"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "January Flower (Deluxe)",
         "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1155,22 +1171,6 @@
       "duration_ms": 212250,
       "name": "Eyes Only for You",
       "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:51:05",

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 2000s.
 
-626 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/5uDBqvCStKpKKrbDdGmyZc)
+627 songs - 1 day 17 hr 15 min - [published](https://open.spotify.com/playlist/5uDBqvCStKpKKrbDdGmyZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,7 @@
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2019-07-17 | 2019-08-27 |
 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 | 2020-06-17 | 2021-05-28 |
 | [Wasting My Time](https://open.spotify.com/track/3nlT74t8h4XlV1D72pErhj) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout](https://open.spotify.com/album/4PU32EhEtbuqvCmOfR5OMz) | 4:28 | 2019-07-17 | 2019-08-27 |
-| [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-06-04 |  |
+| [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-06-04 | 2022-09-26 |
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/1F6oGPF75u9RuHH4BGx9Bf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/5FerdPFXSHSnCVq4OBy4Ey) | 3:13 | 2019-05-26\* | 2022-07-29 |
 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2022-06-04 | 2022-07-09 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 | 2019-07-20 | 2019-08-01 |
@@ -621,6 +621,7 @@
 | [Yeah! \(feat\. Lil Jon & Ludacris\)](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:10 | 2021-02-16 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2020-06-17 |  |
 | [You Belong With Me](https://open.spotify.com/track/4kgTdThcDHfuDS2kKxB7Lc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:51 | 2022-06-04 | 2022-07-29 |
+| [You Belong With Me](https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:52 | 2022-06-04 |  |
 | [You Can Do It](https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ms\. Toi](https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl) | [At Tha Movies](https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo) | 4:19 | 2021-04-29 | 2021-07-31 |
 | [You Don't Know](https://open.spotify.com/track/0nKZeSrqH9u31NLoTUsYBR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ca$his](https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Eminem Presents The Re\-Up](https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK) | 4:17 | 2021-05-05 | 2021-05-23 |
 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 | 2019-06-23 | 2021-10-16 |

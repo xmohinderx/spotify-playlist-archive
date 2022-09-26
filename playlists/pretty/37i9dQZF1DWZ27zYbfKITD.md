@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,036 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,090 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

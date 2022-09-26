@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 389603,
+  "num_followers": 389758,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0Nzg5NSwwMDAwMDAwMGU3MmFjMDM5ZTY4ODcwZjM5NDRiMDAxNjM0ZjA2OWNj",
+  "snapshot_id": "MTY2Mzk0Nzg5NSwwMDAwMDAwMGMyODYyMjBhYjM0NDI0YmMxYWQzZTM5YTk3NDgwNDAw",
   "tracks": [
     {
       "added_at": "2022-09-23 15:44:54",
@@ -31,22 +31,18 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -71,18 +67,22 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "DJ Craig Gorman",
+          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "DJ Craig Gorman",
-          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Talk About",
-      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 167526,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Rather Be Alone",
-        "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Rather Be Alone",
-      "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 198407,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
+        "name": "Rather Be Alone",
+        "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rather Be Alone",
+      "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "Isaak Guderian",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "Isaak Guderian",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 193422,
       "name": "Release",
       "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
+        "name": "I FEEL LIKE DANCING",
+        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 225681,
+      "name": "I FEEL LIKE DANCING",
+      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1235,42 +1251,18 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh"
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
       },
       "artists": [
         {
           "name": "Galantis",
           "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
         }
       ],
-      "duration_ms": 165858,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
-        "name": "I FEEL LIKE DANCING",
-        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "I FEEL LIKE DANCING",
-      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1291,6 +1283,42 @@
       "duration_ms": 169523,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1331,54 +1359,42 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY"
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
       "artists": [
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
-      "duration_ms": 197760,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh"
       },
       "artists": [
         {
           "name": "Galantis",
           "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
         }
       ],
-      "duration_ms": 139435,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+      "duration_ms": 165858,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2022-09-23 15:44:54",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
         "name": "Don\u2019t Keep Me Waiting",
         "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 209687,
       "name": "Don\u2019t Keep Me Waiting",
       "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
-    },
-    {
-      "added_at": "2022-09-23 15:44:54",
-      "album": {
-        "name": "Can You Pay?",
-        "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
-      },
-      "artists": [
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Pessto",
-          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
-        }
-      ],
-      "duration_ms": 133573,
-      "name": "Can You Pay?",
-      "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
     },
     {
       "added_at": "2022-09-23 15:44:54",
@@ -1487,6 +1467,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
+    },
+    {
+      "added_at": "2022-09-23 15:44:54",
+      "album": {
+        "name": "Can You Pay?",
+        "url": "https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Pessto",
+          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+        }
+      ],
+      "duration_ms": 133573,
+      "name": "Can You Pay?",
+      "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
     },
     {
       "added_at": "2022-09-23 15:44:54",

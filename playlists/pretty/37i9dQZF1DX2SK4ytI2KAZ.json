@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 668317,
+  "num_followers": 668367,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDk1YjYwNTlhMTUwYTk1NWIxN2YwZjExNmM2YWJmOGM0",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDYzMjNlYzJlNjYzNzM3NzFhMjQ2MDljMjEzYmQ0ZTMx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Adderall",
         "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Pacific Coast Highway (with Trevor Hall)",
-        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        },
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Pacific Coast Highway (with Trevor Hall)",
-      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1135,22 +1115,6 @@
       "duration_ms": 227373,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1171,6 +1135,42 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Pacific Coast Highway (with Trevor Hall)",
+        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        },
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Pacific Coast Highway (with Trevor Hall)",
+      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 210608,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 210662,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "LP3",
-        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 210608,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Give Me Your Shoulders, Pt. 1",
         "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 216533,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "f**k it, i'm the man",
+        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "f**k it, i'm the man",
+      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 187500,
       "name": "I Wanna Be Your High",
       "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "f**k it, i'm the man",
-        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "f**k it, i'm the man",
-      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "2 Heads",
+        "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hell",
+          "url": "https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "2 Heads",
+      "url": "https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Young Rising Sons",
         "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "2 Heads",
-        "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hell",
-          "url": "https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "2 Heads",
-      "url": "https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 228711,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "D.I.L.Y.D.",
-        "url": "https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Do It Like You Do",
-      "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "D.I.L.Y.D.",
+        "url": "https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Petals For Armor",
         "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 199412,
       "name": "Dead Horse",
       "url": "https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 204226,
       "name": "Gimme Twice",
       "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 188587,
       "name": "Find Someone",
       "url": "https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "The Heights",
-        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
-      },
-      "artists": [
-        {
-          "name": "Knox Hamilton",
-          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Pretty Way to Fight",
-      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 271441,
       "name": "Thunder Clatter",
       "url": "https://open.spotify.com/track/39Cv9mq0PPrsJ5jtVb2Hiu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Heights",
+        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
+      },
+      "artists": [
+        {
+          "name": "Knox Hamilton",
+          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Pretty Way to Fight",
+      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1819,6 +1803,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/3CsDHb4gbXv6lzAMcozCdS"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 196720,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "JR JR",
+        "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1919,18 +1935,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "JR JR",
-        "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
       },
       "artists": [
         {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
         }
       ],
-      "duration_ms": 227506,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 203651,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
-      },
-      "artists": [
-        {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1995,22 +1995,6 @@
       "duration_ms": 178333,
       "name": "Do You Really Wanna Know?",
       "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "scream!",
-        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "scream!",
-      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2063,6 +2047,38 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "scream!",
+        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "scream!",
+      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "I Don't Like Being Honest",
+        "url": "https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Going Mainstream",
         "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 225733,
       "name": "Connection",
       "url": "https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "I Don't Like Being Honest",
-        "url": "https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Don't Take The Money",
+        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215539,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "I Like to Hide in the Bathroom at Parties",
         "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
       },
@@ -2179,34 +2195,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Don't Take The Money",
-        "url": "https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y"
+        "name": "Heart Baby",
+        "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Recent Rumors",
+          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
         }
       ],
-      "duration_ms": 215539,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Monday",
-        "url": "https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di"
+      "duration_ms": 198461,
+      "name": "Boulangerie",
+      "url": "https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Heart Baby",
-        "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost"
       },
       "artists": [
         {
-          "name": "Recent Rumors",
-          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 198461,
-      "name": "Boulangerie",
-      "url": "https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM"
+      "duration_ms": 176280,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Preacher Man",
+        "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        }
+      ],
+      "duration_ms": 219389,
+      "name": "Preacher Man",
+      "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "What's Real",
         "url": "https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 177746,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Preacher Man",
-        "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        }
-      ],
-      "duration_ms": 219389,
-      "name": "Preacher Man",
-      "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Hills",
-        "url": "https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz"
+        "name": "The Night Game",
+        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
       },
       "artists": [
         {
-          "name": "The Faim",
-          "url": "https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN"
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
         }
       ],
-      "duration_ms": 217617,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
+      "duration_ms": 232306,
+      "name": "The Outfield",
+      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Night Game",
-        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
+        "name": "The Hills",
+        "url": "https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz"
       },
       "artists": [
         {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+          "name": "The Faim",
+          "url": "https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN"
         }
       ],
-      "duration_ms": 232306,
-      "name": "The Outfield",
-      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
+      "duration_ms": 217617,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2491,18 +2491,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Take It Easy",
-        "url": "https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu"
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD"
+      "duration_ms": 137386,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ"
     }
   ],
   "unique_name": "It's ALT Good!",

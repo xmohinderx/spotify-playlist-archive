@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 161406,
+  "num_followers": 161446,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGUxNGZhNDlhMzFiOTAwNmIyZmRiN2Y1YTY0MzM1OWUz",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDE3Yjc3OTdmYmNjM2JkMGUyZGFlY2FlMzdmMTYwMDJj",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 200906,
       "name": "Tell Me About It",
       "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
-      },
-      "artists": [
-        {
-          "name": "Jarle Skavhellen",
-          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
+      },
+      "artists": [
+        {
+          "name": "Jarle Skavhellen",
+          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
       "artists": [
         {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -627,6 +627,38 @@
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Early Summer Rain",
+        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Early Summer Rain",
+      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -667,34 +699,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
       },
       "artists": [
         {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
         }
       ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Year of Love",
+        "url": "https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 253212,
+      "name": "Year of Love",
+      "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "The Last Great Country Swindle",
         "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 203933,
       "name": "Ain't Nobody Like Me",
       "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Year of Love",
-        "url": "https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 253212,
-      "name": "Year of Love",
-      "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -883,38 +867,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J"
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D"
       },
       "artists": [
         {
-          "name": "Claudia Scott",
-          "url": "https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481"
-        },
-        {
-          "name": "Casino Steel",
-          "url": "https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj"
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
         }
       ],
-      "duration_ms": 326314,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
-      },
-      "artists": [
-        {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+      "duration_ms": 263080,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -935,6 +899,38 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 136960,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+      },
+      "artists": [
+        {
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Tran\u00f8y fyr",
         "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
@@ -951,18 +947,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Claudia Scott",
+          "url": "https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481"
+        },
+        {
+          "name": "Casino Steel",
+          "url": "https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
+      "duration_ms": 326314,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Garden Song (I Prefer A Loon)",
-        "url": "https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP"
+        "name": "Wild Dreams",
+        "url": "https://open.spotify.com/album/2UeNGwnXHPQEdouzwRUMZ5"
       },
       "artists": [
         {
-          "name": "thea wang",
-          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 235586,
-      "name": "Garden Song (I Prefer A Loon)",
-      "url": "https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp"
+      "duration_ms": 241933,
+      "name": "Wild Dreams",
+      "url": "https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy"
     }
   ],
   "unique_name": "Nordic Folk",

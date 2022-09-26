@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,636 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,639 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 |
 | 45 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
 | 46 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 |
-| 47 | [One Last Time \(with R3HAB\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Last Time \(with R3HAB\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
+| 47 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
 | 48 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 |
 | 49 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 |
 | 50 | [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 |

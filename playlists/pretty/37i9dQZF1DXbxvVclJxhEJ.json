@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 21612,
+  "num_followers": 21656,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5NDkyMSwwMDAwMDAwMGQyMTk1MjUwN2RmMGY2MjFiZDMzYzg0NTQ3NmYwMjJk",
+  "snapshot_id": "MTY2Mjk5NDkyMSwwMDAwMDAwMGJiY2I1NWM5MzY5MTQ5MzBjNmY2YWMzNGEwZjIzNjUy",
   "tracks": [
     {
       "added_at": "2022-09-12 15:02:01",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 166760,
       "name": "Shout Sister Shout",
       "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Man Stealer Blues",
-      "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
       "artists": [
         {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+      "duration_ms": 182400,
+      "name": "Man Stealer Blues",
+      "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "In The Basement: The Chess Recordings",
         "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 180946,
       "name": "I Want To Know",
       "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "Sweet Emma Barrett And Her New Orleans Music",
-        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
       "artists": [
         {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Jelly Roll Blues",
-      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -499,6 +499,22 @@
       "duration_ms": 177333,
       "name": "B.D. Woman's Blues",
       "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "Sweet Emma Barrett And Her New Orleans Music",
+        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Jelly Roll Blues",
+      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -535,18 +551,18 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -567,34 +583,18 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "What It Takes: The Chess Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
-        "name": "Mother Of The Blues, CD D",
-        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 172987,
-      "name": "Dead Drunk Blues",
-      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
+      "duration_ms": 260053,
+      "name": "Tease Your Man",
+      "url": "https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -615,18 +615,34 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "What It Takes: The Chess Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
+        "name": "Mother Of The Blues, CD D",
+        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Tease Your Man",
-      "url": "https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U"
+      "duration_ms": 172987,
+      "name": "Dead Drunk Blues",
+      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -643,6 +659,22 @@
       "duration_ms": 268066,
       "name": "Doctor Blues",
       "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2022-09-12 15:02:01",
@@ -683,54 +715,6 @@
     {
       "added_at": "2022-09-12 15:02:01",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Good Old Wagon",
-      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
-    },
-    {
-      "added_at": "2022-09-12 15:02:01",
-      "album": {
         "name": "Ma Rainey Vol. 3 (1925-1926)",
         "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+    },
+    {
+      "added_at": "2022-09-12 15:02:01",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Good Old Wagon",
+      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
     },
     {
       "added_at": "2022-09-12 15:02:01",

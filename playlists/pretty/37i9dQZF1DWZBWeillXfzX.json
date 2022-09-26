@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13782,
+  "num_followers": 13798,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDQ0Y2M2ZmU2ZjBjZmMzM2E1N2Q1YTY1MjViMmEwMmUw",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDAwYTYxY2Q3YWJiNGU4MzM3OTZlNDE2M2JhNmI3NjZj",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -615,6 +615,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 180583,
+      "name": "Cry for Me",
+      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Unrepentant",
         "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 191880,
       "name": "Roll With the Punches",
       "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
+      "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
       },
       "artists": [
         {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
         }
       ],
-      "duration_ms": 353684,
-      "name": "White Rock Beer...8 cents",
-      "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
+      "duration_ms": 197237,
+      "name": "Gettin Old",
+      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
       },
       "artists": [
         {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
         }
       ],
-      "duration_ms": 197237,
-      "name": "Gettin Old",
-      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+      "duration_ms": 353684,
+      "name": "White Rock Beer...8 cents",
+      "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
     },
     {
       "added_at": "2021-06-04 04:01:00",

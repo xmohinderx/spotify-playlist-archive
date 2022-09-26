@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-84 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/3J2o79GoABQYOdRgtP3x7m)
+85 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3J2o79GoABQYOdRgtP3x7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 | 2021-05-06 |  |
 | [Donovan James](https://open.spotify.com/track/2g37ZBeL0NsNWNB4RV7cBh) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [The Dawning](https://open.spotify.com/album/5EcuvCra621YgIabHqEpyp) | 4:08 | 2021-05-06 | 2022-07-28 |
 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 | 2021-05-06 |  |
-| [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 | 2021-05-06 |  |
+| [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 | 2021-05-06 | 2022-09-26 |
 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 | 2021-05-06 |  |
 | [Funky Boy](https://open.spotify.com/track/4kVQoPK2CdsWYhlLhIl9oi) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 5:53 | 2021-05-06 | 2022-07-28 |
 | [Funky D](https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 5:44 | 2021-05-06 |  |
@@ -70,6 +70,7 @@
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 | 2022-07-26 |
 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 | 2021-05-06 |  |
 | [Space Age](https://open.spotify.com/track/6FHuDw2gCmWknjP5qFPPw6) | [Ollie Collins](https://open.spotify.com/artist/5FHOxRGbA8n5jkFhfsVfin) | [A New Direction](https://open.spotify.com/album/3pPILiJIUk6yVdSmMWqYJP) | 3:48 | 2021-05-06 | 2022-07-28 |
+| [Straight Up](https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [A Ray of Hope](https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1) | 4:39 | 2021-05-06 |  |
 | [Straight Up](https://open.spotify.com/track/1FQCQGCTDasksoloXfrzc0) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [Straight Up](https://open.spotify.com/album/6CnmMovLwcBrMugpM8erlA) | 4:40 | 2021-05-06 | 2022-07-26 |
 | [Sun Chaser](https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3) | 4:06 | 2021-05-06 |  |
 | [Sun Chaser](https://open.spotify.com/track/1rK6mqNOInbXGUrhkdSotu) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/1M6laJpwe22wioRlcpQ6wD) | 4:07 | 2021-05-06 | 2022-07-29 |

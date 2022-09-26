@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,689 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,837 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 44 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 45 | [Troublemaker](https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:57 |
 | 46 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 |
-| 47 | [The Sweet Escape \- Konvict Remix](https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape \(Konvict Remix\)](https://open.spotify.com/album/1WyerplVKXPHfNxrfp6qGR) | 4:01 |
-| 48 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
+| 47 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
+| 48 | [The Sweet Escape \- Konvict Remix](https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape \(Konvict Remix\)](https://open.spotify.com/album/1WyerplVKXPHfNxrfp6qGR) | 4:01 |
 | 49 | [No Wahala \(feat\. Akon & Runtown\)](https://open.spotify.com/track/03MxQe4F8TGGZSs4Zyha4b) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [No Wahala \(feat\. AKON & RUNTOWN\)](https://open.spotify.com/album/5k7JaH84J9RFAhzrCugrUQ) | 3:32 |
-| 50 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
+| 50 | [Boss' Life](https://open.spotify.com/track/4UprL40OVADveANAtCNrIa) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:22 |
 
-Snapshot ID: `Mjc3MzQwMjUsMDAwMDAwMDA5MzEzNDA1MmFiNjg3MTk3NGJlOGEwNDQ0OWViOTk5MQ==`
+Snapshot ID: `Mjc3MzU1MDUsMDAwMDAwMDA5MTc2YTFjM2U5OWY1ODVlM2EwNjlhODUyYjE0NmM3ZQ==`

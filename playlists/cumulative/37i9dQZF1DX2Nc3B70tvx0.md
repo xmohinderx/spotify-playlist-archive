@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Sudan Archives
 
-1,243 songs - 3 day 2 hr 14 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,245 songs - 3 day 2 hr 20 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 | 2022-09-03 |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-12 | 2020-10-29 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-04-20 | 2022-02-25 |
-| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-12 |  |
+| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-12 | 2022-09-26 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-18 | 2022-09-17 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-22 | 2022-04-08 |
 | [All Mirrors](https://open.spotify.com/track/4ZQdynvfiayhdoq5lcuCQ1) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/3SRs9ltRM8jG6TuAYDLpLj) | 4:42 | 2019-08-09 | 2019-09-27 |
@@ -311,7 +311,7 @@
 | [Evergreen](https://open.spotify.com/track/2dHT2samnOh9mGhCBlicpf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Evergreen](https://open.spotify.com/album/5eHNalmognU8bbYYMhgXRL) | 2:51 | 2022-05-13 | 2022-07-29 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [Every Time Around](https://open.spotify.com/track/22iZ9lazlmjPO9sp0uzUex) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [After Fillmore County](https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp) | 3:36 | 2020-10-29 | 2021-05-21 |
-| [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-16 |  |
+| [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-16 | 2022-09-26 |
 | [Everyone Hides](https://open.spotify.com/track/2dZ0PelHrnlIEGJ6nwpcW1) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Everyone Hides](https://open.spotify.com/album/0kkc5CptgKQFIil9DaGiu8) | 2:59 | 2019-10-04 | 2020-04-03 |
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-24 | 2022-07-01 |
 | [Everything Else Has Gone Wrong](https://open.spotify.com/track/2LpTdEPglrSzcA5eYpByny) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/2PQ2A2Gu1CxnWMYvPJ3j7C) | 4:09 | 2019-12-07 | 2020-04-03 |
@@ -452,6 +452,7 @@
 | [Here](https://open.spotify.com/track/08PBBh7rPrqlFqeoNgHy2A) | [rosi](https://open.spotify.com/artist/0fPzadE1XVPbRVP5qzes6r) | [Here](https://open.spotify.com/album/4BFNEXOaBut41Ck9RbO8iU) | 3:26 | 2021-12-02 | 2022-02-18 |
 | [Here It Comes](https://open.spotify.com/track/3Xeyn4UqgRGnLVaBKOE7kP) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Here It Comes](https://open.spotify.com/album/3gY0Q9LnWlHONxwk9TKLGm) | 3:18 | 2021-03-10 | 2021-03-23 |
 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-20 | 2022-09-23 |
+| [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-23 |  |
 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 | 2020-06-12 | 2021-03-02 |
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-04-20 | 2022-01-29 |
 | [Hey You](https://open.spotify.com/track/0soAgAXmRgBe1tpPZoq1lS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hey You](https://open.spotify.com/album/33XQkPN5SpydMaIPgc6DqQ) | 4:38 | 2019-05-26\* | 2019-11-09 |
@@ -593,6 +594,7 @@
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2021-04-20 | 2021-10-13 |
 | [Keeper](https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Keeper](https://open.spotify.com/album/1tMQnzjk1JiFwN9BKg7ZRX) | 3:08 | 2021-10-04 | 2022-01-07 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-08 | 2022-04-30 |
+| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-23 |  |
 | [Kerosene!](https://open.spotify.com/track/52vVxJeUJUPMkETpTfhHO5) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Kerosene!](https://open.spotify.com/album/3lpLu3yxcn1NMkj6T66NJ9) | 5:05 | 2020-03-21 | 2021-10-10 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2019-05-26\* | 2019-11-09 |
 | [Kids In The Dark](https://open.spotify.com/track/2dqq3YMX6nlJKXhrjY5W4J) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Kids In The Dark](https://open.spotify.com/album/29bwG0rJEaBBjcEQdrGiuO) | 3:28 | 2019-06-21 | 2019-08-30 |

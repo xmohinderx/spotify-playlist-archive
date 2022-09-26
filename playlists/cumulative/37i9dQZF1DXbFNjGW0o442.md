@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-210 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+211 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2022-07-29 |
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 |  |
-| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2022-09-09 |
+| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 |  |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-01-20 | 2022-07-26 |
 | [Infierno](https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN) | [Afterlife](https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm) | [Mil Gritos Tiene la Noche, Vol\. 1](https://open.spotify.com/album/6JkIhyOobANHUF235OWntk) | 4:29 | 2022-01-20 | 2022-07-27 |
@@ -102,7 +102,7 @@
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-01-20 |  |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-01-20 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-01-20 |  |
-| [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 |  |
+| [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 | 2022-09-26 |
 | [La Voz de Iemanya](https://open.spotify.com/track/4niTRWovfbM4093jChuCuu) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz de Iemanya](https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN) | 3:37 | 2022-01-20 | 2022-07-29 |
 | [La Vuelta de Adán](https://open.spotify.com/track/61MJzxnWfquKkns6ImXYgh) | [Mirtha Defilpo](https://open.spotify.com/artist/5jN2wYqhUCltMC9RnxavSa), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Canciones para Perdedores](https://open.spotify.com/album/4aKGpSwyYPNswB5InDZqvm) | 2:49 | 2022-01-20 | 2022-07-11 |
 | [Las Horas Se Destiñen](https://open.spotify.com/track/1ct4eypbDqzT2r3Xd78q04) | [Púrpura](https://open.spotify.com/artist/3htuTMjp7p0JS7sL8NhlXl) | [Púrpura](https://open.spotify.com/album/0LbklSYO5D9ECDjePxZfFd) | 3:39 | 2022-01-20 | 2022-07-22 |
@@ -188,6 +188,7 @@
 | [Somos Aire](https://open.spotify.com/track/5rr2cc38UmXKfMuWdwsPIB) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/0m1UbEq22R11P2SABak84s) | 3:31 | 2022-01-20 | 2022-07-28 |
 | [Somos Aire](https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ) | 3:31 | 2022-07-15 |  |
 | [Sorojchi](https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:50 | 2022-01-20 |  |
+| [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 |  |
 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 |  |
 | [Sugar Beat](https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Friends And Lovers](https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf) | 4:12 | 2022-01-20 |  |
 | [Sólo por Hoy](https://open.spotify.com/track/2UMa4VWvyVFFL9tkj97V8B) | [Noe Terceros](https://open.spotify.com/artist/5oTyACsGm1q37MoTfXSDA4) | [Umbral](https://open.spotify.com/album/6leuMDWQtzDmrxgiIyuADB) | 2:39 | 2022-01-20 | 2022-07-28 |
@@ -214,7 +215,7 @@
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |
 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 |  |
-| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 |  |
+| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 | 2022-09-26 |
 | [Voy a Ponerme Bien](https://open.spotify.com/track/2ygIcGSO2bkGxN6aFMhNaV) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Voy a Ponerme Bien](https://open.spotify.com/album/0lPUCCUNW4FXNSjkFWAxMH) | 2:56 | 2022-01-20 | 2022-07-29 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-01-20 |  |
 | [¿A Dónde Voy Si Se Termina el Mundo?](https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Las Presencias, Pt\. I](https://open.spotify.com/album/2OHrRjpglp8VuWitqQ7Pqh) | 3:36 | 2022-01-20 | 2022-07-28 |

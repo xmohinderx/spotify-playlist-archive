@@ -3364,6 +3364,28 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb"
+    },
+    {
+      "album": {
         "name": "I'm The Most Wanted",
         "url": "https://open.spotify.com/album/5Tih83xfSOTxl1EWSLDSjG"
       },
@@ -3593,6 +3615,28 @@
       "duration_ms": 176640,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/0mcSJiM4BAGRU46wb1KveK"
+    },
+    {
+      "album": {
+        "name": "La Guitarra",
+        "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Tyraz",
+          "url": "https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
     },
     {
       "album": {
@@ -4467,7 +4511,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 225967,
       "name": "Numb",
       "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
@@ -6929,7 +6973,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 228571,
       "name": "Yup",
       "url": "https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1"

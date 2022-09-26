@@ -4,7 +4,7 @@
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-145 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
+146 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Love Me Tender \- Mono](https://open.spotify.com/track/5ap5OgMjY85VcIDcyv02Nc) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:42 | 2018-12-10 | 2022-07-25 |
 | [Making Believe \- 1955 Single Version](https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:53 | 2018-12-10 | 2022-07-29 |
 | [Making Believe \- 1955 Single Version](https://open.spotify.com/track/3dUvLoLd0yPJuXtfMmbFmk) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [Kitty Wells’ Country Hit Parade](https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY) | 2:55 | 2022-07-24 |  |
-| [Midnight](https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:12 | 2018-12-10 |  |
+| [Midnight](https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:12 | 2018-12-10 | 2022-09-26 |
 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 | 2022-07-24 |  |
 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 | 2022-07-24 | 2022-07-29 |
 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 | 2018-12-10 |  |
@@ -125,6 +125,7 @@
 | [The Auctioneer](https://open.spotify.com/track/1SsgvhtFDZIQyYck9Kh2Hg) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Golden Hits \- The World's Most Famous Auctioneer](https://open.spotify.com/album/3ul1XJITugGlAY2aMtvZJp) | 2:47 | 2022-07-24 | 2022-08-13 |
 | [The Auctioneer](https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Letters from Nashville](https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq) | 2:47 | 2022-07-24 | 2022-09-20 |
 | [The Auctioneer](https://open.spotify.com/track/78ppGvt1zJsERRzgRMjdLL) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Golden Hits \- The World's Most Famous Auctioneer](https://open.spotify.com/album/51LKNcsgLkgMmtgSQt9vKL) | 2:47 | 2018-12-10 | 2022-07-29 |
+| [The Auctioneer](https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Golden Hits \- The World's Most Famous Auctioneer](https://open.spotify.com/album/3IyHmxJjlrb7doDbGJ14h6) | 2:48 | 2022-07-24 |  |
 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 | 2018-12-10 |  |
 | [The Master's Call](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:05 | 2022-07-24 |  |
 | [The Shot Gun Boogie](https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Sixteen Tons](https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4) | 2:35 | 2022-07-24 |  |

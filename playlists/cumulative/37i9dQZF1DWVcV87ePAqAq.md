@@ -4,7 +4,7 @@
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-313 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+314 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-12-30 |  |
 | [Coming Home](https://open.spotify.com/track/48y5EhZ4SFAgvbKObVDAkq) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Duckhandz](https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E) | [Coming Home](https://open.spotify.com/album/6IlCqSHSdtwWHmlZ22WKtF) | 2:59 | 2020-12-31 | 2021-12-31 |
 | [Costa Rica](https://open.spotify.com/track/6iM9PebIqd6fiUlcxm4Fkp) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Costa Rica](https://open.spotify.com/album/7IfaW9AntTR2FnbKVGCx9T) | 3:08 | 2020-12-31 | 2022-07-28 |
+| [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2022-01-03 |  |
 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 | 2020-12-31 | 2022-07-29 |
 | [Dance Monkey](https://open.spotify.com/track/421leiR6jKlH5KDdwLYrOs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/5i6CS5XcLZGLgaNCKlJvc2) | 3:29 | 2020-12-31 | 2022-07-08 |
 | [Dance With Somebody \- Radio Version](https://open.spotify.com/track/3wWln2O18PeL860Ch2rdzf) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Greatest Hits Volume 1](https://open.spotify.com/album/2nxcairPuxNmIKxLXM7oqp) | 3:59 | 2020-12-31 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 | 2022-01-03 |  |
 | [Mad Love](https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love](https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0) | 2:49 | 2020-12-31 | 2021-12-29 |
 | [Made For You](https://open.spotify.com/track/1bZCA8kaaYYIMpU3Mh7R7U) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Made For You](https://open.spotify.com/album/5wT9GG94G7Q4oiwBTF4RPJ) | 3:16 | 2020-12-31 | 2022-07-29 |
-| [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-01-03 |  |
+| [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-01-03 | 2022-09-26 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-12-30 |  |
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2021-12-30 | 2022-07-29 |
 | [Mikrofonkåt](https://open.spotify.com/track/0xjVgqTMOdT2dxPuXgSORm) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Love CPR](https://open.spotify.com/album/2UtqZYylUB6L1QeSCURnEC) | 2:46 | 2020-12-31 | 2022-07-29 |

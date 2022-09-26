@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads.
 
-248 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
+249 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 | 2022-04-15 |  |
 | [Forever](https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 | 2022-04-15 |  |
+| [Forever & One](https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Treasure Chest \(Bonus Track Edition\)](https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii) | 3:53 | 2022-04-15 |  |
 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 | 2022-04-15 | 2022-07-29 |
 | [Ghost of Freedom](https://open.spotify.com/track/2DUz22ncVE4Vw44sn3lvJa) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Horror Show](https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK) | 5:11 | 2022-04-15 | 2022-07-09 |
 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2022-04-15 | 2022-08-30 |
@@ -199,7 +200,7 @@
 | [Tallulah](https://open.spotify.com/track/3G80CgLA7ziD8i40s6uKQN) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:20 | 2022-04-15 | 2022-07-29 |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-15 |  |
 | [The Ballad](https://open.spotify.com/track/5dZqQns5MwVcbvNqkgocWI) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 6:08 | 2022-04-15 | 2022-07-26 |
-| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 |  |
+| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 | 2022-09-26 |
 | [The Ballad Of Mary 2010](https://open.spotify.com/track/1vN8c6WwvYnLQzDBiySvor) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Ballad Of Mary](https://open.spotify.com/album/0QH1EzI2foX4ql9iH2afYb) | 5:01 | 2022-04-15 | 2022-07-27 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/3LnePh1mlduj28bGZRFUQS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/3hZrkR9D98fHIaazzOtmNT) | 3:09 | 2022-04-15 | 2022-07-09 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 | 2022-04-15 |  |

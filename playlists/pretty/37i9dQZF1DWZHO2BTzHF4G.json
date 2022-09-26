@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 22967,
+  "num_followers": 22982,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMGNiM2UwNWYzMTQ0NzViOTA1YzMxMWMyYjI0YmFlZjlk",
+  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDRlMDJiZTMyN2RhYjVjMDY2MGEyNTc1NGMxODVjMjQx",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186634,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 240493,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
-      },
-      "artists": [
-        {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Greatest Hits: God's Favorite Band",
         "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+      },
+      "artists": [
+        {
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 211493,
       "name": "My Life Would Suck Without You",
       "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "All the Right Reasons (Special Edition)",
+        "url": "https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -923,22 +939,6 @@
       "duration_ms": 247666,
       "name": "Tell Me Baby",
       "url": "https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "All the Right Reasons (Special Edition)",
-        "url": "https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
         }
       ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Swoon",
-        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
+        "name": "Bright Nights * Dark Days",
+        "url": "https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG"
       },
       "artists": [
         {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+          "name": "Cavo",
+          "url": "https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg"
         }
       ],
-      "duration_ms": 343906,
-      "name": "Panic Switch",
-      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
+      "duration_ms": 187293,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Bright Nights * Dark Days",
-        "url": "https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG"
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
       },
       "artists": [
         {
-          "name": "Cavo",
-          "url": "https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg"
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
         }
       ],
-      "duration_ms": 187293,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw"
+      "duration_ms": 343906,
+      "name": "Panic Switch",
+      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
     },
     {
       "added_at": "2021-04-09 06:36:41",

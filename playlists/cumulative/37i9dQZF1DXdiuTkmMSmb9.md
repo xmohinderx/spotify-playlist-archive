@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-169 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+170 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-08-25 | 2022-09-09 |
 | [Ello bae](https://open.spotify.com/track/6LfUupX8BkNIQD9mV62W2m) | [Houcci](https://open.spotify.com/artist/58PXsDRCG1DYZ9WXsP7TgD) | [Ello bae](https://open.spotify.com/album/2TAIu25uV9u3RxKc6thSvC) | 2:55 | 2022-07-18 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-07-18 | 2022-07-29 |
-| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-07-28 |  |
+| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-07-28 | 2022-09-26 |
+| [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-09-08 |  |
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 4:23 | 2022-08-25 | 2022-09-09 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-07-18 |  |
 | [EVERYDAY](https://open.spotify.com/track/5sTfEctUZjV3QrVztlPpVE) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Unamii](https://open.spotify.com/artist/46SAbgtAJfViAEME9nlPBm), [Ajok.ma](https://open.spotify.com/artist/7ikkT2fZehnivPj1oR2DDK), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [EVERYDAY](https://open.spotify.com/album/3lt2s9HYvG8y1nIuXZEBHU) | 3:38 | 2022-07-18 | 2022-08-12 |

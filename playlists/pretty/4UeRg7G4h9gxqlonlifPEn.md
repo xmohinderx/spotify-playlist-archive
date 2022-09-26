@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,722 likes - 101 songs - 5 hr 1 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,721 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

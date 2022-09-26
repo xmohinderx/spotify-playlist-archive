@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Theo Rubia, Felipe Vilela",
-  "num_followers": 107265,
+  "num_followers": 107277,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDkwYWFjM2M4NWJmMWM3ZDQ5NTI5YWE4MzkxYTJlNjBk",
+  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDFiMjBiYmNjYjEzYTQ1OGRjYTdhNWY4NmRkMTRiM2Yw",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 396911,
-      "name": "Estamos de P\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Assume a Responsa",
         "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 259862,
       "name": "Assume a Responsa",
       "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 396911,
+      "name": "Estamos de P\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
       "artists": [
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -631,22 +635,66 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Mauro Henrique: Live Session {Lado B}",
+        "url": "https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Canta Minha'alma (Behold) - Live Session",
+      "url": "https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -675,54 +723,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mauro Henrique: Live Session {Lado B}",
-        "url": "https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Canta Minha'alma (Behold) - Live Session",
-      "url": "https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 274005,
       "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 244457,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -843,18 +859,34 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
+        "name": "O Mundo ao Seu Redor",
+        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "O Maior Clich\u00ea do Mundo",
+          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
         }
       ],
-      "duration_ms": 244457,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+      "duration_ms": 188253,
+      "name": "O Mundo ao Seu Redor",
+      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -871,22 +903,6 @@
       "duration_ms": 192000,
       "name": "Artif\u00edcio",
       "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "O Mundo ao Seu Redor",
-        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
-      },
-      "artists": [
-        {
-          "name": "O Maior Clich\u00ea do Mundo",
-          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "O Mundo ao Seu Redor",
-      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 293793,
       "name": "Mateus 6:6",
       "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Sua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU"
       },
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Profundo",
-        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "Simplesmente",
-      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
       },
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Trindade",
-        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
+        "name": "Profundo",
+        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
       "artists": [
         {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Arthur Lemos",
-          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
         }
       ],
-      "duration_ms": 769852,
-      "name": "Trindade",
-      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
+      "duration_ms": 323440,
+      "name": "Simplesmente",
+      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1175,6 +1155,26 @@
       "duration_ms": 216427,
       "name": "Tudo Muda Com Voc\u00ea",
       "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Trindade",
+        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
+      },
+      "artists": [
+        {
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+        }
+      ],
+      "duration_ms": 769852,
+      "name": "Trindade",
+      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2022-09-02 03:00:00",

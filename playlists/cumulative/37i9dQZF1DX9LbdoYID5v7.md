@@ -4,7 +4,7 @@
 
 > The music that created modern indie as we know it\. Cover: Florence + The Machine
 
-148 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
+149 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Oxford Comma](https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 3:15 | 2021-01-12 | 2022-07-29 |
 | [Pachuca Sunrise](https://open.spotify.com/track/5UMC0HkqpmwarA1HZ7z3Ck) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/3ZJ1AdjAip2Lf0dHwpQui2) | 3:35 | 2021-01-12 | 2022-07-29 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-28 |  |
-| [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 | 2022-07-28 |  |
+| [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 | 2022-07-28 | 2022-09-26 |
 | [People Say](https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/5HdvwiCT7MRMtTmGBwPpNX) | 2:59 | 2021-01-12 | 2022-07-29 |
 | [Pin Your Wings](https://open.spotify.com/track/4ws3V2VFcJGAkcLppaXPy4) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [In Motion](https://open.spotify.com/album/1BugtzesoopZXaNGsLG1wX) | 3:09 | 2021-01-12 | 2022-03-17 |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2021-01-12 |  |
@@ -129,6 +129,7 @@
 | [The Cave](https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9) | 3:38 | 2021-01-12 | 2022-07-24 |
 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/2yEvbLwLpEq4Z5yhyQLI0q) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/4ssF0ppdJnMTtL2hg1CLKX) | 4:43 | 2021-01-12 | 2022-07-29 |
 | [The New Year](https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz) | 4:06 | 2021-01-12 | 2022-07-29 |
+| [The Sound of Settling](https://open.spotify.com/track/0PTYTZvNNtlvdOwWRYrbfC) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 2:12 | 2022-07-28 |  |
 | [The Sound Of Settling](https://open.spotify.com/track/3OeQl1CTURzhwzd5R4KWrf) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5FJTVcpDFYqlo7vjjHEA9V) | 2:12 | 2021-01-12 | 2022-07-29 |
 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2021-01-12 | 2022-07-29 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-07-28 |  |

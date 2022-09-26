@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,340 likes - 66 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,450 likes - 66 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 | 59 | [The Cornfield](https://open.spotify.com/track/0ZVcu2UcnGagoEpePWLegJ) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [The Wizard of Oz \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/6YJkcbbY6GiUGBzgE8AFxr) | 2:46 |
 | 60 | [Viola's Audition \- Instrumental](https://open.spotify.com/track/6a2Frn8yp91Rbw8phY9Uz1) | [Stephen Warbeck](https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p), [Gavyn Wright](https://open.spotify.com/artist/7Kio0PkTLR8cD9QKMB8HIl) | [Shakespeare in Love \- Music from the Miramax Motion Picture](https://open.spotify.com/album/7qitZT83QhcoYz3Nk6x6du) | 3:22 |
 | 61 | [Crouching Tiger, Hidden Dragon \(The Eternal Vow\)](https://open.spotify.com/track/7xb5wZgtfvpInIFVZgMbtz) | [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Hollywood Spectacular! Silver Screen Super Hits](https://open.spotify.com/album/2G2yhujaMxT3FHLbcDrDCt) | 5:58 |
-| 62 | [Overture \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/1Hh8SCwbrwqly06fv6LYDP) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX) | [Work From Home With Ennio Morricone](https://open.spotify.com/album/1Jd1cieRXVrtMsxj0YOjUH) | 3:11 |
+| 62 | [Overture \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/6KgHPNuC386tCRjK7q6T4P) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Czech National Symphony Orchestra, Prague](https://open.spotify.com/artist/5sywRx2uuyXtkfnXCdyQX0) | [Morricone: Movie Classics](https://open.spotify.com/album/1vnPavo6AI34MtKlex4Ark) | 3:11 |
 | 63 | [Neverland \- Piano Variation In Blue \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/3rwboSQlP6nOElurhXQFnB) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 4:29 |
 | 64 | [Now, Voyager](https://open.spotify.com/track/5XM2pLN5ByvLjNh8XyDRr6) | [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ) | [Classic Film Scores: Now, Voyager](https://open.spotify.com/album/6gXWOxZNWS90iGUFXY5R1S) | 5:52 |
 | 65 | [Love Scene in the Forest \(From "Anthony Adverse"\)](https://open.spotify.com/track/4fGzANJuxivS5fUr0DDwLs) | [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ), [RCA Victor Symphony Orchestra](https://open.spotify.com/artist/1JDbACEgV5erBN0YAOkrg4) | [RCA Symphony Orchestra: Film Scores and More! \- Vol\. 2](https://open.spotify.com/album/5F5Ws6RwWLwNc3nR8yozrI) | 2:16 |
 | 66 | [Main Title](https://open.spotify.com/track/69cIpx990Bbmum5a1A3HcO) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Franco Collura](https://open.spotify.com/artist/0yNNwW7OAdtsWfALfsrPzq) | [The Best Years of Our Lives \(Original Soundtrack\) \[1946\]](https://open.spotify.com/album/3Jz27XW73fQEdZAjsoJAKt) | 1:35 |
 
-Snapshot ID: `MTY2MDczNzEyNCwwMDAwMDAwMGY0NWY5MTJhNzliNjAxMzcxYWEyZTY2NTg0MTgzNjEz`
+Snapshot ID: `MTY2MDczNzEyNCwwMDAwMDAwMDdkOTRhNGE3NDNjOTFjMGY0NWE1Njg4MmFlODUzYWE0`

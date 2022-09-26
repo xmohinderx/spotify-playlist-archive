@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-103 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
+104 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 | 2022-09-07 | 2022-09-21 |
+| [Pulling Down The Ride](https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19) | 2:40 | 2022-09-23 |  |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-07-08 | 2022-07-30 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-05-25 | 2022-07-29 |
 | [Right To Be Wrong](https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:40 | 2022-05-25 |  |
@@ -96,7 +97,7 @@
 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 | 2022-07-08 |  |
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-05-25 | 2022-08-15 |
 | [Stay Around A Little Longer \(feat\. B.B\. King\)](https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 5:00 | 2022-05-25 | 2022-07-29 |
-| [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 | 2022-08-11 |  |
+| [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 | 2022-08-11 | 2022-09-26 |
 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 | 2022-07-08 | 2022-08-24 |
 | [Stone Cold \(feat\. Tina Arena and Joe Bonamassa\)](https://open.spotify.com/track/71WRMHNIG0xQiCOWgbLT6d) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/7wR3QAlIKaPYPVoBFh25G3) | 6:52 | 2022-05-25 | 2022-07-29 |
 | [Stormy Monday](https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Live At Blues Alley](https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy) | 5:49 | 2022-05-25 | 2022-07-29 |

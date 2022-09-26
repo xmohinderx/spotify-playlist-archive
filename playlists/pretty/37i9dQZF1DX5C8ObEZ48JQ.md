@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels from Africa, updated every last Wednesday of the month\. Cover: <a href="https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD?si=TEnCfCz1T7CFVelrX8RI5Q"> Preyé </a>, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

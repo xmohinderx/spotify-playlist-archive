@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 315302,
+  "num_followers": 315383,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDk1MmU1OWI1NjRhZmQwNDAyMjg5MTUzMjUyMjkzYzY0",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGFlYzFjMDUzMzk3MmQyODBmN2YxZmE4OTJmMDRjZWYx",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnes op.4",
-        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 171071,
-      "name": "Nocturnes op.4",
-      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "In The End",
         "url": "https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 166320,
       "name": "In The End",
       "url": "https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Nocturnes op.4",
+        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "Nocturnes op.4",
+      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/5oyUhDr5n4Nz9qGqxxT9Ns"
-      },
-      "artists": [
-        {
-          "name": "Dmitry Evgrafov",
-          "url": "https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8"
-        }
-      ],
-      "duration_ms": 152656,
-      "name": "Illumination",
-      "url": "https://open.spotify.com/track/7JaGrzcmPw3efnhCUbxPqQ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Young Alaska",
         "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 102034,
       "name": "Alpine Sketch",
       "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/5oyUhDr5n4Nz9qGqxxT9Ns"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Evgrafov",
+          "url": "https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8"
+        }
+      ],
+      "duration_ms": 152656,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/7JaGrzcmPw3efnhCUbxPqQ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Quintessence",
         "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 128000,
       "name": "Ave",
       "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Acceptance",
-        "url": "https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo"
-      },
-      "artists": [
-        {
-          "name": "Ben Crosland",
-          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Acceptance",
-      "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Shards",
         "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
       },
@@ -903,38 +887,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
-      },
-      "artists": [
-        {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
-      },
-      "artists": [
-        {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
-        }
-      ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Octaves",
         "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
       },
@@ -951,24 +903,24 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "You Finally Knew",
-        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
       "artists": [
         {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 203935,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
       "artists": [
         {
@@ -976,9 +928,9 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -999,34 +951,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+        "name": "You Finally Knew",
+        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
       },
       "artists": [
         {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
         }
       ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+      "duration_ms": 203935,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "orange sky",
-        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
       "artists": [
         {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
         }
       ],
-      "duration_ms": 190670,
-      "name": "orange sky",
-      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,8 +1015,24 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "duration_ms": 129209,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
@@ -1072,9 +1040,41 @@
           "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "orange sky",
+        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 190670,
+      "name": "orange sky",
+      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1091,22 +1091,6 @@
       "duration_ms": 144625,
       "name": "An Evening Scene",
       "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Balancing Act",
-        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
-      },
-      "artists": [
-        {
-          "name": "Daniel Schrage",
-          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Balancing Act",
-      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Balancing Act",
+      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Stay Longer",
         "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
       },
@@ -1175,6 +1175,26 @@
       "duration_ms": 130084,
       "name": "Stay Longer",
       "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        },
+        {
+          "name": "Arash Sanee",
+          "url": "https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa"
+        }
+      ],
+      "duration_ms": 102515,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1227,22 +1247,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
-      },
-      "artists": [
-        {
-          "name": "Nel Swerts",
-          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
-        }
-      ],
-      "duration_ms": 151397,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "night walk",
         "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
       },
@@ -1259,18 +1263,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
       },
       "artists": [
         {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+          "name": "Nel Swerts",
+          "url": "https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh"
         }
       ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+      "duration_ms": 151397,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1291,26 +1295,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
-      },
-      "artists": [
-        {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        },
-        {
-          "name": "Arash Sanee",
-          "url": "https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa"
-        }
-      ],
-      "duration_ms": 102515,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Some Other Place",
         "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 253169,
       "name": "Some Other Place",
       "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     }
   ],
   "unique_name": "Soft Piano",

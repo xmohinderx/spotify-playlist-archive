@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Virlan Garcia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,237 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,260 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
 | 13 | [Algo de Mi Vida \- En Vivo](https://open.spotify.com/track/6Io2tPlrxwkeY2ON6SWljg) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Algo de Mi Vida \(En Vivo\)](https://open.spotify.com/album/4wxti5M4qHSttUduwGW1Ge) | 2:13 |
 | 14 | [Reproches Al Viento](https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Reproches Al Viento](https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3) | 3:41 |
-| 15 | [Seguimos De Pie M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
+| 15 | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
 | 16 | [Los Billetes](https://open.spotify.com/track/4CcFT2GlTajlWUWncgXv0p) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [Grupo Mi Revolucion](https://open.spotify.com/artist/0xN8GVH0vVNe7PSDPrqJAl) | [Los Billetes](https://open.spotify.com/album/4JXdC67ZZEC1vqj65uh3Y4) | 3:26 |
 | 17 | [Leal de Herencia](https://open.spotify.com/track/0I21MhaCoVWai39JAtMxU4) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Leal de Herencia](https://open.spotify.com/album/5TqNmC7hNzfLUe5kPMPv0V) | 2:08 |
 | 18 | [Ex de Verdad](https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ex de Verdad](https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ) | 3:06 |

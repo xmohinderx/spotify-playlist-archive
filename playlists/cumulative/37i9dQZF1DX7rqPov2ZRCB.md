@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-235 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+237 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Con el Agua y el Jabón](https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:19 | 2019-09-09 | 2022-07-25 |
 | [Con el Agua y el Jabón \(En Vivo\)](https://open.spotify.com/track/39iwcYBNRMWekv9PFEEAC4) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 5:06 | 2019-09-09 | 2022-07-26 |
 | [Consejo a las Mujeres](https://open.spotify.com/track/34iX8GBGXa89VA2PbmK1IS) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Grandes Exitos](https://open.spotify.com/album/0JO10CGBRTo4nhCvaoTgJy) | 3:32 | 2019-09-09 | 2022-07-25 |
-| [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 | 2019-09-09 |  |
+| [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 | 2019-09-09 | 2022-09-26 |
 | [Consejo de Mujer](https://open.spotify.com/track/7B2XcYGbd6aMYghDpZIBlq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Tipicazos](https://open.spotify.com/album/5tIuwjIPjjZ5PdnFGtTPjs) | 3:31 | 2019-09-09 | 2022-07-29 |
 | [Corazón Bendito](https://open.spotify.com/track/04rYPqyScxUnYSV2K3W0UW) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:22 | 2019-09-09 | 2022-07-26 |
 | [Cuando Volveras](https://open.spotify.com/track/6TcrExP8tPoHHiKP07k67r) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [El Bombazo Tipico](https://open.spotify.com/album/4MuSBTg9lWtOjLeoBZWRfe) | 5:43 | 2019-09-09 | 2022-07-28 |
@@ -184,9 +184,11 @@
 | [No Te Me Despegue Mas](https://open.spotify.com/track/192zPfdcKA2hOZ645SGCW5) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [No Llorare](https://open.spotify.com/album/3CBjDMRvP2TBLNwPgEpNCF) | 5:18 | 2019-09-09 | 2022-07-29 |
 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 | 2019-09-09 |  |
 | [Perdido Sin Ti](https://open.spotify.com/track/2gPyAczAwtfZqlF1nBNkSd) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol\. 1](https://open.spotify.com/album/6idjIsHfxAreZOwbj6nIVC) | 4:05 | 2019-09-09 | 2022-09-23 |
+| [Perdido Sin Ti](https://open.spotify.com/track/3HA1Bnd6WOsnW0CTbZalhN) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol.1](https://open.spotify.com/album/5xEeEmWWtscajKDXOTRNkQ) | 4:05 | 2019-09-09 |  |
 | [Perdido Sin Ti](https://open.spotify.com/track/2QU4oChYHqjdK4eh5IWWvc) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Perdido Sin Ti](https://open.spotify.com/album/4DwDIco9u8f442MImEpxar) | 4:06 | 2019-09-09 | 2022-07-29 |
 | [Perdí un Amigo](https://open.spotify.com/track/4nmEsNwf0PPUIQxPNJCuJY) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:38 | 2019-09-09 | 2022-07-19 |
 | [Pero Dime](https://open.spotify.com/track/6qONHoQloBbAXfe1F0vSx7) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/1ymwzkDASaWEUpWHQJca1d) | 4:05 | 2019-09-09 | 2022-07-28 |
+| [Pero dime](https://open.spotify.com/track/1JaBo7TxIs1iP35ye123ar) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:05 | 2019-09-09 |  |
 | [Pero Dime](https://open.spotify.com/track/4fjk62dzotop9dXPzuxbRY) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC) | 4:05 | 2019-09-09 | 2022-09-23 |
 | [Pero Dime](https://open.spotify.com/track/7IvRwaxB2Wl64RrV9U5Kga) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/0hLXl8c9L5nrH58MyRNUKl) | 4:05 | 2019-09-09 | 2022-07-22 |
 | [Pontele duro](https://open.spotify.com/track/1gkLI02bdbDFZ2J9KS75Ov) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:10 | 2019-09-09 | 2022-07-09 |
@@ -207,7 +209,7 @@
 | [Salón de Belleza](https://open.spotify.com/track/7rdUMHIGaRO7l6JbP3zZnk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/52g37QMS0T8cyx7oiWLZym) | 3:47 | 2019-09-09 | 2022-07-23 |
 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 | 2019-09-09 |  |
 | [Se Fue La Bola](https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 6:25 | 2019-09-09 | 2022-07-26 |
-| [Se Que Eres](https://open.spotify.com/track/7sednQ0zmq9famxKN9Q3w6) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Linda Morenita](https://open.spotify.com/album/18O4tBeC6Dk4IXDDWXPavZ) | 4:12 | 2019-09-09 |  |
+| [Se Que Eres](https://open.spotify.com/track/7sednQ0zmq9famxKN9Q3w6) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Linda Morenita](https://open.spotify.com/album/18O4tBeC6Dk4IXDDWXPavZ) | 4:12 | 2019-09-09 | 2022-09-26 |
 | [Si Quiere Venir Que Venga](https://open.spotify.com/track/7CCb8UAiaQKoW8b0lZ2O85) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Disco de Oro](https://open.spotify.com/album/1pMBM2F5woRihACl1T88au) | 3:59 | 2019-09-09 | 2022-07-27 |
 | [Si Tatico Se Levanta](https://open.spotify.com/track/0S0cQ7oXAotJYBlahf7uCK) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [El Mambologo, Vol\. 1](https://open.spotify.com/album/5rMGC8QMMc7aPOkIfrGnpE) | 6:47 | 2019-09-09 | 2022-07-28 |
 | [Soliman](https://open.spotify.com/track/62NJaHU2OwiPCkYbvsFA6f) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Amor Perfecto](https://open.spotify.com/album/6ZI7uUL4BLAwcAD6ASQJKw) | 5:12 | 2019-09-09 | 2022-07-29 |

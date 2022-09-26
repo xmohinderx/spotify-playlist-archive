@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 154578,
+  "num_followers": 154623,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMGU4YjRmNjlmN2IxOTA3MzRlOGRhODE1NDIxYmQ0Yjgz",
+  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMGIyNzViY2E2NzNmMGNhYWM2YTMyNWE1NzM5NTRmOTQz",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Wincing The Night Away",
         "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 218659,
+      "name": "Secrets from a Girl (Who's Seen it All)",
+      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
       "artists": [
         {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Somewhere In-Between",
         "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
       },
@@ -491,6 +491,38 @@
       "duration_ms": 161880,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -515,34 +547,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -575,22 +591,6 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 212142,
-      "name": "Devil I Know",
-      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -931,6 +915,22 @@
       "duration_ms": 193240,
       "name": "Call Me in the Afternoon",
       "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "About A Boy Soundtrack",
         "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
       },
@@ -1047,6 +1031,38 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 195222,
+      "name": "Vampires",
+      "url": "https://open.spotify.com/track/38kSwDFzxfP3SIAlrXgmrv"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Are You OK?",
         "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 195222,
-      "name": "Vampires",
-      "url": "https://open.spotify.com/track/38kSwDFzxfP3SIAlrXgmrv"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Far Out",
+      "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1255,18 +1271,34 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Far Out",
-      "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "My Maudlin Career",
+        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "French Navy",
+      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1287,50 +1319,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
         }
       ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
-      },
-      "artists": [
-        {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "My Maudlin Career",
-        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "French Navy",
-      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+      "duration_ms": 256048,
+      "name": "the sum of the in-between",
+      "url": "https://open.spotify.com/track/3Slg6cDLMENij8JZ50F9SL"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

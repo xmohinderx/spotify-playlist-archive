@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,030 songs - 2 day 7 hr 41 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
+1,031 songs - 2 day 7 hr 44 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-30 |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2021-07-05 | 2021-08-31 |
 | [Jesus Lord](https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 8:58 | 2021-08-31 | 2021-09-04 |
-| [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 |  |
+| [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-09-26 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-11-28 | 2022-01-03 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2021-12-25 | 2021-12-27 |
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-24 | 2021-12-27 |
@@ -693,6 +693,7 @@
 | [Rokenrola dzīve](https://open.spotify.com/track/3yYsFiVUvPRHGRPwZC5gVj) | [Singapūras Satīns](https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb) | [STONKS](https://open.spotify.com/album/6s3RiLpdAKOoFhOWskFYEo) | 3:45 | 2021-10-08 | 2021-10-14 |
 | [Roku Okeāns](https://open.spotify.com/track/7qfisxNvTUxlD6mvrw8673) | [Bermudu Divstūris](https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT) | [Ballplēsis](https://open.spotify.com/album/1JeygrHOHs9LJj3nhwehb8) | 2:52 | 2021-06-25 | 2022-09-07 |
 | [rolix!](https://open.spotify.com/track/0CXrMXSAbTKiPylYHYCR3g) | [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ) | [visurgājējs](https://open.spotify.com/album/359NpKcAHBDr1bD3jdqOMe) | 3:00 | 2022-04-30 | 2022-05-02 |
+| [Roller Coaster](https://open.spotify.com/track/1ROKleACIGhw24gxqvr0ZO) | [Zizzo World](https://open.spotify.com/artist/6Q9J5gwMPpRkjaA4Hdh6Ip) | [Roller Coaster](https://open.spotify.com/album/6rfUbQOyNlmK4DwSAHvMPt) | 3:04 | 2022-09-25 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-20 | 2021-10-21 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-11 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-07-27 |

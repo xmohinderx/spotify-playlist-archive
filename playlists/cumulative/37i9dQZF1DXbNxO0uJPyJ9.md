@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-219 songs - 23 hr 11 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+220 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 | 2022-06-10 |  |
 | [Domino Dancing \- 2001 Remaster](https://open.spotify.com/track/0R4mVKev4tWhSs1JSv7h1g) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/5rV1l8OgNRlryYfEzJ2IER) | 7:40 | 2022-06-10 | 2022-07-22 |
 | [Domino Dancing \- 2001 Remastered Version](https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA) | 7:40 | 2020-08-07 | 2022-07-29 |
+| [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 | 2022-06-10 |  |
 | [Don't Go \(Remix\) \[2008 \- Remaster\]](https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/4lgxP2ClCUl2jPfc74T9Wn) | 4:06 | 2020-08-07 | 2022-07-29 |
 | [Don't Leave Me This Way \- 12" Mega Mixes](https://open.spotify.com/track/5KmMQZib9nhxtQftu4SnOB) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Communards](https://open.spotify.com/album/1tLHfZGM9lKYjxYAYm45vT) | 22:49 | 2020-08-07 | 2022-07-29 |
 | [Don't Look Any Further \- Original 12" Mix](https://open.spotify.com/track/6g8oJoXtmwE8hrJr7ZKnlw) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Bonus Tracks Edition\)](https://open.spotify.com/album/7ugi0dyAtsm3uT3Fff0fmR) | 5:21 | 2021-12-22 | 2022-07-27 |
@@ -82,7 +83,7 @@
 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 | 2022-06-10 |  |
 | [I Feel Love \- 12" Version](https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \[Deluxe Edition \(US Version\)\]](https://open.spotify.com/album/34qkfc2enZLwUhnrUGLLjb) | 8:15 | 2020-08-07 | 2022-07-29 |
 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 | 2022-06-10 |  |
-| [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:46 | 2022-06-10 |  |
+| [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:46 | 2022-06-10 | 2022-09-26 |
 | [I Feel Love /Johnny Remember Me](https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat And The Communards](https://open.spotify.com/album/6WiIzEOMOeXuQIExBXcxKz) | 5:48 | 2020-08-07 | 2022-07-29 |
 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 | 2020-08-07 |  |
 | [I'm Not Scared \- Disco Mix](https://open.spotify.com/track/2oFfNhQSR912YuzeGn24GQ) | [Eighth Wonder](https://open.spotify.com/artist/67drSMarzjhEXxEJ2ATLfE) | [Modern Eighties Long Versions](https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m) | 7:59 | 2020-08-07 | 2022-07-28 |

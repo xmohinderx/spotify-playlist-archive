@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 304493,
+  "num_followers": 304499,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1MjU4MiwwMDAwMDAwMGExMGU5MzRkODU2NDIyZDQzZmQxMTM2MWM1MTlmN2E4",
+  "snapshot_id": "MTY2Mzc1MjU4MiwwMDAwMDAwMGI4MzVhZWJmYzVlNTRmODE4YTBmOWFmZGNjZWFmOGVh",
   "tracks": [
     {
       "added_at": "2022-09-21 09:29:42",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -235,38 +251,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -287,22 +271,18 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -327,6 +307,26 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 157605,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+        "name": "Vieni nel mio cuore",
+        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+      "duration_ms": 172761,
+      "name": "Vieni nel mio cuore",
+      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "Vieni nel mio cuore",
-        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 172761,
-      "name": "Vieni nel mio cuore",
-      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -1095,6 +1079,58 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 168117,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -1119,22 +1155,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "High",
-      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "Follow You / Cutthroat",
         "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 175643,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 168117,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "Bagno a mezzanotte",
-        "url": "https://open.spotify.com/album/4ZwF0hAe8HY68XrjnzQVAd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 178713,
-      "name": "Bagno a mezzanotte",
-      "url": "https://open.spotify.com/track/5KkcthkQDnlhQN0WhO8DsM"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 172692,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "Bagno a mezzanotte",
+        "url": "https://open.spotify.com/album/4ZwF0hAe8HY68XrjnzQVAd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 178713,
+      "name": "Bagno a mezzanotte",
+      "url": "https://open.spotify.com/track/5KkcthkQDnlhQN0WhO8DsM"
     },
     {
       "added_at": "2022-09-21 09:29:42",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-09-21 09:29:42",
       "album": {
-        "name": "I love you baby",
-        "url": "https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
-        {
-          "name": "Sixpm",
-          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "I love you baby",
-      "url": "https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf"
-    },
-    {
-      "added_at": "2022-09-21 09:29:42",
-      "album": {
         "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
+    },
+    {
+      "added_at": "2022-09-21 09:29:42",
+      "album": {
+        "name": "I love you baby",
+        "url": "https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "I love you baby",
+      "url": "https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf"
     },
     {
       "added_at": "2022-09-21 09:29:42",

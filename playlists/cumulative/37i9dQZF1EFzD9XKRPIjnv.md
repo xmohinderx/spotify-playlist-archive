@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
+123 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 | 2021-12-27 |  |
 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 | 2021-12-27 |  |
 | [Blame \- Tisoki Remix](https://open.spotify.com/track/7cVaF9J51UOzVIKzIdLqNn) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Blame \(Remixes\)](https://open.spotify.com/album/7kFXvC0W4AYlU0nWAKBCvM) | 3:12 | 2021-12-27 |  |
+| [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 | 2022-09-25 |  |
 | [Bluffin'](https://open.spotify.com/track/42w7pX3r1TpLR0i55Ek5ND) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:19 | 2021-12-27 |  |
 | [Breaking News \(with RAYE\)](https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:33 | 2021-12-27 |  |
 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 | 2021-12-27 |  |

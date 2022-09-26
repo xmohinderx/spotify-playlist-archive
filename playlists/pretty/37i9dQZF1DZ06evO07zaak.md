@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,133 likes - 44 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,520 likes - 43 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 40 | [A Great Day For Freedom 2022](https://open.spotify.com/track/08ZP6LzduiKEURYbNex8SH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 4:07 |
 | 41 | [Interstellar Overdrive](https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 9:40 |
 | 42 | [Let There Be More Light](https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Saucerful of Secrets](https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH) | 5:36 |
-| 43 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
-| 44 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 |
+| 43 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 |
 
-Snapshot ID: `Mjc3MzQwMjUsMDAwMDAwMDA3ZTg4MzJiY2VjZTc3MWQ3MWRlN2UwYjY2MmQ3N2E3YQ==`
+Snapshot ID: `Mjc3MzU1MDQsMDAwMDAwMDAyNjVlNDIzNzE1NmFhMGNkYzBkYWIxZGYyNDNlNjVlMw==`

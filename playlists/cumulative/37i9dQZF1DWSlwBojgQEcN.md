@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-292 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
+293 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dark Four Door](https://open.spotify.com/track/6zDTtydfcDi0Lwjr8PyDYL) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Dark Four Door](https://open.spotify.com/album/3vnr4VhgiHMI0jAqToQdn0) | 3:28 | 2019-09-29\* | 2022-07-29 |
 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 | 2020-06-12 | 2021-01-12 |
 | [Do You Hear Wedding Bells \(Low Down Version\)](https://open.spotify.com/track/7LcF55tGgx1L2zDgotGTn0) | [Doug Burr](https://open.spotify.com/artist/25rkGqLvj42lzBHmKmCeCU) | [Trembling Lips and Pale Fingertips](https://open.spotify.com/album/0z9mXhxXxEpUf3HvInfdBi) | 3:55 | 2019-11-23 | 2021-01-15 |
+| [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 | 2022-02-14 |  |
 | [Does Anybody Know](https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 3:27 | 2019-09-29\* | 2022-09-15 |
 | [Don't Get Too Close](https://open.spotify.com/track/7j2HvuXMC7lcU5DpNfDPhG) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:10 | 2020-06-12 | 2021-10-14 |
 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2019-09-29\* |  |
@@ -144,7 +145,7 @@
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2020-06-12 | 2021-10-16 |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2019-09-29\* |  |
 | [Lover](https://open.spotify.com/track/1A3ZhVCFvYPKj8SRMPbpsg) | [Jane Ellen Bryant](https://open.spotify.com/artist/0Lzcyqk8mIPURNWygVExKm) | [Hourglass](https://open.spotify.com/album/7lZJMlYFGEqpyqcKi2PDmr) | 4:34 | 2019-09-29\* | 2020-06-10 |
-| [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 | 2022-02-14 |  |
+| [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 | 2022-02-14 | 2022-09-26 |
 | [Lovers Who Make Love](https://open.spotify.com/track/2G5AbiKbJjNJGFSpUtwsiH) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 3:38 | 2020-06-12 | 2021-10-16 |
 | [Lovers' Eyes](https://open.spotify.com/track/7rMDB1bKHO0Sh8oTWWvdsJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:21 | 2022-02-14 |  |
 | [Lovers' Eyes](https://open.spotify.com/track/0Z1jSa9OzaVXERNOpH3F9J) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Edition\)](https://open.spotify.com/album/1SKwteICgxOCIoqtCUqpR6) | 5:21 | 2020-06-12 | 2021-10-16 |

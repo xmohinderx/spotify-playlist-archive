@@ -1108,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico 68, Vol. 2",
         "url": "https://open.spotify.com/album/2APDKCxkpAcrRC7VlGdzei"
       },
@@ -4620,7 +4638,7 @@
     },
     {
       "album": {
-        "name": "Somos fuerza",
+        "name": "Somos Fuerza",
         "url": "https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx"
       },
       "artists": [
@@ -4640,8 +4658,8 @@
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221493,
-      "name": "Somos fuerza",
+      "duration_ms": 221733,
+      "name": "Somos Fuerza",
       "url": "https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH"
     },
     {
@@ -4657,7 +4675,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"

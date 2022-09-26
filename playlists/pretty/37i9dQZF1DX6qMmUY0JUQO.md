@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,675 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,860 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 21 | [All Around the World](https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Affection \(Deluxe\)](https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g) | 4:28 |
 | 22 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
 | 23 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 |
-| 24 | [Clouds Across the Moon](https://open.spotify.com/track/1GT9jsKDk6osfnR5lWIUMD) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 4:45 |
-| 25 | [Away from Home \- Short Version](https://open.spotify.com/track/4S2yQ90jHFZEpmFzwRt1k9) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best of 1990\-1997](https://open.spotify.com/album/1tWnRJpuyGykh1fcpmAdEi) | 3:18 |
-| 26 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
-| 27 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
-| 28 | [Go West \- 2003 Remaster](https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 5:04 |
+| 24 | [Away from Home \- Short Version](https://open.spotify.com/track/4S2yQ90jHFZEpmFzwRt1k9) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best of 1990\-1997](https://open.spotify.com/album/1tWnRJpuyGykh1fcpmAdEi) | 3:18 |
+| 25 | [Clouds Across the Moon](https://open.spotify.com/track/1GT9jsKDk6osfnR5lWIUMD) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 4:45 |
+| 26 | [Go West \- 2003 Remaster](https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 5:04 |
+| 27 | [The Bells](https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [SIGHT SOUND AND SPACE](https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb) | 4:45 |
+| 28 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
 | 29 | [Hunter](https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf) | 4:13 |
 | 30 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 |
 | 31 | [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 41 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 42 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 |
 | 43 | [Children \- Dream Version](https://open.spotify.com/track/1JfrKj59dl3rrpzShRf9If) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Dreamland](https://open.spotify.com/album/1XL0X5szAJw8vY9GrP2HUC) | 7:06 |
-| 44 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
-| 45 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
-| 46 | [Closer To God](https://open.spotify.com/track/5kXtr0OnI0xvaBSHRMPC1m) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 5:05 |
-| 47 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
+| 44 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
+| 45 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
+| 46 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
+| 47 | [Closer To God](https://open.spotify.com/track/5kXtr0OnI0xvaBSHRMPC1m) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 5:05 |
 | 48 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
 | 49 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
 | 50 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
 
-Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMDUwNGNkNTlmMzQ5NThhNzM2NzFkOTE1Y2ViMjFlYjdm`
+Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMGNlYjIwNTRhNzM3NDg2NjRiNGViNWEzYTVkMjExMGFl`

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-136 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+137 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-01-27 |  |
 | [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 |  |
 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 | 2021-11-01 |  |
+| [Antichrist](https://open.spotify.com/track/5wmBV7RrEDrEamTvCnuLxX) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:43 | 2022-09-25 |  |
 | [Anyone's Ghost](https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 2:54 | 2022-01-27 |  |
 | [Anyone’s Ghost](https://open.spotify.com/track/7uCFetDiUezJes4gfwYD9A) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/36VJqCEgUg3nj0Eyxtc1av) | 2:54 | 2021-11-01 | 2022-07-29 |
 | [Awake and Hungry](https://open.spotify.com/track/0t2iQOYTs07q3tvu46JOkb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Awake and Hungry](https://open.spotify.com/album/2uIQKontOLoPR0BiNa2huz) | 4:37 | 2021-11-01 | 2022-09-15 |
@@ -110,7 +111,7 @@
 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 | 2021-11-01 |  |
 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 | 2021-11-01 |  |
 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 | 2022-09-13 |  |
-| [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 | 2021-11-01 |  |
+| [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 | 2021-11-01 | 2022-09-26 |
 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 | 2022-09-13 |  |
 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 | 2021-11-01 |  |
 | [Station Wagon](https://open.spotify.com/track/1mqy0PZ49CimyTAW3I4eaN) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 6:39 | 2022-01-27 | 2022-09-15 |

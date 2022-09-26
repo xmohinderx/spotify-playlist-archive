@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 366537,
+  "num_followers": 366573,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NTg0OCwwMDAwMDAwMDdiYTZkOTliN2MyZmJmMTdlN2I4NjUwZWUxYzFiOThj",
+  "snapshot_id": "MTY2Mjc2NTg0OCwwMDAwMDAwMDJhYWFiNDU5MDU1ZWZjZGNlZWFhMzg0OTNhZGM2NzVi",
   "tracks": [
     {
       "added_at": "2022-09-09 23:24:08",
@@ -323,38 +323,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
-        "name": "Bird Sing",
-        "url": "https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Bird Sing",
-      "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -375,6 +343,38 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Bird Sing",
+        "url": "https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Bird Sing",
+      "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -619,22 +599,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190658,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 212866,
       "name": "Intentions (feat. Quavo)",
       "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
-        "name": "Love Me More",
-        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190658,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "I'm Sure",
-        "url": "https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 321438,
-      "name": "Swing Lynn",
-      "url": "https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "I'm Sure",
+        "url": "https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 321438,
+      "name": "Swing Lynn",
+      "url": "https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "I Like That",
-        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "my future",
         "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 208155,
       "name": "my future",
       "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
+        "name": "no song without you",
+        "url": "https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "la la la that\u2019s how it goes",
+      "url": "https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
-        "name": "no song without you",
-        "url": "https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "la la la that\u2019s how it goes",
-      "url": "https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Oh Sorry Ya",
-        "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 155214,
-      "name": "Oh Sorry Ya",
-      "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "American Girl",
         "url": "https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 160413,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Oh Sorry Ya",
+        "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 155214,
+      "name": "Oh Sorry Ya",
+      "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
     }
   ],
   "unique_name": "Tarea Casual",

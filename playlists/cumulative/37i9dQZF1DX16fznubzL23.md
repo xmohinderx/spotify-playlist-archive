@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-82 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
+83 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 | 2022-08-17 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-17 |  |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2022-02-11 |  |
+| [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 |  |
 | [Distance](https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Distance](https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb) | 3:02 | 2022-07-28 |  |
 | [Don't Be Late](https://open.spotify.com/track/7p8vxY7zwg1qIOMe6B8Buv) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Don't Be Late](https://open.spotify.com/album/5eYjYoa63hjgsjpEINGSaL) | 3:31 | 2022-02-11 | 2022-07-14 |
 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 | 2022-02-11 |  |
@@ -60,7 +61,7 @@
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-28 | 2022-08-10 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/3qQT9PyPFmLN1RjZ3GOabf) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/6rGR0F8POeXk3rnuEKfa4L), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [TEARS AND PURPLE EMOTIONS](https://open.spotify.com/album/5gtq2kLk7zAOBdtpufuMXz) | 3:07 | 2022-07-28 |  |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 |  |
-| [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 | 2022-02-11 |  |
+| [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 | 2022-02-11 | 2022-09-26 |
 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 | 2022-02-11 | 2022-09-07 |
 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 | 2022-02-11 |  |
 | [Omoge Mi](https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:35 | 2022-07-14 | 2022-07-29 |

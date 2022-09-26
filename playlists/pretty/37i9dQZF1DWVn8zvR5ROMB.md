@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Shania Twain, Kelsea Ballerini, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,326 likes - 67 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,491 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

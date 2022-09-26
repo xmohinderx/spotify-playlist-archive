@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 385995,
+  "num_followers": 386003,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDAxZTE0ZDgzZWI4MTVhODU1ZTBiNjYyOTRiMzhjZjRm",
+  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDM1MzNhZmZmYjY5OTc5ZWE2NDc1OTQ4NThmMGRmOWE1",
   "tracks": [
     {
       "added_at": "2022-09-23 08:12:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
+      },
+      "artists": [
+        {
+          "name": "SHY Martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 163547,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "Minefields",
         "url": "https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
-      },
-      "artists": [
-        {
-          "name": "SHY Martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 163547,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Know.",
-        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Know.",
+        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Feeling You",
         "url": "https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201195,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1223,6 +1223,54 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 211881,
+      "name": "Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Come Home To Me",
+      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1243,22 +1291,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 211881,
-      "name": "Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "our generation",
         "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
       },
@@ -1271,22 +1303,6 @@
       "duration_ms": 237780,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Come Home To Me",
-      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1319,22 +1335,6 @@
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Grown-ish",
-        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 186732,
-      "name": "Black Converse",
-      "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
     }
   ],
   "unique_name": "No Stress",

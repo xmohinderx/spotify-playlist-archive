@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Ice Spice is our new RADAR Artist to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,875 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,912 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 27 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 |
 | 28 | [Buzzkill](https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Buzzkill](https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo) | 2:54 |
 | 29 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 |
-| 30 | [Dip! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
+| 30 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 |
 | 31 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 |
 | 32 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
 | 33 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |

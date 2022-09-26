@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Big Boss Vette",
-  "num_followers": 19085,
+  "num_followers": 19136,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2NTY3NSwwMDAwMDAwMDMzNmJkN2M1Y2RjZmYwYzU2NjJlNjU0ZmM1NDNmZWMy",
+  "snapshot_id": "MTY2Mzk2NTY3NSwwMDAwMDAwMDYwMGU2NGIzNWI0NjUxZWI2N2MwM2Q5MTdhMjdiN2Jl",
   "tracks": [
     {
       "added_at": "2022-09-23 20:41:15",
@@ -251,38 +251,6 @@
     {
       "added_at": "2022-09-23 20:41:15",
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
-        "name": "Gotsta Get Paid",
-        "url": "https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 210939,
-      "name": "Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 159820,
       "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
+        "name": "Gotsta Get Paid",
+        "url": "https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 210939,
+      "name": "Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": "2022-09-23 20:41:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-23 20:41:15",
       "album": {
-        "name": "Black Wall Street",
-        "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
-      },
-      "artists": [
-        {
-          "name": "Killumantii",
-          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
-        }
-      ],
-      "duration_ms": 122064,
-      "name": "Black Wall Street",
-      "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 93455,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
+        "name": "Black Wall Street",
+        "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
+      },
+      "artists": [
+        {
+          "name": "Killumantii",
+          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
+        }
+      ],
+      "duration_ms": 122064,
+      "name": "Black Wall Street",
+      "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
     },
     {
       "added_at": "2022-09-23 20:41:15",
@@ -843,58 +843,6 @@
     {
       "added_at": "2022-09-23 20:41:15",
       "album": {
-        "name": "8 Year Run",
-        "url": "https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea"
-      },
-      "artists": [
-        {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
-        }
-      ],
-      "duration_ms": 130750,
-      "name": "8 Year Run",
-      "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
-        "name": "Gloss Up Broke Boy",
-        "url": "https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o"
-      },
-      "artists": [
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        },
-        {
-          "name": "Casino Jizzle",
-          "url": "https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Gloss Up Broke Boy",
-      "url": "https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 136629,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
-    },
-    {
-      "added_at": "2022-09-23 20:41:15",
-      "album": {
         "name": "Set The Tone",
         "url": "https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX"
       },
@@ -931,6 +879,42 @@
     {
       "added_at": "2022-09-23 20:41:15",
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 136629,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
+        "name": "Gloss Up Broke Boy",
+        "url": "https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Casino Jizzle",
+          "url": "https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Gloss Up Broke Boy",
+      "url": "https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 170218,
       "name": "Join Em",
       "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
+    },
+    {
+      "added_at": "2022-09-23 20:41:15",
+      "album": {
+        "name": "8 Year Run",
+        "url": "https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea"
+      },
+      "artists": [
+        {
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+        }
+      ],
+      "duration_ms": 130750,
+      "name": "8 Year Run",
+      "url": "https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF"
     }
   ],
   "unique_name": "Pressure",

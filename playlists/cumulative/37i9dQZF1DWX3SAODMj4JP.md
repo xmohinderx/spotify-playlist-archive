@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-69 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
+70 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Close to Me \- Acoustic](https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Carried](https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw) | 5:52 | 2022-09-02 |  |
 | [comigo](https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [comigo](https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn) | 4:53 | 2022-09-02 |  |
 | [Coragem](https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Coragem](https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G) | 4:25 | 2022-09-02 |  |
+| [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 | 2022-09-02 |  |
 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 | 2022-09-02 |  |
 | [Dear God \- Acoustic](https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Anna Asbury](https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB) | [Dear God \(Acoustic\)](https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m) | 3:37 | 2022-09-02 |  |
 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 | 2022-09-02 |  |
@@ -41,7 +42,7 @@
 | [Intimidade](https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Vagner Dida](https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri) | [Intimidade](https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H) | 3:21 | 2022-09-02 |  |
 | [Isaías 53](https://open.spotify.com/track/2zVeDWssj901HV6DFN6d5d) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Projeto Sola, Vol\. 1](https://open.spotify.com/album/7ikATn9s2QcWqbOi45OBUq) | 4:11 | 2022-09-02 |  |
 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 | 2022-09-02 |  |
-| [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 | 2022-09-02 |  |
+| [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 | 2022-09-02 | 2022-09-26 |
 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 | 2022-09-02 |  |
 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 | 2022-09-02 |  |
 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 | 2022-09-02 |  |

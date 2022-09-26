@@ -1248,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Cristo Redentor",
+        "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320253,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
+    },
+    {
+      "album": {
         "name": "Dark Side Riddim / Samuel L.Riddim",
         "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
       },
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 328988,
       "name": "No BS",
       "url": "https://open.spotify.com/track/4evaB44maldA4OML15SHQk"

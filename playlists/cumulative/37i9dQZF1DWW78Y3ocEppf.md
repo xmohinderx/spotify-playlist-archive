@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-328 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+329 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alone With You](https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm) | 3:46 | 2021-12-15 | 2022-09-24 |
 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 | 2021-12-15 | 2022-02-07 |
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-04-15 | 2022-09-24 |
-| [Anxiety \(Burlinda’s Theme\)](https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 4:05 | 2021-12-15 |  |
+| [Anxiety \(Burlinda’s Theme\)](https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 4:05 | 2021-12-15 | 2022-09-26 |
 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 | 2021-12-15 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 | 2022-09-23 |  |
@@ -251,6 +251,7 @@
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-08-05 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-29 |  |
 | [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 | 2021-12-15 | 2022-07-06 |
+| [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-09-23 |  |
 | [Poison](https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Poison](https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc) | 3:23 | 2021-12-15 | 2022-07-24 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-08-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2021-12-15 |  |

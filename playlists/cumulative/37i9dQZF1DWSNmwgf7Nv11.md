@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-245 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+246 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Friend City](https://open.spotify.com/track/74XOws38JXhzj1j10e3NSS) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Friend](https://open.spotify.com/album/3anMKrEVUsoHUxrRAIJ3oc) | 3:06 | 2022-02-25 |  |
 | [Garden](https://open.spotify.com/track/0Fhm1Jjz3h7bNOeNWr7NzE) | [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [I Go Missing In My Sleep](https://open.spotify.com/album/6CSmsCWZjz4LPDaog0cQJG) | 3:31 | 2022-02-25 |  |
 | [Garden](https://open.spotify.com/track/2YQdxGS9tPTajcvO2yRMuE) | [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Garden](https://open.spotify.com/album/51V4m6QcOmTplSl8QEoqaj) | 3:32 | 2021-07-30 | 2022-07-29 |
-| [Go Out Fighting](https://open.spotify.com/track/66tg5bmqB6NzCs5QhACkdQ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Go Out Fighting](https://open.spotify.com/album/24zRUsESY62pYsatp99SkM) | 3:27 | 2021-07-30 |  |
+| [Go Out Fighting](https://open.spotify.com/track/034QEHm74xXScEeEPqdUaq) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 3:27 | 2022-02-25 |  |
+| [Go Out Fighting](https://open.spotify.com/track/66tg5bmqB6NzCs5QhACkdQ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Go Out Fighting](https://open.spotify.com/album/24zRUsESY62pYsatp99SkM) | 3:27 | 2021-07-30 | 2022-09-26 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-07-30 |  |
 | [Goat](https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/5DuLQc0FCBPVfEec1Go2ey) | 3:48 | 2021-07-30 | 2022-02-26 |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-07-30 |  |

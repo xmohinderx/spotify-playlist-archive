@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-267 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+270 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls) | 4:27 | 2019-06-16\* | 2022-07-29 |
 | [Cocoon](https://open.spotify.com/track/2v06ZOVTUrUoBNKOCqS22m) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Cocoon](https://open.spotify.com/album/6AhNACx5j2NqU840PMi5O3) | 4:14 | 2019-06-16\* | 2022-07-28 |
 | [Cocoon](https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC) | 4:15 | 2022-04-11 |  |
-| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 |  |
+| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 | 2022-09-26 |
 | [Coincidental](https://open.spotify.com/track/4Me2Cf0Pp3OF518iN201oO) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Coincidental](https://open.spotify.com/album/4jlETvPQ17UqWn2JXMZce7) | 4:22 | 2019-06-16\* | 2022-07-29 |
 | [Color \- Remastered](https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [When Night Becomes Day](https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud) | 4:10 | 2019-06-16\* | 2021-05-15 |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-11-12 |  |
@@ -74,7 +74,7 @@
 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 | 2019-06-16\* |  |
 | [Dead Century](https://open.spotify.com/track/0qhWKhiRbhPGxtTQKr21F1) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Dead Century](https://open.spotify.com/album/185WkhWJn5rAEtpR9GrOUc) | 3:23 | 2019-06-16\* | 2022-07-29 |
 | [Dead Century](https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Age Of Everything](https://open.spotify.com/album/6UgPtnHxknhli434khaImD) | 3:24 | 2022-04-11 |  |
-| [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 | 2019-06-16\* |  |
+| [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 | 2019-06-16\* | 2022-09-26 |
 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-08-17 |  |
 | [Disappear Here](https://open.spotify.com/track/513vyBdge2xHB2OpMGlP14) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/2U3f9U5EFMNMObXxRMLVbW) | 3:45 | 2019-06-16\* | 2021-05-15 |
 | [Ditmas](https://open.spotify.com/track/3e6s8Z4MRSNgvNhVvpuUiw) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/6OA97YC9HbLfdREQKnsH2R) | 3:38 | 2019-06-16\* | 2021-06-12 |
@@ -168,7 +168,7 @@
 | [Lose the Feeling](https://open.spotify.com/track/48eUAlagYc6Az4vfqrvUlT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3V4lfN3JEhYCagdxhijHp8) | 4:13 | 2019-06-16\* | 2022-07-29 |
 | [Lose the Feeling](https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 4:13 | 2022-04-11 |  |
 | [Matter Of Time](https://open.spotify.com/track/6JsirqvUIaAfQCRHBSX4ue) | [Fitness](https://open.spotify.com/artist/7oC7e6ijd7nv4gVBDetGQM) | [Matter Of Time](https://open.spotify.com/album/7JPC1GrJ0hdQkCDCxQblv4) | 2:39 | 2019-06-16\* | 2022-07-29 |
-| [Method to the Madness](https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Method to the Madness](https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q) | 4:33 | 2021-05-28 |  |
+| [Method to the Madness](https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Method to the Madness](https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q) | 4:33 | 2021-05-28 | 2022-09-26 |
 | [Middle Class Dream](https://open.spotify.com/track/6eUuwMYJv8p68UGT5u4FZS) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Middle Class Dream](https://open.spotify.com/album/01e4Q6rMiRjcus0d2Qxrfz) | 4:23 | 2020-11-20 | 2022-07-29 |
 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 | 2022-04-09 |  |
 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-11 |  |
@@ -210,6 +210,7 @@
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2020-10-30 |  |
 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 | 2019-06-16\* |  |
 | [Smoke](https://open.spotify.com/track/1Ncfo3Q2IT4oc3RG719AIz) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6TUWxFFYv4cPkgU9HuYGCJ) | 3:47 | 2019-06-16\* | 2022-07-29 |
+| [Smoke](https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2) | 3:47 | 2022-09-16 |  |
 | [Smoke](https://open.spotify.com/track/7HkD4vJjuVbCyL9dxaGmmd) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/4QhthLfnfq02ux4FPpcALI) | 3:47 | 2022-04-11 | 2022-09-15 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-15 | 2022-09-17 |
 | [Solemn Oath](https://open.spotify.com/track/3TeXDqGghnzdjkYjr5Ukkk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Solemn Oath](https://open.spotify.com/album/65F4MYzYqVKre6uyJprwji) | 4:00 | 2019-06-16\* | 2022-04-19 |
@@ -244,6 +245,7 @@
 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 | 2019-06-16\* |  |
 | [The Youth](https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [The Youth](https://open.spotify.com/album/0wV6CrEjOUWw8XOUNyjOaM) | 3:30 | 2019-06-16\* |  |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-17 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-16 |  |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-17 | 2022-09-20 |
 | [Too Young to Fall in Love](https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP) | [OWEL](https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S) | [Dear Me](https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY) | 4:34 | 2019-06-16\* |  |
 | [Turn Your Love](https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV) | 4:01 | 2022-04-11 |  |
@@ -272,6 +274,7 @@
 | [Young Blood](https://open.spotify.com/track/20OrSCxQNhfAtiWtbLn3hf) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Young Blood](https://open.spotify.com/album/6k8k4QjeVI2G2gyVMeqOUF) | 3:28 | 2019-06-16\* | 2022-07-29 |
 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 | 2021-06-11 | 2022-08-18 |
 | [Your Touch](https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF) | 3:45 | 2022-04-11 | 2022-09-12 |
+| [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 | 2022-09-16 |  |
 | [Your Touch](https://open.spotify.com/track/7GXzl1P7qswewR5aKKVFuA) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5rL0GCQlE2UYgsac0RzUDT) | 3:45 | 2021-08-13 | 2022-07-29 |
 | [Youth](https://open.spotify.com/track/1L8epx3bjOlIKncbJZRUcd) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Youth](https://open.spotify.com/album/25c6UDNiogTnOsfOTlfMv2) | 3:50 | 2019-06-16\* | 2022-07-29 |
 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 | 2022-04-11 |  |

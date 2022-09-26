@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: The Weeknd",
-  "num_followers": 166326,
+  "num_followers": 166415,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MjA1MiwwMDAwMDAwMGMwNWI1OGI4MDA0ZWQ3YzlkOTNhY2M3ZDhlN2RiMTZi",
+  "snapshot_id": "MTY2Mzg3MjA1MiwwMDAwMDAwMGFhM2U2MDc0YTlhMzMzNjc2MWI2OWVkOTlkOWZjYjhm",
   "tracks": [
     {
       "added_at": "2022-09-22 18:40:52",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
+        "name": "Suncity",
+        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 158708,
-      "name": "Cardigan",
-      "url": "https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 136000,
       "name": "WFM",
       "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158708,
+      "name": "Cardigan",
+      "url": "https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 212866,
       "name": "B.S. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
-        "name": "I Care 4 U",
-        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 269883,
+      "name": "Race My Mind",
+      "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 269883,
-      "name": "Race My Mind",
-      "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2022-09-22 18:40:52",
       "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
         "name": "Not Another Love Song",
         "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
@@ -1819,6 +1819,26 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2022-09-22 18:40:52",
+      "album": {
+        "name": "Chixtape 5",
+        "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Jerry Sprunger (with T-Pain)",
+      "url": "https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg"
     },
     {
       "added_at": "2022-09-22 18:40:52",
@@ -1843,26 +1863,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
-    },
-    {
-      "added_at": "2022-09-22 18:40:52",
-      "album": {
-        "name": "Chixtape 5",
-        "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 233546,
-      "name": "Jerry Sprunger (with T-Pain)",
-      "url": "https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg"
     },
     {
       "added_at": "2022-09-22 18:40:52",

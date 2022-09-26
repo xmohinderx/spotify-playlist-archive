@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,852 likes - 500 songs - 19 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,190 likes - 500 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 137 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 |
 | 138 | [sugar n' spice](https://open.spotify.com/track/1OMlffcymhMMXX2jYft3Ox) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [grind house](https://open.spotify.com/album/2P5wpnFllJIwWKfdA2Aywa) | 3:00 |
 | 139 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 |
-| 140 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1AZNIyhxBOfty70opsM176) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 |
+| 140 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 |
 | 141 | [Colored Drumsticks](https://open.spotify.com/track/3258U6VvLSH68WAyZ1X0yM) | [Geo Boman](https://open.spotify.com/artist/7hHwpEqRmw6D1kVrPXeuEQ) | [Colored Drumsticks](https://open.spotify.com/album/6m0GMR5nl3nzAoGtPUQWM5) | 1:41 |
 | 142 | [Coral Sea](https://open.spotify.com/track/2oFYTpXSwprSjZUflMnOZn) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/3PIyYWe2rAaqEVruPOCewu) | 1:41 |
 | 143 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 |

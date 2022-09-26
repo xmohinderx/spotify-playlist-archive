@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 19702,
+  "num_followers": 19718,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMDYwYTJkODA4MWFhZDNlM2YxNGE3ZDk4ODQyNjMxOTA2",
+  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMDk3YjU1NjAyYTIwNDdlYTUxNzAzNDExNTQxY2RiNzFk",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -187,22 +187,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         }
       ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+      "duration_ms": 216226,
+      "name": "S\u00f3 Dan\u00e7o Samba",
+      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -223,6 +223,26 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "S\u00f3 Dan\u00e7o Samba",
-      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Police & Thieves",
-        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
       "artists": [
         {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
         }
       ],
-      "duration_ms": 244109,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
+      "duration_ms": 168480,
+      "name": "Rudy, A Message To You",
+      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -499,18 +499,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
+        "name": "Police & Thieves",
+        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
       },
       "artists": [
         {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Rudy, A Message To You",
-      "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
+      "duration_ms": 244109,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
+      },
+      "artists": [
+        {
+          "name": "Smoke City",
+          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Underwater Love",
+      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
-      },
-      "artists": [
-        {
-          "name": "Smoke City",
-          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Underwater Love",
-      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Endangered Species (Bonus Edition)",
         "url": "https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
+      "duration_ms": 165280,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -683,6 +667,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
-        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118361,
-      "name": "O Pato - Ultimate Mix",
-      "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
         "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 246600,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118361,
+      "name": "O Pato - Ultimate Mix",
+      "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "O Morro (N\u00e3o Tem Vez)",
-      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "O Morro (N\u00e3o Tem Vez)",
+      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
     },
     {
       "added_at": "2020-11-10 18:47:22",

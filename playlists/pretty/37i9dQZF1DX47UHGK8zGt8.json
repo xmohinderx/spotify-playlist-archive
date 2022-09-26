@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 350667,
+  "num_followers": 350967,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMTgzMSwwMDAwMDAwMDM5MDBiZTQ1MzNmMzg5ODE1ZDllNmUwZDUyYTA3NWM4",
+  "snapshot_id": "MTY2MjEzMTgzMSwwMDAwMDAwMDM0MjZkYzQ2ZmUwODQwYmFhZGIyYjQzMDc0MmMyZDNj",
   "tracks": [
     {
       "added_at": "2022-09-02 03:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -263,42 +263,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "4 da manh\u00e3",
-        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "4 da manh\u00e3",
-      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -319,18 +283,38 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Infinito Particular",
-        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
+        "name": "4 da manh\u00e3",
+        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Vilarejo",
-      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
+      "duration_ms": 216428,
+      "name": "4 da manh\u00e3",
+      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -351,22 +335,34 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+        "name": "Infinito Particular",
+        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+      "duration_ms": 209546,
+      "name": "Vilarejo",
+      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -387,18 +383,22 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 171360,
       "name": "\u00c9 Voc\u00ea - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -831,6 +831,22 @@
       "duration_ms": 216336,
       "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -903,22 +919,6 @@
       "duration_ms": 227604,
       "name": "Te Fa\u00e7o um Cafun\u00e9",
       "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

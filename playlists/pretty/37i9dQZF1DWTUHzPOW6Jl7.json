@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 321745,
+  "num_followers": 322094,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDAyM2RlZjE5MDkwZDVjMWYzYWIwY2ViYTE3MzAyY2Q1",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMGFmZGQ3MzRkOWI1MjU0MzQ3MGUwN2EwMGNlNGEyOTI3",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 259720,
       "name": "Love in This Club (feat. Young Jeezy)",
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
       "added_at": "2022-08-25 12:17:17",
       "album": {
         "name": "Over It",
@@ -591,6 +575,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -627,38 +627,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "My Own Lane (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 217800,
       "name": "Show Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -715,6 +699,22 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
         }
       ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1271,22 +1287,6 @@
       "duration_ms": 185000,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/58oryymPZNdtS2z8Une6NJ"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
         "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
       },
@@ -1559,22 +1579,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
-      "duration_ms": 167186,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+      "duration_ms": 236826,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1591,22 +1607,6 @@
       "duration_ms": 208040,
       "name": "Can't Raise a Man",
       "url": "https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2022-08-02 10:25:51",

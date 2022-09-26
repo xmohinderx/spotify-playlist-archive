@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s.
 
-309 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
+310 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-05-11 |  |
 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 | 2021-04-29 | 2022-07-29 |
 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/18piene9mIdOJA2dura9LH) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [Bridget Jones’s Baby \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc) | 3:37 | 2021-07-20 | 2022-07-28 |
+| [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 | 2022-05-11 |  |
 | [All I Ever Need Is You](https://open.spotify.com/track/359IJq43c4SVrf5ZeUDiFl) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [All I Ever Need Is You](https://open.spotify.com/album/1b65R3vz02Asj7XVnV2872) | 2:35 | 2021-04-29 | 2022-04-21 |
 | [At The Hop](https://open.spotify.com/track/3QujhpwgBUDjwWttXwQQbt) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [At the Hop](https://open.spotify.com/album/6DLH2JBsIRiV4K8Svr2160) | 2:29 | 2021-04-29 | 2022-04-20 |
 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 | 2022-05-11 |  |
@@ -227,7 +228,7 @@
 | [September](https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Essential Earth, Wind & Fire](https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg) | 3:35 | 2021-04-29 | 2022-01-16 |
 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 | 2021-04-29 |  |
 | [Sexy Eyes \- Single Version](https://open.spotify.com/track/2iZ4OR1aZTINYlyk2hwTnB) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Completely Hooked](https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib) | 3:00 | 2021-04-29 | 2022-07-27 |
-| [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2021-04-29 |  |
+| [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2021-04-29 | 2022-09-26 |
 | [Shake Your Body \(Down to the Ground\)](https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 7:59 | 2021-04-29 | 2022-04-20 |
 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 | 2021-04-29 |  |
 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 | 2021-04-29 |  |

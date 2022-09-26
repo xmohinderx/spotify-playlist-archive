@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-391 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
+392 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-03-12 | 2022-07-29 |
 | [Uh Huh](https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:58 | 2020-06-12 | 2021-05-28 |
 | [Underdog](https://open.spotify.com/track/3FGiFUJRRp5RGikVrs6kig) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog](https://open.spotify.com/album/01aNLzRaKJogmxt3hDeII2) | 3:28 | 2020-03-07 | 2022-04-21 |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-25 |  |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-02-25 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2022-07-21 |  |
 | [Unwritten](https://open.spotify.com/track/7hhAwcMTdCHxuYkCHCfzw7) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/4LOqtdV9dCY7NX7iNK1lBe) | 4:19 | 2019-10-31 | 2022-04-21 |
@@ -398,6 +399,6 @@
 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 | 2020-07-07 | 2021-10-12 |
 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2022-03-25 | 2022-04-20 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-03-25 |  |
-| [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 | 2020-05-07 |  |
+| [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 | 2020-05-07 | 2022-09-26 |
 
 \*This playlist was first scraped on 2019-07-29. Prior content cannot be recovered.

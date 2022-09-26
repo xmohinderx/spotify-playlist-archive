@@ -4,7 +4,7 @@
 
 > The best mix of hip hop, pop, country, dance and classic anthems for the game day warm\-up.
 
-172 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/2c4mXWBS69QfC9FqBdmGou)
+173 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/2c4mXWBS69QfC9FqBdmGou)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2021-09-07 |  |
 | [Back To Back](https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Back To Back](https://open.spotify.com/album/79qV4McLzhs8U3FyRKnocz) | 2:50 | 2021-09-07 | 2022-07-29 |
 | [Bartier Cardi \(feat\. 21 Savage\)](https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:44 | 2021-09-07 | 2022-06-02 |
+| [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2022-09-02 |  |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7nfmK6oHPDlAd68A11d7AN) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:06 | 2021-09-07 | 2022-07-29 |
 | [Blasé \(feat\. Future & Rae Sremmurd\) \- Louis the Child Remix](https://open.spotify.com/track/2NAZcL9tLUkdMMb5v3xFVG) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Blasé \(feat\. Future & Rae Sremmurd\) \[Remixes\]](https://open.spotify.com/album/3p9GkUQ1DYdesCz6FPCz3B) | 3:48 | 2021-09-07 | 2022-07-27 |
 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 | 2021-09-07 | 2022-07-28 |
@@ -135,7 +136,7 @@
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-09-07 |  |
 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 | 2021-09-07 | 2022-06-04 |
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2021-09-07 | 2022-07-29 |
-| [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2021-09-07 |  |
+| [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2021-09-07 | 2022-09-26 |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2021-09-07 | 2022-07-27 |
 | [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Horse of a Different Color](https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH) | 3:20 | 2021-09-07 | 2022-07-29 |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-09-07 |  |

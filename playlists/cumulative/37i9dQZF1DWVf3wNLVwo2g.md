@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-248 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+249 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 | 2021-09-14 |  |
 | [Emotions And Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 3:14 | 2021-09-14 | 2022-07-25 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-09-14 |  |
-| [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 | 2021-09-14 |  |
+| [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 | 2021-09-14 | 2022-09-26 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 |  |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-09-14 |  |
 | [Ex\-Factor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/344UhJfaYw10xfEr94BBGm) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 6:11 | 2022-03-08 |  |
@@ -75,6 +75,7 @@
 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/39fzx9j370ejpus9l3OiYw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 2:33 | 2021-09-14 | 2022-07-29 |
 | [Get Out \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JJnHhdZKl55JW2OHBEya8) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 3:45 | 2022-03-08 | 2022-09-15 |
 | [Get Out \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0QvvK86gAGLFgkawAy94dT) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6) | 3:45 | 2021-09-14 | 2022-07-29 |
+| [Get Out \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4wpnaKhEwkB9fv7BNLjasK) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 3:45 | 2022-03-08 |  |
 | [Girls Just Wanna Have Fun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:43 | 2021-09-14 |  |
 | [God is a woman \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:22 | 2021-09-14 |  |
 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 | 2021-09-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: \u00d8rdop Wolkenscheidt Artwork: Thami Nabil",
-  "num_followers": 92217,
+  "num_followers": 92257,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcyODg1MCwwMDAwMDAwMGI1YzRhMzQ3YjRhMmQ4ZGRhZWEzNGNmYTc1MzcwNjA1",
+  "snapshot_id": "MTY2MzcyODg1MCwwMDAwMDAwMGNiZDNkZDU1MGViOTI1ODRhMWRjMTcxZGNmM2Q3Mjgz",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "Voz",
@@ -543,6 +527,22 @@
       "duration_ms": 208000,
       "name": "Afterburn",
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "millennial falcon (episode I)",
-        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
       },
       "artists": [
         {
-          "name": "ed leigh",
-          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
         }
       ],
-      "duration_ms": 194788,
-      "name": "30",
-      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
+      "duration_ms": 289371,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -629,20 +629,36 @@
       "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
+      "added_at": "2022-08-03 02:51:09",
       "album": {
-        "name": "Uncanny Being (Violin Study #2)",
-        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
+        "name": "millennial falcon (episode I)",
+        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
       },
       "artists": [
         {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+          "name": "ed leigh",
+          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
         }
       ],
-      "duration_ms": 383680,
-      "name": "Uncanny Being (Violin Study #2)",
-      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
+      "duration_ms": 194788,
+      "name": "30",
+      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -659,38 +675,6 @@
       "duration_ms": 181366,
       "name": "Oneness",
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
-      },
-      "artists": [
-        {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -725,20 +709,40 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Time Traveller",
-        "url": "https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L"
+        "name": "Uncanny Being (Violin Study #2)",
+        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
       },
       "artists": [
         {
-          "name": "Koloah",
-          "url": "https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM"
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
         }
       ],
-      "duration_ms": 269206,
-      "name": "Time Traveller",
-      "url": "https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a"
+      "duration_ms": 383680,
+      "name": "Uncanny Being (Violin Study #2)",
+      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "UMMA (Remix)",
+        "url": "https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        },
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "UMMA - Arssalendo Remix",
+      "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -755,6 +759,38 @@
       "duration_ms": 434383,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "Time Traveller",
+        "url": "https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L"
+      },
+      "artists": [
+        {
+          "name": "Koloah",
+          "url": "https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM"
+        }
+      ],
+      "duration_ms": 269206,
+      "name": "Time Traveller",
+      "url": "https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a"
     },
     {
       "added_at": "2022-09-14 04:00:00",
@@ -781,58 +817,6 @@
       "url": "https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "UMMA (Remix)",
-        "url": "https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F"
-      },
-      "artists": [
-        {
-          "name": "BLUEM",
-          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
-        },
-        {
-          "name": "Arssalendo",
-          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "UMMA - Arssalendo Remix",
-      "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
-    },
-    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "Eve",
@@ -847,6 +831,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "it's a secret / sunflower",
+        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

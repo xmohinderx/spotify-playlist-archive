@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,126 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,202 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 46 | [Ready Steady \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク\)](https://open.spotify.com/track/3gkNuMdF4BgdEQRr0UuOfl) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Ready Steady/Forward](https://open.spotify.com/album/38WKL8r6mZSsqQC6PUXG2e) | 3:30 |
 | 47 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
 | 48 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 49 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
-| 50 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
+| 49 | [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 |
+| 50 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
 
-Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGQwNWU4MDZiOTEyYzViNmRhOGE2N2YxYTdhOTc0YjQ0`
+Snapshot ID: `MTY2Mzg1ODgwMCwwMDAwMDAwMGFiNDY4NTIxZjYyNDU1ZTRiMTY2Y2M2M2Q3OTRiMTU5`

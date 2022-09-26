@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-354 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+355 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 | 2021-10-21 | 2022-04-19 |
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-10-21 |  |
 | [Creo en Ti](https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF) | 2:43 | 2021-10-21 |  |
-| [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-10-21 |  |
+| [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-10-21 | 2022-09-26 |
 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 | 2021-10-21 | 2022-07-07 |
 | [Cuando estés aquí](https://open.spotify.com/track/1yO5KgygGOA8FsZOhmyrUb) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Cuando estés aquí](https://open.spotify.com/album/34gcIlhIwf5ErP6Hg6wpGv) | 3:10 | 2021-10-21 | 2022-04-18 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 | 2021-10-21 |  |
@@ -181,6 +181,7 @@
 | [Lo Nuestro Vale Más](https://open.spotify.com/track/6y5oTJz2ch5Xw8LNbOSEgj) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Lo Nuestro Vale Más](https://open.spotify.com/album/3YLLprZSzUxIhuTPiUqIqQ) | 3:27 | 2021-10-21 | 2022-07-27 |
 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 | 2021-10-21 |  |
 | [Lo Que Tenías Conmigo](https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Lo Que Tenías Conmigo](https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb) | 3:53 | 2021-10-21 |  |
+| [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 | 2022-03-18 |  |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Lo Que un Hombre Debería Saber](https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi) | 3:14 | 2022-03-18 | 2022-09-07 |
 | [Lo Siento](https://open.spotify.com/track/2KazMPytQllwzQLF5CNdf3) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Andrea Chaparro](https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:39 | 2022-01-21 | 2022-04-21 |
 | [Lo Siento Mucho](https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho](https://open.spotify.com/album/5AG046KuFMxYuCBl8sLqJd) | 3:18 | 2021-10-21 | 2022-07-29 |

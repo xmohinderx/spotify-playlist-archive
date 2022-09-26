@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-144 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+145 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Passage](https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Antarctican Dream Machine](https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz) | 3:23 | 2022-08-11 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 |  |
+| [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 |  |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2022-07-27 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 |  |
@@ -108,7 +109,7 @@
 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 | 2022-03-17 |  |
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-08 |  |
 | [Seconds](https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC) | 2:03 | 2022-03-17 | 2022-07-29 |
-| [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 |  |
+| [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 | 2022-09-26 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-07-29 |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 | 2022-07-28 |

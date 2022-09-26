@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-164 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+165 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 | 2022-07-05 |  |
 | [North Side Gal](https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69) | 2:31 | 2022-07-05 |  |
 | [North Side Gal](https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/2z1GaPw5X4d7HHRSIwxInv) | 2:31 | 2022-05-06 | 2022-07-29 |
-| [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 | 2022-07-05 |  |
+| [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 | 2022-07-05 | 2022-09-26 |
 | [Northern Girl](https://open.spotify.com/track/6gldKmiWRakgio6WSudzq2) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G), [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY) | [Stockholm Blue](https://open.spotify.com/album/4EdDqsAZAUZhdZOU5eQ0jX) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 | 2022-07-05 |  |
 | [Once More](https://open.spotify.com/track/7My40AGXwPAULqqRBzvb4R) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [NOLA](https://open.spotify.com/album/7pO86OkIacdDzNQtsvaL0J) | 2:19 | 2022-05-06 | 2022-07-29 |
@@ -119,6 +119,7 @@
 | [Rebel Rouser](https://open.spotify.com/track/0Efs1YYiqSm9hDbCEt7tmp) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangy Guitar](https://open.spotify.com/album/0mvf51wLOb54DvwStywQHl) | 2:25 | 2022-05-06 | 2022-07-29 |
 | [Rebel Rouser](https://open.spotify.com/track/7jZwak3w1Sbwkb8aqusUwi) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangin' The Golden Hits](https://open.spotify.com/album/5Q1rt5amRpPHzxAQnJkmd0) | 2:33 | 2022-07-05 |  |
 | [Red Cadillac And A Black Moustache](https://open.spotify.com/track/3GehJ8OZucZbEYmoB8fFRb) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Rockabilly Sunset](https://open.spotify.com/album/75Arzpfai83IJjlYWZwGwG) | 2:35 | 2022-05-06 | 2022-07-28 |
+| [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 | 2022-09-02 |  |
 | [Red Hot](https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Very Best of Billy Lee Riley \- Red Hot](https://open.spotify.com/album/4RwrbZL7arossJkEToJsQi) | 2:29 | 2022-05-06 | 2022-07-29 |
 | [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 | 2022-07-05 | 2022-08-29 |
 | [Red Hot Car](https://open.spotify.com/track/4HoMuhnMw4ATOpfoI1gIym) | [Bobby Verne](https://open.spotify.com/artist/4vV8C8MfhRTOkl4PWVUF06) | [Keb Darge and Little Edith's Legendary Wild Rockers 5](https://open.spotify.com/album/2wrotF5eXgi7xCCKfqp4Jt) | 2:34 | 2022-05-06 | 2022-07-18 |

@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-212 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+213 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,9 +132,10 @@
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2022-05-06 |  |
 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 | 2022-07-22 |  |
 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 | 2022-09-16 |
-| [Not the One](https://open.spotify.com/track/481ZLYM7FUam5FACXysCev) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Not the One](https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e) | 2:16 | 2022-08-26 |  |
+| [Not the One](https://open.spotify.com/track/481ZLYM7FUam5FACXysCev) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Not the One](https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e) | 2:16 | 2022-08-26 | 2022-09-26 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-05-06 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-07-22 |  |
+| [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 | 2022-09-23 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-05-17 | 2022-07-27 |
 | [One More Time \(feat\. Alida\) \- Klingande Remix](https://open.spotify.com/track/1D5BuoAA7BwQyBQ6KDsxbF) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [One More Time \(feat\. Alida\) \[Klingande Remix\]](https://open.spotify.com/album/6DWo0iW2Ry5UO3cQjaEJqZ) | 2:45 | 2022-05-06 | 2022-07-29 |
 | [Only For The Better](https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Only For The Better](https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl) | 2:48 | 2022-05-06 |  |

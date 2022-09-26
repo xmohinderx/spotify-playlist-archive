@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Nu vet jag precis vad jag vill ha: EN GAMMAL AMAZON!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,680 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,833 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 47 | [Valhalla](https://open.spotify.com/track/1icRHA6kFSipRbZREQPaA0) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Valhalla](https://open.spotify.com/album/7zTXNgqWQVExnZfN6PKI2n) | 3:04 |
 | 48 | [KLAMYDIA](https://open.spotify.com/track/5B1DtTYmgPEuGN26kPhE43) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KLAMYDIA](https://open.spotify.com/album/5mIF1TlZRyKw7RqZpfCN7w) | 2:39 |
 | 49 | [Trombone](https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Trombone](https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT) | 2:46 |
-| 50 | [Ooa hela natten](https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox) | [Attack](https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh) | [Rätt stuk](https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW) | 4:13 |
+| 50 | [Legenden Om Mange](https://open.spotify.com/track/4W0Jsiw7Rbxp9BGChwz4js) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC), [HENO](https://open.spotify.com/artist/4IKiD6do1SVAEARBUbBF6r) | [Legenden Om Mange](https://open.spotify.com/album/1mWtV61d4Q5d8L4VPszDTG) | 2:38 |
 
-Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMDNhODNjZjI1OWQyMWIwOTMzZjQ2ZWYyZGM3YzUyNzk0`
+Snapshot ID: `MTY2Mzg4NDAwMCwwMDAwMDAwMGE1M2NiOTQwOTUyZjkxN2Y4OWIxMWIwNjkzZjdmYzYz`

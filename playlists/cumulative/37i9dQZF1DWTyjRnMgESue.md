@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-338 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+339 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
 | [DIM](https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1OgtOEJaZLO4zm7mq9MnvK) | 4:31 | 2021-11-19 | 2022-07-14 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2022-06-17 |
-| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 |  |
+| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 | 2022-09-26 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-06-17 |  |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-11-19 | 2022-02-22 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
@@ -210,6 +210,7 @@
 | [maybe it's just me \- Alternative Version](https://open.spotify.com/track/7b8zYGiLswyGvuAGKkEEiV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [maybe it's just me \(Alternative Version\)](https://open.spotify.com/album/6OIblzPfUlSDAeCzFnDkzf) | 3:29 | 2021-11-19 | 2022-02-22 |
 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 | 2021-11-19 | 2022-07-27 |
 | [Message in a Bottle](https://open.spotify.com/track/20umbRtGLy493kML1VedCq) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Message in a Bottle](https://open.spotify.com/album/01H7dJjwrFUd0Q5Q0wxRVG) | 2:54 | 2021-11-19 | 2022-04-20 |
+| [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 | 2022-09-23 |  |
 | [Mind of Its Own](https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Mind of Its Own](https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D) | 3:21 | 2021-12-03 | 2022-07-07 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-01-07 | 2022-07-02 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-19 | 2022-03-26 |

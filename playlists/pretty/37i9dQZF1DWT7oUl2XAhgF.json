@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 143631,
+  "num_followers": 143899,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGQ4ZWI3ZWFkZGU4YWJhNzU1MGI1NDE0YmI0MWNhMWRh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDZmYmQ1YjFkNTg4YWIwYmUxNjc2Nzc0YTdlYjllMjkw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "A Little Honey",
+      "url": "https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "A Little Honey",
-      "url": "https://open.spotify.com/track/1q5wF1wZQD41ura41yVqXb"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 210454,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Lazy Days",
         "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222320,
       "name": "Sun Go Down",
       "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 224730,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Building Balance",
         "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 224730,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
-      "added_at": "2022-04-05 15:36:09",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "The Dip Delivers",
@@ -799,6 +783,22 @@
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
+      "added_at": "2022-04-05 15:36:09",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Stand For Myself",
@@ -917,20 +933,56 @@
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "The Buttshakers",
+          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
         }
       ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+      "duration_ms": 156733,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Last Call For Coco",
+        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 163766,
+      "name": "Love To Last",
+      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -957,42 +1009,6 @@
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
-      },
-      "artists": [
-        {
-          "name": "The Buttshakers",
-          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
-    },
-    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Piece of Me",
@@ -1007,6 +1023,22 @@
       "duration_ms": 204747,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Trade of Hearts",
+      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1045,38 +1077,6 @@
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Trade of Hearts",
-      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Last Call For Coco",
-        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 163766,
-      "name": "Love To Last",
-      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Sorry You Couldn't Make It",
@@ -1107,30 +1107,6 @@
       "duration_ms": 235213,
       "name": "It Rains Love",
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Human (feat. Vince Harder & Louis Baker)",
-        "url": "https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        },
-        {
-          "name": "Vince Harder",
-          "url": "https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M"
-        },
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Human (feat. Vince Harder & Louis Baker)",
-      "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1171,18 +1147,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Human (feat. Vince Harder & Louis Baker)",
+        "url": "https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        },
+        {
+          "name": "Vince Harder",
+          "url": "https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M"
+        },
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
         }
       ],
-      "duration_ms": 201501,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv"
+      "duration_ms": 196840,
+      "name": "Human (feat. Vince Harder & Louis Baker)",
+      "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 201501,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv"
     }
   ],
   "unique_name": "Retro Soul",

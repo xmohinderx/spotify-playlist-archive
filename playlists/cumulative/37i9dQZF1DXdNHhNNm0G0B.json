@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+    },
+    {
+      "album": {
         "name": "Gone Clear",
         "url": "https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u"
       },
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 214786,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"

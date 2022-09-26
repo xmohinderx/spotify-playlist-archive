@@ -4,7 +4,7 @@
 
 > You say guilty, we say non stop bangers!
 
-448 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/3E1uCCU01gqnp80UIJaAJv)
+449 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/3E1uCCU01gqnp80UIJaAJv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 | 2021-12-28 | 2022-07-21 |
 | [Come Clean](https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:34 | 2022-04-07 | 2022-04-21 |
 | [Come On Eileen](https://open.spotify.com/track/3xKsPtA5XG91Zlh0SyycmM) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Come On Eileen / Dubious](https://open.spotify.com/album/6NzkNnLVrSumwkftZcNfkn) | 3:25 | 2021-11-13 | 2022-07-29 |
+| [Come On Eileen \- Single Edit](https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Come On Eileen / Dubious](https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK) | 3:25 | 2022-09-05 |  |
 | [Complicated](https://open.spotify.com/track/2IiNA0s5eQBSjwK4iNeUvW) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/7h6XeTzy0SRXDrFJeA9gO7) | 4:04 | 2021-11-13 | 2022-07-29 |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2022-06-20 |  |
 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 | 2021-11-13 | 2022-07-29 |
@@ -163,7 +164,7 @@
 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 | 2021-11-13 | 2022-07-29 |
 | [Graduation \(Friends Forever\)](https://open.spotify.com/track/45V4Mk7vZV2b9JfSWuUX9m) | [Vitamin C](https://open.spotify.com/artist/3OsUvoKmZA2gw8rETtxGlz) | [Vitamin C](https://open.spotify.com/album/1LbkPqgfdATHN9nonNp1np) | 5:40 | 2021-11-13 | 2022-07-29 |
 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 | 2021-11-13 | 2021-12-24 |
-| [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 | 2021-12-28 |  |
+| [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 | 2021-12-28 | 2022-09-26 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2021-11-13 | 2022-07-29 |
 | [Here's to the Night](https://open.spotify.com/track/4tgeQrPu5xkrnwErym2JsJ) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Horrorscope](https://open.spotify.com/album/2aO4ZbunEAG1iaw45Aiosv) | 4:09 | 2022-04-07 | 2022-04-19 |
 | [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 | 2021-11-13 | 2022-07-29 |

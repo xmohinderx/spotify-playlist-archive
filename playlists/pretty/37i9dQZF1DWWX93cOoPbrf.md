@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,383 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,607 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 28 | [Ave De Mal Agüero](https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ave De Mal Agüero](https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX) | 3:07 |
 | 29 | [Presumo Lo Que Tengo](https://open.spotify.com/track/6CwFy3iB0Rtcbuy0Ip4Vhk) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Presumo Lo Que Tengo](https://open.spotify.com/album/3Z4S8Mqj3PSFpuT6Nd9A1R) | 3:18 |
 | 30 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
-| 31 | [Seguimos De Pie M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
+| 31 | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/track/0I1MRgCGWi6cHiSWIv6L0j) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Seguimos De Pie AKA M Gordo](https://open.spotify.com/album/3Z8HTMWbdLKXvVrN0v3YTH) | 2:54 |
 | 32 | [Los Billetes](https://open.spotify.com/track/4CcFT2GlTajlWUWncgXv0p) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [Grupo Mi Revolucion](https://open.spotify.com/artist/0xN8GVH0vVNe7PSDPrqJAl) | [Los Billetes](https://open.spotify.com/album/4JXdC67ZZEC1vqj65uh3Y4) | 3:26 |
 | 33 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
 | 34 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,402 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,407 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 9 | [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 |
 | 10 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
 | 11 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 |
-| 12 | [Mumpsimus](https://open.spotify.com/track/7rtqxc9XHdKMuXtMx5pE4E) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Mumpsimus](https://open.spotify.com/album/522FzSPIqNqXVxhr7A3MmK) | 4:21 |
+| 12 | [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 |
 | 13 | [Tzatzìki](https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 6:31 |
 | 14 | [Auburn](https://open.spotify.com/track/52NXnWXFTTsd4YK4foqL5Y) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 3:46 |
 | 15 | [Bitcoins](https://open.spotify.com/track/1qMOqqSRssiThb0XUSDyvz) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:22 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 37 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 |
 | 38 | [Believe it or not](https://open.spotify.com/track/16v7VHdADS6oFZOBohb6W7) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Believe it or not](https://open.spotify.com/album/7mgfEI0lCUTUSMTgdprAZq) | 4:32 |
 | 39 | [Monkey Burns Lab](https://open.spotify.com/track/09wFS50QSqlwF8YvKvdxVO) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Breakout](https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg) | 5:19 |
-| 40 | [Animalcules](https://open.spotify.com/track/1Dp9cU6Cf2Ccu0o9LyFOA9) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Animalcules](https://open.spotify.com/album/1i4ife8Bxw31nzxYV30IBh) | 6:10 |
+| 40 | [Animalcules](https://open.spotify.com/track/08iC6paJaIkY2EJTAl5jlX) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 6:10 |
 | 41 | [Carol](https://open.spotify.com/track/3vKxUFJKFewfZYCPsxHECn) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 4:01 |
 | 42 | [TV](https://open.spotify.com/track/4BCtRbanTX0wtLjx7OMHmP) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Hooligan](https://open.spotify.com/album/4UYQpLLPcjxsdNe4Lj6CcW) | 6:09 |
 | 43 | [Bos](https://open.spotify.com/track/7BmjMQJhGJIRYUEjXuly6p) | [The Milk Factory](https://open.spotify.com/artist/0wC564zQY4BubuRD9OXXYe) | [Bos](https://open.spotify.com/album/35pwKyPKH2GTuhDeo296La) | 6:04 |
-| 44 | [Waksi](https://open.spotify.com/track/04UtGDGd2196p3Z0t1DMCv) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Waksi](https://open.spotify.com/album/6KzDyvv51a6uZAKIF0LLvV) | 3:35 |
+| 44 | [Waksi](https://open.spotify.com/track/6klvTcqZqEdAU7UvKJmX8C) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:35 |
 | 45 | [Nineteen Seventy Fourths](https://open.spotify.com/track/4oh6KyvTpJu2CFlucJ15xg) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:15 |
 | 46 | [Cosmic Masadāni](https://open.spotify.com/track/2DluvgMtwnSbBubxLYCZ87) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Samā'ī](https://open.spotify.com/album/4eCzs66aUrEzb3P8vqgYfm) | 4:12 |
 | 47 | [Shooting Stars](https://open.spotify.com/track/1J2xcunIugYhmtlKPFXZdf) | [Julien Tassin](https://open.spotify.com/artist/7hNM1DFNLvzEUVJtZdg1ND), [Dré Pallemaerts](https://open.spotify.com/artist/3KEOwvDwVcQsdjP8Fdunc0), [Nic Thys](https://open.spotify.com/artist/1EO0AEYzcsOWlTvoA86SN0) | [Shooting Stars](https://open.spotify.com/album/6GkKIDX0S4jJuYkgJVzoX7) | 5:06 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 62 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 |
 | 63 | [Final Curtain Call](https://open.spotify.com/track/66NducW8qYmayPWnPJ8WmP) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Final Curtain Call](https://open.spotify.com/album/5Fo6ik6xr82bmL8ugtsz22) | 6:05 |
 | 64 | [Cinder Bay](https://open.spotify.com/track/25XCseTFdKLuaCG01dT3Kj) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Cinder Bay](https://open.spotify.com/album/5Q1KqAvLtRcSIFrxUdYZtQ) | 4:44 |
-| 65 | [Honu](https://open.spotify.com/track/2a0BmJt3vqnyrz9xaNnyot) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Honu](https://open.spotify.com/album/3mVXSxRPdBmrr7E854vH92) | 3:42 |
+| 65 | [Honu](https://open.spotify.com/track/6YcVox42IUeHfHRNxrj1WR) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:42 |
 | 66 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
 | 67 | [Cumulus](https://open.spotify.com/track/5uFYKPsV8x6D2swS6IXcWC) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 4:46 |
 | 68 | [Dark Days](https://open.spotify.com/track/05spsFQqhEvEUcfIxf5Ewp) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Dark Days](https://open.spotify.com/album/3CLAV70LJPGP4OZhyTdmyb) | 5:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 99 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 100 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGMzNmY1YjU1MDcwZjAzMWM2MGUyYzViYTdhNTIwNThk`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGRkMzFkMTA0ZmZiYTNkNzI5YzhiODRkMjAxMzNjNWMw`

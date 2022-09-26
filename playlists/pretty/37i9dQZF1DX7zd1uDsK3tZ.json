@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 49870,
+  "num_followers": 49984,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMDY2NzBiMTMyOTI1YTFhNmQzNTFlN2IxZjdkNGU1YTJl",
+  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMGUxMWEzZGYzYzQ5NjkxYjhiYjE0MzkxNDZmMDY0ZDNh",
   "tracks": [
     {
       "added_at": "2022-09-23 19:17:07",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -451,18 +435,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -479,6 +463,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -735,6 +719,22 @@
       "duration_ms": 244866,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -767,6 +767,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -819,6 +835,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "The 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "I Second That Emotion",
+      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -831,22 +863,6 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -867,38 +883,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Look At Us",
-        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
         "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+        "name": "Look At Us",
+        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
         }
       ],
-      "duration_ms": 193573,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
+      "duration_ms": 190080,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Station to Station (2016 Remaster)",
         "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 243280,
       "name": "Golden Years - 2016 Remaster",
       "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 184381,
+      "name": "Sound and Vision - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 199293,
       "name": "Les Fleurs",
       "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 184381,
-      "name": "Sound and Vision - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Year of the Cat",
-        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 400066,
-      "name": "Year of the Cat",
-      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 306666,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Year of the Cat",
+        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 400066,
+      "name": "Year of the Cat",
+      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Up, Up And Away",
-        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
       "artists": [
         {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 163346,
-      "name": "Up, Up and Away",
-      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+        "name": "Up, Up And Away",
+        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "The 5th Dimension",
+          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
         }
       ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+      "duration_ms": 163346,
+      "name": "Up, Up and Away",
+      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Between the Lines (Remastered)",
-        "url": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
       "artists": [
         {
-          "name": "Janis Ian",
-          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 283880,
-      "name": "At Seventeen - Remastered",
-      "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Between the Lines (Remastered)",
+        "url": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
+      },
+      "artists": [
+        {
+          "name": "Janis Ian",
+          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+        }
+      ],
+      "duration_ms": 283880,
+      "name": "At Seventeen - Remastered",
+      "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     }
   ],
   "unique_name": "Sunny Side Up",

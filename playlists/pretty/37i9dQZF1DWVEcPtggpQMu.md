@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=7Fic5eRsS4asQlK\-vSZUKA">Shooterkhumz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,297 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,307 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

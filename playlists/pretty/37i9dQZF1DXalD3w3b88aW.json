@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDQzNzc4ZWNmYmY5M2FjNjFhMjk4MTRhNzgxYWUyYzBk",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGFkNjJkZTQ0MWI4OWYyZTI1NjMxMzFkNzIwNzBmNjc0",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 70000,
-      "name": "Yo Yeah",
-      "url": "https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -371,34 +355,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
         }
       ],
-      "duration_ms": 70253,
-      "name": "Drown in It",
-      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 120933,
-      "name": "Never Felt This Way",
-      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
+      "duration_ms": 70000,
+      "name": "Yo Yeah",
+      "url": "https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -419,18 +387,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 141440,
-      "name": "F.U.S.S. (Interlude)",
-      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
+      "duration_ms": 120933,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -447,6 +415,38 @@
       "duration_ms": 104093,
       "name": "Come Over Interlude",
       "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 70253,
+      "name": "Drown in It",
+      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 141440,
+      "name": "F.U.S.S. (Interlude)",
+      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 100680,
-      "name": "Puff's Intro",
-      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 107533,
       "name": "Soul Intact - Interlude",
       "url": "https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 100680,
+      "name": "Puff's Intro",
+      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+        "name": "Miss Thang",
+        "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
       "artists": [
         {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Whoomp (Interlude)",
-      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
+      "duration_ms": 97240,
+      "name": "Woman In Me - Interlude",
+      "url": "https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Miss Thang",
-        "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
       "artists": [
         {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
         }
       ],
-      "duration_ms": 97240,
-      "name": "Woman In Me - Interlude",
-      "url": "https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK"
+      "duration_ms": 216320,
+      "name": "Whoomp (Interlude)",
+      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Still Ghetto",
-        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 48933,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Kima, Keisha & Pam",
         "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 158030,
       "name": "There Will Be No Fuck Tonight (Interlude)",
       "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Still Ghetto",
+        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 48933,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 84600,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 70386,
       "name": "Definition of a Bad Girl (Interlude)",
       "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 84600,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 81133,
-      "name": "Ghetto (Interlude)",
-      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Kima, Keisha & Pam",
         "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 82457,
       "name": "Truth or Dare (Interlude)",
       "url": "https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 81133,
+      "name": "Ghetto (Interlude)",
+      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-08-26 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,185 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,533 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 20 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
 | 21 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 22 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
-| 23 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
-| 24 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
+| 23 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
+| 24 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 | 25 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 |
 | 26 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 27 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Born and Raised In Compton](https://open.spotify.com/track/23trPalTVGb4H4CzyHrQ9W) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 3:25 |
 | 50 | [Sprinkle Me \(feat\. Suga\-T\)](https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Suga T](https://open.spotify.com/artist/4cX9ggFy3pBFNyJOoVQCHF) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:10 |
 
-Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMGEwMjVmZWNlYzcxNjZlNjEyZDM1ZDViZjFlZGNhMjJi`
+Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMDU0ZTBkNzE4ZDM4YmNjYmM5ZjRhYzEzZTBjMzcwNDlj`

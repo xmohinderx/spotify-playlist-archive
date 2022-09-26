@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-199 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+200 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Califas](https://open.spotify.com/track/5doK3h4v26QUPSfipZJBuu) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Jared Watson of Dirty Heads](https://open.spotify.com/artist/1rDWfKTXV9EaAydhQbTtv9) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 3:15 | 2021-12-10 | 2022-06-22 |
 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 | 2022-08-05 |  |
 | [Catching Lightning](https://open.spotify.com/track/0c0OK6ACguL8yMJzwnVnL2) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Catching Lightning](https://open.spotify.com/album/39pbDhzcXTqeuCDgwdTIM6) | 3:14 | 2021-12-10 | 2022-07-29 |
+| [Catching Lightning](https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:16 | 2022-08-05 |  |
 | [Closer To The Sun](https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer To The Sun](https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Closer to the Sun](https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer to the Sun](https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW) | 2:25 | 2022-07-06 |  |
 | [Collie Man](https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Everything You Need](https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6) | 2:13 | 2022-07-06 |  |
@@ -119,7 +120,7 @@
 | [Middle Finger](https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Middle Finger](https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH) | 3:26 | 2021-12-10 |  |
 | [More Than Love](https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [More Than Love](https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Mountain \(with Clinton Fearon\)](https://open.spotify.com/track/0qmYEbDogh2bJ3E0xfkTAS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Mountain \(with Clinton Fearon\)](https://open.spotify.com/album/61wODmcLOdpjVAQFQ46a9k) | 5:16 | 2021-12-10 | 2022-08-17 |
-| [My Wave](https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [My Wave](https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD) | 3:09 | 2021-12-10 |  |
+| [My Wave](https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [My Wave](https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD) | 3:09 | 2021-12-10 | 2022-09-26 |
 | [My Way Out](https://open.spotify.com/track/7lqFfTDNavCqNQ1xEEVQlB) | [Tunnel Vision](https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv) | [My Way Out](https://open.spotify.com/album/6EzQvRBqoGUvTrwyHAytSl) | 4:16 | 2021-12-10 | 2022-07-28 |
 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/0c8evdQNBWPtimiOrk15zB) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/album/1FKJMAtB80EITlI5kxD9Y1) | 3:47 | 2021-12-10 | 2022-08-06 |
 | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr) | 3:59 | 2021-12-10 | 2022-07-29 |

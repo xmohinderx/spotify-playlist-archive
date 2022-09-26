@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 67943,
+  "num_followers": 68019,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDBlNjQ0ZTAyOGE0YTRiMGViYTU2MDg2MzhhY2Q4NjFk",
+  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDQwYmQzNDlmZjc3MjhiYTk3YWQ2M2EyNGNhZGI5Njk3",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Cambio de Clima",
         "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 241520,
       "name": "No Ando Solo",
       "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
     },
     {
       "added_at": "2022-08-17 17:45:27",

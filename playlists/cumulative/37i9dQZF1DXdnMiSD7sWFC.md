@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-130 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
+131 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2022-01-12 |  |
 | [Cycle](https://open.spotify.com/track/1HtbUYSTOQI8rSenhstELT) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/17gQSZgGgvXMme3fqktfKT) | 3:50 | 2022-01-12 | 2022-08-09 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2022-01-12 | 2022-07-29 |
+| [Different Kinds of Light](https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:05 | 2022-01-12 |  |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2022-01-12 | 2022-09-15 |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2022-01-12 |  |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2022-01-12 | 2022-07-29 |
@@ -61,7 +62,7 @@
 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 | 2022-01-12 |  |
 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 | 2022-01-12 |  |
 | [If Christopher Calls](https://open.spotify.com/track/1rgn2v9Xv3UzqkpMVaap2Y) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/3NBdlknkdrCPl0H3QOTf74) | 4:00 | 2022-01-12 | 2022-07-29 |
-| [If You Call](https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [If You Call](https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K) | 5:47 | 2022-01-12 |  |
+| [If You Call](https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [If You Call](https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K) | 5:47 | 2022-01-12 | 2022-09-26 |
 | [In Your Eyes](https://open.spotify.com/track/4RyCx8Z2lBO3w3FzcVq9Ok) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/19eBS7pEsntVjYu1Sj7g9Z) | 3:07 | 2022-01-12 | 2022-07-29 |
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2022-01-12 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 |  |

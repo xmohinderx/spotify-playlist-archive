@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw" >Elaine</a>
 
-140 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+141 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Doorstep](https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Doorstep](https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4) | 3:54 | 2022-04-21 | 2022-07-08 |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-05-21 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
-| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-08 |  |
+| [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-08 | 2022-09-26 |
+| [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-08 |  |
 | [Eshu](https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [Eshu](https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd) | 3:20 | 2022-04-28 | 2022-05-06 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-02-02 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-07-01 |  |

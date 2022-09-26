@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Joe Strummer",
-  "num_followers": 198858,
+  "num_followers": 199137,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzQxMCwwMDAwMDAwMDhjZTMxNTZiN2IxNjdjYzY0ZWZiZWI2YTYyZjdmYjUy",
+  "snapshot_id": "MTY2MzMzMzQxMCwwMDAwMDAwMDk1ZDA2ODM2NjUzOWQxYjY3NmVjMTE1MTdiNGNiMzg3",
   "tracks": [
     {
       "added_at": "2022-09-16 13:03:30",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
+        "name": "San Quentin",
+        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -551,26 +567,6 @@
       "duration_ms": 193320,
       "name": "Bigmouth Strikes Again - 2011 Remaster",
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -591,18 +587,22 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "San Quentin",
-        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 237039,
       "name": "Time is Running Out",
       "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "Kill Or Be Killed",
-        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
         }
       ],
-      "duration_ms": 299060,
-      "name": "Kill Or Be Killed",
-      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
       },
       "artists": [
         {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "Imploding The Mirage",
-        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
+        "name": "Imploding The Mirage",
+        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
     },
     {
       "added_at": "2022-09-16 13:03:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-16 13:03:30",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Satellite of Love",
-      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
-    },
-    {
-      "added_at": "2022-09-16 13:03:30",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 192440,
       "name": "The Guns of Brixton - Remastered",
       "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
+    },
+    {
+      "added_at": "2022-09-16 13:03:30",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Satellite of Love",
+      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
     },
     {
       "added_at": "2022-09-16 13:03:30",

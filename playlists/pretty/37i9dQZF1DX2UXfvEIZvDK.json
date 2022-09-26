@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 586941,
+  "num_followers": 587160,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3MjU4NiwwMDAwMDAwMDE5NmI3OWUyYjYxZDc0NDFmZDc3OTE0NDA4ZWFiMzY5",
+  "snapshot_id": "MTY2Mzc3MjU4NiwwMDAwMDAwMGU1YTVlYjVkN2JjNDI5NjM5NDI2YWM2MmI5Mzc4YWE0",
   "tracks": [
     {
       "added_at": "2022-09-21 15:03:06",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-21 15:03:06",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
-    },
-    {
-      "added_at": "2022-09-21 15:03:06",
-      "album": {
         "name": "Into The Wild (Music For The Motion Picture)",
         "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
+    },
+    {
+      "added_at": "2022-09-21 15:03:06",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 264706,
+      "name": "It's Been Awhile",
+      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
     },
     {
       "added_at": "2022-09-21 15:03:06",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-21 15:03:06",
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
-    },
-    {
-      "added_at": "2022-09-21 15:03:06",
-      "album": {
         "name": "One Hot Minute (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248640,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "added_at": "2022-09-21 15:03:06",
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
     },
     {
       "added_at": "2022-09-21 15:03:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-21 15:03:06",
       "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
-      },
-      "artists": [
-        {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Hey Julie",
-      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
-    },
-    {
-      "added_at": "2022-09-21 15:03:06",
-      "album": {
         "name": "Way down We Go (Stripped)",
         "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 208213,
       "name": "Way down We Go - Stripped",
       "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
+    },
+    {
+      "added_at": "2022-09-21 15:03:06",
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Hey Julie",
+      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
     }
   ],
   "unique_name": "Chill Rock",

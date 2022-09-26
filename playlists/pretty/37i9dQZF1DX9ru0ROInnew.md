@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,943 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,019 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 66 | [Amigos y Enemigos \(feat\. Bad Bunny & Almighty\) \- Remix](https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ) | [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Amigos y Enemigos \(Remix\)](https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF) | 4:55 |
 | 67 | [MIB](https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:14 |
 | 68 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
-| 69 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |
-| 70 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
+| 69 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
+| 70 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |
 | 71 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
 | 72 | [Subimos de Rango](https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Subimos de Rango](https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626) | 4:26 |
 | 73 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MTY2MDc1ODMyNywwMDAwMDAwMDBlNjQ0ZTAyOGE0YTRiMGViYTU2MDg2MzhhY2Q4NjFk`
+Snapshot ID: `MTY2MDc1ODMyNywwMDAwMDAwMDQwYmQzNDlmZjc3MjhiYTk3YWQ2M2EyNGNhZGI5Njk3`

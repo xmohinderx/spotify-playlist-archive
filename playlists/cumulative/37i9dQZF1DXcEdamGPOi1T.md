@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-235 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
+236 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 | 2022-07-26 |  |
 | [Income Tax](https://open.spotify.com/track/4uVMCHKp6Zfz7MidZO4u6B) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Greatest Hits Vol.1](https://open.spotify.com/album/6lu96wXodYiSB0UxccpBud) | 4:06 | 2022-05-27 | 2022-06-05 |
 | [Infini](https://open.spotify.com/track/7ej04ASvoUa7vOSgeRXD8m) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Tout est différent](https://open.spotify.com/album/3elrlfc7QRnF0DmDsvEfZa) | 2:41 | 2022-05-27 | 2022-07-29 |
+| [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2022-08-27 |  |
 | [Irrational](https://open.spotify.com/track/09m6It4feoA7uVhZxWUcbt) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 2:49 | 2022-05-27 | 2022-07-15 |
 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 | 2022-05-27 | 2022-06-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-05-27 |  |
@@ -239,7 +240,7 @@
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-26 |  |
 | [With You \- Frank Walker Remix](https://open.spotify.com/track/06Z7Hy2LUzbcSFmWzwkun1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [With You \(Frank Walker Remix\)](https://open.spotify.com/album/7mgxrTvbIw7k1Vaij5EPbE) | 3:26 | 2022-06-24 | 2022-07-09 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-27 |  |
-| [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-06-17 |  |
+| [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-06-17 | 2022-09-26 |
 | [À ma manière](https://open.spotify.com/track/0N0ym8cUNFLLK2PhiENWrh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:13 | 2022-05-27 | 2022-07-28 |
 | [Ça fait mal](https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 4:12 | 2022-05-27 | 2022-07-17 |
 | [Étrange Mélange](https://open.spotify.com/track/6SDvUvw56XxqtKGDT232io) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Étrange Mélange](https://open.spotify.com/album/4S8j0Eh34tHtWLBOtvvevk) | 3:00 | 2022-05-27 | 2022-06-08 |

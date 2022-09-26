@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGUxZTQwYWQzNzgwODg0OTQ3N2RiYzU3NDU0ZDY0OGRl",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDMxODBlNGIyZjVmNzkyOWYzNGM2ZWI2NjhjNWVmNjcx",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Evering Road (Deluxe)",
-        "url": "https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 226268,
-      "name": "Little Bit of Love",
-      "url": "https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 405320,
       "name": "Up&Up",
       "url": "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Evering Road (Deluxe)",
+        "url": "https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 185016,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "The Sound Of Sunshine",
-        "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "The Sound Of Sunshine",
-      "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Look For The Good",
         "url": "https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 239697,
       "name": "Look For The Good - Single Version",
       "url": "https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "The Sound Of Sunshine",
+        "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "The Sound Of Sunshine",
+      "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Crocodile Tears (feat. Jens Hult)",
-        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Crocodile Tears (feat. Jens Hult)",
-      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 158474,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Crocodile Tears (feat. Jens Hult)",
+        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Crocodile Tears (feat. Jens Hult)",
+      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Off",
+        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 165604,
+      "name": "Off",
+      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Off",
-        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 165604,
-      "name": "Off",
-      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
     },
     {
       "added_at": "2022-09-21 10:12:07",

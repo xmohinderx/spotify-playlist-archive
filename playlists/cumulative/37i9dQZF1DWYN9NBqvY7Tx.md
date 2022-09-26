@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-289 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+290 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Heavenly Side \- NGHTMRE Remix](https://open.spotify.com/track/4cU3Hs8L9JyN5m37jmIQx2) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Heavenly Side \(NGHTMRE Remix\)](https://open.spotify.com/album/5he3CTgNUnAI5R5hmzWdwH) | 3:23 | 2022-05-06 | 2022-07-27 |
 | [Here We Go](https://open.spotify.com/track/1v85j98q0mYn4zCLc7VEc0) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Here We Go](https://open.spotify.com/album/3TSMxxaSmqfteJ08NVpPfi) | 2:38 | 2022-07-14 | 2022-07-18 |
 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 | 2022-07-14 |  |
-| [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-20 |  |
+| [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-20 | 2022-09-26 |
 | [Hold On](https://open.spotify.com/track/2ovGnmrSBfwTSXKhf5dvZv) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [James Burki](https://open.spotify.com/artist/4G8wfydMXBt8bJQNitLqMM) | [Hold On](https://open.spotify.com/album/1FAMnk7iSLxkm91LJJy6Ra) | 3:29 | 2022-05-30 | 2022-06-08 |
 | [Holding On \- Kompany Remix](https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Drown/Holding On \(Remixes\)](https://open.spotify.com/album/6Hs3Ge3zoT6G75akPaB27p) | 3:12 | 2022-05-13 | 2022-07-28 |
 | [Home](https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Home](https://open.spotify.com/album/0cir0jEdKvJeIR6JXoDypo) | 2:49 | 2022-06-24 | 2022-07-29 |
@@ -264,6 +264,7 @@
 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 | 2022-05-06 |  |
 | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/album/0c7bLm2cqhAWQ4BhovOUdm) | 2:38 | 2022-05-06 | 2022-07-29 |
 | [Turning Down](https://open.spotify.com/track/0QOOmrlptVOHQht9PCRank) | [NOES](https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET), [Evir](https://open.spotify.com/artist/1JhXQJwJ0OkUv7cFl8ojMl), [AKRA](https://open.spotify.com/artist/0U17MNm6v4NSGjWdTuCvfn) | [Turning Down](https://open.spotify.com/album/4ePCKQtkqjixyLLoOfxm9Y) | 3:48 | 2022-05-06 | 2022-07-11 |
+| [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-09-23 |  |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2022-06-03 | 2022-09-23 |
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-08-25 |
 | [u.](https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml) | 2:54 | 2022-08-12 | 2022-08-21 |

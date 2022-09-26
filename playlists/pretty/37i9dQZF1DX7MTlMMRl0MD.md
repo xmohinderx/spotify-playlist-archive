@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Becky G & Daviles de Novelda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848,810 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,848,994 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 72 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 |
 | 73 | [Soy Yo](https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Soy Yo](https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU) | 3:49 |
 | 74 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
-| 75 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 |
-| 76 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
+| 75 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
+| 76 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 |
 | 77 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 |
 | 78 | [Solo Quise Quererte](https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Episodes](https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6) | 3:37 |
 | 79 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 81 | [Verdad O Reto](https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 |
 | 82 | [Cuentale](https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Cuentale](https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM) | 3:40 |
 | 83 | [Traiciónalo Conmigo](https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Traiciónalo Conmigo](https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ) | 3:45 |
-| 84 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 |
-| 85 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
-| 86 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
+| 84 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
+| 85 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 |
+| 86 | [Vete Y Aléjate De Mí](https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [I Love Bachata \(Bachata Hits\)](https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s) | 4:34 |
 | 87 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 |
 | 88 | [Don Juan & Cupido](https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Don Juan & Cupido](https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx) | 3:45 |
 | 89 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 |
 | 90 | [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 |
-| 91 | [Vete Y Aléjate De Mí](https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [I Love Bachata \(Bachata Hits\)](https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s) | 4:34 |
+| 91 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
 | 92 | [No Vuelve](https://open.spotify.com/track/5kR0sGmfwqWZmN0pe2JNG1) | [Yunel](https://open.spotify.com/artist/0mTBRMGmIlPdcYyXUrG6A1) | [No Vuelve](https://open.spotify.com/album/0nfmBq64BRvuTfKmgVDej4) | 3:14 |
-| 93 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
-| 94 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
+| 93 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
+| 94 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
 | 95 | [Reflejo](https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Reflejo](https://open.spotify.com/album/1re6ndovzDhuHMhfYVfG2D) | 4:13 |
 | 96 | [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 |
-| 97 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
+| 97 | [Nunca Me Amaste](https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Tiempo](https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg) | 3:40 |
 | 98 | [Quien Te Ve Te Compra](https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Quien Te Ve Te Compra](https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH) | 3:51 |
 | 99 | [Hablamos En La Cama](https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:00 |
 | 100 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDQyYjM4YTdjZTJiYzJkN2NjM2ExZGM3MGQyZjkxMWJm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGNiMjM1NjkzYzQ3NWM4NGY3MzEyZjVlODZkOWMwY2Ez`

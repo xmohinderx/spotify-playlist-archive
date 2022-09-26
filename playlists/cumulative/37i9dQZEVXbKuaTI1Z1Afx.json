@@ -430,6 +430,28 @@
     },
     {
       "album": {
+        "name": "Smile Now Cry Never",
+        "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
+      },
+      "artists": [
+        {
+          "name": "Ms Krazie",
+          "url": "https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz"
+        },
+        {
+          "name": "Chino Grande",
+          "url": "https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "A Gangster's Wife",
+      "url": "https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi"
+    },
+    {
+      "album": {
         "name": "A Man Without Love",
         "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
       },
@@ -6975,7 +6997,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
@@ -7769,7 +7791,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 269066,
       "name": "Let You Break My Heart Again",
       "url": "https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx"
@@ -8883,7 +8905,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -12867,7 +12889,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
@@ -13553,6 +13575,24 @@
       "duration_ms": 165314,
       "name": "Thinking with My Dick (feat. Juicy J)",
       "url": "https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz"
+    },
+    {
+      "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "album": {

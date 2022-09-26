@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-256 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+258 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-06-07 |  |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-06-07 | 2022-09-21 |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2022-06-07 |  |
+| [Evening Light](https://open.spotify.com/track/0WXWiXfd4V6MCkBkrUV0NK) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Evening Light](https://open.spotify.com/album/1Ky1QmifzrNmlaUtprdyBX) | 2:21 | 2022-09-23 |  |
 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2022-06-07 |  |
 | [Experience](https://open.spotify.com/track/6sJjlOz5zFl1pjREvRQtRW) | [Carlton Rimor](https://open.spotify.com/artist/4J75uik8WDEqMyN1SaZpoO) | [Experience](https://open.spotify.com/album/320qy6TKMN61kHyDTmEaFJ) | 2:21 | 2022-06-07 | 2022-07-28 |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-06-07 |  |
@@ -133,6 +134,7 @@
 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-06-07 | 2022-07-20 |
 | [Memory of Home](https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF) | [Meghan Koenig](https://open.spotify.com/artist/45otUyl0ZstiBv2Me81kb1) | [Thoughtful Breeze](https://open.spotify.com/album/4tXtJ6Gvs7xSdt9bvFik5k) | 2:40 | 2022-06-07 | 2022-07-29 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-06-07 |  |
+| [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 | 2022-09-23 |  |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-06-07 |  |
 | [Mondegreen](https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Mondegreen](https://open.spotify.com/album/1TWsYhkMKywsJN0fNA08Yt) | 2:24 | 2022-06-07 |  |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2022-06-07 |  |
@@ -153,7 +155,7 @@
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-06-07 |  |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-06-07 | 2022-09-21 |
 | [Once](https://open.spotify.com/track/5OsxhKJ3Z3RMlrQVWRvylV) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Once](https://open.spotify.com/album/4POKSPEZ3GKHt6FZ3f8pmR) | 2:33 | 2022-06-07 | 2022-07-29 |
-| [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2022-06-07 |  |
+| [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2022-06-07 | 2022-09-26 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2022-06-07 |  |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-06-07 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-06-07 | 2022-07-20 |
@@ -174,7 +176,7 @@
 | [Progression](https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Progression](https://open.spotify.com/album/307SxWZ8sKnBFJMDe176cI) | 2:21 | 2022-06-07 |  |
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2022-06-07 | 2022-09-21 |
 | [Pure Joy](https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Pure Joy](https://open.spotify.com/album/2PCZzOR3EMGI7m6yXLceZN) | 2:49 | 2022-07-19 |  |
-| [purple](https://open.spotify.com/track/6V3dW0yDfaVmruskoTBZdr) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [glass eyes](https://open.spotify.com/album/35kYcnARS82yoocVD5eghR) | 2:33 | 2022-06-07 | 2022-09-23 |
+| [purple](https://open.spotify.com/track/6V3dW0yDfaVmruskoTBZdr) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [glass eyes](https://open.spotify.com/album/35kYcnARS82yoocVD5eghR) | 2:33 | 2022-06-07 |  |
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2022-06-07 |  |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-06-07 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-06-07 |  |
@@ -185,7 +187,7 @@
 | [Remembrance](https://open.spotify.com/track/1BCCWdwTZKOsvO8RInNJqX) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Remembrance](https://open.spotify.com/album/7iXEJWNcMTG8h4CEQeFUqQ) | 2:14 | 2022-06-07 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2022-06-07 |  |
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-06-07 |  |
-| [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2022-06-07 |  |
+| [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2022-06-07 | 2022-09-26 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-06-07 |  |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-06-07 |  |
 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2022-06-07 |  |
@@ -214,7 +216,7 @@
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2022-06-07 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-06-07 |  |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-06-07 |  |
-| [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2022-06-07 |  |
+| [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2022-06-07 | 2022-09-26 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2022-06-07 |  |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-06-07 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-06-07 |  |

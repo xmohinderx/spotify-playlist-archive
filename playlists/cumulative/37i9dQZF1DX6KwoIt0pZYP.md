@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-363 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+364 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [RHCF](https://open.spotify.com/track/3TJNv5opy2HuHXpWVrmvjb) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [RHCF](https://open.spotify.com/album/18ShEgSaxeooOUrtyMgrtn) | 3:04 | 2022-03-29 | 2022-04-21 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-01-28 |  |
 | [Rise from That Grave](https://open.spotify.com/track/73zUsdEURW8XGo0lW5sOEV) | [Navakaine](https://open.spotify.com/artist/0B3WJF8227hFTw63XPQ891) | [Rise from That Grave](https://open.spotify.com/album/3QoLD9ajafgo2FymhRE6o0) | 3:35 | 2022-03-29 | 2022-05-26 |
-| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-22 |  |
+| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-22 | 2022-09-26 |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-04-15 | 2022-07-26 |
 | [sallow](https://open.spotify.com/track/5oT0zTD2I38HEqJpPUYBaS) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [sallow](https://open.spotify.com/album/7GjFkGCRrqXnLiDs111rWU) | 4:05 | 2022-03-29 | 2022-04-18 |
 | [Save Me](https://open.spotify.com/track/41fuNlLeayZwPlWYsl4S4C) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Save Me](https://open.spotify.com/album/6TorTO7wMnMRLSLo9p3uXr) | 3:40 | 2022-06-24 | 2022-07-23 |
@@ -272,6 +272,7 @@
 | [Scent](https://open.spotify.com/track/2X6QqSEKR4gUUjiGduKLNU) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Scent](https://open.spotify.com/album/5rJaLwAQFrXSsOpXQ91YqM) | 2:51 | 2022-03-29 | 2022-04-26 |
 | [Scorpio](https://open.spotify.com/track/4cHo8XS9nZwqQUPrGt50zA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Scorpio](https://open.spotify.com/album/592fFIUinSfJVKa7kLl3l6) | 3:36 | 2022-04-15 | 2022-04-25 |
 | [Shouldn't Be](https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/5PsKfMP5ISDmpr4iKhchmO) | 3:30 | 2022-01-28 | 2022-09-23 |
+| [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 | 2022-09-16 |  |
 | [show me love](https://open.spotify.com/track/63arzfybM8HLzxELw91F0X) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [show me love](https://open.spotify.com/album/2ZgAPpcdOVm9E5IZkaryes) | 2:58 | 2022-03-29 | 2022-04-20 |
 | [Siamese](https://open.spotify.com/track/5An220qZmv5fNeKJmaahWJ) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Siamese](https://open.spotify.com/album/41UGbBMtAAlqrcGUGvw8tM) | 2:25 | 2022-03-29 | 2022-04-16 |
 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 | 2022-08-26 | 2022-09-12 |

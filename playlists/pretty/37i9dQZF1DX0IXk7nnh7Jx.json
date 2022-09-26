@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42441,
+  "num_followers": 42455,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGZlNTVjYTdhYTA1ZjQ3YWUyMmE3MjdiOWY0MDM4OWM1",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDU5ZmNiZTU4ZGY3ZDg5YmVlNWQ0OWM0MWRjN2JlZjE3",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -331,6 +331,42 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Luke Smallbone",
+          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "When the Well Runs Dry",
         "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
       },
@@ -347,22 +383,6 @@
       "duration_ms": 240853,
       "name": "When the Well Runs Dry",
       "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -395,26 +415,6 @@
       "duration_ms": 277565,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -671,38 +671,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Take All of Me",
-        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Marcus",
-          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Take All of Me",
-      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Worth It All",
-        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 217675,
-      "name": "Worth It All",
-      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Person In Christ",
         "url": "https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Take All of Me",
+        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Marcus",
+          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Take All of Me",
+      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Worth It All",
+        "url": "https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Worth It All",
+      "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 274293,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 244270,
       "name": "Hiding Lord",
       "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 274293,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 320003,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -943,22 +943,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "I Am One",
-        "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
+        "name": "Never Grow Tired",
+        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "The Evidence",
+          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
         }
       ],
-      "duration_ms": 250409,
-      "name": "I Am One",
-      "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
+      "duration_ms": 261736,
+      "name": "Never Grow Tired",
+      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -979,34 +975,38 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Never Grow Tired",
-        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
+        "name": "I Am One",
+        "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
       },
       "artists": [
         {
-          "name": "The Evidence",
-          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 261736,
-      "name": "Never Grow Tired",
-      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
+      "duration_ms": 250409,
+      "name": "I Am One",
+      "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
     },
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "A New Heart",
-        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
       },
       "artists": [
         {
-          "name": "Cory Emery",
-          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 197462,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
     }
   ],
   "unique_name": "Indie Spirit",

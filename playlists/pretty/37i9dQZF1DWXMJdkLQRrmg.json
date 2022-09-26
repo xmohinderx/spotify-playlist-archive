@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 285971,
+  "num_followers": 286057,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGRkYTk2YmJjYzRmM2EzYzU1OGVkZGI4OWRhMDE4OTg2",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDYyNGYyOWQyZDBkMmNkNjg1MWVlNTUyMWUyY2NkZjRk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Superstition",
-        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
-      },
-      "artists": [
-        {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 99226,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 99226,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "The Shower Scene (Acoustic)",
-        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
+        "name": "go",
+        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 182883,
-      "name": "The Shower Scene - Acoustic",
-      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
+      "duration_ms": 198400,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
+      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
     },
     {
       "added_at": "2022-09-23 04:01:00",

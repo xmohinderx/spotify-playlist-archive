@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-191 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
+192 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2022-04-21 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
+| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 |  |
 | [Makin' Memories](https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:52 | 2022-02-18 |  |
 | [Mama Said](https://open.spotify.com/track/1G7COoZddkxeS4J9wp3aWM) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mama Said](https://open.spotify.com/album/0rbncsbptDoCmN28OHJAUt) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-04-01 |  |
@@ -138,7 +139,7 @@
 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 | 2021-11-12 | 2022-06-27 |
 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 | 2021-11-12 | 2022-04-21 |
 | [Only A Clown](https://open.spotify.com/track/443WZASeFIs9JNLT3GOReS) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Stand\-In](https://open.spotify.com/album/6XfhvlfOhCTpDHjNefr1pm) | 3:37 | 2022-04-01 | 2022-04-20 |
-| [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 | 2022-04-01 |  |
+| [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 | 2022-04-01 | 2022-09-26 |
 | [Out To Sea](https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/5qet4b9g14WGegggOOxz6s) | 5:51 | 2021-11-12 | 2022-07-24 |
 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 | 2021-11-12 |  |
 | [Party Boy](https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 2:33 | 2021-11-12 | 2022-07-29 |

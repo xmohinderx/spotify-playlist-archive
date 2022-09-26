@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,088 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,073 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 36 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 |
 | 37 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 38 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 |
-| 39 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 |
+| 39 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 |
 | 40 | [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 |
 | 41 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
 | 42 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 |
 | 80 | [Ruin](https://open.spotify.com/track/01S9Y2qZZkQs23TJmTmmUb) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ruin](https://open.spotify.com/album/0ZGErbeMpGiuczw2AZjUb5) | 3:30 |
 
-Snapshot ID: `MTY2Mzk1MDkxOSwwMDAwMDAwMGQyMjE2NDkxNmJlOWEzNTAxYzRiNDdhNDU3YjRiZGRk`
+Snapshot ID: `MTY2Mzk1MDkxOSwwMDAwMDAwMDdhYzgyY2YxM2Q4NjMzYWY1YmY1YzdmZWJmN2I4MzNi`

@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-175 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+176 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [My Backwards Walk \- Live at Spotify Studios NYC](https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 3:08 | 2021-10-27 |  |
 | [Nancy From Now On \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/5ZaNgNDUtgiiVgf9iJZsbx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/42Fu7ZldhKPIis5xdHtbro) | 4:10 | 2021-10-27 | 2022-07-29 |
 | [Nancy From Now On \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/6lLCsTI2SIMHTyi5AM897D) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/7LA6J1jUUYRw6KSTKxOrbG) | 4:10 | 2022-03-30 |  |
-| [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-10-27 |  |
+| [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-10-27 | 2022-09-26 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 4:52 | 2021-10-27 | 2022-07-29 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 4:52 | 2022-03-30 |  |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-27 |  |
@@ -166,6 +166,7 @@
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-03-30 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 | 2021-10-27 | 2022-07-29 |
 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:27 | 2021-10-27 |  |
+| [Uh Huh](https://open.spotify.com/track/1VLCczBRQRpFycuQ4Ce90i) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/6V7AG2aBNQRSA494JhP63y) | 2:09 | 2022-03-30 |  |
 | [Uh Huh](https://open.spotify.com/track/3XyH9KaMqaWYYd7GSjiQc6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:09 | 2022-03-30 | 2022-09-15 |
 | [Uh Huh \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:09 | 2021-10-27 | 2022-07-29 |
 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 2:15 | 2022-03-30 |  |

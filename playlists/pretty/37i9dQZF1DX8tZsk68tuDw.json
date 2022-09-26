@@ -1,6 +1,6 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Eliza Rose.",
-  "num_followers": 1995597,
+  "num_followers": 1995681,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
@@ -1411,7 +1411,7 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "One Last Time (with R3HAB)",
+        "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
       "artists": [
@@ -1422,10 +1422,14 @@
         {
           "name": "R3HAB",
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
         }
       ],
       "duration_ms": 155097,
-      "name": "One Last Time (with R3HAB)",
+      "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
       "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Sports Team
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,728 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,715 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 2 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
 | 3 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 4 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
-| 5 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 |
+| 5 | [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 |
 | 6 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 |
 | 7 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 |
 | 8 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 42 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 |
 | 43 | [Weird Me Out](https://open.spotify.com/track/7u51xdzTY7W1PgaVMVSyIU) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 3:01 |
 | 44 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 |
-| 45 | [Cut My Hair](https://open.spotify.com/track/0vhDL4PlraJhlfGYtYFaB6) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Cut My Hair](https://open.spotify.com/album/3K6BzyGqvZCujtg6nIMS3F) | 3:01 |
+| 45 | [Cut My Hair](https://open.spotify.com/track/0EK5CqqFEUSr5HgBt1Lnpt) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [House Without a View](https://open.spotify.com/album/38E9pUjpxwpxb8kqHXrAp6) | 3:01 |
 | 46 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 47 | [Same Thing](https://open.spotify.com/track/1IPqkeBkpSXFwKPMyMNLV6) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Same Thing](https://open.spotify.com/album/7LMss2uXAre6SMuq2yAXtT) | 3:24 |
 | 48 | [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 80 | [Manhattan Youth](https://open.spotify.com/track/1oPuvI6N2TDeynwrqT1K7F) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Manhattan Youth](https://open.spotify.com/album/3JpYCRNpgUuh4qvp38O5Gr) | 3:41 |
 | 81 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 |
 
-Snapshot ID: `MTY2Mzk0NzMwMCwwMDAwMDAwMGNiMzliYjg2OTcwNGJkN2ViZDU3MDAzNWJkNWZmODBm`
+Snapshot ID: `MTY2Mzk0NzMwMCwwMDAwMDAwMDkxZDU4ZGU5YzNkMWU5ZmEzODg5ODhmNjYxZmE1NWIx`

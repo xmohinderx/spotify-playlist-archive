@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2116,
+  "num_followers": 2118,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGM3Mzc1ZDUzZjA0MTFhMmE4YzkyNGMyY2E2MDljYWM0",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGZiYmVjYzhhYjkwM2Y1MWRkY2YzZjQzZTE2ZDg4MzE1",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Homme Autonome",
-        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
-      },
-      "artists": [
-        {
-          "name": "Damien Robitaille",
-          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Mot de passe",
-      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Sablier",
         "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 146866,
       "name": "Perdu",
       "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Homme Autonome",
+        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
+      },
+      "artists": [
+        {
+          "name": "Damien Robitaille",
+          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Mot de passe",
+      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Si je pleure",
-      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Citoyen d'Am\u00e9rique",
-        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
       },
       "artists": [
         {
-          "name": "Jacques Michel",
-          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 146106,
-      "name": "Am\u00e8ne-toi chez nous",
-      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 149293,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Citoyen d'Am\u00e9rique",
+        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
+      },
+      "artists": [
+        {
+          "name": "Jacques Michel",
+          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Am\u00e8ne-toi chez nous",
+      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1139,6 +1139,38 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L'heure mauve",
+        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Les fleurs d\u2019une autre dimension",
+      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
       },
@@ -1171,38 +1203,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "Comment Debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "L'heure mauve",
-        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Les fleurs d\u2019une autre dimension",
-      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mon coeur pour te garder (version bonus)",
         "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Comment Debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
         }
       ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Grand voyage d\u00e9sorganis\u00e9",
         "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
       },
@@ -1315,22 +1299,6 @@
       "duration_ms": 155626,
       "name": "La grande \u00e9vasion",
       "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1351,6 +1319,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Haute M\u00e8re",
         "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 284653,
       "name": "Le souhait de Carmen",
       "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Tout est parfait : acte un",
+        "url": "https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Arr\u00eate de danser",
+      "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Applaudissez, bande de chameaux",
         "url": "https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl"
       },
@@ -1519,18 +1535,34 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Tout est parfait : acte un",
-        "url": "https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC"
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
       "artists": [
         {
-          "name": "Tha\u00efs",
-          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
         }
       ],
-      "duration_ms": 169080,
-      "name": "Arr\u00eate de danser",
-      "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L'an 8000",
+        "url": "https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU"
+      },
+      "artists": [
+        {
+          "name": "Mononc' Serge",
+          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Vendeur de bi\u00e8re",
+      "url": "https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1555,50 +1587,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
       },
       "artists": [
         {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
         }
       ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Incarnat",
-        "url": "https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "L'an 8000",
-        "url": "https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU"
-      },
-      "artists": [
-        {
-          "name": "Mononc' Serge",
-          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Vendeur de bi\u00e8re",
-      "url": "https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp"
+      "duration_ms": 241771,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Concorde",
-        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
+        "name": "Incarnat",
+        "url": "https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS"
       },
       "artists": [
         {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
         }
       ],
-      "duration_ms": 241771,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
+      "duration_ms": 209306,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
     },
     {
       "added_at": "2022-05-25 18:00:00",

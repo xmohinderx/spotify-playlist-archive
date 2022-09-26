@@ -1376,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "The Studio Albums 2009 \u2013 2018",
+        "url": "https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Pulling Down The Ride",
+      "url": "https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS"
+    },
+    {
+      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 113333,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
