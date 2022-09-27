@@ -2,7 +2,7 @@
 
 ### [Iconos del Rock Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWYMHB55fgZrY)
 
-> Los próceres de la historia del rock nacional\. Zoé en portada.
+> Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
 202 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
 
@@ -22,7 +22,7 @@
 | [Antena \- En Vivo](https://open.spotify.com/track/4mcjz3fAxgvH3Poz7K0RUg) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Antena \(En Vivo\)](https://open.spotify.com/album/6UV8uTmGe6O6Gu7GOYo5uc) | 4:37 | 2022-01-28 | 2022-06-06 |
 | [Antes de Que Nos Olviden](https://open.spotify.com/track/3ZuGavt1YrOkg6G93lgfUw) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:47 | 2022-01-28 | 2022-07-29 |
 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 | 2022-01-28 |  |
-| [Arrullo De Estrellas](https://open.spotify.com/track/1Ou8VdIw39ATdskqSnAaFo) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 4:12 | 2022-01-28 |  |
+| [Arrullo De Estrellas](https://open.spotify.com/track/1Ou8VdIw39ATdskqSnAaFo) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 4:12 | 2022-01-28 | 2022-09-27 |
 | [Asalto Chido](https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 3:06 | 2022-01-28 | 2022-07-23 |
 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 | 2022-01-28 |  |
 | [Azul](https://open.spotify.com/track/4DfVAYN8VThaZCkobv0HJV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/44PzN4pk8LjK4uuV9QScD7) | 4:14 | 2022-01-28 | 2022-07-28 |
@@ -40,7 +40,7 @@
 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 | 2022-01-28 | 2022-05-11 |
 | [Celofán](https://open.spotify.com/track/0gqrs626vBWtIMjvt3IZFy) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Super Bee](https://open.spotify.com/album/0PfCyKFNgMtJ5Pmf4vZZEH) | 3:51 | 2022-01-28 | 2022-07-03 |
 | [Cerquita de Dios](https://open.spotify.com/track/35M0QLoa4rMGtB00y2ZNl6) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/2yIWTnXclTSk5tJAD74kgl) | 4:00 | 2022-01-28 | 2022-07-29 |
-| [Cerquita de Dios](https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:00 | 2022-01-28 |  |
+| [Cerquita de Dios](https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:00 | 2022-01-28 | 2022-09-27 |
 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 | 2022-01-28 |  |
 | [Cheve](https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:44 | 2022-01-28 |  |
 | [Chido](https://open.spotify.com/track/10lsKKlg1X31SLZSvtOHjE) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:14 | 2022-01-28 | 2022-07-25 |
@@ -58,7 +58,7 @@
 | [Danzon](https://open.spotify.com/track/60kPpb3fSu3j2kARoOaFbT) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/31fEHaKaTwJc7hPH2mc9k2) | 7:03 | 2022-01-28 | 2022-07-22 |
 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 | 2022-01-28 |  |
 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 | 2022-01-28 |  |
-| [Deja Te Conecto](https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoé](https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x) | 5:29 | 2022-01-28 | 2022-08-02 |
+| [Deja Te Conecto](https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoé](https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x) | 5:29 | 2022-01-28 |  |
 | [Deja Te Conecto](https://open.spotify.com/track/5JrRhBIp1lMDN8dNOloTfC) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Hits 01 \- 06](https://open.spotify.com/album/7egBAbeRyeOv35IfqrFqTY) | 5:29 | 2022-01-28 | 2022-07-29 |
 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 | 2022-01-28 | 2022-07-28 |
 | [Dejala Tranquila](https://open.spotify.com/track/1I93cMeIRrnOfxsEtAPNJG) | [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:21 | 2022-01-28 | 2022-06-25 |
@@ -175,7 +175,7 @@
 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:44 | 2022-01-28 |  |
 | [Santo y Lunave](https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:50 | 2022-01-28 | 2022-06-26 |
 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 | 2022-01-28 | 2022-07-17 |
-| [Si Senor](https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:13 | 2022-01-28 | 2022-09-23 |
+| [Si Senor](https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:13 | 2022-01-28 |  |
 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 | 2022-01-28 |  |
 | [Si Te Vienen a Contar](https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL) | 3:39 | 2022-01-28 | 2022-07-20 |
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 | 2022-01-28 |  |

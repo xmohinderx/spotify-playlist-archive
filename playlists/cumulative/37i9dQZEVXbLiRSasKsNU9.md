@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-824 songs - 1 day 20 hr 55 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+825 songs - 1 day 20 hr 59 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-18 | 2022-03-02 |
 | [16 Missed Calls](https://open.spotify.com/track/5jy3PPyVZDVz3XH32isESG) | [Slowed Mafia](https://open.spotify.com/artist/4tUBWUC07H4olOGBUxzsFd) | [16 Missed Calls](https://open.spotify.com/album/0CKsfE5BRVKGlp2Exyyfqc) | 3:39 | 2022-01-11 | 2022-01-15 |
 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-22 | 2022-03-16 |
-| [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-09-08 |  |
+| [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-09-08 | 2022-09-27 |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin Oficial](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-02-08 | 2022-02-23 |
 | [24hrs](https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 2:55 | 2022-07-13 | 2022-07-19 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-06-01 | 2022-06-24 |
@@ -29,6 +29,7 @@
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-18 |  |
 | [A Culpa É Tua Você Falou pra Fulana](https://open.spotify.com/track/3jdvNmhtvtk9bFb3vb6E9s) | [Selminho DJ](https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib), [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [A Culpa É Tua Você Falou pra Fulana](https://open.spotify.com/album/4GmjiPFA9UDECDAfdyXdxP) | 2:19 | 2022-09-08 | 2022-09-20 |
 | [A Dónde Quiera Que Vaya](https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 3:55 | 2022-06-23 | 2022-07-06 |
+| [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-09-26 |  |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-19 | 2022-06-08 |
 | [A Man Without Love](https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Live In Concert / All of Me](https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG) | 3:25 | 2022-04-09 | 2022-04-14 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-05-14 | 2022-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,501 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,556 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [El Retrato De Mamá](https://open.spotify.com/track/02cJPVJGbORekilKfFsYXM) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Recordando A Felipe Pirela](https://open.spotify.com/album/7CNpJIewzQkN1aI7137zED) | 5:16 |
 | 50 | [Paraíso De Dulzura](https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:35 |
 
-Snapshot ID: `Mjc3MzU1MDQsMDAwMDAwMDBkMGZkODgxNmE4ZDhjNjZiM2EwZDI3NDQ1NGM1YWYxYg==`
+Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDAyN2JhMTEwYzM2YzQzNDJjYTRlYjIwODE0NzVjODdkMQ==`

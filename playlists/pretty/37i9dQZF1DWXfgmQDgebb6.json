@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Dopein)",
-  "num_followers": 6049,
+  "num_followers": 6057,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1MDIyNywwMDAwMDAwMDIzMjVkNjQ0ZmM5NWI3YjIxZDY5MWQxYzcwNTViZGIz",
+  "snapshot_id": "MTY2Mzc1MDIyNywwMDAwMDAwMGM0Y2NmMTI1MzdlOWYwN2QxMDg0OTc2ZmVkMzQ0MzMw",
   "tracks": [
     {
       "added_at": "2022-09-21 08:50:27",
@@ -311,42 +311,6 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "Esprit",
-        "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 214918,
-      "name": "Lustre",
-      "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 254507,
-      "name": "Year to Year",
-      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
         "name": "Strawberry Kisses",
         "url": "https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6"
       },
@@ -379,6 +343,62 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
+        "name": "Esprit",
+        "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 214918,
+      "name": "Lustre",
+      "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
+        "name": "Creamppang",
+        "url": "https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Creamppang",
+      "url": "https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
         "name": "Somebody stole my phone",
         "url": "https://open.spotify.com/album/2DfuvCbS7AZeNserdLSlSO"
       },
@@ -391,6 +411,26 @@
       "duration_ms": 184818,
       "name": "Somebody stole my phone",
       "url": "https://open.spotify.com/track/6kG5ucgIjxvmBSz8UTmFMf"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
+        "name": "Electric Animal",
+        "url": "https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "Keyon Christ",
+          "url": "https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW"
+        }
+      ],
+      "duration_ms": 161437,
+      "name": "Electric Animal",
+      "url": "https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R"
     },
     {
       "added_at": "2022-09-21 08:50:27",
@@ -419,26 +459,6 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "Creamppang",
-        "url": "https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Creamppang",
-      "url": "https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
@@ -455,22 +475,18 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "Electric Animal",
-        "url": "https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc"
+        "name": "Amoo-rae-do",
+        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
       },
       "artists": [
         {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "Keyon Christ",
-          "url": "https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW"
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
         }
       ],
-      "duration_ms": 161437,
-      "name": "Electric Animal",
-      "url": "https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R"
+      "duration_ms": 108226,
+      "name": "Amoo-rae-do",
+      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
     },
     {
       "added_at": "2022-09-21 08:50:27",
@@ -491,18 +507,18 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "Amoo-rae-do",
-        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
+        "name": "HUGS",
+        "url": "https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl"
       },
       "artists": [
         {
-          "name": "COCONA",
-          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 108226,
-      "name": "Amoo-rae-do",
-      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
+      "duration_ms": 224624,
+      "name": "HUGS",
+      "url": "https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP"
     },
     {
       "added_at": "2022-09-21 08:50:27",
@@ -559,6 +575,22 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
+      },
+      "artists": [
+        {
+          "name": "Chimmi",
+          "url": "https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ"
+        }
+      ],
+      "duration_ms": 182394,
+      "name": "New",
+      "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
         "name": "Summer Soundcloud",
         "url": "https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X"
       },
@@ -579,34 +611,18 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "HUGS",
-        "url": "https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl"
+        "name": "3M",
+        "url": "https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 224624,
-      "name": "HUGS",
-      "url": "https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
-      },
-      "artists": [
-        {
-          "name": "Chimmi",
-          "url": "https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ"
-        }
-      ],
-      "duration_ms": 182394,
-      "name": "New",
-      "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"
+      "duration_ms": 162666,
+      "name": "3M",
+      "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
     },
     {
       "added_at": "2022-09-21 08:50:27",
@@ -627,22 +643,6 @@
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
-        "name": "3M",
-        "url": "https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "3M",
-      "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
     },
     {
       "added_at": "2022-09-21 08:50:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-21 08:50:27",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 180042,
-      "name": "Fish",
-      "url": "https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh"
-    },
-    {
-      "added_at": "2022-09-21 08:50:27",
-      "album": {
         "name": "PROJECT .1",
         "url": "https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 185510,
       "name": "PRETTY (feat. Nafla, Bryn)",
       "url": "https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm"
+    },
+    {
+      "added_at": "2022-09-21 08:50:27",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 180042,
+      "name": "Fish",
+      "url": "https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh"
     },
     {
       "added_at": "2022-09-21 08:50:27",

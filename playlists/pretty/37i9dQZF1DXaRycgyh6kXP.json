@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 134042,
+  "num_followers": 134177,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGU4ZTIwYzZhMWM2NmMzNGJiMTBlMTI2NDFmYjE3N2Ji",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDQ0N2M4ZmI5NmM5NzBiNGZmNTNiY2U5OWQ0ZGFlYzAy",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
         "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596773,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 156069,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Hallucinogen",
         "url": "https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 268987,
       "name": "All the Way Down",
       "url": "https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ultravisitor",
-        "url": "https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "Tommib Help Buss",
-      "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Ultravisitor",
+        "url": "https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "Tommib Help Buss",
+      "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "FTLOG",
-        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 247869,
-      "name": "FTLOG",
-      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "acceptance",
         "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 311978,
       "name": "acceptance",
       "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "FTLOG",
+        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 247869,
+      "name": "FTLOG",
+      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1471,22 +1471,6 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Acquiesce",
-        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
-      },
-      "artists": [
-        {
-          "name": "TALsounds",
-          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
-        }
-      ],
-      "duration_ms": 332121,
-      "name": "No Rise",
-      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1519,6 +1503,22 @@
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Acquiesce",
+        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
+      },
+      "artists": [
+        {
+          "name": "TALsounds",
+          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
+        }
+      ],
+      "duration_ms": 332121,
+      "name": "No Rise",
+      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
     },
     {
       "added_at": "2022-02-03 02:43:26",

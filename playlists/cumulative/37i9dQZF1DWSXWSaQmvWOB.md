@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-551 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+552 songs - 1 day 9 hr 47 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2021-12-14 |  |
 | [Family](https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family](https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ) | 3:27 | 2021-06-25 | 2021-10-29 |
 | [Feathers](https://open.spotify.com/track/4LRSIpUvaraKFoFeUalVlS) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Feathers](https://open.spotify.com/album/6WNaWwek9sMh3Ow2EcYyvC) | 3:22 | 2021-04-17 | 2021-12-01 |
+| [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-22 |  |
 | [Feelings Mutual?](https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Feelings Mutual?](https://open.spotify.com/album/1X8csoHCSCdhiM37VtKGM6) | 3:09 | 2021-07-30 | 2021-12-01 |
 | [Feels So Good Don’t It](https://open.spotify.com/track/2zjgiDtc4dutzztejez29k) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Feels So Good \(Don’t It\)](https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg) | 3:29 | 2022-07-21 |  |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2021-06-18 | 2022-09-23 |
@@ -429,7 +430,7 @@
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-07-21 |  |
 | [Someday \- Single Edit](https://open.spotify.com/track/1YFlEcAlkv01mD3RWOSeic) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Someday](https://open.spotify.com/album/20ZgiptFHLnPL6GeOJMgbU) | 3:35 | 2021-10-29 | 2022-01-14 |
 | [Someone Like You](https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ) | 4:32 | 2022-09-22 |  |
-| [Someone Like You](https://open.spotify.com/track/0gqi6ZMHHEGUHjtlsR8hrA) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:34 | 2022-06-16 |  |
+| [Someone Like You](https://open.spotify.com/track/0gqi6ZMHHEGUHjtlsR8hrA) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [No Tears In My Champagne](https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF) | 2:34 | 2022-06-16 | 2022-09-27 |
 | [Someone To Love](https://open.spotify.com/track/4fQ1RRzL8SntodxIHCeDqh) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Someone To Love](https://open.spotify.com/album/53ql8KYecZgqOmKpb9cQWY) | 3:27 | 2020-07-11 | 2021-01-09 |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2020-07-03 | 2021-06-11 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-06-03 | 2022-07-27 |

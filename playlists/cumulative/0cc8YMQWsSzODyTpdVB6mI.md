@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-84 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+85 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 |  |
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |
+| [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |
 | [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 |  |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
@@ -84,7 +85,7 @@
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
 | [The Way You Move It \- Radio Edit](https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq) | [James Juke](https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf) | [The Way You Move It](https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6) | 3:40 | 2022-08-26 |  |
 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 | 2022-09-12 |  |
-| [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 |  |
+| [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 | 2022-09-27 |
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 | 2022-07-23 |
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 |  |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |

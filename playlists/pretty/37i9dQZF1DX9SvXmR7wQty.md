@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Ingrid St\-Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,065 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Everyday](https://open.spotify.com/track/4WR4dZYoPWv0TScswcpp9E) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Everyday](https://open.spotify.com/album/6ISTSCjQij4VteTbrlpTQ9) | 2:49 |
 | 50 | [Ma promesse](https://open.spotify.com/track/5TNhRGVHRNAIHLo5Xaouzh) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ma promesse](https://open.spotify.com/album/77RhDral1NtDom4ydM19vn) | 2:28 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDYxYmM4MTdiNGM2M2JkY2JiZmRmMWI0OWQ0ZTg5MWFl`
+Snapshot ID: `MTY2NDIxNjY3MiwwMDAwMDAwMGM1MGY0NWQ1MzAyM2Q3YmJjOTc1YWJlMTIyODgwNTYw`

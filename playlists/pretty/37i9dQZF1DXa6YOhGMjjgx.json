@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 467019,
+  "num_followers": 467033,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDg5ODRkZmZkMGVjYWQwYTJlZDNhMDE5ZmRhODRmMmUx",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMGZhMThjYmE1Y2M5MWJiYzA4YWI5NWM5NzRiODc4ODhj",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Inside Voices / Outside Voices",
         "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 199928,
       "name": "TGIF (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Girl God Gun",
-        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "Girl God Gun",
-      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Call Me a Saint",
         "url": "https://open.spotify.com/album/47GkbWmABEFrS3dgRKddRO"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 200067,
       "name": "Call Me a Saint",
       "url": "https://open.spotify.com/track/5z3fn2F5AyFbsjrOyzSnAB"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Double Down",
-        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
-      },
-      "artists": [
-        {
-          "name": "Slothrust",
-          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Double Down - 2019 Mix",
-      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Stop Beating on My Heart (Like a Bass Drum)",
         "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 225068,
       "name": "Stop Beating on My Heart (Like a Bass Drum)",
       "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Double Down",
+        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
+      },
+      "artists": [
+        {
+          "name": "Slothrust",
+          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Double Down - 2019 Mix",
+      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
     },
     {
       "added_at": "2022-04-29 04:01:00",

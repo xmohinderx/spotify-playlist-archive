@@ -4,7 +4,7 @@
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-207 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/0WnDOhgeF94Bp8HM6IHbal)
+208 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/0WnDOhgeF94Bp8HM6IHbal)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Feeling You \(feat\. 샛별 Satbyeol\)](https://open.spotify.com/track/7DrZq2baW5oY8gLxs4vJgB) | [Kebee](https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt), [샛별 Satbyeol](https://open.spotify.com/artist/574XduiNwKDqtyBoEaqHTD) | [Poetree Syndrome](https://open.spotify.com/album/1PhD5hTJu0nZe3RTktDaXQ) | 3:28 | 2021-08-18 | 2022-07-28 |
 | [Fly](https://open.spotify.com/track/0AUOSdTLIjXrjFVLpoYn3p) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Black Swan Songs](https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7) | 3:21 | 2021-08-18 |  |
 | [Giant](https://open.spotify.com/track/4sFtjz0D7BYTFwwdqGEnkq) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP) | [Giant](https://open.spotify.com/album/4gCdwl8jqPWNBB4L96ugFK) | 1:16 | 2021-08-18 | 2022-07-29 |
-| [Giant](https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP) | [Giant](https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo) | 1:16 | 2021-08-18 |  |
+| [Giant](https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP) | [Giant](https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo) | 1:16 | 2021-08-18 | 2022-09-27 |
 | [Gilmak](https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 5:02 | 2021-08-18 | 2022-07-29 |
 | [Give It to H.E.R\. \(feat\. Leo Kekoa, Dok2 & Simon Dominic\)](https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leo Kekoa, Dok2 & Simon Dominic](https://open.spotify.com/artist/2qkxAjAlyP3hsxOIpXdXjK) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:14 | 2021-08-18 | 2022-07-29 |
 | [Good Life](https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:07 | 2021-08-18 |  |
@@ -197,6 +197,7 @@
 | [외톨이](https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI) | [Outsider](https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr) | [MAESTRO](https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7) | 3:11 | 2021-08-18 | 2022-07-29 |
 | [우리 같이해요](https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:58 | 2021-08-18 |  |
 | [이 구역에 미친놈은 나야 \(feat\. Geegooin & New Champ\)](https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 3:51 | 2021-08-18 |  |
+| [인생 뭐 있어? \(feat\. 양동근\)](https://open.spotify.com/track/3NkbTBpGNKQSFLpHu1q9vd) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Ill Skill](https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf) | 3:24 | 2021-08-18 |  |
 | [인생 뭐 있어? \(feat\. 양동근\)](https://open.spotify.com/track/4wLUEhXVak95Iwg7H8nVgW) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Ill Skill](https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ) | 3:24 | 2021-08-18 | 2022-07-28 |
 | [젊은이의 양지 \(feat\. MC Sniper\)](https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP), [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [Giant](https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo) | 3:50 | 2021-08-18 |  |
 | [젊은이의 양지 \(feat\. MC Sniper\)](https://open.spotify.com/track/1fA7GKYR0cOD9PF9MF2PYC) | [BAECHIGI](https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP), [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [Giant](https://open.spotify.com/album/4gCdwl8jqPWNBB4L96ugFK) | 3:50 | 2021-08-18 | 2022-07-29 |

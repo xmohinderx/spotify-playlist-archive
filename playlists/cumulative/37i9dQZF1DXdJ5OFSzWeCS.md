@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-426 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
+427 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Even When You're Nowhere Near](https://open.spotify.com/track/5nW5gpjCTCDhFTNVrvR5A8) | [Blanca Trembley](https://open.spotify.com/artist/3R5JvEGU9UdYN8uZkMjpgv) | [Even When You're Nowhere Near](https://open.spotify.com/album/1bfl1VMbr6AkHZMAnchW6N) | 2:01 | 2022-02-10 |  |
 | [Evenings](https://open.spotify.com/track/2VFuBU3z399QXQoasOm4A9) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [My Miracle](https://open.spotify.com/album/4P8Vjiw4ct2leNS4xGkkXs) | 4:19 | 2022-02-10 |  |
 | [Everytime I sleep](https://open.spotify.com/track/0L0RDiDft9D5IRLzxTuGRh) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [Everytime I sleep](https://open.spotify.com/album/4clt6pgzIPDseXZpW7Xd4W) | 1:15 | 2022-02-10 |  |
-| [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 | 2022-02-10 |  |
+| [Eyes Closed, Little One](https://open.spotify.com/track/1CyKJNVtJphqdQgFDivIsq) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/7bUXaXNfUE8gHEGk3QJmmA) | 2:01 | 2022-09-22 |  |
+| [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 | 2022-02-10 | 2022-09-27 |
 | [È ora di andare a dormire](https://open.spotify.com/track/0mGk1SJsQcAw4Vr3YPQ63Y) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [È ora di andare a dormire](https://open.spotify.com/album/7tTXoQwrhoG7laIxSwIJBs) | 1:58 | 2022-02-10 |  |
 | [Family Photo](https://open.spotify.com/track/4pE9U2DrP0VFWKnT9pxcJq) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [Family Photo](https://open.spotify.com/album/2PEV2w4qjS58I0QNFodYPy) | 1:38 | 2022-04-25 |  |
 | [Feel Free to Sleep](https://open.spotify.com/track/0PbLyrTvEMn6ED9xo1LhXy) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Feel Free to Sleep](https://open.spotify.com/album/33sXuQxHQVphqNA2P3NCFd) | 1:22 | 2022-02-10 |  |

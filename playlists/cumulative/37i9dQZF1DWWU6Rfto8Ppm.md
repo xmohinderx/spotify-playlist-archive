@@ -2,7 +2,7 @@
 
 ### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
 
-> Acuérdate de estos clásicos\. Foto: Don Omar.
+> Acuérdate de estos clásicos\. Foto: Daddy Yankee.
 
 344 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 

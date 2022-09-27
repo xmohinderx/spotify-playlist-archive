@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. La Maldita Vecindad en portada.",
-  "num_followers": 404005,
+  "num_followers": 404040,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjg2NzIxNiwwMDAwMDAwMDkxZmNlYTQwOGFjZGE2MzAwOTlkZDk4YjdlOTZkMDU3",
+  "snapshot_id": "MTY2Mjg2NzIxNiwwMDAwMDAwMGU5NjViZTYyYTVhMDc3ZTAxNmI1ODJiNmU0ZDQxMzNk",
   "tracks": [
     {
       "added_at": "2022-07-15 04:41:04",
@@ -223,6 +223,26 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Suena la Alarma",
         "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
       },
@@ -235,22 +255,6 @@
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2022-09-11 03:33:36",
@@ -279,22 +283,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "duration_ms": 218493,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -375,6 +375,22 @@
       "duration_ms": 191460,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -431,22 +447,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "La Guitarra",
-      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -495,26 +495,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Chanchos Amigos",
-        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Quereme As\u00ed",
-      "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -547,18 +527,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+      "duration_ms": 262066,
+      "name": "Quereme As\u00ed",
+      "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -591,6 +575,22 @@
       "duration_ms": 314772,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Locos y Rucas In Retro",
+        "url": "https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Sol de Medianoche",
+      "url": "https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Que Corra La Voz",
         "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Locos y Rucas In Retro",
-        "url": "https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Sol de Medianoche",
-      "url": "https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 262157,
+      "name": "Dejando Libre el Amor",
+      "url": "https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn"
+    },
+    {
       "added_at": "2022-03-11 06:00:00",
       "album": {
         "name": "Oro",
@@ -871,18 +887,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
       "artists": [
         {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 262157,
-      "name": "Dejando Libre el Amor",
-      "url": "https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn"
+      "duration_ms": 278343,
+      "name": "Entre Vos y Yo",
+      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -915,22 +931,6 @@
       "duration_ms": 189466,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 278343,
-      "name": "Entre Vos y Yo",
-      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -971,6 +971,26 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "20 Minutos",
+        "url": "https://open.spotify.com/album/2PQBj0ptx0kRiSFO4xrdSq"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 329026,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 206333,
       "name": "War 4 Peace",
       "url": "https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "20 Minutos",
-        "url": "https://open.spotify.com/album/2PQBj0ptx0kRiSFO4xrdSq"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        },
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 329026,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "El Vals Del Obrero",
-        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "El Vals del Obrero",
-      "url": "https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 214946,
       "name": "O\u00edr Tu Voz",
       "url": "https://open.spotify.com/track/68gi1yEZqkzKJPiUeZe8bI"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "El Vals Del Obrero",
+        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "El Vals del Obrero",
+      "url": "https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Ay! Ay! Amor!",
-        "url": "https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 165046,
-      "name": "Ay! Ay! Amor!",
-      "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "1997-2002",
         "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 257959,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Ay! Ay! Amor!",
+        "url": "https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 165046,
+      "name": "Ay! Ay! Amor!",
+      "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
     },
     {
       "added_at": "2021-12-21 17:00:46",

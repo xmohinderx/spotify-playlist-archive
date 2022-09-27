@@ -1,12 +1,12 @@
 {
   "description": "Mental strength begins here\u2014Dwayne Johnson\u2019s Iron Paradise Tour.",
-  "num_followers": 414452,
+  "num_followers": 414428,
   "original_name": "Dwayne Johnson's Iron Paradise Tour Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIzNTI1NywwMDAwMDAwMDNlZTdmMWQ0MGMxMjdjMzRjMTcyN2EyZmMwNmZkNjI2",
+  "snapshot_id": "MTY0MTIzNTI1NywwMDAwMDAwMGQwNWJjMGNkNmQyZmQ1MDA5YzlhNDU5MjEyMWY3OGI4",
   "tracks": [
     {
       "added_at": "2021-10-08 18:13:49",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-05-06 04:31:31",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2021-05-06 04:31:31",
-      "album": {
         "name": "I Still Am",
         "url": "https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": "2021-05-06 04:31:31",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Life by the Drop",
-      "url": "https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L"
-    },
-    {
-      "added_at": "2021-05-06 04:31:31",
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
@@ -267,6 +235,38 @@
       "duration_ms": 210253,
       "name": "Jesus Just Left Chicago - 2006 Remaster",
       "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
+    },
+    {
+      "added_at": "2021-05-06 04:31:31",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2021-05-06 04:31:31",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L"
     },
     {
       "added_at": "2021-05-06 04:31:31",

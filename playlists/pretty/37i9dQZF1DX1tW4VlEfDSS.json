@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 331400,
+  "num_followers": 331460,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGQ3Y2U1YTZkMWI5ZTY5NDA3OTNjN2RmZTlmYjQxYjYz",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDNkZTZlYzZlNzdlOTY4MTNlYzY2ZjUyMzgwMmFjOGU3",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF"
-      },
-      "artists": [
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        },
-        {
-          "name": "Charles J",
-          "url": "https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Second Chance (feat. Kimberly Davis)",
         "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 330579,
       "name": "All Love",
       "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF"
+      },
+      "artists": [
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "Charles J",
+          "url": "https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
     }
   ],
   "unique_name": "Groove Theory",

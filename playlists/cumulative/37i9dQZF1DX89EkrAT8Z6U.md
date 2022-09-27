@@ -4,7 +4,7 @@
 
 > the perfect fight scene
 
-134 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+135 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-05-25 |  |
 | [I rest my case](https://open.spotify.com/track/4SzxUhwXZfFDHdq7Ib5HxJ) | [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [I rest my case](https://open.spotify.com/album/0zmw7GZtJkp4024oDCLFXN) | 1:45 | 2022-05-25 | 2022-07-29 |
 | [I'm Only a Fool for You](https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N) | 1:01 | 2022-09-03 | 2022-09-23 |
+| [I'm Only a Fool for You](https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK) | 1:01 | 2022-09-15 |  |
 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 | 2022-05-25 | 2022-08-28 |
 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 | 2022-05-25 |  |
 | [Iceberg \(Michael 2\)](https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1) | [Diversify](https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq) | [For the Fans](https://open.spotify.com/album/1a1ljc6WvVpytVTNqzX8LV) | 1:55 | 2022-07-08 | 2022-07-15 |
@@ -89,7 +90,7 @@
 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 | 2022-07-08 |  |
 | [Naruto Bluebird Freestyle](https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Naruto Bluebird Freestyle](https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz) | 1:42 | 2022-05-25 |  |
 | [Nightmar3](https://open.spotify.com/track/4PMcBJPHgznWZsZL6bf9JV) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Nightmar3](https://open.spotify.com/album/7zNVMODjxw7qD5CSrIl2Lr) | 4:14 | 2022-05-25 | 2022-07-28 |
-| [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 | 2022-06-10 |  |
+| [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 | 2022-06-10 | 2022-09-27 |
 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 | 2022-05-25 |  |
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2022-06-01 | 2022-07-29 |
 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 | 2022-09-26 |

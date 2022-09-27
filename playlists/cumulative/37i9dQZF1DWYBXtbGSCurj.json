@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "Carro Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/0LMe1TRcRPwnE7NaSVx3AB"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184497,
+      "name": "Carro Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/6r9YvfFlg3exxuqYhIeyEv"
+    },
+    {
+      "album": {
         "name": "Carro Chefe da Leste",
         "url": "https://open.spotify.com/album/1ImWc5blhFTXxNcSvZmrcB"
       },
@@ -1785,7 +1803,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 157750,
       "name": "CRUPI\u00ca",
       "url": "https://open.spotify.com/track/4Izfv7QS5PDxmmj49xPd4N"
@@ -4357,6 +4375,24 @@
       "duration_ms": 149461,
       "name": "Joias no Meu Pesco\u00e7o",
       "url": "https://open.spotify.com/track/7rlFg7fHPv8xqCUTSULleY"
+    },
+    {
+      "album": {
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6SMCQA0rN8B9aHmXjGlqbi"
     },
     {
       "album": {
@@ -8503,7 +8539,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 289285,
       "name": "RUAS | Desconfiado",
       "url": "https://open.spotify.com/track/2cIIiDjRpXU6tBuHHn4qsp"

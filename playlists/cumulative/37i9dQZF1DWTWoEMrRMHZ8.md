@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Chico César
 
-303 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+304 songs - 18 hr 28 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 | 2021-12-24 | 2022-09-03 |
 | [Além do Infinito](https://open.spotify.com/track/5QCsVGMVZOlkEOZBbt1rn2) | [Felipe Bedetti](https://open.spotify.com/artist/0rRoreRcmmmP8eO2Y0YE7U), [Thadeu Romano](https://open.spotify.com/artist/6wdwpg3o4NArLzIZ6t6pky), [João Paulo Avelar](https://open.spotify.com/artist/4DyGoS5WDVQFtUCyVdNpBT), [Bo Hilbert](https://open.spotify.com/artist/5AwVHDSsIrlWO5DAxjyobN), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Afluentes](https://open.spotify.com/album/2QkoEuf7uxoADZoud1oI0M) | 5:20 | 2022-01-21 | 2022-03-22 |
 | [Amar de Novo](https://open.spotify.com/track/3iVsNP2H2Fx5q821ASJIsO) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj), [Leandro Léo](https://open.spotify.com/artist/4VdN6acIkpyHgNCeCCGIYh) | [Amar de Novo](https://open.spotify.com/album/7ptCUbRpVPjlOj4peciGKX) | 2:57 | 2022-07-22 | 2022-08-12 |
-| [Amorinha](https://open.spotify.com/track/3rIm3FlTa6U2wHRmphqTLh) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Amorinha](https://open.spotify.com/album/3A50JymYTybKbFC7Zjqjo7) | 3:28 | 2022-08-26 |  |
+| [Amorinha](https://open.spotify.com/track/3rIm3FlTa6U2wHRmphqTLh) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Amorinha](https://open.spotify.com/album/3A50JymYTybKbFC7Zjqjo7) | 3:28 | 2022-08-26 | 2022-09-27 |
+| [Amorinha](https://open.spotify.com/track/4jPI6pNYLxY3IVnxSyqXmn) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vestido de Amor](https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ) | 3:28 | 2022-09-23 |  |
 | [Ana Luiza](https://open.spotify.com/track/1arzdlHWPNjLd1CoCr5KTp) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Ana Luiza](https://open.spotify.com/album/45r2cAgfsQsQVeF5W2hNPV) | 3:25 | 2022-06-03 | 2022-07-16 |
 | [Ancestral Infinito](https://open.spotify.com/track/36Dqx6UNXMnVgD05anMhxj) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Em Nome da Estrela](https://open.spotify.com/album/5wZ83t7Di8TmoUP6uc6IC5) | 3:47 | 2022-06-03 | 2022-07-23 |
 | [Andança](https://open.spotify.com/track/1Ble2Jm4t60pE0HdUdP7C4) | [Luana Carvalho](https://open.spotify.com/artist/1bruUBJmfmw6jvIdvoI1pt) | [Andança](https://open.spotify.com/album/1WmXIrCYowlWITsu1k83Tz) | 3:05 | 2022-05-10 | 2022-07-02 |

@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 183807,
       "name": "Bako",
       "url": "https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f"
@@ -1813,6 +1813,24 @@
       "duration_ms": 245725,
       "name": "That's Love",
       "url": "https://open.spotify.com/track/5tI34BaM6pEPl2l0fm4jga"
+    },
+    {
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
+      },
+      "artists": [
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,248 likes - 144 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,249 likes - 144 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

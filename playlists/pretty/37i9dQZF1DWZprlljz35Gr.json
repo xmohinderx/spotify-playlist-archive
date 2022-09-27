@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 4460,
+  "num_followers": 4474,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGRlMjViMDBmMzAzNGY0ODRiOWUyMGE4NTRkODc2MDg3",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGQyOTFmZjdmNTA4N2Y4MjkxMzMyNGJiNzQ3YjM5ZWI5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "By Any Beats Necessary",
-        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
-      },
-      "artists": [
-        {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
-        }
-      ],
-      "duration_ms": 159554,
-      "name": "I Had a Woman",
-      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 216333,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "By Any Beats Necessary",
+        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "duration_ms": 159554,
+      "name": "I Had a Woman",
+      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Funk from the Trunk",
         "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 203456,
       "name": "A Blues Thang",
       "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -279,6 +279,22 @@
       "duration_ms": 161252,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Code Name Loppsi - My Lowd demo",
+      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -315,22 +331,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Well",
-        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
-      },
-      "artists": [
-        {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Code Name Loppsi - My Lowd demo",
-      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 255616,
       "name": "Stand Together - Original Mix",
       "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -439,34 +423,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "You Had It Coming",
-        "url": "https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Roy's Toy",
-      "url": "https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
-      },
-      "artists": [
-        {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
+      "duration_ms": 222000,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,22 +475,50 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dog 'n' Bone",
-        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Leaf Dog",
-          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "You Had It Coming",
+        "url": "https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Roy's Toy",
+      "url": "https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
+      },
+      "artists": [
+        {
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -543,18 +539,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+        "name": "Dog 'n' Bone",
+        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
       },
       "artists": [
         {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Leaf Dog",
+          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
         }
       ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+      "duration_ms": 157426,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
-      },
-      "artists": [
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Good & Gone / The Observer",
@@ -731,6 +715,22 @@
       "duration_ms": 295640,
       "name": "Psycho Sam",
       "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
-        "url": "https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Wee",
-          "url": "https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV"
-        }
-      ],
-      "duration_ms": 238743,
-      "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
-      "url": "https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Come on Jump Right In",
@@ -815,6 +799,22 @@
       "duration_ms": 210461,
       "name": "Come on Jump Right In",
       "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
+        "url": "https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Wee",
+          "url": "https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV"
+        }
+      ],
+      "duration_ms": 238743,
+      "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
+      "url": "https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t"
     },
     {
       "added_at": "2020-12-01 05:01:00",

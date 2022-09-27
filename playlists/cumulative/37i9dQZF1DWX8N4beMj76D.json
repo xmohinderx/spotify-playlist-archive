@@ -1077,6 +1077,24 @@
     {
       "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Story Of Isaac",
+      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
+    },
+    {
+      "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
       },
       "artists": [
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 245040,
       "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"

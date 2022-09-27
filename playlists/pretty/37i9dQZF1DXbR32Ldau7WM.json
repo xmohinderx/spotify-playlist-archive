@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: ELLEGARDEN",
-  "num_followers": 236139,
+  "num_followers": 236213,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDA2OTkyMywwMDAwMDAwMGI0NzAyZmViOGFkMDhkYzI0MGFkNWFlYzYyZGZiOTQ5",
+  "snapshot_id": "MTY2NDA2OTkyMywwMDAwMDAwMDA4OTA2OGY0YzNhNTM0MmY3NjkwOTdmMDIwZDZiMzZl",
   "tracks": [
     {
       "added_at": "2022-09-25 01:38:43",
@@ -371,38 +371,6 @@
     {
       "added_at": "2022-09-25 01:38:43",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 221167,
-      "name": "\u66d6\u6627",
-      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
-    },
-    {
-      "added_at": "2022-09-25 01:38:43",
-      "album": {
-        "name": "Strike It Out",
-        "url": "https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs"
-      },
-      "artists": [
-        {
-          "name": "MIYAVI",
-          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
-        }
-      ],
-      "duration_ms": 243004,
-      "name": "Strike It Out",
-      "url": "https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu"
-    },
-    {
-      "added_at": "2022-09-25 01:38:43",
-      "album": {
         "name": "\u611b\u5f4c\u3005",
         "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
       },
@@ -423,6 +391,38 @@
     {
       "added_at": "2022-09-25 01:38:43",
       "album": {
+        "name": "Strike It Out",
+        "url": "https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs"
+      },
+      "artists": [
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        }
+      ],
+      "duration_ms": 243004,
+      "name": "Strike It Out",
+      "url": "https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu"
+    },
+    {
+      "added_at": "2022-09-25 01:38:43",
+      "album": {
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 221167,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "added_at": "2022-09-25 01:38:43",
+      "album": {
         "name": "UGOKE",
         "url": "https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-09-25 01:38:43",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+        "name": "SLEEPLESS",
+        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
         }
       ],
-      "duration_ms": 197995,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
+      "duration_ms": 218866,
+      "name": "SLEEPLESS",
+      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     },
     {
       "added_at": "2022-09-25 01:38:43",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-09-25 01:38:43",
       "album": {
-        "name": "Focus on me",
-        "url": "https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 250219,
-      "name": "Focus on me",
-      "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
     },
     {
       "added_at": "2022-09-25 01:38:43",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-09-25 01:38:43",
       "album": {
-        "name": "SLEEPLESS",
-        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
+        "name": "Focus on me",
+        "url": "https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn"
       },
       "artists": [
         {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 218866,
-      "name": "SLEEPLESS",
-      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
+      "duration_ms": 250219,
+      "name": "Focus on me",
+      "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
     },
     {
       "added_at": "2022-09-25 01:38:43",

@@ -92,6 +92,24 @@
     },
     {
       "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/7jpwM6pHEzCa3AsrHROJtT"
+    },
+    {
+      "album": {
         "name": "BRKNHRT.",
         "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
       },
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 207893,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"

@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-350 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+351 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Hammerhead](https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Doomsday for the Deceiver](https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf) | 6:15 | 2022-07-13 |  |
 | [Hang 'Em High](https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Conformicide](https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ) | 4:49 | 2022-07-13 |  |
 | [Headshot](https://open.spotify.com/track/5yXq9gU6kktS8SnKcLFpDW) | [Thrashist Regime](https://open.spotify.com/artist/184kpg77s2jCK4Co3LgWmo) | [Carnival of Monsters](https://open.spotify.com/album/2Af67t5dOtntnzV6DBzEdN) | 3:26 | 2021-12-17 | 2022-07-23 |
-| [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 | 2022-07-13 |  |
+| [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 | 2022-07-13 | 2022-09-27 |
 | [Heavy Metal Maniac](https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW) | [Exciter](https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd) | [Heavy Metal Maniac](https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il) | 3:47 | 2022-07-13 |  |
 | [heavy negative wizard metal in\-fucking\-excelsis](https://open.spotify.com/track/1mR4HtzupjzkES0jMITFO2) | [Rebel Wizard](https://open.spotify.com/artist/3pQxKUXay8JVWWB4ri4Onv) | [Magickal Mystical Indifference](https://open.spotify.com/album/1r3ODZIBzedRb3MCHvKZdw) | 2:07 | 2021-12-17 | 2022-03-05 |
 | [Hell Unleashed](https://open.spotify.com/track/2CIGNH4B4yly6tMEC4tyFn) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Hell Unleashed](https://open.spotify.com/album/5fqyRnIp1kibjeyt6EU4Oy) | 3:57 | 2021-12-17 | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [Path of Discipline](https://open.spotify.com/track/7ek4uZo41eieLg4e9zYPcX) | [Red Death](https://open.spotify.com/artist/1uBhFijojfN4nXW4huTJ4r) | [Sickness Divine](https://open.spotify.com/album/5o517FcrGcBgyYPPcGWa30) | 3:39 | 2021-12-17 | 2022-07-16 |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(25th Anniversary\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-07-13 |  |
 | [Perpetual Blood Oath](https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl) | [Protector](https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3) | [Excessive Outburst of Depravity](https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7) | 4:13 | 2022-07-01 | 2022-07-05 |
+| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 |  |
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 | 2022-07-29 |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |

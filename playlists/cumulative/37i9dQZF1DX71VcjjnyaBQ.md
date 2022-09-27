@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-147 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+148 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 | 2021-12-21 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [StandArt](https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP) | 7:13 | 2022-05-02 | 2022-09-15 |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-12-21 |  |
+| [In The End](https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:34 | 2022-09-22 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 | 2022-06-23 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2021-12-21 |  |
 | [Indian Summer](https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Indian Summer](https://open.spotify.com/album/2SVFivIaBfPoqoFUviRirL) | 4:04 | 2022-02-10 | 2022-07-29 |
@@ -152,7 +153,7 @@
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 |  |
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
-| [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 |  |
+| [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 | 2022-09-27 |
 | [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 | 2022-09-21 |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 

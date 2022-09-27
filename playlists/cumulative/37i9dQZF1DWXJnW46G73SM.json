@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u062e\u062a\u0627\u0631\u064a",
+        "url": "https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Ekhtary",
+      "url": "https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn"
+    },
+    {
+      "album": {
         "name": "El Alb Galo Hoboot",
         "url": "https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa"
       },
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 206015,
       "name": "Hadalaany - From Bhabak Movie",
       "url": "https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW"

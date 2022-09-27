@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-82 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+83 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 | 2021-12-21 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/155ehMJOtXnFIGge12kzPC) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 2:54 | 2021-12-21 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/51IkamzSxSfIGMoxmuoTe8) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny Mathis Gold: A 50th Anniversary Christmas Celebration](https://open.spotify.com/album/40Rp9BNwrUE2fCyyz2zAlo) | 2:15 | 2021-12-21 | 2022-07-29 |
-| [It's Beginning to Look Like Christmas](https://open.spotify.com/track/4jwZZX8J8eN3w0FOK4FCI3) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Christmas Eve With Johnny Mathis](https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP) | 2:14 | 2022-01-03 |  |
+| [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 | 2022-09-26 |  |
+| [It's Beginning to Look Like Christmas](https://open.spotify.com/track/4jwZZX8J8eN3w0FOK4FCI3) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Christmas Eve With Johnny Mathis](https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP) | 2:14 | 2022-01-03 | 2022-09-27 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 3:28 | 2021-12-21 | 2022-07-29 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:28 | 2022-01-03 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 2:55 | 2021-12-21 |  |

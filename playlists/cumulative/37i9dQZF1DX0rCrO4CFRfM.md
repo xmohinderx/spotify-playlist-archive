@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-136 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
+137 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Fell In Love Without You \- Acoustic](https://open.spotify.com/track/55G4pHzYpiTk2Hlknn5wXF) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Even If It Kills Me \(10th Anniversary Edition\)](https://open.spotify.com/album/58ouk6iUSqfeIUHOZ3GUyc) | 3:25 | 2021-04-19 | 2021-05-26 |
 | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH) | 2:27 | 2021-04-19 | 2021-10-14 |
 | [fleabag \- acoustic](https://open.spotify.com/track/7GOXymmseLpEUAveeA03hK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag \(acoustic\)](https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf) | 3:09 | 2021-10-11 | 2021-10-16 |
+| [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 | 2022-09-22 |  |
 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 | 2021-01-15 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2020-11-10\* | 2022-09-22 |
 | [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 | 2021-04-19 | 2021-10-12 |
@@ -77,7 +78,7 @@
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:50 | 2020-11-10\* | 2021-10-16 |
 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 | 2022-06-27 |  |
 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/2SeJ9YrUC24fQKOlOUZVTG) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/49jzsX4L7SPtw9CZbPiLas) | 3:32 | 2021-01-15 | 2021-10-16 |
-| [Into The Fire \- Acoustic Version](https://open.spotify.com/track/2Cee261lwgFVYq6TGd2g1P) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/6jbTKyck3sf5vmvjSzvzYL) | 3:28 | 2021-01-15 |  |
+| [Into The Fire \- Acoustic Version](https://open.spotify.com/track/2Cee261lwgFVYq6TGd2g1P) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/6jbTKyck3sf5vmvjSzvzYL) | 3:28 | 2021-01-15 | 2022-09-27 |
 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 | 2020-11-10\* |  |
 | [It's Been Awhile \- Acoustic](https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:30 | 2021-01-15 | 2022-07-29 |
 | [It's Been Awhile \- Acoustic Version](https://open.spotify.com/track/7BthXjPvJzKfK84oD9DQNq) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Acoustic Hits](https://open.spotify.com/album/48RcoM9N0GrQ3JgRIzAvvp) | 4:30 | 2022-06-27 | 2022-09-13 |

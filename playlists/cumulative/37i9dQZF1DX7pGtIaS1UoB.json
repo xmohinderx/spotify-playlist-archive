@@ -572,6 +572,28 @@
     },
     {
       "album": {
+        "name": "\u70ba\u4f60\u5531\u60c5\u6b4c - Secrets",
+        "url": "https://open.spotify.com/album/0QdXaHp7mskkExLDZwhRAW"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u54c1\u6021",
+          "url": "https://open.spotify.com/artist/47rcMBPKWgIt6pDglkNrFn"
+        },
+        {
+          "name": "Kevin Liao",
+          "url": "https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137052,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/7Kw1g2prIMcE3aOWd0TBMp"
+    },
+    {
+      "album": {
         "name": "So Lucky",
         "url": "https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7"
       },
@@ -2767,7 +2789,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 207371,
       "name": "\u6162\u6162\u9760\u8fd1",
       "url": "https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV"

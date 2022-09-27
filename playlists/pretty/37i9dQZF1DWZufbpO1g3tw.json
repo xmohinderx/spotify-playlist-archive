@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 30680,
+  "num_followers": 30688,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDhlYjMwYTQzMzA5MzAwYzhjMjg0YWZlZmVkNmQ4N2Ey",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGQwNWI3NWUyZDNjNDFhNWVjOTMxMmE4NzE1YmUzNjM0",
   "tracks": [
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
-      "added_at": "2021-10-20 21:31:00",
+      "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+      "duration_ms": 271466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
     },
     {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
       "added_at": "2022-04-20 05:00:00",
       "album": {
         "name": "Tibiri Tabara",
@@ -539,22 +555,6 @@
       "duration_ms": 313133,
       "name": "D\u00f3nde Va Chichi?",
       "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+        "name": "Orquesta Akok\u00e1n",
+        "url": "https://open.spotify.com/album/71QnNPSX1wsG9ZCUwKOFgE"
       },
       "artists": [
         {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+          "name": "Orquesta Akok\u00e1n",
+          "url": "https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+      "duration_ms": 335853,
+      "name": "Un Tabaco Para Elegua",
+      "url": "https://open.spotify.com/track/0jX8MPtLTQc6DV4os7Pdjr"
     }
   ],
   "unique_name": "Brunch Latino",

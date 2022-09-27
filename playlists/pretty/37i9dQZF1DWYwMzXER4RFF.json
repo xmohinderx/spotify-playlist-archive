@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 246099,
+  "num_followers": 246155,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMGNmOTdhMGQxMmQ2ZmYwZGZhM2VmY2U2N2ZhNjU3YmJh",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDYzZWEyOThiYWZjMzI1ZDdiMTJhOGNkOTdiODIwODgz",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t"
       },
       "artists": [
         {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Almost Had to Start a Fight/In and Out of Patience",
-      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -315,22 +299,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Down in the Basement",
-      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "When I Have Fears",
         "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+      },
+      "artists": [
+        {
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Almost Had to Start a Fight/In and Out of Patience",
+      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 216284,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Sun Coming Down",
-        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
-      },
-      "artists": [
-        {
-          "name": "Ought",
-          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
-        }
-      ],
-      "duration_ms": 463545,
-      "name": "Beautiful Blue Sky",
-      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Songs of Praise",
         "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 214106,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Sun Coming Down",
+        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+      },
+      "artists": [
+        {
+          "name": "Ought",
+          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+        }
+      ],
+      "duration_ms": 463545,
+      "name": "Beautiful Blue Sky",
+      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "The Cleaner",
-        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 453211,
-      "name": "The Cleaner",
-      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Orc",
-        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+        "name": "The Cleaner",
+        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Nite Expo",
-      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
+      "duration_ms": 453211,
+      "name": "The Cleaner",
+      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -471,6 +455,22 @@
       "duration_ms": 303133,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Orc",
+        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Nite Expo",
+      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Ann",
-        "url": "https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
-        }
-      ],
-      "duration_ms": 244877,
-      "name": "Ann",
-      "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Ann",
+        "url": "https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "duration_ms": 244877,
+      "name": "Ann",
+      "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -851,18 +851,34 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Who's My Eugene? - Edit",
-        "url": "https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ"
+        "name": "Reset My Password",
+        "url": "https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI"
       },
       "artists": [
         {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
         }
       ],
-      "duration_ms": 248267,
-      "name": "Who's My Eugene? - Edit",
-      "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"
+      "duration_ms": 170028,
+      "name": "Reset My Password",
+      "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -879,22 +895,6 @@
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Reset My Password",
-        "url": "https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI"
-      },
-      "artists": [
-        {
-          "name": "Public Body",
-          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
-        }
-      ],
-      "duration_ms": 170028,
-      "name": "Reset My Password",
-      "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
     }
   ],
   "unique_name": "Post Punk",

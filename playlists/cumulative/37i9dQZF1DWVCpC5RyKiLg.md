@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-169 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/5cLQpcK4Q9rjrHgLrER8dF)
+170 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5cLQpcK4Q9rjrHgLrER8dF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 | 2022-01-27 | 2022-05-21 |
 | [Bebida Na Ferida \- Ao Vivo](https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:19 | 2022-01-27 |  |
 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 | 2022-01-27 |  |
+| [Café e Amor \- Ao Vivo](https://open.spotify.com/track/6zeo9bcZWGlHi2VqjUSmaR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 3:24 | 2022-06-10 |  |
 | [Café e Amor \- Ao Vivo](https://open.spotify.com/track/7benotyTvLY2vUsDKtxbiA) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Café e Amor \(Ao Vivo\)](https://open.spotify.com/album/4qOLbV6MFlPRM40KMYorat) | 3:24 | 2022-01-27 | 2022-09-20 |
 | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 | 2022-01-27 | 2022-07-05 |
 | [Cansei de Farra](https://open.spotify.com/track/3BlebRyXXEVQnWhJetr5VZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:50 | 2022-01-27 | 2022-05-18 |
@@ -167,7 +168,7 @@
 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 | 2022-01-27 |  |
 | [Uma Vida a Mais \(Listen To Your Heart\)](https://open.spotify.com/track/2hqRWWmbHT9CTc5a4a9NVe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas](https://open.spotify.com/album/4IzsHOBctS66OP3dHXTJsG) | 3:50 | 2022-01-27 |  |
 | [Vai por Mim](https://open.spotify.com/track/5DgTJpZB8OEqjAmfZZJQsE) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Deserto da Ilusão](https://open.spotify.com/album/2feJXjSywZ2RGNAJAoJzGS) | 3:40 | 2022-01-27 | 2022-07-12 |
-| [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 | 2022-01-27 |  |
+| [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 | 2022-01-27 | 2022-09-27 |
 | [Viralizou](https://open.spotify.com/track/1iqtSVnlAR39kQghsbb4dL) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Viralizou](https://open.spotify.com/album/4Igyx8sGZq5Cy3cY9rzrbr) | 2:30 | 2022-06-10 | 2022-09-15 |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2lM6OIrHRmkhGQDRVycxjO) | 2:44 | 2022-01-27 | 2022-07-27 |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2022-06-10 |  |

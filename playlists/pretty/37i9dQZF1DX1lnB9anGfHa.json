@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 162189,
+  "num_followers": 162285,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg2OTExMCwwMDAwMDAwMGE1NDBlOTk0MTQxYzFlZWMyMWQwMmQ5NjFjNTExNDM2",
+  "snapshot_id": "MTY2NDIyOTI1NCwwMDAwMDAwMGNhOGM3ZmMzMmYxMmVmNjcxY2UzNmJkMTE4YWE5M2Vi",
   "tracks": [
     {
       "added_at": "2022-09-22 17:51:50",
@@ -179,6 +179,26 @@
       "duration_ms": 312513,
       "name": "Win Some",
       "url": "https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS"
+    },
+    {
+      "added_at": "2022-09-26 21:54:14",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
+      },
+      "artists": [
+        {
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 320547,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2022-09-21 02:28:35",

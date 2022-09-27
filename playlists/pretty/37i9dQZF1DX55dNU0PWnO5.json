@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 533900,
+  "num_followers": 533938,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGNkYjJlZmU2Mjc4MTE3Y2E1YjZlNDE5YjRmY2U4NTJk",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDI2N2Q5YzYxYjlhMDBmMWIzZDQ0YmQ5N2FiZDk3M2U2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -445,6 +445,30 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Nest Egg",
+        "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Nest Egg",
+      "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
+    },
+    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Tukumtak",
@@ -495,30 +519,6 @@
       "duration_ms": 312333,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Nest Egg",
-        "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "Slug",
-          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Nest Egg",
-      "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -617,6 +617,34 @@
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Banquet",
+        "url": "https://open.spotify.com/album/05Ct3MiwIitELahPzZQMc0"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "duration_ms": 139451,
+      "name": "The Banquet",
+      "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
+    },
+    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Come Out and Play",
@@ -647,34 +675,6 @@
       "duration_ms": 161495,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Banquet",
-        "url": "https://open.spotify.com/album/05Ct3MiwIitELahPzZQMc0"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
-        }
-      ],
-      "duration_ms": 139451,
-      "name": "The Banquet",
-      "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Seventh Wonder",
-        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "Seventh Wonder",
-      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -913,6 +897,22 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Seventh Wonder",
+        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "Seventh Wonder",
+      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
+    },
+    {
       "added_at": "2021-02-26 00:47:37",
       "album": {
         "name": "Coral Jazz",
@@ -927,26 +927,6 @@
       "duration_ms": 183529,
       "name": "Coral Jazz",
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
-      "added_at": "2022-07-05 15:03:47",
-      "album": {
-        "name": "Elegua",
-        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        },
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Elegua",
-      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -969,20 +949,24 @@
       "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
+      "added_at": "2022-07-05 15:03:47",
       "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
       },
       "artists": [
         {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        },
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
+      "duration_ms": 148500,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 466627,
       "name": "Golden",
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Ancient Delta",
-        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 133717,
-      "name": "Ancient Delta",
-      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Quantum Blackness",
@@ -1113,6 +1097,22 @@
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Ancient Delta",
+        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 133717,
+      "name": "Ancient Delta",
+      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
+    },
+    {
       "added_at": "2022-02-11 18:57:20",
       "album": {
         "name": "4 Rooms",
@@ -1127,26 +1127,6 @@
       "duration_ms": 164000,
       "name": "Can We? Take A Break",
       "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Blue to Red (Photay Remix)",
-        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Blue to Red - Photay Remix",
-      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 185806,
       "name": "Sunday Kitchen",
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Blue to Red (Photay Remix)",
+        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Blue to Red - Photay Remix",
+      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1221,26 +1221,6 @@
       "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
     },
     {
-      "added_at": "2021-07-19 12:43:20",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/3Hr8D92qlwJkFague8VGKg"
-      },
-      "artists": [
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 162633,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Side Street",
@@ -1273,20 +1253,24 @@
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
+      "added_at": "2021-07-19 12:43:20",
       "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/3Hr8D92qlwJkFague8VGKg"
       },
       "artists": [
         {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
         }
       ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
+      "duration_ms": 162633,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
     },
     {
       "added_at": "2021-03-26 04:44:53",
@@ -1311,6 +1295,22 @@
       "duration_ms": 177146,
       "name": "Saudade da Festa",
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
+    },
+    {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
     },
     {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "PPL -PingPongLounge-",
+        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "duration_ms": 114078,
+      "name": "PPL -PingPongLounge-",
+      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Typhoon",
@@ -1501,22 +1517,6 @@
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
-      },
-      "artists": [
-        {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
-        }
-      ],
-      "duration_ms": 114078,
-      "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Still Flute",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/2F5RXPElkBrycPAn6vcagr"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "PRNDL.wav",
-        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
-      },
-      "artists": [
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 177036,
-      "name": "PRNDL.exe",
-      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "Come Running to Me",
@@ -1581,40 +1565,36 @@
       "url": "https://open.spotify.com/track/1RSVmoikDpX0PtpxNGXxyF"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-04-09 04:01:00",
       "album": {
-        "name": "Database",
-        "url": "https://open.spotify.com/album/3Wd3eSggmgWFmO0N6yuIq4"
+        "name": "Afro Cello (Super Full Moon Rework)",
+        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
       },
       "artists": [
         {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Benjamin Francis",
-          "url": "https://open.spotify.com/artist/06ZjGUPQ57XGGjh4Gjqzpz"
-        },
-        {
-          "name": "Moto Fukushima",
-          "url": "https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF"
-        },
-        {
-          "name": "Magro",
-          "url": "https://open.spotify.com/artist/76cRnLzHkspLjeNgFmDn87"
+          "name": "Danny Keane",
+          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
         }
       ],
-      "duration_ms": 272955,
-      "name": "Timeline-100",
-      "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
+      "duration_ms": 248250,
+      "name": "Afro Cello - Super Full Moon Rework",
+      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "PRNDL.wav",
+        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
+      },
+      "artists": [
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 177036,
+      "name": "PRNDL.exe",
+      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     }
   ],
   "unique_name": "Jazztronica",

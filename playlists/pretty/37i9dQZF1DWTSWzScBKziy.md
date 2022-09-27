@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,158 likes - 99 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,165 likes - 99 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 31 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
 | 32 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
 | 33 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
-| 34 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 |
-| 35 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 |
+| 34 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 |
+| 35 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 |
 | 36 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 |
 | 37 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 |
 | 38 | [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 51 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 |
 | 52 | [Growing Pains](https://open.spotify.com/track/7AS4QfVE36kemDghmTbJaj) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/7fRMtIRU0irBhCD4rb4KrV) | 3:50 |
 | 53 | [You Win](https://open.spotify.com/track/4PdWih41tMrAtyx5HEubpv) | [Jovan Whyte](https://open.spotify.com/artist/2aSIiyJpZUCU89Ed202JAC) | [You Win](https://open.spotify.com/album/0LGElNOFWB10C2P9nsv5iz) | 3:38 |
-| 54 | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS) | 3:30 |
-| 55 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 |
+| 54 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 |
+| 55 | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS) | 3:30 |
 | 56 | [Who You Want Me To Be](https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Who You Want Me To Be](https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03) | 3:16 |
 | 57 | [Authentic Love](https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [Authentic Love](https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3) | 4:42 |
 | 58 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 63 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 |
 | 64 | [I See Heaven On Earth](https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [I See Heaven On Earth](https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz) | 3:59 |
 | 65 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 |
-| 66 | [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 |
-| 67 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 |
+| 66 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 |
+| 67 | [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 |
 | 68 | [Mind of Christ \(Philippians 2\)](https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7), [Steve Mitchinson](https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb) | [Mind of Christ \(Philippians 2\)](https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6) | 4:02 |
-| 69 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
-| 70 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
-| 71 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 |
+| 69 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 |
+| 70 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
+| 71 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 72 | [Landslide](https://open.spotify.com/track/0LidfYMs8GTkrOIEzjpLSV) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Landslide](https://open.spotify.com/album/6n4SLfwVKjSiSrmUdL16iL) | 4:53 |
 | 73 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
 | 74 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 98 | [God Who Saves](https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Ballroom](https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN) | 4:50 |
 | 99 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 |
 
-Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMDhiOWIzOWI5OTAyZDQ3M2ViMWQzODQzYTZlMmYzZmU0`
+Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMDE4YzZhNzc4NGNhYjUxYWM1YTY4N2JhNGExODY4NmMx`

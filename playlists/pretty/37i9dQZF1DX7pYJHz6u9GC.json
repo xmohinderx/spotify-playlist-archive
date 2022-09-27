@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the sweet Christmas time in the company of the biggest crooners. Cover: Nat King Cole. ",
-  "num_followers": 86803,
+  "num_followers": 86805,
   "original_name": "Christmas Crooners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAwODIwNiwwMDAwMDAwMGE2M2Q1YzlkYWUzOGEzYWE2YTAxZmE3OGRjNTE5NDBl",
+  "snapshot_id": "MTY2NDIwMjA2NCwwMDAwMDAwMGI4OGVhZTkzMjI5ZDYzZDNlYzE5NzZiNDkzNThmY2E4",
   "tracks": [
     {
       "added_at": "2021-10-01 11:29:32",
@@ -183,6 +183,22 @@
     {
       "added_at": "2021-10-01 11:29:32",
       "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Christmas Waltz - Remastered 1999",
+      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -195,6 +211,22 @@
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "The Little Drummer Boy - Remastered 2006",
+      "url": "https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ"
     },
     {
       "added_at": "2021-10-01 11:29:32",
@@ -219,6 +251,22 @@
     {
       "added_at": "2021-10-01 11:29:32",
       "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
@@ -231,6 +279,22 @@
       "duration_ms": 209426,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "There Is No Christmas Like a Home Christmas",
+      "url": "https://open.spotify.com/track/4fh3vQKUQFOsPqAcoLBa8r"
     },
     {
       "added_at": "2021-10-01 11:29:32",
@@ -343,6 +407,26 @@
     {
       "added_at": "2021-10-01 11:29:32",
       "album": {
+        "name": "Merry Xmas Everybody (feat. Jamie Cullum)",
+        "url": "https://open.spotify.com/album/5388FRYDge6ZcLJD3dw4FM"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Merry Xmas Everybody (feat. Jamie Cullum)",
+      "url": "https://open.spotify.com/track/6gPjEHwchHOVoBFHxomCfR"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -371,22 +455,6 @@
       "duration_ms": 135333,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0z8aYfRIIvNibAccZRYu8x"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
-        "name": "A Christmas Gift Of Love",
-        "url": "https://open.spotify.com/album/3ZqzVifknOsE9ucaWijcmq"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "(There's No Place Like) Home for the Holidays",
-      "url": "https://open.spotify.com/track/3jJLVy3NYbhPoJ8Vxb3523"
     },
     {
       "added_at": "2021-10-01 11:29:32",
@@ -515,6 +583,22 @@
     {
       "added_at": "2021-10-01 11:29:32",
       "album": {
+        "name": "A Christmas Gift Of Love",
+        "url": "https://open.spotify.com/album/3ZqzVifknOsE9ucaWijcmq"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "(There's No Place Like) Home for the Holidays",
+      "url": "https://open.spotify.com/track/3jJLVy3NYbhPoJ8Vxb3523"
+    },
+    {
+      "added_at": "2021-10-01 11:29:32",
+      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6sBJqAdfDlrldHZk8R9xew"
       },
@@ -627,26 +711,6 @@
     {
       "added_at": "2021-10-01 11:29:32",
       "album": {
-        "name": "Merry Xmas Everybody (feat. Jamie Cullum)",
-        "url": "https://open.spotify.com/album/5388FRYDge6ZcLJD3dw4FM"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Merry Xmas Everybody (feat. Jamie Cullum)",
-      "url": "https://open.spotify.com/track/6gPjEHwchHOVoBFHxomCfR"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -659,22 +723,6 @@
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Christmas Waltz - Remastered 1999",
-      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
     },
     {
       "added_at": "2021-10-01 11:29:32",
@@ -755,22 +803,6 @@
       "duration_ms": 171826,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2021-10-01 11:29:32",
@@ -1027,38 +1059,6 @@
       "duration_ms": 174640,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/6BMk2euscgl6u62U8rWrkb"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "The Little Drummer Boy - Remastered 2006",
-      "url": "https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ"
-    },
-    {
-      "added_at": "2021-10-01 11:29:32",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "There Is No Christmas Like a Home Christmas",
-      "url": "https://open.spotify.com/track/4fh3vQKUQFOsPqAcoLBa8r"
     },
     {
       "added_at": "2021-10-01 11:29:32",

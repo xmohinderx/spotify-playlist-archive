@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 480063,
+  "num_followers": 480112,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDdlM2ZkMTc2NWExNjAzZDNkMWYyNzBkNDdkOTc0MmVk",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMGRmMTEzNWQ4NjM2ZTFjYmVmNjJmYjQ5MzM3NWI1YTVi",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "The Joke",
-      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -433,22 +449,6 @@
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Now Is The Time",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C"
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Sugar in the Creek",
-        "url": "https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Take Good Care",
         "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 218333,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Sugar in the Creek",
+        "url": "https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1063,22 +1079,6 @@
       "duration_ms": 199413,
       "name": "Who Do You Think You're Talking To?",
       "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Animals With Religion",
-        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
-      },
-      "artists": [
-        {
-          "name": "Bee Caves",
-          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
-        }
-      ],
-      "duration_ms": 235264,
-      "name": "Running Home to You",
-      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Animals With Religion",
+        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+      },
+      "artists": [
+        {
+          "name": "Bee Caves",
+          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+        }
+      ],
+      "duration_ms": 235264,
+      "name": "Running Home to You",
+      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197305,
-      "name": "Hardlytown",
-      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197305,
+      "name": "Hardlytown",
+      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Ain\u2019t Lookin\u2019",
-        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
-      },
-      "artists": [
-        {
-          "name": "The Wild Feathers",
-          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Ain\u2019t Lookin\u2019",
-      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Why Are You OK",
         "url": "https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 228040,
       "name": "Why You Gotta Be",
       "url": "https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Ain\u2019t Lookin\u2019",
+        "url": "https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL"
+      },
+      "artists": [
+        {
+          "name": "The Wild Feathers",
+          "url": "https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Ain\u2019t Lookin\u2019",
+      "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
     },
     {
       "added_at": "2022-02-17 17:26:43",

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-123 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+124 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blue Pale Darling](https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59) | [Autumn Fruit](https://open.spotify.com/artist/6TvLaOyXRJy71sVpEdppX7) | [Blue Pale Darling](https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j) | 3:37 | 2021-09-24 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 | 2020-10-20 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/7lWVGjAIuksAjXKxmC5M71) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9) | 2:16 | 2020-10-20 | 2022-07-29 |
+| [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2022-09-26 |  |
 | [Courageous Grieving](https://open.spotify.com/track/5QaHynEux80dsEFkadZg6m) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [goddexx](https://open.spotify.com/album/0fqg1XSlbYFEKsyVbZhiFV) | 4:06 | 2020-10-20 |  |
 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 | 2022-08-31 |  |
 | [Disappoint Me](https://open.spotify.com/track/1CBF3tKxaBh1bUPEdIneXS) | [Chris Imler](https://open.spotify.com/artist/46UqEw2cEH1SHxSBuSWfVw) | [Disappoint Me](https://open.spotify.com/album/0y1HxXpkJrceA55WLmTJsV) | 3:25 | 2022-02-18 |  |

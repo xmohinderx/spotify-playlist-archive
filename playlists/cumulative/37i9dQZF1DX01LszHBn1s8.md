@@ -4,7 +4,7 @@
 
 > doing something unholy..\. 😈🔥
 
-682 songs - 1 day 12 hr 17 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+683 songs - 1 day 12 hr 23 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,6 +677,7 @@
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-19 | 2022-07-29 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-05-19 |  |
 | [Ya Lili \- AHR Remix](https://open.spotify.com/track/0hmZNJCjnSfhekl0TwqbIu) | [Adam H Rohit](https://open.spotify.com/artist/0DhZkQdLvZsmzhQDBneTts), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Lili \(AHR Remix\)](https://open.spotify.com/album/4Rz3QBsei57qVSroQT89Lj) | 3:20 | 2022-05-19 |  |
+| [Yerushalayim](https://open.spotify.com/track/715xydYGcGuc4SGH4frm43) | [Yerachmiel Begun & The Miami Boys Choir](https://open.spotify.com/artist/6s2HLzlqGE56ToNhMvWu7Q) | [Moshiach](https://open.spotify.com/album/1a6JhV4CXvyy7mNM45NQFG) | 5:52 | 2022-09-26 |  |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-05-19 |  |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2022-05-19 |  |
 | [Yonkers](https://open.spotify.com/track/3WQlJpaUUbGtUqAskvGA7c) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU) | 4:09 | 2022-05-19 | 2022-07-29 |

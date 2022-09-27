@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDRjYzc0ZjdjYzc4ZGMyZThmNmM2ZGMwNjVjNWQxYTk0",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGUzNDUyYWVjM2FlZGRhYTAyZjkzNGMzMTBhODEyZTg2",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 140960,
       "name": "Trece",
       "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dopadromo",
         "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 231386,
       "name": "Viva Satana",
       "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Mate",
-      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -235,70 +219,6 @@
       "duration_ms": 169026,
       "name": "Desaparecedor",
       "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "A Un Mill\u00f3n De A\u00f1os Blues",
-        "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
-      },
-      "artists": [
-        {
-          "name": "Carca",
-          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Pr\u00edncipe Oscuro",
-      "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "San Cipriano",
-        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
-      },
-      "artists": [
-        {
-          "name": "Los Brujos",
-          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -319,6 +239,70 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "A Un Mill\u00f3n De A\u00f1os Blues",
+        "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
+      },
+      "artists": [
+        {
+          "name": "Carca",
+          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Pr\u00edncipe Oscuro",
+      "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "San Cipriano",
+        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
+      },
+      "artists": [
+        {
+          "name": "Los Brujos",
+          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
       "artists": [
         {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,18 +355,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Pasto",
-        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 230626,
-      "name": "D-Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -451,6 +435,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Pasto",
+        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 230626,
+      "name": "D-Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Manzana de Metal",
         "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 228466,
       "name": "Emoci\u00f3n Diamante",
       "url": "https://open.spotify.com/track/4jVnGWG8LDOEbD7iOcWb2V"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
     },
     {
       "added_at": "2020-03-13 13:21:28",

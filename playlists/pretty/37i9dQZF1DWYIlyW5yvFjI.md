@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain](/playlists/plain/37i9dQZF1DWYIlyW5yvFjI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYIlyW5yvFjI)
 
-### [Ambient Shoegaze](https://open.spotify.com/playlist/37i9dQZF1DWYIlyW5yvFjI)
+### [Ambient Dream Pop](https://open.spotify.com/playlist/37i9dQZF1DWYIlyW5yvFjI)
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,481 likes - 83 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,486 likes - 83 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 82 | [Popol Vuh 2](https://open.spotify.com/track/1eZtjzlJuq6CCM0zzOok68) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc) | 5:00 |
 | 83 | [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 5:58 |
 
-Snapshot ID: `MTY2MzAwMDU3MiwwMDAwMDAwMGViOGM5ZmQwZGQzZTkyNmFhODlkOTE4OThmMjQ1ZDEw`
+Snapshot ID: `MTY2NDIwMTY4OCwwMDAwMDAwMGRjOGUwMmVjNzc3OThjY2M2YzQ4YWQxZDJmMzU4Mjlm`

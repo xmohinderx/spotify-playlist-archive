@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,399 songs - 3 day 7 hr 30 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,400 songs - 3 day 7 hr 33 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,7 +1030,7 @@
 | [Saved My Life](https://open.spotify.com/track/5cpw6QKJcoXzpNBLNUJx2i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Saved My Life](https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp) | 3:55 | 2020-06-12 | 2022-04-15 |
 | [Say It](https://open.spotify.com/track/6vnDoUOHTiVB5DvX18tJon) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/2lBRNqB9iOJZFNu1JOSUBW) | 4:22 | 2019-07-30 | 2019-07-31 |
 | [Say It](https://open.spotify.com/track/6ry2vpew139OTJUFUkPKpE) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Say It](https://open.spotify.com/album/2kLzQP0h0u4MCfXVRSyB3l) | 3:48 | 2019-08-26 | 2021-05-12 |
-| [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2020-07-03 |  |
+| [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2020-07-03 | 2022-09-27 |
 | [Say Something](https://open.spotify.com/track/2mzXbSJxejbKEa12GhrI4a) | [Kira Puru](https://open.spotify.com/artist/4tqKQAZcPhjqMmHaVRGHaY) | [Kira Puru \- EP](https://open.spotify.com/album/6LhVSVjMwuEdhhZASpskfl) | 3:05 | 2021-03-10 | 2022-04-18 |
 | [Say Something](https://open.spotify.com/track/2kkGRB3PKYCAFGmaLsmIbd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Say Something](https://open.spotify.com/album/1xhPkfU6a8YJiGdJdwx0Uy) | 3:32 | 2020-07-24 | 2022-04-01 |
 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 | 2021-03-18 | 2022-04-08 |
@@ -1113,6 +1113,7 @@
 | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1xU2QZ40MY4Ex2pfczZa9U) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3R4bm24vpp2UiKr567EtAD) | 2:46 | 2019-11-08 | 2021-05-20 |
 | [Stained Glass](https://open.spotify.com/track/0DNtDpmYq7iw7v2RbMdBAy) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Stained Glass](https://open.spotify.com/album/2MyIV1UB0a7X7m5ZPS2bIl) | 3:27 | 2020-06-12 | 2021-05-25 |
 | [Standing With You](https://open.spotify.com/track/3NagMImAXyeYaMsXs2bjqt) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Standing With You](https://open.spotify.com/album/5uIkJUDTbuKuR8RWB18VLk) | 3:52 | 2020-06-29 | 2022-05-08 |
+| [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-22 |  |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2019-08-02 | 2019-08-04 |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 | 2021-05-19 | 2022-04-10 |
 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 | 2021-03-17 | 2022-04-13 |

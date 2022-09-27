@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 502385,
+  "num_followers": 502413,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMGJjMmYzMTQ3MDcyM2IyNzQyODdlNGQyMmYyMzkyMjJh",
+  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMDcyOGM2NTk2NTRhODRiNWJmMTA1ZGQ5N2Q5YzFhYTRk",
   "tracks": [
     {
       "added_at": "2022-09-06 17:11:25",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 170926,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 228400,
       "name": "nadie me cae bien",
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 170926,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Mal Hecha (Deluxe)",
-        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
-      },
-      "artists": [
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 197768,
-      "name": "s a l u d o s",
-      "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Brailluxe",
         "url": "https://open.spotify.com/album/33wrmV8WGt2SA767fNjae6"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 193473,
       "name": "Bolsa en la cara",
       "url": "https://open.spotify.com/track/4NDXtaihxFtUH08UX0OikX"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Mal Hecha (Deluxe)",
+        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 197768,
+      "name": "s a l u d o s",
+      "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Lo Que Digan",
         "url": "https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt"
       },
@@ -971,6 +955,38 @@
       "duration_ms": 190800,
       "name": "Lo Que Digan",
       "url": "https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1031,6 +1047,22 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
         "name": "Invisible People",
         "url": "https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT"
       },
@@ -1059,38 +1091,6 @@
       "duration_ms": 164523,
       "name": "Locura",
       "url": "https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "LUV",
-        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
-      },
-      "artists": [
-        {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
     },
     {
       "added_at": "2022-09-06 17:11:25",

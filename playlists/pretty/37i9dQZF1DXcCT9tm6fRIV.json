@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 221473,
+  "num_followers": 221507,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMGNhOTNmNTBhYjNlOGM0ZjI1OGQ2M2FmOGQ2ZTkzYTI5",
+  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMGNmMjA4MGJlYWIyNGMwMWE1Njc3MjhkZTU1NTM4YzY3",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -139,46 +139,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Solo Tango: Carlos Di Sarli - Instrumental Vol. 1",
-        "url": "https://open.spotify.com/album/6tGetlLmTbL1Y4B9YE8bxy"
-      },
-      "artists": [
-        {
-          "name": "Carlos Di Sarli y su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "Bah\u00eda Blanca - Instrumental",
-      "url": "https://open.spotify.com/track/6JfI6n6UEHVd7fIkmIGQV1"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
-      },
-      "artists": [
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
-        }
-      ],
-      "duration_ms": 337753,
-      "name": "Balada para un Loco",
-      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Tango Lo Siento As\u00ed",
         "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
       },
@@ -215,6 +175,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Solo Tango: Carlos Di Sarli - Instrumental Vol. 1",
+        "url": "https://open.spotify.com/album/6tGetlLmTbL1Y4B9YE8bxy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Di Sarli y su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Bah\u00eda Blanca - Instrumental",
+      "url": "https://open.spotify.com/track/6JfI6n6UEHVd7fIkmIGQV1"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Antologia Roberto Goyeneche",
         "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
       },
@@ -231,6 +207,50 @@
       "duration_ms": 168773,
       "name": "Yira...Yira (with Atilio Stampone y su Orquesta Tipica)",
       "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+        }
+      ],
+      "duration_ms": 337753,
+      "name": "Balada para un Loco",
+      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "El Firulete",
+        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -299,22 +319,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Una Guitarra Para Gardel",
         "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
       },
@@ -331,22 +335,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Firulete",
-        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
         }
       ],
-      "duration_ms": 185626,
-      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -379,6 +379,22 @@
       "duration_ms": 140360,
       "name": "Anclao En Paris",
       "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Var\u00f3n (Remastered)",
+        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
+      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -455,22 +471,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tangos",
-        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
-      },
-      "artists": [
-        {
-          "name": "Hugo D\u00edaz",
-          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Volvio Una Noche",
-      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
       },
@@ -491,6 +491,38 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "... Tangamente",
+        "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 164312,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Tangos",
+        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
+      },
+      "artists": [
+        {
+          "name": "Hugo D\u00edaz",
+          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Volvio Una Noche",
+      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Manzi, caminos de barro y pampa",
         "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
       },
@@ -507,38 +539,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Var\u00f3n (Remastered)",
-        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
-      },
-      "artists": [
-        {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
-      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Album Blanco",
         "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 208120,
       "name": "Los Cosos De Al Lao",
       "url": "https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "... Tangamente",
-        "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 164312,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 179400,
       "name": "Niebla del Riachuelo",
       "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Mariposita - En Vivo",
-      "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 224746,
+      "name": "Mariposita - En Vivo",
+      "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
-      },
-      "artists": [
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "Ser\u00eda Facil Decir",
-      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Canciones del Sur",
         "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "Ser\u00eda Facil Decir",
+      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Rescatados",
+        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Castiellos",
         "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Rescatados",
-        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+        "name": "A Las Orquestas",
+        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Julio Pane",
+          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+      "duration_ms": 251472,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "A Las Orquestas",
-        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
+        "name": "Comunidad",
+        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
       },
       "artists": [
         {
-          "name": "Julio Pane",
-          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
+          "name": "Rodolfo Mederos",
+          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
         }
       ],
-      "duration_ms": 251472,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+      "duration_ms": 247026,
+      "name": "El Abrojito",
+      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 208285,
       "name": "Pasional",
       "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Comunidad",
-        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Mederos",
-          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "El Abrojito",
-      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1179,38 +1179,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Todo Piazzolla",
-        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
       "artists": [
         {
-          "name": "Leopoldo Federico y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Tango Del Angel",
-      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Sur (Remastered)",
-        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Rivero",
-          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
-        },
-        {
-          "name": "Horacio Salg\u00e1n",
-          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
-        }
-      ],
-      "duration_ms": 310012,
-      "name": "La casita de mis viejos - Remastered",
-      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1247,54 +1227,38 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+        "name": "Todo Piazzolla",
+        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Leopoldo Federico y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
         }
       ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+      "duration_ms": 196773,
+      "name": "Tango Del Angel",
+      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
     },
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+        "name": "Sur (Remastered)",
+        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
       },
       "artists": [
         {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+          "name": "Edmundo Rivero",
+          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
         },
         {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+          "name": "Horacio Salg\u00e1n",
+          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
         }
       ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+      "duration_ms": 310012,
+      "name": "La casita de mis viejos - Remastered",
+      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1319,22 +1283,38 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
       "artists": [
         {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
         },
         {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
         }
       ],
-      "duration_ms": 320922,
-      "name": "Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1355,6 +1335,26 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 320922,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
     },
     {
       "added_at": "2022-03-18 03:00:00",

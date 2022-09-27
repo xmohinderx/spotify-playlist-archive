@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 181930,
       "name": "Saaba",
       "url": "https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG"
@@ -1495,6 +1495,24 @@
       "duration_ms": 232400,
       "name": "Shattabna",
       "url": "https://open.spotify.com/track/4138h4unKb8WMM4EgoZZGi"
+    },
+    {
+      "album": {
+        "name": "Tamer Hosny Haytna",
+        "url": "https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291754,
+      "name": "Tamer Hosny Haytna",
+      "url": "https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA"
     },
     {
       "album": {

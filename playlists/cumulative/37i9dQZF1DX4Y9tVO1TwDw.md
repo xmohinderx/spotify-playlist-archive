@@ -2,7 +2,7 @@
 
 ### [De TODO](https://open.spotify.com/playlist/37i9dQZF1DX4Y9tVO1TwDw)
 
-> Celebrating Latin Heritage Month con un poquito De TODO! Cover: Omar Apollo
+> Celebrating Latin Heritage Month con un poquito De TODO! Cover: Yahritza Y Su Esencia
 
 72 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 

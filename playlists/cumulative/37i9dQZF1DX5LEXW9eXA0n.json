@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Lyn(\ub9b0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Kang Min Kyung & Choi Jung Hoon(\uac15\ubbfc\uacbd & \ucd5c\uc815\ud6c8)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -243,6 +243,24 @@
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
+    },
+    {
+      "album": {
+        "name": "talks about memory",
+        "url": "https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "A Memorial Day",
+      "url": "https://open.spotify.com/track/6XF1F1BMA7TNRX1f9USAnB"
     },
     {
       "album": {
@@ -859,6 +877,28 @@
       "duration_ms": 240773,
       "name": "Because I am a woman",
       "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+    },
+    {
+      "album": {
+        "name": "Because we loved",
+        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
+      },
+      "artists": [
+        {
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
+        },
+        {
+          "name": "CHOI JUNG HOON of JANNABI",
+          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Because we loved",
+      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
     },
     {
       "album": {

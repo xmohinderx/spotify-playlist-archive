@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGJjZTEzZjEyYmM1ZjQwYTRiYjFhMDJkYjNiMGFiNWI4",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGVkMzIzOTQyMTk3NTVmNGVkZDQzMzllODc3YjZhOTNj",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 143753,
+      "name": "Ll\u00e9vatelo",
+      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -299,38 +315,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 141316,
       "name": "Paradinha",
       "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Castillos de arena",
         "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 252221,
       "name": "Castillos de arena",
       "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Monstruo",
+        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Electrica",
         "url": "https://open.spotify.com/album/2lj326xftmGNvaG0sEwX0U"
       },
@@ -1363,38 +1379,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Monstruo",
-        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
         "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 174988,
       "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
       "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Vocales",
-        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 158570,
-      "name": "Vocales",
-      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Vocales",
+        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 158570,
+      "name": "Vocales",
+      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Latinoamericana",
         "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 217066,
       "name": "Locura",
       "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2531,18 +2531,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+        "name": "P\u00e1jaro Malo",
+        "url": "https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
+      "duration_ms": 154024,
+      "name": "Sink Feel",
+      "url": "https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2563,22 +2567,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "P\u00e1jaro Malo",
-        "url": "https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9"
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
       "artists": [
         {
-          "name": "Rubby",
-          "url": "https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 154024,
-      "name": "Sink Feel",
-      "url": "https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113"
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",

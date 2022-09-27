@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,584 likes - 36 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,653 likes - 36 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 35 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 |
 | 36 | [Feel the Tide \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/1NiaRGKtWwIkKoz2nwBxbV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 3:41 |
 
-Snapshot ID: `Mjc3MzU1MDUsMDAwMDAwMDBkNDliYzIzMWI0MGRmMjdhZmI0M2JlMDYxODYyY2UyYw==`
+Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDBlODBmMGYzZmIwODMzOGFlOTY5Y2ZmZjdhMjVlZmJiOQ==`

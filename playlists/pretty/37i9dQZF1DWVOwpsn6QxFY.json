@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 105357,
+  "num_followers": 105394,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMGVjZWVjMjI1MTVhNzBjM2ExNTExZTMwMTExNWRlYjg5",
+  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMGIyYThkYzZhNGE3ZTVhN2Y2YThjZjA3Y2QyNThjOTkw",
   "tracks": [
     {
       "added_at": "2022-08-12 18:13:48",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "It's Still Cool If You Don't",
+        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 237413,
+      "name": "It's Still Cool If You Don't",
+      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -371,22 +387,6 @@
       "duration_ms": 208586,
       "name": "Woah Man",
       "url": "https://open.spotify.com/track/0PGnwDPPMoJ1s49hQQXHFR"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "It's Still Cool If You Don't",
-        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 237413,
-      "name": "It's Still Cool If You Don't",
-      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Decimal / Halloween",
+        "url": "https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Decimal / Halloween",
-        "url": "https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8"
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
+      "duration_ms": 216027,
+      "name": "Comingback - Single Version",
+      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 216027,
-      "name": "Comingback - Single Version",
-      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Never Coming Home",
         "url": "https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 240000,
       "name": "Never Coming Home",
       "url": "https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Isn't It Nice",
-        "url": "https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT"
-      },
-      "artists": [
-        {
-          "name": "Hearing Aid Beige",
-          "url": "https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk"
-        }
-      ],
-      "duration_ms": 288229,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Grand Plan",
         "url": "https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 186573,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Isn't It Nice",
+        "url": "https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT"
+      },
+      "artists": [
+        {
+          "name": "Hearing Aid Beige",
+          "url": "https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk"
+        }
+      ],
+      "duration_ms": 288229,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "The Long and Short of It",
-        "url": "https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 264980,
-      "name": "Everything is Different (To Me)",
-      "url": "https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "The Long and Short of It",
+        "url": "https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 264980,
+      "name": "Everything is Different (To Me)",
+      "url": "https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4"
     },
     {
       "added_at": "2022-08-12 18:13:48",

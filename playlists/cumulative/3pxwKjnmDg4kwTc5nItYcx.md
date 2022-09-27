@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-620 songs - 1 day 9 hr 26 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+624 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Better in Blak](https://open.spotify.com/track/1yaXuPp5FJZgeNVKJdOpAP) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/7khLwE7EOmg5YBPTOvJPm4) | 3:12 | 2019-08-27\* | 2019-11-11 |
 | [Better Off \(feat\. Lucy Lucy\)](https://open.spotify.com/track/19WAbosxcUuVyb5bHDHAcl) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Better Off \(feat\. Lucy Lucy\)](https://open.spotify.com/album/0J0Axo3oLE8dvGBK0tD9ZG) | 2:53 | 2021-10-02 |  |
 | [Beyoncé](https://open.spotify.com/track/782fl9NN1l2PLyVw29fAiA) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Beyoncé](https://open.spotify.com/album/4Jc4usyROefmxfJbCrN9Rq) | 3:22 | 2020-10-19 |  |
+| [BIG](https://open.spotify.com/track/2Vbl3bHFd4vlc6WSgMbfbX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [BIG](https://open.spotify.com/album/78UBl7rvKtr1BMdKT7Rfnb) | 3:38 | 2022-09-27 |  |
 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 | 2019-09-20 | 2020-05-19 |
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2019-09-06 | 2020-05-19 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-21 |  |
@@ -284,6 +285,7 @@
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-12 | 2021-05-12 |
 | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/track/06SCbxyjwwX6hj9eMLsYHi) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [In Bloom \(feat\. Georgia Lines\)](https://open.spotify.com/album/2uHzfyr7PQmAMZ9bmpxmxE) | 3:51 | 2021-03-06 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-25 | 2021-05-12 |
+| [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 | 2022-09-27 |  |
 | [In The Window Frame](https://open.spotify.com/track/35Jj1GwanVp2Hd092JQ67X) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [In The Window Frame](https://open.spotify.com/album/3GuI0z31Fex80Uut5XLmTJ) | 3:26 | 2020-05-15 | 2021-05-12 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-08 |  |
 | [Intoxicated by Youth](https://open.spotify.com/track/2ttehJCYVsY4OtBoeYOcom) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [VAALEA](https://open.spotify.com/artist/1lNnJLLTpE1pujUoW5ZyqS) | [Intoxicated by Youth](https://open.spotify.com/album/7HVcOExQiq6jU48Ksl7Yc0) | 3:01 | 2019-11-11 | 2020-02-12 |
@@ -407,6 +409,7 @@
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-27 |  |
 | [One Night](https://open.spotify.com/track/4AXjDRMqpaeWWxbZiz2ft3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [One Night](https://open.spotify.com/album/2jGkKFXesU0Ejr4mOR7it7) | 3:42 | 2020-03-06 | 2021-05-12 |
 | [One Step Back](https://open.spotify.com/track/0PbcYz8RagS1XubUiECkSr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [One Step Back](https://open.spotify.com/album/6IZFt0FKBjYHftD03Sfimc) | 3:34 | 2022-06-23 |  |
+| [Operator](https://open.spotify.com/track/0SEvjN9rWrif8YJPLePfrC) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 4:28 | 2022-09-27 |  |
 | [Orange Trees](https://open.spotify.com/track/5KgjRZKraoTkHAUONmVFo1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Orange Trees](https://open.spotify.com/album/3I9uFZjQn6d4fux1wv4UzZ) | 3:07 | 2019-08-27\* | 2019-11-11 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-07-13 |  |
 | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB) | 3:36 | 2019-11-08 | 2020-02-12 |
@@ -620,6 +623,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 |  |
 | [Witness](https://open.spotify.com/track/5M5EBLfvEqME293O0xchWX) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 4:15 | 2021-10-02 |  |
 | [Write It Down](https://open.spotify.com/track/0kPIrtp3youhat1nkmPACX) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Write It Down](https://open.spotify.com/album/04QYg0Crlk7ZQDEtUuR6zi) | 3:35 | 2019-11-01 | 2020-04-06 |
+| [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-09-27 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 |  |
 | [YOU \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/6UqVebsCryLzb2JNzTZ1xy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 4:44 | 2021-10-22 |  |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-12 |  |

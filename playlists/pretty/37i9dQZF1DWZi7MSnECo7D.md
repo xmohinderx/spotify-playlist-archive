@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Tagua Tagua
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,893 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,925 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 |
 | 2 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 |
 | 3 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 4 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 |
-| 5 | [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 |
-| 6 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
-| 7 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
-| 8 | [Amorosidade](https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Amorosidade](https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W) | 4:05 |
-| 9 | [Pagar Pra Ver I](https://open.spotify.com/track/0u0USI9jK02pHfd0eocJpz) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 1](https://open.spotify.com/album/0M8vTT7jGR6bpcvQnLQXQ3) | 4:05 |
+| 4 | [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 |
+| 5 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 |
+| 6 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
+| 7 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
+| 8 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
+| 9 | [Amorosidade](https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Amorosidade](https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W) | 4:05 |
 | 10 | [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 |
-| 11 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
-| 12 | [Na Lona](https://open.spotify.com/track/1OtTSUz91X1kuI32lItM5R) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cor de Rosa / na Lona](https://open.spotify.com/album/7aH1wrWPs3TuHWrZphdvS6) | 3:00 |
-| 13 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
-| 14 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
-| 15 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 |
+| 11 | [Na Lona](https://open.spotify.com/track/1OtTSUz91X1kuI32lItM5R) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cor de Rosa / na Lona](https://open.spotify.com/album/7aH1wrWPs3TuHWrZphdvS6) | 3:00 |
+| 12 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
+| 13 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
+| 14 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 |
+| 15 | [Pagar Pra Ver I](https://open.spotify.com/track/0u0USI9jK02pHfd0eocJpz) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 1](https://open.spotify.com/album/0M8vTT7jGR6bpcvQnLQXQ3) | 4:05 |
 | 16 | [Sem Medo de Mudar](https://open.spotify.com/track/7Jm4UVKzlHt2IFeTuZ9ksO) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Sem Medo de Mudar](https://open.spotify.com/album/44OSmMHYllqbWo6DJX3FmL) | 3:15 |
 | 17 | [Casa Amarela](https://open.spotify.com/track/1pOQA335PsUEYaJ4Q33kjg) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Casa Amarela](https://open.spotify.com/album/0l9kvFYLXMskezFJ8mD8x2) | 4:27 |
 | 18 | [Certificar](https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Certificar](https://open.spotify.com/album/4OOrg2MvhCdEoAbsvyg6yp) | 2:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 84 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 |
 | 85 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY2Mzk0MjIzNSwwMDAwMDAwMDUwMzUyNzNlNDk4NjI1ZmY0YzZmMjA4YmVmNTdjYWVj`
+Snapshot ID: `MTY2NDIxMTkyMiwwMDAwMDAwMDZmNDEyYzQ1ZTgyM2Q4YWI3ZDQxM2UyYmQ0N2JmMjYw`

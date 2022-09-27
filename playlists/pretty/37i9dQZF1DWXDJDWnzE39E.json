@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
-  "num_followers": 530838,
+  "num_followers": 530941,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDY2ZmViM2Q1NjhjMDI1YjI3NmYyZjlhMTU2ODNkMmQ5",
+  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMGU3MGI0NmJhNWFmNzU1ZmY3M2FlYjQ2ZTE1ZDcwYzE1",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        },
-        {
-          "name": "Noora Louhimo",
-          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -199,6 +179,26 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        },
+        {
+          "name": "Noora Louhimo",
+          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "We Bring You the Stars",
         "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 219280,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 262916,
+      "name": "The Game Is Over",
+      "url": "https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
         }
       ],
-      "duration_ms": 262916,
-      "name": "The Game Is Over",
-      "url": "https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf"
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
-      },
-      "artists": [
-        {
-          "name": "Smackbound",
-          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Drive It Like You Stole It",
-      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 221987,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan"
+      },
+      "artists": [
+        {
+          "name": "Smackbound",
+          "url": "https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Drive It Like You Stole It",
+      "url": "https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "K.M.B.",
-        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
         }
       ],
-      "duration_ms": 195306,
-      "name": "K.M.B.",
-      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
       },
       "artists": [
         {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1215,6 +1215,38 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Deadly Diminuendo",
+        "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 300579,
+      "name": "Deadly Diminuendo",
+      "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Apocalypse & Chill",
         "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Initiation",
         "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 456466,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Deadly Diminuendo",
-        "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 300579,
-      "name": "Deadly Diminuendo",
-      "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
     }
   ],
   "unique_name": "Heavy Queens",

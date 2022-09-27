@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-92 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+93 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Just Dance](https://open.spotify.com/track/1iJ2W8I5UDk03gZyJwHPr8) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/74C01fAZNbDVApi4YNcRXk) | 2:34 | 2021-08-24 |  |
 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 | 2021-08-24 |  |
 | [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 | 2022-08-07 |  |
-| [Lonely Days](https://open.spotify.com/track/3iV6YZ2YC9m8BpifEHC3BZ) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/2bT0tABmD8OSkWAXOBIdmK) | 3:43 | 2022-06-09 |  |
+| [Lonely Days](https://open.spotify.com/track/3iV6YZ2YC9m8BpifEHC3BZ) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/2bT0tABmD8OSkWAXOBIdmK) | 3:43 | 2022-06-09 | 2022-09-27 |
+| [Lonely Days](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II: The Rebirth](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 | 2022-08-07 |  |
 | [Lonely Days \(feat\. J Boogs\)](https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boogs](https://open.spotify.com/artist/6pLdgn9Cd1lc2QJHxrDYdX) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/4rVspDthKkUZ7OM5C0fD5j) | 3:42 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/1XZVwke6skZtveoKAR1lCz) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/0P3wyKb8NvfomTSG9ez9D8) | 3:33 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:33 | 2022-06-09 |  |

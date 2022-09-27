@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,594 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,328 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 99 | [Merry Christmas Baby](https://open.spotify.com/track/2AazSmeOckrWcJjbeGSlJx) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:22 |
 | 100 | [I'll Be Home For Christmas](https://open.spotify.com/track/4riPMXBJX7DLcuxuGtTMGm) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/4knfTM4vliB04OibXqaRnK) | 3:40 |
 
-Snapshot ID: `MTYzOTc5NjczOSwwMDAwMDAwMGZjODE0MWM4ZWRhMTgxMzQ2ZDI2MzI4NzViM2IyMGVm`
+Snapshot ID: `MTY2NDIwMzU4MywwMDAwMDAwMGQzZWVjNTIwNTEwOGE2Yjg1MjBiNmRmYmM5MjM2MzNh`

@@ -178,6 +178,28 @@
     },
     {
       "album": {
+        "name": "Ad\u00e8s / N\u00f8rg\u00e5rd / Abrahamsen",
+        "url": "https://open.spotify.com/album/2wkHkrT1trzhRCZcmqVnuN"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ad\u00e8s",
+          "url": "https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "Arcadiana, Op. 12: VI. O Albion",
+      "url": "https://open.spotify.com/track/5qU2ayuH27qR9pN8YzzOo4"
+    },
+    {
+      "album": {
         "name": "Samuel Barber - Adagio (100th anniversary)",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },

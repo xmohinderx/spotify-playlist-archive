@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR"
+    },
+    {
+      "album": {
         "name": "Break Ice",
         "url": "https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm"
       },

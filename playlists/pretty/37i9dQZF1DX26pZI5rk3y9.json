@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2180,
+  "num_followers": 2188,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMGY3ZTA2N2I3Y2JmNzFhNWMxOTk0YWI3OTk4MjRkNDc1",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDc4YWFjYzU0YjUxYmZlYzYwMmMzZDM3NzcxZjZlOGRl",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Platinum - A Life In Music",
         "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Stacked Deck (Remastered)",
         "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
       },
@@ -231,26 +231,6 @@
       "duration_ms": 202266,
       "name": "Yonder Wall",
       "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -315,6 +295,26 @@
       "duration_ms": 177306,
       "name": "Farther Up The Road",
       "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 258933,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 368706,
       "name": "I Just Want To Make Love To You",
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Blues For Everybody",
-        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "She Cooks Me Cabbage",
-      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "I Was a Mod Before You Were a Mod Vol. 2",
         "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
@@ -1103,6 +1071,22 @@
       "duration_ms": 137534,
       "name": "Crawfish",
       "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Blues For Everybody",
+        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1167,6 +1151,22 @@
       "duration_ms": 149746,
       "name": "Fat Meat 'n Greens",
       "url": "https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     }
   ],
   "unique_name": "BBQ Blues",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,240 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,247 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 | 50 | [Thug Holiday](https://open.spotify.com/track/5I3uXbWBJhkZ62znIU6XEq) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Thug Holiday \(Edited Version\)](https://open.spotify.com/album/3Yf1EXnBKpfdd1LMycHWWL) | 4:54 |
 
-Snapshot ID: `MTU3ODA3MjQ5NSwwMDAwMDAwMDk5NGVkOTM1MDFjNTk1OGEyMTZlOTIzNmJmMTE1MGJi`
+Snapshot ID: `MTY2NDE5OTIxNywwMDAwMDAwMDgzNjFkMDliNjA1ZDA1ODdhYmE3Y2FmNWE2OWVjZjQw`

@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 194000,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 352706,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/1LDfg9CitWWu8zKsUUvXXM"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
@@ -2361,6 +2361,24 @@
       "duration_ms": 106212,
       "name": "Song For Francoise",
       "url": "https://open.spotify.com/track/59Bgzhll0tIQECwB1A4phI"
+    },
+    {
+      "album": {
+        "name": "Sonus Ruinae",
+        "url": "https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu"
+      },
+      "artists": [
+        {
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583500,
+      "name": "Sonus Ruinae part 1",
+      "url": "https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS"
     },
     {
       "album": {
@@ -3395,6 +3413,42 @@
       "duration_ms": 716373,
       "name": "Valley of the Birds",
       "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
+    },
+    {
+      "album": {
+        "name": "Variations For Piano & Tape",
+        "url": "https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2677133,
+      "name": "Variation #9: Pantelleria",
+      "url": "https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq"
+    },
+    {
+      "album": {
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244693,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
     },
     {
       "album": {

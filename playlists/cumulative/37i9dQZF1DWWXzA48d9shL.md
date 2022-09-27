@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-307 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+308 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-22 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-06-24 |  |
 | [Floor 555](https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:33 | 2022-04-05 | 2022-05-16 |
+| [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 | 2022-09-26 |  |
 | [Fontanelle](https://open.spotify.com/track/7ovC65S6EK1dba4ZtqSTcF) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Fontanelle](https://open.spotify.com/album/1eNLWw4IjuHik1LWh288ii) | 2:53 | 2022-03-25 | 2022-05-14 |
 | [Fragments](https://open.spotify.com/track/7pmn83nmJSBTWg3IXW48yB) | [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675), [Edris Ali](https://open.spotify.com/artist/2mivWRyLMbsS3WyP3yaiZC) | [Fragments](https://open.spotify.com/album/6nxXGMrd5FhaQfCH9HEU0t) | 1:55 | 2022-04-15 | 2022-05-21 |
 | [Fuck Em Up](https://open.spotify.com/track/1Qwro8EUjM8MDrU8vUYSgE) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN) | [Fuck Em Up](https://open.spotify.com/album/72xLdtea89AlAtgYcQYlWR) | 2:04 | 2021-10-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 28 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 28 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 27 | [Collider](https://open.spotify.com/track/3YXJiuIDgdL020cRiF0mK2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/04Gk32cZfKW7LoU1flIAWf) | 3:08 |
 | 28 | [Place Isn't Lost](https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/0nRCOJnkNw1P1AR0vRJYEa) | 2:58 |
 
-Snapshot ID: `Mjc3MzU1MDUsMDAwMDAwMDBiYzI1ZmM3ZDdhNTdiYjBiZjVmNzNiN2VjNjhlNzMyNw==`
+Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDAzMjE2NzI1NjgwNWZmZjE4ZDRjOGFhM2Y3YTRmYmQ2ZA==`

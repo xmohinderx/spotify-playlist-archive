@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-286 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+287 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [bite](https://open.spotify.com/track/2wstGkXk7u7Lfl5UV9lHdH) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [bite](https://open.spotify.com/album/6KXqWEeEUJydPoGgGOMKX0) | 4:20 | 2022-03-11 | 2022-04-12 |
 | [Blank Canvas](https://open.spotify.com/track/5ZVOlsWUcyuEkbpGnIm2qG) | [Ephan](https://open.spotify.com/artist/7cYw1IFI9Zgds0AtI6MTQn) | [Blank Canvas](https://open.spotify.com/album/1Hv6rEHHmExavO8UA4913T) | 3:57 | 2022-01-20 | 2022-07-29 |
 | [Blue Sheen](https://open.spotify.com/track/41dKOCCGXqBROG5Fn1PmoA) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Blue Sheen](https://open.spotify.com/album/0e8KEPqtOB2OyYKoWLLLme) | 1:58 | 2021-12-06 | 2022-06-25 |
+| [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 | 2022-08-25 |  |
 | [Body Crash](https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Body Crash / Sempre Delusione](https://open.spotify.com/album/2gAaXkw8fF499AgOSKyXDT) | 3:40 | 2021-12-06 | 2022-07-25 |
 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 | 2022-06-16 |  |
 | [Book](https://open.spotify.com/track/6lpyYxV1Hd72S4ezzA47fb) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Book](https://open.spotify.com/album/1tfymjAd3g5Uz08K9qCmrh) | 2:00 | 2021-12-06 | 2022-07-29 |
@@ -288,7 +289,7 @@
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-12-06 |  |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-06 | 2022-07-11 |
 | [Wheel of Fortune](https://open.spotify.com/track/7b8yk8Rnqvfxjr8kJmZqjS) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ), [Kelley Deal](https://open.spotify.com/artist/4LjYBgwWwlYIFlpqxVJZ2a) | [Consolation E.P.](https://open.spotify.com/album/5XOHZ0WQFA1ivHjHDfFqoN) | 5:15 | 2021-12-06 | 2022-07-21 |
-| [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 | 2022-06-16 |  |
+| [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 | 2022-06-16 | 2022-09-27 |
 | [Who's My Eugene? \- Edit](https://open.spotify.com/track/5JqeO2yMJNmdgk2B7HPy9i) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/13p78S0Epiab4voDdM4F2w) | 4:08 | 2021-12-06 | 2022-07-19 |
 | [Who’s Got Time?](https://open.spotify.com/track/6rNIOIuVgJeftM3T0f0AVg) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Constant Image](https://open.spotify.com/album/6fvUDhvz6hDVck9epHLnf6) | 2:23 | 2021-12-06 | 2022-07-20 |
 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 | 2021-12-06 | 2022-07-27 |

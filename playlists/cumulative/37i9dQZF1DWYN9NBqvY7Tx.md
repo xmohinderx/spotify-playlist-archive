@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-290 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+291 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2022-06-24 | 2022-09-03 |
 | [Event Horizon](https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Event Horizon + Remixes](https://open.spotify.com/album/27brn65Vr5GU1XCdmcnrhW) | 3:32 | 2022-05-06 | 2022-07-04 |
 | [Everything](https://open.spotify.com/track/2goIIAg5kdzfwclJMFZM33) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/4cKQLSgQBD6gnxp7U9lK4X) | 4:27 | 2022-05-06 | 2022-06-01 |
-| [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 | 2022-07-14 |  |
+| [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 | 2022-07-14 | 2022-09-27 |
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2022-05-06 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-14 |  |
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-12 | 2022-08-13 |
@@ -269,6 +269,7 @@
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-08-25 |
 | [u.](https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml) | 2:54 | 2022-08-12 | 2022-08-21 |
 | [u.](https://open.spotify.com/track/3bwIVaOlLSX4rInoLgB3uX) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/3R8Yfbc9k1aNH6kTqaYLyj) | 2:54 | 2022-08-26 |  |
+| [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 | 2022-09-23 |  |
 | [Unify](https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Unify / Lift Me Up](https://open.spotify.com/album/5IYZPdgIRq01r0noaioYf9) | 4:49 | 2022-05-06 | 2022-07-28 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 |  |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |

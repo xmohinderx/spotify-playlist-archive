@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 6759,
+  "num_followers": 6767,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMDczYzA5ZDA0Mjk4YjFjZTY4MzMyY2JlNDk0ODZkNjY4",
+  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMGJhNmQxNWNlMzNmYmRlOGM5YjA3NWRiYThhYTBkOWRm",
   "tracks": [
     {
       "added_at": "2021-12-22 17:48:04",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -507,6 +523,22 @@
       "duration_ms": 205000,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -547,38 +579,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Breaking Up Was Easy In The 90's",
-      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+      "duration_ms": 215933,
+      "name": "Breaking Up Was Easy In The 90's",
+      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -727,22 +727,18 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+        "name": "Born Here Live Here Die Here",
+        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 158240,
-      "name": "Good Times Roll",
-      "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
+      "duration_ms": 221633,
+      "name": "Down To One",
+      "url": "https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -763,22 +759,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Born Here Live Here Die Here",
-        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 221633,
-      "name": "Down To One",
-      "url": "https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 206506,
       "name": "Snapback",
       "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 158240,
+      "name": "Good Times Roll",
+      "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Beer In Mexico",
-      "url": "https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 164733,
       "name": "Hell On The Heart",
       "url": "https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Beer In Mexico",
+      "url": "https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy Town",
-      "url": "https://open.spotify.com/track/5eH1ktZDHgegpkYJOY7tme"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 171440,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Crazy Town",
+      "url": "https://open.spotify.com/track/5eH1ktZDHgegpkYJOY7tme"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Never Be Sorry",
+      "url": "https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "Take It From Me (Brandon Day Remix)",
         "url": "https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 203773,
       "name": "All The Good Ones Are",
       "url": "https://open.spotify.com/track/1IjgkEL1a0oBxSulmkQOUR"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Never Be Sorry",
-      "url": "https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1683,30 +1683,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Thought This Through (Talegate Remix)",
-        "url": "https://open.spotify.com/album/3n3qky3fUqU7XnHno66e9P"
-      },
-      "artists": [
-        {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
-        },
-        {
-          "name": "Talegate",
-          "url": "https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Thought This Through (Talegate Remix)",
-      "url": "https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Be Like That (Remixes) - EP",
         "url": "https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3"
       },
@@ -1731,6 +1707,30 @@
       "duration_ms": 204053,
       "name": "Be Like That (feat. Swae Lee & Khalid) [Matt Medved Remix]",
       "url": "https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Thought This Through (Talegate Remix)",
+        "url": "https://open.spotify.com/album/3n3qky3fUqU7XnHno66e9P"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        },
+        {
+          "name": "Talegate",
+          "url": "https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Thought This Through (Talegate Remix)",
+      "url": "https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca"
     }
   ],
   "unique_name": "Country Cardio",

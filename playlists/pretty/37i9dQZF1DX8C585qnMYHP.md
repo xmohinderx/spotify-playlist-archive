@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Ørdop Wolkenscheidt Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,257 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,297 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 40 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
 | 41 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
 | 42 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
-| 43 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
-| 44 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
-| 45 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
-| 46 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
-| 47 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
-| 48 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
-| 49 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 43 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
+| 44 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
+| 45 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
+| 46 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
+| 47 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
+| 48 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 49 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
 | 50 | [sunflower](https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [it's a secret / sunflower](https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6) | 3:44 |
 
-Snapshot ID: `MTY2MzcyODg1MCwwMDAwMDAwMGNiZDNkZDU1MGViOTI1ODRhMWRjMTcxZGNmM2Q3Mjgz`
+Snapshot ID: `MTY2MzcyODg1MCwwMDAwMDAwMDJkMjcyMWYxZjY5NDAzMDJjZWZlZWU2NDMwMmFjYzJj`

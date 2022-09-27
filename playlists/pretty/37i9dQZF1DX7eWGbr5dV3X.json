@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 6507,
+  "num_followers": 6525,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDlhZDllOTE0ZmM4ZjZlMWEyOTRhYmZiYTgzZjcyNzZi",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDdkZDY1YzI3ZDE0Y2VlNTJhMDYxYjlkNTg2ODdkYzRj",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "ok on your own",
         "url": "https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK"
       },
@@ -199,54 +215,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Honey Understand",
-      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
       },
@@ -263,18 +231,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+      "duration_ms": 241920,
+      "name": "Honey Understand",
+      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -307,6 +275,38 @@
       "duration_ms": 170066,
       "name": "Crutches",
       "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 203997,
       "name": "Safe",
       "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",

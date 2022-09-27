@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 161932,
+  "num_followers": 161984,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDAzMjZiODE3NTI3MTgxYWM1NmI5NjEyMjI0MWZkZDQ5",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGZjN2RkZTIxMmY3ZGJjM2Y1ZDAzY2M2MDhkMTk4NDQ1",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 336440,
       "name": "Take The Power Back",
       "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 124880,
       "name": "I Don't Wanna Be Blind",
       "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Prayers for the Damned",
-        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
-      },
-      "artists": [
-        {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204240,
       "name": "Riot!",
       "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Prayers for the Damned",
+        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 204613,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Weather Strike",
-        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
+        "name": "Powerflo",
+        "url": "https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+          "name": "Powerflo",
+          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Weather Strike",
-      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
+      "duration_ms": 206373,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
     }
   ],
   "unique_name": "Rise Up",

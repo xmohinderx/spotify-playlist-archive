@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2864,
+  "num_followers": 2865,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDgzNGE1MmE1ODkxYjBjZjI4ZGE2ZDliNWZjMTUxNGNm",
+  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDMxNTFiMTgxN2UyZTA3ZWIyMjQ4ZjdkMDZiMGJhMWE0",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "I'LL BE YOUR SPRING",
-        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
-      },
-      "artists": [
-        {
-          "name": "Olivia Hye",
-          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
-        }
-      ],
-      "duration_ms": 189664,
-      "name": "I'LL BE YOUR SPRING",
-      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "I'LL BE YOUR SPRING",
+        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
+      },
+      "artists": [
+        {
+          "name": "Olivia Hye",
+          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
+        }
+      ],
+      "duration_ms": 189664,
+      "name": "I'LL BE YOUR SPRING",
+      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Mean \uc2ec\uc220",
-      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Love Love Love",
         "url": "https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi"
       },
@@ -595,6 +563,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -611,6 +595,42 @@
       "duration_ms": 167800,
       "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
       "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Love Encore (with Lee Sora)",
+      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -635,26 +655,6 @@
       "duration_ms": 168970,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Love Encore (with Lee Sora)",
-      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
+        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Spring Is Come By Chance",
+      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
         "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
-        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "An da eun",
-          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Spring Is Come By Chance",
-      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Mini Stewardess",
+        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "Mini Stewardess",
+      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Mini Stewardess",
-        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "Mini Stewardess",
-      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
       "artists": [
         {
-          "name": "INYU",
-          "url": "https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t"
-        },
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
-      "duration_ms": 181680,
-      "name": "OH NONONO",
-      "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
+      "duration_ms": 211400,
+      "name": "Only I Want To Know",
+      "url": "https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

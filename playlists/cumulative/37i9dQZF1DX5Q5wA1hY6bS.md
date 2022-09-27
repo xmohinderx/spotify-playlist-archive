@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-424 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+425 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alone but Not Alone](https://open.spotify.com/track/5L4FNK53OR0qlZHcZBtosH) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Alone but Not Alone](https://open.spotify.com/album/5DZTIAEVTJvKIaOVreuvs5) | 3:17 | 2019-05-26\* | 2022-06-01 |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2019-05-26\* |  |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2019-05-26\* |  |
+| [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-05-27 |  |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-27 | 2022-07-29 |
 | [Arizona](https://open.spotify.com/track/7hGeRC8nVfXI4a9sC8x8N7) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Arizona](https://open.spotify.com/album/4hiNrZKf4GuN3Djx0ngOkd) | 3:19 | 2019-05-26\* | 2022-06-23 |
 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 | 2019-05-26\* |  |
@@ -376,7 +377,7 @@
 | [The Wolves](https://open.spotify.com/track/2eCTe3QlYxQlBhPTSMVIRU) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:09 | 2019-06-23 | 2019-10-25 |
 | [The Woods](https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 4:01 | 2022-05-27 |  |
 | [The Woods](https://open.spotify.com/track/5x0UC3wIVGKWtWl4Pax8le) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods](https://open.spotify.com/album/2F9Kw2PoocKuWY8seDNAzS) | 4:02 | 2019-05-26\* | 2021-12-27 |
-| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2019-05-26\* |  |
+| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2019-05-26\* | 2022-09-27 |
 | [Third of May / Ōdaigahara \- Edit](https://open.spotify.com/track/3Q3LbqfjDhWjmyYeirHfDe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Third of May / Ōdaigahara \(Edit\)](https://open.spotify.com/album/4ch37agV9poERen5tOVHrb) | 4:02 | 2019-05-29 | 2019-10-26 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/0s7rK6ZBik5I0t1gxSVQRg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Thirteen Sad Farewells](https://open.spotify.com/album/57MGwnhweNo0KT82u4fdmK) | 2:45 | 2019-06-22 | 2021-02-04 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2020-11-11 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 63076,
+  "num_followers": 63119,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcyNCwwMDAwMDAwMGFkNmYwNzczOWRmNDEyN2VmMzFlMWI1ZjA2M2YzNzgw",
+  "snapshot_id": "MTY2MzAwMDcyNCwwMDAwMDAwMDVmYjdmMjk1ZDZiMDZjZTkxMjFjZmYyYWJhOTA2YzM3",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:44",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 96840,
+      "name": "Mesquite Shade",
+      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 211600,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 96840,
-      "name": "Mesquite Shade",
-      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
         "name": "Blues In Mono",
         "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
       },
@@ -327,38 +343,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "Preachin' Blues",
         "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 316360,
       "name": "Preachin' Blues",
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 188373,
       "name": "Let Your Light Shine on Me",
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
         "name": "In the Morning Twilight",
         "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -627,6 +611,22 @@
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2022-09-12 16:38:44",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-09-12 16:38:44",
       "album": {
+        "name": "Alaska Blue",
+        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
+      },
+      "artists": [
+        {
+          "name": "Barry Mcloughlin",
+          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
+        },
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Alaska Blue",
+      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
+    },
+    {
+      "added_at": "2022-09-12 16:38:44",
+      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 412581,
       "name": "Sarah Anne",
       "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2022-09-12 16:38:44",
-      "album": {
-        "name": "Alaska Blue",
-        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
-      },
-      "artists": [
-        {
-          "name": "Barry Mcloughlin",
-          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
-        },
-        {
-          "name": "Chris Kramer",
-          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Alaska Blue",
-      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
     },
     {
       "added_at": "2022-09-12 16:38:44",

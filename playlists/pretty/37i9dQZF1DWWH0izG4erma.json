@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Kendall Marvel",
-  "num_followers": 472642,
+  "num_followers": 472765,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDg1MjE4MTZhODIwNjJlNWJiOGE3ZGQwYzhjOWMyN2Y4",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQyNDUyN2YxYTM1ZDUyOTBkNmU1ZjZiM2FjNDU1NmQ3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -251,30 +251,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        },
-        {
-          "name": "Ivan Moody",
-          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
-        },
-        {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 197234,
-      "name": "Outlaws & Outsiders",
-      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -311,18 +299,30 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Ivan Moody",
+          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 197234,
+      "name": "Outlaws & Outsiders",
+      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "The Wolf",
         "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 337239,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 211517,
       "name": "One Hell of an Angel",
       "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 218419,
-      "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Brothers Osborne",
         "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 213826,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 218419,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "There's Always Next Year",
-      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sound of the South",
-        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Austin",
-          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
-        }
-      ],
-      "duration_ms": 243163,
-      "name": "Sound of the South",
-      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sound of the South",
+        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Austin",
+          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
+        }
+      ],
+      "duration_ms": 243163,
+      "name": "Sound of the South",
+      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",

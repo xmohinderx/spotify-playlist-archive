@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,243 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,315 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 45 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 | 46 | [50 Ways to Leave Your Lover \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/5R7BOhW46EhAb8B7dnRciJ) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:49 |
 
-Snapshot ID: `Mjc3MzU1MDUsMDAwMDAwMDBjNjQyMzMxMGNiOGM0OTFiZWMzZjVkNTJlYzRiNDhkMQ==`
+Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDAxZmM1NjgzNmYzYWM1NDhiZTJiMDkyMzY2NjFiMzZmNQ==`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-693 songs - 1 day 15 hr 27 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+694 songs - 1 day 15 hr 31 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Caballo Homosexual De Las Montañas](https://open.spotify.com/track/5qJ1OFXySmyGcs7Sn6r2cf) | [Karil](https://open.spotify.com/artist/2O0QRCDgbkloUKfSCIUtTD) | [Caballo Homosexual De Las Montañas](https://open.spotify.com/album/0tUOF6Ri9RJM99uHQEj4bD) | 5:00 | 2022-08-20 | 2022-08-28 |
 | [Cacao](https://open.spotify.com/track/42Dg7pvCBviPP92At3vOT5) | [Byron Salas](https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v) | [Cacao](https://open.spotify.com/album/1kwOhnYMyN8RQQ83muJELC) | 2:47 | 2022-03-15 | 2022-03-21 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-07 |  |
-| [Caile vs Relacion Intro \- Remix](https://open.spotify.com/track/7ylfFWPWp7LU3A9tD2Dks6) | [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d), [Nico Servidio DJ](https://open.spotify.com/artist/3i7yBAT4mjWA8Vih7a9Xig) | [Caile vs Relacion Intro](https://open.spotify.com/album/1kqq18ZWliMWRCzOBX5LAg) | 2:35 | 2022-09-23 |  |
+| [Caile vs Relacion Intro \- Remix](https://open.spotify.com/track/7ylfFWPWp7LU3A9tD2Dks6) | [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d), [Nico Servidio DJ](https://open.spotify.com/artist/3i7yBAT4mjWA8Vih7a9Xig) | [Caile vs Relacion Intro](https://open.spotify.com/album/1kqq18ZWliMWRCzOBX5LAg) | 2:35 | 2022-09-23 | 2022-09-27 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-03-16 | 2022-03-21 |
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-05-07 | 2022-05-15 |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-08-29 |  |
@@ -146,6 +146,7 @@
 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-08-11 | 2022-08-17 |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2022-01-19 | 2022-01-27 |
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-02-20 | 2022-04-20 |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-26 |  |
 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-07-16 | 2022-07-26 |
 | [Cure For Me](https://open.spotify.com/track/7Iiek3SL6PluRxj9IgbTC1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:18 | 2022-09-15 | 2022-09-17 |
 | [Cuéntale](https://open.spotify.com/track/0Csg92rNdP9387GsjCI5Uh) | [Quevedo](https://open.spotify.com/artist/6sWzwWCwzWOfdrHcjOnREU) | [Cuéntale](https://open.spotify.com/album/6MCQRQTFiwtAwcLyW07qBk) | 2:39 | 2022-09-20 | 2022-09-23 |

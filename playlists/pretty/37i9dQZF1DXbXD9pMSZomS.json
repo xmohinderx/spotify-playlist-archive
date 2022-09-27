@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 390436,
+  "num_followers": 390616,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDYxZDBlOThjMjY1MjQzMjE5NDMxNGMyMmE3M2MyNTRm",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDRhNmIyZDcxM2JiYzJlN2Y0ZDkxODMxMGRlNDZmOTM4",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Intimate Fantasy",
+        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "porco rosso",
         "url": "https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 351207,
       "name": "Rare Happiness",
       "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Intimate Fantasy",
-        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Floating on Silence",
         "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
       "artists": [
         {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -463,6 +447,22 @@
       "duration_ms": 169000,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Invisible Man",
         "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+        "name": "Ode to Ipse",
+        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
       },
       "artists": [
         {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
         }
       ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+      "duration_ms": 338997,
+      "name": "Ode to Ipse",
+      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Ode to Ipse",
-        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
       "artists": [
         {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
         }
       ],
-      "duration_ms": 338997,
-      "name": "Ode to Ipse",
-      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -891,22 +907,6 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "199X",
         "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213333,
       "name": "199X",
       "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2022-09-16 16:08:51",

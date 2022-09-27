@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 95935,
+  "num_followers": 96014,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGY5ZTgzZTZkMjc2MTE0NmNlMjUxYWFmMGEwNDJlNzAz",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGJhMjEyMGQ1NmYxZWUwNTljMWE5ODkwZGE3NzE2YWY3",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Values",
-        "url": "https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "Dios Nunca Falla",
-      "url": "https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
       },
@@ -91,74 +75,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Oxigeno",
-        "url": "https://open.spotify.com/album/27RxGAYGrcBwdp3KBdlZIb"
+        "name": "Values",
+        "url": "https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H"
       },
       "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 321803,
-      "name": "Ganarlos a Todos",
-      "url": "https://open.spotify.com/track/0XmNgMHkBTJHXY968aCLWF"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Cambiaste Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "No Fallar\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
         {
           "name": "Madiel Lara",
           "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 380571,
-      "name": "No Fallar\u00e1 (Remix)",
-      "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
+      "duration_ms": 190511,
+      "name": "Dios Nunca Falla",
+      "url": "https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -235,18 +163,42 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+        "name": "No Fallar\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
       },
       "artists": [
         {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
           "name": "Alex Zurdo",
           "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+      "duration_ms": 380571,
+      "name": "No Fallar\u00e1 (Remix)",
+      "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -267,18 +219,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+      "duration_ms": 229240,
+      "name": "Cambiaste Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -331,6 +283,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Dependo de Ti",
         "url": "https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 219692,
       "name": "Tu Eres (feat. Andrea Dominguez)",
       "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -643,22 +627,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Mi Fe",
-        "url": "https://open.spotify.com/album/2U7t67tqrgQHexFBMPiu62"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 235273,
-      "name": "Mi Fe",
-      "url": "https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Ante Tus Pies",
         "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 212968,
       "name": "Ante Tus Pies",
       "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Mi Fe",
+        "url": "https://open.spotify.com/album/2U7t67tqrgQHexFBMPiu62"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 235273,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -711,54 +695,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
-      },
-      "artists": [
-        {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "En Bachata",
         "url": "https://open.spotify.com/album/0dkfS9yeP95kcYJ9tEUDlF"
       },
@@ -779,6 +715,54 @@
       "duration_ms": 250435,
       "name": "Agradecido Estoy",
       "url": "https://open.spotify.com/track/4hyYpJPQggt4G3butLCsRD"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -883,6 +867,22 @@
       "duration_ms": 232360,
       "name": "Le Llaman Jesus",
       "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Poniendo el Estilo",
+        "url": "https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Bless",
+          "url": "https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv"
+        }
+      ],
+      "duration_ms": 258504,
+      "name": "Poniendo el Estilo",
+      "url": "https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5"
     }
   ],
   "unique_name": "Baila Con Dios",

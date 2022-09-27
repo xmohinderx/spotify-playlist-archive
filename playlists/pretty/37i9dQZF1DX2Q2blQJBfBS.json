@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 128385,
+  "num_followers": 128628,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDhmMDgyMDZmNzI0ZmJhNzMzNjFhMzgxNjJjYzU4ZjAx",
+  "snapshot_id": "MTY2NDIyMjU1MywwMDAwMDAwMGI2MjI2N2IyZGMxMzhlMTNmYzQyMmQzMzdhMzg0NjVi",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "4r Da Squaw",
+      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Don't Sweat The Technique",
         "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Sun's Tirade",
-        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 232571,
-      "name": "4r Da Squaw",
-      "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
+      "duration_ms": 261266,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
         }
       ],
-      "duration_ms": 261266,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+      "duration_ms": 263533,
+      "name": "I Like It (I Wanna Be Where You Are)",
+      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -759,22 +775,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "I Like It (I Wanna Be Where You Are)",
-      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Lupe Fiasco's The Cool",
         "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
       },
@@ -1015,34 +1015,6 @@
       "duration_ms": 112787,
       "name": "Lye",
       "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
-    },
-    {
-      "added_at": "2022-05-27 13:52:51",
-      "album": {
-        "name": "Orville",
-        "url": "https://open.spotify.com/album/5Stm14z1kSAhqBta9OUium"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Like",
-          "url": "https://open.spotify.com/artist/2J2V1PxHVZ1ANtT8Y2UdTS"
-        },
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
-        }
-      ],
-      "duration_ms": 202338,
-      "name": "Orville (feat. Like, Blu & Exile)",
-      "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1081,6 +1053,34 @@
       "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
+      "added_at": "2022-05-27 13:52:51",
+      "album": {
+        "name": "Orville",
+        "url": "https://open.spotify.com/album/5Stm14z1kSAhqBta9OUium"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Like",
+          "url": "https://open.spotify.com/artist/2J2V1PxHVZ1ANtT8Y2UdTS"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "duration_ms": 202338,
+      "name": "Orville (feat. Like, Blu & Exile)",
+      "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Da Dirty 30",
@@ -1095,26 +1095,6 @@
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "God Bless The Child",
-        "url": "https://open.spotify.com/album/4PXGJHjmwPOZjQyCz6tRzE"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        },
-        {
-          "name": "Tae Beast",
-          "url": "https://open.spotify.com/artist/4r2BR0weBo7onIaWzsNSOI"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "FEDS",
-      "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1139,38 +1119,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
+        "name": "God Bless The Child",
+        "url": "https://open.spotify.com/album/4PXGJHjmwPOZjQyCz6tRzE"
       },
       "artists": [
         {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 259708,
-      "name": "I See Now",
-      "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "48",
-        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
-      },
-      "artists": [
-        {
-          "name": "Maxo",
-          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
         },
         {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+          "name": "Tae Beast",
+          "url": "https://open.spotify.com/artist/4r2BR0weBo7onIaWzsNSOI"
         }
       ],
-      "duration_ms": 159236,
-      "name": "48 (feat. Pink Siifu)",
-      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
+      "duration_ms": 160879,
+      "name": "FEDS",
+      "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1195,6 +1159,22 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 259708,
+      "name": "I See Now",
+      "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1249,6 +1229,26 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 159236,
+      "name": "48 (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "MOVIN'",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
+    },
+    {
       "added_at": "2022-08-19 19:38:15",
       "album": {
         "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
@@ -1311,22 +1327,6 @@
       "duration_ms": 214946,
       "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1573,26 +1573,6 @@
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Intros, Outros & Interludes",
-        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
-      },
-      "artists": [
-        {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Victories & Losses",
-      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "2 P'z In A Pod",
@@ -1615,6 +1595,26 @@
       "duration_ms": 177819,
       "name": "Vanilla Cream",
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Intros, Outros & Interludes",
+        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Victories & Losses",
+      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1741,22 +1741,6 @@
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Aethiopes",
@@ -1819,6 +1803,22 @@
       "duration_ms": 107379,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1937,28 +1937,20 @@
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
-      "added_at": "2022-07-29 12:00:00",
+      "added_at": "2022-05-20 12:00:00",
       "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/6JsKd55kYxqe4J9itPHEK0"
+        "name": "Deathfame",
+        "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
       },
       "artists": [
         {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        },
-        {
-          "name": "Noveliss",
-          "url": "https://open.spotify.com/artist/1UGDRPJLpMkqbtvPtH4hxG"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
         }
       ],
-      "duration_ms": 260062,
-      "name": "Morning Glory",
-      "url": "https://open.spotify.com/track/5ZrvXAqXaFW1MJe0xkgDbh"
+      "duration_ms": 205428,
+      "name": "DEATHFAME",
+      "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     }
   ],
   "unique_name": "The Skate Shop",

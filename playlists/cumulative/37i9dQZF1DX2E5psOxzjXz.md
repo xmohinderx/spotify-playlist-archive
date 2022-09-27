@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-126 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+128 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Kuch Kehna Chahta Huun](https://open.spotify.com/track/1R1nOl9ebAMtbKbdsYwXP4) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Kuch Kehna Chahta Huun](https://open.spotify.com/album/706SFuEEkihlYZjUzjBh0s) | 3:27 | 2021-12-06 |  |
 | [Laapata](https://open.spotify.com/track/1IDTcdNMVERhnQdlhJOteE) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Laapata](https://open.spotify.com/album/2DUgK8zAl9l0mpiEUyJkkp) | 5:35 | 2021-12-06 | 2022-06-04 |
 | [Laapata \(Original Soundtrack\)](https://open.spotify.com/track/4ItcLqYlyYMwZ1KfR8hwba) | [Farhan Zameer](https://open.spotify.com/artist/1z31jJSEmPHMhysFHbU2e7), [Kiran Waseem](https://open.spotify.com/artist/73EU1Zz0Vx2STSyTgp41BX), [Tehseen W\. Chishty](https://open.spotify.com/artist/3SJUvKLk5mtpNUhmG3M7nQ) | [Laapata \(Original Soundtrack\)](https://open.spotify.com/album/405NorynkVpd9emhYHBf20) | 5:07 | 2021-12-06 | 2022-06-17 |
+| [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2022-09-26 |  |
 | [LIGHTSPEED](https://open.spotify.com/track/7acZeCG01zFILBoZkpwUAg) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [LIGHTSPEED](https://open.spotify.com/album/67qPextXnvkGy0kjEq14Uo) | 2:30 | 2021-12-06 | 2022-06-11 |
 | [lost](https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [lost](https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g) | 3:11 | 2021-12-06 |  |
 | [Lovesick](https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Lovesick](https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0) | 3:04 | 2021-12-06 | 2022-09-06 |
@@ -124,6 +125,7 @@
 | [Teri Ay](https://open.spotify.com/track/3WBsWNtL054HCFz7UUGK9e) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Patang](https://open.spotify.com/album/2dtBK0Vkm1vrkucjfaqR3I) | 3:52 | 2021-12-06 |  |
 | [The River](https://open.spotify.com/track/1bUp7N1YaBxIcZAk1VmQ0N) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Tar](https://open.spotify.com/album/4HEA1y0YM2G74eNsF780sT) | 3:54 | 2021-12-06 | 2022-01-29 |
 | [Theek Hai](https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Theek Hai](https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183) | 2:22 | 2022-01-18 |  |
+| [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 | 2022-09-26 |  |
 | [tu.](https://open.spotify.com/track/1qfSMBorwvTksLLUoB6CT7) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [tu.](https://open.spotify.com/album/2OHu5h0VR4HG61oyGmW4ri) | 2:30 | 2021-12-06 |  |
 | [Tum Kaafi Ho](https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX) | [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Tum Kaafi Ho](https://open.spotify.com/album/3RSad5lC4GUToepucxTIca) | 2:44 | 2021-12-06 |  |
 | [Until We Meet](https://open.spotify.com/track/7j0YOebrohxBaXp0bCFbnK) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Until We Meet](https://open.spotify.com/album/3en5RU3ddo7fUZahK6rc1i) | 2:55 | 2022-01-28 |  |

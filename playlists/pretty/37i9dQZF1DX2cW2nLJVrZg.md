@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees from the 94th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,436 likes - 15 songs - 44 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 87,433 likes - 15 songs - 44 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 8 | [Somehow You Do \- From The Motion Picture Four Good Days](https://open.spotify.com/track/4GsGJNWcvaQYQQEqOdRKW7) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Somehow You Do \(From The Motion Picture Four Good Days\)](https://open.spotify.com/album/4dgSC9bkrHoskWA594mORP) | 3:57 |
 | 9 | [Don't Look Up \- Main Title Theme](https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 0:51 |
 | 10 | [25 Years](https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:17 |
-| 11 | [Sesión de fotos](https://open.spotify.com/track/6FA3YNEZmIGEcgecdOKAd6) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Parallel Mothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj) | 1:11 |
-| 12 | [Stranded](https://open.spotify.com/track/6WaMnIomt4iOthNrVaqoIR) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 0:58 |
+| 11 | [Stranded](https://open.spotify.com/track/6WaMnIomt4iOthNrVaqoIR) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 0:58 |
+| 12 | [Sesión de fotos](https://open.spotify.com/track/6FA3YNEZmIGEcgecdOKAd6) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Parallel Mothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj) | 1:11 |
 | 13 | [It's A Strange Glorious World](https://open.spotify.com/track/1SshbVdE2eoozhRWnVDIuL) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 2:34 |
 | 14 | [West](https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:32 |
 | 15 | [El visillo volante](https://open.spotify.com/track/6pwJntFxsD92d61GiUd8DX) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Parallel Mothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj) | 2:14 |
 
-Snapshot ID: `MTY0ODUxMTczNSwwMDAwMDAwMGM2NGIzMTc1MWYxZDNkNWY0MjYyMjhkZTQ4MGY3MmQ3`
+Snapshot ID: `MTY0ODUxMTczNSwwMDAwMDAwMDAxZDliMGJmOTE0MGExOThmNjFlYjgxMDYyOTY2Zjk0`

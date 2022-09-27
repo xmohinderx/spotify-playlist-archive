@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 864162,
+  "num_followers": 864244,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2ODAyNiwwMDAwMDAwMDc1MWY3NDUxNTYzMTg5ZjQyN2JhOWJkZGI0ODUyOWZi",
+  "snapshot_id": "MTY2MzE2ODAyNiwwMDAwMDAwMDc4MmMyZDE3OWE2M2IzZDA1ZDE2NmYxM2RmMjg5ODNk",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "UCLA",
-      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 228169,
       "name": "All of Me (feat. Logic, ROZES)",
       "url": "https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "NOVA",
+        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "UCLA",
+      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Dum Dee Dum",
-        "url": "https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Dum Dee Dum",
-      "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Dum Dee Dum",
+        "url": "https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Dum Dee Dum",
+      "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Starman",
         "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 211875,
       "name": "Kaleidoscope (Feat. Crystalline)",
       "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Shiawase",
         "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 217787,
       "name": "Shiawase",
       "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "People I Know",
-        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "People I Know",
-      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "People I Know",
+        "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "People I Know",
+      "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
     },
     {
       "added_at": "2022-09-02 04:01:00",

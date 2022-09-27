@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 131572,
+  "num_followers": 131608,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYzNTEwNCwwMDAwMDAwMGY4YjM0ZmVkYTcxMTkwMWRlYjg3NzNlYWE0ZDhjNjgy",
+  "snapshot_id": "MTY2MjYzNTEwNCwwMDAwMDAwMDNhYWVjNjIyYjI3Mjg2ZmUyYjViYzhhMmU1NzQ4MzZm",
   "tracks": [
     {
       "added_at": "2022-09-08 11:05:04",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 244820,
-      "name": "ILYSB - STRIPPED",
-      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Asal Mein",
         "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 224240,
       "name": "Asal Mein",
       "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "My Only One (No Hay Nadie M\u00e1s)",
-        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "My Only One (No Hay Nadie M\u00e1s)",
-      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 191280,
       "name": "Is That Alright?",
       "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "My Only One (No Hay Nadie M\u00e1s)",
+        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "My Only One (No Hay Nadie M\u00e1s)",
+      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -711,22 +711,6 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -787,6 +771,22 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "THE SNAKE",
-        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
-      },
-      "artists": [
-        {
-          "name": "Lana Lubany",
-          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "THE SNAKE",
-      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "THE SNAKE",
+        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "THE SNAKE",
+      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Malay Mo, Tayo",
-        "url": "https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 274291,
-      "name": "Malay Mo, Tayo",
-      "url": "https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Title (Expanded Edition)",
         "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 274291,
+      "name": "Malay Mo, Tayo",
+      "url": "https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Truth Is (Spanish Version)",
-      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 202386,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Truth Is (Spanish Version)",
+      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "100 Days My Prince (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 232083,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "From Midnight To Sunrise",
         "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 264666,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "100 Days My Prince (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 232083,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
+        "name": "Benar Cinta",
+        "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        },
+        {
+          "name": "Aldy Maldini",
+          "url": "https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh"
+        }
+      ],
+      "duration_ms": 239330,
+      "name": "Benar Cinta",
+      "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
-        "name": "Benar Cinta",
-        "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
-      },
-      "artists": [
-        {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
-        },
-        {
-          "name": "Aldy Maldini",
-          "url": "https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh"
-        }
-      ],
-      "duration_ms": 239330,
-      "name": "Benar Cinta",
-      "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 239803,
       "name": "Sick",
       "url": "https://open.spotify.com/track/0PNe1yHadbi9T3hWSVn1VT"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Madhaniyan (Live) - Single",
-        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 261593,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Akustikhane",
         "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Madhaniyan (Live) - Single",
+        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261593,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Don't forget me (Prod. ROCOBERRY)",
-        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "Don't forget me (Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Don't forget me (Prod. ROCOBERRY)",
+        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "Don't forget me (Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
       },
@@ -2367,18 +2351,18 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
       "artists": [
         {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
         }
       ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2395,6 +2379,22 @@
       "duration_ms": 230000,
       "name": "How We Love",
       "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-09-08 11:05:04",

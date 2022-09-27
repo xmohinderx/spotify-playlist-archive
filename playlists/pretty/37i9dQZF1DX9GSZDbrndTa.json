@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 64913,
+  "num_followers": 65006,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGU3Yzg3Y2I0YWFlM2UxYzEwMWRlNmNmYjQ1NDBjMDZl",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDgwM2I2YzU2MzVmMWQ1OTgwNjBkYTQ4MGUwM2U3Mzdi",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "C Jam Blues",
-      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
         "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 418246,
       "name": "Mr. P.C. - Mono",
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "C Jam Blues",
+      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -419,8 +419,8 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Savoy 10-inch LP Collection",
-        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+        "name": "Charlie Parker Memorial, Vol. 2",
+        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Cheryl",
-      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+      "duration_ms": 192186,
+      "name": "Billie's Bounce - Original",
+      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "The Freelance Years",
         "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -515,6 +531,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -531,18 +563,30 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Ernie Henry",
+          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 405653,
-      "name": "Doodlin' - Remastered",
-      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+      "duration_ms": 787933,
+      "name": "Ba-Lue Bolivar Ba-Lues-Are",
+      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -563,22 +607,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Charlie Parker Memorial, Vol. 2",
-        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Billie's Bounce - Original",
-      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -615,50 +643,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 556226,
-      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Ernie Henry",
-          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 787933,
-      "name": "Ba-Lue Bolivar Ba-Lues-Are",
-      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Blues In the Night",
-        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 414666,
-      "name": "Back Slidin'",
-      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
+      "duration_ms": 556226,
+      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -703,6 +687,22 @@
       "duration_ms": 682173,
       "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",

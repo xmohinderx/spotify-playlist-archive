@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-565 songs - 1 day 9 hr 28 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+566 songs - 1 day 9 hr 33 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Qua Khung Cửa Sổ](https://open.spotify.com/track/6jOP08e9PHDnoF3reZcePE) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7Kmjgg0UXtZyZQdgTuSg1d) | 4:59 | 2021-03-27\* | 2021-05-08 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-08-28 |
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-04 | 2022-06-21 |
+| [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 | 2022-09-26 |  |
 | [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 | 2022-08-18 |
 | [Ready For Love](https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:04 | 2022-09-17 |  |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-07-29 | 2021-09-04 |
@@ -569,7 +570,7 @@
 | [Đốt](https://open.spotify.com/track/2LTNFan0VgVJzbbPvSwm7e) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Đốt](https://open.spotify.com/album/7dycpQTXXOU6izdXPVGPOS) | 3:55 | 2021-06-05 | 2021-06-07 |
 | [Độ Tộc 2](https://open.spotify.com/track/0wlU1vgrK0jpibrvooCvu0) | [Độ Mixi](https://open.spotify.com/artist/0TZKKZG6WHl2aVFPDtND82), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Độ Tộc 2](https://open.spotify.com/album/4F7nWb4k7PgDYbSxQWEumP) | 3:21 | 2021-08-19 | 2021-09-25 |
 | [Độ Tộc 2](https://open.spotify.com/track/6B4AdZzwagId7wvWeJEkiq) | [Độ Mixi](https://open.spotify.com/artist/0TZKKZG6WHl2aVFPDtND82), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Độ Tộc 2](https://open.spotify.com/album/42eEQcNJgON2LMvp3y2ihK) | 3:21 | 2021-09-25 | 2021-10-18 |
-| [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2022-08-10 |  |
+| [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2022-08-10 | 2022-09-27 |
 | [Đừng Gọi Anh Dậy](https://open.spotify.com/track/788R2DoEe7XIzeZamawv6U) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [1989s Entertainment](https://open.spotify.com/artist/2W8eKncv7oF0lp7KUVxndY) | [Trạm Cảm Xúc](https://open.spotify.com/album/5Jak81S9XSctPmtuVKEXA9) | 3:14 | 2021-06-07 | 2021-06-20 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-09 |  |
 | [進撃の防弾\(SONPUB REMIX\)](https://open.spotify.com/track/6xlrayjvJpj9nINodZRpOL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Danger \-Japanese Ver.\- 通常盤](https://open.spotify.com/album/3qFmYLvKcogx8DGSphUuXU) | 4:02 | 2022-01-25 | 2022-01-29 |

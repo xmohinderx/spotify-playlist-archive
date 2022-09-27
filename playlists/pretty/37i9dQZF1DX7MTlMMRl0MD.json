@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Becky G & Daviles de Novelda",
-  "num_followers": 1848994,
+  "num_followers": 1849156,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGNiMjM1NjkzYzQ3NWM4NGY3MzEyZjVlODZkOWMwY2Ez",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGY3NDM2OGNiNTM1YTYwNDhlMzBkNDRjODgyYzQ2YTQ2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "Imitadora",
-      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Hoja en Blanco",
         "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
@@ -415,6 +399,38 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "Imitadora",
+      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Coraz\u00f3n Sin Cara",
+      "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Xtreme",
         "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
       },
@@ -427,26 +443,6 @@
       "duration_ms": 212973,
       "name": "Te Extra\u00f1o - Bachata Version",
       "url": "https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Judy Santos",
-          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -491,34 +487,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
-      },
-      "artists": [
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
         }
       ],
-      "duration_ms": 211453,
-      "name": "Coraz\u00f3n Sin Cara",
-      "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -535,6 +519,54 @@
       "duration_ms": 204733,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Musica Tropical Para Bailar",
+        "url": "https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -559,18 +591,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Musica Tropical Para Bailar",
-        "url": "https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e"
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 255680,
-      "name": "Pobre Diabla",
-      "url": "https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2"
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -591,22 +623,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Amor En Silencio",
         "url": "https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu"
       },
@@ -619,38 +635,6 @@
       "duration_ms": 239666,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ya Me Canse",
-        "url": "https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 270480,
-      "name": "Donde Estan Esos Amigos",
-      "url": "https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -671,6 +655,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Ya Me Canse",
+        "url": "https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "Donde Estan Esos Amigos",
+      "url": "https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "La Introducci\u00f3n",
         "url": "https://open.spotify.com/album/7GmHYDIlNre9weplzsPZMJ"
       },
@@ -683,134 +683,6 @@
       "duration_ms": 211186,
       "name": "Cuanto Duele",
       "url": "https://open.spotify.com/track/5J7ZrlSLn5yVTLOHjGHalv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
-      },
-      "artists": [
-        {
-          "name": "Karlos Ros\u00e9",
-          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Intentalo Tu",
-      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Amorcito Enfermito",
-      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
-      },
-      "artists": [
-        {
-          "name": "Domenic Marte",
-          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
-        }
-      ],
-      "duration_ms": 290986,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -831,6 +703,118 @@
       "duration_ms": 192698,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
+      },
+      "artists": [
+        {
+          "name": "Karlos Ros\u00e9",
+          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Intentalo Tu",
+      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Amorcito Enfermito",
+      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
+      },
+      "artists": [
+        {
+          "name": "Domenic Marte",
+          "url": "https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C"
+        }
+      ],
+      "duration_ms": 290986,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -919,6 +903,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
         "url": "https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Toby Love",
         "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Tu Mundo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Tu Mundo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "La Voz de La Juventud",
         "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+        "name": "Tu Mundo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
       },
       "artists": [
         {
-          "name": "Kewin Cosmos",
-          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
         }
       ],
-      "duration_ms": 217222,
-      "name": "Solo Quise Quererte",
-      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+      "duration_ms": 205220,
+      "name": "Tu Mundo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 267572,
       "name": "Hablame De Ti",
       "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+      },
+      "artists": [
+        {
+          "name": "Kewin Cosmos",
+          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Solo Quise Quererte",
+      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Don Juan & Cupido",
-        "url": "https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Don Juan & Cupido",
-      "url": "https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "No Te Dejo De Pensar (feat. 24 Horas)",
         "url": "https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8"
       },
@@ -1559,18 +1539,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
-        "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
+        "name": "Don Juan & Cupido",
+        "url": "https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx"
       },
       "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
         {
           "name": "Anthony Santos",
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
-      "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
+      "duration_ms": 225500,
+      "name": "Don Juan & Cupido",
+      "url": "https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 203320,
       "name": "Me Provocas",
       "url": "https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg"
+      },
+      "artists": [
+        {
+          "name": "24 Horas",
+          "url": "https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY"
+        }
+      ],
+      "duration_ms": 220421,
+      "name": "Nunca Me Amaste",
+      "url": "https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+        "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+      "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Lost in the Music",
         "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 231080,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg"
-      },
-      "artists": [
-        {
-          "name": "24 Horas",
-          "url": "https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY"
-        }
-      ],
-      "duration_ms": 220421,
-      "name": "Nunca Me Amaste",
-      "url": "https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt"
     },
     {
       "added_at": "2022-09-16 04:00:00",

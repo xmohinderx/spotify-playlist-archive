@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Sudeera Dilshan
 
-139 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
+141 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Na Kawadawath](https://open.spotify.com/track/4qoIePUCWByxpL9qhLYfl6) | [Dilan Weerasooriya](https://open.spotify.com/artist/5cnnucfQ5hig4YzDFqH0cF), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1), [Prakash Ranasinghe](https://open.spotify.com/artist/4gr5pY4m0J81O0npGEq0D7) | [Na Kawadawath](https://open.spotify.com/album/4MK3ZDKdiMQqXJ8x9gxpcJ) | 3:29 | 2022-08-12 |  |
 | [Naden](https://open.spotify.com/track/0FSk1OsGWoTCS8lA74x5lF) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u), [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu) | [Naden](https://open.spotify.com/album/0zADfkyzT1osNAGFhd5OVw) | 2:53 | 2022-06-16 |  |
 | [Neela Warale](https://open.spotify.com/track/2VQJLZ7zdND1Wa42JiTWYv) | [Malith Hansaka](https://open.spotify.com/artist/1TqfDPJgwmJXdfnEJGEupT) | [Neela Warale](https://open.spotify.com/album/3wN7SqB00HRBcnvtmi6qTS) | 3:18 | 2022-07-29 | 2022-09-24 |
+| [Nena](https://open.spotify.com/track/0WFz48as786EyNex70sOy7) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx) | [Nena](https://open.spotify.com/album/6bA4ykfGp5wdDPYD40bzXw) | 2:56 | 2022-09-26 |  |
 | [Nilwarnaa](https://open.spotify.com/track/7f6sBWY2X5rWLiR7CgWNS9) | [Keshan Shashindra](https://open.spotify.com/artist/0jp3HQ5MBRdczytkTL4KqS), [Nimesh Kulasinghe](https://open.spotify.com/artist/4ZX61qyYhxk7oR0S6cNKlo) | [Nilwarnaa](https://open.spotify.com/album/36sWSfoCFZDpZ2PlwxJd8e) | 3:41 | 2022-08-29 |  |
 | [Nim Naade](https://open.spotify.com/track/1fDSKVWZmPcATqmJxq73cj) | [Ayeshmantha](https://open.spotify.com/artist/2jzwmI7lich4LB2bV7QyP4), [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY), [Emcee](https://open.spotify.com/artist/7zM0krNz9Bsy9SeCC1YZ5J), [OOSeven](https://open.spotify.com/artist/6TiJdDhU8NxzbiubwANO6W) | [Nim Naade](https://open.spotify.com/album/5NQYzYaNWd8vMovBRkTZ8D) | 3:11 | 2022-08-12 | 2022-09-24 |
 | [Nohimi](https://open.spotify.com/track/02bNr8V1mFKcj69CH4gb71) | [Ramidu](https://open.spotify.com/artist/79N9HpBbkLyan8X1jTYe6d) | [Nohimi](https://open.spotify.com/album/3Ux5hmxWFf1OMeIbOJ4oab) | 2:58 | 2022-06-16 |  |
@@ -146,6 +147,7 @@
 | [Viramayak](https://open.spotify.com/track/53br07JUe0H1Sv9Opv0oaG) | [Bhashi Devanga](https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y) | [Viramayak](https://open.spotify.com/album/3rnACADrP5vCpFqo7hH4HM) | 3:42 | 2022-06-16 | 2022-07-16 |
 | [Wandana](https://open.spotify.com/track/11JnfWZ2B4mBvhMWSj8yiH) | [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13), [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Wandana](https://open.spotify.com/album/4Vji9lcrENuCgBwmeu7gpV) | 4:10 | 2022-06-16 |  |
 | [Wiramayak](https://open.spotify.com/track/340dfMzZ1GCacVbtbaFJiC) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Wiramayak](https://open.spotify.com/album/6E0ahoc7SAPrBSM0No3SrN) | 3:25 | 2022-06-16 |  |
+| [Zd8](https://open.spotify.com/track/3xIqOmBdYH4wIzXqb6nIcc) | [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Zd8](https://open.spotify.com/album/5H5Egli74LKTy96xkpTLuC) | 4:57 | 2022-09-26 |  |
 | [மன்னிப்பாயா](https://open.spotify.com/track/3CF0XlDNnbb9gIc3aVMDYB) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o) | [மன்னிப்பாயா](https://open.spotify.com/album/1WipyMWgX54D9n44OdUJUJ) | 2:52 | 2022-08-12 | 2022-09-24 |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-562 songs - 1 day 6 hr 24 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+564 songs - 1 day 6 hr 31 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Gehri Akh](https://open.spotify.com/track/0pqTSGAe2FtV7mMAg3zVFX) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 3:39 | 2022-07-18 | 2022-08-18 |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-07-13 |  |
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |
+| [Grace](https://open.spotify.com/track/5iZR5MN9qvGgnyOblSdlH1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Grace](https://open.spotify.com/album/3BIuAv9phvIqWSXhgWCfXV) | 3:00 | 2022-09-26 |  |
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 | 2022-04-06 |
 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
 | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/3bROU8JC8KpB2YVDjHboJK) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Maninder Kailey](https://open.spotify.com/artist/3pkSY4dPiyXvWvX8flcQnr) | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6) | 4:37 | 2022-08-19 |  |
@@ -191,6 +192,7 @@
 | [Impress](https://open.spotify.com/track/1kvnU2nJj0MFzCfvu0guvD) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 2:21 | 2022-01-11 | 2022-02-01 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2021-12-02 |  |
 | [Is It Love](https://open.spotify.com/track/27PrzcuYKRQbrEzn1U4bSp) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Is It Love](https://open.spotify.com/album/5YlwUzRHhNEk7cyhKpKIM4) | 3:20 | 2022-07-08 | 2022-07-12 |
+| [Ishq Da Rog](https://open.spotify.com/track/6tmztso7Y5DZAuLAyGvPzG) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Ishq Da Rog \(From "Maa Da Ladla"\) \- Single](https://open.spotify.com/album/2XluoMXM4Pc9on2cSmWiUa) | 3:20 | 2022-09-26 |  |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |

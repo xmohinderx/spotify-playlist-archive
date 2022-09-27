@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-144 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+145 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-04-13 |  |
 | [A New Path](https://open.spotify.com/track/6xFz7mIXZNx0BymD3RzCba) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI) | [Notes from Within](https://open.spotify.com/album/4uqZggZ9A4mchqCAqT4iOq) | 5:53 | 2022-04-13 | 2022-09-01 |
 | [Alfie](https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Alfie](https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj) | 5:34 | 2022-04-21 |  |
-| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 |  |
+| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 | 2022-09-27 |
 | [All My Life](https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz) | [Georgia Mancio](https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw), [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1) | [Quiet Is the Star](https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO) | 2:46 | 2022-04-13 |  |
 | [Angel Eyes](https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Out Of The Dark – The Film Noir Project](https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G) | 5:49 | 2022-04-13 | 2022-09-21 |
 | [Anita's Blues](https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:27 | 2022-04-13 |  |
@@ -145,6 +145,7 @@
 | [What Of Your Eyes](https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:30 | 2022-05-19 |  |
 | [What'll I Do](https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [What'll I Do](https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz) | 4:05 | 2022-04-13 |  |
 | [When I Fall in Love](https://open.spotify.com/track/3vL4OOMwluNhVEdmfkgw1n) | [Emilia Vancini](https://open.spotify.com/artist/1RFYlvoUEPPFuTb3XDAYyc), [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90) | [And If You Fall You Fall](https://open.spotify.com/album/5QbylAF4xHNqqElipamvER) | 3:20 | 2022-04-13 | 2022-05-04 |
+| [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 | 2022-09-22 |  |
 | [Why Should I Care](https://open.spotify.com/track/2tn72FK3r3Ky0j9oQpwcvK) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 3:56 | 2022-04-13 |  |
 | [Why Should I Care?](https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 3:47 | 2022-04-13 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo) | [Olivia Van Goor](https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy) | [Willow Weep For Me](https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x) | 4:43 | 2022-04-13 | 2022-09-09 |

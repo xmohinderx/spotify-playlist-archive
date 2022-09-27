@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,357 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,366 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 101 | [Fuccboi 2.0](https://open.spotify.com/track/7b60XiOYeu5ZVC2xfzgZe4) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [柒羊](https://open.spotify.com/artist/7w0DcVVbW8WKwc5xx0wlgW) | [Live Twice](https://open.spotify.com/album/2ZFnWV0PjomKo5TAGr0HW8) | 2:30 |
 | 102 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 |
 
-Snapshot ID: `MTY2Mzg2MjQwMCwwMDAwMDAwMDVhMmI4OTU3NTM3YWFiMjlmZjNiYTRhYjIzYTI0NWU5`
+Snapshot ID: `MTY2NDE3ODE1NCwwMDAwMDAwMGQ1ZjY5ZmIyZjQzMGMzMzFjOGUwNTAxODBkNGZjZWE0`

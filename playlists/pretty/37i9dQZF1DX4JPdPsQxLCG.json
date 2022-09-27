@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49523,
+  "num_followers": 49524,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDc5ZGZhNWM2ZWY1YTlmYmE1MGU5MmM2OWUzMjJjYzkw",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGE4ODUzZGM3MDhiMDI2YzgzYTc2NGY1NDA3ZGM4NWRh",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Permanent Waves",
-        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "The Spirit Of Radio",
-      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "The Spirit Of Radio",
+      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "A Farewell To Kings",
-        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Closer To The Heart",
-      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Maroon",
         "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 285160,
       "name": "Pinch Me",
       "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Closer To The Heart",
+      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Waiting For A Miracle",
         "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Absolutely Right - The Best Of Five Man Electrical Band",
         "url": "https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 241693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -919,6 +903,22 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Union",
-        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Knock 'Em Dead Kid",
         "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214253,
       "name": "We're Here For A Good Time (Not A Long Time)",
       "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Union",
+        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
     },
     {
       "added_at": "2022-09-13 21:55:44",

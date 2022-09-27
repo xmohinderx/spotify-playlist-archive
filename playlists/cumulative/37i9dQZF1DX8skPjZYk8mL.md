@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-503 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+504 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 | 2022-06-07 |  |
 | [Everyday Everynight](https://open.spotify.com/track/1iFbf5iTzT6OmXJMNt2gu9) | [Hermione Kline](https://open.spotify.com/artist/6jVbNZFF5UiHbU7pMZX3P3) | [Everyday Everynight](https://open.spotify.com/album/43r57PS8800D7ociOyn9LQ) | 2:17 | 2021-11-08 |  |
 | [Everytime I sleep](https://open.spotify.com/track/0L0RDiDft9D5IRLzxTuGRh) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [Everytime I sleep](https://open.spotify.com/album/4clt6pgzIPDseXZpW7Xd4W) | 1:15 | 2021-11-08 |  |
-| [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 | 2021-11-08 |  |
+| [Eyes Closed, Little One](https://open.spotify.com/track/1CyKJNVtJphqdQgFDivIsq) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/7bUXaXNfUE8gHEGk3QJmmA) | 2:01 | 2022-09-23 |  |
+| [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 | 2021-11-08 | 2022-09-27 |
 | [È ora di andare a dormire](https://open.spotify.com/track/0mGk1SJsQcAw4Vr3YPQ63Y) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [È ora di andare a dormire](https://open.spotify.com/album/7tTXoQwrhoG7laIxSwIJBs) | 1:58 | 2021-11-08 |  |
 | [Fade In To Dreams](https://open.spotify.com/track/4OB6kC727SMiIxVlN8iGQI) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Fade In To Dreams](https://open.spotify.com/album/5w8IVZyRXJayO37WcljsvO) | 2:56 | 2021-11-08 |  |
 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 | 2021-11-08 |  |

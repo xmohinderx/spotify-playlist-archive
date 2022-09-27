@@ -4,11 +4,12 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-162 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+163 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2021-11-24 | 2022-08-12 |
+| [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 | 2022-09-26 |  |
 | [Almost Made It](https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Almost Made It](https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW) | 2:33 | 2021-11-24 | 2022-07-29 |
 | [Almost Made It](https://open.spotify.com/track/5U7bIVFI1JlX73x6t8SDyP) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Look Ahead And See The Distance](https://open.spotify.com/album/1RF4gKAj3jE2vs33zG3OR1) | 2:33 | 2022-06-03 |  |
 | [And the Birds Sing](https://open.spotify.com/track/2dU1nKAltV9lWPfuHdHwnI) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/0dcdC8vKdmAEAl6J24SP7p) | 3:41 | 2021-11-24 | 2022-07-29 |
@@ -48,7 +49,7 @@
 | [Grow with you](https://open.spotify.com/track/1SNWm8MPVoP7Hzews4s22d) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Grow with you](https://open.spotify.com/album/15U2ElSOsryI2XNIkxAQv9) | 3:17 | 2021-11-24 |  |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2021-11-24 | 2022-07-29 |
 | [Hell Or High Water](https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Runaway \(Deluxe\)](https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6) | 3:40 | 2022-06-03 |  |
-| [Het Is Al Laat Toch](https://open.spotify.com/track/5OhjkylPjKnmR7I2gnVNwz) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Het Is Al Laat Toch](https://open.spotify.com/album/3RtDWaClh52W8VjqCrYqwK) | 3:28 | 2021-11-24 |  |
+| [Het Is Al Laat Toch](https://open.spotify.com/track/5OhjkylPjKnmR7I2gnVNwz) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Het Is Al Laat Toch](https://open.spotify.com/album/3RtDWaClh52W8VjqCrYqwK) | 3:28 | 2021-11-24 | 2022-09-27 |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2021-11-24 |  |
 | [Hold On To The Night](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 | 2022-02-03 |  |
 | [Hold You](https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u), [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Hold You](https://open.spotify.com/album/4QMB7pB3LBmoAxiFVcsOlk) | 4:16 | 2021-11-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 6572,
+  "num_followers": 6586,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDRmMjQ2MDc2MWFjYzM2NTQ5MDM5NzNlNGY4MmEwZjcx",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDg4Y2Q4MWZmMmE5NjE1MTliOGU4OGI3Y2NkM2Q0M2Nh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 295746,
-      "name": "Best in Town",
-      "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 295746,
+      "name": "Best in Town",
+      "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -843,18 +843,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Survivor",
-        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 410360,
-      "name": "Shake For Me",
-      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     }
   ],
   "unique_name": "Blues Party",

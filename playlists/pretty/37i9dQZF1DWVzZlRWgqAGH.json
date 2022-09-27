@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: bLAck pARty",
-  "num_followers": 742335,
+  "num_followers": 742581,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzgxMTYzNywwMDAwMDAwMDViMTRmMjllMDlkMzY2MTBhM2JkNTZhMzRhNTgxY2Jk",
+  "snapshot_id": "MTY2MzgxMTYzNywwMDAwMDAwMDU4MjQwYThkZmRlY2Y0ZTk1OGQyYjY3YzQ4ZWE1ODdk",
   "tracks": [
     {
       "added_at": "2022-09-22 01:53:57",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -615,22 +595,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         },
         {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 268151,
-      "name": "SOHO HOUSE (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+      "duration_ms": 226733,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -667,6 +647,26 @@
       "duration_ms": 157921,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 268151,
+      "name": "SOHO HOUSE (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Now, You Know",
+        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
@@ -807,18 +823,34 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Now, You Know",
-        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
       },
       "artists": [
         {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 183453,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -843,18 +875,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+      "duration_ms": 272020,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -875,38 +907,6 @@
       "duration_ms": 202746,
       "name": "Red To Violet - Feat. Jamila Woods",
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 272020,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Running (feat. Ghetts)",
         "url": "https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+        "name": "Message (Better Days)",
+        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 148194,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+      "duration_ms": 214504,
+      "name": "Message (Better Days)",
+      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Message (Better Days)",
-        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 214504,
-      "name": "Message (Better Days)",
-      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "raw",
+        "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "raw",
-        "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Panic Attacks",
-        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Panic Attacks",
-      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Thin Lines",
         "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 171016,
       "name": "Thin Lines",
       "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Panic Attacks",
+        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Panic Attacks",
+      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "My Sunrise",
-        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
+        "name": "Goodbye Paris",
+        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
       },
       "artists": [
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
         }
       ],
-      "duration_ms": 189333,
-      "name": "My Sunrise",
-      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
+      "duration_ms": 225933,
+      "name": "Goodbye Paris",
+      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "FutureNever",
-        "url": "https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5"
+        "name": "My Sunrise",
+        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
       },
       "artists": [
         {
-          "name": "Daniel Johns",
-          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
-        },
-        {
-          "name": "Moxie Raia",
-          "url": "https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 233622,
-      "name": "I Feel Electric (feat. Moxie Raia)",
-      "url": "https://open.spotify.com/track/4nJuRd8cLin95rTr4B5sZP"
+      "duration_ms": 189333,
+      "name": "My Sunrise",
+      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1451,6 +1447,26 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "FutureNever",
+        "url": "https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johns",
+          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
+        },
+        {
+          "name": "Moxie Raia",
+          "url": "https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp"
+        }
+      ],
+      "duration_ms": 233622,
+      "name": "I Feel Electric (feat. Moxie Raia)",
+      "url": "https://open.spotify.com/track/4nJuRd8cLin95rTr4B5sZP"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Spells",
-        "url": "https://open.spotify.com/album/1Nouj90219KOnJLwYDMWFu"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Spells",
-      "url": "https://open.spotify.com/track/1heKNMt0Ab3YtgCfOIjXcv"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 207986,
       "name": "Family",
       "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Spells",
+        "url": "https://open.spotify.com/album/1Nouj90219KOnJLwYDMWFu"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 183811,
+      "name": "Spells",
+      "url": "https://open.spotify.com/track/1heKNMt0Ab3YtgCfOIjXcv"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1631,26 +1647,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Wu Hen",
         "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
       },
@@ -1671,6 +1667,26 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "No Reply",
         "url": "https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Goodbye Paris",
-        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Goodbye Paris",
-      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
     },
     {
       "added_at": "2022-09-22 01:53:57",

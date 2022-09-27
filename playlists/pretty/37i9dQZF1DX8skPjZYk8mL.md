@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,333 likes - 436 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,498 likes - 436 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -321,7 +321,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 311 | [Awake Asleep](https://open.spotify.com/track/6yR7TwjmKMAUViwMkoleix) | [Engla Widström](https://open.spotify.com/artist/0SXbDqBEPUBXZ7IC9s7vlD) | [Awake Asleep](https://open.spotify.com/album/5pRs7QYPSOv6I8oxyFQDru) | 1:25 |
 | 312 | [My Puppy](https://open.spotify.com/track/5K8od7t4zYwWUr6PS16ChI) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [My Puppy](https://open.spotify.com/album/5XLmqebqjlhV8PQfuRIyRI) | 2:35 |
 | 313 | [Wilson Wiggleworm](https://open.spotify.com/track/4S2YvWpo7iWDnVHed6xUgM) | [Ezra Hubbard](https://open.spotify.com/artist/7fz1AL9bzH9q8tKrDpzr6j) | [Wilson Wiggleworm](https://open.spotify.com/album/0yOlySOiMob922VEZWEtB1) | 1:32 |
-| 314 | [Eyes Closed, Little One](https://open.spotify.com/track/4cLAnZvFptVPArmNact6Xi) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Eyes Closed, Little One](https://open.spotify.com/album/1g0HfPBEJ8KuV2oMcBMncb) | 2:01 |
+| 314 | [Eyes Closed, Little One](https://open.spotify.com/track/1CyKJNVtJphqdQgFDivIsq) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Baby Sleep Piano](https://open.spotify.com/album/7bUXaXNfUE8gHEGk3QJmmA) | 2:01 |
 | 315 | [Sunset](https://open.spotify.com/track/1EENlCQndVgWifmYILC8zI) | [Shania Dawes](https://open.spotify.com/artist/1kztaubebsodHyZE8jAVUo) | [Sunset](https://open.spotify.com/album/5h267Ia1lIEzcAcncdek9i) | 1:24 |
 | 316 | [Cradle Canon](https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg) | [Nat Mee Ho](https://open.spotify.com/artist/2oqTteFbcLuEnhiXnkvJPk) | [Cradle Canon](https://open.spotify.com/album/6TFPdf6Qa2Y1nLxzWf8PTB) | 1:41 |
 | 317 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 |
@@ -445,4 +445,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 435 | [The worm in the apple](https://open.spotify.com/track/3d94fAsaAkuqhqp9OEMDd7) | [Nuria McKinney](https://open.spotify.com/artist/1OdZAJCOzDcQCgfo9SkKJo) | [The worm in the apple](https://open.spotify.com/album/269JjOMCLySJO0u5fXBfHf) | 1:00 |
 | 436 | [Go the Distance](https://open.spotify.com/track/7kmnSQQtM7sOrOSOHh44CA) | [Mano Chaves](https://open.spotify.com/artist/6UM4agygW7G4oLMZJ7gZJe) | [Go the Distance](https://open.spotify.com/album/3DecC6ykFoB0GrH9xbvt5w) | 2:03 |
 
-Snapshot ID: `MTY2MzkyMzExNCwwMDAwMDAwMDMzMzYzMjczNzM5N2MwNjE3YjRlZGFhYzMyMjBkYWQy`
+Snapshot ID: `MTY2MzkyMzExNCwwMDAwMDAwMGMxYjU5ZWQyMmYwMmE1NzVlNzJjMTExMDFjYWI5MDRj`

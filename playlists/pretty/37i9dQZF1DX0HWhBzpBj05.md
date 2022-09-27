@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,271 likes - 77 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,649 likes - 77 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 76 | [We Wish You A Merry Christmas](https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 3:49 |
 | 77 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MTYzOTk1ODk5OCwwMDAwMDAwMGJjMjQyZTZmMzQ4MjQ0MjYxM2ViNjIyOGNjYmM0ZWVj`
+Snapshot ID: `MTY2NDIwMzU4MywwMDAwMDAwMDU0ZGFlMGYxMTkyOGViNTM2OTg4NTUzMzBjMWJhM2Yw`

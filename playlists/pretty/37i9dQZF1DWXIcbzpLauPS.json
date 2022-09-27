@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853563,
+  "num_followers": 853554,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDcwYmZhMjFlZTAzMWI4NWIzYmFmYjcwNGQ0YzE5MDZk",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDBjMDgwYTQ1ZmZhNjhhMDRhYmEwOGFkMzhjYzJlN2Jm",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Reaper",
-        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 204040,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Reaper",
+        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Reaper",
+      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Deathrattle Sing for Me",
-        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 284485,
-      "name": "A Killing Word",
-      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 190495,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 284485,
+      "name": "A Killing Word",
+      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Dead Circus",
-        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Dead Circus",
-      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Collapse",
         "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 210385,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Dead Circus",
+        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Dead Circus",
+      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182750,
       "name": "NWWM",
       "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Suffocate",
         "url": "https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
       },
       "artists": [
         {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
         }
       ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "No Hope 'Til Now",
         "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
       },
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Damage Done",
+      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Damage Done",
-      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
     },
     {
       "added_at": "2022-09-16 13:00:00",

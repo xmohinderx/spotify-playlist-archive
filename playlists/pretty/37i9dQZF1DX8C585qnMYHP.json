@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: \u00d8rdop Wolkenscheidt Artwork: Thami Nabil",
-  "num_followers": 92257,
+  "num_followers": 92297,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcyODg1MCwwMDAwMDAwMGNiZDNkZDU1MGViOTI1ODRhMWRjMTcxZGNmM2Q3Mjgz",
+  "snapshot_id": "MTY2MzcyODg1MCwwMDAwMDAwMDJkMjcyMWYxZjY5NDAzMDJjZWZlZWU2NDMwMmFjYzJj",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Uncanny Being (Violin Study #2)",
-        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
-      },
-      "artists": [
-        {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
-        }
-      ],
-      "duration_ms": 383680,
-      "name": "Uncanny Being (Violin Study #2)",
-      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
-    },
-    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "UMMA (Remix)",
@@ -761,20 +745,20 @@
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "Uncanny Being (Violin Study #2)",
+        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
         }
       ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+      "duration_ms": 383680,
+      "name": "Uncanny Being (Violin Study #2)",
+      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -831,6 +815,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-08-24 01:37:13",

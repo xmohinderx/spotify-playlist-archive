@@ -784,6 +784,28 @@
     },
     {
       "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "adL",
+          "url": "https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf"
+    },
+    {
+      "album": {
         "name": "Hello and Goodbye",
         "url": "https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt"
       },

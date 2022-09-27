@@ -4476,6 +4476,24 @@
     },
     {
       "album": {
+        "name": "Sportswear",
+        "url": "https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Flash Heat Wave",
+          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI"
+    },
+    {
+      "album": {
         "name": "Guessing in a Row",
         "url": "https://open.spotify.com/album/5j4nsSORgIB3H4yigy4wbA"
       },

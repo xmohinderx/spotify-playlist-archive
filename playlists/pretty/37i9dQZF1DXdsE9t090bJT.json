@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 15529,
+  "num_followers": 15581,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDY3MDhjN2VkNWJmYzdmNDhmYTkyYTE5YmJmMWRhNjZh",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGY3Nzg2NGIwNmYwZTk0ZjY1M2U3N2UzZjYxMDE4ZWRk",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -439,38 +439,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 245201,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Perfecta En Mis Ojos",
         "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 161766,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Adicto",
         "url": "https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 187789,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Seguimos Avanzando",
-        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 192576,
-      "name": "De Mi Para Ti",
-      "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Nac\u00ed Para Amarte",
         "url": "https://open.spotify.com/album/01GhHCQsul9FkChZCfyW8V"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 272698,
       "name": "Nac\u00ed Para Amarte",
       "url": "https://open.spotify.com/track/6EPVLVH60HAutxzxV4Tb6y"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 192576,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Bien Me Conoces",
-      "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Permiteme",
         "url": "https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D"
       },
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Amor Del Bueno",
-        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Dejame Decir",
         "url": "https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 217703,
       "name": "Dejame Decir",
       "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Bien Me Conoces",
+      "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1143,6 +1127,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Amor Del Bueno",
+        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "En Vivo Desde El Rancho San Vicente",
         "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00eda",
-        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
+        "name": "No Te Voy a Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO"
       },
       "artists": [
         {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
         }
       ],
-      "duration_ms": 176335,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
+      "duration_ms": 196048,
+      "name": "No Te Voy a Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1663,22 +1679,6 @@
       "duration_ms": 202906,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "No Te Voy a Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO"
-      },
-      "artists": [
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        }
-      ],
-      "duration_ms": 196048,
-      "name": "No Te Voy a Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
     },
     {
       "added_at": "2022-02-11 20:24:54",

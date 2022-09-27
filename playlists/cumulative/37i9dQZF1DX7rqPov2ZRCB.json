@@ -895,6 +895,24 @@
     {
       "album": {
         "name": "Pero Dime",
+        "url": "https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251118,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv"
+    },
+    {
+      "album": {
+        "name": "Pero Dime",
         "url": "https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC"
       },
       "artists": [
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 498320,
       "name": "El General",
       "url": "https://open.spotify.com/track/5in7T6r8HuFxS8koSgAOcc"
@@ -3899,6 +3917,24 @@
     {
       "album": {
         "name": "Te Fuiste De Aqui",
+        "url": "https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF"
+      },
+      "artists": [
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280079,
+      "name": "Te Fuiste De Aqui",
+      "url": "https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1"
+    },
+    {
+      "album": {
+        "name": "Te Fuiste De Aqui",
         "url": "https://open.spotify.com/album/2uDDVpFlkowms7UgY6T2Eu"
       },
       "artists": [
@@ -4035,7 +4071,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 231933,
       "name": "Un Hombre Nuevo",
       "url": "https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD"

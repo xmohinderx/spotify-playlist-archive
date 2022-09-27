@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-237 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+239 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 | 2019-09-09 |  |
 | [Dile Que Vuelva](https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 5:36 | 2019-09-09 |  |
 | [Déjame Entrar](https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Me Muero De Amor](https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc) | 6:05 | 2019-09-09 |  |
+| [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 | 2019-09-09 |  |
 | [El Amor De Su Vida](https://open.spotify.com/track/5czvt8OzNCPsfvlmZSaZSy) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC) | 4:11 | 2019-09-09 | 2022-09-24 |
 | [El Amor Mas Grande del Planeta](https://open.spotify.com/track/3PhlpwjtUwUn2L0vhfcYlt) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:49 | 2019-09-09 | 2022-07-25 |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/7FfUWszlesTqjalGQYBNGS) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [El Mambologo, Vol\. 1](https://open.spotify.com/album/5rMGC8QMMc7aPOkIfrGnpE) | 4:37 | 2019-09-09 | 2022-07-28 |
@@ -77,7 +78,7 @@
 | [El Farolito](https://open.spotify.com/track/4GcDiWUmIUxLjgxN9hqV6q) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 3:43 | 2019-09-09 | 2022-07-28 |
 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 | 2019-09-09 | 2022-07-24 |
 | [El Fucu](https://open.spotify.com/track/7HKhmZ8uQXB8GaGf6MRi7G) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Two Strong Live \(Summer Latino, Vol.2\)](https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6) | 5:10 | 2019-09-09 | 2022-07-28 |
-| [El General](https://open.spotify.com/track/5in7T6r8HuFxS8koSgAOcc) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 8:18 | 2019-09-09 |  |
+| [El General](https://open.spotify.com/track/5in7T6r8HuFxS8koSgAOcc) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 8:18 | 2019-09-09 | 2022-09-27 |
 | [El Guayubín](https://open.spotify.com/track/0bn4KWIMPARoSpm9AGcGGX) | [Cuarteto Hernández](https://open.spotify.com/artist/3RR6bgZIgDYpY7wqQItU7w) | [El Mero Merengue \- Lo Mejor del Perico Ripiao](https://open.spotify.com/album/36lyiyuuOJJ4rZ0PHMAo2F) | 5:33 | 2019-09-09 | 2022-07-29 |
 | [El Guineo](https://open.spotify.com/track/64N5N0BqnwHeQ7tnRhsz6a) | [Pakolé](https://open.spotify.com/artist/7k7M8FtOPV7gvNjWwyh0u4) | [J&N Típico](https://open.spotify.com/album/2YGedb8ZzxjStjW0WoiOXa) | 3:40 | 2019-09-09 | 2022-07-25 |
 | [El Hombre Bultero](https://open.spotify.com/track/1YSQaWoIOrD4JXr3MvBCce) | [Agapito Pascual](https://open.spotify.com/artist/6wul19KorlNmWnZMyoMBrx) | [Los Grandes Del Merengue Tipico](https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge) | 4:14 | 2019-09-09 | 2022-07-20 |
@@ -221,6 +222,7 @@
 | [Ta' Buena](https://open.spotify.com/track/2zHFgOgtiH5X3Up92IltJi) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:36 | 2019-09-09 |  |
 | [Ta' Buena \(Remix\)](https://open.spotify.com/track/2nzWITJTrldHxcv3oWIKy2) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 3:36 | 2019-09-09 | 2022-07-25 |
 | [Tatico Llorando](https://open.spotify.com/track/6pdcx4CGPG2ztWkCrHwWr8) | [Jose "El Calvo"](https://open.spotify.com/artist/3cjMcaLwLYmeXjQ3nWqYr6) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 6:13 | 2019-09-09 | 2022-07-29 |
+| [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 | 2019-09-09 |  |
 | [Te Fuiste De Aqui](https://open.spotify.com/track/5I36CCSzMMzvvK5wr8ZhR5) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/2uDDVpFlkowms7UgY6T2Eu) | 4:40 | 2019-09-09 | 2022-09-23 |
 | [Te Fuiste De Aqui](https://open.spotify.com/track/6DkiLWTw9JcYegRmvtehO2) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/4hHaLdZefZhkKsLfL0FRZD) | 4:40 | 2019-09-09 | 2022-07-27 |
 | [Te Pido Corazón Olvido](https://open.spotify.com/track/37piDUSWdfwHeW97MfeZuy) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:05 | 2019-09-09 | 2022-07-25 |
@@ -228,7 +230,7 @@
 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 | 2019-09-09 |  |
 | [Tu eres ajena](https://open.spotify.com/track/4HgUNfbwt09rll0m4opc4C) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 1](https://open.spotify.com/album/5SM14Vd2hjlHwaOEe0u4mG) | 4:47 | 2019-09-09 | 2022-07-08 |
 | [Un Amigo Mio](https://open.spotify.com/track/22rcH9nCg6yf0cPNXWpSy1) | [Wilbert Manuel](https://open.spotify.com/artist/3cGFGn2zZeO4G30YGGEslB) | [WWW.TIPICO.COM](https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5) | 3:59 | 2019-09-09 | 2022-07-23 |
-| [Un Hombre Nuevo](https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Mi Luz](https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi) | 3:51 | 2019-09-09 |  |
+| [Un Hombre Nuevo](https://open.spotify.com/track/0RhMC8PTYKSP30ifulHocD) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Mi Luz](https://open.spotify.com/album/7h3BsbfpqQY1865zn3ZuDi) | 3:51 | 2019-09-09 | 2022-09-27 |
 | [Vamonos Pa'l Can](https://open.spotify.com/track/32pOmQ8FN4ReJaPIJFAt04) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:06 | 2019-09-09 | 2022-07-19 |
 | [Vamos a Hablar Ingles](https://open.spotify.com/track/1xKfOt8W8caUVDLL9eAgWL) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:32 | 2019-09-09 | 2022-07-28 |
 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 | 2019-09-09 |  |

@@ -2,9 +2,9 @@
 
 ### [Indie AlterLatino](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
+> Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-177 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+180 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [Aquí seguimos](https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Aquí seguimos](https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af) | 3:23 | 2022-03-03 |  |
 | [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-08-02 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-05 | 2022-04-10 |
+| [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-09-26 |  |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2021-10-05 |  |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 |  |
-| [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 | 2022-02-25 |  |
+| [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 | 2022-02-25 | 2022-09-27 |
+| [Caja de Cartón](https://open.spotify.com/track/5gbYdVq1gpExyakimfFINk) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Caja de Cartón](https://open.spotify.com/album/4GJr9U2jyhsomXIFB7eYma) | 3:14 | 2022-09-26 |  |
 | [Calle Brasil](https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:20 | 2022-02-11 |  |
 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 | 2022-02-25 |  |
 | [Cascabel](https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [Cascabel](https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5) | 3:14 | 2022-02-12 | 2022-09-13 |
@@ -133,7 +135,7 @@
 | [Pantera](https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Pantera](https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp) | 2:44 | 2022-07-25 |  |
 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 | 2021-10-05 | 2022-06-08 |
 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-12 |  |
-| [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 |  |
+| [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-27 |
 | [Paraguaya \- ANRMAL \- Live in México](https://open.spotify.com/track/6hqyN0cQeL25DreIYsl1Dn) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(Live in México\)](https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho) | 3:43 | 2021-10-05 |  |
 | [Paraguaya \- En Vivo](https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(En Vivo\)](https://open.spotify.com/album/2PBK1zRRzjilywQ6yOEqPZ) | 3:43 | 2021-10-05 | 2022-07-29 |
 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 | 2021-10-05 | 2022-04-23 |
@@ -176,7 +178,8 @@
 | [Ultramar](https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Álamo Paraíso](https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4) | [Ultramar](https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE) | 4:24 | 2022-07-15 |  |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 |  |
 | [Vayayó \- Jiony Remix](https://open.spotify.com/track/2oLwAiavBBRwmJpEBsiVko) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Vayayó \(Jiony Remix\)](https://open.spotify.com/album/4sr9L7lfsAJsnuQXgBcrgl) | 3:21 | 2021-10-05 | 2022-07-29 |
-| [Vayayó \- Jiony Remix](https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Ofrenda Remixes](https://open.spotify.com/album/1IZY8qRezmtg1ftavo78iA) | 3:21 | 2021-10-05 |  |
+| [Vayayó \- Jiony Remix](https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Ofrenda Remixes](https://open.spotify.com/album/1IZY8qRezmtg1ftavo78iA) | 3:21 | 2021-10-05 | 2022-09-27 |
+| [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 |  |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2021-10-05 | 2022-03-31 |
 | [wepa \(Eggglub Remix\)](https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [wepa \(Eggglub Remix\)](https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub) | 2:44 | 2021-10-05 |  |
 | [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 |  |

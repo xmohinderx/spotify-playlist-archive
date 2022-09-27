@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 28432,
+  "num_followers": 28551,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDU5ZWI4MTA5YTBhZTcyM2QwYmRhOGRhMmE2ZmQ0MjI0",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDlmZGRmODRlNGRhNjAyNjhhZTkxZmIyNzRmNjJhOTEx",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -289,6 +289,34 @@
       "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
     },
     {
+      "added_at": "2021-03-19 15:07:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "duration_ms": 290293,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
+    },
+    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "3 Years, 5 Months And 2 Days In The Life Of...",
@@ -335,34 +363,6 @@
       "duration_ms": 177266,
       "name": "The Fresh Prince of Bel-Air",
       "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
-    },
-    {
-      "added_at": "2021-03-19 15:07:31",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 290293,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
       "added_at": "2022-01-10 20:50:24",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Life After Death (2014 Remaster)",
@@ -455,22 +471,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -503,22 +519,6 @@
       "duration_ms": 222840,
       "name": "It's a Shame (My Sister)",
       "url": "https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Big Tyme",
+        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
+      },
+      "artists": [
+        {
+          "name": "Heavy D & The Boyz",
+          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "We Got Our Own Thang",
+      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "RUN-DMC (Expanded Edition)",
         "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Big Tyme",
-        "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
       },
       "artists": [
         {
-          "name": "Heavy D & The Boyz",
-          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
         }
       ],
-      "duration_ms": 232293,
-      "name": "We Got Our Own Thang",
-      "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -631,22 +647,6 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
-      },
-      "artists": [
-        {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",

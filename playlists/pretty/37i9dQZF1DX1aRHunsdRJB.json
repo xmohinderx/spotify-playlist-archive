@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 7873,
+  "num_followers": 7878,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGM1OWE2MTYzNjUwMzU5MDU5ZTA0ZDA5NmQxM2UzZGU5",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDU4MjFkZmVjM2RiZTEzZjI0MzA0M2QyZDk5MTNkN2Yy",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mobster",
-        "url": "https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Mobster",
-      "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -227,6 +211,38 @@
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -247,22 +263,6 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 136724,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -799,6 +799,34 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Ba Ba Ben (Remix)",
+        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        },
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        },
+        {
+          "name": "Noah Powa",
+          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Ba Ba Ben - Remix",
+      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Rats Hole Riddim",
         "url": "https://open.spotify.com/album/2bxqMNQQaU2dhZC2aMqx5X"
       },
@@ -847,34 +875,6 @@
       "duration_ms": 168888,
       "name": "Private Zess",
       "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Ba Ba Ben (Remix)",
-        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        },
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        },
-        {
-          "name": "Noah Powa",
-          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Ba Ba Ben - Remix",
-      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Toco Loco Riddim",
-        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bus a Wine",
         "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183050,
       "name": "Bus a Wine",
       "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Toco Loco Riddim",
+        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
     },
     {
       "added_at": "2022-02-24 18:00:00",

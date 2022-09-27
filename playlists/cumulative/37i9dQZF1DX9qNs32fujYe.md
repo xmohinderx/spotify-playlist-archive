@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
 
-653 songs - 2 day 0 hr 45 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+654 songs - 2 day 0 hr 49 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2022-07-24 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 |  |
-| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 |  |
+| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2022-09-27 |
 | [Tears of a Mandrake](https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Monuments](https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa) | 7:14 | 2021-12-17 | 2022-04-21 |
 | [Temples And Towers](https://open.spotify.com/track/6jNJY9mDWROqXDJmU6AXnj) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh) | [We Are The Night \(Japan Edition\)](https://open.spotify.com/album/62M2HHDi2MgWE9e2eyUgwX) | 5:37 | 2022-01-07 | 2022-04-18 |
 | [Terial the Hawk](https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Terial the Hawk](https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf) | 4:49 | 2021-12-17 | 2022-07-29 |
@@ -600,6 +600,7 @@
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 |  |
 | [Until We Fall](https://open.spotify.com/track/3Afcf2YiMEpbCD85cAQ40k) | [Starkill](https://open.spotify.com/artist/7wBaXEIGEMxCJYguNjk5RW) | [Until We Fall](https://open.spotify.com/album/5EgokimLgkR4WX6vCDgnv6) | 3:31 | 2021-12-29 | 2022-07-22 |
 | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/track/6F5OGRRIQDc5hF60mcjSTx) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Michael Starr](https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe) | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/album/5KquqpCt18zTEVgakTfLYz) | 4:13 | 2021-12-17 | 2022-07-29 |
+| [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 |  |
 | [Valley of the Kings](https://open.spotify.com/track/3GM0xXSvZFcBspltFsLMS3) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Into The Labyrinth](https://open.spotify.com/album/1DWnVZr8DefUXkqSp5KPal) | 5:03 | 2021-12-17 | 2022-05-06 |
 | [Vanguards of the Dawn Wall](https://open.spotify.com/track/4XbwnpiUUsp4ZXlm0q2oni) | [Todd La Torre](https://open.spotify.com/artist/7j4Dx7ph7lqvcqDBsLXIdx) | [Vanguards of the Dawn Wall](https://open.spotify.com/album/4pwFiUCKIy2jJhF1QrGrh3) | 3:39 | 2021-12-29 | 2022-04-19 |
 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 | 2022-01-21 | 2022-09-17 |

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 25790,
+  "num_followers": 25813,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDg3ODU5ODJmODQ3NjJjNmRhYmQwY2UwZWI0N2Y1Y2Jl",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDQ5NGI1YWE1OGEyYzM5OWJmZDQ2NzY5Zjc2YjYxNDZh",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -467,30 +467,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
       },
@@ -531,6 +507,46 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -635,46 +635,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Liberation (Re-Edit)",
-        "url": "https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR"
-      },
-      "artists": [
-        {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
-        }
-      ],
-      "duration_ms": 176156,
-      "name": "Liberation - Re-Edit",
-      "url": "https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Bloom (nowifi Remix)",
-        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "nowifi",
-          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
-        }
-      ],
-      "duration_ms": 121461,
-      "name": "Bloom (nowifi Remix)",
-      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -695,6 +655,22 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Liberation (Re-Edit)",
+        "url": "https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 176156,
+      "name": "Liberation - Re-Edit",
+      "url": "https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -739,18 +715,26 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+        "name": "Bloom (nowifi Remix)",
+        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+      "duration_ms": 121461,
+      "name": "Bloom (nowifi Remix)",
+      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 161478,
       "name": "Who's Holding You",
       "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Just a Dream",
-        "url": "https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Just a Dream",
-      "url": "https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Just a Dream",
+        "url": "https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Just a Dream",
+      "url": "https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -983,42 +983,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
         "url": "https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4"
       },
@@ -1043,6 +1007,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -1059,6 +1039,42 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Even If You Don't",
+        "url": "https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        }
+      ],
+      "duration_ms": 156203,
+      "name": "Even If You Don't",
+      "url": "https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Even If You Don't",
-        "url": "https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh"
-      },
-      "artists": [
-        {
-          "name": "Lulleaux",
-          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
-        }
-      ],
-      "duration_ms": 156203,
-      "name": "Even If You Don't",
-      "url": "https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 130470,
       "name": "Mirror On The Wall",
       "url": "https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        }
-      ],
-      "duration_ms": 126147,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 147599,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
-      },
-      "artists": [
-        {
-          "name": "Wankelmut",
-          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
-        },
-        {
-          "name": "De Hofnar",
-          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Winter's Going",
         "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 152189,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2VszhzMB5MDLT1bPykCg1K"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
     },
     {
       "added_at": "2022-09-22 22:00:00",

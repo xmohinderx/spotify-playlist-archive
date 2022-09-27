@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 53085,
+  "num_followers": 53191,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDE5NjMxZGRhNWQyY2FkMmU5YzcwMzhhYzJhYzRkZWVl",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDQwYzNjYzQ0ZmI1YzZkN2Y0ZjM2YjMyYmRiYzUyYWY3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "TB Resucitation",
-        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
-      },
-      "artists": [
-        {
-          "name": "Hardfloor",
-          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
-        }
-      ],
-      "duration_ms": 542939,
-      "name": "Acperience 1",
-      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Defiant Order",
         "url": "https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221946,
       "name": "DEFIANT ORDER",
       "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "TB Resucitation",
+        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+      },
+      "artists": [
+        {
+          "name": "Hardfloor",
+          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+        }
+      ],
+      "duration_ms": 542939,
+      "name": "Acperience 1",
+      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
-      },
-      "artists": [
-        {
-          "name": "Cro-Magnon",
-          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
-        }
-      ],
-      "duration_ms": 432217,
-      "name": "Patchwork Jazz",
-      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "United Acid Emirates",
         "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 331373,
       "name": "Commuter",
       "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
+      },
+      "artists": [
+        {
+          "name": "Cro-Magnon",
+          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
+        }
+      ],
+      "duration_ms": 432217,
+      "name": "Patchwork Jazz",
+      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 204579,
       "name": "Acid Bit (feat. Addison Groove)",
       "url": "https://open.spotify.com/track/2L2PKs5qpu0atU6MBVfIyS"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2021-10-22 11:07:27",

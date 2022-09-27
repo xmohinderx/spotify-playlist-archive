@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230329,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E"
+    },
+    {
+      "album": {
         "name": "Almost Made It",
         "url": "https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW"
       },
@@ -763,7 +781,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 208758,
       "name": "Het Is Al Laat Toch",
       "url": "https://open.spotify.com/track/5OhjkylPjKnmR7I2gnVNwz"

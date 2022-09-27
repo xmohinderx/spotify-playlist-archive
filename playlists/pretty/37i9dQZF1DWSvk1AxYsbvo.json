@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5915,
+  "num_followers": 5911,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MjU0OCwwMDAwMDAwMDcxNzUxMjZiZWNhODYzMGVmMDYzOTk5YzU3MmQ2Y2Ji",
+  "snapshot_id": "MTY2MjM5MjU0OCwwMDAwMDAwMGJiZDExMzI3MWI1NmViNjM0N2QxN2QyZDdjNGY2ZWFi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:42:28",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.14",
-        "url": "https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF"
-      },
-      "artists": [
-        {
-          "name": "Sujin Park",
-          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
-        }
-      ],
-      "duration_ms": 243281,
-      "name": "This night",
-      "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.14",
+        "url": "https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF"
+      },
+      "artists": [
+        {
+          "name": "Sujin Park",
+          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
+        }
+      ],
+      "duration_ms": 243281,
+      "name": "This night",
+      "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
         "name": "My Beautiful Apartment (Original Television Soundtrack) (O\u2032PENing)",
         "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Dancing With You",
-        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 150375,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203866,
       "name": "All My Love - Korean Ver.",
       "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "Dancing With You",
+        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 150375,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -567,18 +567,22 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Salt Rain (Prod. By Alfie Hole)",
+        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Keumbee",
+          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 217774,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -599,22 +603,18 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Salt Rain (Prod. By Alfie Hole)",
-        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
       "artists": [
         {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Keumbee",
-          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
         }
       ],
-      "duration_ms": 217774,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2022-09-05 15:42:28",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-05 15:42:28",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2022-09-05 15:42:28",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 233284,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2022-09-05 15:42:28",
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2022-09-05 15:42:28",

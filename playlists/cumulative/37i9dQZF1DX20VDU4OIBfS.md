@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-311 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
+312 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bachata Rosa](https://open.spotify.com/track/0qLqqJYI7wW8w93fgqd2LN) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Natalie Cole En Español](https://open.spotify.com/album/6X7BJSaM624cWdm4GQjZx5) | 4:02 | 2022-06-02 |  |
 | [Bailar Pegados](https://open.spotify.com/track/3Pf1e1KvnRw46d1sMSnits) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [1989\-2004 Lo Mejor De](https://open.spotify.com/album/0t82HBUNo4ehaBlYf8w6GH) | 4:42 | 2022-01-01 | 2022-07-29 |
 | [Bella Señora](https://open.spotify.com/track/4iR4dZgBuXPIhDx0Pa2uoi) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Las Numero 1 De Emmanuel](https://open.spotify.com/album/4ZPrguV8LdIElHu8FUKu4d) | 4:41 | 2022-01-01 | 2022-07-29 |
-| [Besame Mucho / Quizas Quizas / Sabor a Mi](https://open.spotify.com/track/0ZidmLUXRteEhbUHZljqx7) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Besame Mucho / Quizas Quizas / Sabor a Mi](https://open.spotify.com/album/5JDQCk0JozvJDh9pGB3Lua) | 4:11 | 2022-06-02 |  |
+| [Besame Mucho / Quizas Quizas / Sabor a Mi](https://open.spotify.com/track/0ZidmLUXRteEhbUHZljqx7) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Besame Mucho / Quizas Quizas / Sabor a Mi](https://open.spotify.com/album/5JDQCk0JozvJDh9pGB3Lua) | 4:11 | 2022-06-02 | 2022-09-27 |
 | [Brindaremos por él](https://open.spotify.com/track/1TRsgYfke7OMfK7fyszgeY) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/1h2ucRNe6wSDRNlHHvHxu6) | 3:35 | 2022-01-01 | 2022-07-27 |
 | [Buenos Días Señor Sol](https://open.spotify.com/track/4wKs3hpB1CAbhd2ED0ardC) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Los 15 Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/6bcTRuDsKIe58Z0aYIUyNi) | 2:39 | 2022-01-01 | 2022-07-28 |
 | [Cachetada](https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 2:52 | 2022-06-02 | 2022-07-08 |
@@ -113,6 +113,7 @@
 | [Esa Chica Es Mía](https://open.spotify.com/track/67FCBlx2IC0yRJOBYYfLhz) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [1989\-2004 Lo Mejor De](https://open.spotify.com/album/0t82HBUNo4ehaBlYf8w6GH) | 4:03 | 2022-01-01 | 2022-07-24 |
 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 | 2022-01-01 | 2022-07-25 |
 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 | 2022-06-02 |  |
+| [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 | 2022-08-31 |  |
 | [Esta Cobardía](https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Grandes Exitos](https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn) | 3:40 | 2022-01-01 | 2022-07-29 |
 | [Esta Cobardía \- Remasterizado](https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Eres Mía \(Remasterizado\)](https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj) | 3:39 | 2022-06-02 |  |
 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 | 2022-01-01 |  |

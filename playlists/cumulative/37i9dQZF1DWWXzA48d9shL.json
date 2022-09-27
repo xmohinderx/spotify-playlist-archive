@@ -2194,6 +2194,32 @@
     },
     {
       "album": {
+        "name": "FMZ",
+        "url": "https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd"
+      },
+      "artists": [
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156756,
+      "name": "FMZ",
+      "url": "https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5"
+    },
+    {
+      "album": {
         "name": "Fontanelle",
         "url": "https://open.spotify.com/album/1eNLWw4IjuHik1LWh288ii"
       },

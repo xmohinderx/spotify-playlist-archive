@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204700,
+      "name": "Caf\u00e9 e Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6zeo9bcZWGlHi2VqjUSmaR"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 e Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4qOLbV6MFlPRM40KMYorat"
       },
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 194631,
       "name": "Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa"

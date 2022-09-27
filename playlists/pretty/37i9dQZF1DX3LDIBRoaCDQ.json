@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1424267,
+  "num_followers": 1424477,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMDQ0NGQwNzkzZGU4ZDEwMTE2Njg2ODYxOTliZmFhY2Fi",
+  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMGE4YTk0ZWZkNTVmZjc1MzQ1YTgyNTAxOGIxODlmNmEw",
   "tracks": [
     {
       "added_at": "2022-06-21 19:07:54",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -183,22 +199,6 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -255,6 +255,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man",
       "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -367,22 +383,6 @@
       "duration_ms": 175906,
       "name": "Hong Kong Garden",
       "url": "https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Happy House",
-      "url": "https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 191266,
       "name": "Uncontrollable Urge",
       "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Happy House",
+      "url": "https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -851,22 +867,6 @@
       "duration_ms": 167840,
       "name": "Blank Generation - 2013 Remaster",
       "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
-      },
-      "artists": [
-        {
-          "name": "T.S.O.L.",
-          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Code Blue",
-      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
+      },
+      "artists": [
+        {
+          "name": "T.S.O.L.",
+          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Code Blue",
+      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "This Is The Modern World",
         "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 206040,
       "name": "Search and Destroy - Bowie Mix",
       "url": "https://open.spotify.com/track/4vhTm7eeqJAW4Iq3grUutI"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Peace Thru Vandalism",
-        "url": "https://open.spotify.com/album/6MMGc0FA5Kwm8TsiJBx31L"
-      },
-      "artists": [
-        {
-          "name": "The Vandals",
-          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
-        }
-      ],
-      "duration_ms": 114133,
-      "name": "Anarchy Burger (Hold the Government)",
-      "url": "https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9"
     }
   ],
   "unique_name": "Classic Punk",

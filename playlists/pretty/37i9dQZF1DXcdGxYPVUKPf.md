@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,452 likes - 23 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,428 likes - 23 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 6 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 7 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 |
 | 8 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
-| 9 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
-| 10 | [Rake It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 4:36 |
-| 11 | [Wolf Totem](https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:38 |
-| 12 | [POP STAR \(feat\. Kevin Gates\)](https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:03 |
-| 13 | [No More Pain](https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 6:14 |
-| 14 | [Life by the Drop](https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 2:27 |
-| 15 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
+| 9 | [Rake It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 4:36 |
+| 10 | [Wolf Totem](https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:38 |
+| 11 | [POP STAR \(feat\. Kevin Gates\)](https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:03 |
+| 12 | [No More Pain](https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 6:14 |
+| 13 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
+| 14 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
+| 15 | [Life by the Drop](https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 2:27 |
 | 16 | [That Box](https://open.spotify.com/track/0s77c1ThyBrs35oXKGUUc4) | [Tech N9ne Collabos](https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t), [Big Krizz Kaliko](https://open.spotify.com/artist/0BWaIw0Ns1a7e51l3DminD), [Greed](https://open.spotify.com/artist/0rHMSWop2zjzzy8tDETdui), [Kutt Calhoun](https://open.spotify.com/artist/78nL8LitGR7vO0qp2iZF9E), [Snug Brim](https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h), [Skatterman](https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq) | [Misery Loves Kompany](https://open.spotify.com/album/6ZQsfsE3X900PjZeomO4VY) | 5:49 |
 | 17 | [Get Up On My Level](https://open.spotify.com/track/7hXPF6mq76yeknggOnCNID) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [Aja Elan](https://open.spotify.com/artist/5vSvL2GNm9anuyWiy9YZCL) | [Get Up On My Level](https://open.spotify.com/album/0retIMfRSCLdGiUUatMct8) | 2:50 |
 | 18 | [All Night Long \- Live; 1999 Remaster](https://open.spotify.com/track/36psUsoODcqVG52lQIzDNy) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles Live](https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2) | 5:34 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 22 | [Work Hard](https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg) | 3:40 |
 | 23 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 |
 
-Snapshot ID: `MTY0MTIzNTI1NywwMDAwMDAwMDNlZTdmMWQ0MGMxMjdjMzRjMTcyN2EyZmMwNmZkNjI2`
+Snapshot ID: `MTY0MTIzNTI1NywwMDAwMDAwMGQwNWJjMGNkNmQyZmQ1MDA5YzlhNDU5MjEyMWY3OGI4`

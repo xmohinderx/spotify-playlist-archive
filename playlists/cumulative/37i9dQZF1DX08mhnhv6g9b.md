@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-425 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
+426 songs - 1 day 2 hr 2 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/73ipE4lfZ53pvBbJPXkiEK) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/0XqAZHNx0xJDObehTI2587) | 4:35 | 2022-06-10 | 2022-06-18 |
 | [Serendipity \(Full Length Edition\)](https://open.spotify.com/track/5cQB9fbuQCz4muQUFkv3rR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:36 | 2022-06-10 | 2022-06-18 |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-05-27 |  |
+| [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-26 |  |
 | [Silver Spoon](https://open.spotify.com/track/6O734u9qnz6B4gWMyszWhi) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:53 | 2022-05-27 |  |
 | [Silver Spoon](https://open.spotify.com/track/2VgPA0WnwvE2nbltxa3BHz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:53 | 2022-06-10 | 2022-06-18 |
 | [Silver Spoon](https://open.spotify.com/track/5PRJlVG1c2JNa85mFoGARM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:53 | 2022-05-27 |  |

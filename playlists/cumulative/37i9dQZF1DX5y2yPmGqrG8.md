@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-413 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+414 songs - 1 day 15 hr 29 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Asia](https://open.spotify.com/track/6kg3oZmQjDU1nMLOWU3gVP) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:03 | 2021-10-06 | 2022-04-14 |
 | [At The Cutting Edge](https://open.spotify.com/track/60iNlXEmen0uh4Ayu93EBQ) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [Nicole \(1986 Spring And Summer Collection \- Instrumental Images\)](https://open.spotify.com/album/7A1pS5iNzyUGLTH5RRCux7) | 4:41 | 2021-10-06 | 2022-05-30 |
 | [At the Top of the Hill, They Stood...](https://open.spotify.com/track/60MO0kiS8oO9Hrl5sHnQoH) | [Penguin Cafe](https://open.spotify.com/artist/1xU7tQkYahN1eWbgEzoure) | [At the Top of the Hill, They Stood...](https://open.spotify.com/album/7oCF9x7fSwsVcsmFGHXymy) | 5:40 | 2021-10-06 | 2022-07-23 |
-| [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 | 2021-10-06 |  |
+| [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 | 2021-10-06 | 2022-09-27 |
 | [Badlands Train](https://open.spotify.com/track/2ZdD734d65deIKqH6pJkXi) | [Stubbleman](https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov) | [Badlands Train](https://open.spotify.com/album/74fjGUdVhFWF976Tnno4Vj) | 5:28 | 2021-10-06 | 2022-07-04 |
 | [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/2ylpTfBEFSetAZHwTT0jIK) | 6:00 | 2021-10-06 | 2022-07-22 |
 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 | 2021-10-06 | 2022-05-30 |
@@ -393,6 +393,7 @@
 | [Untitled, Live in Portland](https://open.spotify.com/track/1qJT3z2QI6YC7Txqm6OA2c) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 7:03 | 2021-10-06 | 2022-05-29 |
 | [Ursa Major](https://open.spotify.com/track/0wCUvFYNT0vJoDW8ky1WxM) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Ursa Major](https://open.spotify.com/album/0eBBp3GtEsITNPh3NTG00u) | 4:10 | 2021-10-06 | 2022-07-23 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 | 2022-07-12 |
+| [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 |  |
 | [Veils and Mirrors](https://open.spotify.com/track/3WWOniXQOWprUhfWkIsmXe) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/2rT5TTG2aomPh1tzk1XAWi) | 4:53 | 2022-03-30 | 2022-04-13 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 | 2022-06-21 |
 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 |  |

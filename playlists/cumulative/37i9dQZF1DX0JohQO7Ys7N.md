@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE?si=K80DPqPTTe\-OVydeyfGsQA">Wanja Wohoro</a>
 
-95 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+96 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Nakupenda Bado](https://open.spotify.com/track/3T2HZ4MqS2AVxtuCTXJZ3B) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Hayawi Hayawi](https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK) | 3:25 | 2021-12-28 | 2022-07-08 |
 | [Ndani Ya Gari](https://open.spotify.com/track/3xOt9gJVYirLyimYnsUEvr) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:53 | 2022-09-22 |  |
 | [Ndi Waku](https://open.spotify.com/track/0yahZenDbEbbMksbDwdrJt) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:45 | 2021-12-28 | 2022-04-01 |
-| [Nguga Ii](https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP) | [Valerie Kimani](https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW) | [Baisikeli](https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1) | 4:24 | 2021-12-28 |  |
+| [Nguga Ii](https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP) | [Valerie Kimani](https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW) | [Baisikeli](https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1) | 4:24 | 2021-12-28 | 2022-09-27 |
+| [Nguga Ii \(I Will Say Yes\)](https://open.spotify.com/track/72HaDS9HmlpQHVbdxeEHsa) | [Valerie Kimani](https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW) | [Baisikeli](https://open.spotify.com/album/0WlhQndUMa5fgiYWgEWyAi) | 4:24 | 2021-12-28 |  |
 | [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 | 2022-06-30 |  |
 | [Nice Car](https://open.spotify.com/track/1m7tvMnLjtzNiFxj5QKBTP) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Shift Happens](https://open.spotify.com/album/1kxF3nkx9EbPqT3p5g6dCC) | 3:48 | 2021-12-28 | 2022-09-23 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-29 |  |

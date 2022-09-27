@@ -4,7 +4,7 @@
 
 > Take comfort in these melancholy masterpieces.
 
-63 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/5fJZ0wGeGkD6csCFT1wCtH)
+64 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5fJZ0wGeGkD6csCFT1wCtH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/4ycGyVS3kyKxGqUiGuOVmt) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [DG 120 – Neoclassical](https://open.spotify.com/album/0MtCLmu5kkaiYVI2824mRC) | 2:27 | 2021-10-18 | 2022-07-29 |
 | [Ab Ovo](https://open.spotify.com/track/5BRfucuiAf5IYRbwBYBYPZ) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 4:48 | 2021-10-18 |  |
 | [Adagio in G Minor \(Arr\. for Harp and Orchestra\)](https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Stefan Klieme](https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [L'Arte del mondo](https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY) | [Notte Veneziana](https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO) | 5:00 | 2021-10-18 |  |
+| [Arcadiana, Op\. 12: VI\. O Albion](https://open.spotify.com/track/5qU2ayuH27qR9pN8YzzOo4) | [Thomas Adès](https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi), [Danish String Quartet](https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D) | [Adès / Nørgård / Abrahamsen](https://open.spotify.com/album/2wkHkrT1trzhRCZcmqVnuN) | 3:15 | 2022-09-26 |  |
 | [Barber: Adagio for Strings, Op\. 11](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio \(100th anniversary\)](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 | 2021-10-18 |  |
 | [Castor et Pollux, RCT 32, Acte I, Scène III: Prélude \- Air accompagné "Tristes apprêts"](https://open.spotify.com/track/5qzHbRSMvjufGp8oyMBWmi) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Teodor Currentzis](https://open.spotify.com/artist/2MMdTWWDamS8wyZJ6Hosch) | [Rameau \- The Sound of Light](https://open.spotify.com/album/5UwSjotNAyGJxOrB71mseq) | 7:33 | 2021-10-18 |  |
 | [Cathedral](https://open.spotify.com/track/4aWpPyXgZsRr2winLc0mjp) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Cathedral](https://open.spotify.com/album/7mMkDmzF5Cbz4MxZKkUEmw) | 5:40 | 2021-10-18 |  |

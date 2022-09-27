@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Lyn\(린\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
 
-535 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+537 songs - 1 day 10 hr 56 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Glass of Soju](https://open.spotify.com/track/3oDg1unSLN4Ef8vDHVoqGi) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [A Glass of Soju](https://open.spotify.com/album/1995xtZTYnZv9UPwbDBA5C) | 4:37 | 2022-03-21 | 2022-04-12 |
 | [A Letter To B](https://open.spotify.com/track/2KXagyxE1urrShPGdOXkum) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [A Letter To B](https://open.spotify.com/album/5BJ0vBIxCCvXcaV6n3VSnQ) | 5:27 | 2022-09-05 |  |
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-07-07 |  |
+| [A Memorial Day](https://open.spotify.com/track/6XF1F1BMA7TNRX1f9USAnB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [talks about memory](https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx) | 3:29 | 2022-09-26 |  |
 | [A Memory In My Heart](https://open.spotify.com/track/2XAu8WweXyyLJ6NjfcFBcB) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/38W3UiKhrmYIYXyWKBbypt) | 3:47 | 2022-03-31 | 2022-04-16 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-04 | 2022-07-03 |
 | [A Rainy Night](https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [A Rainy Night](https://open.spotify.com/album/3NrgCIy6LfDqlxWaUHAbUi) | 3:57 | 2022-01-17 | 2022-04-09 |
@@ -55,6 +56,7 @@
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [Beauty\(2022\)](https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs) | [SONG YUVIN](https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT) | [Beauty\(2022\)](https://open.spotify.com/album/1afUq7Xry5pM5ueGbcPCVg) | 3:51 | 2022-08-18 |  |
 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 | 2022-07-08 |
+| [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-26 |  |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2022-03-24 | 2022-04-21 |
 | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/track/0qra3sEPOw2fLrXzyr5l0k) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/album/45JhwZbI1ZraQWnGWhFCk9) | 4:48 | 2022-01-03 | 2022-04-20 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-03-08 |

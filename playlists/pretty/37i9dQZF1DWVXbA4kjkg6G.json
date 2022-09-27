@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 311011,
+  "num_followers": 311323,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDE0YjVjZDM5OTNmNTMwZTFmMTg1YTgwNjg4ZjA5NTIz",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDQ3M2E5OTFkZGI0ZWY0ZTkwYzQ1NjUyYTBiNDQ5ZDVj",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -91,6 +91,26 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+        }
+      ],
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
-        }
-      ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -243,6 +243,38 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "A New Stereophonic Sound Spectacular",
+        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
+      },
+      "artists": [
+        {
+          "name": "Hooverphonic",
+          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "2 Wicky",
+      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 316440,
+      "name": "Karmacoma",
+      "url": "https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -259,18 +291,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "A New Stereophonic Sound Spectacular",
-        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
       "artists": [
         {
-          "name": "Hooverphonic",
-          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 284293,
-      "name": "2 Wicky",
-      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+      "duration_ms": 235800,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -303,38 +335,6 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Karmacoma",
-      "url": "https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Suzuki",
         "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
@@ -403,34 +419,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Let Us Play",
-        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
       },
       "artists": [
         {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -451,18 +451,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 367480,
-      "name": "In A Beautiful Place Out In The Country",
-      "url": "https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa"
+      "duration_ms": 270093,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Let Us Play",
+        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
+      },
+      "artists": [
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 270093,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
+      "duration_ms": 307880,
+      "name": "Turquoise Hexagon Sun",
+      "url": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -607,22 +623,6 @@
       "duration_ms": 308373,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Turquoise Hexagon Sun",
-      "url": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 381240,
-      "name": "Deep Shit, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Since Then. 2017",
         "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
       "artists": [
         {
-          "name": "DJ Food",
-          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 245946,
-      "name": "Dark Lady",
-      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
+      "duration_ms": 381240,
+      "name": "Deep Shit, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -791,6 +775,22 @@
       "duration_ms": 734333,
       "name": "In / Flux",
       "url": "https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "DJ Food",
+          "url": "https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Dark Lady",
+      "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -843,34 +843,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
       },
       "artists": [
         {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Christiansands",
-      "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like - Pt. 2",
+      "url": "https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -891,18 +875,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
         }
       ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -923,18 +907,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like - Pt. 2",
-      "url": "https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE"
+      "duration_ms": 232160,
+      "name": "Christiansands",
+      "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Reeled And Skinned",
-        "url": "https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4"
-      },
-      "artists": [
-        {
-          "name": "Red Snapper feat. Beth Orton",
-          "url": "https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Snapper",
-      "url": "https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Hed Phone Sex",
         "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Reeled And Skinned",
+        "url": "https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4"
+      },
+      "artists": [
+        {
+          "name": "Red Snapper feat. Beth Orton",
+          "url": "https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Snapper",
+      "url": "https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1047,22 +1063,6 @@
       "duration_ms": 349560,
       "name": "We Be the Crew",
       "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 362106,
+      "name": "Dieu Reconnaitra Les Siens",
+      "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Dogmatic Sequences, Vol. 2",
         "url": "https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "My Left Pussyfoot",
-        "url": "https://open.spotify.com/album/5yS6FBypn4GpZV8LymMbWd"
-      },
-      "artists": [
-        {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
-        }
-      ],
-      "duration_ms": 322200,
-      "name": "Five Days",
-      "url": "https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9"
     }
   ],
   "unique_name": "Trip Hop",

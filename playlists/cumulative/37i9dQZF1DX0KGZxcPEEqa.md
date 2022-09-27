@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop.
 
-583 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+584 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [Make Me \(Cry\)](https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\)](https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g) | 4:02 | 2021-08-10 |  |
 | [Make Me Like You](https://open.spotify.com/track/3AIOGUttDrVfuAvP1kotP9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:36 | 2022-05-11 |  |
 | [Make Me Like You](https://open.spotify.com/track/0K6eUb8fOPOyJdGVWNjRwi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Make Me Like You](https://open.spotify.com/album/2VBvPAJn3tEJXBxMLp70rw) | 3:36 | 2021-08-10 | 2022-07-29 |
-| [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/0nUGa8WQpQqg2vzJUprEo5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:50 | 2022-05-11 |  |
+| [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:50 | 2022-05-11 |  |
+| [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/0nUGa8WQpQqg2vzJUprEo5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:50 | 2022-05-11 | 2022-09-27 |
 | [Make Me..\. \(feat\. G\-Eazy\) \(feat\. G\-Eazy\)](https://open.spotify.com/track/0YSJCrlSWF3meRTNCu54WI) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Make Me..\. \(feat\. G\-Eazy\) \(feat\. G\-Eazy\)](https://open.spotify.com/album/2AMoA7ZmuomSMmtBfjblck) | 3:51 | 2021-08-10 | 2022-07-29 |
 | [make up](https://open.spotify.com/track/27356GVuMPFWiJSZCragoM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:20 | 2021-11-10 |  |
 | [Mama Said](https://open.spotify.com/track/5ArQzSBevAdXTxRY6Ulhbq) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:26 | 2021-08-10 |  |

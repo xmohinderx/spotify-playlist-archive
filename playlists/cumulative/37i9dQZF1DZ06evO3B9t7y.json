@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 191388,
       "name": "La Tipica",
       "url": "https://open.spotify.com/track/3AxEZyQEGEhHuTJgRrT7dh"
@@ -871,6 +871,24 @@
       "duration_ms": 167138,
       "name": "Se\u00f1ora Elegante",
       "url": "https://open.spotify.com/track/5u8rAoGTVaXBhwn6FZARPQ"
+    },
+    {
+      "album": {
+        "name": "Si Es Cierto Que Te Vas",
+        "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216837,
+      "name": "Si Es Cierto Que Te Vas",
+      "url": "https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7"
     },
     {
       "album": {

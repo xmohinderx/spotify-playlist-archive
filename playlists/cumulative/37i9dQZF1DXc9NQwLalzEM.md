@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-172 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+173 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Merry Go Round](https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5) | [The Joneses](https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK) | [Movin' On \- The Early Years \(Remastered\)](https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft) | 4:30 | 2021-04-23 |  |
 | [Mine All Mine](https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Closer Than Close](https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz) | 4:30 | 2021-07-20 |  |
 | [Motor City \- Single Version](https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r) | [The Satintones](https://open.spotify.com/artist/6CpK7aaneTdvYmRsPOlF25) | [The Complete Tamla And Motown Singles...Plus!](https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW) | 2:33 | 2021-04-23 |  |
-| [My Dream](https://open.spotify.com/track/3J3TOvFAjye5DX657x1w3l) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best Of The Softones](https://open.spotify.com/album/7tWOzSqax4E9GKknWXKHd2) | 3:16 | 2022-05-11 |  |
+| [My Dream](https://open.spotify.com/track/3J3TOvFAjye5DX657x1w3l) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best Of The Softones](https://open.spotify.com/album/7tWOzSqax4E9GKknWXKHd2) | 3:16 | 2022-05-11 | 2022-09-27 |
+| [My Dream](https://open.spotify.com/track/7iVAuA7QEb2nkVkYZ55a0q) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Softones](https://open.spotify.com/album/7D7eaBi0PcvV9QNHD934ah) | 3:16 | 2022-05-11 |  |
 | [My Dream](https://open.spotify.com/track/6BUGXQsf7jRuyvgG2S7hZD) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best of the Softones](https://open.spotify.com/album/2YvN6bMhU9jsHTkhSFYOly) | 3:19 | 2021-04-23 | 2022-07-29 |
 | [My Heart](https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH) | [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [A Cellarful Of Motown! \(Vol\. 2\)](https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI) | 2:55 | 2021-04-23 |  |
 | [My Little Baby](https://open.spotify.com/track/4MKGbIJuSZQ8KFF0rGBXt0) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:56 | 2021-04-23 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits Maghrébins du moment sont ici\. Cover : Nej.
+> Les hits du moment sont ici\. Cover : ElGrandeToto
 
 104 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 

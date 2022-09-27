@@ -4,7 +4,7 @@
 
 > entering my reputation era 🐍
 
-230 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+231 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-01-27 |  |
 | [Do It Like A Girl](https://open.spotify.com/track/2pY0EPtqQb0GJGUY7EzxqP) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Do It Like A Girl](https://open.spotify.com/album/6CfE9EVboYOLM5OunwJTCm) | 2:43 | 2022-04-08 | 2022-07-27 |
 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 | 2022-01-27 | 2022-04-21 |
-| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 |  |
+| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 | 2022-09-27 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-01-27 |  |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2022-01-27 | 2022-07-29 |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2022-08-26 |
@@ -197,6 +197,7 @@
 | [Somebody's Watching Me](https://open.spotify.com/track/7aeGKqZ3oURYO7p793BBW1) | [Madelyn Darling](https://open.spotify.com/artist/1j60AcfVBF5WUmGWfhFIel) | [Somebody's Watching Me](https://open.spotify.com/album/6brAY6PpIXJXtrgpACy5XZ) | 3:46 | 2022-01-27 | 2022-04-20 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-28 |  |
 | [Sour Switchblade](https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Anxiety Angel](https://open.spotify.com/album/5ipcsit6PRtDh8Pdkt1wuv) | 2:28 | 2022-01-27 | 2022-06-02 |
+| [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-09-26 |  |
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-01-27 |  |
 | [Succession \- Main Title Theme](https://open.spotify.com/track/3jI7Yeg7a2d7BMc8CxABVM) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession, Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/2JsH6mfSAfojZhQJ5CuLMK) | 1:42 | 2022-02-01 | 2022-04-21 |
 | [Sugar Mama](https://open.spotify.com/track/4dyAQ8PjbyInJYgTnTsIeX) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Nūr](https://open.spotify.com/album/46ZW6xsjuHxCDAjeeV0zT8) | 2:17 | 2022-01-27 | 2022-03-01 |

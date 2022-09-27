@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,594 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,681 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 19 | [Come Back to Sorrento](https://open.spotify.com/track/0oRIL3IWkQZ2Z1IlxS6QJ8) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:05 |
 | 20 | [Drinking Song](https://open.spotify.com/track/4MHgsC2QMjKOdCHDyLpCNr) | [Il Nuovo Canzoniere Italiano G](https://open.spotify.com/artist/0bL3HwV4MUNY6zWF48FBFJ) | [Legendary Favorite Songs of Italy](https://open.spotify.com/album/3kRcceh4bQYuJ6MIdKnXNN) | 1:54 |
 | 21 | [Zio Dell' America](https://open.spotify.com/track/3p4WY78Wkb5NtftWbJvLUa) | [Angelo Petisi And His Mandolin Orchestra](https://open.spotify.com/artist/2bspzpcot2XayxFu3CZG3D) | [From Italy With Love \- Italia](https://open.spotify.com/album/7kWyDShqxo1hLcCyBnxMGK) | 2:11 |
-| 22 | [Fellini Days](https://open.spotify.com/track/4qnkYrOM03dhTJKd8bgy95) | [Daniele Benati](https://open.spotify.com/artist/35qX6p8b4ZvGmH3u9iI5kn), [Fabio Di Bari](https://open.spotify.com/artist/2j4JhFARcGXR4eVZjzYQ0B), [Enrico Prandi](https://open.spotify.com/artist/4Rue7DqN84hQGz2VhvqtMi) | [THE ITALIAN DINNER The Perfect Italian Soundtrack to Eat](https://open.spotify.com/album/5SAxP5vorZmAG4u3xUiKg6) | 3:10 |
+| 22 | [Fellini Days](https://open.spotify.com/track/4qnkYrOM03dhTJKd8bgy95) | [Daniele Benati; Fabio Di Bari; Enrico Prandi](https://open.spotify.com/artist/6bcsxFcUWHOoF2ZXlQcdZV) | [THE ITALIAN DINNER The Perfect Italian Soundtrack to Eat](https://open.spotify.com/album/5SAxP5vorZmAG4u3xUiKg6) | 3:10 |
 | 23 | [Anna](https://open.spotify.com/track/4mcLSBFzlsvlolMAqrbV72) | [Giuseppe Caiani](https://open.spotify.com/artist/6grCjLceCOZWUCCndoqkaD) | [Mandolins Italia](https://open.spotify.com/album/6QhuxcVAJVOmBE2VTmNgq9) | 3:36 |
 | 24 | [Theme From Il Postino](https://open.spotify.com/track/0pVY6O6neKutqWwwIHyqJZ) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Romance In Tuscany](https://open.spotify.com/album/4uA5Ob844NB7HKpjfjLgIq) | 4:08 |
 | 25 | [Neapolitan Dance Song](https://open.spotify.com/track/3lGo7YnPCTJqZ4RJOcgjdV) | [Brisbane Mandolin Ensemble](https://open.spotify.com/artist/1ccdfocjn7dt9qFfk48L9k) | [Italian Mandolins](https://open.spotify.com/album/0j8fwpPiiLk7aK342yPvPb) | 3:02 |

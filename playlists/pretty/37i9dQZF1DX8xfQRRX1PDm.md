@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Kartik Aaryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,236 likes - 66 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,458 likes - 66 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

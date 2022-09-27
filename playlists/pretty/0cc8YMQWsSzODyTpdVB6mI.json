@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43311,
+  "num_followers": 43326,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk0MSxhNmE3OTA5NDU2ZjhkMWEzYjFhYTFlYTI1ODNlY2FiNWZhZWM5NzFh",
+  "snapshot_id": "Mjk0MyxhOTZlMGNkODRlNWI1ZDFiOWM1N2E0Nzg5NmM0NDJhNjhiNTdjMzJj",
   "tracks": [
+    {
+      "added_at": "2022-09-26 08:09:23",
+      "album": {
+        "name": "Kutamba",
+        "url": "https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "duration_ms": 176726,
+      "name": "Kutamba",
+      "url": "https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI"
+    },
     {
       "added_at": "2022-09-23 07:47:46",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 167812,
       "name": "Be Grateful",
       "url": "https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp"
-    },
-    {
-      "added_at": "2022-07-04 10:12:31",
-      "album": {
-        "name": "TTYL",
-        "url": "https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G"
-      },
-      "artists": [
-        {
-          "name": "imugi \uc774\ubb34\uae30",
-          "url": "https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8"
-        }
-      ],
-      "duration_ms": 198127,
-      "name": "TTYL",
-      "url": "https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt"
     },
     {
       "added_at": "2021-11-05 15:47:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. La Queens Tafari on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,873 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,878 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 9 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
 | 10 | [Bachata en Fukuoka \- Remix](https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8) | [Hocho](https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP) | [Bachata en Fukuoka \(Remix\)](https://open.spotify.com/album/3CANHhkPDe0ITej0hPwu8B) | 2:40 |
 | 11 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
-| 12 | [Pisoteo](https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:35 |
-| 13 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
-| 14 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
-| 15 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
-| 16 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
+| 12 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
+| 13 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
+| 14 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
+| 15 | [Pisoteo](https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:35 |
+| 16 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
 | 17 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 18 | [Dancing with the Devil](https://open.spotify.com/track/4JT3ei83U7FnONltcI1M4M) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6) | [Borderline Genius Disorder](https://open.spotify.com/album/6Sn2fvq9ZzBobOVJ0n1Eoy) | 2:34 |
 | 19 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 32 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
 | 33 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 34 | [Luna](https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH) | [Laika en el Espacio](https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq) | [Luna](https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n) | 4:34 |
-| 35 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
-| 36 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
+| 35 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
+| 36 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
 | 37 | [Cariño](https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p) | [Bella Rabbit](https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy) | [Cariño](https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn) | 3:14 |
-| 38 | [Fiebre](https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Fiebre](https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb) | 3:52 |
-| 39 | [Not Enough to Scare](https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Not Enough to Scare](https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ) | 3:06 |
+| 38 | [Not Enough to Scare](https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Not Enough to Scare](https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ) | 3:06 |
+| 39 | [Fiebre](https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Fiebre](https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb) | 3:52 |
 | 40 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
 | 41 | [María](https://open.spotify.com/track/0Pe7U91cqrdUFW46STjAjV) | [Odin Parada](https://open.spotify.com/artist/0ZrCTT7qjo9iFI7ArCPoZE), [Andres Landon](https://open.spotify.com/artist/1E2YZnjGxFq8SxaQpDgG5o) | [María](https://open.spotify.com/album/1ONh865o0F9ugVXw7QQso5) | 4:15 |
 | 42 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
 | 50 | [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 |
 
-Snapshot ID: `MTY2Mzc3NjAwMCwwMDAwMDAwMGI3MWI5ZWM4YTE0MWQ1NTViZWFkMmVlMjlmNDdhZTIz`
+Snapshot ID: `MTY2Mzc3NjAwMCwwMDAwMDAwMGMyNGFiYjg4NWFkZDg4NjRjYzFlNjg3NmE4MzY4NDkw`

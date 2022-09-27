@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-628 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+629 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [green felt](https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [green felt](https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk) | 2:20 | 2021-11-12 | 2022-04-29 |
 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 | 2022-07-15 |  |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2021-03-05 | 2022-04-16 |
+| [Grudge](https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 4:03 | 2022-09-26 |  |
 | [Guessing in a Row](https://open.spotify.com/track/5klb3HnAcxzFhPO0tNSUg6) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Guessing in a Row](https://open.spotify.com/album/5j4nsSORgIB3H4yigy4wbA) | 3:46 | 2021-03-05 | 2022-04-21 |
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-03-04 | 2022-03-10 |
 | [Habitat](https://open.spotify.com/track/5AVmZ4b4vbkEEBfbH67WJc) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Habitat](https://open.spotify.com/album/5aPqe2xsYknVrzOkKr34D5) | 6:55 | 2022-01-28 | 2022-04-29 |
