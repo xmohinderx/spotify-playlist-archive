@@ -3076,6 +3076,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Relaxing Blues Piano](/playlists/pretty/37i9dQZF1DWTK9gSXKWMMx.md)
 - [Relaxing Chopin](/playlists/pretty/37i9dQZF1DWZYpU3rwrcAz.md)
 - [Relaxing Christmas](/playlists/pretty/37i9dQZF1DX6pJ4E78jhBi.md)
+- [Relaxing Classical](/playlists/pretty/1ZJpJahEFst7u8njXeGFyv.md)
 - [Relaxing Classical Guitar](/playlists/pretty/37i9dQZF1DWXBq4mDDFnfA.md)
 - [Relaxing Guitar Covers](/playlists/pretty/37i9dQZF1DWXRIPBpg9WV1.md)
 - [Relaxing Jazz Piano](/playlists/pretty/37i9dQZF1DWWfxnl2EyBbd.md)
