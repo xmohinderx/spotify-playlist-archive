@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181562,
+  "num_followers": 181564,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDA5Y2RmNjliMTFiN2NiNmIxMWUwZjU3MTNjYzAxZTg3",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGMxYTY1OTUxYjhkZTgzMjM3ZjM4OTNjZGViYTE5NDJj",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4"
     },
     {
-      "added_at": "2021-10-11 11:04:14",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Spit Of You",
-      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
-    },
-    {
       "added_at": "2021-08-12 14:57:38",
       "album": {
         "name": "Wachito Rico",
@@ -155,6 +139,22 @@
       "duration_ms": 255000,
       "name": "i <3 u",
       "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
+    },
+    {
+      "added_at": "2021-10-11 11:04:14",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Spit Of You",
+      "url": "https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -339,22 +339,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Chinatown (feat. Bruce Springsteen)",
-        "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 247968,
-      "name": "Chinatown (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+      "duration_ms": 189000,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -375,18 +371,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "homebody",
-        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
+        "name": "Chinatown (feat. Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 189000,
-      "name": "homebody",
-      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
+      "duration_ms": 247968,
+      "name": "Chinatown (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
     },
     {
       "added_at": "2021-09-24 18:51:29",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Question It All / White Car",
         "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Don't Turn Around",
-        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 171699,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Don't Turn Around",
+        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 171699,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Folding",
+        "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
+      },
+      "artists": [
+        {
+          "name": "Abimaro",
+          "url": "https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "Folding",
+      "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
       },
@@ -783,18 +799,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Folding",
-        "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
+        "name": "Secret Life (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
       },
       "artists": [
         {
-          "name": "Abimaro",
-          "url": "https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 227651,
-      "name": "Folding",
-      "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
+      "duration_ms": 186613,
+      "name": "Secret Life (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -815,26 +835,6 @@
       "duration_ms": 187364,
       "name": "Control",
       "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Secret Life (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Secret Life (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -999,6 +999,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Magical Thinking",
         "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
-      },
-      "artists": [
-        {
-          "name": "Gengahr",
-          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Can't Fight",
-        "url": "https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Undertones",
         "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 170306,
       "name": "Seven Nights",
       "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Can't Fight",
+        "url": "https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Bel\u00b7li",
-        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 172308,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 232130,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Bel\u00b7li",
+        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "TRAP PHONE",
-        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 250113,
-      "name": "TRAP PHONE",
-      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Uriah's Cry",
         "url": "https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 201269,
       "name": "Uriah's Cry",
       "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "TRAP PHONE",
+        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 250113,
+      "name": "TRAP PHONE",
+      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
     },
     {
       "added_at": "2021-08-12 14:57:38",

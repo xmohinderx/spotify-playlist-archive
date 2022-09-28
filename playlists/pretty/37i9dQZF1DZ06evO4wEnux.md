@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 11 | [James](https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 4:57 |
 | 12 | [Better Friend](https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 4:17 |
 | 13 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
-| 14 | [Lost Little Boys](https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:20 |
+| 14 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 |
 | 15 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
 | 16 | [Love For Air](https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:05 |
 | 17 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 |
-| 18 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 |
+| 18 | [Lost Little Boys](https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:20 |
 | 19 | [Dust](https://open.spotify.com/track/1GJOD1hL174nX6mdaLXeSs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 2:38 |
 | 20 | [Dive](https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:35 |
 | 21 | [Gratitude](https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:37 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 24 | [End Of The World](https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
 | 25 | [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDBhZjZiNzljNGE1N2RmM2NhYWIyOWExNzBjNTk0MDc5Yw==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDA0NzFhZGQ1MzJkNmQ5MDk1ZWJlMjFkMWQ0OTUyYTAzMQ==`

@@ -1880,6 +1880,28 @@
     },
     {
       "album": {
+        "name": "Coffee With Kadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/53OkYImzMkAeGw08GYOe8B"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Hi Hello",
+      "url": "https://open.spotify.com/track/6TLV6M2ZYR450HacvZCXik"
+    },
+    {
+      "album": {
         "name": "Imaikkariye (From \"Selfie\")",
         "url": "https://open.spotify.com/album/73jBNscobCp7Yh36kHAKt7"
       },
@@ -4318,6 +4340,36 @@
     },
     {
       "album": {
+        "name": "Paartha Nyabhagam (From \"Kolai\") - Single",
+        "url": "https://open.spotify.com/album/6VNCXzImQUqraMLH2ygueg"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "Viswanathan\u2013Ramamoorthy",
+          "url": "https://open.spotify.com/artist/3bACGAZLK8w1OVWOncgtKm"
+        },
+        {
+          "name": "Kannadasan",
+          "url": "https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270521,
+      "name": "Paartha Nyabhagam (From \"Kolai\")",
+      "url": "https://open.spotify.com/track/66R1mgEw5IfOPCAtngwHlL"
+    },
+    {
+      "album": {
         "name": "Panni Kutty (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3mNRx0LHYcDI95r3lJtZkv"
       },
@@ -4847,10 +4899,32 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 202718,
       "name": "Rendu Raaja",
       "url": "https://open.spotify.com/track/4nX9XlGazE4EkOJQyrT64j"
+    },
+    {
+      "album": {
+        "name": "Rendu Raaja (From \"Naane Varuvean\") - Single",
+        "url": "https://open.spotify.com/album/3bvzhuGSaJA0kAXSeekZ6o"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202718,
+      "name": "Rendu Raaja (From \"Naane Varuvean\")",
+      "url": "https://open.spotify.com/track/6ZK4Ih45aejD4eBGRdXeM9"
     },
     {
       "album": {
@@ -5454,6 +5528,32 @@
     },
     {
       "album": {
+        "name": "Thani Maramai (From \"Buffoon\")",
+        "url": "https://open.spotify.com/album/6Y0bfu77oLaYSSuT4NcwmE"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Pavithra Ramesh",
+          "url": "https://open.spotify.com/artist/7il5dYQBr2FkT6si0u3gmY"
+        },
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285306,
+      "name": "Thani Maramai (From \"Buffoon\")",
+      "url": "https://open.spotify.com/track/0YGMPiD1JZpdTGEYIMHhyn"
+    },
+    {
+      "album": {
         "name": "Cobra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3"
       },
@@ -6013,6 +6113,28 @@
       "duration_ms": 229080,
       "name": "Vaa Baava (From \"Thudikkum Karangal\")",
       "url": "https://open.spotify.com/track/20oZQmKStmn9b7UvMvWdXq"
+    },
+    {
+      "album": {
+        "name": "Vaa Maa Thendral (From \"Parole\")",
+        "url": "https://open.spotify.com/album/4LbXGDAQaOFwOEhwPkt3ne"
+      },
+      "artists": [
+        {
+          "name": "Rajkumar amal",
+          "url": "https://open.spotify.com/artist/6yzVu7kXsvBwKUt3grfG0L"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272710,
+      "name": "Vaa Maa Thendral - From \"Parole\"",
+      "url": "https://open.spotify.com/track/4YYM5FqlFhVZBwGSVIpavP"
     },
     {
       "album": {

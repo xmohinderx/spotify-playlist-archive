@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Finest of the Indian English Indie\. Cover \-Parekh & Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,703 likes - 87 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,734 likes - 87 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

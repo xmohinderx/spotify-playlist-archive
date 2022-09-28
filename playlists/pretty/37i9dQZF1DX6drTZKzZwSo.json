@@ -1,12 +1,12 @@
 {
   "description": "Classic funk.",
-  "num_followers": 504851,
+  "num_followers": 504945,
   "original_name": "Funky Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYwMzA5MSwwMDAwMDAwMDNiZmJmYjM4MGQ3ZDFlOTcyNzkyYzhiNDVhYjQ0NTFk",
+  "snapshot_id": "MTY2NDI4NDQzNiwwMDAwMDAwMGYzNDg0YTc0NWUyOTZhNWMwMDRjYmEwNWQ3OTVkYzAx",
   "tracks": [
     {
       "added_at": "2020-04-14 18:58:44",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Shakey Ground",
+      "url": "https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
         "name": "AWB",
         "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 298866,
       "name": "Soul With A Capital 'S'",
       "url": "https://open.spotify.com/track/2fEdBCtMRLHJ53fB7hQVpR"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 482720,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
     },
     {
       "added_at": "2021-08-10 13:35:15",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Shakey Ground",
-      "url": "https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
         "name": "How You Like Me Now EP",
         "url": "https://open.spotify.com/album/2GSmsujcCDqnTAIkFUdLOv"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 482720,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
         }
       ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 269640,
+      "name": "Put a Little Love On Me",
+      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Put a Little Love On Me",
-      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
         "name": "Stone Jam",
         "url": "https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC"
       },
@@ -431,22 +415,6 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Happy People",
-      "url": "https://open.spotify.com/track/6dokyiv4HEy6WWxQCQcOkA"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -459,6 +427,30 @@
       "duration_ms": 253693,
       "name": "Who Is She (And What Is She To You)",
       "url": "https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8"
+    },
+    {
+      "added_at": "2021-11-12 16:19:53",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 219389,
+      "name": "Fly As Me",
+      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -475,6 +467,22 @@
       "duration_ms": 222986,
       "name": "Till You Take My Love",
       "url": "https://open.spotify.com/track/6VtO5cZQzv8s3kCFjrXfhi"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -507,6 +515,22 @@
       "duration_ms": 297346,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Happy People",
+      "url": "https://open.spotify.com/track/6dokyiv4HEy6WWxQCQcOkA"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -753,28 +777,20 @@
       "url": "https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx"
     },
     {
-      "added_at": "2021-11-12 16:19:53",
+      "added_at": "2022-08-04 08:51:31",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 219389,
-      "name": "Fly As Me",
-      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -827,22 +843,6 @@
       "duration_ms": 233925,
       "name": "Man Funk",
       "url": "https://open.spotify.com/track/1QQxrrABKbx5w4LIphElwb"
-    },
-    {
-      "added_at": "2022-08-04 08:51:31",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -927,22 +927,6 @@
       "duration_ms": 202706,
       "name": "You Haven't Done Nothin'",
       "url": "https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
-        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
-        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
-      },
-      "artists": [
-        {
-          "name": "Sound Experience",
-          "url": "https://open.spotify.com/artist/0m5uiIlwecGOszBsSMNByB"
-        }
-      ],
-      "duration_ms": 425693,
-      "name": "J.P. Walk",
-      "url": "https://open.spotify.com/track/2jZ95Ane7RQZpF9y6t04PT"
     },
     {
       "added_at": "2020-04-14 18:58:44",

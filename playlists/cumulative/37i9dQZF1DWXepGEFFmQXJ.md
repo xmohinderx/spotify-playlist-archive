@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Kelsea Ballerini
 
-229 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+230 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cheating On Me](https://open.spotify.com/track/42JCfqD9343rCiDTVwX30J) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheating On Me](https://open.spotify.com/album/3bQeWBXnHReJxagC67rkYJ) | 3:28 | 2022-08-05 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-30 | 2022-04-01 |
+| [Come Together](https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Mitch Tambo](https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W), [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Come Together](https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz) | 4:11 | 2022-09-27 |  |
 | [COUNTRY BOYS](https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [COUNTRY BOYS](https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3) | 3:14 | 2022-05-06 |  |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-06-30 |  |
 | [Country Outta My Girl](https://open.spotify.com/track/12JnMGEzuhRdyBZ84UAi07) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Country Outta My Girl](https://open.spotify.com/album/5yMa7b6GWvPHTPijIDQVtJ) | 3:22 | 2021-12-30 | 2022-04-01 |

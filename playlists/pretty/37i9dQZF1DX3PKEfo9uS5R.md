@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,303 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,367 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 70 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 |
 | 71 | [All The Time](https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [All The Time](https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv) | 3:14 |
 | 72 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 |
-| 73 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 |
+| 73 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 |
 | 74 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 |
 | 75 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 |
 | 76 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 93 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 |
 | 94 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDAzNTg2NjUxMWZkMDI1NjhjYWU3YzA3NjVkM2U1OTYy`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDJhZGM1NTkzNzA4NTA0Mjk4YzFhZTRiNWJmNDlmNGJj`

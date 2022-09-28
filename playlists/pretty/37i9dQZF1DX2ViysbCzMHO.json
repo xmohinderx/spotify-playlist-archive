@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 109362,
+  "num_followers": 109454,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGE3ZTA0ZmVjM2ZlMjI5ZDUyM2IzMjBjOTk1MTNmM2Jk",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGJkNzE4OWU3MTc5OTIwYzhmMzcwOGU3M2FiZTM5ZDg3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Best Shot (Acoustic)",
         "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193293,
       "name": "Best Shot - Acoustic",
       "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "I Don't Wanna Go To Heaven (Choir Version)",
         "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Drunk Too",
+        "url": "https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 162117,
+      "name": "Drunk Too",
+      "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1031,34 +1047,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Drunk Too",
-        "url": "https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg"
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
       "artists": [
         {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 162117,
-      "name": "Drunk Too",
-      "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+      "duration_ms": 174133,
+      "name": "Take My Name - Wedding Version",
+      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Take My Name - Wedding Version",
-      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Just About Over You (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "Just About Over You - Acoustic Version",
-      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Just About Over You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "Just About Over You - Acoustic Version",
+      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Don't Come Lookin' (Live Acoustic)",
-        "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 215337,
-      "name": "Don't Come Lookin' - Live Acoustic",
-      "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Thought This Through",
         "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 164234,
       "name": "Not Supposed To Know Each Other (Sad Version)",
       "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Don't Come Lookin' (Live Acoustic)",
+        "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 215337,
+      "name": "Don't Come Lookin' - Live Acoustic",
+      "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
     },
     {
       "added_at": "2022-09-23 04:00:00",

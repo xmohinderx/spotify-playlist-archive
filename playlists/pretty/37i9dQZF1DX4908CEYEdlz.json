@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Nickelback",
-  "num_followers": 705791,
+  "num_followers": 705772,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMDFjNTA2OGY4Yzc3YTI0ZmJhNjQ4NzhjZmJjZThlZDI0",
+  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMDc1YWFiYTk0MjM3Y2UyNTExYzU0ZWVjYTYwNjYxMDMw",
   "tracks": [
     {
       "added_at": "2022-09-23 03:01:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Pass The Nirvana",
         "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 197374,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -323,58 +323,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        },
-        {
-          "name": "Lukas Rossi",
-          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Neurotic (feat. Lukas Rossi)",
-      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
@@ -391,314 +339,18 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "TAKE THIS CROWN (feat. Good Charlotte)",
-        "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "TAKE THIS CROWN (feat. Good Charlotte)",
-      "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Never Gonna Learn EP",
-        "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        },
-        {
-          "name": "Maria Brink",
-          "url": "https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR"
-        }
-      ],
-      "duration_ms": 214724,
-      "name": "New Devil (feat. Maria Brink of In This Moment)",
-      "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "More Than Machines",
-        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "More Than Machines",
-      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 202862,
-      "name": "Out Of Style",
-      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "City Of The Dead",
-        "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 173931,
-      "name": "City Of The Dead",
-      "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Wouldn\u2019t Change A Thing",
-        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Wouldn\u2019t Change A Thing",
-      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Dregs of the Wine",
-        "url": "https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "Dregs of the Wine",
-      "url": "https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Swerve (feat. FEVER 333 & Sueco)",
-        "url": "https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy"
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
       "artists": [
         {
           "name": "Papa Roach",
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 168289,
-      "name": "Swerve (feat. FEVER 333 & Sueco)",
-      "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Dad Vibes",
-        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Everything We Need",
-        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Everything We Need",
-      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Start The Healing",
-        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Chaos In Bloom",
-        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "Going Crazy",
-      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2022-09-23 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Izzy Spears, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,271 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,191 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 43 | [Just Wanna Love You](https://open.spotify.com/track/7wPwLeCgPY0TclMaIdPbgC) | [Benjamin Barth](https://open.spotify.com/artist/0UU0uuyrwixjg1aqQTeuh9) | [Just Wanna Love You](https://open.spotify.com/album/2mmkX0EK9FoYjKZ0VAQSUu) | 3:50 |
 | 44 | [Between All Things](https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX) | 5:18 |
 | 45 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
-| 46 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
+| 46 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
 | 47 | [A Month Ago](https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [A Month Ago](https://open.spotify.com/album/1nka8M1ttrlVEotLDwZJgA) | 2:40 |
 | 48 | [Lesson I Ain't Learned](https://open.spotify.com/track/6ARSWDPDLrjQyOixJTWRln) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Lesson I Ain't Learned](https://open.spotify.com/album/2shITZDvC59FcTBCbOfA8r) | 4:25 |
 | 49 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 |

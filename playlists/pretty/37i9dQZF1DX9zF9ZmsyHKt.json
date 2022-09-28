@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 313006,
+  "num_followers": 313038,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTA3NTc5NCwwMDAwMDAwMGUwNzI1MTZmNzljYWM4YjE3ODBhZGJkNmVmYzdiNzAw",
+  "snapshot_id": "MTYzOTA3NTc5NCwwMDAwMDAwMDlkMTc2YWI2MDUzNDhlYzA0MzcxM2M3NmZlNjJkYjg2",
   "tracks": [
     {
       "added_at": "2021-10-15 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181413,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2021-10-15 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "Iai\u00e1",
         "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
     },
     {
       "added_at": "2021-10-15 03:00:00",

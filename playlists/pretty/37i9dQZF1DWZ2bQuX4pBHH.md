@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,704 likes - 60 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,825 likes - 60 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 9 | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF) | 4:49 |
 | 10 | [Mitwa](https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 6:22 |
 | 11 | [Tujh Mein Rab Dikhta Hai \- Ii](https://open.spotify.com/track/4Q3oEhpsDommo2naYhCpAl) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 1:41 |
-| 12 | [Ladki Badi Anjani Hai](https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 6:21 |
-| 13 | [Tere Liye](https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:31 |
+| 12 | [Tere Liye](https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:31 |
+| 13 | [Ladki Badi Anjani Hai](https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 6:21 |
 | 14 | [Kuch Kuch Hota Hai](https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 4:57 |
 | 15 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 |
 | 16 | [Tumse Milke Dil Ka](https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [Main Hoon Na](https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge) | 5:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/619BqiArColRhmckgCGoG3) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:12 |
 | 60 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 |
 
-Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDc1MDEzZmFlOWMxYmFhYjY0Y2JiZDg0Y2MzYTExM2Q5`
+Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDQ4OWM0NzE4M2RmMzI4NGE1NDkwMDc2YTFjMjQ4YmQz`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,625 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ma Ma Mahesha \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ma Ma Mahesha \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/5uX9rfa81opm0YiGEVYet4) | 4:06 |
 | 2 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 | 3 | [Buttabomma \- Telugu](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2) | 3:18 |
-| 4 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
-| 5 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
+| 4 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
+| 5 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
 | 6 | [Saana Kastam](https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Acharya](https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3) | 4:04 |
 | 7 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
 | 8 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Hola Chica \(Hi Girl\)](https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Alludu Adhurs](https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6) | 4:05 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDM0YTg0ZjhhOTQzYTZjZDI0ZTNlY2MyNDczZGJmMzM2`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGI3NDhkNDYyYTMzM2U1ZTBhYzA4YjI5NjM0ZGYyNDAw`

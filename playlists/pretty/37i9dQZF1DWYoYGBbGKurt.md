@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,172 likes - 500 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,299 likes - 500 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 274 | [Feelin' No Pain](https://open.spotify.com/track/7M9jfgEnrrm8ccatvNMlol) | [Keanu Zono](https://open.spotify.com/artist/42bOEF7IsFizQJdzkyDrHp) | [Breaks](https://open.spotify.com/album/1u63gfGDXw5j1etexzVpF7) | 1:47 |
 | 275 | [Monstera](https://open.spotify.com/track/66RNv89kzel0rASLTJBEMr) | [Olivia Bree](https://open.spotify.com/artist/5NhOlx5kRUSoXTwC01W6kl) | [Monstera](https://open.spotify.com/album/0Mt6UMiO30Ayt1kgc5dIMp) | 1:50 |
 | 276 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Z.LIMACO](https://open.spotify.com/artist/3z48GwjAb6HT7eQaougOYg) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 |
-| 277 | [Timber](https://open.spotify.com/track/3bcLQeScXmjII773KjvALt) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Timber](https://open.spotify.com/album/1F8qOWeHcXvzClsr1ZUlAg) | 2:46 |
+| 277 | [Timber](https://open.spotify.com/track/3bcLQeScXmjII773KjvALt) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Timber](https://open.spotify.com/album/1F8qOWeHcXvzClsr1ZUlAg) | 2:46 |
 | 278 | [morning lights](https://open.spotify.com/track/3oP7lfDx2Ja3EDGDz91dfZ) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [morning lights](https://open.spotify.com/album/6ciKqYmuOOnzIRVewUP6Qs) | 3:04 |
 | 279 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 |
 | 280 | [Eudaemonia](https://open.spotify.com/track/1nJkhf8wK443VtDwOK7an7) | [Baseful](https://open.spotify.com/artist/0i7VB5ST6grTHMcSpC0Iji) | [Eudaemonia](https://open.spotify.com/album/1g9qoE46UHJ1ll8UIF2Ay9) | 2:09 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Good Doctor\(굿닥터\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,069 likes - 83 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,249 likes - 83 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 |
+| 1 | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 |
 | 2 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 | 3 | [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 |
 | 4 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |

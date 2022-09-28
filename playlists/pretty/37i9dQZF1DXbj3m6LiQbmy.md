@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,648 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,661 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 38 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 |
 | 39 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 |
 | 40 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
-| 41 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 |
-| 42 | [Moisture \(feat\. Luca Santucci\) \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb) | 5:20 |
+| 41 | [Moisture \(feat\. Luca Santucci\) \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb) | 5:20 |
+| 42 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 |
 | 43 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
 | 44 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
 | 45 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 |
 | 46 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
-| 47 | [Señoras Bien](https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n) | [Las Bistecs](https://open.spotify.com/artist/2CR3phISm4GRBJ8YtqV4bn) | [Oferta](https://open.spotify.com/album/1DZl8V44ue9Z5mDqgvJTB2) | 3:30 |
-| 48 | [Menergy](https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Patrick Cowley: The Ultimate Collection](https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv) | 5:37 |
+| 47 | [Menergy](https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Patrick Cowley: The Ultimate Collection](https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv) | 5:37 |
+| 48 | [Señoras Bien](https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n) | [Las Bistecs](https://open.spotify.com/artist/2CR3phISm4GRBJ8YtqV4bn) | [Oferta](https://open.spotify.com/album/1DZl8V44ue9Z5mDqgvJTB2) | 3:30 |
 | 49 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 50 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
 | 51 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
 | 73 | [Baby](https://open.spotify.com/track/6xktijW71ZdOvRNoWwBQU4) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:30 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDI4NzM4Y2VhYjI0Y2M2NDRkODRiZmRkNWFmNjdmZWUy`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDhhY2ViZjUzODNjM2IwYTU5N2IzY2VmZjc2ZmRjNjY3`

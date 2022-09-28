@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-160 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+164 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Halloween Shark](https://open.spotify.com/track/1Pt4uDDVb4kl9BQngDohY3) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Special](https://open.spotify.com/album/32rfxYeHQua1OqWpmBEK90) | 1:35 | 2021-08-30 |  |
 | [Halloween Song](https://open.spotify.com/track/1qMjcS1I4cvd04rvjadGI9) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi & Friends Halloween](https://open.spotify.com/album/54l6QDK8Tz9a5dbPV3wmuV) | 2:38 | 2021-09-10 | 2022-07-29 |
 | [Halloween Song](https://open.spotify.com/track/7lKVNgm75OpgfdCI3Kpkoc) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 2:38 | 2021-09-10 |  |
+| [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 | 2022-09-27 |  |
 | [Happy Happy Halloween](https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:52 | 2021-09-10 |  |
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2021-09-10 |  |
 | [Hello, Trick or Treat?](https://open.spotify.com/track/0RcldlMDk4i2MRsbyHaEkq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [This is the Way We Trick or Treat & More Kids Halloween Songs](https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W) | 2:38 | 2021-08-30 |  |
@@ -71,8 +72,10 @@
 | [I Wanna Scare Myself](https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 1:12 | 2021-09-10 |  |
 | [I Wanna Scare Myself](https://open.spotify.com/track/1rd06xXXXPuZsa1u4K5qwF) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 1:13 | 2021-08-30 |  |
 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 | 2021-09-10 |  |
-| [I Want Candy](https://open.spotify.com/track/6JSti8EXneP1ufpN7kAXdC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 80s Gold](https://open.spotify.com/album/28ZiTmTCzG7D4J6Mr1lMIX) | 2:45 | 2021-08-30 |  |
+| [I Want Candy](https://open.spotify.com/track/6JSti8EXneP1ufpN7kAXdC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 80s Gold](https://open.spotify.com/album/28ZiTmTCzG7D4J6Mr1lMIX) | 2:45 | 2021-08-30 | 2022-09-28 |
 | [I Want Candy](https://open.spotify.com/track/6T90zwOKB8mioZZukRu5y3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 2:50 | 2021-08-30 | 2022-07-29 |
+| [I Want Candy \- 2022](https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:48 | 2022-09-27 |  |
+| [It Must Be Halloween](https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [It Must Be Halloween](https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG) | 2:29 | 2022-09-27 |  |
 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 | 2021-09-10 |  |
 | [It's Halloween](https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:15 | 2021-08-30 |  |
 | [Let's Get Spooky](https://open.spotify.com/track/2QAH8HPq0MBWj0MfiOKGPi) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:29 | 2021-09-10 |  |
@@ -119,6 +122,7 @@
 | [Spooky Halloween Sounds](https://open.spotify.com/track/0FfgMJRnYNODbeiDdGnOwu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 4:58 | 2021-08-30 |  |
 | [Spooky Sounds](https://open.spotify.com/track/6IvQD1HKpSfTzEdiN42iui) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 4:58 | 2021-08-30 | 2022-07-29 |
 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 | 2021-08-30 |  |
+| [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 | 2022-09-27 |  |
 | [Spooky, Scary Skeletons](https://open.spotify.com/track/6RPJ1EvnTu8AgaLoVxTm6d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:47 | 2021-09-10 |  |
 | [Stirring The Brew](https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU) | [Jennielea](https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ) | [It's Me Jennielea And My Very First CD](https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq) | 0:58 | 2021-08-30 |  |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-08-30 |  |

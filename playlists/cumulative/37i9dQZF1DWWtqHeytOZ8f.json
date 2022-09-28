@@ -4311,7 +4311,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 300000,
       "name": "Joy",
       "url": "https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB"
@@ -4771,6 +4771,24 @@
       "duration_ms": 218509,
       "name": "Limit at Sendai",
       "url": "https://open.spotify.com/track/5rWs0KXmSRghQyBKfo7NyL"
+    },
+    {
+      "album": {
+        "name": "Cosmic Planta",
+        "url": "https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Liquid Planta Seeds",
+      "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
     },
     {
       "album": {

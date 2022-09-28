@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
-  "num_followers": 60249,
+  "num_followers": 60292,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyOTA4MCwwMDAwMDAwMDdjNjEzYWYwNGM0NzllMDNhYTNkNWY1ODY5YjBlNzA1",
+  "snapshot_id": "MTY2MjcyOTA4MCwwMDAwMDAwMGFkODJmNGRjMDIyNWYwNzMxNzYxYTcyN2ViYWY5YjAx",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -327,6 +327,38 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Consumo",
+        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 212230,
+      "name": "Consumo",
+      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
+    },
+    {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Lluvia De Micheladas",
         "url": "https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw"
       },
@@ -351,38 +383,6 @@
       "duration_ms": 222275,
       "name": "Lluvia De Micheladas",
       "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
-    },
-    {
-      "added_at": "2022-08-26 05:00:00",
-      "album": {
-        "name": "Dinero, Fama y Poder",
-        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Dinero, Fama y Poder",
-      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Consumo",
-        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 212230,
-      "name": "Consumo",
-      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -485,6 +485,38 @@
       "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "En Ciudades 878",
+        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 257782,
+      "name": "Un Porro",
+      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
       "added_at": "2022-06-07 05:00:00",
       "album": {
         "name": "Rep\u00edtelo",
@@ -503,22 +535,6 @@
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
       "added_at": "2022-06-03 15:10:16",
@@ -543,22 +559,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "En Ciudades 878",
-        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 257782,
-      "name": "Un Porro",
-      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -677,28 +677,20 @@
       "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
     },
     {
-      "added_at": "2022-06-07 05:00:00",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mala Man\u00eda",
-        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 203893,
-      "name": "Mala Man\u00eda",
-      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -737,20 +729,28 @@
       "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
+      "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Mala Man\u00eda",
+        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+      "duration_ms": 203893,
+      "name": "Mala Man\u00eda",
+      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
     },
     {
       "added_at": "2022-05-13 21:33:14",

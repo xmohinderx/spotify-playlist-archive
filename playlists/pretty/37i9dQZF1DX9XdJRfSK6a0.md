@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,108 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,101 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 44 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 45 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 |
 
-Snapshot ID: `MTU0NjYwOTQ2NCwwMDAwMDAwMDE1YmFlZTUxYWZhYzFiYTE1NjBlMDJmMTg0OGMyZmMy`
+Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDdjYmExMmQ1MTYxYjAxOTU4MzI3Y2E1OWJmNjY3MGZj`

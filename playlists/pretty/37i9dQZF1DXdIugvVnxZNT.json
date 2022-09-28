@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 48427,
+  "num_followers": 48451,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMGUyZmQ1YTYyMmIyYzliNDQ1MzY3MzA2NDg1MTY4NTdm",
+  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMDUyZGU2YjIxMDgzN2M5OWI4NmEwZGY1ODY4Yzk2NzUy",
   "tracks": [
     {
       "added_at": "2022-09-20 20:10:52",
@@ -359,6 +359,26 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
       "added_at": "2022-09-20 20:10:52",

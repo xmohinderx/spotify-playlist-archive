@@ -2356,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "Right to Riot",
+        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
+      },
+      "artists": [
+        {
+          "name": "Hagop Tchaparian",
+          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300392,
+      "name": "Right to Riot",
+      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak"
       },
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 263630,
       "name": "Star City",
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"

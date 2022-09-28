@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bong \(Indonesia\)
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bongs \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,532 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,551 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [don't wanna hold u back](https://open.spotify.com/track/44aylXQRxfSCMoinxh7oJR) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [don't wanna hold u back](https://open.spotify.com/album/0Fca3QLo7gi7T48TdeWi00) | 3:37 |
 | 75 | [Giá Như](https://open.spotify.com/track/4LAhAPG2urDP2j00BlI878) | [Quờ](https://open.spotify.com/artist/0SHFKeut4NctFFYAnzDfoq), [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Giá Như](https://open.spotify.com/album/3rauH3HdGAdw0on4FKo9rD) | 3:13 |
 
-Snapshot ID: `MTY2Mzg2MjQwMCwwMDAwMDAwMDc0OGZhYmMwZmM5NzUxMTk1YzFhMzgyZDkyMWRjYjgz`
+Snapshot ID: `MTY2NDI1NjM2OCwwMDAwMDAwMDQxYmNhOTY0Y2ZmN2Y2ZWI4ODgzNTZhZTU1ZGI0ZWQ3`

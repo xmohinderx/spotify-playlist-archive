@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 19489,
+  "num_followers": 19546,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1OTM5MywwMDAwMDAwMDVmY2NlZDg5ODYyODI3Mjk0YjQ1N2Q4YTBlNjM1NDI4",
+  "snapshot_id": "MTY2Mzk1OTM5MywwMDAwMDAwMGFjYzg5ZjBhYTg0NDY2M2ExZTVkMjMwM2Q0NDk3MTQz",
   "tracks": [
     {
       "added_at": "2022-09-23 18:56:33",
@@ -367,30 +367,6 @@
     {
       "added_at": "2022-09-23 18:56:33",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
-    },
-    {
-      "added_at": "2022-09-23 18:56:33",
-      "album": {
         "name": "RUNNING",
         "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 238247,
       "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
       "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
+    },
+    {
+      "added_at": "2022-09-23 18:56:33",
+      "album": {
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2022-09-23 18:56:33",

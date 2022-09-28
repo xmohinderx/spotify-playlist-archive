@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,882 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,991 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 65 | [Rock Me Baby](https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Kingpins](https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p) | 2:59 |
 | 66 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
 | 67 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 |
-| 68 | [Who You Gonna Hoo\-Doo Now](https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [The Beginning \(Remastered\)](https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf) | 5:04 |
+| 68 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
 | 69 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
-| 70 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
+| 70 | [Who You Gonna Hoo\-Doo Now](https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [The Beginning \(Remastered\)](https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf) | 5:04 |
 | 71 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 |
 | 72 | [Assossam](https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 2:57 |
-| 73 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 |
-| 74 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 |
+| 73 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 |
+| 74 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 |
 | 75 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 |
 | 76 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 |
 | 77 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 79 | [I'm Satisfied](https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 2:55 |
 | 80 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 |
 
-Snapshot ID: `MTY2Mzk0Nzk5OCwwMDAwMDAwMDE2OWE2ZDBiOTE2NTRjMmU2OWEzMWQ5MzhlNmZjODI5`
+Snapshot ID: `MTY2Mzk0Nzk5OCwwMDAwMDAwMDRhZThmMzYzM2M1YmM2NjBlZGRlZWQ2ODNjMDFiOGNj`

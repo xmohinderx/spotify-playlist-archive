@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Suicide Silence",
-  "num_followers": 28052,
+  "num_followers": 28425,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMGY3MjBiZjViNjYxOWQwZjUyYTg0MDA2ZTZhODA0MmNl",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDQzMTdiOTI5MGNkODc5MzRmMTNkYTIxZjNmMWZlNTEx",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Hollowed Heart",
+        "url": "https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 231959,
+      "name": "Hollowed Heart",
+      "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "The Cycle Of Violence: Chapter 1",
         "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 255033,
       "name": "Love Me to Death",
       "url": "https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Hollowed Heart",
-        "url": "https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 231959,
-      "name": "Hollowed Heart",
-      "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Take Me To Hell",
         "url": "https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 210464,
       "name": "Take Me To Hell",
       "url": "https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 109200,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 109200,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Violent Ends",
-        "url": "https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg"
+        "name": "This Heavy Void",
+        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
       },
       "artists": [
         {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
         }
       ],
-      "duration_ms": 161158,
-      "name": "Violent Ends",
-      "url": "https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA"
+      "duration_ms": 232634,
+      "name": "Black of My Eyes",
+      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Violent Ends",
+        "url": "https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        }
+      ],
+      "duration_ms": 161158,
+      "name": "Violent Ends",
+      "url": "https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Become the Hunter",
         "url": "https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 202322,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/3snVL2u6T1ooATEb1BmqAw"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "This Heavy Void",
-        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 232634,
-      "name": "Black of My Eyes",
-      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -995,18 +995,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Caved In",
-        "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
+        "name": "Dead Man's Diary",
+        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
       },
       "artists": [
         {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+          "name": "Paleface",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 178279,
-      "name": "Caved In",
-      "url": "https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ"
+      "duration_ms": 279060,
+      "name": "Dead Man's Diary",
+      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Dead Man's Diary",
-        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
+        "name": "Caved In",
+        "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
       },
       "artists": [
         {
-          "name": "Paleface",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
         }
       ],
-      "duration_ms": 279060,
-      "name": "Dead Man's Diary",
-      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
+      "duration_ms": 178279,
+      "name": "Caved In",
+      "url": "https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "End Of Existence",
-        "url": "https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L"
+        "name": "Deathtouch",
+        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
       },
       "artists": [
         {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+          "name": "Paleface",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 240823,
-      "name": "End Of Existence",
-      "url": "https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q"
+      "duration_ms": 201101,
+      "name": "Deathtouch",
+      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1127,34 +1127,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Deathtouch",
-        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
+        "name": "End Of Existence",
+        "url": "https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L"
       },
       "artists": [
         {
-          "name": "Paleface",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
         }
       ],
-      "duration_ms": 201101,
-      "name": "Deathtouch",
-      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
+      "duration_ms": 240823,
+      "name": "End Of Existence",
+      "url": "https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 212813,
       "name": "D.N.R.",
       "url": "https://open.spotify.com/track/3vckmBdhTb0QdZQ1vZXgVr"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "FUCK YOURSELF",
+        "url": "https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi"
+      },
+      "artists": [
+        {
+          "name": "Brojob",
+          "url": "https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG"
+        },
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        },
+        {
+          "name": "CJ McCreery",
+          "url": "https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup"
+        }
+      ],
+      "duration_ms": 146261,
+      "name": "FUCK YOURSELF",
+      "url": "https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Rot With Me",
         "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
@@ -1367,30 +1391,6 @@
       "duration_ms": 221091,
       "name": "Dreaming Desecration",
       "url": "https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "FUCK YOURSELF",
-        "url": "https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi"
-      },
-      "artists": [
-        {
-          "name": "Brojob",
-          "url": "https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG"
-        },
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        },
-        {
-          "name": "CJ McCreery",
-          "url": "https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup"
-        }
-      ],
-      "duration_ms": 146261,
-      "name": "FUCK YOURSELF",
-      "url": "https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Empty Heaven",
-        "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
-      },
-      "artists": [
-        {
-          "name": "Mugshot",
-          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
-        },
-        {
-          "name": "Peter Rono",
-          "url": "https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j"
-        }
-      ],
-      "duration_ms": 171739,
-      "name": "Good People",
-      "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Amygdala Chorus",
         "url": "https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 154000,
       "name": "Without End",
       "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Empty Heaven",
+        "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
+      },
+      "artists": [
+        {
+          "name": "Mugshot",
+          "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
+        },
+        {
+          "name": "Peter Rono",
+          "url": "https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j"
+        }
+      ],
+      "duration_ms": 171739,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Duplicity",
-        "url": "https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing"
-      },
-      "artists": [
-        {
-          "name": "Krosis",
-          "url": "https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy"
-        }
-      ],
-      "duration_ms": 310857,
-      "name": "Duplicity",
-      "url": "https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
-      },
-      "artists": [
-        {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
-        }
-      ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Giant Green Destruction",
         "url": "https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP"
       },
@@ -1679,6 +1647,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing"
+      },
+      "artists": [
+        {
+          "name": "Krosis",
+          "url": "https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy"
+        }
+      ],
+      "duration_ms": 310857,
+      "name": "Duplicity",
+      "url": "https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "World War X",
         "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Bullets in My Teeth",
-        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
       "artists": [
         {
-          "name": "Drag Me Out",
-          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
         }
       ],
-      "duration_ms": 295714,
-      "name": "Bullets in My Teeth",
-      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 304440,
       "name": "Glory Be 2 Misery",
       "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Bullets in My Teeth",
+        "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
+      },
+      "artists": [
+        {
+          "name": "Drag Me Out",
+          "url": "https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bullets in My Teeth",
+      "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "And Dying Forever",
-        "url": "https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq"
-      },
-      "artists": [
-        {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Rest Your Head",
-      "url": "https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Death Whistle",
         "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
       },
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Bleed the Future",
-        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
+        "name": "And Dying Forever",
+        "url": "https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq"
       },
       "artists": [
         {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Bleed the Future",
-      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+      "duration_ms": 188480,
+      "name": "Rest Your Head",
+      "url": "https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1835,6 +1819,22 @@
       "duration_ms": 225391,
       "name": "Deathtouch",
       "url": "https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Bleed the Future",
+        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Bleed the Future",
+      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
     },
     {
       "added_at": "2022-09-16 13:00:00",

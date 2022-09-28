@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 106572,
+  "num_followers": 107064,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMjYzMSwwMDAwMDAwMDRiMjdmZjhiZjk3YWI1MDA2ZDEyMjczMTBhZjRhMmVh",
+  "snapshot_id": "MTY2NDIwMjYzMSwwMDAwMDAwMGU2MjVjMDAxOGQ5Y2ZhMmEyMWE4YThjNTFhMmI5ZjNm",
   "tracks": [
     {
       "added_at": "2022-09-26 14:30:04",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
+        "name": "Chaxsthexry",
+        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
+    },
+    {
+      "added_at": "2022-09-26 14:30:04",
+      "album": {
         "name": "Trap Lord",
         "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 275866,
       "name": "Shabba (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3"
-    },
-    {
-      "added_at": "2022-09-26 14:30:04",
-      "album": {
-        "name": "Chaxsthexry",
-        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
     },
     {
       "added_at": "2022-09-26 14:30:04",

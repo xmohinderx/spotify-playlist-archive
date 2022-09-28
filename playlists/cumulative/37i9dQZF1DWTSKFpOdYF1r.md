@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-211 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+212 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [I Travel](https://open.spotify.com/track/3GRyWgNPX5rBdh0VQctl5P) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Celebration](https://open.spotify.com/album/2qZWHbe01j8rYosUcL8Caq) | 4:02 | 2021-11-17 | 2022-05-17 |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2022-05-30 |  |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:53 | 2021-11-17 | 2022-07-25 |
+| [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 | 2022-05-30 |  |
 | [I Will Dare](https://open.spotify.com/track/3qoASpDMcnnaWxgRzvIeD5) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 3:19 | 2021-11-17 | 2022-07-29 |
 | [I Will Follow](https://open.spotify.com/track/4E0LjJ2894jsfvLMQb6Ti7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/3GCEpIo4vFVQx1hO6UHSsY) | 3:38 | 2021-11-17 | 2022-07-29 |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2022-05-30 |  |
@@ -117,7 +118,7 @@
 | [Living On The Ceiling](https://open.spotify.com/track/1LysqZOvGYyVNjPz0HYU7m) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [The Platinum Collection](https://open.spotify.com/album/7oS0WvPmX0SuhAwMPm2w6I) | 3:59 | 2021-11-17 | 2022-05-28 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2022-05-30 |  |
 | [Lorelei](https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:43 | 2021-11-17 | 2022-07-29 |
-| [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 | 2021-11-17 |  |
+| [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 | 2021-11-17 | 2022-09-28 |
 | [Love Buzz](https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl) | 3:35 | 2021-11-17 | 2022-07-27 |
 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2022-05-30 |  |
 | [Love Plus One](https://open.spotify.com/track/6QKM4Oh1qLrLisUxfnw09T) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:32 | 2021-11-17 | 2022-06-02 |

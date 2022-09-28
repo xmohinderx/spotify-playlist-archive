@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,507 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,527 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 27 | [What You Mean To Me \- Original Broadway Cast Recording](https://open.spotify.com/track/0M9CNqwzeyijhwOsL7ZXF7) | [Matthew Morrison](https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z), [Laura Michelle Kelly](https://open.spotify.com/artist/6korWWGsk6Mbm51fHRzWdP) | [Finding Neverland \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3EO8LoU4K02HxE2RQ6eA9w) | 3:34 |
 | 28 | [West Side Story: Act II: Somewhere](https://open.spotify.com/track/7DhQXwTYALJHMqoYaVaTFg) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 2:04 |
 | 29 | [The I Love You Song](https://open.spotify.com/track/6dqEr0TRaRjRZrDYkf3Kle) | [25th Annual Putnam County Spelling Bee Original Cast](https://open.spotify.com/artist/65iw8qDkk91Pzd3h8jtunI) | [25th Annual Putnam County Spelling Bee \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa) | 5:56 |
-| 30 | ["Ten Minutes Ago"](https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:52 |
-| 31 | [Sunrise](https://open.spotify.com/track/7ETCUCheWrp9y0k3zaoCNq) | [Mandy Gonzalez](https://open.spotify.com/artist/2xBOCZLKP7FMXK2dyO5hIe), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), ['In The Heights' Original Broadway Company](https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 4:08 |
+| 30 | [Sunrise](https://open.spotify.com/track/7ETCUCheWrp9y0k3zaoCNq) | [Mandy Gonzalez](https://open.spotify.com/artist/2xBOCZLKP7FMXK2dyO5hIe), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), ['In The Heights' Original Broadway Company](https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 4:08 |
+| 31 | ["Ten Minutes Ago"](https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:52 |
 | 32 | [Till There Was You](https://open.spotify.com/track/1kU40UKP9BviW8m4HMgUQh) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP), [Robert Preston](https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
 | 33 | [Dance with You](https://open.spotify.com/track/04zipeUI1GQjypWxPfFL8t) | [Caitlin Kinnunen](https://open.spotify.com/artist/33RWcf3xOXdbUHIajavxaE), [Isabelle McCalla](https://open.spotify.com/artist/4SNWtSWaGOFjjBhCUx7f4L) | [The Prom: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2EeSecVK1JVbirWHqgWoq6) | 3:07 |
 | 34 | [I'll Cover You](https://open.spotify.com/track/5fsqHu4hpOiFMVy1rqKpzm) | [Wilson Jermaine Heredia](https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 2:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 | 70 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDZjMTVkYTg0NWZjYTY4MmJjYjJmNmY1YWMzODk1YmI0`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGE2MDI5OTI0MGVhZDI1OTYzYWUxNzU3ZjUyZWM4NzBm`

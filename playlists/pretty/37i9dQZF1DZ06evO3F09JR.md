@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810 likes - 28 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 809 likes - 28 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 27 | [Resist and Protect](https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:39 |
 | 28 | [SABBIA](https://open.spotify.com/track/7GJpnJs4sEzrEaCWQY90Hs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:43 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDA1MDIwZjYxYmYzMmYzNTI2MjBjYTcyZTNmMjZmYTdhOA==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDBhZmE5NTUyNTJjYzkwMDFkZjIxOGM1NzI2NzFjNzM2YQ==`

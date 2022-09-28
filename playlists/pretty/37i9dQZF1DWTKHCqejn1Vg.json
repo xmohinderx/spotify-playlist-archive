@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 7904,
+  "num_followers": 7966,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMGQ5MzNmNzMyOTU5OTM2ZmMwMzg1M2Q1MzViN2FhYzU5",
+  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMGM1M2Q2NTYxY2RjYWYxZTliZGYxZWY0ZWZhZDlmZTAy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:52:37",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "EASY (feat. ELO)",
-        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
-      },
-      "artists": [
-        {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "EASY (feat. ELO)",
-      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "EASY (feat. ELO)",
+        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "EASY (feat. ELO)",
+      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 160443,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
       "added_at": "2022-09-05 15:52:37",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
-        "name": "glass",
-        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 208740,
-      "name": "glass",
-      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
         "name": "Dawn Call",
         "url": "https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 193844,
       "name": "Dawn Call",
       "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
+        "name": "glass",
+        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 208740,
+      "name": "glass",
+      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
     },
     {
       "added_at": "2022-09-05 15:52:37",

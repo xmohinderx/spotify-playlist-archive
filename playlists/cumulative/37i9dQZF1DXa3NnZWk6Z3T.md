@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-288 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+289 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 | 2022-08-05 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 | 2022-05-14 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/475RvHwQ9OvQWtl3gEl280) | 4:00 | 2021-12-09 | 2022-07-29 |
-| [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 |  |
+| [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 | 2022-09-28 |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-09 |  |
 | [Te Tengo Que Meter En Mi Vida \(Versión Acústica\)](https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 3:40 | 2022-05-14 |  |
 | [Te Tengo Que Meter En Mi Vida \- Versión Acústica](https://open.spotify.com/track/1uVCCp3y3kdwmM41r3fsw7) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Noche Entera](https://open.spotify.com/album/3j49ZqSAOxShjCTvuVhtib) | 3:40 | 2021-12-09 | 2022-07-29 |
@@ -276,6 +276,7 @@
 | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 | 2021-12-09 | 2022-07-28 |
 | [Un Cariñito](https://open.spotify.com/track/2gzjpDzWlfAcazV5WNz9z6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito](https://open.spotify.com/album/1lAFc7CVkN6tec14ZR6Z8x) | 3:03 | 2021-12-09 | 2022-07-29 |
 | [Un Cariñito](https://open.spotify.com/track/64opElgLEfcSoh4YotloB4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:03 | 2022-05-14 | 2022-08-06 |
+| [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 | 2022-09-21 |  |
 | [Un Poquito de Tu Amor \- Remasterizado](https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [G.A.S\. \(Remasterizado\)](https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM) | 2:55 | 2022-04-07 | 2022-04-21 |
 | [Universos paralelos \(feat\. Ana Tijoux\)](https://open.spotify.com/track/25wkmsggPrmVeDHv0QBMgW) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Bailar en la cueva](https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi) | 3:42 | 2022-04-07 |  |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-08-19 |  |

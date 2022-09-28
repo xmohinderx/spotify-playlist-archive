@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-102 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
+103 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 | 2020-12-01 |  |
 | [Baby I'm a Star](https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:24 | 2020-12-01 |  |
 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 | 2020-12-01 |  |
+| [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2022-09-27 |  |
 | [Backfired](https://open.spotify.com/track/2BRTt2EUyjI5ckBtwZzN8v) | [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [KooKoo](https://open.spotify.com/album/6ienHM68vnUy29Gpgp72Ei) | 4:53 | 2020-12-01 | 2022-08-12 |
 | [Best in the West](https://open.spotify.com/track/2rxEpk0dyfchiMOtOzMsok) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka Khan](https://open.spotify.com/album/7ndE9iVFDmgIRey7SyZv3G) | 4:03 | 2020-12-01 |  |
 | [Bounce Rock Skate Roll \- Part 1 \- 12" Version](https://open.spotify.com/track/3CPZShCxQb1rq5kv0sz1WG) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Old School Funk Jams](https://open.spotify.com/album/24JldoBDWv2XgtQyiCJXU1) | 7:37 | 2020-12-01 |  |
@@ -98,7 +99,7 @@
 | [Stone Love](https://open.spotify.com/track/2wPJBZ7o4a1TurmrgmNEUK) | [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M) | [Kashif \(Expanded Edition\)](https://open.spotify.com/album/45jG2FPwWaf5wAE41umTxv) | 5:29 | 2020-12-01 |  |
 | [Stool Pigeon](https://open.spotify.com/track/6ORoJZ2ghHkOXSBpLwns0N) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:57 | 2020-12-01 |  |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2020-12-01 |  |
-| [Take Me Along](https://open.spotify.com/track/79ClEN88eW7d9uSqfztPah) | [Empress](https://open.spotify.com/artist/27AaPr7ZZQK7ONBgeESbB1) | [Dyin' to Be Dancin'](https://open.spotify.com/album/54IFhVdCyxqMkIjvXNYivr) | 6:08 | 2020-12-01 |  |
+| [Take Me Along](https://open.spotify.com/track/79ClEN88eW7d9uSqfztPah) | [Empress](https://open.spotify.com/artist/27AaPr7ZZQK7ONBgeESbB1) | [Dyin' to Be Dancin'](https://open.spotify.com/album/54IFhVdCyxqMkIjvXNYivr) | 6:08 | 2020-12-01 | 2022-09-28 |
 | [Take Your Time](https://open.spotify.com/track/7AMbZs3gWTlx2azi5sFwow) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Dj Chabin présente : Fonky Funk planète](https://open.spotify.com/album/0DXei2VwBUwRf9T5jS17X2) | 7:45 | 2020-12-01 |  |
 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 | 2020-12-01 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 | 2020-12-01 |  |

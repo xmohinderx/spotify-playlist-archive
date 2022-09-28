@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-629 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+630 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Blue](https://open.spotify.com/track/4DsIr33zhVrXj06YYFM3JZ) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 2:30 | 2022-04-29 | 2022-06-25 |
 | [Blue](https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Blue](https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c) | 4:12 | 2021-11-19 | 2022-04-21 |
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-07-29 |  |
-| [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 | 2022-07-29 |  |
+| [BLUE](https://open.spotify.com/track/1Jsrkn70ZpnAVEC7cAPrgh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:05 | 2022-07-29 |  |
+| [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 | 2022-07-29 | 2022-09-28 |
 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 | 2022-09-02 |  |
 | [Bodies Lie](https://open.spotify.com/track/3EmPt5Hsx40X5xKsZF0sOP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Bodies Lie](https://open.spotify.com/album/3tTPYeDCoc0Z3sc1EALUGx) | 3:38 | 2021-07-02 | 2022-09-03 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-10-29 | 2022-01-17 |

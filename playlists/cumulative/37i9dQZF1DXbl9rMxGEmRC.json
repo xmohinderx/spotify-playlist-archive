@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Corset",
+        "url": "https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K"
+      },
+      "artists": [
+        {
+          "name": "Cloud Rat",
+          "url": "https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106720,
+      "name": "Corset",
+      "url": "https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ"
+    },
+    {
+      "album": {
         "name": "Emperor / Wrath Of The Tyrant",
         "url": "https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd"
       },
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 285000,
       "name": "Night of the Blasphemy",
       "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"

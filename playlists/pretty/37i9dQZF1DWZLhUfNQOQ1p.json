@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230671,
+  "num_followers": 230678,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDU0NTkwYTYwZTgyZWZkOGYxNWE2MjcxNWYzNzRjYTY4",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDViNGU0NDMxZjUyYzM2OTQ5MGRmNzc4YTA5YTg1YTU3",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
       },
       "artists": [
         {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 194242,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -303,18 +303,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 194242,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Everything Shines",
-        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
-      },
-      "artists": [
-        {
-          "name": "Tomas Skyldeberg",
-          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
-        }
-      ],
-      "duration_ms": 179889,
-      "name": "Summer Vibe",
-      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Elephant & Castle",
         "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Everything Shines",
+        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
+      },
+      "artists": [
+        {
+          "name": "Tomas Skyldeberg",
+          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
+        }
+      ],
+      "duration_ms": 179889,
+      "name": "Summer Vibe",
+      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
     },
     {
       "added_at": "2021-08-05 09:09:59",

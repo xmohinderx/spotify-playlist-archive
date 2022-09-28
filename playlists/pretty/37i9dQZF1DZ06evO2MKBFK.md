@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,060 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,099 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 50 | [Forever With U \(Feat\. Park Bom\)](https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [Bigbang 03](https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH) | 3:38 |
 | 51 | [Oh My Friend](https://open.spotify.com/track/3qtZyPlAqtNYVoN1ECWNJy) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:29 |
 
-Snapshot ID: `Mjc3MzY2NjAsMDAwMDAwMDA5NzNiOGI5YjY2Y2U2ZDVmNGI5M2NhOWIyMDBiMWMzMQ==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDA4ZTE2MzljZGNmMzg2Yjc2NDM5NTE3NzFlMDY2ZTUwYQ==`

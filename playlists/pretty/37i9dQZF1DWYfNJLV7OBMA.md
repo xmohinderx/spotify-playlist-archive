@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Sudeera Dilshan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,788 likes - 86 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,836 likes - 86 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

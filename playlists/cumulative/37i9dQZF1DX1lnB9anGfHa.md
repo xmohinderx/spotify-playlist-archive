@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-124 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+126 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2020-10-20 |  |
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-18 |  |
 | [Blue Pale Darling](https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59) | [Autumn Fruit](https://open.spotify.com/artist/6TvLaOyXRJy71sVpEdppX7) | [Blue Pale Darling](https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j) | 3:37 | 2021-09-24 |  |
+| [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 | 2022-09-27 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 | 2020-10-20 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/7lWVGjAIuksAjXKxmC5M71) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9) | 2:16 | 2020-10-20 | 2022-07-29 |
 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2022-09-26 |  |
@@ -83,6 +84,7 @@
 | [Recover](https://open.spotify.com/track/6YzfsSLXsMefRCno6FJTd7) | [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [Recover](https://open.spotify.com/album/1lQntsXzOIiW4lXNe4Wkj2) | 3:26 | 2020-10-20 |  |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2020-10-20 |  |
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-02-18 |  |
+| [Salt & Copper](https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd) | [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Salt & Copper](https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB) | 4:32 | 2022-09-27 |  |
 | [Salv Goes To Hollywood](https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 3:02 | 2020-10-20 |  |
 | [Sangkakala](https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [Puxxximaxxx](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed) | 1:48 | 2020-10-20 |  |
 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 | 2022-08-31 |  |
@@ -95,7 +97,7 @@
 | [The Fall](https://open.spotify.com/track/5ed50PaOoQJROmeOxL85Xk) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(SWNT Deluxe\)](https://open.spotify.com/album/7wwrpQta9BNh84obd8nFWN) | 2:18 | 2021-07-18 | 2022-07-29 |
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 |  |
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
-| [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 |  |
+| [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 |  |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 |  |
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 |  |

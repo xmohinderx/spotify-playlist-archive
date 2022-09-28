@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura
 
-221 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+222 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Sans effet](https://open.spotify.com/track/53jQtMml7GWHfpQWsR96jy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Sans effet](https://open.spotify.com/album/5k5Wvbp7XtOKjXibAH3uLO) | 2:40 | 2022-05-12 | 2022-09-16 |
 | [Sans moi](https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Vibe](https://open.spotify.com/album/1TMCeLmJhVY2WQwAweIyKf) | 2:39 | 2021-12-27 | 2022-01-21 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2021-12-27 | 2022-03-11 |
-| [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/7cMw238oiZZGNSMnlyjUk2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6tJCJdDa3lUElNRDj2e0Gg) | 2:28 | 2022-09-22 |  |
+| [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-22 |  |
+| [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/7cMw238oiZZGNSMnlyjUk2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6tJCJdDa3lUElNRDj2e0Gg) | 2:28 | 2022-09-22 | 2022-09-28 |
 | [Shisha](https://open.spotify.com/track/2kOmK3ajnOnQamXem4FeXG) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [Shisha](https://open.spotify.com/album/1gaXCy5twILjDFnGthCwUZ) | 3:42 | 2021-12-27 | 2022-01-07 |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-08-12 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 | 2021-12-27 | 2022-04-08 |

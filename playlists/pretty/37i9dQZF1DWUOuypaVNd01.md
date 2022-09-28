@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,489 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,546 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 14 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 15 | [Mandrake](https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Mandrake](https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg) | 1:52 |
 | 16 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 |
-| 17 | [Sirenes](https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sirenes](https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo) | 3:50 |
-| 18 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
+| 17 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
+| 18 | [Sirenes](https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sirenes](https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo) | 3:50 |
 | 19 | [1.5.7](https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Favelado Chique](https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV) | 2:43 |
 | 20 | [Esculpido a Machado](https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:00 |
 | 21 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2Mzk1OTM5MywwMDAwMDAwMDVmY2NlZDg5ODYyODI3Mjk0YjQ1N2Q4YTBlNjM1NDI4`
+Snapshot ID: `MTY2Mzk1OTM5MywwMDAwMDAwMGFjYzg5ZjBhYTg0NDY2M2ExZTVkMjMwM2Q0NDk3MTQz`

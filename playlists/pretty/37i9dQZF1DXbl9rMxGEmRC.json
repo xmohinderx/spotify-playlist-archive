@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 396593,
+  "num_followers": 396749,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDkzNzBkN2NkMzEwZmNkNTEwOWMwMzdkNGQwNGZkZjAw",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMGY5ZmUwYjJjM2QzMzA2M2UyMjljNWMyMzA1NzA0MTFi",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -539,8 +539,8 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Ov My Herculean Exile",
-        "url": "https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi"
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
         }
       ],
-      "duration_ms": 283791,
-      "name": "Ov My Herculean Exile",
-      "url": "https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO"
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
+      },
+      "artists": [
+        {
+          "name": "I",
+          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Storm I Ride",
+      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Death from Above",
         "url": "https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
       },
       "artists": [
         {
-          "name": "I",
-          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
         }
       ],
-      "duration_ms": 207360,
-      "name": "The Storm I Ride",
-      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
+      "duration_ms": 363226,
+      "name": "Hamartia",
+      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Hamartia",
-        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 363226,
-      "name": "Hamartia",
-      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Bergtatt",
         "url": "https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI"
       },
@@ -699,8 +699,8 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "The Satanist",
-        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
+        "name": "Ov My Herculean Exile",
+        "url": "https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
         }
       ],
-      "duration_ms": 265440,
-      "name": "Blow Your Trumpets Gabriel",
-      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
+      "duration_ms": 283791,
+      "name": "Ov My Herculean Exile",
+      "url": "https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Below The Lights",
-        "url": "https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Havenless",
-      "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Hybrid Stigmata - The Apostasy (Remixed & Remastered)",
         "url": "https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 495000,
       "name": "Screaming at Forgotten Tears",
       "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Below The Lights",
+        "url": "https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Havenless",
+      "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Virtus Asinaria - Prayer",
-        "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
+        "name": "Kiss The Goat",
+        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
       },
       "artists": [
         {
-          "name": "Belphegor",
-          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+          "name": "Lord Belial",
+          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
         }
       ],
-      "duration_ms": 318546,
-      "name": "Virtus Asinaria - Prayer",
-      "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
+      "duration_ms": 239133,
+      "name": "Satan Divine",
+      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Kiss The Goat",
-        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
+        "name": "Virtus Asinaria - Prayer",
+        "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
       },
       "artists": [
         {
-          "name": "Lord Belial",
-          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
+          "name": "Belphegor",
+          "url": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Satan Divine",
-      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
+      "duration_ms": 318546,
+      "name": "Virtus Asinaria - Prayer",
+      "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Rituale Satanum",
-        "url": "https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y"
+        "name": "Corset",
+        "url": "https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K"
       },
       "artists": [
         {
-          "name": "Behexen",
-          "url": "https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c"
+          "name": "Cloud Rat",
+          "url": "https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Night of the Blasphemy",
-      "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"
+      "duration_ms": 106720,
+      "name": "Corset",
+      "url": "https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ"
     }
   ],
   "unique_name": "Black & Dark Metal",

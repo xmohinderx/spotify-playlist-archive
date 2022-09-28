@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Indy Artwork: Paola Saliby
 
-2,548 songs - 5 day 10 hr 25 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,549 songs - 5 day 10 hr 27 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2078,7 +2078,8 @@
 | [Stone Love](https://open.spotify.com/track/3dupodqlwjIIfekJ5nOdOW) | [Hannah Felisa](https://open.spotify.com/artist/3RMtvXcT4eH5swWPJim9cp) | [Stone Love](https://open.spotify.com/album/4YG7zLw6PgSNnlqeqZeb5Z) | 3:17 | 2022-03-30 | 2022-04-28 |
 | [Stop A Heart](https://open.spotify.com/track/5WPMwhD9u8THuItYQFhggn) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Stop A Heart](https://open.spotify.com/album/5Q5MxnYdlBCOhJWstXFyGJ) | 2:53 | 2021-11-19 | 2021-12-01 |
 | [Stopped Buying Diamonds](https://open.spotify.com/track/6j1qrYeRkiWkCkPsgpuM0e) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Stopped Buying Diamonds](https://open.spotify.com/album/5GkROEPJucwWwJoerPZsDI) | 2:36 | 2020-10-22 | 2020-11-18 |
-| [stranded](https://open.spotify.com/track/4bj5OxJnVgVjwwdtseC107) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [stranded](https://open.spotify.com/album/4raW0vvACtOtLr7yS8SHBw) | 1:55 | 2022-08-31 |  |
+| [stranded](https://open.spotify.com/track/4bj5OxJnVgVjwwdtseC107) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [stranded](https://open.spotify.com/album/4raW0vvACtOtLr7yS8SHBw) | 1:55 | 2022-08-31 | 2022-09-28 |
+| [stranded](https://open.spotify.com/track/4rNxKKcPHhGtEHX4xfw9WT) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [stranded](https://open.spotify.com/album/3qs9gXt1C4H0sQWwZez46q) | 1:55 | 2022-08-31 |  |
 | [stranded](https://open.spotify.com/track/380pPCj4SSusNj2IotHbzg) | [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [stranded](https://open.spotify.com/album/5Ytat0uZVBNWV8IVxhOLIs) | 2:15 | 2021-03-06 | 2021-04-01 |
 | [Stranger](https://open.spotify.com/track/2h0Ka1uZ0QOX8OJlOaOdLQ) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [Stranger](https://open.spotify.com/album/1gToqINovfy6kYQzBHdAYN) | 3:35 | 2021-02-04 | 2021-03-06 |
 | [Strangers](https://open.spotify.com/track/5X7OpVWdvC0GRGi8MemkrG) | [Eny](https://open.spotify.com/artist/5UUWCkhsITHeSedgWFXyWh) | [Strangers](https://open.spotify.com/album/3yKCOpRPNk4GogBIfN35me) | 3:19 | 2021-04-15 | 2021-05-06 |

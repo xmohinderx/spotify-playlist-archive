@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 390616,
+  "num_followers": 390776,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDRhNmIyZDcxM2JiYzJlN2Y0ZDkxODMxMGRlNDZmOTM4",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMGQ3YTk1ZDA4MzNmZTliYzAxZWNhYjZiNTFhNjk3ZmJl",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "The Small Room Sessions",
         "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 229835,
       "name": "morning groove",
       "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
       },
       "artists": [
         {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -483,6 +483,22 @@
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Songs to Stay Home To",
+        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Songs to Stay Home To, Pt. I",
+      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -519,22 +535,6 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Songs to Stay Home To",
-        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
-      },
-      "artists": [
-        {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Songs to Stay Home To, Pt. I",
-      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+        "name": "times",
+        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
       },
       "artists": [
         {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+          "name": "goodmood",
+          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
         }
       ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+      "duration_ms": 312588,
+      "name": "Ritz Carlton",
+      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
-      },
-      "artists": [
-        {
-          "name": "goodmood",
-          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
-        }
-      ],
-      "duration_ms": 312588,
-      "name": "Ritz Carlton",
-      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Orbits of Dust",
         "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
@@ -939,6 +939,34 @@
       "duration_ms": 360071,
       "name": "Orbits of Dust",
       "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Moon II Remixes Pt. II",
+        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
+      },
+      "artists": [
+        {
+          "name": "Iron Curtis",
+          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
+        },
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        },
+        {
+          "name": "Lisa Toh",
+          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
+        },
+        {
+          "name": "Erdbeerschnitzel",
+          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
+      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -971,34 +999,6 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Moon II Remixes Pt. II",
-        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
-      },
-      "artists": [
-        {
-          "name": "Iron Curtis",
-          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
-        },
-        {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Lisa Toh",
-          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
-        },
-        {
-          "name": "Erdbeerschnitzel",
-          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
-      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
     },
     {
       "added_at": "2022-09-16 16:08:51",

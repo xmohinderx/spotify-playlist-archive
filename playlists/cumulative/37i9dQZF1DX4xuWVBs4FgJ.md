@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-260 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+261 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Giants](https://open.spotify.com/track/2GP4MPXJD28vtnLMnBZG5c) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Giants](https://open.spotify.com/album/4Na5tW314eMC3jByBUpll4) | 3:49 | 2021-06-22 | 2022-02-07 |
 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2022-07-22 |  |
 | [Golden Slumbers \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 2:47 | 2021-06-22 | 2022-05-18 |
-| [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2021-06-22 |  |
+| [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2021-06-22 | 2022-09-28 |
 | [Good Plates](https://open.spotify.com/track/4Cj3isXiH0u9igd6dKfStb) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [Good Plates](https://open.spotify.com/album/66UGUYMSf428HYh5GEamzm) | 2:56 | 2021-06-22 | 2022-07-29 |
 | [Good Stuff](https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Good Stuff](https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc) | 3:13 | 2021-06-22 |  |
 | [Got It Bad](https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:25 | 2022-07-22 |  |
@@ -124,6 +124,7 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-06-22 | 2022-05-27 |
 | [Home](https://open.spotify.com/track/7F5hhaayrqMjBz0cykBSQn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Home](https://open.spotify.com/album/7FDhk932YsB1sRp3JV4NAY) | 2:29 | 2021-06-22 | 2022-05-28 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-05-27 |  |
+| [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [I Believe in Us](https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [I Believe in Us](https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf) | 3:22 | 2021-06-22 | 2022-07-29 |
 | [I Can't Love You Anymore](https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 2:49 | 2022-09-23 |  |
 | [I Give You The Best](https://open.spotify.com/track/22RSxuePk8ZGWbjLFqXlwC) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [I Give You The Best](https://open.spotify.com/album/6Qqy2rTKHoGwEO4N2m0fE6) | 3:36 | 2021-06-22 | 2022-02-19 |

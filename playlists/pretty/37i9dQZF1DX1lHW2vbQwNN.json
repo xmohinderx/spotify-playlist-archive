@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 38291,
+  "num_followers": 38481,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDZkYzQyMWY0NTZiNWIyZDRiYTBmMWYwNzExNDJlY2Rh",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGRjYzc3YTg2NTA3OTZhNDNhODk2YjFhMGU2ZGYyOWRk",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Westside Story",
+      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Westside Story",
-      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
     },
     {
       "added_at": "2022-05-20 23:33:16",

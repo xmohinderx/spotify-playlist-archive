@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,639 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,673 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 35 | [Céu Azul \- Vintage Culture & Santti Remix](https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Vintage Culture & Friends 2](https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA) | 4:21 |
 | 36 | [Algum Ritmo \- Remix](https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo \(Remix\)](https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2) | 3:17 |
 | 37 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
-| 38 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
-| 39 | [Bem Melhor \- KVSH Remix](https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Bem Melhor \(KVSH Remix\)](https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ) | 3:03 |
+| 38 | [Bem Melhor \- KVSH Remix](https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Bem Melhor \(KVSH Remix\)](https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ) | 3:03 |
+| 39 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
 | 40 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
 | 41 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 42 | [Home](https://open.spotify.com/track/3IJQUjAtnotALS49WktLJY) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/5xwUS5QumHJYhPPuHF103D) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 | 70 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
 
-Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMGQ3OTZlZmY1ZDFiMDFjNmVkNDRmNDRkOWUyNGMyNGJl`
+Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMGRmMWM5NmVlMWY4MDU1N2Q3YjM1ZWI5ODFkNDQ0NTRk`

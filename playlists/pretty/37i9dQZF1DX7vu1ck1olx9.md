@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,457 likes - 82 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,493 likes - 82 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 11 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 |
 | 12 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 |
 | 13 | [Smoking at Midnight](https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:35 |
-| 14 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 |
-| 15 | [makeitliveforever](https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:50 |
+| 14 | [makeitliveforever](https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:50 |
+| 15 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 |
 | 16 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 |
 | 17 | [Train Ride](https://open.spotify.com/track/3pNijZFoqxfIUVzzN9pDtA) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Train Ride](https://open.spotify.com/album/3EFv9EzA7O7G2YbCx5vnKb) | 2:27 |
 | 18 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 51 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
 | 52 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 |
 | 53 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
-| 54 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 |
+| 54 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
 | 55 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 |
-| 56 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
+| 56 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 |
 | 57 | [Sun Will Rise](https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV), [Chinsaku](https://open.spotify.com/artist/0Y4zXpYaV5L4zDiUhmlV0i) | [Sun Will Rise](https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav) | 2:09 |
 | 58 | [Inn](https://open.spotify.com/track/2hEgmgkHVDFf52Sxpc3Nh2) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Inn](https://open.spotify.com/album/4Lh05HrYs2QKvRIaNN9oQG) | 2:11 |
 | 59 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 | 82 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGU4ZDgzYzQzYzM4YmRhZjhkMWRiZTlkNWFlMDkwMTdh`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDEwYjA5NmQxOTY2ZWY2OGZiNzMyYjczYzAwMmQ0YjM4`

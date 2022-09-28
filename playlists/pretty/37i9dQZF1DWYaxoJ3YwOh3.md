@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 ### [Calming Retreat](https://open.spotify.com/playlist/37i9dQZF1DWYaxoJ3YwOh3)
 
-> Enchanting vibes, inspired by Middle Eastern and Arabian music, to help you find a relaxing moment of wellness.
+> Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,704 likes - 63 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 63 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 4 | [Dreaming of Arabia](https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:47 |
 | 5 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
 | 6 | [Duduk Love](https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Duduk Love](https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk) | 2:56 |
-| 7 | [Mirrors](https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V), [Carlo Minuta](https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO) | [Mirrors](https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF) | 3:44 |
-| 8 | [The Force & Heka](https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 |
-| 9 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
+| 7 | [The Force & Heka](https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 |
+| 8 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
+| 9 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
 | 10 | [Restore Balance](https://open.spotify.com/track/6RI7dZ4M2PAkHtCypMnSoL) | [Oasis of Relaxation and Meditation](https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT) | [Middle Eastern Meditation \(Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing\)](https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8) | 3:47 |
 | 11 | [Endless Arabic Desert](https://open.spotify.com/track/4sTW8YNbQe6i6EpGs3vFoR) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:45 |
 | 12 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 62 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 63 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MTY2MzY2MzgxNCwwMDAwMDAwMDliZWFmMmQzMDFmYTM2MjYyNDUwMTgxNDVlZDQ2Mjhm`
+Snapshot ID: `MTY2NDI4ODkyNCwwMDAwMDAwMDFiN2VkNDg1YjA1YmI3YzUxOTdjZDIxMmI0OTQyOWUz`

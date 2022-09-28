@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 409393,
+  "num_followers": 409419,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NDcyNSwwMDAwMDAwMDBmMzhkZDY1MzA5OWRhZTk4MTkxMjgxNmE4MDJhODYy",
+  "snapshot_id": "MTY2MzA4NDcyNSwwMDAwMDAwMDk4NDMxY2I5N2E3ZGMzYThjOGE2NGYzYjQ4MzcwZTI1",
   "tracks": [
     {
       "added_at": "2022-09-13 15:58:45",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Colours Of You",
+        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 255346,
+      "name": "Colours Of You",
+      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -835,18 +867,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
+        "name": "If You Ever Change Your Mind",
+        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
       },
       "artists": [
         {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
+      "duration_ms": 205994,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -871,22 +903,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "If You Ever Change Your Mind",
-        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 205994,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Second Hand Love (feat. Ruben)",
         "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Birds That Flew and Ships That Sailed",
         "url": "https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 273453,
       "name": "Blink of an Eye",
       "url": "https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Will We Ever Get This Right",
-        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Will We Ever Get This Right",
-      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "With The Band / Bruises & Scratches",
         "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Will We Ever Get This Right",
+        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Will We Ever Get This Right",
+      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Called You Out",
-        "url": "https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 155841,
-      "name": "Called You Out",
-      "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Shameless",
         "url": "https://open.spotify.com/album/5QcquR8hsv60H86QASguCE"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 221000,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Called You Out",
+        "url": "https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 155841,
+      "name": "Called You Out",
+      "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
     },
     {
       "added_at": "2022-09-13 15:58:45",

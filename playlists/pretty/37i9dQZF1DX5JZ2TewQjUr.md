@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,366 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,369 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 3 | [LIES](https://open.spotify.com/track/6mPxpQM6VCS076j6UuYQLZ) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [LIES](https://open.spotify.com/album/4QzMt6ksSwYOHepTfo22lW) | 2:33 |
 | 4 | [WILL BE FINE](https://open.spotify.com/track/2NGVGh8HDC1lxQj7Ua3cPh) | [Andy Is Typing](https://open.spotify.com/artist/3cKjWAYtDVV9OlDnJcT57t) | [WILL BE FINE](https://open.spotify.com/album/0cuz2NZsZ47cSICyiLIQbf) | 3:09 |
 | 5 | [耍起](https://open.spotify.com/track/4SZmncGAdn7sBK2F4JF1Y1) | [Dr\. JR](https://open.spotify.com/artist/1DlV2khNATOnSNTVDiq8X8), [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [耍起](https://open.spotify.com/album/6gVYXtkNmaUyfiGSeqjEMm) | 2:51 |
-| 6 | [Closer](https://open.spotify.com/track/1BnsGKpBhdGIfNjItPla86) | [Lil.Lulu](https://open.spotify.com/artist/1DLCJfQBgwlD8SfBopLSE8) | [Closer](https://open.spotify.com/album/3oVNoU0fW0LDIS4cBPliOq) | 3:32 |
+| 6 | [CLOSER](https://open.spotify.com/track/1BnsGKpBhdGIfNjItPla86) | [Lil.Lulu](https://open.spotify.com/artist/1DLCJfQBgwlD8SfBopLSE8) | [CLOSER](https://open.spotify.com/album/3oVNoU0fW0LDIS4cBPliOq) | 3:32 |
 | 7 | [晚泣](https://open.spotify.com/track/0wkABgvnW5lDz51bCQW1tW) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [晚泣](https://open.spotify.com/album/2UUWast6pyZ7awtCNLumvz) | 4:26 |
 | 8 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
 | 9 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |

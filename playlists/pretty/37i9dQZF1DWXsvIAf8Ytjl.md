@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,776 likes - 47 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,847 likes - 47 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 4 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 5 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
 | 6 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
-| 7 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
-| 8 | [Slow Ride](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 |
+| 7 | [Slow Ride](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 |
+| 8 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
 | 9 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
 | 10 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
 | 11 | [L.A\. Woman](https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:51 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 13 | [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 |
 | 14 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
 | 15 | [Black Betty](https://open.spotify.com/track/0MnI39P9Dze0PSUjetb8Va) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Dukes Of Hazzard \(Music From The Motion Picture\)](https://open.spotify.com/album/0HUuxXsQ1lYDpS99EXlNBI) | 3:55 |
-| 16 | [Cross\-Eyed Mary](https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 4:10 |
-| 17 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 16 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 17 | [Cross\-Eyed Mary](https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 4:10 |
 | 18 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 |
 | 19 | [Barracuda](https://open.spotify.com/track/38bHLl4pznhxzRJLuw1OA7) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Shaun White Snowboarding: Official Soundtrack](https://open.spotify.com/album/0QWjK3wGoCug92yQIeBdxu) | 4:22 |
 | 20 | [Hocus Pocus](https://open.spotify.com/track/2uzyiRdvfNI5WxUiItv1y9) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [The Best Of Focus / Hocus Pocus \(Incl WC 2010 Version of 'Hocus Pocus'\)](https://open.spotify.com/album/55zdxBeCPm7XmuZCeCdRbX) | 6:42 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 33 | [Madison Square](https://open.spotify.com/track/0W4kbKzbiZl3XV98Hb84tT) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:16 |
 | 34 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 |
 | 35 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
-| 36 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
-| 37 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 36 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
+| 37 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
 | 38 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/0J2ykLMJWeJzc46T7mx0XW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 7:24 |
 | 39 | [Him Belly No Go Sweet](https://open.spotify.com/track/23mGLE0XzRu6kwf3Phzvhc) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF) | 6:55 |
 | 40 | [Scent of a Mule](https://open.spotify.com/track/4YNh0ccitCOE0kwp7cKvPY) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hoist](https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf) | 4:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 46 | [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 |
 | 47 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGI5MjUzYzM1N2I0MTM4NTk2MzUzOThlYzhhNmIyZjIy`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDNiY2IwYTU2NThjYjU2YzAzNjUzYzQ3NmYyNWE1Y2Iz`

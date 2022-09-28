@@ -1,13 +1,29 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: maya hawke",
-  "num_followers": 928221,
+  "num_followers": 928403,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGRmM2ExNWVkYjJlOTcxMzAyNTY1NzczOTA5MTM5M2Fm",
+  "snapshot_id": "MTY2NDMyODI4NCwwMDAwMDAwMDdjZTQ1MmI5YzU0OWQ4NDFmYTI5YTkxY2M5NTg5ZTBl",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
+    },
     {
       "added_at": "2022-09-09 17:04:50",
       "album": {
@@ -25,20 +41,56 @@
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
-      "added_at": "2022-09-22 17:26:08",
+      "added_at": "2022-09-28 01:24:44",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
+        "name": "Alice (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+      "duration_ms": 141500,
+      "name": "Alice (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
+    },
+    {
+      "added_at": "2022-09-27 22:47:26",
+      "album": {
+        "name": "Play Me Again",
+        "url": "https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Julia Minkin",
+          "url": "https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm"
+        }
+      ],
+      "duration_ms": 244484,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/3Gxy35DHdgnCg0hrDDTgSF"
+    },
+    {
+      "added_at": "2022-09-27 22:47:26",
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -59,34 +111,98 @@
     {
       "added_at": "2022-09-22 17:26:08",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-28 01:24:44",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse"
+        "name": "There You Are",
+        "url": "https://open.spotify.com/album/5SEiDpe5r8WIUxm3nVAYNJ"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
+      "duration_ms": 231520,
+      "name": "There You Are",
+      "url": "https://open.spotify.com/track/5CBmrG7GQMMzRZ8zzbziy1"
+    },
+    {
+      "added_at": "2022-09-07 16:04:53",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2022-09-27 22:47:26",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2022-09-28 01:24:44",
+      "album": {
+        "name": "Bugs",
+        "url": "https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 162575,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -119,22 +235,6 @@
       "duration_ms": 181002,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
-    },
-    {
-      "added_at": "2022-09-07 16:04:53",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-16 18:03:16",
@@ -215,6 +315,22 @@
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+    },
+    {
+      "added_at": "2022-09-22 17:26:08",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 189004,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -333,6 +449,22 @@
       "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"
     },
     {
+      "added_at": "2022-06-02 15:01:34",
+      "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Crown",
@@ -397,26 +529,6 @@
       "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
     },
     {
-      "added_at": "2022-09-13 01:10:35",
-      "album": {
-        "name": "Genetic World",
-        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9popmusik",
-          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
-        },
-        {
-          "name": "Angela McCluskey",
-          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
-    },
-    {
       "added_at": "2022-09-16 18:03:16",
       "album": {
         "name": "Bump",
@@ -447,22 +559,6 @@
       "duration_ms": 190771,
       "name": "Cartoon Clouds",
       "url": "https://open.spotify.com/track/4ZgM4aDpo3MuUjxbugBX0G"
-    },
-    {
-      "added_at": "2022-06-02 15:01:34",
-      "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
     },
     {
       "added_at": "2022-09-14 23:25:35",
@@ -511,22 +607,6 @@
       "duration_ms": 204521,
       "name": "Is It Worth It Now?",
       "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2022-08-24 22:02:20",
@@ -1097,22 +1177,6 @@
       "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
       "added_at": "2022-07-15 14:04:45",
       "album": {
         "name": "Half Life",
@@ -1217,22 +1281,6 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
-      "added_at": "2022-07-27 16:18:19",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Happiness",
@@ -1279,22 +1327,6 @@
       "duration_ms": 171306,
       "name": "Shelly",
       "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
-    },
-    {
-      "added_at": "2022-08-03 16:05:27",
-      "album": {
-        "name": "Bedside",
-        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
-      },
-      "artists": [
-        {
-          "name": "Pierz Barry",
-          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
-        }
-      ],
-      "duration_ms": 253218,
-      "name": "Bedside",
-      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1371,6 +1403,22 @@
       "duration_ms": 152116,
       "name": "Gum",
       "url": "https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO"
+    },
+    {
+      "added_at": "2022-08-03 16:05:27",
+      "album": {
+        "name": "Bedside",
+        "url": "https://open.spotify.com/album/6KbYLgPQPoXADBXV4LhtkR"
+      },
+      "artists": [
+        {
+          "name": "Pierz Barry",
+          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
+        }
+      ],
+      "duration_ms": 253218,
+      "name": "Bedside",
+      "url": "https://open.spotify.com/track/0WIb4zQlCptgIkV5oIBadk"
     },
     {
       "added_at": "2022-07-21 16:00:00",

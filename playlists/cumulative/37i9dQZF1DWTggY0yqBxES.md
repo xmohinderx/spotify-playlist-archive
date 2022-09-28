@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AJRADICO
 
-253 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+254 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dangerous](https://open.spotify.com/track/00EKCASItEc0lfZwzWF34N) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Kingsley Ibeneche](https://open.spotify.com/artist/1sCEBYdJIHnx6VNv7RN4Je) | [Dangerous](https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K) | 4:22 | 2022-02-04 | 2022-06-01 |
 | [Dangerous](https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Dangerous](https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B) | 2:25 | 2022-08-19 |  |
 | [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 | 2022-01-14 | 2022-07-29 |
+| [Dear Life](https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Dear Life](https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ) | 2:33 | 2022-09-23 |  |
 | [DENY](https://open.spotify.com/track/43SIjaufu6brjwKphXhZCJ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DENY](https://open.spotify.com/album/7rfd6I7XsQw2O1fDbZjEUU) | 3:11 | 2022-03-25 | 2022-04-20 |
 | [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 | 2022-07-29 |  |
 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 | 2022-03-11 | 2022-04-17 |
@@ -108,7 +109,7 @@
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 |  |
 | [Herringbone](https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Herringbone](https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI) | 2:44 | 2021-09-03 | 2022-07-23 |
 | [Hold you up \(feat\. Annahstasia & Steven Bamidele\)](https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Get Used To It](https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO) | 3:56 | 2022-06-03 | 2022-09-26 |
-| [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 | 2022-04-29 |  |
+| [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 | 2022-04-29 | 2022-09-28 |
 | [Hot Water Tank](https://open.spotify.com/track/1NQOMoGKW5CeBFIkRwMDIb) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 2:58 | 2022-02-11 | 2022-02-16 |
 | [How Many](https://open.spotify.com/track/1iFMSqqBIpt1O9pEfVKKdf) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [How Many](https://open.spotify.com/album/1lZBim34jYmeoujFIrkVXI) | 3:25 | 2021-09-03 | 2022-05-21 |
 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 | 2022-03-25 | 2022-07-24 |

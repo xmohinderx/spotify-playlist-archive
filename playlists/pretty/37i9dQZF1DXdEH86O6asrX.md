@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,908 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,882 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 27 | [Ice Dance](https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 1:44 |
 | 28 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 |
 | 29 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5iR8v6fTc33LDo2t4w3342) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 2:15 |
-| 30 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
-| 31 | [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 |
+| 30 | [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 |
+| 31 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 32 | [Hush](https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy) | 4:24 |
 | 33 | [I’m So Humble](https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:32 |
 | 34 | [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 |
 | 35 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 36 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
-| 37 | [Journey Through the Past](https://open.spotify.com/track/73uAQw29X3mrO1taWZaOvm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 2:21 |
-| 38 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
-| 39 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 |
+| 37 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 |
+| 38 | [Journey Through the Past](https://open.spotify.com/track/73uAQw29X3mrO1taWZaOvm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 2:21 |
+| 39 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 40 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 |
 | 41 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:43 |
 | 42 | [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [The Kiss](https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 1:56 |
 | 50 | [Cool Yule](https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:56 |
 
-Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMGExMTE1ZmU4ZmQ5NGQ3ZmE1MjdlYWY4NjU3OTE1MzFk`
+Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMDg1OTJhYzY5ZTM4N2Q0MzZiMmVmZjFlNGFiMTNjMTg5`

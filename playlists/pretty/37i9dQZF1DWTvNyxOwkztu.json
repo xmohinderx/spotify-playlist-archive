@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy these relaxed beats.",
-  "num_followers": 1650858,
+  "num_followers": 1651195,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5MTE0NywwMDAwMDAwMDZlMjdjNDVkMWJmYmFkNTBlZjNiNjEyY2M1ZjJkNTk1",
+  "snapshot_id": "MTY2Mjk5MTE0NywwMDAwMDAwMDgxZjU4ZGVmOWMzNzhkZTE2NzkzOGYxYmQxMTRiOWRm",
   "tracks": [
     {
       "added_at": "2022-09-12 13:59:06",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Wasting Love",
-        "url": "https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1"
-      },
-      "artists": [
-        {
-          "name": "SRTW",
-          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Wasting Love",
-      "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Almost a Lover",
         "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 121470,
       "name": "Almost a Lover",
       "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Wasting Love",
+        "url": "https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Wasting Love",
+      "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Mount Fuji",
-        "url": "https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 161192,
-      "name": "Mount Fuji",
-      "url": "https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Saving My Love",
         "url": "https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 292667,
       "name": "Saving My Love",
       "url": "https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Mount Fuji",
+        "url": "https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 161192,
+      "name": "Mount Fuji",
+      "url": "https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
-        "name": "Midsommar",
-        "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Midsommar",
-      "url": "https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Pool Party",
-        "url": "https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 167033,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
+        "name": "Pool Party",
+        "url": "https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 167033,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G"
-      },
-      "artists": [
-        {
-          "name": "Nico Belucci",
-          "url": "https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G"
+      },
+      "artists": [
+        {
+          "name": "Nico Belucci",
+          "url": "https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -847,18 +847,22 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT"
+        "name": "Ghost (Fejk\u00e1 Remix)",
+        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
       "artists": [
         {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 210024,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT"
+      "duration_ms": 283106,
+      "name": "Ghost - Fejk\u00e1 Remix",
+      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -879,22 +883,18 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Ghost (Fejk\u00e1 Remix)",
-        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Ghost - Fejk\u00e1 Remix",
-      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+      "duration_ms": 210024,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
+        "name": "dustland",
+        "url": "https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2"
+      },
+      "artists": [
+        {
+          "name": "Alex R",
+          "url": "https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "dustland",
+      "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
         "name": "In the Mirror",
         "url": "https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "dustland",
-        "url": "https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt"
       },
       "artists": [
         {
-          "name": "Alex R",
-          "url": "https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2"
+          "name": "Hocus Faux",
+          "url": "https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp"
         }
       ],
-      "duration_ms": 161739,
-      "name": "dustland",
-      "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
+      "duration_ms": 213600,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt"
-      },
-      "artists": [
-        {
-          "name": "Hocus Faux",
-          "url": "https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Barracudas EP",
         "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 253098,
       "name": "Barracudas",
       "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "On The Rhode",
+        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
+      },
+      "artists": [
+        {
+          "name": "Milton Keys",
+          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "On The Rhode",
+      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "On The Rhode",
-        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
-      },
-      "artists": [
-        {
-          "name": "Milton Keys",
-          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "On The Rhode",
-      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Informalit\u00e9",
         "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
       },
@@ -1191,58 +1191,6 @@
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
-        "name": "Boardwalk Lullaby",
-        "url": "https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Boardwalk Lullaby",
-      "url": "https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
-        "name": "Carte blanche",
-        "url": "https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20"
-      },
-      "artists": [
-        {
-          "name": "Sennhofer",
-          "url": "https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32"
-        }
-      ],
-      "duration_ms": 161590,
-      "name": "Carte blanche",
-      "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
-        "name": "The Lovers",
-        "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        },
-        {
-          "name": "Cathy Battistessa",
-          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "The Lovers",
-      "url": "https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1275,6 +1223,58 @@
       "duration_ms": 198314,
       "name": "A Glitch",
       "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Carte blanche",
+        "url": "https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20"
+      },
+      "artists": [
+        {
+          "name": "Sennhofer",
+          "url": "https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32"
+        }
+      ],
+      "duration_ms": 161590,
+      "name": "Carte blanche",
+      "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Boardwalk Lullaby",
+        "url": "https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "Boardwalk Lullaby",
+      "url": "https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "The Lovers",
+        "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        },
+        {
+          "name": "Cathy Battistessa",
+          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "The Lovers",
+      "url": "https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
+        "name": "Lost In Stereo",
+        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
+      },
+      "artists": [
+        {
+          "name": "Summer Sunset Sessions",
+          "url": "https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
         "name": "Sun Road",
         "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 162597,
       "name": "Morning Workout",
       "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
-        "name": "Lost In Stereo",
-        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
-      },
-      "artists": [
-        {
-          "name": "Summer Sunset Sessions",
-          "url": "https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Lost In Stereo",
-      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
-      },
-      "artists": [
-        {
-          "name": "N\u00e4ver",
-          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 195157,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4ver",
+          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "The right mood",
-        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
       },
       "artists": [
         {
-          "name": "Alan Devale",
-          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
         }
       ],
-      "duration_ms": 192913,
-      "name": "The right mood",
-      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+        "name": "The right mood",
+        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
       "artists": [
         {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+          "name": "Alan Devale",
+          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
         }
       ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+      "duration_ms": 192913,
+      "name": "The right mood",
+      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
     },
     {
       "added_at": "2022-09-12 13:59:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-09-12 13:59:06",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
-    },
-    {
-      "added_at": "2022-09-12 13:59:06",
-      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
+    },
+    {
+      "added_at": "2022-09-12 13:59:06",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
     },
     {
       "added_at": "2022-09-12 13:59:06",

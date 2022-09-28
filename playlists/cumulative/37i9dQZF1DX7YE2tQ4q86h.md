@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Sam Smith & Kim Petras
 
-289 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+290 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 | 2022-09-10 |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-18 | 2022-04-29 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-17 |
-| [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 |  |
+| [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-16 |  |
+| [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-28 |
 | [Technicolor](https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Technicolor](https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc) | 3:17 | 2022-04-29 | 2022-08-13 |
 | [Technicolor](https://open.spotify.com/track/0GjoMSC31H3q2vD2Aa5S4f) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Technicolor](https://open.spotify.com/album/4qx2pjsBgxDPoTGKoRb0Fy) | 2:54 | 2022-08-19 | 2022-09-17 |
 | [That's the thing x](https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [That's the thing x](https://open.spotify.com/album/6m3nu19SylZYD3mVoL8ofF) | 3:51 | 2022-03-25 | 2022-04-23 |

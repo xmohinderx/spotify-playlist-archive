@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,510 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,438 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 |
 | 29 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 | 30 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 |
-| 31 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
-| 32 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
+| 31 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
+| 32 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
 | 33 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
 | 34 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 |
 | 35 | [Bona](https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Bona](https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY) | 2:40 |
-| 36 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 |
-| 37 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 36 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 37 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 |
 | 38 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 |
 | 39 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
 | 40 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 47 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 |
 | 48 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 |
 | 49 | [Dziwoląg](https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Dziwoląg](https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv) | 2:27 |
-| 50 | [虛榮](https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:52 |
-| 51 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 |
+| 50 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 |
+| 51 | [虛榮](https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:52 |
 | 52 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 |
 | 53 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 |
 | 54 | [Alive](https://open.spotify.com/track/3yg4TZJBk7UuF6mJEsWwTe) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf) | [Alive](https://open.spotify.com/album/3xIUeWBzzmpOc1DyQNQnMl) | 3:21 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [I Say Too Much](https://open.spotify.com/track/3J2loLgNiCIxkGLlcv3RRM) | [Jaime Wong](https://open.spotify.com/artist/6SzwY0WC15s1MJh3BO9xtz) | [I Say Too Much](https://open.spotify.com/album/1P09nNc98o5NKtwcx61XRK) | 2:40 |
 | 64 | [Sigurado](https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [Sigurado](https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1) | 5:44 |
 | 65 | [Verím](https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761) | [Katarina Knechtova](https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh) | [Verím](https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX) | 3:18 |
-| 66 | [Janjiku](https://open.spotify.com/track/1NNBPTYrhlJpdTkwCCKQyo) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Janjiku](https://open.spotify.com/album/4DCtgYL14od0FaSwsUFc22) | 3:20 |
-| 67 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 |
-| 68 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 |
-| 69 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
+| 66 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 |
+| 67 | [Janjiku](https://open.spotify.com/track/1NNBPTYrhlJpdTkwCCKQyo) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Janjiku](https://open.spotify.com/album/4DCtgYL14od0FaSwsUFc22) | 3:20 |
+| 68 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
+| 69 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 |
 | 70 | [Expectativa vs realidad](https://open.spotify.com/track/4odfKlMgwZwSlGgHga77Y2) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Expectativa vs realidad](https://open.spotify.com/album/5KshOa8wykpPaaYaS8NRn8) | 2:55 |
 | 71 | [Wicked](https://open.spotify.com/track/0kcPy2Y7EjCuVtcyfdMVCx) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 3:05 |
 | 72 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
 | 73 | [Nadaniyaan](https://open.spotify.com/track/6lyoXxSkEkqVAApqqYhHVE) | [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1) | [Nadaniyaan](https://open.spotify.com/album/1dOoMiPROm3Ux9zNReDJ3o) | 3:25 |
 
-Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMDNhZWZhNTA4MTI4MTAzZTc0ZmM1YTYyMjgyNDdkZmZh`
+Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMGUwOTZlZmFmMjBmN2IwNDhkZWE3OTY3Yzk4YjU5NzE4`

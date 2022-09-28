@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Ann Clue
 
-780 songs - 3 day 0 hr 0 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+781 songs - 3 day 0 hr 4 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Factual Matters](https://open.spotify.com/track/30ifbc7I2i6QkDq6G6YB7A) | [Kevin Knapp](https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv) | [Factual Matters](https://open.spotify.com/album/3rG5utVbl4lZDL7jaFAH7s) | 6:31 | 2022-09-22 |  |
 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-08 |  |
 | [Fake Is Fashion](https://open.spotify.com/track/7sMzFIeVWD6GSdSXsMdQ8k) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Fake Is Fashion](https://open.spotify.com/album/59t2TQN7qnyKgLCOz5lLTJ) | 4:56 | 2022-07-14 | 2022-07-29 |
+| [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 | 2022-09-27 |  |
 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 | 2022-09-08 | 2022-09-23 |
 | [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-05-26 | 2022-06-17 |
 | [Fata Organa](https://open.spotify.com/track/2ZxGR3QjrxnctPNF5k2Zad) | [Tigerskin](https://open.spotify.com/artist/09UQUOICiqSgc3C8TRhTEh) | [Fata Organa](https://open.spotify.com/album/7GhNIrYhYsFvZEKboTBHXW) | 5:23 | 2022-09-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 36352,
+  "num_followers": 36392,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDVjZTg1ODRhMDNkOTExYWU0ZGE2ZTBiZmFiMzk4Y2M0",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGY5Y2IwNzM0ODA4M2I2MDRiMTAxYTI5NGFlNWZhMjUw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Movin' N Groovin",
@@ -415,18 +399,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Donut Jam",
-        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
       },
       "artists": [
         {
-          "name": "Peet Project",
-          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 216437,
-      "name": "Donut Jam",
-      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -459,6 +443,22 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+      },
+      "artists": [
+        {
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+        }
+      ],
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -531,22 +547,6 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -581,10 +581,10 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
       },
       "artists": [
         {
@@ -592,25 +592,9 @@
           "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
         }
       ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Summer in Blue",
-        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
-      },
-      "artists": [
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 269129,
-      "name": "Summer In Blue",
-      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -627,6 +611,22 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -677,26 +677,6 @@
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "SHINE!",
@@ -717,6 +697,26 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Radio Vibe",
+        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        },
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 249529,
+      "name": "Radio Vibe - radio single",
+      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Blue",
@@ -733,10 +733,10 @@
       "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
       },
       "artists": [
         {
@@ -744,25 +744,25 @@
           "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
         }
       ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
-      "added_at": "2022-01-28 05:02:00",
+      "added_at": "2022-02-14 15:14:54",
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
       "artists": [
         {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 228102,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
+      "added_at": "2022-01-28 05:02:00",
       "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+      "duration_ms": 228102,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
     },
     {
       "added_at": "2022-04-01 04:02:00",

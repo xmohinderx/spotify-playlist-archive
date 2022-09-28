@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NjAwMCwwMDAwMDAwMGMyNGFiYjg4NWFkZDg4NjRjYzFlNjg3NmE4MzY4NDkw",
+  "snapshot_id": "MTY2Mzc3NjAwMCwwMDAwMDAwMDg2MDIzMDIzM2ZmY2UwZTc0MmU1ZTJmZDA0M2UzOGU0",
   "tracks": [
     {
       "added_at": "2022-09-21 16:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
-        "name": "Repetici\u00f3n",
-        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Repetici\u00f3n",
-      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
+        "name": "Repetici\u00f3n",
+        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Repetici\u00f3n",
+      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
     },
     {
       "added_at": "2022-09-21 16:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
-        "name": "Verde Artificial",
-        "url": "https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF"
-      },
-      "artists": [
-        {
-          "name": "raquel",
-          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
-        }
-      ],
-      "duration_ms": 244796,
-      "name": "Verde Artificial",
-      "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
         "name": "Borderline Genius Disorder",
         "url": "https://open.spotify.com/album/6Sn2fvq9ZzBobOVJ0n1Eoy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 154690,
       "name": "Dancing with the Devil",
       "url": "https://open.spotify.com/track/4JT3ei83U7FnONltcI1M4M"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
+        "name": "Verde Artificial",
+        "url": "https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF"
+      },
+      "artists": [
+        {
+          "name": "raquel",
+          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
+        }
+      ],
+      "duration_ms": 244796,
+      "name": "Verde Artificial",
+      "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"
     },
     {
       "added_at": "2022-09-21 16:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2022-09-21 16:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
-      },
-      "artists": [
-        {
-          "name": "Laika en el Espacio",
-          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
-        }
-      ],
-      "duration_ms": 274556,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
         "name": "Tobog\u00e1n Amarillo",
         "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 273511,
       "name": "No Te Acerques Tanto a M\u00ed",
       "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
+      },
+      "artists": [
+        {
+          "name": "Laika en el Espacio",
+          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
+        }
+      ],
+      "duration_ms": 274556,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
     },
     {
       "added_at": "2022-09-21 16:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-21 16:00:00",
       "album": {
-        "name": "Fugaz",
-        "url": "https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6"
-      },
-      "artists": [
-        {
-          "name": "Kev Sanart",
-          "url": "https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4"
-        }
-      ],
-      "duration_ms": 284518,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
         "name": "Piedra Angular",
         "url": "https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 157000,
       "name": "Piedra Angular",
       "url": "https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL"
+    },
+    {
+      "added_at": "2022-09-21 16:00:00",
+      "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6"
+      },
+      "artists": [
+        {
+          "name": "Kev Sanart",
+          "url": "https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4"
+        }
+      ],
+      "duration_ms": 284518,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG"
     },
     {
       "added_at": "2022-09-21 16:00:00",

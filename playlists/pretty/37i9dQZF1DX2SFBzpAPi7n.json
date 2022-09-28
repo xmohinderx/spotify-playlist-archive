@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Peppertones(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 185309,
+  "num_followers": 185521,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2NTUwNywwMDAwMDAwMDRjODEyNDEyZWM2ZWM2ZGQ4YjI4OGNlOWE5MDk5MWVk",
+  "snapshot_id": "MTY2MzY2NTUwNywwMDAwMDAwMDA0NThmZTlkMjg0M2E5MjdhN2Y2MWJhMjJiZjM1NGM5",
   "tracks": [
     {
       "added_at": "2022-09-20 09:18:27",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 215476,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 229493,
       "name": "NAN CHUN \ub09c\ucd98",
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 217926,
-      "name": "Spark",
-      "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
+      "duration_ms": 213217,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -599,18 +599,34 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 217926,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -627,22 +643,6 @@
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
-        "name": "The Book of Us : Entropy",
-        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Sweet Chaos",
-      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
     },
     {
       "added_at": "2022-09-20 09:18:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-20 09:18:27",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
-      },
-      "artists": [
-        {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
-    },
-    {
-      "added_at": "2022-09-20 09:18:27",
-      "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
+    },
+    {
+      "added_at": "2022-09-20 09:18:27",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
     },
     {
       "added_at": "2022-09-20 09:18:27",

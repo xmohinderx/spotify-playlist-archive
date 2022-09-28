@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-297 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+298 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2022-04-05 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-05 | 2022-07-29 |
 | [It's Sun Time](https://open.spotify.com/track/1iRAoE5MQWa2pnWgWTqgH3) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [It's Sun Time](https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s) | 2:28 | 2022-06-03 | 2022-07-29 |
-| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
+| [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-23 |  |
+| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
 | [Keep On](https://open.spotify.com/track/3Y0JuvIIA3mzhmM2G00kE9) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [Keep On](https://open.spotify.com/album/1n5BqxHBlAkN7HhyHWi6oc) | 3:47 | 2022-04-05 | 2022-05-11 |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-05 | 2022-07-29 |
 | [Kinkaku\-ji](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kinkaku\-ji](https://open.spotify.com/album/5qwFBgvbIh12LJDO6hOhck) | 3:13 | 2022-04-05 |  |

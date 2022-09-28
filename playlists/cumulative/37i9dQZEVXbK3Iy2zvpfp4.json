@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 190758,
       "name": "Atlantis - Extra Sped Up Version",
       "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 180927,
       "name": "Ele Te Bota Soca Soca",
       "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
@@ -2624,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "album": {
         "name": "Hypnodic",
         "url": "https://open.spotify.com/album/5QjbSTuYohbz2qPkKcuzwm"
       },
@@ -2849,6 +2867,32 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "album": {
+        "name": "It's Corn",
+        "url": "https://open.spotify.com/album/6UA672BEiCeihRReCCnlPb"
+      },
+      "artists": [
+        {
+          "name": "Tariq",
+          "url": "https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        },
+        {
+          "name": "Recess Therapy",
+          "url": "https://open.spotify.com/artist/0WSxLJRrB4L65JhNxIajE2"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "It's Corn",
+      "url": "https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG"
     },
     {
       "album": {
@@ -3865,7 +3909,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 85894,
       "name": "MISA MISA!",
       "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
@@ -4261,6 +4305,44 @@
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "album": {
+        "name": "J. EDEN E-G3N (#freekarlo edition)",
+        "url": "https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Blako",
+          "url": "https://open.spotify.com/artist/1H0gwYeVaW4An73wzykI3I"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192360,
+      "name": "NFS",
+      "url": "https://open.spotify.com/track/5TnbMs8fTDVrqRGrCv3Y10"
     },
     {
       "album": {
@@ -5776,6 +5858,28 @@
     },
     {
       "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -5950,6 +6054,24 @@
     },
     {
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
+    },
+    {
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
       },
@@ -6093,6 +6215,24 @@
       "duration_ms": 246093,
       "name": "Tourner Dans Le Vide",
       "url": "https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq"
+    },
+    {
+      "album": {
+        "name": "Traktor! [230 bpm] (with saymooon)",
+        "url": "https://open.spotify.com/album/75brCaOvHbJoDxcMTrbSen"
+      },
+      "artists": [
+        {
+          "name": "Marzy",
+          "url": "https://open.spotify.com/artist/05uibQR4A4sQyIM5nDJcEi"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Traktor! [230 bpm] (with saymooon)",
+      "url": "https://open.spotify.com/track/7tKl0VtxiEMtgQtYgf4JAZ"
     },
     {
       "album": {
@@ -6359,7 +6499,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 187105,
       "name": "V\u00e1rn\u00e9k",
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
@@ -6569,7 +6709,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 233379,
       "name": "Xenogenesis",
       "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
@@ -6721,7 +6861,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"

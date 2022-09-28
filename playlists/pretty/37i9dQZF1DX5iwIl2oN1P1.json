@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 71158,
+  "num_followers": 71164,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDRiNzAyZGQ1NmZlYjNkYzk0YmI0ZDdiYjdhMzI0NDI0",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDVlNmZhZjQ0ZTJmN2EzZDI3YjA4MTNjYzEzM2Q4OTlm",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Higher Experience",
-        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "No Ordinary Worship - Live",
-      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 225400,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Higher Experience",
+        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "No Ordinary Worship - Live",
+      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
     },
     {
       "added_at": "2020-06-03 14:33:10",

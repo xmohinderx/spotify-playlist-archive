@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-347 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+348 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 | 2021-10-18 | 2022-07-29 |
 | [Afrikan Children](https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 3:38 | 2021-10-18 | 2022-07-29 |
 | [After 3 \(feat\. Mortimer\)](https://open.spotify.com/track/6l9v8pNy1P39VNfqpbKuFL) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA), [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:20 | 2022-08-18 | 2022-09-10 |
+| [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 | 2022-09-23 |  |
 | [All You Need Is Love](https://open.spotify.com/track/3xyC7nabfT7TgqrTiTcpve) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc) | [Songs Around The World \(10 Year Anniversary Edition\)](https://open.spotify.com/album/23h2MOMXI92CmIdRLy9uMC) | 3:58 | 2021-10-18 | 2022-07-28 |
 | [Allow Me to Live](https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/5zN94MvRvUzdrwrt2MSWbx) | 3:03 | 2021-10-18 | 2022-07-22 |
 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 | 2022-06-20 |  |
@@ -285,7 +286,7 @@
 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 | 2021-10-18 |  |
 | [Stand Down](https://open.spotify.com/track/7usMsERH3ssk4ohPVThSOI) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Reggae Reggae \(International Version\)](https://open.spotify.com/album/4DSiH8fLj4U6SaSuPeqoZJ) | 4:01 | 2021-10-18 | 2022-01-29 |
 | [Stars Align](https://open.spotify.com/track/01zjFKZ2qDYDXJsNSmVm0i) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/4hO1czp6sMt5e2LfB5wdkF) | 3:21 | 2021-10-18 | 2022-07-29 |
-| [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 | 2022-06-20 |  |
+| [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 | 2022-06-20 | 2022-09-28 |
 | [State of Emergency](https://open.spotify.com/track/3zwOYLvFo1FeLwO1TqQC5k) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W), [Addis Records](https://open.spotify.com/artist/3qGfsdmNOX6dBSdhLFumeK) | [State of Emergency](https://open.spotify.com/album/7GzHlAEsO92tZPR0sBK6mq) | 4:02 | 2021-10-18 | 2022-07-29 |
 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 | 2021-10-18 | 2022-07-29 |
 | [Steamers a Bubble](https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Steamers a Bubble](https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty) | 4:17 | 2021-10-18 | 2022-07-27 |

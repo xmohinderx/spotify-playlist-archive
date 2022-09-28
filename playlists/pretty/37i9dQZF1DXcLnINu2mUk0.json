@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 17951,
+  "num_followers": 18007,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NzYwMCwwMDAwMDAwMGQ0YjkyOTFhNjA4ZTE0ZDNjZWU2OGM0MWE1NzQ4MTBm",
+  "snapshot_id": "MTY2Mzg4NzYwMCwwMDAwMDAwMDVkNjExYzk1YmE3Y2JhYjQzZGIzMTQxODI3NDI4Yjhh",
   "tracks": [
     {
       "added_at": "2022-09-22 23:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-22 23:00:00",
       "album": {
+        "name": "I THINK I THINK TOO MUCH",
+        "url": "https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo"
+      },
+      "artists": [
+        {
+          "name": "Extrazen",
+          "url": "https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "REVOLVER",
+      "url": "https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj"
+    },
+    {
+      "added_at": "2022-09-22 23:00:00",
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 202220,
       "name": "E Se Amanh\u00e3 Eu N\u00e3o Acordar?",
       "url": "https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3"
-    },
-    {
-      "added_at": "2022-09-22 23:00:00",
-      "album": {
-        "name": "I THINK I THINK TOO MUCH",
-        "url": "https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo"
-      },
-      "artists": [
-        {
-          "name": "Extrazen",
-          "url": "https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "REVOLVER",
-      "url": "https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj"
     },
     {
       "added_at": "2022-09-22 23:00:00",

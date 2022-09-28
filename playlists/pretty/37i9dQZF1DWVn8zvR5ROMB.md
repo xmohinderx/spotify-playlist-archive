@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Shania Twain, Kelsea Ballerini, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,701 likes - 67 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,951 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [Noah \(Stand Still\)](https://open.spotify.com/track/2lXpWg3gOIeH22d1UMhoiL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Noah \(Stand Still\)](https://open.spotify.com/album/33oPNWUuU96juBwswrJeCU) | 3:54 |
 | 20 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 21 | [What's Left of My Heart](https://open.spotify.com/track/64urPqgLvGjjZ122AFXFtV) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [What's Left of My Heart](https://open.spotify.com/album/2EyMGbIAyfh8YxWJxkDZY7) | 3:04 |
-| 22 | [Biggest Dock on the Lake](https://open.spotify.com/track/4pp3QecKi8JGJGMyZ9t84w) | [Uncle Drank](https://open.spotify.com/artist/2fVBWnhzew4fRlLDc9rdxf), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [3 from the Cooler](https://open.spotify.com/album/4L0lLW6MY3236mymGx5Otk) | 3:40 |
+| 22 | [Biggest Dock on the Lake](https://open.spotify.com/track/4pp3QecKi8JGJGMyZ9t84w) | [Uncle Drank](https://open.spotify.com/artist/2fVBWnhzew4fRlLDc9rdxf), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So), [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD) | [3 from the Cooler](https://open.spotify.com/album/4L0lLW6MY3236mymGx5Otk) | 3:40 |
 | 23 | [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 |
 | 24 | [Hey Girl \- Kentucky Version](https://open.spotify.com/track/5AKZUVRCc6g1rFCHsHTDQk) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/5SyWGUtvXYdtXPAifVtyEV) | 3:10 |
 | 25 | [Hood of That Car \- Piano Version](https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car \(Piano Version\)](https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu) | 3:28 |

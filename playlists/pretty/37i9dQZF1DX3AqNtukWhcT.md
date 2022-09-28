@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,063 likes - 107 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,140 likes - 107 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 40 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 |
 | 41 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 |
 | 42 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 |
-| 43 | [Spirit of Suvidha](https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6) | [Cling](https://open.spotify.com/artist/6jZtpEBm85W5lBViBhqtuY) | [Spirit of Suvidha](https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m) | 2:44 |
+| 43 | [Spirit of Suvidha](https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6) | [Cling](https://open.spotify.com/artist/45cyu48KZ9TCcORA7W4Apw) | [Spirit of Suvidha](https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m) | 2:44 |
 | 44 | [Pulse Of Peace](https://open.spotify.com/track/519vhV6AQMbb2FU6IaXcbe) | [Mt Kailash](https://open.spotify.com/artist/5G5FGND8Z8H1gKvdI1yDA4) | [Pulse Of Peace](https://open.spotify.com/album/5wPlcCI06LB2YzRGav0XI8) | 3:00 |
 | 45 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 |
 | 46 | [Perfect Pace](https://open.spotify.com/track/5zlVHMRwqJ4L7Z4b5W0oD3) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Perfect Pace](https://open.spotify.com/album/4j3SzFdQMJ0zuDhrzpxdAV) | 2:44 |

@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 5117,
+  "num_followers": 5133,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDg0YjY4YTQxYmY3YjBkMDI5NzNhOWQwODA1ZmY5NWU1",
+  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDY5NTU4NTVmODRhZTdhMDhmYzE5MWQwZWE0ZmEwMThl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is My Wailin' Wall",
-        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mo Rodgers",
-          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 257560,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Is My Wailin' Wall",
+        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mo Rodgers",
+          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+        "name": "Makin Love is Good For You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
       "artists": [
         {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 252906,
-      "name": "It Ain't The Same Thing",
-      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
+      "duration_ms": 229226,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Makin Love is Good For You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
         }
       ],
-      "duration_ms": 229226,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
+      "duration_ms": 252906,
+      "name": "It Ain't The Same Thing",
+      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Makin Love is Good For You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Makin' Love Is Good For You",
+      "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Ghosts of Mississippi Meet the Gods of Africa",
         "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 222066,
       "name": "It's Harder Now - Remix",
       "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Makin Love is Good For You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Makin' Love Is Good For You",
-      "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "From the Heart and Soul",
+        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
+      },
+      "artists": [
+        {
+          "name": "Chick Willis",
+          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Eccentric Soul: The Saadia Label",
         "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "From the Heart and Soul",
-        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
       "artists": [
         {
-          "name": "Chick Willis",
-          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
         }
       ],
-      "duration_ms": 282026,
-      "name": "Someday Baby",
-      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+      "duration_ms": 265506,
+      "name": "First You Cry",
+      "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -659,22 +675,6 @@
       "duration_ms": 269000,
       "name": "Baby I Will",
       "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
-      },
-      "artists": [
-        {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "First You Cry",
-      "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
+      },
+      "artists": [
+        {
+          "name": "Ellis Hooks",
+          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "You Push Me to My Limit",
+      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "This Time For Real",
         "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
       },
@@ -747,18 +763,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
       "artists": [
         {
-          "name": "Ellis Hooks",
-          "url": "https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru"
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
         }
       ],
-      "duration_ms": 196493,
-      "name": "You Push Me to My Limit",
-      "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
+      "duration_ms": 256466,
+      "name": "Engines And Wings",
+      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 316533,
+      "name": "What Can A Man Do?",
+      "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -775,22 +807,6 @@
       "duration_ms": 257133,
       "name": "I Can't Stop",
       "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
-      },
-      "artists": [
-        {
-          "name": "Preston Shannon",
-          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Streets Will Love You To Death",
-      "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -815,34 +831,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Make It Rain",
-        "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
       "artists": [
         {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
         }
       ],
-      "duration_ms": 316533,
-      "name": "What Can A Man Do?",
-      "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
-      },
-      "artists": [
-        {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Engines And Wings",
-      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
+      "duration_ms": 235000,
+      "name": "The Streets Will Love You To Death",
+      "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
-      },
-      "artists": [
-        {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Tiger in a Cage",
         "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 288400,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+      },
+      "artists": [
+        {
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "You're Only Good For One Thang Baby",
+      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -943,22 +959,6 @@
       "duration_ms": 227800,
       "name": "I Won't Be Lonely",
       "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
-      },
-      "artists": [
-        {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "You're Only Good For One Thang Baby",
-      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",

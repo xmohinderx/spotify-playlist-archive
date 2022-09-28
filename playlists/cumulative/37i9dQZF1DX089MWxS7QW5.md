@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(Jiselle\(지셀\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(THAMA\(따마\)\)
 
-111 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+112 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 |  |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 |  |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 |  |
+| [Complicated](https://open.spotify.com/track/7hJyTX9CUFlYDmbVPuv8nT) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Complicated Needles](https://open.spotify.com/album/3m4dDrPmFG9Uzgl1C7y5zM) | 3:44 | 2022-09-27 |  |
 | [D\-day \(Feat\. GIRIBOY\)](https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:31 | 2022-05-28 | 2022-06-10 |
 | [Dang](https://open.spotify.com/track/2OEeCgbcjrEo5mkXnc17iv) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [DeAndre](https://open.spotify.com/artist/6cRaQkqVc3CqVtuE25ZVK8), [그렉](https://open.spotify.com/artist/0LTTvbTIWZk7uA0I4Ax7je) | [Dang](https://open.spotify.com/album/7a9AU8c7VLlGdDfjgfysOV) | 3:37 | 2022-05-28 | 2022-08-13 |
 | [DATE NiTE \(feat\. Yoonmirae\)](https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:37 | 2022-05-28 | 2022-07-06 |

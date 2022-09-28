@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 31494,
+  "num_followers": 31568,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMGI5NjljMWVlNThmNmE0ZjVhYmE3NTY3ZWY0NjU5Yzdm",
+  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMGI5OWZhNzhhMjIyZDAzMzU4ZTAwNjU4MDg5MmVhMGZh",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -471,6 +471,26 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
+        }
+      ],
+      "duration_ms": 153703,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
         "name": "Primeira Vez",
         "url": "https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 246368,
       "name": "TRIBUNAL",
       "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
         "name": "Vivi Good",
         "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 214872,
       "name": "Vivi Good",
       "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+        "name": "Sentimento Safari",
+        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
+      "duration_ms": 205217,
+      "name": "Sentimento Safari",
+      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Sentimento Safari",
-        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Sentimento Safari",
-      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2022-09-08 23:00:00",

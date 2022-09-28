@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 917759,
+  "num_followers": 919929,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxODU1NCwwMDAwMDAwMGY5NWI4NzAwZWRjMmRkNjFhZjExNWVmMTQwZGQ3NWEz",
+  "snapshot_id": "MTY2NDI4ODI4MSwwMDAwMDAwMGI2Mjg5NTM2Zjk2YjBkZDY5YWRiMjhhZjE2OGNlYTI5",
   "tracks": [
     {
       "added_at": "2022-09-19 20:15:53",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
+      "added_at": "2022-09-27 14:18:01",
+      "album": {
+        "name": "The Gold (Phoebe Bridgers Version)",
+        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "The Gold - Phoebe Bridgers Version",
+      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+    },
+    {
       "added_at": "2022-09-19 20:15:53",
       "album": {
         "name": "Star Shopping",
@@ -87,22 +107,6 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -123,18 +127,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -155,22 +159,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Triplbt Theme",
-        "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
-      },
-      "artists": [
-        {
-          "name": "jagger finn",
-          "url": "https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa"
-        }
-      ],
-      "duration_ms": 90323,
-      "name": "Vas",
-      "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -183,6 +171,22 @@
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -267,18 +271,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+        "name": "Triplbt Theme",
+        "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "jagger finn",
+          "url": "https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa"
         }
       ],
-      "duration_ms": 257266,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
+      "duration_ms": 90323,
+      "name": "Vas",
+      "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -295,6 +299,22 @@
       "duration_ms": 107415,
       "name": "We Never Met",
       "url": "https://open.spotify.com/track/3obYzeG6ycjGPGVZyRmjTH"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -383,22 +403,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Dead and Cold",
-        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
-      },
-      "artists": [
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        }
-      ],
-      "duration_ms": 89624,
-      "name": "Dead and Cold",
-      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "What's Wrong",
         "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
       },
@@ -411,6 +415,22 @@
       "duration_ms": 214455,
       "name": "I'm So Happy",
       "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Dead and Cold",
+        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "duration_ms": 89624,
+      "name": "Dead and Cold",
+      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -527,22 +547,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 386200,
-      "name": "It's Not The Same Anymore",
-      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -555,6 +559,22 @@
       "duration_ms": 160093,
       "name": "Beach Baby",
       "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 386200,
+      "name": "It's Not The Same Anymore",
+      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -687,6 +707,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -703,22 +739,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1231,22 +1251,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "i'd rather be alone",
         "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
@@ -1259,6 +1263,22 @@
       "duration_ms": 142940,
       "name": "i'd rather be alone",
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1279,6 +1299,22 @@
       "duration_ms": 114108,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX"
+    },
+    {
+      "added_at": "2022-09-27 14:18:01",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1355,6 +1391,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Safe.",
         "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
@@ -1371,22 +1423,6 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
-      },
-      "artists": [
-        {
-          "name": "Laica",
-          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1523,22 +1559,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Sorry for Me",
-        "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
@@ -1551,6 +1571,22 @@
       "duration_ms": 166389,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Sorry for Me",
+        "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1587,22 +1623,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Trashfire",
-      "url": "https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -1635,6 +1655,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Trashfire",
+      "url": "https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "WHEN THE DEVIL CRIES",
         "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
       },
@@ -1663,46 +1699,6 @@
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "change ur mind",
-        "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        },
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 183451,
-      "name": "change ur mind",
-      "url": "https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "argyle",
-        "url": "https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "argyle",
-      "url": "https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y"
     }
   ],
   "unique_name": "idk.",

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 229121,
+  "num_followers": 229221,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMGY0ZThkNzVmMDNmMDE0MjUxN2ZlOTllZWNiNDA0ZGQ0",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDgzODVmN2Y0ZTVkZGM0OGRhZmY0ODgwMzEzODRhYjJk",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Grace Is On Our Side",
+        "url": "https://open.spotify.com/album/0GgRDCWPLjgLl79e71UT7F"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/0T3iZrykxliMyN1yeunXQh"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Endless Years",
         "url": "https://open.spotify.com/album/4UVvmClozVCOUjQ89uKdaP"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 304828,
       "name": "Set a Fire",
       "url": "https://open.spotify.com/track/3LSna6W1dRf2QbsUgmRoFf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Grace Is On Our Side",
-        "url": "https://open.spotify.com/album/0GgRDCWPLjgLl79e71UT7F"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/0T3iZrykxliMyN1yeunXQh"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
       "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
         {
           "name": "United Pursuit",
           "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 351760,
-      "name": "Lay It All Down",
-      "url": "https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z"
+      "duration_ms": 360000,
+      "name": "Simple Gospel (Live)",
+      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -503,18 +499,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
       },
       "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
         {
           "name": "United Pursuit",
           "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Simple Gospel (Live)",
-      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
+      "duration_ms": 351760,
+      "name": "Lay It All Down",
+      "url": "https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Church Volume One (Live)",
-        "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 516373,
-      "name": "More Than Enough - Live",
-      "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Nothing Ordinary",
         "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 217226,
       "name": "Every Beat (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Church Volume One (Live)",
+        "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 516373,
+      "name": "More Than Enough - Live",
+      "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Fill This Place (Studio Version)",
-        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Fill This Place (Studio Version)",
-      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Insatiable",
         "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Fill This Place (Studio Version)",
+        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Fill This Place (Studio Version)",
+      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Miracles (Studio Version)",
-        "url": "https://open.spotify.com/album/69QFZTaRSOvyEsVREdUxaa"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "Miracles - Studio Version",
-      "url": "https://open.spotify.com/track/5QL5pIVHYuewm4G3gsjE1j"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "The Songs We Sing",
         "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 225876,
       "name": "Awake My Soul (With Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/31hmy3Djo43cIjZptFN5xs"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Miracles (Studio Version)",
+        "url": "https://open.spotify.com/album/69QFZTaRSOvyEsVREdUxaa"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Miracles - Studio Version",
+      "url": "https://open.spotify.com/track/5QL5pIVHYuewm4G3gsjE1j"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "This Is Love (Live)",
-        "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
-      },
-      "artists": [
-        {
-          "name": "New Wine Worship",
-          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
-        }
-      ],
-      "duration_ms": 320683,
-      "name": "This Is Love - Live",
-      "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Love Makes Us Strong (Live)",
         "url": "https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 448719,
       "name": "Jesus, You're Beautiful (Live)",
       "url": "https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "This Is Love (Live)",
+        "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
+      },
+      "artists": [
+        {
+          "name": "New Wine Worship",
+          "url": "https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV"
+        }
+      ],
+      "duration_ms": 320683,
+      "name": "This Is Love - Live",
+      "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
     },
     {
       "added_at": "2020-06-26 04:02:00",

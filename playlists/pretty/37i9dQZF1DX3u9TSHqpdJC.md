@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Indy Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,988 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,034 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 42 | [Peaked in High School](https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Peaked in High School](https://open.spotify.com/album/0KVApYeZKlPebizwZOxt9m) | 3:24 |
 | 43 | [nobody loves me](https://open.spotify.com/track/3hPtLdxyDpXuXPzX4IMB1o) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [nobody loves me](https://open.spotify.com/album/7JljDQSHufuK9PQ7pEsow9) | 3:03 |
 | 44 | [Eddie's Song](https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Eddie's Song](https://open.spotify.com/album/6odEvXlFaV0iTFED7Utu3b) | 4:04 |
-| 45 | [stranded](https://open.spotify.com/track/4bj5OxJnVgVjwwdtseC107) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [stranded](https://open.spotify.com/album/4raW0vvACtOtLr7yS8SHBw) | 1:55 |
+| 45 | [stranded](https://open.spotify.com/track/4rNxKKcPHhGtEHX4xfw9WT) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [stranded](https://open.spotify.com/album/3qs9gXt1C4H0sQWwZez46q) | 1:55 |
 | 46 | [Prove Me Wrong](https://open.spotify.com/track/6KPeO8qQW8pspEUFRZIlcn) | [Zenia Marshall](https://open.spotify.com/artist/4HlESG7NB6TG0XWygNOXtu) | [Prove Me Wrong](https://open.spotify.com/album/53TzirikVEadE7olXyhihD) | 3:42 |
 | 47 | [lavender blossom](https://open.spotify.com/track/5504ozM505NGOFiLPSvijC) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [lavender blossom](https://open.spotify.com/album/6PIOx12CeW8YKx4cKWz7t0) | 2:32 |
 | 48 | [What Happened to Forever?](https://open.spotify.com/track/6ICGj9koDOkKXNda8lEpMH) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [What Happened to Forever?](https://open.spotify.com/album/60xOgVSjEdjBG4rfZllE03) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [Sober](https://open.spotify.com/track/4KcFT4tl4txVBUvzoFlhoa) | [Danielle Juhre](https://open.spotify.com/artist/6nMfhzwvdyr40WdeOv4ewg) | [Sober](https://open.spotify.com/album/2mbVpMfGZvVqB24RJg6trr) | 2:38 |
 | 75 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 |
 
-Snapshot ID: `MTY2Mzc1MDgwMCwwMDAwMDAwMDZhMGRkOTY5M2I4Mzk4ZjkzZjRmOTM3ODRiNjEzZmY0`
+Snapshot ID: `MTY2Mzc1MDgwMCwwMDAwMDAwMGQ2MTY3ZDI4ZmMxNDMxMWJlMzEwYTUxNDg0NWJjYzYx`

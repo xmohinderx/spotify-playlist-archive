@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,463 likes - 125 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,755 likes - 125 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

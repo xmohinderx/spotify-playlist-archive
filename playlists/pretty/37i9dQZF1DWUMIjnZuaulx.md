@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Zacardi Cortez
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,329 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,471 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anyway \- Live](https://open.spotify.com/track/3klr7dov2vjJyjbakp7iDc) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Pastor Kim Burrell](https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 8:23 |
-| 2 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joel Barnes](https://open.spotify.com/artist/4MD4O7k8p38cCdVrDkVR6I) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
+| 2 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
 | 3 | [HOLY ONLY \(feat\. Tony Fresh & Chaquanna Iman\)](https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Tony Fresh](https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe) | [TENT REVIVAL](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 5:39 |
 | 4 | [God's Got Us \(feat\. Chandler Moore\)](https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 4:28 |
 | 5 | [Jesus Lover Of My Soul \- Live](https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Jesus Lover Of My Soul \(Live\)](https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0) | 8:59 |

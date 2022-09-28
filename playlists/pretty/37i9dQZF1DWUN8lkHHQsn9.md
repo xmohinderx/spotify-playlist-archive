@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,259 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,260 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 20 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 | 21 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
 | 22 | [PINOKIO](https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [PINOKIO](https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l) | 2:22 |
-| 23 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
-| 24 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
+| 23 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
+| 24 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 25 | [Duel 35 Chamber Orchestra](https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Patryk Piłasiewicz](https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO), [Chamber Orchestra](https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F), [Jan Cieszyński](https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo), [Agata Doszczak](https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC), [Dominik Drewniak](https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ), [Katarzyna Hejnowicz](https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj), [Filip Mikulski](https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5), [Kosma Müller](https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN), [Julia Polowczyk](https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT), [Beata Prus](https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI), [Barbara Słomian](https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81), [Weronika Stabrawa](https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP), [Anna Zaryczna](https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341), [Jakub Zoń](https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx), [Weronika Bagniewska](https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9) | [DUEL 35 Chamber Orchestra](https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd) | 7:11 |
 | 26 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
 | 27 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 50 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMGRlYTAzOTI0NWQyMjE2Y2JjNzgyM2E2NzEwMWNiMmRi`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMGRiMmI0YWU5MWY0ZDIzMjM3ODQ0YTkxMDM2NzRjZGIx`

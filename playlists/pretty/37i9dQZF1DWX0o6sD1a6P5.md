@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,414 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,014 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 43 | [Gaga \(feat\. MHD\)](https://open.spotify.com/track/4wW5nnZXD7SyLxaASOsLil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Gaga \(feat\. MHD\)](https://open.spotify.com/album/0fkE3D4PFGjA3n0Kd3pmXR) | 3:45 |
 | 44 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
 | 45 | [Nalingi ye](https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Nalingi ye](https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9) | 3:02 |
-| 46 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/7cMw238oiZZGNSMnlyjUk2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6tJCJdDa3lUElNRDj2e0Gg) | 2:28 |
+| 46 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 |
 | 47 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 |
 | 48 | [Tuer](https://open.spotify.com/track/73rKh7Jblk6jw8OCURc7nA) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Tuer](https://open.spotify.com/album/4O2UQPFetiV8whuq7W0LxX) | 3:20 |
 | 49 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 50 | [Ex](https://open.spotify.com/track/1gKsqP3rTuVqh3lv3k7sYl) | [Defty](https://open.spotify.com/artist/7lg7jNgZZMoQ1lamOkHV5A), [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Nostradamus](https://open.spotify.com/album/5QJOov3tKt3OXhrDRRVygF) | 3:42 |
 
-Snapshot ID: `MTY2Mzg4NDA2MCwwMDAwMDAwMGY5MTAyOTRlOGE3NjU1ZGM1ZTlmZWRiNDdmYTk0NmZk`
+Snapshot ID: `MTY2Mzg4NDA2MCwwMDAwMDAwMDI2MTBiOGZlZmU0ZDU2ZTE3MjlmNjU3NmEwMThkMDNi`

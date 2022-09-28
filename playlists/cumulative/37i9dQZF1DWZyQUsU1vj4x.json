@@ -124,24 +124,6 @@
     },
     {
       "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "date_added": "2022-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224598,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
-    },
-    {
-      "album": {
         "name": "Belo Horizonte",
         "url": "https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI"
       },
@@ -175,6 +157,24 @@
       "duration_ms": 224598,
       "name": "Belo Horizonte",
       "url": "https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN"
+    },
+    {
+      "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
     },
     {
       "album": {

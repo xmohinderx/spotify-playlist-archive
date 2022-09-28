@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Rauw Alejandro y Baby Rasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,004 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,055 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [LAMBO](https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:15 |
 | 50 | [Vuelo](https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Vuelo](https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC) | 3:28 |
 | 51 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 |
-| 52 | [Malvada](https://open.spotify.com/track/7DzxVskreNHhWa8XiCBFpP) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Skinny](https://open.spotify.com/artist/7MHHoMQy9LlPNlFLWVNZ26), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Malvada](https://open.spotify.com/album/62DhF0KJ9FU2T75jL8TciC) | 3:29 |
+| 52 | [Malvada](https://open.spotify.com/track/7DzxVskreNHhWa8XiCBFpP) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Elskinny](https://open.spotify.com/artist/7cIb0qXUCxaG4Aab61jeGo), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Malvada](https://open.spotify.com/album/62DhF0KJ9FU2T75jL8TciC) | 3:29 |
 | 53 | [Cone](https://open.spotify.com/track/29ItlvzUe5omyGAE9s529X) | [Squiz Nine](https://open.spotify.com/artist/79MQXIRLbX25QY6iAxlITO), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [Cone](https://open.spotify.com/album/6Nrvc1TN3dIpkjnqg3rXYu) | 2:20 |
 | 54 | [only](https://open.spotify.com/track/4ZXPNVxN7tcYudCjXZPGUR) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [only](https://open.spotify.com/album/0TYWDZ6bBwPM3aK3F76Zx9) | 2:19 |
 | 55 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |

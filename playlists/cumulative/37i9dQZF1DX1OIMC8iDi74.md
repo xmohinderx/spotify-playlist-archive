@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-227 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+228 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Got 'Em \- ZHU Remix](https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Pokémon 25: The Blue EP](https://open.spotify.com/album/3N7VGJEuKq6rKQbWcPFWzJ) | 3:54 | 2021-11-19 | 2022-02-02 |
 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 |  |
 | [GUD VIBRATIONS](https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [GUD VIBRATIONS](https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi) | 3:44 | 2022-02-01 |  |
-| [Hand Up \(Bass Boosted\)](https://open.spotify.com/track/7JrU79bMAVliipuAnrppw3) | [Dj Usman Bhatti](https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs) | [Hand Up \(Bass Boosted\)](https://open.spotify.com/album/0XLpFgXsDAGM9TNfv0WTMx) | 3:11 | 2022-09-14 |  |
+| [Hand Up \(Bass Boosted\)](https://open.spotify.com/track/04ZjdN8uiiBAKrFHeSl4jD) | [Dj Usman Bhatti](https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs) | [Hand Up \(Bass Boosted\)](https://open.spotify.com/album/3FG9e1U0UNXbdldsKDIiB3) | 3:11 | 2022-09-14 |  |
+| [Hand Up \(Bass Boosted\)](https://open.spotify.com/track/7JrU79bMAVliipuAnrppw3) | [Dj Usman Bhatti](https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs) | [Hand Up \(Bass Boosted\)](https://open.spotify.com/album/0XLpFgXsDAGM9TNfv0WTMx) | 3:11 | 2022-09-14 | 2022-09-28 |
 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 | 2022-02-01 |  |
 | [Helix](https://open.spotify.com/track/0NzzaQ0u505zpG8IAZQyT7) | [KRMA](https://open.spotify.com/artist/3cR95I269NAlI91ydNoI1b) | [Helix](https://open.spotify.com/album/4IOsvVbAF9s2moKSORe6XK) | 2:59 | 2021-11-19 | 2022-01-27 |
 | [High Like This](https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [High Like This](https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD) | 3:12 | 2022-02-01 |  |

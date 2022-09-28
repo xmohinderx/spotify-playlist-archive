@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,083 likes - 110 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,145 likes - 110 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 20 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 |
 | 21 | [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 |
 | 22 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 |
-| 23 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/3ByvvLmb9MzsZWj0YIPTPo) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 |
+| 23 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 |
 | 24 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 | 25 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
 | 26 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 |

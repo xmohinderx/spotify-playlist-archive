@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Royce Da 5'9"
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,262 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,473 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 36 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 |
 | 37 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |
 | 38 | [Rushmore Pack](https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:52 |
-| 39 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 |
+| 39 | [Worst Comes To Worst](https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:50 |
 | 40 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 |
-| 41 | [Worst Comes To Worst](https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:50 |
+| 41 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 |
 | 42 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 |
 | 43 | [Just So You Remember](https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:58 |
 | 44 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [God Is Perfect](https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 3:59 |
 | 48 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 |
 | 49 | [RUN \[Feat\. Young Thug\]](https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RUN](https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU) | 3:53 |
-| 50 | [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 4:09 |
+| 50 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDljM2MwNTA2NDVkNDU1OWExNjY0MDYzNjUzZmYyOWJm`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDliMTQyYjFjMTg5ODliNTg0YzczZWYwMDNmY2ViZjVh`

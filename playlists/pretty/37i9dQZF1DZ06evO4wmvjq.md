@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691 likes - 50 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 693 likes - 50 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 22 | [Tango Ladeado](https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 3:27 |
 | 23 | [The Soul of Patrick Lee](https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:48 |
 | 24 | [Embroidery](https://open.spotify.com/track/3stUfG4xfDXJfp3PCzlPoo) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 22:24 |
-| 25 | [Summer Fling](https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Destination \- Summer Fling Riddim](https://open.spotify.com/album/3rURS7kdzBgkD5EFBrujHD) | 2:30 |
+| 25 | [Music for the Gift, Pt\. 2](https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Late Night Tales: Four Tet](https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3) | 1:48 |
 | 26 | [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 |
-| 27 | [Music for the Gift, Pt\. 2](https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Late Night Tales: Four Tet](https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3) | 1:48 |
+| 27 | [Summer Fling](https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Destination \- Summer Fling Riddim](https://open.spotify.com/album/3rURS7kdzBgkD5EFBrujHD) | 2:30 |
 | 28 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 |
 | 29 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 |
 | 30 | [Eastern Man](https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:28 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 40 | [Marley Bell](https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Marley Bell](https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30) | 0:43 |
 | 41 | [Ides of March](https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 11:03 |
 | 42 | [Part IV \- Live 1974](https://open.spotify.com/track/48RZKN0TQ6qtc7tihgDyy9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 4:44 |
-| 43 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 |
-| 44 | [Music for the Gift: Part 5](https://open.spotify.com/track/7mm5eNJ6sLom3KXDmO9nuO) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:03 |
-| 45 | [Havana Man](https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 6:25 |
-| 46 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 |
+| 43 | [Music for the Gift: Part 5](https://open.spotify.com/track/7mm5eNJ6sLom3KXDmO9nuO) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:03 |
+| 44 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 |
+| 45 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 |
+| 46 | [Havana Man](https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 6:25 |
 | 47 | [Silver Murray](https://open.spotify.com/track/2lS12W3RNRPvamj3ZsLMR2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Silver Murray](https://open.spotify.com/album/2t32IlKJGGudD7IT5wvxkQ) | 0:37 |
 | 48 | [Cannabis](https://open.spotify.com/track/5G6iNArq3GslJKMnrdp9eH) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 11:36 |
-| 49 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 |
-| 50 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 |
+| 49 | [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 |
+| 50 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDAzZGUxN2U4ODQ0NDYxYTVkZmM3MTdkNzE5MDhlYjcyMg==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDA2N2ZhZWZkZDM3NGNlNWE3MDY5ODY1NzJiMjdhY2FkZA==`

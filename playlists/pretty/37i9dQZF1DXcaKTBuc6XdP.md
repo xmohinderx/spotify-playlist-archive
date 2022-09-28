@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,637 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,653 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 28 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
 | 29 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 |
 | 30 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
-| 31 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
-| 32 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
+| 31 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
+| 32 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 33 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
 | 34 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 35 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 41 | [Signs](https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [How Could I Be Silent](https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY) | 3:32 |
 | 42 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 |
 | 43 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
-| 44 | [Where I Belong](https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4) | 3:48 |
-| 45 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 44 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 45 | [Where I Belong](https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4) | 3:48 |
 | 46 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
 | 47 | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ) | [N + I](https://open.spotify.com/artist/2W8wysjBNC2z0U87dTzGpm), [Laudr8](https://open.spotify.com/artist/6lemZqDbBHWop31eZGxX8i) | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M) | 2:41 |
 | 48 | [Holy Spirit \- Revisited](https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Majestic \(Revisited\)](https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w) | 5:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDkwMDA1YThjNjA1YWFhMWQzY2EwOTQ5MGRhZTgzOThl`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDM0YmQ1MmM4OGMwNDliZDI3NjI2NzIyOGMxNmUyYWI3`

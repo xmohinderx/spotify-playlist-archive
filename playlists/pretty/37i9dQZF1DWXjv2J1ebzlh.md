@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,291 likes - 1,198 songs - 3 day 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,352 likes - 1,198 songs - 3 day 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -973,7 +973,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 963 | [Amor a Tres](https://open.spotify.com/track/1bLntc24zgBLdagLf0qbzd) | [Celeste](https://open.spotify.com/artist/1bMcK3goIvwNloJK78p2dp) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/6ZTmHQNK4qBaQkdJy15j6w) | 3:01 |
 | 964 | [Bakara](https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle \(Deluxe\)](https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK) | 7:01 |
 | 965 | [Zum\-Zum](https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 2:50 |
-| 966 | [Egyptian Reggae \- Live](https://open.spotify.com/track/6luyViGYiEnCerudBySTcz) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 2:37 |
+| 966 | [Egyptian Reggae](https://open.spotify.com/track/6luyViGYiEnCerudBySTcz) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 2:37 |
 | 967 | [Esmerim](https://open.spotify.com/track/4ZaSO58hLAtXO87JxhhdHN) | [Beyaz Kelebekler](https://open.spotify.com/artist/0CdO8pNYr6JdJPTnf7D1Nw) | [Küskünüm Ben Hayata / Esmerim](https://open.spotify.com/album/6ILAFBVKkD0v8P0sQbP2fe) | 3:15 |
 | 968 | [Adventure](https://open.spotify.com/track/1YqR8Mag5emtRydaUuGUOU) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/5zTvbrPrNsSGUXsYAAKf8E) | 2:20 |
 | 969 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 |

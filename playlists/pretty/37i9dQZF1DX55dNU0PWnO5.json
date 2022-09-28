@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 533938,
+  "num_followers": 533969,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDI2N2Q5YzYxYjlhMDBmMWIzZDQ0YmQ5N2FiZDk3M2U2",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDVmNzFlOTNlYzI5MjQ3YjA5MDU0MzVmZGUwZmMyMjg0",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7"
     },
     {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dr. T",
@@ -555,22 +571,6 @@
       "duration_ms": 153428,
       "name": "Dr. T",
       "url": "https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Come Out and Play",
-        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
-      },
-      "artists": [
-        {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "RED PILL",
@@ -675,6 +659,22 @@
       "duration_ms": 161495,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -749,26 +749,6 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Inner Peace",
-        "url": "https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "Natty Reeves",
-          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Inner Peace",
-      "url": "https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -803,6 +783,26 @@
       "duration_ms": 131161,
       "name": "Princess Meadow (Morning)",
       "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "Natty Reeves",
+          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Kick Snare Cat",
@@ -949,6 +965,22 @@
       "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
+    },
+    {
       "added_at": "2022-07-05 15:03:47",
       "album": {
         "name": "Elegua",
@@ -967,38 +999,6 @@
       "duration_ms": 148500,
       "name": "Elegua",
       "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1097,20 +1097,24 @@
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "Ancient Delta",
-        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
+        "name": "Blue to Red (Photay Remix)",
+        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
       },
       "artists": [
         {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
         }
       ],
-      "duration_ms": 133717,
-      "name": "Ancient Delta",
-      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
+      "duration_ms": 382000,
+      "name": "Blue to Red - Photay Remix",
+      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2022-02-11 18:57:20",
@@ -1149,24 +1153,20 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Blue to Red (Photay Remix)",
-        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
+        "name": "Ancient Delta",
+        "url": "https://open.spotify.com/album/2iOdIK10OleEonLl4phDyP"
       },
       "artists": [
         {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 382000,
-      "name": "Blue to Red - Photay Remix",
-      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
+      "duration_ms": 133717,
+      "name": "Ancient Delta",
+      "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Tomorrow 1972",
-        "url": "https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG"
-      },
-      "artists": [
-        {
-          "name": "Dosh",
-          "url": "https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz"
-        }
-      ],
-      "duration_ms": 371029,
-      "name": "If U Strike Me Down",
-      "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Side Street",
@@ -1253,6 +1237,22 @@
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Tomorrow 1972",
+        "url": "https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG"
+      },
+      "artists": [
+        {
+          "name": "Dosh",
+          "url": "https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz"
+        }
+      ],
+      "duration_ms": 371029,
+      "name": "If U Strike Me Down",
+      "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
+    },
+    {
       "added_at": "2021-07-19 12:43:20",
       "album": {
         "name": "Flipside",
@@ -1271,6 +1271,22 @@
       "duration_ms": 162633,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
+    },
+    {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
       "added_at": "2021-03-26 04:44:53",
@@ -1297,42 +1313,6 @@
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
-    },
-    {
-      "added_at": "2021-02-05 05:01:00",
-      "album": {
-        "name": "The Message Continues (Mark de Clive-Lowe Remix)",
-        "url": "https://open.spotify.com/album/7viQabSxAoUHAdMngSKS0N"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Mark de Clive-Lowe",
-          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
-        }
-      ],
-      "duration_ms": 369585,
-      "name": "The Message Continues - Mark de Clive-Lowe Remix",
-      "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Uncertain",
@@ -1355,6 +1335,26 @@
       "duration_ms": 191153,
       "name": "Uncertain",
       "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"
+    },
+    {
+      "added_at": "2021-02-05 05:01:00",
+      "album": {
+        "name": "The Message Continues (Mark de Clive-Lowe Remix)",
+        "url": "https://open.spotify.com/album/7viQabSxAoUHAdMngSKS0N"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        }
+      ],
+      "duration_ms": 369585,
+      "name": "The Message Continues - Mark de Clive-Lowe Remix",
+      "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -1581,20 +1581,40 @@
       "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "PRNDL.wav",
-        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
+        "name": "Database",
+        "url": "https://open.spotify.com/album/3Wd3eSggmgWFmO0N6yuIq4"
       },
       "artists": [
         {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "Benjamin Francis",
+          "url": "https://open.spotify.com/artist/06ZjGUPQ57XGGjh4Gjqzpz"
+        },
+        {
+          "name": "Moto Fukushima",
+          "url": "https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF"
+        },
+        {
+          "name": "Magro",
+          "url": "https://open.spotify.com/artist/76cRnLzHkspLjeNgFmDn87"
         }
       ],
-      "duration_ms": 177036,
-      "name": "PRNDL.exe",
-      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
+      "duration_ms": 272955,
+      "name": "Timeline-100",
+      "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
     }
   ],
   "unique_name": "Jazztronica",

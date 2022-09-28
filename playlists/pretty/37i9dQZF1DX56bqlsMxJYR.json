@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 846285,
+  "num_followers": 846622,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDJhOTgzNTgwMGUyNmI0YTQwODU0M2Y1NDQ4ODdhNjI3",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMGJlNmQxOGRkZmE2MTI2ZjQ0YWE5ZTM5MGQ5ZmMwM2Zj",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 156666,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "B.J. Thomas",
-        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
+        "name": "The Duke Of Earl",
+        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
       "artists": [
         {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
         }
       ],
-      "duration_ms": 166520,
-      "name": "Hooked on a Feeling - Rerecorded",
-      "url": "https://open.spotify.com/track/75HYhujFXgY5ugYwT1azLC"
+      "duration_ms": 147841,
+      "name": "Duke of Earl",
+      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1467,34 +1467,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
+        "name": "B.J. Thomas",
+        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
       },
       "artists": [
         {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
         }
       ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "An American Love Story",
-        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT"
+      "duration_ms": 166520,
+      "name": "Hooked on a Feeling - Rerecorded",
+      "url": "https://open.spotify.com/track/75HYhujFXgY5ugYwT1azLC"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1511,6 +1495,22 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Maurice Williams & The Zodiacs",
+          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
+      "duration_ms": 94906,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
     }
   ],
   "unique_name": "Classic Oldies",

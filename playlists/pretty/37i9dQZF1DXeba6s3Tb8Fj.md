@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,437 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,446 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 27 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 | 28 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 |
 | 29 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
-| 30 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 |
-| 31 | [Sekou Oumarou](https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:33 |
+| 30 | [Sekou Oumarou](https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:33 |
+| 31 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 |
 | 32 | [Aratane N' Adagh](https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Adagh](https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4) | 5:12 |
 | 33 | [Tiguedimma](https://open.spotify.com/track/6TFINWC5oWjDe4emrxd6H7) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 4:36 |
 | 34 | [Karkar / Vincent](https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Kongo Magni](https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe) | 5:23 |
 | 35 | [Tamudre](https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 4:12 |
-| 36 | [Sahara](https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:03 |
-| 37 | [Dounia](https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q) | 6:20 |
+| 36 | [Dounia](https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q) | 6:20 |
+| 37 | [Sahara](https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:03 |
 | 38 | [Station Blues](https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 3:29 |
 | 39 | [Tenere wer tat zinchegh](https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 7:00 |
 | 40 | [Mississippi\-Mali Blues](https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 3:17 |
 | 41 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 |
-| 42 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
+| 42 | [Tchwa](https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:51 |
 | 43 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
-| 44 | [Fenfo](https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn) | 4:28 |
-| 45 | [C'Est Comme Ca](https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Tje Ni Mousso](https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG) | 4:40 |
-| 46 | [Tenhert](https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Imidiwan: Companions](https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL) | 5:28 |
-| 47 | [Tchwa](https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:51 |
-| 48 | [Tamalah](https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 6:40 |
+| 44 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
+| 45 | [Fenfo](https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn) | 4:28 |
+| 46 | [C'Est Comme Ca](https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Tje Ni Mousso](https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG) | 4:40 |
+| 47 | [Tamalah](https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 6:40 |
+| 48 | [Tenhert](https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Imidiwan: Companions](https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL) | 5:28 |
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGQ1OGQ5YTBkZjQyZDAyMWFhMzM0ZTUwMmVlMDNmNTk4`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDk4NTI0YzYxMmQwNmE0ZDQ0YmFhZmM0MDRkNzQ4Zjg1`

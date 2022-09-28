@@ -4,7 +4,7 @@
 
 > 125%
 
-74 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+76 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AYANO \- Speed Up](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [AYANO \(Speed Up\)](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:48 | 2022-09-09 | 2022-09-23 |
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-22 |  |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-06-09 |  |
+| [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 | 2022-09-27 |  |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 |  |
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-06-09 |  |
 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/5cC2gqSkCz9Eekqbo6i61A) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Can I Call You Tonight? \(sped\-up\)](https://open.spotify.com/album/2pFVM3bOTgNe7HsvcprNl5) | 3:30 | 2022-07-01 |  |
@@ -70,6 +71,7 @@
 | [Something Just Like This](https://open.spotify.com/track/2uEcJWvKnu205UxlYDuDMj) | [Fly By Nightcore](https://open.spotify.com/artist/5n0h7PGhxq6dC4LCWTEcMA) | [Goes Acoustic, Vol\. 1](https://open.spotify.com/album/4cg3lHoYjTEYQbsadgOFqf) | 2:38 | 2022-06-09 | 2022-07-23 |
 | [Stolen Dance \- Speed Version](https://open.spotify.com/track/58UDGnjRXZhHeeNxZYI6c5) | [Sped\-O](https://open.spotify.com/artist/41Bwy7d6vdqhuKe0Rw5wes) | [Stolen Dance \(Speed Version\)](https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F) | 4:15 | 2022-08-18 |  |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 |  |
+| [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 | 2022-09-27 |  |
 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 |  |
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-06 |  |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 |  |

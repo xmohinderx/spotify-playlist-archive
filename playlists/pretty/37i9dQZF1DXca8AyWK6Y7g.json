@@ -1,12 +1,12 @@
 {
   "description": "living life in your 250 sq ft micro apt. Cover: JVKE",
-  "num_followers": 1424333,
+  "num_followers": 1424521,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNzY5NywwMDAwMDAwMDg2YjNjODVhNWIxMTk2MDJmYmIwMGFkNzcxMGJlNmY2",
+  "snapshot_id": "MTY2MzkwNzY5NywwMDAwMDAwMDA5YjgyMGJlZWFiMmM1MjkyYWIxN2NlNjRiMWU0ZmZh",
   "tracks": [
     {
       "added_at": "2022-09-09 13:15:22",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "i can't help it",
         "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "Lychee",
         "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 192694,
       "name": "Beach Boy",
       "url": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Cherry (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 152511,
-      "name": "Cherry (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -951,18 +931,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Happening Again",
-        "url": "https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM"
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 173951,
-      "name": "Happening Again",
-      "url": "https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4"
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -999,6 +983,22 @@
       "duration_ms": 129641,
       "name": "My Sunny Day",
       "url": "https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Happening Again",
+        "url": "https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 173951,
+      "name": "Happening Again",
+      "url": "https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
-      "added_at": "2022-09-09 13:15:22",
+      "added_at": "2022-09-23 04:18:58",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p"
+        "name": "Come First",
+        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
+      "duration_ms": 132900,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1103,6 +1103,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
       },
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh"
     },
     {
-      "added_at": "2022-09-23 04:18:58",
+      "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Come First",
-        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 132900,
-      "name": "Come First",
-      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "stuck on us",
         "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 175311,
       "name": "stuck on us",
       "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "I Blame The World",
-        "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "I Blame The World",
-      "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Leave It On The Dancefloor",
         "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "I Blame The World",
+        "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "I Blame The World",
+      "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
@@ -1419,38 +1419,6 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "IDK SH!T",
-        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "IDK SH!T",
-      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Antsy",
-        "url": "https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 150854,
-      "name": "Antsy",
-      "url": "https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1475,6 +1443,42 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Antsy",
+        "url": "https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 150854,
+      "name": "Antsy",
+      "url": "https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "next door (feat. ASTN)",
+        "url": "https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        },
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 208313,
+      "name": "next door (feat. ASTN)",
+      "url": "https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "pl4yg1rl",
         "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
       },
@@ -1487,6 +1491,38 @@
       "duration_ms": 159493,
       "name": "pl4yg1rl",
       "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "IDK SH!T",
+        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "IDK SH!T",
+      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Cdbaby<3",
+        "url": "https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Cdbaby<3",
+      "url": "https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1519,22 +1555,6 @@
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Cdbaby<3",
-        "url": "https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Cdbaby<3",
-      "url": "https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1619,26 +1639,6 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "next door (feat. ASTN)",
-        "url": "https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        },
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 208313,
-      "name": "next door (feat. ASTN)",
-      "url": "https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1769,6 +1769,22 @@
       "url": "https://open.spotify.com/track/7JmxTYEbTKlKMqtWhlw8DT"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Chapter 1: Things We're Not Saying",
+        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "duration_ms": 154606,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
+    },
+    {
       "added_at": "2022-09-09 13:15:22",
       "album": {
         "name": "Bleach",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG"
-      },
-      "artists": [
-        {
-          "name": "Daisy the Great",
-          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "let's run away",
         "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1939,22 +1955,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "How Do I Lose You",
-        "url": "https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO"
-      },
-      "artists": [
-        {
-          "name": "ella jane",
-          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
-        }
-      ],
-      "duration_ms": 182375,
-      "name": "How Do I Lose You",
-      "url": "https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Sex In Public",
         "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
       },
@@ -1969,20 +1969,20 @@
       "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Chapter 1: Things We're Not Saying",
-        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
+        "name": "How Do I Lose You",
+        "url": "https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO"
       },
       "artists": [
         {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
         }
       ],
-      "duration_ms": 154606,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
+      "duration_ms": 182375,
+      "name": "How Do I Lose You",
+      "url": "https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -2065,22 +2065,6 @@
       "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
     },
     {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Old Her",
-        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 181574,
-      "name": "Old Her",
-      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Expiration Date",
@@ -2095,6 +2079,22 @@
       "duration_ms": 198425,
       "name": "Expiration Date",
       "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Old Her",
+        "url": "https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "duration_ms": 181574,
+      "name": "Old Her",
+      "url": "https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -2273,6 +2273,22 @@
       "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "The Ruler",
+        "url": "https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 195553,
+      "name": "The Ruler",
+      "url": "https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW"
+    },
+    {
       "added_at": "2022-09-09 13:15:22",
       "album": {
         "name": "bad things come in 3s",
@@ -2287,22 +2303,6 @@
       "duration_ms": 132000,
       "name": "survival of the littest",
       "url": "https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Run & Hide",
-        "url": "https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq"
-      },
-      "artists": [
-        {
-          "name": "Isabel Wood",
-          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
-        }
-      ],
-      "duration_ms": 180060,
-      "name": "Run & Hide",
-      "url": "https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -2321,20 +2321,20 @@
       "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "The Ruler",
-        "url": "https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx"
+        "name": "Run & Hide",
+        "url": "https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq"
       },
       "artists": [
         {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+          "name": "Isabel Wood",
+          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
         }
       ],
-      "duration_ms": 195553,
-      "name": "The Ruler",
-      "url": "https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW"
+      "duration_ms": 180060,
+      "name": "Run & Hide",
+      "url": "https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB"
     },
     {
       "added_at": "2022-09-09 13:15:22",

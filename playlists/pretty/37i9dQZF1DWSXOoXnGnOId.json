@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14166,
+  "num_followers": 14176,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDk3NjAzOWU3YTUxY2M3YmYyM2ZkMTY4ZWVlZjE2NzU5",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDAzZmExOWJjZDk5Njk3ZWMyN2UyY2RhOTViNDMxYzZm",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Strut (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189965,
-      "name": "Strut - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Burning (Snakehips Remix)",
         "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 179080,
       "name": "Burning - Snakehips Remix",
       "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Strut (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189965,
+      "name": "Strut - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Higher (feat. iann dior) [VIZE Remix]",
-        "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 151820,
-      "name": "Higher (feat. iann dior) - VIZE Remix",
-      "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Stars Align (The Remixes)",
         "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Higher (feat. iann dior) [VIZE Remix]",
+        "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Higher (feat. iann dior) - VIZE Remix",
+      "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Bad Things (Remixes)",
-        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Kaidro",
-          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
-        }
-      ],
-      "duration_ms": 282162,
-      "name": "Bad Things - Kaidro Remix",
-      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Where The Lights Are Low (TCTS Remix)",
         "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        }
+      ],
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Purple Hat (KC Lights Remix)",
         "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2255,26 +2255,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2299,26 +2279,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         },
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
         }
       ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2363,6 +2339,30 @@
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        }
+      ],
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Heavy Gamers](https://open.spotify.com/playlist/37i9dQZF1DXcOYQJYGaYjk)
 
-> For those that like it hard and heavy\. Cover: Papa Roach
+> For those that like it hard and heavy\. Cover: Motionless In White
 
-159 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/0CXUKaVOYdtwBBmW5qBSmh)
+160 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/0CXUKaVOYdtwBBmW5qBSmh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Black Honey](https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM) | 3:59 | 2022-05-12 | 2022-07-21 |
 | [Black Veins](https://open.spotify.com/track/05SIf43ERRTKeJYrxyZCSB) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Sleepless](https://open.spotify.com/album/0IKTSPKqD9EwaZ6hlbK7WH) | 5:28 | 2022-04-28 | 2022-07-29 |
 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 | 2022-04-28 |  |
-| [Blind](https://open.spotify.com/track/6IlCkH8LtFOMuuORRXMbZE) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Flawed Design](https://open.spotify.com/album/59pOP9owt8GjGJ2aTVmcHG) | 4:09 | 2022-04-28 | 2022-07-29 |
+| [Blind](https://open.spotify.com/track/6IlCkH8LtFOMuuORRXMbZE) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Flawed Design](https://open.spotify.com/album/59pOP9owt8GjGJ2aTVmcHG) | 4:09 | 2022-04-28 |  |
 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 | 2022-04-28 |  |
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-06-01 |  |
 | [Blood Moon](https://open.spotify.com/track/58WQKPZHIB4AntzOdKFTAz) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [Blood Moon](https://open.spotify.com/album/6jG3MOZV9g66en5MsTnr6u) | 3:34 | 2022-04-28 | 2022-07-29 |
@@ -123,7 +123,7 @@
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-06-16 |  |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2022-06-16 |  |
 | [Save Me](https://open.spotify.com/track/4pJM8ZZ3YIO4xOeD5k8s5P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Save Me](https://open.spotify.com/album/6LJiP6blb71XuM0Tky5MpR) | 3:43 | 2022-04-28 | 2022-07-29 |
-| [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/track/7AZkyWdzyMLHSriJ61XAln) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/album/1Na4wama079xflx3Y4vip4) | 3:48 | 2022-06-01 |  |
+| [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/track/7AZkyWdzyMLHSriJ61XAln) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Scoring The End Of The World \(feat\. Mick Gordon\)](https://open.spotify.com/album/1Na4wama079xflx3Y4vip4) | 3:48 | 2022-06-01 | 2022-09-28 |
 | [Seasick Sailor](https://open.spotify.com/track/3I1VLSWBv6R9gMGbrESodh) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Seasick Sailor](https://open.spotify.com/album/5H6eXAmScgzOpgrhioVe7e) | 3:39 | 2022-04-28 | 2022-07-29 |
 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-06-16 |  |
@@ -132,7 +132,7 @@
 | [Stay Away](https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Stay Away](https://open.spotify.com/album/6pZvlQmlxF8rmXK0xlMYgm) | 3:19 | 2022-04-28 | 2022-07-25 |
 | [STFU](https://open.spotify.com/track/1SRLP4Itr5mk2J5flHiCah) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [STFU](https://open.spotify.com/album/7vUWe8QGIF73C0Nh5ariLc) | 3:30 | 2022-04-28 | 2022-07-29 |
 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2022-04-28 |  |
-| [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 | 2022-04-28 |  |
+| [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 | 2022-04-28 | 2022-09-28 |
 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 | 2022-05-12 | 2022-07-25 |
 | [Survivor](https://open.spotify.com/track/7KIcB8DLf6lygeroA4nYMR) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [The Space Between the Shadows](https://open.spotify.com/album/4gWnScXgicxrQKRLRviZpH) | 3:20 | 2022-04-28 | 2022-07-29 |
 | [Tear It Down](https://open.spotify.com/track/6WOExhpd77CnHPESckb42p) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [We Came As Romans](https://open.spotify.com/album/2bb60qwBSPJRVW5w7hgSIX) | 3:23 | 2022-05-17 | 2022-07-06 |
@@ -155,6 +155,7 @@
 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 | 2022-04-28 | 2022-05-13 |
 | [Trapped](https://open.spotify.com/track/0COnTxJkjs9DkiIKYTXmqv) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Dark Matter](https://open.spotify.com/album/773YYuhtcxIt4wqBVnsOgk) | 3:56 | 2022-04-28 | 2022-07-23 |
 | [Uber](https://open.spotify.com/track/04iX6F51I3EVfTn3QX4Qka) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:31 | 2022-04-28 | 2022-07-29 |
+| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-27 |  |
 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 | 2022-06-16 |  |
 | [Vice Grip](https://open.spotify.com/track/2c9TM5qY2Kx330wuh4O72y) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Vice Grip](https://open.spotify.com/album/6Fdm9lHPvuB2sIFT4tmMbZ) | 4:23 | 2022-05-12 | 2022-07-28 |
 | [Victim](https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Eighteen Visions](https://open.spotify.com/album/2DZCKhA1FdFJwRSKL2cPYM) | 2:58 | 2022-04-28 | 2022-07-27 |

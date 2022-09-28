@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 170406,
+  "num_followers": 170871,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5OTM5NSwwMDAwMDAwMGNkY2FlMjUwYzYxNmRlYTk1MDZlMzEyYTNhZTBlNTcw",
+  "snapshot_id": "MTY2MzU5OTM5NSwwMDAwMDAwMGMzZGIwMmNhNDVjMTQ1ZWNmNjg1YTgxYTExZjI5Mjkw",
   "tracks": [
     {
       "added_at": "2022-09-19 14:56:35",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-19 14:56:35",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2022-09-19 14:56:35",
-      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2022-09-19 14:56:35",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
     },
     {
       "added_at": "2022-09-19 14:56:35",
@@ -719,38 +719,6 @@
     {
       "added_at": "2022-09-19 14:56:35",
       "album": {
-        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
-      },
-      "artists": [
-        {
-          "name": "Pierre Barouh",
-          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
-    },
-    {
-      "added_at": "2022-09-19 14:56:35",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
-    },
-    {
-      "added_at": "2022-09-19 14:56:35",
-      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2022-09-19 14:56:35",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
+    },
+    {
+      "added_at": "2022-09-19 14:56:35",
+      "album": {
+        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
+      },
+      "artists": [
+        {
+          "name": "Pierre Barouh",
+          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
     },
     {
       "added_at": "2022-09-19 14:56:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-19 14:56:35",
       "album": {
-        "name": "Paris Combo",
-        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "On N'a Pas Besoin",
-      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
-    },
-    {
-      "added_at": "2022-09-19 14:56:35",
-      "album": {
         "name": "Manquait Plus Qu'Ca",
         "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 155120,
       "name": "M'envoyer des fleurs",
       "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+    },
+    {
+      "added_at": "2022-09-19 14:56:35",
+      "album": {
+        "name": "Paris Combo",
+        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "On N'a Pas Besoin",
+      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
     },
     {
       "added_at": "2022-09-19 14:56:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-19 14:56:35",
       "album": {
-        "name": "Motifs",
-        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "High Low In",
-      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
-    },
-    {
-      "added_at": "2022-09-19 14:56:35",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2022-09-19 14:56:35",
+      "album": {
+        "name": "Motifs",
+        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "High Low In",
+      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
     },
     {
       "added_at": "2022-09-19 14:56:35",

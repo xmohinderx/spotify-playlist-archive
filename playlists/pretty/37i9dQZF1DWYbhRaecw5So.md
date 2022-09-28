@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 51 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 51 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 8 | [Too Late \- Damon Jee Remix](https://open.spotify.com/track/19kfGj8ZTjo9JCMaqdQrQF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal), [Winnick](https://open.spotify.com/artist/5x2crLaclWnoF5xGS7VJpX), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Too Late EP](https://open.spotify.com/album/5Br963S76W3seRN9wo3HvY) | 4:22 |
 | 9 | [Paradiesvogel](https://open.spotify.com/track/4cakjwAhq3M3kSYGs4noT2) | [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Paradiesvogel EP](https://open.spotify.com/album/4mNvGFRQZL5ouaBsIPjWoz) | 7:27 |
 | 10 | [Go](https://open.spotify.com/track/5FsRbUIHwjAF7bghHIts5Y) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Go Re Nue EP](https://open.spotify.com/album/7fNGiYxJKAG3NEjUKIaY4c) | 8:00 |
-| 11 | [The other side of Sun](https://open.spotify.com/track/1VktRnUIDrRfz124Ox1t3A) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [The Other Side of the Sun](https://open.spotify.com/album/17kLpQFnScn0Hlz2oByeQC) | 6:53 |
+| 11 | [The other side of the Sun](https://open.spotify.com/track/1VktRnUIDrRfz124Ox1t3A) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [The Other Side of the Sun](https://open.spotify.com/album/17kLpQFnScn0Hlz2oByeQC) | 6:53 |
 | 12 | [The Best Part \- Patrice Bäumel Remix](https://open.spotify.com/track/4I11eaQ6EfG6tOflYiov0a) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [The Best Part \(Remixes\)](https://open.spotify.com/album/0PoVJDMe5nPBD76a5rxapD) | 4:11 |
 | 13 | [Eternal Summer \- Marsh Remix](https://open.spotify.com/track/2IzAVhx4HugoLPob9xCnRE) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Eternal Summer \(Marsh Remix\)](https://open.spotify.com/album/3o5MUf7yKWk05I1bbMc4Xy) | 4:44 |
 | 14 | [Barbak](https://open.spotify.com/track/1byyrywgUaEytyVCLdjSxm) | [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Barbak EP](https://open.spotify.com/album/5zbwpU1RmGZOJeLQOZzRRS) | 3:44 |

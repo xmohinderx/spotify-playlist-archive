@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 276742,
+  "num_followers": 276823,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGI2NDMyNzljZjg3ZWU0MjBhNDk4MzBlZjJhNWYyYmVk",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGZiNTk2OWU2OGI5MGYwZjE0Mjk3YzIwMTQ5ZGI0NzUw",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -243,18 +243,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+        "name": "A tua ternura",
+        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
         }
       ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+      "duration_ms": 201089,
+      "name": "A tua ternura",
+      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -279,22 +283,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "A tua ternura",
-        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
       },
       "artists": [
         {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         }
       ],
-      "duration_ms": 201089,
-      "name": "A tua ternura",
-      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 218104,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Enlace de Amor",
         "url": "https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 309660,
       "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 218104,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quando o Sono Bater",
-        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 267058,
-      "name": "Quando o Sono Bater",
-      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Quando o Sono Bater",
+        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 267058,
+      "name": "Quando o Sono Bater",
+      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
-      },
-      "artists": [
-        {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
-        }
-      ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+      },
+      "artists": [
+        {
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+        }
+      ],
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Tua Morada",
-        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Tua Morada",
-      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Tua Morada",
+        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
+      },
+      "artists": [
+        {
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Tua Morada",
+      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Top 10 Celina Borges",
+        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
+      },
+      "artists": [
+        {
+          "name": "Celina Borges",
+          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "Melhor e Mais Feliz (Kolkata)",
+      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "D\u00e1-Me de Beber",
         "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 256000,
       "name": "D\u00e1-Me de Beber",
       "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Top 10 Celina Borges",
-        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
-      },
-      "artists": [
-        {
-          "name": "Celina Borges",
-          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "Melhor e Mais Feliz (Kolkata)",
-      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
     },
     {
       "added_at": "2022-09-02 03:00:00",

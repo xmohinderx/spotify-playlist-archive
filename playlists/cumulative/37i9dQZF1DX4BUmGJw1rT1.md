@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-104 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
+105 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [He Was a Friend of Mine](https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag) | 3:17 | 2022-05-25 | 2022-09-09 |
 | [Hell To Pay](https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Hell To Pay](https://open.spotify.com/album/5y6ddyAGfDYyY9vAvTfv5X) | 4:42 | 2022-05-25 | 2022-07-28 |
 | [Holding On](https://open.spotify.com/track/1vBTsqe7UyYoycO5ZCw8c1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Bad For You Baby](https://open.spotify.com/album/43izHRxuhay1bX4C8sbarC) | 3:47 | 2022-05-25 | 2022-07-21 |
+| [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 |  |
 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 | 2022-05-25 | 2022-07-29 |
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-07-08 |  |
 | [Homesick](https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Confessions](https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2) | 6:24 | 2022-05-25 |  |
@@ -78,7 +79,7 @@
 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 | 2022-05-25 | 2022-07-09 |
 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 | 2022-05-25 | 2022-07-29 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
-| [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
+| [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 | 2022-09-28 |
 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 | 2022-09-07 | 2022-09-21 |
 | [Pulling Down The Ride](https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19) | 2:40 | 2022-09-23 |  |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-07-08 | 2022-07-30 |

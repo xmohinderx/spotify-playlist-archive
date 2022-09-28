@@ -139,6 +139,24 @@
     {
       "album": {
         "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
+    },
+    {
+      "album": {
+        "name": "Baby I Am",
         "url": "https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo"
       },
       "artists": [
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 214333,
       "name": "Queen of Daytona Beach",
       "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"

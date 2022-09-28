@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 21 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 21 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 20 | [Paranoid Hands](https://open.spotify.com/track/7s0E7MQg8ius1ygr0NndJs) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:45 |
 | 21 | [Yer' Song](https://open.spotify.com/track/3ue1pNiUCSLZrND9sEEjSB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:36 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDA4OWE2ZWI3NWU4NTJiN2JjNTIwZDhiODEyYTEyOTk1Yg==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDBhZmVhZDc3NzQzZGQwZjMxYzdjYzhiZmE4NWEyNmIyYg==`

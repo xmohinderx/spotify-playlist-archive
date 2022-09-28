@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Prince
 
-87 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+88 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Unna Nenachadhum](https://open.spotify.com/track/43BSpcCWtZKt6HUZujyY6O) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 3:56 | 2022-09-05 |  |
 | [Uraiyum Theeyil](https://open.spotify.com/track/0ByGRiFZIqo2EDQhpa7k5D) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Sita Ramam \(Tamil\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6d39aZOgNwoN7dZlHvx1U9) | 2:51 | 2022-09-13 |  |
 | [Uyir Urugudhey \(From "Cobra"\)](https://open.spotify.com/track/4UKTifFM0LKxkhqyGndZHi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Uyir Urugudhey \(From "Cobra"\)](https://open.spotify.com/album/3LbtOj5clDI5QReymrDtsT) | 5:13 | 2022-07-04 |  |
+| [Vaa Maa Thendral \- From "Parole"](https://open.spotify.com/track/4YYM5FqlFhVZBwGSVIpavP) | [Rajkumar amal](https://open.spotify.com/artist/6yzVu7kXsvBwKUt3grfG0L), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Vaa Maa Thendral \(From "Parole"\)](https://open.spotify.com/album/4LbXGDAQaOFwOEhwPkt3ne) | 4:32 | 2022-09-27 |  |
 | [Vaadi Vaadi \- From "Think Originals"](https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Nicholas Samuel](https://open.spotify.com/artist/3frp84DqTsoZ8tgdgzGHqr) | [Vaadi Vaadi \(From "Think Originals"\)](https://open.spotify.com/album/7hEKTiFRftKnqTeOG19Inh) | 3:44 | 2022-06-30 |  |
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-11-29 | 2022-06-21 |
 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 | 2021-11-29 |  |

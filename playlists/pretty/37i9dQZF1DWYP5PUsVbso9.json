@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 214334,
+  "num_followers": 214425,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDIzYjY5OGUwOTk2Y2I3OTU4MDY3MDYwNzg4N2E0Yzg1",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDRmYTU1Y2JhOTYwNWNmOTE5NmRjMzYxY2EzYmM0Mzk1",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Whiskey Bent And Hell Bound",
-        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Whiskey Bent And Hell Bound",
-      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Summertime Dream",
         "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 389280,
       "name": "The Wreck of the Edmund Fitzgerald",
       "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Whiskey Bent And Hell Bound",
+        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Whiskey Bent And Hell Bound",
+      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Johnny Paycheck - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 156666,
       "name": "Take This Job and Shove It",
       "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2022-07-25 21:35:55",

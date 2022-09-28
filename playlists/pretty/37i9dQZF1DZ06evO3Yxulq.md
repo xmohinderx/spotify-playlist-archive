@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,765 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,796 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Famous For \(I Believe\) / Do It Again \(Live\) \(feat\. Jenn Johnson & Christine D'Clario\)](https://open.spotify.com/track/5fMFyClENY0poEWgJFt6Jq) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Citizen of Heaven \(Live\)](https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc) | 9:17 |
 | 50 | [En Ti Confiaré](https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Desmayes Corazón](https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg) | 5:44 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDA1ZTQ3ZDJkNzJlZWUyZWM3YjQ4OTVhNTlmNmEyN2Y3Yg==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDAxYmQ3ZGJmOTI0ODFhZTBjNmVkZTUzMzAxZDBjNjM3Ng==`

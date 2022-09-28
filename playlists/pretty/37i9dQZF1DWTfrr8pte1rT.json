@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 273307,
+  "num_followers": 273529,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDY3YTIzZjFhOTNjODU0MGU5MzkzY2ExN2RiNzY3ZTNl",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZhODJhZjkzNjI1MGQ2YzBmMDI0NGNiYWI4MmQwYzBk",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Amnesia (feat. GASHI)",
         "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 193548,
       "name": "Amnesia (feat. GASHI)",
       "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1051,26 +1051,30 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
+        "name": "1000 gecs and The Tree of Clues",
+        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         },
         {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         },
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Craig Owens",
+          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
+        },
+        {
+          "name": "Nicole Dollanganger",
+          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+      "duration_ms": 175699,
+      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
+      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1099,30 +1103,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "1000 gecs and The Tree of Clues",
-        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
         },
         {
-          "name": "Craig Owens",
-          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
-        },
-        {
-          "name": "Nicole Dollanganger",
-          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 175699,
-      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
-      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+      "duration_ms": 246400,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ"
+      },
+      "artists": [
+        {
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "INSPIRED",
         "url": "https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 183553,
       "name": "Fighting Gravity - The Forgotten Remix",
       "url": "https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ"
-      },
-      "artists": [
-        {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1413,26 +1413,6 @@
       "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Hearteater",
-        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 217394,
-      "name": "Hearteater",
-      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "cut the cable",
@@ -1451,6 +1431,26 @@
       "duration_ms": 178844,
       "name": "cut the cable",
       "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
-    },
-    {
       "added_at": "2022-07-22 08:57:27",
       "album": {
         "name": "Throne",
@@ -2091,6 +2075,22 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2401,6 +2401,46 @@
       "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Tear You Apart (feat. Aaron Gillespie)",
+        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 143180,
+      "name": "Tear You Apart (feat. Aaron Gillespie)",
+      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Raincheck",
+        "url": "https://open.spotify.com/album/2c6x9oEvqr61dvcx0sllik"
+      },
+      "artists": [
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        },
+        {
+          "name": "Cypherize",
+          "url": "https://open.spotify.com/artist/3jPCSMVzSpYMHyEGFmpxD4"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Raincheck",
+      "url": "https://open.spotify.com/track/5me55gRNFuVem7yTLiG5WL"
+    },
+    {
       "added_at": "2022-07-22 08:57:27",
       "album": {
         "name": "Satellite",
@@ -2423,22 +2463,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Tear You Apart (feat. Aaron Gillespie)",
-        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 143180,
-      "name": "Tear You Apart (feat. Aaron Gillespie)",
-      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -2479,42 +2515,6 @@
       "duration_ms": 241475,
       "name": "i don\u2019t wanna write sad songs anymore",
       "url": "https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Raincheck",
-        "url": "https://open.spotify.com/album/2c6x9oEvqr61dvcx0sllik"
-      },
-      "artists": [
-        {
-          "name": "Vastive",
-          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
-        },
-        {
-          "name": "Cypherize",
-          "url": "https://open.spotify.com/artist/3jPCSMVzSpYMHyEGFmpxD4"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Raincheck",
-      "url": "https://open.spotify.com/track/5me55gRNFuVem7yTLiG5WL"
     }
   ],
   "unique_name": "Rocktronic",

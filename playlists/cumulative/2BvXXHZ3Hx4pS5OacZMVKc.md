@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-191 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Evolution](https://open.spotify.com/track/27Jox9FmzQcLvDCdp0qcLw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Debris](https://open.spotify.com/artist/4SdjRO432fApGQp8iHbgIF), [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Evolution](https://open.spotify.com/album/2RDdelfgAcDoe7ZeAZQBSa) | 2:28 | 2022-02-03 | 2022-09-15 |
 | [Fall In Love](https://open.spotify.com/track/0sZZw0P5oaiqUflw6H1oLl) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Fall In Love](https://open.spotify.com/album/1Cq2iRmDRdb3JJsRkn1NSq) | 2:36 | 2022-03-15 |  |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 |  |
+| [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 |  |
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 |  |
 | [Fearless Pt\. II](https://open.spotify.com/track/4VZH6OfxPy1nNE7KbtVKyK) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D) | 3:14 | 2022-02-03 | 2022-09-15 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 |  |

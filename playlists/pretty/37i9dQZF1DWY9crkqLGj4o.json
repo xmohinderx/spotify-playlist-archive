@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 291713,
+  "num_followers": 291976,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzNTY2NSwwMDAwMDAwMGJmYjBiYzg5NzM0M2RiOGZhMzNkMDhlYWZkYzE1MTkw",
+  "snapshot_id": "MTY2MjEzNTY2NSwwMDAwMDAwMDQ5MTRiMjhlNjc5NDJjMTc0MTk4NzlhYjM2ZWE5N2Q1",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 343344,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2022-04-15 03:00:00",

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
 
-654 songs - 2 day 0 hr 49 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+655 songs - 2 day 0 hr 53 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 | 2021-12-17 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 |  |
-| [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-10 |  |
+| [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-10 | 2022-09-28 |
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2022-08-19 | 2022-08-27 |
 | [Ghost of a Chance](https://open.spotify.com/track/0dUAr9A37b7B61eqrbYMf2) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Ghost of a Chance](https://open.spotify.com/album/7id3eu5aclRJOOpxP4JwX6) | 4:45 | 2021-12-17 | 2022-04-29 |
 | [Ghost of Marley](https://open.spotify.com/track/7pczoeIkihynLe4VgWEQUx) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Ghost of Marley](https://open.spotify.com/album/6wENRoHkOij2hS1s8DKUOL) | 4:39 | 2021-12-17 | 2022-07-14 |
@@ -551,6 +551,7 @@
 | [The Hammer of Witches](https://open.spotify.com/track/54Zpik1kydPmySK4dnQARZ) | [Sorcerer](https://open.spotify.com/artist/2O1JmZHgbLq9ttqx0AqjVm) | [The Hammer of Witches](https://open.spotify.com/album/5yNMvmRUiuKnvzA16MuRNA) | 5:17 | 2021-12-17 | 2022-07-20 |
 | [The Heist](https://open.spotify.com/track/5eEvLYyyDHWqz4QYIhmnf6) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [The Heist](https://open.spotify.com/album/36CPcyqm6fMthJLOVX56sH) | 5:45 | 2022-03-22 | 2022-04-16 |
 | [The Inevitable End](https://open.spotify.com/track/1e77ThmggJKvG4NeRWUrLB) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [The Inevitable End](https://open.spotify.com/album/14nCqNpoBt32m822qAyCsI) | 4:32 | 2021-12-17 | 2022-07-27 |
+| [The Inmost Light](https://open.spotify.com/track/2OKcPu7AjhRK3d0M3gFpxV) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET) | [The Inmost Light](https://open.spotify.com/album/1b2YboU69bMXC2QOtjHx4b) | 3:26 | 2022-09-23 |  |
 | [The Last Battle](https://open.spotify.com/track/0HJEr0nvjQXTMeGdPnXXYs) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [The Last Battle](https://open.spotify.com/album/19H6MQPub0ae4UnQL9NXIL) | 4:36 | 2021-12-17 | 2022-06-22 |
 | [The Last in Line](https://open.spotify.com/track/6LUGAFpbYVek4rRY0G9dV0) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 5:44 | 2022-08-19 |  |
 | [The Moon](https://open.spotify.com/track/3j3QVCJXXZXfgB5sjN1TEY) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [The Moon](https://open.spotify.com/album/2iYLHZ81SJa5MY9BDjCek9) | 5:57 | 2021-12-17 | 2022-07-29 |

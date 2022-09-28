@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,477 likes - 160 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,572 likes - 160 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 54 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 |
 | 55 | [Underview](https://open.spotify.com/track/5xcgi9ta3wVzBFktltBLMo) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Underview](https://open.spotify.com/album/5CxKbJBV7cYw5ayhZWMQrN) | 1:50 |
 | 56 | [Reflect](https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Reflect](https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn) | 3:17 |
-| 57 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/3ByvvLmb9MzsZWj0YIPTPo) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 |
+| 57 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 |
 | 58 | [Aurora Borealis](https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Aurora Borealis](https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg) | 2:25 |
 | 59 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 |
 | 60 | [Je continue d'apprendre](https://open.spotify.com/track/0ts0VElEurDclsFS8FLFwA) | [Roar Martinsen](https://open.spotify.com/artist/4IWKt1IRlTbunWA0Ge9MIN) | [Je continue d'apprendre](https://open.spotify.com/album/0hBjqma2rfsY0IZEDkUZD0) | 1:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,674 likes - 141 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,718 likes - 141 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 82 | [Rifter](https://open.spotify.com/track/6yRVHH0zp9ESjgwI8IWvxc) | [Sadie](https://open.spotify.com/artist/79zEA2Ow6q9ianFKBru7lQ) | [Rifter](https://open.spotify.com/album/5ddhc36Yp6vD2EcwnOqq6h) | 3:40 |
 | 83 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 |
 | 84 | [Space Between the Bed and the Wall](https://open.spotify.com/track/0Wpls5CapHMgXgv6Xvrn0P) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Cradle](https://open.spotify.com/album/4YzM91c3bPY56P14PuyI7j) | 3:19 |
-| 85 | [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 |
+| 85 | [BLUE](https://open.spotify.com/track/1Jsrkn70ZpnAVEC7cAPrgh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:05 |
 | 86 | [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 |
 | 87 | [numb or something](https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [numb or something](https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz) | 4:07 |
 | 88 | [Spiderweb](https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:23 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 140 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 |
 | 141 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
 
-Snapshot ID: `MTY2NDIwMzczOSwwMDAwMDAwMDMyNjE2YjU4YWVmYjA4OThhZTVhYWQxMzEzZTYwZTA2`
+Snapshot ID: `MTY2NDIwMzczOSwwMDAwMDAwMDZjZDgyZWU1NGJjYWZiNGZmMWNkMzBjYzhjYTg1YWE1`

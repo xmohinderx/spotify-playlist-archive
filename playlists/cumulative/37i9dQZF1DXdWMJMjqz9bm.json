@@ -5724,6 +5724,24 @@
     },
     {
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
+    },
+    {
+      "album": {
         "name": "Seen It All",
         "url": "https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ"
       },
@@ -6875,7 +6893,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 147000,
       "name": "Tucson",
       "url": "https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT"

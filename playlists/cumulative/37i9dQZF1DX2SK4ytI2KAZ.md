@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-392 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+393 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2021-03-10 | 2022-07-29 |
 | [Hall Of Fame](https://open.spotify.com/track/5AuMmTdIsWELqlI6GmSho5) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hall Of Fame](https://open.spotify.com/album/5wTKHzsIPtoGWi3x4T9aJi) | 2:55 | 2022-03-11 | 2022-04-21 |
 | [Halloween in Summertime](https://open.spotify.com/track/3hhd4SQuN1S3w3kAxLIBRt) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [Halloween in Summertime](https://open.spotify.com/album/47D7xFMssgmGGwVVJ8m6lk) | 2:16 | 2021-03-10 | 2022-05-04 |
+| [Happy Face](https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi) | 2:49 | 2022-09-28 |  |
 | [Happy Face](https://open.spotify.com/track/1EXhThDOXJTtKRmYZ286PW) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/13NsPsyxVLcJtbt6gMpDLh) | 2:50 | 2022-03-11 | 2022-04-18 |
 | [Happy Pills](https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Happy Pills](https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1) | 3:23 | 2022-03-04 | 2022-04-20 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-09-07 | 2022-07-29 |
@@ -344,7 +345,7 @@
 | [Television](https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Television](https://open.spotify.com/album/5BjVFIuhhstr2pWVAUqxnb) | 3:06 | 2021-06-25 | 2022-07-29 |
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2022-03-09 | 2022-04-21 |
 | [The Heart of Me](https://open.spotify.com/track/4MBTPJod6j1k2mPbPaPFfH) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:59 | 2022-03-11 | 2022-04-21 |
-| [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 | 2022-05-04 |  |
+| [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 | 2022-05-04 | 2022-09-28 |
 | [The Idea of You](https://open.spotify.com/track/2q0wGZoUjHbnQsmd3J3lQf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [The Idea of You](https://open.spotify.com/album/0ISJFgFpHxZzn82nNHB1kb) | 2:58 | 2021-07-02 | 2022-07-29 |
 | [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-03-11 | 2022-07-26 |
 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 |  |

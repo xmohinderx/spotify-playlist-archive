@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-345 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+346 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
-| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 |  |
+| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 | 2022-09-28 |
 | [Anthem](https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm) | 5:42 | 2021-03-12 | 2022-07-29 |
 | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/album/4myEpnMud7cUNDPdHgfBws) | 3:20 | 2021-03-12 | 2022-07-25 |
 | [Apart](https://open.spotify.com/track/0R3zkCF1Z2hWuXpqKwIi9d) | [Nouveau Arcade](https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Cordélia](https://open.spotify.com/artist/0UhSatKKJwvaFdWEEEhhuY) | [Apart](https://open.spotify.com/album/234RumQhzektWxKjD1eZFm) | 4:08 | 2022-04-08 | 2022-04-18 |
@@ -24,6 +24,7 @@
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/3PSSHsPh9ar1bvawML5NhE) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Are You Gonna Be My Girl](https://open.spotify.com/album/7BciFlE3SZ0oqQwFk8irRv) | 3:35 | 2021-07-21 | 2022-05-31 |
 | [Army Of Me](https://open.spotify.com/track/0rh8bLXJAlI0irKiTvuQS8) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/53M85Bxmxb8t7tga0XOp6c) | 4:06 | 2021-07-21 | 2022-07-08 |
 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 | 2021-08-20 |  |
+| [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-09-27 |  |
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/51tCjB9xqCJyoe0KdqbdLr) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa) | 4:41 | 2021-03-12 | 2022-07-27 |
 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 | 2021-03-12 | 2022-08-10 |
 | [Back on the Chain Gang](https://open.spotify.com/track/5mmn8mpZ7EHZOHmuY6GYVP) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Back on the Chain Gang](https://open.spotify.com/album/3illnzxbEXmB81wVkdrXdD) | 3:51 | 2021-03-12 | 2022-04-18 |

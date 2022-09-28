@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,150 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,229 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 73 | [The Track for the Craic](https://open.spotify.com/track/2eT2QheRFkPxf4yElE0vQV) | [Socks in the Frying Pan](https://open.spotify.com/artist/2T1zXgma5xEKe7xyd08npf) | [Socks in the Frying Pan](https://open.spotify.com/album/2OH2E5ZrceCAjq32c1d6zp) | 4:36 |
 | 74 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 |
 | 75 | [Lucy Campbell's / The Flogging \(Reels\)](https://open.spotify.com/track/3REVXft7xiqwFBLhdFa1ux) | [Ciaran Tourish](https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj) | [Down the Line](https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0) | 2:32 |
-| 76 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- Remastered](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(Remastered\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 |
+| 76 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- 2022 Remaster](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(2022 Remaster\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 |
 | 77 | [Dhá Pholca Dálaigh](https://open.spotify.com/track/6QC8MC3maNNp2uHsOMxxSP) | [Brendan Begley & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/6L8DJIpiJWVhKhYX5M6Rlu) | [A Moment of Madness](https://open.spotify.com/album/43XQxNecha4Lu72o3s3W48) | 2:46 |
 | 78 | [Sean Bhean Bhocht Selection](https://open.spotify.com/track/4dKyou2FEq48lieMjUOnXN) | [MacDara Ó Raghallaigh](https://open.spotify.com/artist/38Hpd6y4WVIEYtvO4eBTB8) | [Ego Trip](https://open.spotify.com/album/71vL8VA0AnnlkZYCtFLftu) | 10:25 |
 | 79 | [The Hillsbrook Reels](https://open.spotify.com/track/68TAV3FX665WLaLG9s1LPp) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0mvalBzGImgKtH9BP71h95) | 4:18 |

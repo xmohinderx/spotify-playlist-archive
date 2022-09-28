@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 414796,
+  "num_followers": 414880,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDNmMmM1OTQ3ZjdlMWEwNjA5MjZiZjFhOTcwOTZjZDNi",
+  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDcyNmY0OWI4MzY1NzgzNTE0M2NmODc2NjYzODhmY2Vi",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 310693,
-      "name": "Looking Too Closely",
-      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Quiet, Heavy Dreams",
         "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 174255,
       "name": "Quiet, Heavy Dreams",
       "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 310693,
+      "name": "Looking Too Closely",
+      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2021-10-01 04:01:00",

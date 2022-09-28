@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-502 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+503 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 | 2022-04-01 | 2022-09-24 |
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2022-01-14 | 2022-04-21 |
 | [Illuminate](https://open.spotify.com/track/25xMfbsrHq7gZFtiGenVm9) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/3760l58qXnk6n5p7dcSSIa) | 2:20 | 2022-01-14 | 2022-07-29 |
-| [Illuminate](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/26kwSfWMnu2W5GVQ4n7obD) | 2:20 | 2022-07-22 |  |
+| [Illuminate](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/26kwSfWMnu2W5GVQ4n7obD) | 2:20 | 2022-07-22 | 2022-09-28 |
 | [Imagine](https://open.spotify.com/track/08Wzb4yEK5GVmZ8fn7gJgz) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Imagine](https://open.spotify.com/album/0Mi6vGTl4fxBJxGYRIdzFG) | 2:50 | 2022-02-18 | 2022-04-02 |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-04-01 |  |
 | [In My Heart](https://open.spotify.com/track/1lMyHtWUEPgu6dElVp4H66) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Jeiang](https://open.spotify.com/artist/0trSpa9GRQN4ruMiPXxCK8) | [In My Heart](https://open.spotify.com/album/3Tb1LRZJuvzlPav12WKCOz) | 3:04 | 2022-01-14 | 2022-07-29 |
@@ -486,6 +486,7 @@
 | [We'll Never Get Old](https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [We'll Never Get Old](https://open.spotify.com/album/7KdWPRuAcT4DS8tNeXNvgn) | 1:52 | 2022-07-01 | 2022-07-27 |
 | [We're Done](https://open.spotify.com/track/6kwfG2qIV9MKrlxwiIjDlh) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/2egvFcqSn8KO3CDj5GzdI5) | 2:59 | 2022-04-01 | 2022-07-27 |
 | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz), [DJ PRESS PLAY](https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT) | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH) | 2:40 | 2022-07-08 |  |
+| [What I Have with You](https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [What I Have with You](https://open.spotify.com/album/4oF9Rn6kXH0uYmYQrlEsK6) | 2:22 | 2022-09-23 |  |
 | [What I'd Give](https://open.spotify.com/track/5MFr2IB9u3t7nYdRL53viF) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [What I'd Give](https://open.spotify.com/album/1qxq6W6zj8YTVgJpOnBSYE) | 3:11 | 2022-01-14 |  |
 | [What I'm Looking For](https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg) | [seatime](https://open.spotify.com/artist/6hBlKREKLZnMsNIWqujJNz), [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [What I'm Looking For](https://open.spotify.com/album/7yIkwEL6vac9LYVS5GLH6z) | 2:04 | 2022-04-22 |  |
 | [Whatever You Like \- Radio Edit](https://open.spotify.com/track/200UDgTJl6xvSejJzMP6Ne) | [Dasco](https://open.spotify.com/artist/4Zv4yFnzY2v8IE2Fo0pqY8), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Whatever You Like](https://open.spotify.com/album/6ZdIp3hlkuZvNceiXKMFqg) | 2:45 | 2022-01-14 | 2022-06-05 |

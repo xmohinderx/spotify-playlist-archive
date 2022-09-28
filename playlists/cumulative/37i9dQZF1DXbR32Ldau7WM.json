@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: ELLEGARDEN",
+  "description": "The biggest rock artists in Japan right now! Cover: GLAY",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 260406,
       "name": "100\u4e071\u56de\u30e4\u30ed\u30a6",
       "url": "https://open.spotify.com/track/0hCuEC3zkzZYIhKL9vFIgT"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 204892,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
@@ -1345,6 +1345,24 @@
       "duration_ms": 243960,
       "name": "I feel free",
       "url": "https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA"
+    },
+    {
+      "album": {
+        "name": "\u51fa\u753a\u67f3\u30d1\u30e9\u30ec\u30eb\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "I Just Threw Out The Love Of My Dreams",
+      "url": "https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO"
     },
     {
       "album": {
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 243506,
       "name": "ODORO!(feat.MIHO FUKUHARA)",
       "url": "https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 286200,
       "name": "RUN RUN RUN!",
       "url": "https://open.spotify.com/track/5MhqJk2YVttkJvFKyv6ywa"
@@ -2655,6 +2673,24 @@
       "duration_ms": 197995,
       "name": "Save Yourself - Japanese Version",
       "url": "https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9"
+    },
+    {
+      "album": {
+        "name": "Say to Me",
+        "url": "https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0"
+      },
+      "artists": [
+        {
+          "name": "LOW IQ 01",
+          "url": "https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335928,
+      "name": "Say to Me",
+      "url": "https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR"
     },
     {
       "album": {
@@ -2983,7 +3019,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 243004,
       "name": "Strike It Out",
       "url": "https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu"
@@ -3289,7 +3325,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 184506,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/310g5w5TN0oMQGpkhjeclF"
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 237692,
       "name": "UGOKE",
       "url": "https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca"
@@ -3495,7 +3531,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -3567,7 +3603,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 289600,
       "name": "yoake",
       "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
@@ -3979,6 +4015,24 @@
       "duration_ms": 192915,
       "name": "\u306f\u3093\u306a\u308a\u30c9\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/2SH1HfEgtNfNjbGHV6AdHo"
+    },
+    {
+      "album": {
+        "name": "\u3084\u308a\u3059\u304e\u305f\u5929\u4f7f",
+        "url": "https://open.spotify.com/album/4MGr6NJvW4CfKPSwlwnqv1"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238893,
+      "name": "\u3084\u308a\u3059\u304e\u305f\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/7bfzD3Cd4YNk8L1Tdbs8TP"
     },
     {
       "album": {
@@ -4423,7 +4477,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 288358,
       "name": "\u30c7\u30b8\u30e3\u30c7\u30b8\u30e3\u30d6\u30fc\u30d6\u30fc",
       "url": "https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G"
@@ -5039,7 +5093,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 212076,
       "name": "\u5909\u4f53",
       "url": "https://open.spotify.com/track/2yRDyJLy07yT2pklodDix4"
@@ -5851,7 +5905,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 220145,
       "name": "\u767d\u3044\u7d19\u98db\u884c\u6a5f",
       "url": "https://open.spotify.com/track/4jzo48ABs5PnEeQFoCVmtx"
@@ -5941,7 +5995,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 246506,
       "name": "\u7dd1\u9152",
       "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
@@ -6085,7 +6139,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 265466,
       "name": "\u9583\u5149 - English ver.",
       "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"

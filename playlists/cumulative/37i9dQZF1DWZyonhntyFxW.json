@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n! \u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -67,6 +67,24 @@
       "duration_ms": 176169,
       "name": "8/8/G",
       "url": "https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7"
+    },
+    {
+      "album": {
+        "name": "Abales",
+        "url": "https://open.spotify.com/album/7rqsUMg3760eEoY4yGNFpY"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191431,
+      "name": "Abales",
+      "url": "https://open.spotify.com/track/6miyWg7etuBnEU4opRcR1d"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 174538,
       "name": "CA7BY",
       "url": "https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 125504,
       "name": "Deep",
       "url": "https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs"
@@ -459,6 +477,32 @@
       "duration_ms": 257832,
       "name": "El QOWA",
       "url": "https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj"
+    },
+    {
+      "album": {
+        "name": "El Rap Ghayarni",
+        "url": "https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/4IQSi5M2Y5x4Cy5fWtl15M"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252631,
+      "name": "El Rap Ghayarni",
+      "url": "https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn"
     },
     {
       "album": {
@@ -646,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Java",
+        "url": "https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140434,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6"
+    },
+    {
+      "album": {
         "name": "Keify Keda",
         "url": "https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq"
       },
@@ -821,7 +883,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 209490,
       "name": "Mamlaka",
       "url": "https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra"
@@ -919,7 +981,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 163200,
       "name": "Matkhafesh Yamma",
       "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
@@ -1332,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182096,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K"
+    },
+    {
+      "album": {
         "name": "TEENA",
         "url": "https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr"
       },
@@ -1471,6 +1555,24 @@
       "duration_ms": 157402,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM"
+    },
+    {
+      "album": {
+        "name": "Wasa3",
+        "url": "https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Wasa3",
+      "url": "https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk"
     },
     {
       "album": {
@@ -1684,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "\u062c\u064a\u0632\u0629",
+        "url": "https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "\u062c\u064a\u0632\u0629",
+      "url": "https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX"
+    },
+    {
+      "album": {
         "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
         "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
       },
@@ -1871,6 +1991,24 @@
       "duration_ms": 234000,
       "name": "\u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0645\u0644\u064a\u0648\u0646",
       "url": "https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr"
+    },
+    {
+      "album": {
+        "name": "\u0648\u062f\u0648",
+        "url": "https://open.spotify.com/album/5eHO358gOBVasJ6U6Qtlno"
+      },
+      "artists": [
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "\u0648\u062f\u0648",
+      "url": "https://open.spotify.com/track/2nM65NRVtWRHRz69gUHJ09"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW"

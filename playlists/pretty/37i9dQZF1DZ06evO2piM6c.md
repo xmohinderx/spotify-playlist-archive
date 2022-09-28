@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,179 likes - 45 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,263 likes - 45 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 44 | [Long Hard Road](https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:01 |
 | 45 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDA1OTgzMmQwYzRkMWEyZDE5YzQ4NjkzZmZiZmFhZDUyZA==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDBkYjQ2OTNkYTJjNGIwNGFkZDZjNDM4YjUwMjZjMGIwMw==`

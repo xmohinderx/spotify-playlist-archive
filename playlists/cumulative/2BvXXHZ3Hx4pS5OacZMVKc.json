@@ -1030,6 +1030,28 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod"
+      },
+      "artists": [
+        {
+          "name": "SouMix",
+          "url": "https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp"
+        },
+        {
+          "name": "Bromar",
+          "url": "https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129955,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl"
+    },
+    {
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 125278,
+  "num_followers": 125320,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGYyNzFiOWY1YjI0YWRhZGU0ZjU1OWM2NjhjYWEzZjAz",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGMyODk1ZTk5ZDI5MWMxY2U3YjEwOGNmYzBlNDBjZWU3",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "After the Snow",
-        "url": "https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ"
-      },
-      "artists": [
-        {
-          "name": "Modern English",
-          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 241991,
       "name": "Lola - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "After the Snow",
+        "url": "https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ"
+      },
+      "artists": [
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ"
     },
     {
       "added_at": "2021-12-16 19:14:26",

@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-269 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+270 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Haru](https://open.spotify.com/track/12mRAMsizxyLBIqiQj6Kog) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 | 2022-07-22 |  |
 | [Headlight](https://open.spotify.com/track/0sphzVqEctdSudjBFLQLEA) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 3:43 | 2022-05-11 | 2022-07-27 |
-| [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ) | 4:20 | 2022-08-12 |  |
+| [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ) | 4:20 | 2022-08-12 | 2022-09-28 |
+| [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/72quUKjITH4txudAUZKXpi) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4) | 4:20 | 2022-09-05 |  |
 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 | 2022-05-11 |  |
 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [스페이스카우보이](https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 | 2022-05-11 |  |
 | [I FEEL LOVE](https://open.spotify.com/track/0waWA2gh4t6dEBXcCHapDE) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:55 | 2022-05-11 | 2022-07-29 |

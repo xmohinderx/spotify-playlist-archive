@@ -1,33 +1,13 @@
 {
   "description": "The soundtrack to the internet. Cover: Yeat",
-  "num_followers": 1239647,
+  "num_followers": 1240236,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMjg4MCwwMDAwMDAwMDY2ZTgyMWVhM2MzOGRiMmY4MzM5NTAzY2E4ZWQ3MjNk",
+  "snapshot_id": "MTY2NDMxMjg2MSwwMDAwMDAwMDdiYTA2MTM4ZWI5OGEyM2M3ZWQ0MWZhZDE2NDQwNGRj",
   "tracks": [
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
-    },
     {
       "added_at": "2022-07-18 23:52:57",
       "album": {
@@ -65,22 +45,6 @@
       "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
     },
     {
-      "added_at": "2022-09-20 20:27:54",
-      "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 197147,
-      "name": "Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh"
-    },
-    {
       "added_at": "2022-09-12 19:59:46",
       "album": {
         "name": "Baby Shark",
@@ -95,6 +59,38 @@
       "duration_ms": 156059,
       "name": "Baby Shark",
       "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
+    {
+      "added_at": "2022-09-20 20:27:54",
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 197147,
+      "name": "Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh"
     },
     {
       "added_at": "2022-08-31 03:13:57",
@@ -181,6 +177,22 @@
       "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
     },
     {
+      "added_at": "2022-09-27 21:07:41",
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "COINCIDENCE",
+      "url": "https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "WORLD DAMINATION",
@@ -233,20 +245,40 @@
       "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
     },
     {
-      "added_at": "2022-09-02 09:10:00",
+      "added_at": "2022-09-27 21:07:41",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+        "name": "Bane",
+        "url": "https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 140831,
+      "name": "Bane",
+      "url": "https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
       },
       "artists": [
         {
           "name": "Yeat",
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+      "duration_ms": 176124,
+      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
     },
     {
       "added_at": "2022-09-23 08:48:00",
@@ -1363,22 +1395,6 @@
     {
       "added_at": "2022-06-17 17:10:01",
       "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
         "name": "Walkin (Key Glock remix)",
         "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
       },
@@ -1531,30 +1547,6 @@
       "duration_ms": 152166,
       "name": "Certified Dripper",
       "url": "https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "CECE",
-        "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
-      },
-      "artists": [
-        {
-          "name": "indie tribe",
-          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 142782,
-      "name": "CECE",
-      "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
     },
     {
       "added_at": "2022-06-17 17:10:01",

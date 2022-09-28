@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 26351,
+  "num_followers": 26413,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0Nzk2NywwMDAwMDAwMDI3ZDkwZWJlNjQ3YmJkMGE1MmEzZmJkZjM3M2IzOWM5",
+  "snapshot_id": "MTY2Mzk0Nzk2NywwMDAwMDAwMDlhNGYzMjgwNzFlNDY3MjUxNTQ1ODBlODUzMmZjZmY5",
   "tracks": [
     {
       "added_at": "2022-09-23 15:46:07",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-23 15:46:07",
       "album": {
+        "name": "Cadillac Walk (Demo)",
+        "url": "https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 275053,
+      "name": "Cadillac Walk - Demo",
+      "url": "https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp"
+    },
+    {
+      "added_at": "2022-09-23 15:46:07",
+      "album": {
         "name": "Leave This House",
         "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 236543,
       "name": "Baby We're Through",
       "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
-    },
-    {
-      "added_at": "2022-09-23 15:46:07",
-      "album": {
-        "name": "Cadillac Walk (Demo)",
-        "url": "https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 275053,
-      "name": "Cadillac Walk - Demo",
-      "url": "https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp"
     },
     {
       "added_at": "2022-09-23 15:46:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-23 15:46:07",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
-    },
-    {
-      "added_at": "2022-09-23 15:46:07",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-09-23 15:46:07",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": "2022-09-23 15:46:07",
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-09-23 15:46:07",
       "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+    },
+    {
+      "added_at": "2022-09-23 15:46:07",
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
+    },
+    {
+      "added_at": "2022-09-23 15:46:07",
+      "album": {
+        "name": "Rumpshaker",
+        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Rumpshaker",
+      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
     },
     {
       "added_at": "2022-09-23 15:46:07",
@@ -803,22 +819,6 @@
       "duration_ms": 265386,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
-    },
-    {
-      "added_at": "2022-09-23 15:46:07",
-      "album": {
-        "name": "The Very Best of Wilson Pickett",
-        "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
     }
   ],
   "unique_name": "Upbeat Blues",

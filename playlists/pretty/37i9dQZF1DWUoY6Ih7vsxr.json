@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 158813,
+  "num_followers": 158971,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDM1MzI3NywwMDAwMDAwMGVjOGI3NTk5MDkyMjVmOTgzYjRiOWMyZWM1NWZkOWUw",
+  "snapshot_id": "MTY1MDM1MzI3NywwMDAwMDAwMGZjOWQwZTQxODc1NzE1MTNlNTMzZGRjYzRiNzFhZjFh",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/6RvFZkZDXEJjhniVyGADwI"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Because of you",
+      "url": "https://open.spotify.com/track/5liz7gUkM2OPy8TIDqVa1F"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 205875,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/6CtYW6EWGMbfe96eqwCThq"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
-        "name": "Because of You",
-        "url": "https://open.spotify.com/album/6RvFZkZDXEJjhniVyGADwI"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Because of you",
-      "url": "https://open.spotify.com/track/5liz7gUkM2OPy8TIDqVa1F"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "O-\u6b63.\u53cd.\u5408. - The 3rd Album",
-        "url": "https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee"
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 229413,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/4Q8XZAsvHH5wCPisKMisH5"
+      "duration_ms": 228960,
+      "name": "HUG",
+      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
+        "name": "O-\u6b63.\u53cd.\u5408. - The 3rd Album",
+        "url": "https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 228960,
-      "name": "HUG",
-      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
+      "duration_ms": 229413,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/4Q8XZAsvHH5wCPisKMisH5"
     },
     {
       "added_at": "2022-04-19 07:27:57",

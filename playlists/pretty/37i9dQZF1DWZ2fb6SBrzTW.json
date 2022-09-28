@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 6427,
+  "num_followers": 6449,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDk4MCwwMDAwMDAwMDRmMDA0NmYyMzc1MGFkODMzMDE0YTE2NWY5MmZmNzE5",
+  "snapshot_id": "MTY2MzkxNDk4MCwwMDAwMDAwMDM2YzVjMmVmNWE1OWUwMTA0OWE0ZGI0ZGMzZGE4MDJi",
   "tracks": [
     {
       "added_at": "2022-08-26 13:01:27",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
+      "added_at": "2022-09-19 07:27:22",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
       "added_at": "2022-09-09 09:20:13",
       "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
@@ -151,22 +167,6 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
-    },
-    {
-      "added_at": "2022-09-19 07:27:22",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -281,6 +281,26 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -353,34 +373,6 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Usenemali",
@@ -433,6 +425,50 @@
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "added_at": "2022-09-09 09:20:13",
+      "album": {
+        "name": "GIDIGBA (FIRM & STRONG)",
+        "url": "https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 173993,
+      "name": "GIDIGBA (FIRM & STRONG)",
+      "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
+    },
+    {
       "added_at": "2022-08-05 07:44:31",
       "album": {
         "name": "In Da Car",
@@ -451,22 +487,6 @@
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
-    },
-    {
-      "added_at": "2022-09-09 09:20:13",
-      "album": {
-        "name": "GIDIGBA (FIRM & STRONG)",
-        "url": "https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 173993,
-      "name": "GIDIGBA (FIRM & STRONG)",
-      "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
     },
     {
       "added_at": "2022-07-04 07:22:23",
@@ -621,6 +641,22 @@
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",
@@ -651,22 +687,6 @@
       "duration_ms": 479916,
       "name": "Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",
       "url": "https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
     },
     {
       "added_at": "2022-04-18 06:23:32",
@@ -849,6 +869,26 @@
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
+      "added_at": "2022-04-22 06:09:21",
+      "album": {
+        "name": "Kilometer (Remix)",
+        "url": "https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Kilometer - Remix",
+      "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
+    },
+    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Banyana Ke Bafana",
@@ -879,26 +919,6 @@
       "duration_ms": 274153,
       "name": "Banyana Ke Bafana",
       "url": "https://open.spotify.com/track/40KwdYRfKnTWTsXyxmR5bp"
-    },
-    {
-      "added_at": "2022-04-22 06:09:21",
-      "album": {
-        "name": "Kilometer (Remix)",
-        "url": "https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Kilometer - Remix",
-      "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
     },
     {
       "added_at": "2022-07-22 04:29:24",
@@ -935,22 +955,6 @@
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "palazzo",
-        "url": "https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB"
-      },
-      "artists": [
-        {
-          "name": "Rodi0",
-          "url": "https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5"
-        }
-      ],
-      "duration_ms": 186003,
-      "name": "palazzo",
-      "url": "https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -1037,22 +1041,6 @@
       "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "Ronaldo",
-        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Ronaldo",
-      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
-    },
-    {
       "added_at": "2022-08-08 04:43:58",
       "album": {
         "name": "Machala",
@@ -1073,28 +1061,20 @@
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
+      "added_at": "2022-05-26 23:00:00",
       "album": {
-        "name": "Lock That Door",
-        "url": "https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx"
+        "name": "Ronaldo",
+        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
       },
       "artists": [
         {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
-        },
-        {
-          "name": "Bartofso",
-          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
-        },
-        {
-          "name": "Positivv",
-          "url": "https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Lock That Door",
-      "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
+      "duration_ms": 169960,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -1131,6 +1111,30 @@
       "duration_ms": 157773,
       "name": "Fvck Off",
       "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Lock That Door",
+        "url": "https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx"
+      },
+      "artists": [
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Positivv",
+          "url": "https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Lock That Door",
+      "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
     },
     {
       "added_at": "2022-06-16 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 99846,
+  "num_followers": 99952,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY3NzQ0MywwMDAwMDAwMGNjZWUwZjBjNjdlZTEzNTIxNTVlMGZkZjZiYjgxYTVj",
+  "snapshot_id": "MTY2MzY3NzQ0MywwMDAwMDAwMGU4MmZiMTE4YThmNDBkM2E0NTY5ZGM2MzYzYTJjY2Y0",
   "tracks": [
     {
       "added_at": "2022-09-20 12:37:23",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 196185,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "LOVE QUANTUM",
         "url": "https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 190026,
       "name": "SOMETHIN' (feat. Ego Ella May)",
       "url": "https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 196185,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Rogue",
         "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "This Is Not Jazz",
         "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "The Composers' Voice: Celebrating Australian Women Composers",
-        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
-      },
-      "artists": [
-        {
-          "name": "Elly Hoyt",
-          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "It's Complicated",
         "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "The Composers' Voice: Celebrating Australian Women Composers",
+        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
+      },
+      "artists": [
+        {
+          "name": "Elly Hoyt",
+          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "My Soul Kitchen",
         "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Infant Eyes (Edit)",
+        "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
+      },
+      "artists": [
+        {
+          "name": "Jamael Dean",
+          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
+        },
+        {
+          "name": "Sharada Shashidhar",
+          "url": "https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq"
+        }
+      ],
+      "duration_ms": 389983,
+      "name": "Infant Eyes - Edit",
+      "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "A Voice",
         "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 230880,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
-        "name": "Infant Eyes (Edit)",
-        "url": "https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd"
-      },
-      "artists": [
-        {
-          "name": "Jamael Dean",
-          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
-        },
-        {
-          "name": "Sharada Shashidhar",
-          "url": "https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq"
-        }
-      ],
-      "duration_ms": 389983,
-      "name": "Infant Eyes - Edit",
-      "url": "https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "Humanit\u00e9",
         "url": "https://open.spotify.com/album/3TrSOfTnxrJb9auo2MhiQi"
       },
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
-      },
-      "artists": [
-        {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
       },
       "artists": [
         {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
         }
       ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1475,34 +1475,34 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
       "artists": [
         {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+          "name": "Untitled",
+          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
         }
       ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
       },
       "artists": [
         {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
         }
       ],
-      "duration_ms": 295560,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1523,34 +1523,18 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
       "artists": [
         {
-          "name": "Untitled",
-          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
         }
       ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+      "duration_ms": 295560,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1567,6 +1551,22 @@
       "duration_ms": 148000,
       "name": "Gin & Jazz",
       "url": "https://open.spotify.com/track/2x8CeYZEcidanPDrtlbh6T"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+        "name": "Something to Celebrate",
+        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
       },
       "artists": [
         {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+          "name": "Kristin Korb",
+          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+      "duration_ms": 182080,
+      "name": "Something to Celebrate",
+      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Something to Celebrate",
-        "url": "https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD"
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
       "artists": [
         {
-          "name": "Kristin Korb",
-          "url": "https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN"
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Something to Celebrate",
-      "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Free Afternoon",
         "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 233013,
       "name": "A Better One for You",
       "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Humphrey and Me",
         "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 267355,
       "name": "Humphrey and me",
       "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Alone With My Faith",
-        "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Benevolent Man",
-      "url": "https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "Alone With My Faith",
+        "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Benevolent Man",
+      "url": "https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "The Revolution of Me",
-        "url": "https://open.spotify.com/album/7lrFoIBeZqBBguaeZBxqHn"
-      },
-      "artists": [
-        {
-          "name": "Aden Ray",
-          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Made Me Cry",
-      "url": "https://open.spotify.com/track/6yzwqS4gK9tYfkHeZy9IBS"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Changing Lanes (from \"The Publicist\")",
         "url": "https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 199408,
       "name": "Changing Lanes (from \"The Publicist\")",
       "url": "https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "The Revolution of Me",
+        "url": "https://open.spotify.com/album/7lrFoIBeZqBBguaeZBxqHn"
+      },
+      "artists": [
+        {
+          "name": "Aden Ray",
+          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Made Me Cry",
+      "url": "https://open.spotify.com/track/6yzwqS4gK9tYfkHeZy9IBS"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Flights of Imagination",
-        "url": "https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc"
-      },
-      "artists": [
-        {
-          "name": "Duara",
-          "url": "https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF"
-        }
-      ],
-      "duration_ms": 195601,
-      "name": "And Time Froze",
-      "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Fly Again",
         "url": "https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 201101,
       "name": "Fly Again",
       "url": "https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "Flights of Imagination",
+        "url": "https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc"
+      },
+      "artists": [
+        {
+          "name": "Duara",
+          "url": "https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF"
+        }
+      ],
+      "duration_ms": 195601,
+      "name": "And Time Froze",
+      "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
     },
     {
       "added_at": "2022-09-20 12:37:23",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2022-09-20 12:37:23",
       "album": {
-        "name": "Heaven's King",
-        "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
-      },
-      "artists": [
-        {
-          "name": "Imprint Worship",
-          "url": "https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV"
-        }
-      ],
-      "duration_ms": 215352,
-      "name": "Heaven's King",
-      "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
-    },
-    {
-      "added_at": "2022-09-20 12:37:23",
-      "album": {
         "name": "Love Rushes Past",
         "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 160629,
       "name": "The Light",
       "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
+    },
+    {
+      "added_at": "2022-09-20 12:37:23",
+      "album": {
+        "name": "Heaven's King",
+        "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
+      },
+      "artists": [
+        {
+          "name": "Imprint Worship",
+          "url": "https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Heaven's King",
+      "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
     },
     {
       "added_at": "2022-09-20 12:37:23",

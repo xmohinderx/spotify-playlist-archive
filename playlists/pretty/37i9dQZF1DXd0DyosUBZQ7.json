@@ -1,12 +1,12 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 392814,
+  "num_followers": 393078,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzI5NCwwMDAwMDAwMGFhZDA4Mzk2YjQ0YTY1NzJlMzc1OWY0NjA5ZmEyZGIx",
+  "snapshot_id": "MTY2MTc4MzI5NCwwMDAwMDAwMGJlNjc5Y2YzZjdkNTZkMjMyMjkzYWU5ODU3NTQxMDBj",
   "tracks": [
     {
       "added_at": "2022-05-13 15:55:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-13 15:55:01",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Stickwitu",
-      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
-    },
-    {
-      "added_at": "2022-05-13 15:55:01",
-      "album": {
         "name": "Shades of Purple",
         "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 279240,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
+    },
+    {
+      "added_at": "2022-05-13 15:55:01",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Stickwitu",
+      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
     },
     {
       "added_at": "2022-05-13 15:55:01",

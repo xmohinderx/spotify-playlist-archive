@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Kid Kapichi
 
-819 songs - 1 day 19 hr 47 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+820 songs - 1 day 19 hr 50 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Lowlights](https://open.spotify.com/track/3yHxDkhtm3rG65aqxr8c7J) | [Jordan Brooker](https://open.spotify.com/artist/7MhkhYdulwE1sjZ8K3bucH) | [Lowlights](https://open.spotify.com/album/24ZCL5fp7r95vEhZAsFNzY) | 2:37 | 2021-11-19 | 2022-01-15 |
 | [LUCID DREAMS](https://open.spotify.com/track/1H0XfvZWmlvc0QICpv4pwE) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [LUCID DREAMS](https://open.spotify.com/album/4mcweAHG1kEJ3o5LTBhEYs) | 2:50 | 2021-12-10 | 2022-01-06 |
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2021-11-19 | 2022-01-22 |
+| [LUNGS BURN](https://open.spotify.com/track/2jcfKcZHakkkskt5huwKAi) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [LUNGS BURN](https://open.spotify.com/album/0UnXhiBWUUA8Tv3oln4Yy3) | 2:38 | 2022-09-27 |  |
 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-08-26 |  |
 | [Mad](https://open.spotify.com/track/6L2wx7oLfn9AtobFzvTqRS) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Mad](https://open.spotify.com/album/3wYu3GWgkhhBkBmNZTSseN) | 3:28 | 2022-03-11 | 2022-04-29 |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-22 | 2022-06-25 |

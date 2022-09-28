@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 138810,
+  "num_followers": 138833,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDg2ZmJlYTYzZjRiYTllYjNkN2VjNjZkNmVkOTA2Mjhm",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDBhYTA0MWQ1NmE5NzdiYjlhMDczZTAxZWMwZThiM2Ez",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Mr. New Orleans",
         "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 175600,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Michael White",
-          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Ultimate Mardi Gras",
-        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
       "artists": [
         {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Mardi Gras In New Orleans",
-      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -631,6 +615,22 @@
       "duration_ms": 145841,
       "name": "Lord, Lord, Lord",
       "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Great Chicago Concert 1956 - Complete",
+        "url": "https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "Do You Know What It Means to Miss New Orleans - Live",
+      "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz In Hi-Fi",
         "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
       },
@@ -727,38 +743,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Great Chicago Concert 1956 - Complete",
-        "url": "https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q"
+        "name": "Back to My Roots",
+        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
         }
       ],
-      "duration_ms": 306906,
-      "name": "Do You Know What It Means to Miss New Orleans - Live",
-      "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Shout - The Complete Victor Recordings, Vol. 2",
-        "url": "https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY"
-      },
-      "artists": [
-        {
-          "name": "King Oliver",
-          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
-        },
-        {
-          "name": "King Oliver Orchestra",
-          "url": "https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Don't You Think I Love You",
-      "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
+      "duration_ms": 254885,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -779,18 +775,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Back to My Roots",
-        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
+        "name": "New Orleans Shout - The Complete Victor Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY"
       },
       "artists": [
         {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "King Oliver Orchestra",
+          "url": "https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM"
         }
       ],
-      "duration_ms": 254885,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+      "duration_ms": 168440,
+      "name": "Don't You Think I Love You",
+      "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
     },
     {
       "added_at": "2021-04-26 16:53:52",

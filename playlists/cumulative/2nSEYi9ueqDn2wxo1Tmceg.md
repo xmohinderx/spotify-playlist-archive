@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-176 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+178 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [I Saw You](https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO) | 3:05 | 2022-06-17 | 2022-08-11 |
 | [I'm Better](https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [I'm Better](https://open.spotify.com/album/1sYWSth05IlhsuOSR9SmmE) | 2:41 | 2022-06-08 | 2022-07-21 |
 | [I'm Yours Baby](https://open.spotify.com/track/1MDnq89tyEoVGtwSnASJin) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Sincere](https://open.spotify.com/album/2wfDR4Efo4EpwyMAR40sk3) | 4:34 | 2022-06-08 | 2022-06-17 |
+| [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-27 |  |
 | [In Sensitivity](https://open.spotify.com/track/7gN1ZoWIhwjp3SMn1VeNvW) | [Puppy Angst](https://open.spotify.com/artist/6gcwvxzC1d3LEg8selJn31) | [In Sensitivity](https://open.spotify.com/album/4P4aVTwG7B6mO7w3G6qnXq) | 3:03 | 2022-09-14 |  |
 | [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 | 2022-06-28 | 2022-08-11 |
 | [Isn't It Lovely](https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:25 | 2022-06-22 | 2022-08-04 |
@@ -116,6 +117,7 @@
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 | 2022-09-22 |
 | [Night Walk](https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Night Walk](https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU) | 4:49 | 2022-09-21 |  |
+| [Norfolk Hotel](https://open.spotify.com/track/2OhAqX7sDaxpE23yAF3nYJ) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/3OyYu4vdYFTIS0iseUKGfx) | 4:34 | 2022-09-27 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-06-08 | 2022-07-14 |
 | [Only in America: It Feels Like This](https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Only in America](https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh) | 4:28 | 2022-08-16 |  |
 | [Optimistic](https://open.spotify.com/track/4jJAMHQWkAQ57Eyuxn0Qi3) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [kimdollars1](https://open.spotify.com/artist/6fePUvIaJB7SLeOeGapoS5) | [Optimistic](https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg) | 4:55 | 2022-08-10 | 2022-09-22 |

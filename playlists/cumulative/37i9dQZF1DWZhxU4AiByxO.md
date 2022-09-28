@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-229 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+233 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Closer](https://open.spotify.com/track/2yHbz21uTypbfv0CCQnfGW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 3:31 | 2022-07-28 |  |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-10 |  |
 | [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-08-10 |  |
+| [Coming Out of the Dark](https://open.spotify.com/track/00kR62ndRz8GMrcULgxoze) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Coming Out Of The Dark](https://open.spotify.com/album/6YiN0lVcpxK9OUnEgbHvo4) | 2:53 | 2022-09-27 |  |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-29 |  |
 | [Con Altura](https://open.spotify.com/track/21wShvRGwZ3V12W786LplP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Con Altura](https://open.spotify.com/album/3GsSaZnRS5U0IMvZmHNQ5d) | 2:32 | 2021-10-22 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-22 |  |
@@ -156,6 +157,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/6tznrNL9mL4Rxblx0RFFfr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Overpass Graffiti](https://open.spotify.com/album/6aiy2bxse7lzWxKSvRnk17) | 3:33 | 2022-03-29 |  |
 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 | 2021-10-22 |  |
 | [Peppermint Twist](https://open.spotify.com/track/5PpVetS87mgjvmKVF7gv9d) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Peppermint Twist](https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka) | 1:58 | 2022-08-10 |  |
+| [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-09-27 |  |
 | [Queen of Mean](https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 3 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy) | 3:09 | 2021-10-22 |  |
 | [Rain On Me](https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Rain On Me](https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV) | 3:04 | 2021-10-22 |  |
 | [Ride \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/6KZYD8mbuJJJpXjpDqmmbT) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 4:03 | 2021-10-22 |  |
@@ -175,6 +177,7 @@
 | [Shake It Off](https://open.spotify.com/track/1p52mBoILwvouXvCie1c3q) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 3:28 | 2021-10-22 | 2022-07-29 |
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/5zuetjtTslM9aMxOW2YuZX) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/1u5IYqAKm5gtWTamjNb2fV) | 2:09 | 2022-07-28 |  |
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/6VGrDeWDhgVlyljWdEFT9r) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/5egjjgQRGPToUC8t15Bfzq) | 2:09 | 2021-10-22 | 2022-07-29 |
+| [Shivers \- 2022](https://open.spotify.com/track/7zYvSfOGJaRRhlAVFI80p3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 3:12 | 2022-09-27 |  |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-22 |  |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-22 |  |
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2021-10-22 |  |
@@ -185,6 +188,7 @@
 | [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2022-07-28 |  |
 | [Sorry](https://open.spotify.com/track/1dv3nDyEFjfdfWyfmBTzXl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 31](https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42) | 3:02 | 2022-07-28 |  |
 | [Sorry](https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 31](https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s) | 3:02 | 2021-10-22 | 2022-07-29 |
+| [Space Man](https://open.spotify.com/track/0ZVywlfqhy99dH23L1ooGH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Space Man](https://open.spotify.com/album/4Otl5659qt6UgARdJ9Apdc) | 3:27 | 2022-09-27 |  |
 | [Stay](https://open.spotify.com/track/0umeqMZWcRshOw5w2E73h8) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Stay](https://open.spotify.com/album/3ChCPGsFqCuHZEicrWUgfa) | 2:18 | 2022-07-28 |  |
 | [Stay](https://open.spotify.com/track/4joUTI5vAE26hOpmuSLVOG) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Stay](https://open.spotify.com/album/51Y09yQrrFXFwYJYmzanXz) | 2:18 | 2021-10-22 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/3mR9m0eFdErCrq0UUPA1uF) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Sucker](https://open.spotify.com/album/1498yTafVDyZjvr7UCr3j2) | 3:02 | 2021-10-22 | 2022-07-29 |

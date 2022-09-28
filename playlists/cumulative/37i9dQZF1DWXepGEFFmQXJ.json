@@ -786,6 +786,32 @@
     },
     {
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Mitch Tambo",
+          "url": "https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W"
+        },
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251463,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
+    },
+    {
+      "album": {
         "name": "COUNTRY BOYS",
         "url": "https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3"
       },

@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-397 songs - 1 day 4 hr 6 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+398 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Headhunter V1.0](https://open.spotify.com/track/65TPre8PWZmmoPzLm15wjK) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/0BkDxAFzIc9lWwRVGQjWid) | 5:02 | 2018-12-12 | 2022-04-19 |
 | [Heartache Avenue](https://open.spotify.com/track/4sUsKsKD56QEixq7wyeMHN) | [The Maisonettes](https://open.spotify.com/artist/4oPf8z5ISQIxTGI6gAgfvH) | [Heartache Avenue: The Very Best Of The Maisonettes](https://open.spotify.com/album/7vv4BG0YlgBcmzeyoWWnPV) | 2:56 | 2019-08-01 | 2022-07-29 |
 | [Hearts and Minds](https://open.spotify.com/track/0JwTpF08MPJ56EXZ95BJAt) | [Nitzer Ebb](https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f) | [Belief](https://open.spotify.com/album/4hyPZs0cTC25UUI5GzgiWy) | 3:46 | 2019-08-07 | 2022-04-21 |
+| [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2022-09-27 |  |
 | [Help You Ann](https://open.spotify.com/track/22zOTz6PaXcvCUqFz6yFC6) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 2:30 | 2020-05-06 | 2022-07-12 |
 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/10X1RP2I6DL8Q0xs2FfImV) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch](https://open.spotify.com/album/4m9XbflfyP66irnWo3hwZs) | 4:54 | 2018-12-12 | 2022-07-29 |
 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch \(Reissue \- Deluxe Edition\)](https://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB) | 4:54 | 2018-12-12 |  |
@@ -222,7 +223,7 @@
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-08-31 |  |
 | [My Spine Is The Bassline](https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Disco Not Disco Digital Edition](https://open.spotify.com/album/3mw4x6EP6OEl2ypn7iHmGa) | 4:01 | 2018-12-12 | 2022-07-29 |
 | [N.I.T.A.](https://open.spotify.com/track/5K97YR5NWP2H88mQ4p8JlH) | [Young Marble Giants](https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH) | [Colossal Youth](https://open.spotify.com/album/5wxOkqHT4xGadN56TAzF09) | 3:31 | 2018-12-12 | 2022-04-19 |
-| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 |  |
+| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 | 2022-09-28 |
 | [Nellie The Elephant](https://open.spotify.com/track/4YFtztmFu4Kq2CBPKL2qC3) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/2uYraKzm3H1btz5VajleOj) | 3:27 | 2018-12-12 | 2022-05-31 |
 | [Never Let Me Down Again](https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:48 | 2020-01-07 | 2022-07-29 |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2020-01-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 11141,
+  "num_followers": 11159,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTg2NCwwMDAwMDAwMGE1N2EzMmMwNjFlZDIxOGE0YzQyZDM1ZjMzZDI2OWQ3",
+  "snapshot_id": "MTY2MzMxNTg2NCwwMDAwMDAwMGVkOWNiZTVhODRjMGY2ZTU5M2ExZjZhMTlkNmRhZGEz",
   "tracks": [
     {
       "added_at": "2022-09-16 08:11:04",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
       "artists": [
         {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
         }
       ],
-      "duration_ms": 257440,
-      "name": "Moon Over Cuba",
-      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -687,22 +703,6 @@
       "duration_ms": 261066,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
         "name": "Jazz Loves Paris",
         "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 146306,
       "name": "Pigalle",
       "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
-      },
-      "artists": [
-        {
-          "name": "The Chet Baker Sextet",
-          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
-        }
-      ],
-      "duration_ms": 285620,
-      "name": "Little Man You've Had a Busy Day",
-      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
         "name": "The Essential Dave Brubeck",
         "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 410800,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
+      },
+      "artists": [
+        {
+          "name": "The Chet Baker Sextet",
+          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
+        }
+      ],
+      "duration_ms": 285620,
+      "name": "Little Man You've Had a Busy Day",
+      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
     },
     {
       "added_at": "2022-09-16 08:11:04",

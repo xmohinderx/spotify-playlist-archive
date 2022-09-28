@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bong \(Indonesia\)
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bongs \(Indonesia\)
 
 396 songs - 23 hr 46 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 

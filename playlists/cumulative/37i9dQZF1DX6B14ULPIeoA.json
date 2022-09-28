@@ -1360,6 +1360,56 @@
     },
     {
       "album": {
+        "name": "Mariachi: Mi Nombre Es M\u00e9xico",
+        "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
+      },
+      "artists": [
+        {
+          "name": "Fer Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P"
+        },
+        {
+          "name": "Adolfo Josafat Esquivel Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ"
+        },
+        {
+          "name": "Armando Esquivel Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po"
+        },
+        {
+          "name": "Juan Pablo Esquivel Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s"
+        },
+        {
+          "name": "Armando Jim\u00e9nez Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE"
+        },
+        {
+          "name": "Jorge Jim\u00e9nez Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG"
+        },
+        {
+          "name": "Rafael Guzman Navarro",
+          "url": "https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb"
+        },
+        {
+          "name": "Arnulfo Mu\u00f1oz Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC"
+        },
+        {
+          "name": "Carlos Campos Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200721,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
+    },
+    {
+      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
@@ -2803,7 +2853,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 181292,
       "name": "Se Me Olvido Otra Vez",
       "url": "https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj"

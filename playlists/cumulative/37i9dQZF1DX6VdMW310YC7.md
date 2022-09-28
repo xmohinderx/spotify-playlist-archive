@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,335 songs - 3 day 20 hr 41 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,336 songs - 3 day 20 hr 45 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [Run Away](https://open.spotify.com/track/57silVtrWHoiTZzfic9yt3) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Run Away](https://open.spotify.com/album/0rxsmh2gQI2VwJuuvGLiGN) | 3:08 | 2020-03-16 | 2020-07-18 |
 | [Run For Your Life \(Interlude\)](https://open.spotify.com/track/3X5cgqoizZxxohjeNqoL2k) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 2:22 | 2020-05-18 | 2022-04-21 |
 | [Runaway \- CS Remix](https://open.spotify.com/track/7L1N3v6DULT0wEh8JUVLpI) | [Henry Land](https://open.spotify.com/artist/04m6PNXckfHHQqDHK92NKh), [ODA](https://open.spotify.com/artist/0YwZx5vGf17WMCi6KdOt4U), [CS](https://open.spotify.com/artist/0jMeMO3jOeDhJsWbzyi0BX) | [Runaway \(Remixes\)](https://open.spotify.com/album/0o6h3NFMcYv1WWDKgXPcbu) | 3:47 | 2020-05-19 | 2020-07-03 |
+| [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-23 |  |
 | [Running Out \- Samuraii Remix](https://open.spotify.com/track/3bu38wOOaBOOf4OYi23R6a) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO) | [Running Out Remix EP](https://open.spotify.com/album/4JbiALxW6KGF20S8kfGJD2) | 2:54 | 2020-05-18 | 2020-07-18 |
 | [Ryat](https://open.spotify.com/track/7GA8fQLArH3685QEhNIwOD) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/1gJbw5p7ohUbTq0gtGxzOD) | 4:03 | 2020-05-18 | 2020-10-10 |
 | [Safe \- Joris Voorn Remix](https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Safe \(Joris Voorn Remix\)](https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L) | 4:54 | 2022-03-18 |  |
@@ -1098,7 +1099,7 @@
 | [Stay](https://open.spotify.com/track/3CPtYeDdgUqysXDpbEABFb) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Moments](https://open.spotify.com/album/7IkM8Ig9wtHc2NbvdsckBV) | 3:53 | 2022-01-21 |  |
 | [Stay Here](https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 4:09 | 2020-05-18 | 2020-07-03 |
 | [Stay With Me](https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:47 | 2020-05-18 | 2020-07-03 |
-| [Still Together \- Radio Mix](https://open.spotify.com/track/4onD0pjASg29nhthK87ZQb) | [Zeni N](https://open.spotify.com/artist/18MdCa6sJKKOf9JttVCdUC), [Erdit Mertiri](https://open.spotify.com/artist/0WvUIwJD7E9wIwYFKYEdY4) | [Still Together \(Single\)](https://open.spotify.com/album/7aVqtpapYjj3EYZcZQOa3G) | 3:58 | 2020-05-18 |  |
+| [Still Together \- Radio Mix](https://open.spotify.com/track/4onD0pjASg29nhthK87ZQb) | [Zeni N](https://open.spotify.com/artist/18MdCa6sJKKOf9JttVCdUC), [Erdit Mertiri](https://open.spotify.com/artist/0WvUIwJD7E9wIwYFKYEdY4) | [Still Together \(Single\)](https://open.spotify.com/album/7aVqtpapYjj3EYZcZQOa3G) | 3:58 | 2020-05-18 | 2022-09-28 |
 | [Still Want U](https://open.spotify.com/track/76tXVbmQtOOAfqRyeMV0Ug) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [RINGOS DESERT PT.1](https://open.spotify.com/album/1VAIQmXGA2BVlpXBrueMnk) | 3:33 | 2020-05-18 | 2020-07-03 |
 | [Stirring Child Spirits](https://open.spotify.com/track/5Pq0akQPAT6RhsbH8mVplA) | [Julien Mier](https://open.spotify.com/artist/5paAp4hjtSahENm3QTNsiP) | [Stirring Child Spirits](https://open.spotify.com/album/6Tzb4NzPuV87nJ5mfWx0EB) | 3:05 | 2020-05-18 | 2021-01-11 |
 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-10 | 2022-07-29 |

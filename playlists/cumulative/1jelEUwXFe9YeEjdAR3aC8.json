@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by Jeremy Zucker and BENEE, Noah Kahan, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Billie Eilish",
+  "description": "Chill indie songs by Billie Eilish, Noah Kahan, and more! Dive in to this mellow and emotive playlist, and discover new favorites! Cover: Billie Eilish",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -41,6 +41,24 @@
       "duration_ms": 219380,
       "name": "All For You",
       "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
+    },
+    {
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 186741,
       "name": "Antibiotics",
       "url": "https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM"
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Assembly Required",
+        "url": "https://open.spotify.com/album/3xEUUVwjNVvTaHQjcpea8O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225684,
+      "name": "Assembly Required",
+      "url": "https://open.spotify.com/track/6ce7mZm67N4CB6llmyRPib"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
       },
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 207024,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
@@ -574,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Alone Time",
+        "url": "https://open.spotify.com/album/0GP2dmgedYIrknBdKizzsF"
+      },
+      "artists": [
+        {
+          "name": "Melissa Bel",
+          "url": "https://open.spotify.com/artist/4N01ORm7UUESGneU8pQrXd"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/5IezFoJVX2hbFJ0EnjNgbP"
+    },
+    {
+      "album": {
         "name": "DEAR MISS HOLLOWAY",
         "url": "https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU"
       },
@@ -733,7 +787,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 297120,
       "name": "EMOTIONAL DETACHMENT DEMO",
       "url": "https://open.spotify.com/track/5PHaM8RbwwqZWlptITQmSg"
@@ -755,6 +809,24 @@
       "duration_ms": 136480,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
+    },
+    {
+      "album": {
+        "name": "Everyday Sunflower",
+        "url": "https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp"
+      },
+      "artists": [
+        {
+          "name": "Jason Collett",
+          "url": "https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Everyday Sunflower",
+      "url": "https://open.spotify.com/track/2wdIXkZ4nFlaYbzvifuAp1"
     },
     {
       "album": {
@@ -892,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Future Tense",
+        "url": "https://open.spotify.com/album/46mvznn935dBGq7cPcjafR"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164675,
+      "name": "Futuretense",
+      "url": "https://open.spotify.com/track/436YFsMGGH0WNU0R2mIGKh"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
       },
@@ -921,7 +1011,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 194783,
       "name": "Grey",
       "url": "https://open.spotify.com/track/2qBDpPacsXzx4bExchi03Y"
@@ -1127,7 +1217,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
@@ -1239,7 +1329,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 133373,
       "name": "Just Know It",
       "url": "https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2"
@@ -1426,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -1553,6 +1661,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/5YtFMmQO2q3qDySnCZ0b1N"
+      },
+      "artists": [
+        {
+          "name": "D'Arcy Spiller",
+          "url": "https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217844,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/1dHBHvrx3LJsJnMCUvbCPN"
     },
     {
       "album": {
@@ -1871,7 +1997,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 189440,
       "name": "PIRATE RADIO*",
       "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
@@ -1983,7 +2109,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 180248,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
@@ -2019,7 +2145,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 217223,
       "name": "Sad Love",
       "url": "https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb"
@@ -2210,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "Slow Dance In The Morning",
+        "url": "https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "Slow Dance In The Morning",
+      "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
+    },
+    {
+      "album": {
         "name": "somebody to lose",
         "url": "https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M"
       },
@@ -2333,7 +2477,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -2355,6 +2499,28 @@
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+    },
+    {
+      "album": {
+        "name": "Sweet Symphony",
+        "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228076,
+      "name": "Sweet Symphony (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
       "album": {
@@ -2441,7 +2607,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 194782,
       "name": "That Kinda Girl",
       "url": "https://open.spotify.com/track/7xx7TSQDUl9gsLOH5ZKKWX"
@@ -2683,7 +2849,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 218200,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t"
@@ -2809,7 +2975,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 247893,
       "name": "What Do We Do Now?",
       "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"

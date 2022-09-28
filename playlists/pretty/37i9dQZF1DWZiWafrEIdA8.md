@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,933 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,936 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 31 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 |
 | 32 | [home sh\*t home](https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [DARKROOM : roommates only](https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE) | 3:29 |
 | 33 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
-| 34 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
-| 35 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
+| 34 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
+| 35 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
 | 36 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 37 | [Lonely Night \(feat.GAEKO\)](https://open.spotify.com/track/7ftv3uigGigYVND065syjM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Lonely Night](https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf) | 3:37 |
 | 38 | [Still \(feat.Crush\)](https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Still](https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI) | 4:36 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 43 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 | 44 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 45 | [Yoo Jae Suk](https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Star](https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ) | 3:35 |
-| 46 | [The Little Prince \(Prod\. Godic\)](https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [Godic](https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV) | [School Rapper2 Team\-battle Pt\. 2](https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2) | 2:44 |
-| 47 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
+| 46 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
+| 47 | [The Little Prince \(Prod\. Godic\)](https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [Godic](https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV) | [School Rapper2 Team\-battle Pt\. 2](https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2) | 2:44 |
 | 48 | [winter night \(Feat\. DUT2\)](https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:11 |
 | 49 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 | 50 | [My dream](https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Never give up, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp) | 3:26 |
 
-Snapshot ID: `MTY2MjM1OTA4MSwwMDAwMDAwMGYyZDhlNTMyN2U5NjQ0MTRjNWM4N2JjYzE3NGMxMjU0`
+Snapshot ID: `MTY2MjM1OTA4MSwwMDAwMDAwMDVjZjIzZTdhNmY5NzdiMWZlM2U1Y2ViODExOWNjZDQz`

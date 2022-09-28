@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-579 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+580 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Kanun \- Original Mix](https://open.spotify.com/track/3Pd1HEol9zpq1hXQTewJSP) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Kanun](https://open.spotify.com/album/2aCASWXCBDPq3IRkTztLKD) | 6:06 | 2020-04-03\* | 2021-01-05 |
 | [Kashmir \(Edit\)](https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Kashmir \(Edit\)](https://open.spotify.com/album/6pD0WpAxWRTY11HZiZCPuy) | 3:04 | 2021-11-08 | 2022-08-05 |
 | [Kata \(Edit\)](https://open.spotify.com/track/09VbC8nxZyCSTwMot9F22R) | [Jobarpopoulos](https://open.spotify.com/artist/6KmgiX5k5l3j6fEfUMs1Kz) | [Kata \(Edit\)](https://open.spotify.com/album/3kiyi8BrpfTeHcOEBQnYNX) | 2:20 | 2020-09-30 | 2022-04-15 |
-| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
+| [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-23 |  |
+| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-09-09 | 2022-07-08 |
 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2020-04-03\* | 2021-01-05 |
 | [Kerbside Poetry](https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Kerbside Poetry](https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL) | 3:12 | 2022-09-02 |  |

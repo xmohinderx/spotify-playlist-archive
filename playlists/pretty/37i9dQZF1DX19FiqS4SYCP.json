@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140449,
+  "num_followers": 140463,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGE3ZWUzM2M0NjljY2JiNzYzMTQxMjhmYmYxNjk4NjUz",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDk1MTc5NDRiN2Q1YjM2NjQxZTIzMDhjMzAwZDQ4YmU5",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
       "artists": [
         {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
         }
       ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -471,18 +487,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+        "name": "La Primavera",
+        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
       },
       "artists": [
         {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
         }
       ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
+      "duration_ms": 192003,
+      "name": "La Primavera",
+      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -507,18 +523,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "La Primavera",
-        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
+        "name": "Acu\u00e9rdate (Radio Edit)",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
       },
       "artists": [
         {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
         }
       ],
-      "duration_ms": 192003,
-      "name": "La Primavera",
-      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Acu\u00e9rdate (Radio Edit)",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 251239,
       "name": "Me Enamor\u00e9 de un \u00c1ngel",
       "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
-      },
-      "artists": [
-        {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
-        }
-      ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
       "artists": [
         {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
         }
       ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -635,6 +619,22 @@
       "duration_ms": 192000,
       "name": "No Quiero Nada",
       "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 220003,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2022-09-15 18:41:23",

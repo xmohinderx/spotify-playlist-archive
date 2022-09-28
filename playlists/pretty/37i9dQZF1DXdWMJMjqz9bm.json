@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Yung Gravy",
-  "num_followers": 170327,
+  "num_followers": 170477,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjQ0MCwwMDAwMDAwMGE2ZWI2MDllMmRlYjYzN2YyMzM3NzAyOGU3ZjJhYjM2",
+  "snapshot_id": "MTY2NDI5MTMzNiwwMDAwMDAwMDdiZDJjOWQ4N2JiNDVhZDI1NDUxMTA5YmI3ZmMzM2Jm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:14:00",
@@ -691,6 +691,22 @@
       "duration_ms": 117473,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/4m2Fep3UwjUkUTJ4KPnJZ0"
+    },
+    {
+      "added_at": "2022-09-27 15:08:56",
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1635,26 +1651,6 @@
       "duration_ms": 165333,
       "name": "I'D GIVE IT ALL UP",
       "url": "https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Tucson",
-        "url": "https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828"
-      },
-      "artists": [
-        {
-          "name": "Willy P",
-          "url": "https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP"
-        },
-        {
-          "name": "Peter Kuli",
-          "url": "https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Tucson",
-      "url": "https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 90963,
+  "num_followers": 91046,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDRjNTAyMmFiNzY3MGMzN2M2MzA0NjY3M2M1MDg5YWU4",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDQ0MTM4N2U5YWMwMDIyNDQwYTdkMzg4ODIyY2EwOGQx",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Daisies Of The Galaxy",
-        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "It's A Motherfucker",
-      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 365746,
       "name": "Riding For The Feeling",
       "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Daisies Of The Galaxy",
+        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "It's A Motherfucker",
+      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 230006,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 211770,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "placeholder",
+        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 230006,
+      "name": "placeholder",
+      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
     },
     {
       "added_at": "2021-04-30 17:29:47",

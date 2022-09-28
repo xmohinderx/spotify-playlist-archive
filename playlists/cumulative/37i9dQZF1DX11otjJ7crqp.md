@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-1,602 songs - 3 day 8 hr 1 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,603 songs - 3 day 8 hr 4 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1366,7 +1366,8 @@
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-02-26 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-03-25 | 2022-04-02 |
 | [Talk \(with Royal & The Serpent\)](https://open.spotify.com/track/2OclKk08GDRSZbPF6M41XF) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/7k4K95xPJ2RdnA1MN2MvuG) | 3:12 | 2022-04-22 | 2022-05-20 |
-| [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-17 |  |
+| [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-23 |  |
+| [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-17 | 2022-09-28 |
 | [Talking With Your Ghost](https://open.spotify.com/track/2R5ZVyIXEomgtodwbMteov) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Talking With Your Ghost](https://open.spotify.com/album/0bNv45oXZssbthq2RqFW07) | 3:00 | 2022-09-09 | 2022-09-24 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-25 | 2022-04-02 |
 | [Tangerine](https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9) | [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Tangerine](https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq) | 3:07 | 2022-05-20 | 2022-06-11 |

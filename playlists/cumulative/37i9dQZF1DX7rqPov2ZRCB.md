@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-239 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+240 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [El Número Telefónico \- En Vivo](https://open.spotify.com/track/0H7LGh228bDHFMJzh0ZWyQ) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Kiko el Presidente: Live from Santiago](https://open.spotify.com/album/5Iw0HyzfuxfD5aLECUD1nM) | 8:03 | 2019-09-09 | 2022-07-27 |
 | [El pegao](https://open.spotify.com/track/3vpRselJc43gqIUjlnRYDp) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:52 | 2019-09-09 | 2022-07-29 |
 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 | 2019-09-09 | 2022-09-23 |
+| [El Pobre Infeliz](https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo) | 4:21 | 2019-09-09 |  |
 | [El Pobre Infeliz](https://open.spotify.com/track/3pR2s1iAU7G2PrgK64Gz2t) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/4wNqjMnwMHHlIuZQfjTPVT) | 4:21 | 2019-09-09 | 2022-07-27 |
 | [El Pobre Maelo](https://open.spotify.com/track/02qep4MeCCxOMJTcwSOFy4) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj) | [Canto a Mi Pueblo](https://open.spotify.com/album/6y2Y0EvodLC0czeJCETvJC) | 4:48 | 2019-09-09 | 2022-07-29 |
 | [El Pompo](https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx) | [Ricardo Gutierrez](https://open.spotify.com/artist/4USRigxRhhSovt62npVWv1) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 5:00 | 2019-09-09 | 2022-07-19 |
@@ -237,7 +238,7 @@
 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 | 2019-09-09 |  |
 | [Vamos Pa la Playa](https://open.spotify.com/track/0S5e0l6A8iZhUl2WQCFecX) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 4:44 | 2019-09-09 | 2022-07-29 |
 | [Vamos Pa la Playa](https://open.spotify.com/track/2UFuyJNjpIhpCAvLeGB2W5) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:44 | 2019-09-09 | 2022-07-26 |
-| [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 | 2019-09-09 |  |
+| [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 | 2019-09-09 | 2022-09-28 |
 | [Ya No Te Quiero](https://open.spotify.com/track/6aeAgCXriC5ikrMjEr7DRA) | [Yiki Lee](https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A) | [Muy Loco](https://open.spotify.com/album/6SXxDhaRk2ezuJZC9vrGuD) | 5:57 | 2019-09-09 | 2022-08-17 |
 | [Yo Era el Amor de Su Vida](https://open.spotify.com/track/3j4cpkEiQ0X19hnOpTSq8k) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 4:11 | 2019-09-09 | 2022-07-27 |
 | [Yo Era el Amor de Su Vida](https://open.spotify.com/track/4MPagjBQYV66fEBuFbn2Xw) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Yo Era el Amor de Su Vida](https://open.spotify.com/album/4Absoa5bvehrvmyuPRUGyp) | 4:11 | 2019-09-09 | 2022-07-25 |

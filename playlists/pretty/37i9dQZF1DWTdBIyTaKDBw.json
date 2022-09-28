@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 33269,
+  "num_followers": 33332,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMDI5NmMxZTgxMGNkMWJmZjU5ZTY4ZmJkOTExZGEwNTMz",
+  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMDEwYjgxMTBmZmY0MGY2MTM3NWM0YjYwZDU2Njk4ZmU5",
   "tracks": [
     {
       "added_at": "2022-09-07 13:39:46",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Love Encore (with Lee Sora)",
+      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Da Ra Da",
         "url": "https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN"
       },
@@ -435,26 +455,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Love Encore (with Lee Sora)",
-      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "How Is It?",
         "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 189800,
       "name": "How Is It?",
       "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -503,6 +487,22 @@
       "duration_ms": 300317,
       "name": "Love song (Feat. WONPIL(DAY6))",
       "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 228934,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "[04]",
+        "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Like A Bird",
+      "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -755,18 +771,18 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "[04]",
-        "url": "https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
       },
       "artists": [
         {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 220003,
-      "name": "Like A Bird",
-      "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
+      "duration_ms": 217666,
+      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
+      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -783,22 +799,6 @@
       "duration_ms": 260812,
       "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
       "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
-      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Night Mood",
-        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "SEOULVIBES, GROCERY",
         "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Night Mood",
+        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
-        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 212898,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 239086,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
+        "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "ONF:MY NAME",
-        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Thermometer - ON Team Version",
-      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "When It Loves",
         "url": "https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 255280,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "ONF:MY NAME",
+        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Thermometer - ON Team Version",
+      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
+          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
+        }
+      ],
+      "duration_ms": 178886,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "\ub098\ube44",
         "url": "https://open.spotify.com/album/0J1t80ksf1tqqLJodid9Cs"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 208000,
       "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
       "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
-          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
-        }
-      ],
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
     },
     {
       "added_at": "2022-09-07 13:39:46",

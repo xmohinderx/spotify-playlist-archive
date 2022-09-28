@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > Dark and dreamy while you wait for your wings to grow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,950 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,662 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

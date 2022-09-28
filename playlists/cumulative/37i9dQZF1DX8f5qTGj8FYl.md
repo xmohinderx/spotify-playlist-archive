@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-202 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+203 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Colonel Panic](https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds.](https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt) | 2:32 | 2020-11-13 | 2022-07-29 |
 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 | 2020-11-13 |  |
 | [Confidence Game](https://open.spotify.com/track/3xz8R8cnKGkbuaaxlDY3I2) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 2:16 | 2020-11-13 | 2022-04-20 |
-| [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 | 2021-11-19 |  |
+| [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 | 2021-11-19 | 2022-09-28 |
 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 | 2020-11-13 |  |
 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 | 2020-11-13 | 2022-07-24 |
 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 | 2020-11-13 |  |
@@ -151,6 +151,7 @@
 | [Permission to Land \- 45](https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Jeff Franca](https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 3:04 | 2020-11-13 |  |
 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 | 2020-11-13 |  |
 | [Prime \(Electric Kiss\)](https://open.spotify.com/track/2LdeIrenmyRV7zYpLzyfgE) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [contributions \(Side B\)](https://open.spotify.com/album/1SQOJ3Biss7BCXmhQQhmok) | 3:04 | 2022-05-06 | 2022-07-02 |
+| [Prospect Park West](https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [Prospect Park West](https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ) | 2:56 | 2022-07-08 |  |
 | [Psychic Powers](https://open.spotify.com/track/5xhQ3UWq2LhlYKFy1G1kY5) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/3JfCmBfzyP1Na1ZYOblBCz) | 2:38 | 2022-04-01 |  |
 | [Return of the Haggis](https://open.spotify.com/track/2EijA4bczPGQ43cdx9qfdp) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [What Comes to Mind](https://open.spotify.com/album/530KNZYoofT4NHsueeogDI) | 4:10 | 2020-11-13 | 2022-07-08 |
 | [Return of the Son of Switchblade](https://open.spotify.com/track/4TJoZj7r0VUtlNQrkXwpna) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Return of the Son of Switchblade](https://open.spotify.com/album/7LK5KbUs9DXpzCJiLv8ZJs) | 3:32 | 2021-06-18 | 2022-07-29 |

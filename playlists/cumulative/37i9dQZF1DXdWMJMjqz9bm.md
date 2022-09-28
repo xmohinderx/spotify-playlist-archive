@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Yung Gravy
 
-376 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+377 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-11-16 | 2022-02-26 |
 | [Runnin' the Road](https://open.spotify.com/track/1vK0W3jWBR44lEh2dDWvSF) | [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [Runnin' the Road](https://open.spotify.com/album/3dzOG2QNNV9MOY1l2eqHMT) | 2:54 | 2022-04-15 | 2022-04-23 |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:38 | 2022-07-11 |  |
+| [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2022-09-27 |  |
 | [Seen It All](https://open.spotify.com/track/6hB0cABPuWsH26D7nsVvCr) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Seen It All](https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ) | 2:42 | 2022-06-03 | 2022-07-13 |
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-11-16 | 2022-02-19 |
 | [Selfish](https://open.spotify.com/track/1MKJZ4b0UKqjKQoCZUznbH) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Underrated](https://open.spotify.com/album/1dJeb9jpVfg88wurDkPQAQ) | 2:51 | 2022-01-14 | 2022-03-26 |
@@ -360,7 +361,7 @@
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-09 |  |
 | [trouble / tonight](https://open.spotify.com/track/2FEdAC3ZeNybfLdodh9a66) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [trouble / tonight](https://open.spotify.com/album/6ywTWDiKJUO33pyQ9cwFmT) | 4:02 | 2022-01-28 | 2022-02-26 |
 | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe) | 2:51 | 2022-07-22 | 2022-09-10 |
-| [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 |  |
+| [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 | 2022-09-28 |
 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 | 2022-09-02 |  |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-01-28 | 2022-03-17 |
 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 | 2022-03-25 | 2022-07-07 |

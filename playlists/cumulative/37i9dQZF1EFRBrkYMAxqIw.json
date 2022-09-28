@@ -552,6 +552,28 @@
     },
     {
       "album": {
+        "name": "HighLife",
+        "url": "https://open.spotify.com/album/37hLJXky9rC9KbpzYzzUGg"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "HighLife",
+      "url": "https://open.spotify.com/track/121Dj5DvG9EKGWJ0PW9s4a"
+    },
+    {
+      "album": {
         "name": "How Good We Had It",
         "url": "https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR"
       },

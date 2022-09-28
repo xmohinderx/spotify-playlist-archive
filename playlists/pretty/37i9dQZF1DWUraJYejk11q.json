@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 446353,
+  "num_followers": 446351,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc5ODU3MiwwMDAwMDAwMGFkNWM4NjQwMWNhMjc5MDhkYjc3ZDFkYWVhOTVmMjI5",
+  "snapshot_id": "MTY2NDMyMDIxMiwwMDAwMDAwMGQ5OGE1YjFlMWMzZmE3YzVhNzBiZDk4MDVlYTY4ZWQ1",
   "tracks": [
     {
       "added_at": "2022-09-21 01:58:52",
@@ -89,6 +89,38 @@
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
     },
     {
+      "added_at": "2022-09-28 01:24:19",
+      "album": {
+        "name": "Right to Riot",
+        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
+      },
+      "artists": [
+        {
+          "name": "Hagop Tchaparian",
+          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
+        }
+      ],
+      "duration_ms": 300392,
+      "name": "Right to Riot",
+      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
+    },
+    {
+      "added_at": "2022-08-24 01:29:10",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
+      },
+      "artists": [
+        {
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
+    },
+    {
       "added_at": "2022-09-21 22:16:12",
       "album": {
         "name": "Endless Love",
@@ -109,20 +141,20 @@
       "url": "https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV"
     },
     {
-      "added_at": "2022-08-24 01:29:10",
+      "added_at": "2022-08-24 01:23:50",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
+        "name": "it's a secret / sunflower",
+        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
       },
       "artists": [
         {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
         }
       ],
-      "duration_ms": 289371,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
+      "duration_ms": 224470,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
       "added_at": "2022-08-19 01:55:26",
@@ -147,22 +179,6 @@
       "duration_ms": 113073,
       "name": "ANTIGRAVITY",
       "url": "https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR"
-    },
-    {
-      "added_at": "2022-08-24 01:23:50",
-      "album": {
-        "name": "it's a secret / sunflower",
-        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "sunflower",
-      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
       "added_at": "2022-07-15 05:29:55",
@@ -197,6 +213,22 @@
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
+    },
+    {
       "added_at": "2022-04-22 18:53:10",
       "album": {
         "name": "Tahara",
@@ -213,20 +245,20 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
-      "added_at": "2022-08-19 02:33:31",
+      "added_at": "2022-08-31 03:28:18",
       "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
+        "name": "Solar Plexus",
+        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
       },
       "artists": [
         {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+          "name": "Karakter",
+          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
+      "duration_ms": 229090,
+      "name": "Solar Plexus",
+      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -247,22 +279,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2022-08-31 03:28:18",
-      "album": {
-        "name": "Solar Plexus",
-        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
-      },
-      "artists": [
-        {
-          "name": "Karakter",
-          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Solar Plexus",
-      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
     },
     {
       "added_at": "2022-01-11 00:01:58",
@@ -311,22 +327,6 @@
       "duration_ms": 282091,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
-    },
-    {
-      "added_at": "2022-03-03 01:05:29",
-      "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2022-08-03 03:56:04",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
     },
     {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -469,6 +453,22 @@
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
       "added_at": "2022-08-03 02:49:15",
       "album": {
         "name": "Shallots",
@@ -501,6 +501,26 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
+      "added_at": "2022-01-12 02:36:16",
+      "album": {
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
+      },
+      "artists": [
+        {
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+    },
+    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -531,26 +551,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-01-12 02:36:16",
-      "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
-      },
-      "artists": [
-        {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
-        },
-        {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
       "added_at": "2022-08-13 02:30:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 398232,
-      "name": "Trains & Airports",
-      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
         "name": "SLUMP DKD TODDLER",
         "url": "https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 320200,
       "name": "DKD",
       "url": "https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 398232,
+      "name": "Trains & Airports",
+      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
     },
     {
       "added_at": "2022-07-28 05:59:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,513 likes - 500 songs - 19 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,837 likes - 500 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -489,7 +489,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 479 | [arc de jazz](https://open.spotify.com/track/2sQvrPfsAOq9YfZL2Q2I5F) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7) | [arc de jazz](https://open.spotify.com/album/66WjlLqmP4lN8KoFwS8ChP) | 1:56 |
 | 480 | [Walk](https://open.spotify.com/track/3rjqkJgp8vcDZ4KrJr33QP) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Walk](https://open.spotify.com/album/7l9ePDpTOamHeV4VjRmIAm) | 2:01 |
 | 481 | [Track 2](https://open.spotify.com/track/0995pMpY9ltEFbV3yupia2) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 2](https://open.spotify.com/album/1dKjhUTDxeF6Zy2XYwkeQ9) | 2:17 |
-| 482 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 |
+| 482 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 |
 | 483 | [dar um rolê](https://open.spotify.com/track/1UTkUZVFNa2R1UKf9gCjac) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [viagem](https://open.spotify.com/album/0dmM1nzbgKTTKLMMPomXf6) | 1:09 |
 | 484 | [shine thru](https://open.spotify.com/track/62tpMHfYtFRHfWc51yhq03) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [shine thru](https://open.spotify.com/album/07JYPlRclRa85BHsi54608) | 2:21 |
 | 485 | [Point Of No Return](https://open.spotify.com/track/5huuE3Fb2Ko8xTSbcX86Nm) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Point Of No Return](https://open.spotify.com/album/3A4noMOYyU731Wst289hDX) | 2:30 |

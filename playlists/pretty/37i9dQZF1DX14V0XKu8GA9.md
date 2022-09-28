@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,062 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,109 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 45 | [My Light](https://open.spotify.com/track/3hH4YLEQ2jJPhBbzRsp5Pk) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [My Light](https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1) | 4:04 |
 | 46 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
 | 47 | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc) | 2:26 |
-| 48 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
-| 49 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 48 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 49 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
 | 50 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
 | 51 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
 | 52 | [Double Up](https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Double Up](https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c) | 2:15 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 71 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 72 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
 | 73 | [7 Days](https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Sometime In The H](https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK) | 2:49 |
-| 74 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
-| 75 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
+| 74 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
+| 75 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 76 | [My Type](https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:16 |
 | 77 | [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 |
 | 78 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 79 | [Summertime](https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Summertime](https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy) | 3:29 |
 | 80 | [Barbacoa](https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [Barbacoa](https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS) | 1:54 |
 
-Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDNjNTM0OGE2MThjODQzMjVlMzFlNjJiNzUwMmZjMmI5`
+Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDhlZjI5MDg4MTI5MGM1OWViNDg0NWMyZjJjYjRmNjBj`

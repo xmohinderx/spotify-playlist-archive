@@ -1,12 +1,12 @@
 {
   "description": "The music that created modern indie as we know it. Cover: Florence + The Machine",
-  "num_followers": 316882,
+  "num_followers": 317309,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NDkyNSwwMDAwMDAwMGY3YmQ1MWI5MDBkOGU0MjBmZDRkOTc4OWFjYjIxOTE1",
+  "snapshot_id": "MTY1OTA0NDkyNSwwMDAwMDAwMDQ4NjdjMjQ0MTVkNmY4OWMwYzdmMjA3MDE3ZmY1MzEy",
   "tracks": [
     {
       "added_at": "2022-07-28 21:48:45",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-28 21:48:45",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2022-07-28 21:48:45",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2022-07-28 21:48:45",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2022-07-28 21:48:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-07-28 21:48:45",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232690,
-      "name": "40 Day Dream - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
-    },
-    {
-      "added_at": "2022-07-28 21:48:45",
-      "album": {
         "name": "The Sunlandic Twins",
         "url": "https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 255613,
       "name": "Wraith Pinned to the Mist and Other Games",
       "url": "https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ"
+    },
+    {
+      "added_at": "2022-07-28 21:48:45",
+      "album": {
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232690,
+      "name": "40 Day Dream - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
     },
     {
       "added_at": "2022-07-28 21:48:45",

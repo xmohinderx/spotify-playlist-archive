@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 700686,
+  "num_followers": 700774,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDBlMjAyOGU1OWRiNmI0YTVhMzJiODJiYjk5NjQ4YWVk",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGIyZjFhNTE4MzYyN2FkNTUxNTYwMzk2MWIxYzgwNzUy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Corridones Belicones Duetos",
         "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+        "name": "El Carrito",
+        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+      "duration_ms": 178812,
+      "name": "El Carrito",
+      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 174262,
       "name": "Si Una Vez - En Vivo",
       "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "El Carrito",
-        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "El Carrito",
-      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Lo Que Construimos (Spotify Singles)",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 177420,
       "name": "Dejalo Ir",
       "url": "https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Lo Que Construimos (Spotify Singles)",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 160501,
       "name": "Gente Del Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "B.A.S",
-        "url": "https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Trato de Olvidarte",
-      "url": "https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "B.A.S",
+        "url": "https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Trato de Olvidarte",
+      "url": "https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
-      },
-      "artists": [
-        {
-          "name": "Los De La Zona",
-          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Lo Que Tengo",
-      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Quiero Contarte",
         "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 160597,
       "name": "Quiero Contarte",
       "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
+      },
+      "artists": [
+        {
+          "name": "Los De La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Lo Que Tengo",
+      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 379306,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Maldito Olvido",
         "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 214804,
       "name": "Maldito Olvido",
       "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 379306,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
     },
     {
       "added_at": "2022-09-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Chill indie soul that's highkey fire ",
-  "num_followers": 797462,
+  "num_followers": 797726,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2Mzg5NywwMDAwMDAwMDFhYTY4MWNkM2U1NWM1ZjczNjA2MGQ0NWM1YzBkNTA1",
+  "snapshot_id": "MTY2MzM2Mzg5NywwMDAwMDAwMDEzZmVmNzRmMzM3NjEyMGUyOGMxMTUxN2QwMmNhNDc0",
   "tracks": [
     {
       "added_at": "2022-09-16 21:31:37",
@@ -163,26 +163,6 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "MANGO (feat. Adi Oasis)",
-        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 245994,
-      "name": "MANGO (feat. Adi Oasis)",
-      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
         "name": "Hud Dreems",
         "url": "https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
+        "name": "MANGO (feat. Adi Oasis)",
+        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 245994,
+      "name": "MANGO (feat. Adi Oasis)",
+      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -451,22 +467,6 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 188307,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Take Off Your Cool (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
         "name": "Verbs",
         "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
       },
@@ -911,18 +891,22 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
       "artists": [
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 129048,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+      "duration_ms": 158093,
+      "name": "Take Off Your Cool (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -943,6 +927,22 @@
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
+      },
+      "artists": [
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 129048,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1167,6 +1167,34 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
+        "name": "telefone",
+        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
         "name": "The Man Who Has Everything",
         "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
       },
@@ -1195,34 +1223,6 @@
       "duration_ms": 71426,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
-        "name": "telefone",
-        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Shadow Man",
-      "url": "https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
+        "name": "Do 2 Me",
+        "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        },
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Do 2 Me",
+      "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1"
       },
@@ -1279,22 +1299,18 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Do 2 Me",
-        "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
       "artists": [
         {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        },
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Do 2 Me",
-      "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1347,22 +1363,6 @@
       "duration_ms": 199899,
       "name": "Easy Baby",
       "url": "https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
+        "name": "Stole My Love",
+        "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Stole My Love",
+      "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 224933,
       "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
-        "name": "Stole My Love",
-        "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
-      },
-      "artists": [
-        {
-          "name": "Jay Isaiah",
-          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Stole My Love",
-      "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
         "name": "The Interlude",
         "url": "https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2022-09-16 21:31:37",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-16 21:31:37",
       "album": {
-        "name": "Lost In America",
-        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
-      },
-      "artists": [
-        {
-          "name": "Lo Village",
-          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
-    },
-    {
-      "added_at": "2022-09-16 21:31:37",
-      "album": {
         "name": "Lava/Treacle",
         "url": "https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 201253,
       "name": "Lava/Treacle",
       "url": "https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb"
+    },
+    {
+      "added_at": "2022-09-16 21:31:37",
+      "album": {
+        "name": "Lost In America",
+        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
+      },
+      "artists": [
+        {
+          "name": "Lo Village",
+          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
     },
     {
       "added_at": "2022-09-16 21:31:37",

@@ -4,7 +4,7 @@
 
 > The best tracks from the great Miles Davis.
 
-112 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6e4rtl5SvFO1Jq3xitAZyt)
+113 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6e4rtl5SvFO1Jq3xitAZyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Just Squeeze Me](https://open.spotify.com/track/514orWNnWjj6TtJ2ifaWF6) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The New Miles Davis Quintet](https://open.spotify.com/album/5UrThO63Ij9bCoLgmVEk01) | 7:26 | 2021-07-02 | 2022-07-29 |
 | [Just Squeeze Me](https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 7:28 | 2022-04-27 |  |
 | [Kelo](https://open.spotify.com/track/0x6iYV6HjYocs3rphJgnNj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Finest](https://open.spotify.com/album/7iZcta4q9Z5Sk3Mvhe3Kbp) | 3:18 | 2022-04-27 | 2022-09-11 |
-| [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 | 2022-04-27 |  |
+| [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 | 2022-04-27 | 2022-09-28 |
+| [Kelo](https://open.spotify.com/track/45Gixa6r1Xee1MUNgitw6J) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Legends: Miles Davis](https://open.spotify.com/album/0G2uOeDDMYwHXKGDxIjz9X) | 3:18 | 2022-09-16 |  |
 | [Kelo \- 1998 Digital Remaster](https://open.spotify.com/track/1pMMmZCiVcYVSs61hNUSB7) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis \- Volume 2 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4Ll4WvIw7CYlGCGtvLuikf) | 3:18 | 2021-07-02 | 2022-07-29 |
 | [Madness](https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:31 | 2021-07-02 |  |
 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 | 2021-07-02 |  |

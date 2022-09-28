@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 68560,
+  "num_followers": 68616,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDRkMWY2ZmIzOGJkMjQ0NDNjMGVhZTM1OTI5YWMyYzE1",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDdkMWEzMTNjOTE5MGU0ZTA0YTY3NDQzOTYwNDllN2Fi",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "When We Used To Play",
-        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        }
-      ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Original Extended Mix",
-      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+        "name": "When We Used To Play",
+        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
       },
       "artists": [
         {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
         }
       ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Original Extended Mix",
+      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
-        }
-      ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 383706,
       "name": "Q",
       "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -631,18 +631,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -683,8 +687,24 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 432586,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
       "artists": [
         {
@@ -692,13 +712,13 @@
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         },
         {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -787,8 +807,8 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
       "artists": [
         {
@@ -796,29 +816,13 @@
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
         }
       ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     },
     {
       "added_at": "2022-07-22 08:57:48",

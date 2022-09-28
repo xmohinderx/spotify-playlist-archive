@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13815,
+  "num_followers": 13830,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGI0MjE5NGJkNDhiMTI4OTFhNGYyYmQ0Mjg0MGQyNjQ3",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDlhYzAwZTJmNjM5MWQ1N2IwYTNlNTYyZDg0OWY0M2E5",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Ashes & Dust",
         "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -583,18 +583,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+        "name": "Roll With the Punches",
+        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
       },
       "artists": [
         {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+          "name": "Martin Harley",
+          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
         }
       ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+      "duration_ms": 191880,
+      "name": "Roll With the Punches",
+      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Roll With the Punches",
-        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
       "artists": [
         {
-          "name": "Martin Harley",
-          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Roll With the Punches",
-      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+      "duration_ms": 180583,
+      "name": "Cry for Me",
+      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     },
     {
       "added_at": "2020-10-21 17:37:12",

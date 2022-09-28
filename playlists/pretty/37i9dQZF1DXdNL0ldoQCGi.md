@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,099 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,322 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
-| 2 | [Nunca Vai Ser Eu](https://open.spotify.com/track/7hLMdZXOL5NpX7Lncqb8eo) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 2:21 |
-| 3 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 |
-| 4 | [Não faz isso Comigo não](https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 2:00 |
-| 5 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
-| 6 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 |
+| 2 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 |
+| 3 | [Nunca Vai Ser Eu](https://open.spotify.com/track/7hLMdZXOL5NpX7Lncqb8eo) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 2:21 |
+| 4 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 |
+| 5 | [Não faz isso Comigo não](https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 2:00 |
+| 6 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
 | 7 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 |
 | 8 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 |
 | 9 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 75 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 76 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
 
-Snapshot ID: `MTY2NDIxODAzOCwwMDAwMDAwMDZjZTRkZjJiZWQ1ODQ1NGNkZWY3YjA4YTk5NWIyNWFl`
+Snapshot ID: `MTY2NDMwNjQ4MCwwMDAwMDAwMDUwNWFlMzk0M2M2MjNiYjJlYWY4ZmQ5MWRkMWY2YmRi`

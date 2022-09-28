@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-750 songs - 1 day 15 hr 8 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+751 songs - 1 day 15 hr 11 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-02 |  |
 | [Hotelschool](https://open.spotify.com/track/6yv54xH6fZONDqajlDynO1) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4Y9JfQ6OhcS8toGxXrluvg) | 2:21 | 2022-03-05 | 2022-07-31 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
+| [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-12 |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2021-12-28 | 2022-03-09 |
 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2021-05-19 | 2022-03-27 |
@@ -499,7 +500,7 @@
 | [NIKE TECH](https://open.spotify.com/track/7kqftRMUoBeeyb4ZkAKPiA) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [NIKE TECH](https://open.spotify.com/album/179jVEB0wZGEX6MThWhR2L) | 3:50 | 2021-03-27\* | 2021-04-19 |
 | [Niks Is Heilig](https://open.spotify.com/track/3i4P4v7VMDxlbkMtRjubKf) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Niks Is Heilig](https://open.spotify.com/album/2E6AGG4EJ1DyRjbFNi4Oxd) | 2:56 | 2021-08-29 | 2021-10-03 |
 | [Niks Mee Te Maken](https://open.spotify.com/track/3wumtijPLTctdCnXASPH0C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Niks Mee Te Maken / Pizza Met Ananas](https://open.spotify.com/album/5KfHHLVq8gHlyZSbDkDLbp) | 2:52 | 2022-03-20 | 2022-03-28 |
-| [Nirvana](https://open.spotify.com/track/5fVflyfcWvxDZeU2NYujYx) | [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Nirvana](https://open.spotify.com/album/3bLDpqvzEj9L1T9FPBVgnI) | 1:52 | 2022-09-25 |  |
+| [Nirvana](https://open.spotify.com/track/5fVflyfcWvxDZeU2NYujYx) | [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Nirvana](https://open.spotify.com/album/3bLDpqvzEj9L1T9FPBVgnI) | 1:52 | 2022-09-25 | 2022-09-28 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-09-01 | 2021-09-02 |
 | [No Cry](https://open.spotify.com/track/7s7g2Ti4kXH6MsfskWxHKc) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:17 | 2022-01-29 | 2022-02-16 |
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2021-04-13 | 2021-06-01 |

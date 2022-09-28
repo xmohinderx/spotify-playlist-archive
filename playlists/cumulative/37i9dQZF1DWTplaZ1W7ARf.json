@@ -1779,10 +1779,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 162909,
       "name": "Red Rum",
       "url": "https://open.spotify.com/track/6I7XaK4nUMSxffsrPK1N1w"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165296,
+      "name": "Red Rum",
+      "url": "https://open.spotify.com/track/1y0yLJAGeLA91cHNa7A64R"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,905 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,904 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 83 | [Amor Libre](https://open.spotify.com/track/7A2JT2TnRVY7aBsCUBaAcO) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amor Libre](https://open.spotify.com/album/62M2CsF8ozSHr2ul8CgRQR) | 3:08 |
 | 84 | [hebilla](https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hebilla](https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F) | 3:43 |
 | 85 | [Cayó](https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Cayó](https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5) | 2:51 |
-| 86 | [Quién Como Tú](https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Regalo, Mis Número 1...](https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W) | 3:32 |
-| 87 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 |
-| 88 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
+| 86 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 |
+| 87 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
+| 88 | [Quién Como Tú](https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Regalo, Mis Número 1...](https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W) | 3:32 |
 | 89 | [Locura](https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Latinoamericana](https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv) | 3:37 |
-| 90 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
-| 91 | [Terrible, Perriemos](https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE), [Aku P](https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG) | [Terrible, Perriemos](https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr) | 3:04 |
+| 90 | [Terrible, Perriemos](https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE), [Aku P](https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG) | [Terrible, Perriemos](https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr) | 3:04 |
+| 91 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
 | 92 | [D.I.V.A](https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [D.I.V.A](https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh) | 2:49 |
 | 93 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
 | 94 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 129 | [Por un Beso](https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr) | [Por un Beso](https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX) | 2:59 |
 | 130 | [Cocaino](https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Cocaino](https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh) | 3:52 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGVkMzIzOTQyMTk3NTVmNGVkZDQzMzllODc3YjZhOTNj`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGRkZGFjODFmMjhjNDk4ZjVkNmQ4MGZhY2NlZmIwMzky`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: \bONEUS(\uc6d0\uc5b4\uc2a4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: \bCRAVITY(\ud06c\ub798\ube44\ud2f0) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -4944,6 +4944,24 @@
     },
     {
       "album": {
+        "name": "NEW WAVE",
+        "url": "https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184533,
+      "name": "PARTY ROCK",
+      "url": "https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y"
+    },
+    {
+      "album": {
         "name": "TREASURE EP.1: All to Zero",
         "url": "https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx"
       },
@@ -5135,7 +5153,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"

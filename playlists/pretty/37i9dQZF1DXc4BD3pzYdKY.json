@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: S.O.",
-  "num_followers": 105954,
+  "num_followers": 105965,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMzgzMCwwMDAwMDAwMDQ1MjVjZWU5NGU3NWJlYzEzYTMzZTJlYWNhMzUwM2Y4",
+  "snapshot_id": "MTY2MzMyMzgzMCwwMDAwMDAwMGZlZmU2ODlkZjhmNDAwOGQzNmRiNWJhMjk1MmMxZGQ4",
   "tracks": [
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
-        "url": "https://open.spotify.com/album/16pKMIfIYBEjM07BbecHyt"
-      },
-      "artists": [
-        {
-          "name": "GOOD",
-          "url": "https://open.spotify.com/artist/4aKNNQeNgCES2nItLl3WbN"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
-      "url": "https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
       },
@@ -1203,6 +1183,22 @@
       "duration_ms": 172695,
       "name": "SET IT OFF",
       "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "NO WEAPON",
+        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 224465,
+      "name": "NO WEAPON",
+      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "NO WEAPON",
-        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
+        "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
+        "url": "https://open.spotify.com/album/16pKMIfIYBEjM07BbecHyt"
       },
       "artists": [
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "GOOD",
+          "url": "https://open.spotify.com/artist/4aKNNQeNgCES2nItLl3WbN"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 224465,
-      "name": "NO WEAPON",
-      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
+      "duration_ms": 215225,
+      "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
+      "url": "https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "ALREADY",
-        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 181846,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1339,18 +1339,34 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
+        "name": "ALREADY",
+        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
+      "duration_ms": 181846,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1371,22 +1387,6 @@
       "duration_ms": 147000,
       "name": "Hottest In The City (feat. EmanuelDaProphet)",
       "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
       },
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
         }
       ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1527,6 +1511,22 @@
       "duration_ms": 158508,
       "name": "After",
       "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Mobbin'",
-        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 158522,
-      "name": "Mobbin'",
-      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "Marty Mcfly",
         "url": "https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0"
       },
@@ -1623,6 +1607,26 @@
       "duration_ms": 131718,
       "name": "Marty Mcfly",
       "url": "https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3OJz91GFHb814zxUy8pv57"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/0QyCYdkhrrpilgmIfPsDhm"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1687,42 +1691,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "On E",
-        "url": "https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 131562,
-      "name": "On E",
-      "url": "https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3OJz91GFHb814zxUy8pv57"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/0QyCYdkhrrpilgmIfPsDhm"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "WELLS FARGO",
         "url": "https://open.spotify.com/album/24ahvMQRoXWRXZON4L7SNy"
       },
@@ -1751,26 +1719,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Father Forgive Us",
-        "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
+        "name": "On E",
+        "url": "https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT"
       },
       "artists": [
         {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        },
-        {
-          "name": "Og Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        },
-        {
-          "name": "D Brooks the President",
-          "url": "https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Father Forgive Us",
-      "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
+      "duration_ms": 131562,
+      "name": "On E",
+      "url": "https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1791,6 +1751,46 @@
       "duration_ms": 122666,
       "name": "NAH",
       "url": "https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Mobbin'",
+        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 158522,
+      "name": "Mobbin'",
+      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Father Forgive Us",
+        "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        },
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        },
+        {
+          "name": "D Brooks the President",
+          "url": "https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Father Forgive Us",
+      "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Back n Bold (Freestyle)",
-        "url": "https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Back n Bold (Freestyle)",
-      "url": "https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "keyboard warriors.",
         "url": "https://open.spotify.com/album/3ex58oVyuYisrq8HurOf7W"
       },
@@ -1867,6 +1851,34 @@
       "duration_ms": 156929,
       "name": "keyboard warriors.",
       "url": "https://open.spotify.com/track/7FD8cL7vYQmrqdCm9ZIbBJ"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Ways Pure",
+        "url": "https://open.spotify.com/album/0tiPB0pmGvMogjdNOzrzJf"
+      },
+      "artists": [
+        {
+          "name": "Licy-Be",
+          "url": "https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "TYJ",
+          "url": "https://open.spotify.com/artist/2GgCDulCqeerOttLqFizHT"
+        },
+        {
+          "name": "Izzy Music",
+          "url": "https://open.spotify.com/artist/45180TSD18jljIBTMq3OF5"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Ways Pure",
+      "url": "https://open.spotify.com/track/22Xw1GmBdYFT4qvKQnzJFU"
     },
     {
       "added_at": "2022-09-16 10:23:50",

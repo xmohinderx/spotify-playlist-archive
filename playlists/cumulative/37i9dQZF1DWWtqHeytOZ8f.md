@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-518 songs - 1 day 21 hr 21 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+519 songs - 1 day 21 hr 24 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Into The Blue](https://open.spotify.com/track/0elaptshYdyFIVQEuKnhSe) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/2pA1qgtYKBjH83o5z4ZELD) | 5:39 | 2022-01-07 | 2022-07-29 |
 | [IVY CHARCOAL](https://open.spotify.com/track/5cx2CdLDP2wQBDEZGWwKge) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Phantom Brickworks](https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w) | 2:03 | 2021-10-20 | 2022-07-21 |
 | [Joy](https://open.spotify.com/track/3WSIWq7U5bbM0sLrllq7gr) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Joy](https://open.spotify.com/album/2ugisosd4LtLoE1lZQnlxs) | 5:00 | 2021-10-20 | 2022-07-19 |
-| [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2021-10-20 |  |
+| [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2021-10-20 | 2022-09-28 |
 | [Jupiter 285](https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83) | [Highland Park Sleep Collective](https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T) | [Wolf Moon](https://open.spotify.com/album/5MOqmNcrFSxoNZA9HgZIcw) | 3:25 | 2022-05-02 |  |
 | [Just Be](https://open.spotify.com/track/5xJtFwJvv3PAYCq22FXkPi) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL), [Formless](https://open.spotify.com/artist/4N26OJFbqADO7gAZsIZ2bj), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Just Be](https://open.spotify.com/album/5s9EFawMwUTT14bs6SPoVt) | 8:38 | 2022-06-22 |  |
 | [Kafald](https://open.spotify.com/track/7ypy8dZBP8gZTGJ7RWJ0Ee) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Dawn in Reykjavík](https://open.spotify.com/album/0yddYeocqXoSbGzg7v58Uw) | 2:19 | 2022-01-14 | 2022-09-19 |
@@ -261,6 +261,7 @@
 | [Like A Knife](https://open.spotify.com/track/18FIWI7gZpsZsvuTW13WlM) | [Dimitris Petsetakis](https://open.spotify.com/artist/163aNv3YXTyVMyZnPHITj8) | [On Shores](https://open.spotify.com/album/6SNjJEZFMk3RVGH9A5yiee) | 4:04 | 2021-10-20 | 2022-07-28 |
 | [Limbo](https://open.spotify.com/track/5VPo4IXOerHSXbxfq1w4wL) | [The Monotone Droner](https://open.spotify.com/artist/4vUxpIpa1nlrpDaowdVqiQ) | [Meditation Binaural](https://open.spotify.com/album/1CcKoxeTXPm5DQDLWI3Dy1) | 3:24 | 2021-10-20 | 2022-07-28 |
 | [Limit at Sendai](https://open.spotify.com/track/5rWs0KXmSRghQyBKfo7NyL) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Limit at Sendai](https://open.spotify.com/album/1xOdsskwTDmQ236zS52IzV) | 3:38 | 2021-10-20 |  |
+| [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 | 2022-09-28 |  |
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
 | [Los sueños solo son sueños](https://open.spotify.com/track/37DfrttkmBXL3P2B0VWI4X) | [Alec Sai](https://open.spotify.com/artist/0eHgtPi2edUfP4JcdIe2Su), [Kotanna](https://open.spotify.com/artist/19mnXxAd9JmGbpuZzPsDED) | [Los sueños solo son sueños](https://open.spotify.com/album/62URfSIsekcl7zpm2UFFjY) | 4:01 | 2022-04-12 | 2022-07-29 |
 | [Losing Too Is Still Ours](https://open.spotify.com/track/4zZYAcXi89kdtUsqtIuUeu) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [YATTA](https://open.spotify.com/artist/111QPtbpDlO2bvIFI51bVD) | [Losing Too Is Still Ours](https://open.spotify.com/album/0ncryeoGcIJtYx5xyrjRwi) | 6:58 | 2021-10-20 | 2022-07-28 |

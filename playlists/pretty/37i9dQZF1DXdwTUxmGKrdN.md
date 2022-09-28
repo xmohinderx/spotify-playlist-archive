@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,233 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,374 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 17 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
 | 18 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 |
 | 19 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 |
-| 20 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
-| 21 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 20 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 21 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 22 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
 | 23 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 |
 | 24 | [Feels Like Friday Night](https://open.spotify.com/track/3bDsnnpzrp67FMcHmxOCFQ) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/1V6grlJgOrbatTYJAhfrFL) | 4:19 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 45 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
 | 46 | [Reasons](https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr) | [Michael C\. Lewis](https://open.spotify.com/artist/5eVoGHjBlD2E3OWOyAtPS4), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Reasons](https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB) | 4:29 |
 | 47 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 |
-| 48 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 |
-| 49 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 |
-| 50 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 |
+| 48 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 |
+| 49 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 |
+| 50 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 |
 | 51 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 |
 | 52 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 |
 | 53 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 61 | [Be Without You](https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Goin' All Out](https://open.spotify.com/album/119TqT324LissrAdkAKxf9) | 4:07 |
 | 62 | [Fired Up](https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR) | 4:22 |
 | 63 | [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 |
-| 64 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 |
-| 65 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 |
+| 64 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 |
+| 65 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 |
 | 66 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 |
 | 67 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 |
 | 68 | [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 |
-| 69 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
-| 70 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
+| 69 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
+| 70 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
 | 71 | [Timeline](https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Soulful](https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb) | 4:07 |
 | 72 | [Avenue](https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Undercover](https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi) | 3:58 |
 | 73 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 |
 | 74 | [Say What's on Your Mind](https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [The Journey](https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H) | 4:17 |
 | 75 | [Bass Trap](https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bass Trap](https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM) | 4:42 |
 
-Snapshot ID: `MTY2NDE3Nzc1MCwwMDAwMDAwMDNhNTA2Mjg5MzA1ZmI3Zjc3Yjg2ZTU5ODIxZTgzM2U4`
+Snapshot ID: `MTY2NDE3Nzc1MCwwMDAwMDAwMDcyOTlkZTg4YzM5Zjc2MGU5MDRmZTZkNmRlMjYyMmM2`

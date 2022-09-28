@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 807303,
+  "num_followers": 807727,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDQwMiwwMDAwMDAwMGU4NDk4MmIxOWVlYTlhNTg4YmRlODczZDQ4YWVjNzEx",
+  "snapshot_id": "MTY2MzkxNDQwMiwwMDAwMDAwMDZmOTMwZDhjZjkzODc3NmVmODFhN2JjOTIxMmI1ZTk4",
   "tracks": [
     {
       "added_at": "2022-09-16 12:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+      "duration_ms": 183893,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 183893,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 331826,
+      "name": "Why iii Love The Moon.",
+      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "Yesterday's Tomorrow",
-        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 331826,
-      "name": "Why iii Love The Moon.",
-      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Rewind - The Collection",
-        "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Rewind - The Collection",
+        "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Much Love",
-        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "The Ecleftic -2 Sides II A Book",
         "url": "https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm"
       },
@@ -1927,18 +1911,34 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Live from the Artists Den: Season 2",
-        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+        "name": "Live from the Artists Den: Season 2",
+        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
+      "duration_ms": 268853,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 162400,
       "name": "Have A Talk With God",
       "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "The Million Dollar Song",
-        "url": "https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 194294,
-      "name": "The Million Dollar Song",
-      "url": "https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Between Thought And Expression",
         "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 253373,
       "name": "Walk on the Wild Side",
       "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "The Million Dollar Song",
+        "url": "https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 194294,
+      "name": "The Million Dollar Song",
+      "url": "https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Adojio",
-        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        }
-      ],
-      "duration_ms": 190152,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
         "name": "Love In Synthesis",
         "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 249333,
       "name": "You Ain't The Problem",
       "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
+        "name": "Adojio",
+        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "duration_ms": 190152,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "duration_ms": 191135,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
+    },
+    {
+      "added_at": "2022-09-16 12:00:00",
+      "album": {
         "name": "The Love & War MasterPeace",
         "url": "https://open.spotify.com/album/0mnSA6vwMV26v6GWIrRM7Q"
       },
@@ -2507,18 +2523,18 @@
     {
       "added_at": "2022-09-16 12:00:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
+        "name": "(04:30) Idler",
+        "url": "https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7"
       },
       "artists": [
         {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+          "name": "Jamie Isaac",
+          "url": "https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b"
         }
       ],
-      "duration_ms": 191135,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
+      "duration_ms": 216493,
+      "name": "Doing Better",
+      "url": "https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6"
     },
     {
       "added_at": "2022-09-16 12:00:00",
@@ -2547,22 +2563,6 @@
       "duration_ms": 207293,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1Rd3q29I4tEwQKQudWh0Jd"
-    },
-    {
-      "added_at": "2022-09-16 12:00:00",
-      "album": {
-        "name": "(04:30) Idler",
-        "url": "https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7"
-      },
-      "artists": [
-        {
-          "name": "Jamie Isaac",
-          "url": "https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Doing Better",
-      "url": "https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6"
     },
     {
       "added_at": "2022-09-16 12:00:00",

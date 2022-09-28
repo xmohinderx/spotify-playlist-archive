@@ -4,7 +4,7 @@
 
 > ☀️!
 
-212 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
+213 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U) | 2:29 | 2022-07-15 | 2022-07-29 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-05-06 | 2022-09-24 |
 | [coming of age](https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [coming of age](https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5) | 2:38 | 2022-05-23 | 2022-05-28 |
+| [Common \(with Big Sean\)](https://open.spotify.com/track/2CJc3U1pViZ5E44pA0f2YI) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Common](https://open.spotify.com/album/5q1YapGe7F6PUseo0mTLSj) | 2:39 | 2022-09-23 |  |
 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-09-09 |  |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-09-02 | 2022-09-24 |
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-03 | 2022-07-28 |
@@ -125,7 +126,7 @@
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-05-06 | 2022-08-30 |
 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 | 2022-05-23 | 2022-07-29 |
-| [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-07-22 |  |
+| [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-07-22 | 2022-09-28 |
 | [ILLINOIS](https://open.spotify.com/track/4jh2hP44LsMrTLLnlhksf8) | [Novelo](https://open.spotify.com/artist/1RHfl90nY7Ut10DMRcKjDa) | [CARO MOSTRO](https://open.spotify.com/album/4zXlJMn3ZaaUIwR5VDArCx) | 2:28 | 2022-05-06 | 2022-07-17 |
 | [Insecure](https://open.spotify.com/track/72j6vUceQqGehRJQOqIAPj) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Insecure](https://open.spotify.com/album/4ftx6tVoQQj4LbrQTR9fqI) | 2:19 | 2022-05-13 | 2022-06-16 |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2022-05-06 | 2022-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 92938,
+  "num_followers": 92996,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDZmY2FlNTU0YzMwYzg2ZjkwMWU3MDRjMmRmMjQ2YTQw",
+  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDdhOTUyZThhNTk3ZTdkZDQ1ZDdiY2I3ZGYzMjI4Y2Vi",
   "tracks": [
     {
       "added_at": "2021-09-02 18:36:37",
@@ -547,6 +547,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Bail\u00e3o",
+        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
+      },
+      "artists": [
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Nobru Black",
+          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+        }
+      ],
+      "duration_ms": 210616,
+      "name": "Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "\u00c9TPM?!",
         "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 159010,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Bail\u00e3o",
-        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
-      },
-      "artists": [
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Nobru Black",
-          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
-        }
-      ],
-      "duration_ms": 210616,
-      "name": "Bail\u00e3o",
-      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -1003,34 +1003,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "C Walk 2",
-        "url": "https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "C Walk 2",
-      "url": "https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "POC POC",
         "url": "https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3"
       },
@@ -1071,6 +1043,34 @@
       "duration_ms": 223732,
       "name": "POC POC",
       "url": "https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "C Walk 2",
+        "url": "https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "C Walk 2",
+      "url": "https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Doka Language",
+        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "Olha Pro Oclin",
+      "url": "https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 190153,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Doka Language",
-        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "Olha Pro Oclin",
-      "url": "https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -1263,6 +1263,34 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -1307,34 +1335,6 @@
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
     },
     {
       "added_at": "2021-09-02 18:36:37",

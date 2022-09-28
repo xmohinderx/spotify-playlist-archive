@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Lo mas pegao en Dembow\. <br/>Cover: El Alfa, Trueno, Noriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,128 likes - 86 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,400 likes - 86 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

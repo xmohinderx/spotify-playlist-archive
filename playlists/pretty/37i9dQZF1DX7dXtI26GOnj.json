@@ -1,12 +1,12 @@
 {
   "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25  Foto: Camilo",
-  "num_followers": 95847,
+  "num_followers": 95912,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MTQ4MiwwMDAwMDAwMGNkYTVkMGVmNmEyM2NkMDZiMDdlMTU1ZjA0ZTBjNTA3",
+  "snapshot_id": "MTY2Mzk0MTQ4MiwwMDAwMDAwMDUxYmU1YmI2N2ZlMjI2MGI4YWE5ZGZkM2U5MDZhZTY5",
   "tracks": [
     {
       "added_at": "2022-09-23 13:58:02",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -319,22 +323,18 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "El Pa\u00f1uelo",
         "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 234706,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "added_at": "2022-09-23 13:58:02",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
-        "name": "D\u00e9jame Revisarte el Celular 2",
-        "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Laien",
-          "url": "https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg"
-        },
-        {
-          "name": "Los del fino",
-          "url": "https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw"
-        }
-      ],
-      "duration_ms": 158119,
-      "name": "D\u00e9jame Revisarte el Celular 2",
-      "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1399,6 +1379,46 @@
     {
       "added_at": "2022-09-23 13:58:02",
       "album": {
+        "name": "D\u00e9jame Revisarte el Celular 2",
+        "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Laien",
+          "url": "https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg"
+        },
+        {
+          "name": "Los del fino",
+          "url": "https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw"
+        }
+      ],
+      "duration_ms": 158119,
+      "name": "D\u00e9jame Revisarte el Celular 2",
+      "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
+        "name": "Wow Wow (feat. Becky G)",
+        "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Wow Wow (feat. Becky G)",
+      "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
+    },
+    {
+      "added_at": "2022-09-23 13:58:02",
+      "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
-    },
-    {
-      "added_at": "2022-09-23 13:58:02",
-      "album": {
-        "name": "Wow Wow (feat. Becky G)",
-        "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Wow Wow (feat. Becky G)",
-      "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
     },
     {
       "added_at": "2022-09-23 13:58:02",

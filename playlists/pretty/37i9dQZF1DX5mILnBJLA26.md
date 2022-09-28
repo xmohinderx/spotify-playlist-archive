@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=JXvz7f1kRZ2bgimxyT\-XIA">Sha Sha</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,245 likes - 80 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,657 likes - 80 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

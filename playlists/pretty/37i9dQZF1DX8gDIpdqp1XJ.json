@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 787914,
+  "num_followers": 788427,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk3Njg4MCwwMDAwMDAwMDgxMjIzOWFiMDdkMmIzZWQ2OGZkMzVlZmFkZDgwODFi",
+  "snapshot_id": "MTY2Mzk3Njg4MCwwMDAwMDAwMGU4NGI0ZjE4MjQxYjRjYjYyMDRkZTFjYmViYTdiYTJk",
   "tracks": [
     {
       "added_at": "2022-09-23 23:48:00",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
-    },
-    {
       "added_at": "2022-09-23 23:48:00",
       "album": {
         "name": "DECIDE",
@@ -327,6 +311,22 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Get A Good Look",
-        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "The Symposium",
         "url": "https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 284769,
       "name": "The Physical Attractions",
       "url": "https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Get A Good Look",
+        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Saturdays",
-        "url": "https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Saturdays",
-      "url": "https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Metronomy Forever",
         "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 272973,
       "name": "The Light",
       "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Saturdays",
+        "url": "https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Saturdays",
+      "url": "https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 185226,
       "name": "Hours",
       "url": "https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -891,22 +907,6 @@
       "duration_ms": 146875,
       "name": "Cotton Candy Lemonade",
       "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1159,42 +1159,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        },
-        {
-          "name": "Sonic Boom",
-          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Gettin\u2019 to the Point",
-      "url": "https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -1215,18 +1179,38 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Earth Worship",
-        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
       },
       "artists": [
         {
-          "name": "Rubblebucket",
-          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
         }
       ],
-      "duration_ms": 217530,
-      "name": "Earth Worship",
-      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Gettin\u2019 to the Point",
+      "url": "https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 237741,
       "name": "Sensitivity",
       "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Earth Worship",
+        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "duration_ms": 217530,
+      "name": "Earth Worship",
+      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Edge of the Edge",
         "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 288746,
       "name": "Edge of the Edge",
       "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Ultimate Painting",
+        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Painting",
+          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+        }
+      ],
+      "duration_ms": 219129,
+      "name": "Ultimate Painting",
+      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "When We Knew Less",
         "url": "https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Ultimate Painting",
-        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
       "artists": [
         {
-          "name": "Ultimate Painting",
-          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 219129,
-      "name": "Ultimate Painting",
-      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 113073,
       "name": "ANTIGRAVITY",
       "url": "https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-09-02 05:58:00",

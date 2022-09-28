@@ -376,6 +376,28 @@
     },
     {
       "album": {
+        "name": "Sunshine Factory (Remixes)",
+        "url": "https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv"
+      },
+      "artists": [
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "anna jetson - DJ_Dave Edit",
+      "url": "https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq"
       },

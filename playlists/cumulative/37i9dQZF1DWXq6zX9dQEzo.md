@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-355 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+356 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 | 2022-02-04 | 2022-04-30 |
 | [Buena Onda](https://open.spotify.com/track/2BvGBY2zBcEptXP5K8pRuy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Buena Onda](https://open.spotify.com/album/7A8XQQfQmqv43Wb5Rpyg50) | 2:41 | 2022-02-04 | 2022-05-11 |
 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 | 2022-02-04 | 2022-04-21 |
-| [BURBERRY COAT!](https://open.spotify.com/track/475oF6CksHeKkdsbxoNmcq) | [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM) | [BURBERRY COAT!](https://open.spotify.com/album/0s4maTbXOB6YHd8I0jHO8x) | 3:01 | 2022-04-30 |  |
+| [BURBERRY COAT!](https://open.spotify.com/track/475oF6CksHeKkdsbxoNmcq) | [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM) | [BURBERRY COAT!](https://open.spotify.com/album/0s4maTbXOB6YHd8I0jHO8x) | 3:01 | 2022-04-30 | 2022-09-28 |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-04-30 |  |
 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-07-17 |  |
 | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/track/188vYbJMU4hbfLb2bWUTUA) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/album/7hUoPoTdZAW4ETjJt7cZGp) | 3:34 | 2022-02-04 |  |
@@ -126,6 +126,7 @@
 | [Golden](https://open.spotify.com/track/7MRWXpI22LKFKFK08yxwSD) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Mixtape: Side A](https://open.spotify.com/album/50guywYSFP8FOVD8mQZ48k) | 2:52 | 2022-02-04 | 2022-04-30 |
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-04-30 | 2022-05-28 |
 | [Good to Go Pt\. 2](https://open.spotify.com/track/1Gr9Ccudl5csFspGkLE0oj) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Good to Go Pt\. 2](https://open.spotify.com/album/0kLZcQ8HJDddIWtw18otP5) | 3:51 | 2022-07-17 | 2022-09-17 |
+| [Good to Go Pt\. 2](https://open.spotify.com/track/25PJLj7vZm8kx1vAWTonUd) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Good to Go Pt\. 2](https://open.spotify.com/album/0H39xyx22auqK4l0SyH6bd) | 3:51 | 2022-09-03 |  |
 | [Good To Go, Pt\. 2](https://open.spotify.com/track/21fThCIz6c4Brj6stR2heN) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Good To Go, Pt\. 2](https://open.spotify.com/album/01X2Tb4GM8aWcYAJRsNxqn) | 3:51 | 2022-02-04 | 2022-07-29 |
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-02-04 | 2022-04-30 |
 | [GREAT](https://open.spotify.com/track/6OjIYgQpFbcg59lEgtZQsD) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [OUTSIDE](https://open.spotify.com/album/62XFRZYHaavaZAc1hDrhYX) | 2:02 | 2022-02-04 | 2022-05-29 |

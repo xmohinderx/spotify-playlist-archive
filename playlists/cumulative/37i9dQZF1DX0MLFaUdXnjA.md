@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Giveon
 
-1,066 songs - 2 day 8 hr 40 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,067 songs - 2 day 8 hr 43 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Hope They Love You](https://open.spotify.com/track/3HMsXNChCvgMHlwfrsUJtC) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Hope They Love You](https://open.spotify.com/album/7p6CGwOqdBNowCM2jPJFAZ) | 2:55 | 2021-04-03 | 2021-06-26 |
 | [House On Fire](https://open.spotify.com/track/2arUPf0itcdIqtG0nUvM3A) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [House On Fire](https://open.spotify.com/album/1SMq5Zk0H2wJX5nXKNCROP) | 3:13 | 2021-06-12 | 2021-08-07 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2020-08-30 | 2020-12-04 |
+| [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [How It Goes](https://open.spotify.com/track/3QDQyIW4SgoGxDosNGLByc) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [How It Goes](https://open.spotify.com/album/7aCewuMYy1BnRvk4V2fhUf) | 2:19 | 2021-04-03 | 2021-06-26 |
 | [How Very Dare You](https://open.spotify.com/track/4q3FPRih12RUEOAuGRXJN1) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:45 | 2022-09-14 |  |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-09-25 | 2021-10-09 |
@@ -652,7 +653,7 @@
 | [my only mistake](https://open.spotify.com/track/4CgUc04LVffgB3UxU5pZhD) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [my only mistake](https://open.spotify.com/album/7LajH8FQw6TrTUFghxO6eh) | 3:12 | 2021-03-26 | 2021-06-12 |
 | [My Person](https://open.spotify.com/track/0a3oURCG3s5cpAPNcdDm6e) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [My Person](https://open.spotify.com/album/0hCFjworN4bxpXRH2GBQR5) | 3:06 | 2021-03-26 | 2021-06-05 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-11 | 2022-03-26 |
-| [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 | 2022-03-25 |  |
+| [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 | 2022-03-25 | 2022-09-28 |
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2020-07-24 | 2020-08-21 |
 | [My Wife & 2 Dogs](https://open.spotify.com/track/4v2sn6bAwasHE6SPY0zil2) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [My Wife & 2 Dogs](https://open.spotify.com/album/17xtwQqIkV3lbQNlzDVFuC) | 2:18 | 2021-02-19 | 2021-04-24 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-03-26 | 2021-04-03 |

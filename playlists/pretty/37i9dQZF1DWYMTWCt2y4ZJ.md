@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMTWCt2y4ZJ.md) - [plain]
 
 > Bring in the new day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,455 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,482 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMTWCt2y4ZJ.md) - [plain]
 | 39 | [Sway](https://open.spotify.com/track/7lxc6ruehlBCTMjCdeCDlf) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 2:58 |
 | 40 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 |
 | 41 | [Rising Ochre](https://open.spotify.com/track/4saKM7jBELMIlLqMfIwPDN) | [The Light Sail](https://open.spotify.com/artist/5M7skfxJFZQ2FL2q1ZDXF3) | [Sona](https://open.spotify.com/album/6L1Ky0jzreyEh7IO6kXLTr) | 3:17 |
-| 42 | [Spirit of Suvidha](https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6) | [Cling](https://open.spotify.com/artist/6jZtpEBm85W5lBViBhqtuY) | [Spirit of Suvidha](https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m) | 2:44 |
+| 42 | [Spirit of Suvidha](https://open.spotify.com/track/4grKRzSE5X7wagEemdYcK6) | [Cling](https://open.spotify.com/artist/45cyu48KZ9TCcORA7W4Apw) | [Spirit of Suvidha](https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m) | 2:44 |
 | 43 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 |
 | 44 | [A Brand New Day](https://open.spotify.com/track/5CXsOfxNl8GJjMQ31EGqgg) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [A Brand New Day](https://open.spotify.com/album/5JvZSiMZWf2wJ6botEHlNs) | 2:02 |
 | 45 | [Flow Mantra](https://open.spotify.com/track/0MUZMlXkCImE3untBOxjO8) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Guardian Spirit](https://open.spotify.com/album/03VIm7VSJi8xdIdZrhopiE) | 3:22 |

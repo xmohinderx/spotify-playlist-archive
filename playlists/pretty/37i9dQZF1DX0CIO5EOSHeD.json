@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 371188,
+  "num_followers": 371587,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDg3ZGZkNGFmODc2Y2JhNDZiY2FmNThjZDk4NmZlOTRm",
+  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDhkMDk4ZjNhMDNjODhlNDg5NjNjZmQ4ODQ5NGUyZGY1",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "AHH!!",
         "url": "https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "PAINLESS",
+        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Buzzkill Bummer",
-        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Buzzkill Bummer",
-      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 127085,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Buzzkill Bummer",
+        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Buzzkill Bummer",
+      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Double Superfine",
         "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 204564,
       "name": "Darcy",
       "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "blood on the pavement",
-        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
-      },
-      "artists": [
-        {
-          "name": "chemical club",
-          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "blood on the pavement",
-      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "blood on the pavement",
+        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "blood on the pavement",
+      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "softcore mourn",
         "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 243102,
       "name": "sugar ray",
       "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Dreams of Losing Teeth",
+        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 202818,
+      "name": "Dreams of Losing Teeth",
+      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "BOYO",
-          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
         }
       ],
-      "duration_ms": 243666,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
       "artists": [
         {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "BOYO",
+          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
         }
       ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+      "duration_ms": 243666,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
-      },
-      "artists": [
-        {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "wish i could see you again",
         "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 187988,
       "name": "wish i could see you again",
       "url": "https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
     },
     {
       "added_at": "2022-09-13 23:04:24",

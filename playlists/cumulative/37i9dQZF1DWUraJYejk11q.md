@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-188 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+189 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-08-04 |
 | [Re\-Wild \(Breaka Remix\)](https://open.spotify.com/track/2aaEMU2r1cZxD5Yw9wH3rg) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Inner Song Remix Series](https://open.spotify.com/album/3cBnpVzF3oRpBqtvoEVvbA) | 5:16 | 2021-10-15 | 2022-02-10 |
 | [Rhino](https://open.spotify.com/track/2HzRf22923yy1kTNNuE7kC) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 3:03 | 2021-10-15 | 2022-02-10 |
+| [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 | 2022-09-28 |  |
 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 | 2021-10-15 | 2022-07-29 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-10-15 | 2022-02-01 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-15 |  |
@@ -149,7 +150,7 @@
 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 | 2021-10-15 |  |
 | [Solar Plexus](https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c) | [Karakter](https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL) | [Solar Plexus](https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A) | 3:49 | 2022-08-31 |  |
 | [Space 3](https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 3](https://open.spotify.com/album/4Z5hSkWEc9MuQUZ0HArRij) | 1:15 | 2021-10-15 | 2022-02-10 |
-| [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 | 2022-03-03 |  |
+| [Star City](https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6) | [Solomon Fesshaye](https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4) | [Star City](https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb) | 4:23 | 2022-03-03 | 2022-09-28 |
 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2022-01-12 | 2022-07-09 |
 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 | 2022-03-11 |  |
 | [Stirling Bridge \- DJ Dairy & DJ Orient \(black midi\) Remix](https://open.spotify.com/track/4RePVG6qQVvl2nIyPrhtYx) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA), [DJ Dairy](https://open.spotify.com/artist/1nvsLtEJECKpOfyqBXjLs8), [DJ Orient](https://open.spotify.com/artist/4SH7ll7VUPHf5QMCeNPMkv) | [Stirling Bridge \[DJ Dairy & DJ Orient \(black midi\) Remix\]](https://open.spotify.com/album/1XIVUXpnRBfge9QR9TEq6p) | 5:17 | 2021-10-15 | 2022-02-10 |

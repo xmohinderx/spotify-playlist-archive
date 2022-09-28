@@ -480,6 +480,28 @@
     },
     {
       "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/3XXAqB2toFnj3mPMlC5nim"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215527,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/4mGRwVmJgYfM6buErDPI5U"
+    },
+    {
+      "album": {
         "name": "Catching a Vibe",
         "url": "https://open.spotify.com/album/5BsGg3trz9FlMXsGlXyl2C"
       },
@@ -744,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/77bK4tR9Nep9QMqQL6ZIjE"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/1hZrP0VIX9aiFdAWh3JlIW"
+    },
+    {
+      "album": {
         "name": "Didn't Know",
         "url": "https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl"
       },
@@ -755,7 +795,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 168896,
       "name": "Didn't Know",
       "url": "https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H"
@@ -1385,7 +1425,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 183750,
       "name": "Know My Name",
       "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
@@ -1553,7 +1593,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 201868,
       "name": "Liquor Store",
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
@@ -2173,6 +2213,24 @@
       "duration_ms": 202023,
       "name": "Riser",
       "url": "https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8"
+    },
+    {
+      "album": {
+        "name": "Say No More",
+        "url": "https://open.spotify.com/album/1E6TykuEqYxjkkAOPBzwUM"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232568,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ"
     },
     {
       "album": {

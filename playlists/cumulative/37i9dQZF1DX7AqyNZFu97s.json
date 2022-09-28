@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Kingfishr",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Bea Stewart",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 160519,
       "name": "77bpm",
       "url": "https://open.spotify.com/track/2kUO8aZdDRU2WWS7vy04o2"
@@ -1440,6 +1440,32 @@
     },
     {
       "album": {
+        "name": "BMH+",
+        "url": "https://open.spotify.com/album/2IqvSsMCExC9kHRfmwWfIo"
+      },
+      "artists": [
+        {
+          "name": "Baski+",
+          "url": "https://open.spotify.com/artist/4uIOKz6HjGP4VhP1GVVxEL"
+        },
+        {
+          "name": "Finch Fetti",
+          "url": "https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi"
+        },
+        {
+          "name": "22Ted",
+          "url": "https://open.spotify.com/artist/649T1V6RuWcEMnolTdjwSm"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114337,
+      "name": "BMH+",
+      "url": "https://open.spotify.com/track/37Qm1OHZbzfRpMN1fTNI3H"
+    },
+    {
+      "album": {
         "name": "Bobs n' Bits",
         "url": "https://open.spotify.com/album/7lmG7UHRg9FFoFg4HjmKgt"
       },
@@ -1469,7 +1495,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 97265,
       "name": "Boom Boom Bah",
       "url": "https://open.spotify.com/track/2OV5pTesWYNmr1Rac8T5BB"
@@ -1531,6 +1557,24 @@
       "duration_ms": 218635,
       "name": "Brick Phone",
       "url": "https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j"
+    },
+    {
+      "album": {
+        "name": "Burning Questions",
+        "url": "https://open.spotify.com/album/4fj6OCEJNaXK31wUbtL80K"
+      },
+      "artists": [
+        {
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Burning Questions",
+      "url": "https://open.spotify.com/track/5jwibtM6x3f8SMSNWY7Ca7"
     },
     {
       "album": {
@@ -1628,6 +1672,24 @@
     },
     {
       "album": {
+        "name": "Call me?",
+        "url": "https://open.spotify.com/album/2SPWg0pRrifWZ2cL91beub"
+      },
+      "artists": [
+        {
+          "name": "Ritho",
+          "url": "https://open.spotify.com/artist/7vzVjHcRJej3H3HH4Jhc4N"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176021,
+      "name": "Call me?",
+      "url": "https://open.spotify.com/track/1foPquU59VBf6n7XBVKkYU"
+    },
+    {
+      "album": {
         "name": "Can't Help U",
         "url": "https://open.spotify.com/album/6AGOWIKeILE1B7qEDM3yVz"
       },
@@ -1719,7 +1781,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 216000,
       "name": "CLUB AFFIRMATIONS",
       "url": "https://open.spotify.com/track/6zbjdQunRv1e6v3vAXVxez"
@@ -1924,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Coy",
+        "url": "https://open.spotify.com/album/3D7QRHgV4oG71cUuoI0sQO"
+      },
+      "artists": [
+        {
+          "name": "Marina Rose",
+          "url": "https://open.spotify.com/artist/6Od6MGbki3WBCYFD4GFkjr"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135836,
+      "name": "Coy",
+      "url": "https://open.spotify.com/track/4tEI3XXnqCHv13c1cAEPxX"
+    },
+    {
+      "album": {
         "name": "cranberry",
         "url": "https://open.spotify.com/album/6VKKuzD4ztiIf5czRTdvgC"
       },
@@ -2119,7 +2199,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 182789,
       "name": "Dau Fyd",
       "url": "https://open.spotify.com/track/56iNeWBIKXEZZjuRpKBUQO"
@@ -2603,6 +2683,24 @@
       "duration_ms": 208106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t"
+    },
+    {
+      "album": {
+        "name": "Drunk Text",
+        "url": "https://open.spotify.com/album/64uyNa0QQ2pagCUmdMlqHK"
+      },
+      "artists": [
+        {
+          "name": "lilianne",
+          "url": "https://open.spotify.com/artist/4QSD2XUu0a8JS54NZ3HmjZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219062,
+      "name": "Drunk Text",
+      "url": "https://open.spotify.com/track/4pe5oDdk2m1FlTN7IFOKZX"
     },
     {
       "album": {
@@ -3096,6 +3194,28 @@
     },
     {
       "album": {
+        "name": "Feet Will Fall",
+        "url": "https://open.spotify.com/album/02U4QmOfJ3xvtggo4nNqaI"
+      },
+      "artists": [
+        {
+          "name": "Hemai",
+          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
+        },
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227267,
+      "name": "Feet Will Fall",
+      "url": "https://open.spotify.com/track/3GYwH4usfHI0CcDTXXqqkB"
+    },
+    {
+      "album": {
         "name": "Felt Right",
         "url": "https://open.spotify.com/album/0Ah94Wtue6N9qAKMVfmPk6"
       },
@@ -3205,6 +3325,28 @@
       "duration_ms": 152247,
       "name": "Floor Filler",
       "url": "https://open.spotify.com/track/0QL9woW24e68y3kX4m6pvG"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/0PBGFp8DmOMvlMNHSzQZJe"
+      },
+      "artists": [
+        {
+          "name": "Telica",
+          "url": "https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc"
+        },
+        {
+          "name": "Amalie Bryde",
+          "url": "https://open.spotify.com/artist/6ZRXf3EvRlQul3Uq06WnYN"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6VxV2nFPhZEkq2DJx0G4Xt"
     },
     {
       "album": {
@@ -3750,6 +3892,24 @@
     },
     {
       "album": {
+        "name": "Gone Away",
+        "url": "https://open.spotify.com/album/7EMYsTL9x51BD6szWpUmP6"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290426,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA"
+    },
+    {
+      "album": {
         "name": "good enough",
         "url": "https://open.spotify.com/album/239ocIsPQA6jrnILumsg7n"
       },
@@ -4107,6 +4267,28 @@
       "duration_ms": 165659,
       "name": "Headtop Buss From Luss",
       "url": "https://open.spotify.com/track/53UjIJ47Uf6B7pFs7Mwf1L"
+    },
+    {
+      "album": {
+        "name": "Heaven Now",
+        "url": "https://open.spotify.com/album/2kmYn1KCIPzum8qkEXDIAk"
+      },
+      "artists": [
+        {
+          "name": "Dylan And The Moon",
+          "url": "https://open.spotify.com/artist/3R5ofhh1bKZBJqbNWQmSKy"
+        },
+        {
+          "name": "Lots Holloway",
+          "url": "https://open.spotify.com/artist/1oeovFVdIKl5zo21UEmMFr"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Heaven Now",
+      "url": "https://open.spotify.com/track/1Y0Zm3ZQETG8f7RqRKZ7Yz"
     },
     {
       "album": {
@@ -5397,7 +5579,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 148800,
       "name": "Longtime",
       "url": "https://open.spotify.com/track/5a6cHRJSiOesfByK46HPyp"
@@ -5947,7 +6129,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 234986,
       "name": "Mending",
       "url": "https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE"
@@ -7927,7 +8109,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 172015,
       "name": "Send Me A Sign",
       "url": "https://open.spotify.com/track/5PSjyo0CRmt1GYxqgQCD1l"
@@ -8097,6 +8279,24 @@
       "duration_ms": 136213,
       "name": "Silent Movie",
       "url": "https://open.spotify.com/track/6W85fbQbVmKkEQs1W88vQK"
+    },
+    {
+      "album": {
+        "name": "Simmer Down",
+        "url": "https://open.spotify.com/album/6iVokxWrp9bB8QOzlHSnxt"
+      },
+      "artists": [
+        {
+          "name": "Bluey Robinson",
+          "url": "https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183855,
+      "name": "Simmer Down",
+      "url": "https://open.spotify.com/track/588PD4ef9Naq17zduReyoo"
     },
     {
       "album": {
@@ -8549,7 +8749,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 171692,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/7H6ywRMJC8ECoEeGQaC5lz"
@@ -8891,7 +9091,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 184000,
       "name": "That's My Girl",
       "url": "https://open.spotify.com/track/5mIcfBmdGpLec0g5AS6RTb"
@@ -9061,7 +9261,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 176000,
       "name": "Through the Phone",
       "url": "https://open.spotify.com/track/1LI10td4SIasqGvOIHrjoi"
@@ -9724,6 +9924,24 @@
     },
     {
       "album": {
+        "name": "Will U?",
+        "url": "https://open.spotify.com/album/1cQOGRO6hvQmK1HSNz8WTU"
+      },
+      "artists": [
+        {
+          "name": "Marika",
+          "url": "https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "Will U?",
+      "url": "https://open.spotify.com/track/5P21Hso7pxsKcw8eKD2uSA"
+    },
+    {
+      "album": {
         "name": "with me",
         "url": "https://open.spotify.com/album/1uLhTkXnn1jYZSbBAv1RWk"
       },
@@ -10017,7 +10235,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 213416,
       "name": "Young Professional",
       "url": "https://open.spotify.com/track/0FNQBwVkK8cuCQvhafAPGq"

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Lupita Infante en portada.",
-  "num_followers": 95241,
+  "num_followers": 95312,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMGRmNmM2MDgyM2M0MDkyMzQ2MGZjNGEzYWZlY2JjODNm",
+  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMDcyYmMzMzliYzYyNTI1Y2MxMGRlZTA0MDJhMDQ1YjI1",
   "tracks": [
     {
       "added_at": "2022-06-08 17:57:52",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Canciones de Mi Pueblo",
-        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Canciones de Mi Pueblo",
+        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
     },
     {
       "added_at": "2022-06-08 17:57:52",

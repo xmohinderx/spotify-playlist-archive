@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "202",
       "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 153225,
       "name": "ABALO EMOCIONAL - Ao Vivo",
       "url": "https://open.spotify.com/track/5A35xC90Nk6tXmcOAOOavi"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 169771,
       "name": "Acordo - Ao Vivo",
       "url": "https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx"
@@ -3996,6 +3996,28 @@
     },
     {
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
+    },
+    {
+      "album": {
         "name": "Ficante Fiel",
         "url": "https://open.spotify.com/album/4nw8CoyoBHT7PIEzKXjvOD"
       },
@@ -4707,6 +4729,28 @@
       "duration_ms": 173255,
       "name": "I'd Rather Have Sex",
       "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "album": {
@@ -8347,7 +8391,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
@@ -8741,7 +8785,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 202562,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
@@ -9383,7 +9427,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
@@ -9855,7 +9899,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 188852,
       "name": "X1",
       "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"

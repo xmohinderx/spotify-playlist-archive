@@ -4,17 +4,19 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
 
-95 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+98 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(There's No Place Like\) Home for the Holidays](https://open.spotify.com/track/3jJLVy3NYbhPoJ8Vxb3523) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [A Christmas Gift Of Love](https://open.spotify.com/album/3ZqzVifknOsE9ucaWijcmq) | 2:25 | 2021-10-01 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:22 | 2021-10-01 |  |
+| [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 | 2022-09-27 |  |
 | [A Song and a Christmas Tree \(The Twelve Days of Christmas\)](https://open.spotify.com/track/5wbQ6oZjDZO9xREdXA0CZw) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 3:54 | 2021-10-01 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:51 | 2021-10-01 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/5BYz6McvNTXD60vRFLkIMw) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:58 | 2021-10-01 |  |
 | [Baby, It's Cold Outside \- Remastered 2004](https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:23 | 2021-10-01 |  |
 | [Blue Christmas](https://open.spotify.com/track/1WLweWdf4XaTIrFygnoEzJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:14 | 2021-10-01 |  |
+| [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2022-09-27 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4cfFatS3ssDtqDDRz25RRB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:07 | 2021-10-01 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:47 | 2021-10-01 |  |
 | [Christmas Never Gets Old](https://open.spotify.com/track/6YqRfia7aKIg8VhOI2nzmz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6sBJqAdfDlrldHZk8R9xew) | 2:42 | 2021-10-01 |  |
@@ -37,6 +39,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1WrksSayukHRLctEsjcSGf) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/1QKSquXHKLOclEqcstI9vN) | 4:03 | 2021-10-01 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3FBelB9y5TwsdJMLPYBsbs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 3:02 | 2021-10-01 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7yUx5eB7jvq8wuhhOn3Nas) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 3:02 | 2021-10-01 | 2022-07-29 |
+| [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 | 2022-09-27 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 | 2021-10-01 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/24R1qc77L7eb38XKBFIfEN) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Before Christmas](https://open.spotify.com/album/2NCP9hd23zIKGnjueQT3SR) | 3:03 | 2021-10-01 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/4lftz0V8DZhWSVtL4GrzMH) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 | 2021-10-01 |  |

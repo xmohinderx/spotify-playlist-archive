@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6104,
+  "num_followers": 6106,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDY4ZDE3ZTQyYWU1ZWQ0MmU2OGEzMGYyZTJjMjZmOTM3",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDgzZjQ5NTZmMGMzZjdjNjc0MWYwZDc1Y2NiYWE3MTEy",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
-        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "When The Saints Go Marching In",
-      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "1917-36",
         "url": "https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 166893,
       "name": "Tiger Rag",
       "url": "https://open.spotify.com/track/4lpABAEz6pviy9jbCRyEhU"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/5VEIQ7S6AJehhbXAsnT27j"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "South Rampart Street Parade",
         "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 266866,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Livery Stable Blues (Barnyard Blues)",
-      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Goes South!",
         "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 220540,
       "name": "Milenberg Joys",
       "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Livery Stable Blues (Barnyard Blues)",
+      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
     },
     {
       "added_at": "2020-08-19 17:19:14",

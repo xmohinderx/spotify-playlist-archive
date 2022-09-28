@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,523 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,659 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 90 | [Blue Line](https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Heartcore](https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ) | 6:11 |
 | 91 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
 | 92 | [Odd Man Out](https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 4:13 |
-| 93 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
+| 93 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 |
 | 94 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
 | 95 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
 | 96 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 97 | [Rumspringa](https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN) | [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39), [Lage Lund](https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E) | [Idlewild](https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV) | 7:28 |
-| 98 | [Stella By Starlight](https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Joachim Schoenecker](https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa) | [Dialogues](https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG) | 6:11 |
-| 99 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 |
-| 100 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 |
+| 98 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 |
+| 99 | [Stella By Starlight](https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Joachim Schoenecker](https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa) | [Dialogues](https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG) | 6:11 |
+| 100 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
 
-Snapshot ID: `MTY2MzkyNjM4MCwwMDAwMDAwMDEyNjFlMWM1YzQ4ZTgwNjJiMzgwM2E1YmU0YjA4ZGYz`
+Snapshot ID: `MTY2MzkyNjM4MCwwMDAwMDAwMGVjZTViYmU4Y2M0NDNhOTFmMDAwY2JjMTlmMzJkZTEz`

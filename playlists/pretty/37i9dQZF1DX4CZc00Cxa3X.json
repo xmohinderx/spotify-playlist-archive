@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 13123,
+  "num_followers": 13161,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4OTA5NCwwMDAwMDAwMGIyZDgzMTIwNzJhM2U0OTM2MDRlYzAyNmMzNWY0YmY2",
+  "snapshot_id": "MTY2MzY4OTA5NCwwMDAwMDAwMGMyZDgyM2UzYWNiZGU4NTE5YzdmZjMyN2RhZTNjNDNi",
   "tracks": [
     {
       "added_at": "2022-09-20 15:51:34",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Sparrow Arc Tall",
-        "url": "https://open.spotify.com/album/4Gsw06a8dhF4Ynw4AlKuBP"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 124733,
-      "name": "Sparrow Arc Tall",
-      "url": "https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Music For Psychedelic Therapy",
         "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 562173,
       "name": "Ascending, Dawn Sky",
       "url": "https://open.spotify.com/track/3TqSk9b44VmdSgGllFcqmA"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Sparrow Arc Tall",
+        "url": "https://open.spotify.com/album/4Gsw06a8dhF4Ynw4AlKuBP"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Sparrow Arc Tall",
+      "url": "https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Book of Life",
-        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
-        }
-      ],
-      "duration_ms": 264683,
-      "name": "Fog",
-      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Strands",
         "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 155980,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Book of Life",
+        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "duration_ms": 264683,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -419,22 +419,18 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp"
+        "name": "Salutations",
+        "url": "https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U"
       },
       "artists": [
         {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        },
-        {
-          "name": "Sherry Finzer",
-          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
         }
       ],
-      "duration_ms": 184342,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/763djtvLAPkAhk6t5oOUoi"
+      "duration_ms": 193000,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -455,18 +451,22 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Salutations",
-        "url": "https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc"
+      "duration_ms": 184342,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/763djtvLAPkAhk6t5oOUoi"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
+        "name": "No\u0301tt (Theta Waves)",
+        "url": "https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        },
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "duration_ms": 243669,
+      "name": "No\u0301tt (Theta Waves)",
+      "url": "https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Miocene",
         "url": "https://open.spotify.com/album/5vwrG91MohIuhJGNgU3EUk"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 704359,
       "name": "Miocene",
       "url": "https://open.spotify.com/track/0aPnmWMriv7aORMdc0PQQI"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
-        "name": "No\u0301tt (Theta Waves)",
-        "url": "https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe"
-      },
-      "artists": [
-        {
-          "name": "Adam Bokesch",
-          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
-        },
-        {
-          "name": "Sound Bath",
-          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
-        }
-      ],
-      "duration_ms": 243669,
-      "name": "No\u0301tt (Theta Waves)",
-      "url": "https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Adversarial Policies",
-        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Morse",
-          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
-        }
-      ],
-      "duration_ms": 474666,
-      "name": "Nothing but Endless Rejections",
-      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 128000,
       "name": "Haze",
       "url": "https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Adversarial Policies",
+        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Morse",
+          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
+        }
+      ],
+      "duration_ms": 474666,
+      "name": "Nothing but Endless Rejections",
+      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo"
-      },
-      "artists": [
-        {
-          "name": "Origin ST",
-          "url": "https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9"
-        }
-      ],
-      "duration_ms": 373894,
-      "name": "Surfacing",
-      "url": "https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Dreams of Being Cornered",
         "url": "https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja"
       },
@@ -759,6 +743,38 @@
       "duration_ms": 186354,
       "name": "Dragged by the Hand",
       "url": "https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Sleep Better",
+        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+      },
+      "artists": [
+        {
+          "name": "Tom Middleton",
+          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+        }
+      ],
+      "duration_ms": 599000,
+      "name": "Relax 6 (Awakening)",
+      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo"
+      },
+      "artists": [
+        {
+          "name": "Origin ST",
+          "url": "https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9"
+        }
+      ],
+      "duration_ms": 373894,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 472500,
-      "name": "2c",
-      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "The Unfolding",
         "url": "https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Sleep Better",
-        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
       },
       "artists": [
         {
-          "name": "Tom Middleton",
-          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 599000,
-      "name": "Relax 6 (Awakening)",
-      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
+      "duration_ms": 472500,
+      "name": "2c",
+      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "310",
-        "url": "https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG"
+        "name": "Clarion",
+        "url": "https://open.spotify.com/album/6bwGn6t0zkAN8KMEbKJmMx"
       },
       "artists": [
         {
-          "name": "Koiwa",
-          "url": "https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS"
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
         }
       ],
-      "duration_ms": 332000,
-      "name": "310",
-      "url": "https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB"
+      "duration_ms": 576507,
+      "name": "Clarion",
+      "url": "https://open.spotify.com/track/3NkbX8CT16SAoC772UUf9F"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -891,38 +891,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Crescent",
-        "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 351379,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
-        "name": "Clarion",
-        "url": "https://open.spotify.com/album/6bwGn6t0zkAN8KMEbKJmMx"
-      },
-      "artists": [
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 576507,
-      "name": "Clarion",
-      "url": "https://open.spotify.com/track/3NkbX8CT16SAoC772UUf9F"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Oto No Wa: Selected Sounds of Japan 1988-2018",
         "url": "https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 351313,
       "name": "Sealed",
       "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "310",
+        "url": "https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG"
+      },
+      "artists": [
+        {
+          "name": "Koiwa",
+          "url": "https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "310",
+      "url": "https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Filament and Place",
-        "url": "https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t"
-      },
-      "artists": [
-        {
-          "name": "Innesti",
-          "url": "https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE"
-        }
-      ],
-      "duration_ms": 352306,
-      "name": "Notwithstanding",
-      "url": "https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Being (Midori Hirano Rework)",
         "url": "https://open.spotify.com/album/3N9fNfWHwjqnt1oVpT3U3a"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190500,
       "name": "Being - Midori Hirano Rework",
       "url": "https://open.spotify.com/track/1chIXynfO7wfUcRARw76sz"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Filament and Place",
+        "url": "https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t"
+      },
+      "artists": [
+        {
+          "name": "Innesti",
+          "url": "https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE"
+        }
+      ],
+      "duration_ms": 352306,
+      "name": "Notwithstanding",
+      "url": "https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "a world of possibility",
-        "url": "https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx"
-      },
-      "artists": [
-        {
-          "name": "monosleep",
-          "url": "https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt"
-        }
-      ],
-      "duration_ms": 392090,
-      "name": "winter fingertips",
-      "url": "https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Multi Natural",
         "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 78762,
       "name": "Marmara Beach II",
       "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "a world of possibility",
+        "url": "https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx"
+      },
+      "artists": [
+        {
+          "name": "monosleep",
+          "url": "https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt"
+        }
+      ],
+      "duration_ms": 392090,
+      "name": "winter fingertips",
+      "url": "https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ"
     },
     {
       "added_at": "2022-09-20 15:51:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-20 15:51:34",
       "album": {
-        "name": "Aix Em Klemm",
-        "url": "https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ"
-      },
-      "artists": [
-        {
-          "name": "Aix Em Klemm",
-          "url": "https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma"
-        }
-      ],
-      "duration_ms": 439333,
-      "name": "Prue Lewarne",
-      "url": "https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB"
-    },
-    {
-      "added_at": "2022-09-20 15:51:34",
-      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 137528,
       "name": "Doubled Flutes",
       "url": "https://open.spotify.com/track/31WhK6qzj9WmsVa46XROQR"
+    },
+    {
+      "added_at": "2022-09-20 15:51:34",
+      "album": {
+        "name": "Aix Em Klemm",
+        "url": "https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ"
+      },
+      "artists": [
+        {
+          "name": "Aix Em Klemm",
+          "url": "https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma"
+        }
+      ],
+      "duration_ms": 439333,
+      "name": "Prue Lewarne",
+      "url": "https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB"
     },
     {
       "added_at": "2022-09-20 15:51:34",

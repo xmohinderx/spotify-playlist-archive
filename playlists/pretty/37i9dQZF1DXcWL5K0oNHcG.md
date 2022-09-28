@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Suwon Yim Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,118 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,202 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 69 | [Music Is...](https://open.spotify.com/track/0J8FzPzwtMy5RnA6MluT1g) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6), [Mr Auden Allen](https://open.spotify.com/artist/0U2TVQt3LJkuyoVLItCNNp) | [Music Is...](https://open.spotify.com/album/5tedbT0X1QmomzhVjaJgj9) | 6:35 |
 | 70 | [World of Computers, Pt\. 2](https://open.spotify.com/track/2zSurdX35O6JpcFPfovFKc) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [World of Computers, Pt\. 2](https://open.spotify.com/album/3XviVYmxxwb01U6svvZQWq) | 6:08 |
 
-Snapshot ID: `MTY2Mzc2Njc1NSwwMDAwMDAwMGI4Y2I5NzYxZGFmMTcwYzhmMmRlMjkxMDBmYTkxNjk4`
+Snapshot ID: `MTY2NDI4NTk2NiwwMDAwMDAwMGIwMWFmYTM2OWJjMjJlMjk1ZTUzNzlkODU5ZDQ2ODgw`

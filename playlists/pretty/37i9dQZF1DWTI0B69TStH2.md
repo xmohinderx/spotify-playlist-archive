@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Daria ze Śląska \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,409 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,469 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 |
 | 2 | [MIEJSCA](https://open.spotify.com/track/5h90iokIq0iTutieNrW9u0) | [Suzia](https://open.spotify.com/artist/5nNtMnFVruYrc8I0TMozNi) | [MIEJSCA](https://open.spotify.com/album/1H3EJbA1rGWpevebFi8Q4w) | 4:14 |
 | 3 | [W Rzymie](https://open.spotify.com/track/16isPnmbOkusKtt1Hc767c) | [Jelsa](https://open.spotify.com/artist/6Dnxm2hLGxFJBD3RmNpy3K) | [W Rzymie](https://open.spotify.com/album/3X4mXn5E6uKXtkZ4Dj6WtV) | 2:57 |
-| 4 | [Alive](https://open.spotify.com/track/0Ai5Tt7mbvbDIzqfvAIDQ1) | [Afterglow](https://open.spotify.com/artist/1yM1cUer9x26IZw8F4Vhpb) | [Alive EP](https://open.spotify.com/album/7yzsLCgW6wbJMh47Ojpr3i) | 4:18 |
+| 4 | [Alive](https://open.spotify.com/track/0Ai5Tt7mbvbDIzqfvAIDQ1) | [AFTERGLOW](https://open.spotify.com/artist/1yM1cUer9x26IZw8F4Vhpb) | [Alive EP](https://open.spotify.com/album/7yzsLCgW6wbJMh47Ojpr3i) | 4:18 |
 | 5 | [Jestem Sama](https://open.spotify.com/track/2wVEJLV3G5X84wvIoD80Tz) | [Cheap Tobacco](https://open.spotify.com/artist/15kkqvIcypRQGUiE17Shej) | [Zobaczmy siebie](https://open.spotify.com/album/5v8Bwq2B8IfgSVX6gwTWAP) | 3:40 |
 | 6 | [Bestia](https://open.spotify.com/track/5SFNNxJLLpqCMIvZ1jrSdD) | [Fera](https://open.spotify.com/artist/2OL0qPNuOfZAhgadZE6KiX) | [Bestia](https://open.spotify.com/album/1OtsloPAZuX1ndFr2RbajF) | 4:12 |
 | 7 | [Szumi mi](https://open.spotify.com/track/6PMqEsgXYaz5CzTBfxOyPU) | [oh!anna](https://open.spotify.com/artist/6gOPcsOgq19O2BoHNzzuKd) | [oh!anna](https://open.spotify.com/album/0OePcgYb5aKC6F9mku84GY) | 4:24 |

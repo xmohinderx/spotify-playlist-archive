@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 118645,
+  "num_followers": 118730,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDUxNTBiMTNkZjRlN2I1NWI2YjI0NjZkYTU2ZWEzYjA5",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDRmNmEwMTIwMTQzMDJiNmI2MjdkNGIzN2RjYTkyMTNh",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Lose Your Head (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -491,22 +471,6 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -527,18 +491,38 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Another Riff For The Good Times / Daydreaming",
-        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 228843,
-      "name": "Another Riff For The Good Times",
-      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lose Your Head (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -555,6 +539,22 @@
       "duration_ms": 252125,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Another Riff For The Good Times / Daydreaming",
+        "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 228843,
+      "name": "Another Riff For The Good Times",
+      "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Hope In Balance",
         "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 278796,
       "name": "Hope In Balance",
       "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "I Saw Good",
-        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "I Saw Good",
-      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Need You By My Side",
         "url": "https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 200874,
       "name": "Need You By My Side",
       "url": "https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "I Saw Good",
+        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "I Saw Good",
+      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Calling EP",
-        "url": "https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Face The Sun",
         "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 439437,
       "name": "Face The Sun",
       "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Calling EP",
+        "url": "https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "The Blame",
-        "url": "https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 265832,
-      "name": "The Blame - Single Edit",
-      "url": "https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Lager Beers EP",
         "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 253454,
       "name": "Heyoka",
       "url": "https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "The Blame",
+        "url": "https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 265832,
+      "name": "The Blame - Single Edit",
+      "url": "https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "List (Hosini Remix)",
+        "url": "https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "List",
+      "url": "https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Poison (feat. Darla Jade)",
         "url": "https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 183750,
       "name": "Poison (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "List (Hosini Remix)",
-        "url": "https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "List",
-      "url": "https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Freedom Call",
-        "url": "https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo"
-      },
-      "artists": [
-        {
-          "name": "Nick Warren",
-          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
-        },
-        {
-          "name": "Black 8",
-          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
-        }
-      ],
-      "duration_ms": 239789,
-      "name": "Freedom Call",
-      "url": "https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "2 Late 4 Love (Danny Howard Remix)",
         "url": "https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK"
       },
@@ -1419,22 +1399,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Under Your Spell (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U"
+        "name": "Freedom Call",
+        "url": "https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo"
       },
       "artists": [
         {
-          "name": "Trutopia",
-          "url": "https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o"
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Black 8",
+          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
         }
       ],
-      "duration_ms": 219250,
-      "name": "Under Your Spell (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
+      "duration_ms": 239789,
+      "name": "Freedom Call",
+      "url": "https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1459,6 +1439,26 @@
       "duration_ms": 419654,
       "name": "Some Good Here - John Monkman Remix",
       "url": "https://open.spotify.com/track/2kH7Ql0mFf5IqyEdS94PfM"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Under Your Spell (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U"
+      },
+      "artists": [
+        {
+          "name": "Trutopia",
+          "url": "https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Under Your Spell (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV"
     }
   ],
   "unique_name": "Melodic & Euphoric",

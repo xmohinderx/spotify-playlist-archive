@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-105 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+106 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 | 2021-10-19 | 2022-09-21 |
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 |  |
-| [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 |  |
+| [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |
 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 | 2022-09-20 |  |
@@ -99,6 +99,7 @@
 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 | 2022-09-20 |  |
 | [Twahachtek ana](https://open.spotify.com/track/2kfxJQaJsGpe0eYjM8pIxE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Twahachtek ana](https://open.spotify.com/album/08QVX3oPM46w3beaRWgfGE) | 4:03 | 2021-10-19 | 2022-09-21 |
 | [Twahachtek Omri](https://open.spotify.com/track/1QcJ7OsYeuhFsCzKyy1j4L) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Twahachtek Omri](https://open.spotify.com/album/7DIDz2uxqKJ4mhhBqCj4jZ) | 4:38 | 2021-10-19 | 2022-09-21 |
+| [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 | 2022-09-27 |  |
 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 | 2022-09-20 |  |
 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 | 2021-10-19 | 2022-09-21 |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |

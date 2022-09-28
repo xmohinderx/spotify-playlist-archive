@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-162 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+163 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [sad day](https://open.spotify.com/track/6QRW5LyXtArAKluiyYfUA3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [sad day](https://open.spotify.com/album/2cademwJfslSCuNwtUoj9P) | 4:15 | 2022-05-06 | 2022-07-29 |
 | [Sensation \- \(Rrose Remix\)](https://open.spotify.com/track/6mXZitYdWnNeNx9t8waEc7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Rrose](https://open.spotify.com/artist/1ZrkDKbDuhDmXUqzyAt3qa) | [Sensation \(Rrose Remix\) // Clear \(Abdulla Rashim Remix\)](https://open.spotify.com/album/7K0nZVtfsp3BlasSyoy3OA) | 8:32 | 2022-05-06 | 2022-07-28 |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2022-05-06 |  |
+| [Sharevari](https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b) | [Aidan Noell](https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Sharevari](https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l) | 5:51 | 2022-09-27 |  |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2022-05-06 | 2022-07-29 |
-| [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 | 2022-05-06 |  |
+| [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 | 2022-05-06 | 2022-09-28 |
 | [Small Talk \(Okay\) \- Short Edit](https://open.spotify.com/track/6myz65R8kdkWg1ZWzDFgLK) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Small Talk \(Okay\)](https://open.spotify.com/album/1ZCOm2DINc1mPNYqk6qQyc) | 4:20 | 2022-05-06 | 2022-07-29 |
 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 | 2022-05-06 |  |
 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 | 2022-05-06 |  |

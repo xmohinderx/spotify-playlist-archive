@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: S.O.
 
-669 songs - 1 day 9 hr 48 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+670 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Autopilot](https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [All Is True](https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs) | 3:16 | 2021-12-11 | 2022-04-27 |
 | [Awake](https://open.spotify.com/track/2rpARiXUBYX83iPmNBokTv) | [Raging Moses](https://open.spotify.com/artist/61uIyi5xk0EFfRnMccXuWR), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [Awake](https://open.spotify.com/album/1z1lWHaYtg1grbXtLNQquL) | 2:30 | 2022-02-27 | 2022-04-29 |
 | [Baby Boy \(feat\. Kaeli Roselle\)](https://open.spotify.com/track/3nxipxyGXTIU2yHAJbBeZA) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kaeli Roselle](https://open.spotify.com/artist/6T0JCDK8e0MjyxHgQpI8VC) | [Baby Boy \(feat\. Kaeli Roselle\)](https://open.spotify.com/album/21xMITdxBTqGZEfiMxjEfp) | 4:08 | 2021-12-11 | 2022-02-01 |
-| [Back n Bold \(Freestyle\)](https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Back n Bold \(Freestyle\)](https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk) | 2:19 | 2022-09-11 |  |
+| [Back n Bold \(Freestyle\)](https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Back n Bold \(Freestyle\)](https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk) | 2:19 | 2022-09-11 | 2022-09-28 |
 | [Back Then](https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:26 | 2022-04-29 | 2022-08-07 |
 | [BackFromTheDEAD](https://open.spotify.com/track/78C9EoGlquveRwSxGTMYWz) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [BackFromTheDEAD](https://open.spotify.com/album/1QLo8FSmf3uw0krewhQ4TU) | 4:35 | 2021-12-11 | 2022-05-29 |
 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 | 2022-07-17 |  |
@@ -624,6 +624,7 @@
 | [Waves](https://open.spotify.com/track/23PRXbBw9oy3qYEcpH8EA4) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi), [Kemvr](https://open.spotify.com/artist/6USRvrIzDysFY3UboXvIi1), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu) | [Waves](https://open.spotify.com/album/1B0IpP91SnnhZcvLeDfQiv) | 3:08 | 2022-05-28 | 2022-07-26 |
 | [WAY MAKER](https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [WAY MAKER](https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9) | 2:43 | 2022-05-28 |  |
 | [Way Up Above](https://open.spotify.com/track/08BgE9GK8JqCtei5uav42G) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Way Up Above](https://open.spotify.com/album/4fQsqoiZJlOBQPP0VriUi2) | 3:59 | 2021-12-11 | 2022-02-03 |
+| [Ways Pure](https://open.spotify.com/track/22Xw1GmBdYFT4qvKQnzJFU) | [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [TYJ](https://open.spotify.com/artist/2GgCDulCqeerOttLqFizHT), [Izzy Music](https://open.spotify.com/artist/45180TSD18jljIBTMq3OF5) | [Ways Pure](https://open.spotify.com/album/0tiPB0pmGvMogjdNOzrzJf) | 2:59 | 2022-09-16 |  |
 | [We Against The World](https://open.spotify.com/track/5nHPN5G9b5WPpYHbT8Oglp) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Against The World](https://open.spotify.com/album/3HAvaqmxJYPdAZOIPoAxhV) | 3:11 | 2021-12-11 | 2022-02-05 |
 | [We All In \(feat\. Lecrae\)](https://open.spotify.com/track/3M1iIXPHJUmiO5aTtdvZmA) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Terraform: The People](https://open.spotify.com/album/6sE9d6HcymH41mlxmB6qwI) | 3:43 | 2021-12-11 | 2022-02-01 |
 | [we are not the same.](https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Pishko](https://open.spotify.com/artist/16dnHAXP1cxzQJkiPqp6eS) | [we are not the same.](https://open.spotify.com/album/0plwRQPja2ffJTaV456WSx) | 1:53 | 2022-04-29 | 2022-08-07 |

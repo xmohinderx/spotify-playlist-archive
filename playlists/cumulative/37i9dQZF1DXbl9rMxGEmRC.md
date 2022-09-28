@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-306 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+307 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
+| [Corset](https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ) | [Cloud Rat](https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG) | [Corset](https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K) | 1:46 | 2022-09-16 |  |
 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd) | 6:22 | 2022-07-13 |  |
 | [Cosmic Keys to My Creations and Times \- Emperor EP](https://open.spotify.com/track/2Dm4omgxnNrLchOhyVriSC) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath of the Tyrant](https://open.spotify.com/album/6oF6z5RZWANz1V2q0qQp2L) | 6:22 | 2022-07-13 | 2022-07-28 |
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 |  |
-| [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 |  |
+| [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 | 2022-09-28 |
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-03-19 |
 | [Noblesse Oblige Richesse Oblige](https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [There's Always Blood At The End Of The Road](https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4) | 5:06 | 2022-01-14 | 2022-07-25 |
 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 | 2022-02-11 | 2022-04-23 |

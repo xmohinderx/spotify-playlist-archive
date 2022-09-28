@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 268800,
       "name": "(Can't You) Trip Like I Do",
       "url": "https://open.spotify.com/track/5Vip8qySvWP12QaJoPliOA"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 176413,
       "name": "I am not a woman, I'm a god",
       "url": "https://open.spotify.com/track/5RhFmJifQe83FpQ6ZFFTZ5"
@@ -1791,6 +1791,24 @@
       "duration_ms": 217779,
       "name": "My Own Summer",
       "url": "https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY"
+    },
+    {
+      "album": {
+        "name": "Narc",
+        "url": "https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1"
+      },
+      "artists": [
+        {
+          "name": "Cutouts",
+          "url": "https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Narc",
+      "url": "https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj"
     },
     {
       "album": {

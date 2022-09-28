@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/0FLWOJP4ciCFfLsIIGtpGB"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "El No Te Lo Hace Como Yo",
+      "url": "https://open.spotify.com/track/786ucSqbklwP2Z3Attszoe"
+    },
+    {
+      "album": {
         "name": "La Verdadera Maquina",
         "url": "https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa"
       },

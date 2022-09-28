@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Grass(Jiselle(\uc9c0\uc140))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Grass(THAMA(\ub530\ub9c8))",
   "name": "K-Are & Be",
   "published_playlist_ids": [
     "0kvpJtsvIoyFKt5gsRYiS9"
@@ -491,6 +491,24 @@
       "duration_ms": 213275,
       "name": "comedy",
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "album": {
+        "name": "Complicated Needles",
+        "url": "https://open.spotify.com/album/3m4dDrPmFG9Uzgl1C7y5zM"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7hJyTX9CUFlYDmbVPuv8nT"
     },
     {
       "album": {

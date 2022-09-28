@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,758 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,771 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 30 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 |
 | 31 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 0:32 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDA5ZjIwMTA5NGQ0ZDhkODQxODRjZGRkNjg4Mzk4ZDY4ZA==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDA1NzFjMDMzOTUwZWZiNDE2MTA3MDA3YzE2ZGMyOThmMg==`

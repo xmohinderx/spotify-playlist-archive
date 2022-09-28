@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-876 songs - 1 day 23 hr 27 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+877 songs - 1 day 23 hr 29 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2021-04-18 | 2021-04-19 |
 | [Sonic](https://open.spotify.com/track/1bRw06D8CPwN7ycLIXHFbP) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Alitiz](https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 2:42 | 2021-06-05 | 2021-07-17 |
 | [Sorry](https://open.spotify.com/track/25EQ2K52izRy1WkMFbym2Z) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 3:48 | 2021-03-27\* | 2021-03-29 |
+| [Spasta](https://open.spotify.com/track/6Pq8tAHFCeGZnnxKxBwpGb) | [EPITHE](https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Spasta](https://open.spotify.com/album/14NZPETHeIAUnc2EHSmdgO) | 2:18 | 2022-09-27 |  |
 | [Spike Lee](https://open.spotify.com/track/4hzoisriVP221xVoKj7MBy) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dennis Green](https://open.spotify.com/artist/30bQ8c641ETu2iVczEdZSk) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:18 | 2022-05-13 | 2022-07-09 |
 | [SPIRTO KE VENZINI](https://open.spotify.com/track/2CVq7d4qmSXAEBOiTrfUF5) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YENNA](https://open.spotify.com/album/0rO6uiPCtDL4m6CMS0Y4X9) | 3:02 | 2022-06-05 | 2022-06-25 |
 | [Sport Billy](https://open.spotify.com/track/66yGk627843tRtbjWQnQoL) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Sport Billy](https://open.spotify.com/album/232sfkEh50rws6LORPORne) | 2:58 | 2021-12-03 | 2021-12-06 |
@@ -810,7 +811,7 @@
 | [Toxic](https://open.spotify.com/track/41EqMrpRlLK9Z3dRxGBUSM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:00 | 2022-07-08 | 2022-07-24 |
 | [Toxic](https://open.spotify.com/track/2qpfZ2moqDexxFAdIa8Ljz) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC) | [Toxic](https://open.spotify.com/album/6ay2vyQiLWVOR10KffT94k) | 2:40 | 2021-10-17 | 2021-10-18 |
 | [Toxic](https://open.spotify.com/track/2N0tFg37a9UoayIpuDbKRr) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Toxic](https://open.spotify.com/album/09BAB4vPS7m88RvNlVTPUa) | 3:52 | 2022-02-15 | 2022-02-21 |
-| [Trafficante](https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Trafficante](https://open.spotify.com/album/0srJiVl5KXjpP3fFioNcu6) | 4:20 | 2022-02-13 |  |
+| [Trafficante](https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Trafficante](https://open.spotify.com/album/0srJiVl5KXjpP3fFioNcu6) | 4:20 | 2022-02-13 | 2022-09-28 |
 | [Trap Boy](https://open.spotify.com/track/4VguoC6EzngS1QamDFPMWk) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:00 | 2022-02-26 | 2022-02-28 |
 | [Trap Car](https://open.spotify.com/track/1lbhclCD6SHlkEbxPMOXVC) | [Scar](https://open.spotify.com/artist/0RvMynE7qhIfAZdMHkA1Mq), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Goons](https://open.spotify.com/album/07r0WakxR92LhYYIR7Kbnb) | 3:28 | 2022-04-21 | 2022-04-24 |
 | [TrapLife](https://open.spotify.com/track/5aFybnjLrxe6E88i63IyK4) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TrapLife](https://open.spotify.com/album/3fnbgVRpYb6ByRkFO8uoW0) | 2:38 | 2021-10-17 | 2022-04-14 |

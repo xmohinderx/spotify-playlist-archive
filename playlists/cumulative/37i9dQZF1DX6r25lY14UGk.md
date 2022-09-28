@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-108 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+109 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Take You With Me](https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:28 | 2022-04-15 |  |
 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 | 2022-04-15 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 |  |
+| [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 | 2022-09-27 |  |
 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 |  |
 | [The Road to Gettin' Better \(Is Not a Straight Line\)](https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [The Road to Gettin' Better](https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC) | 2:52 | 2022-04-15 |  |
 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 | 2022-04-15 |  |

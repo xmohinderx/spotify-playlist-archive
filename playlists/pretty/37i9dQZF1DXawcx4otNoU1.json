@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 436276,
+  "num_followers": 436521,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMDIyY2RjNjY1NWRiYzQ0YzIxOGI4OTBlY2M1ZDUxOTE2",
+  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMGNiNWUyMzBiMDFhYzJlZjhiMzQ4ODI5MGU4ZmRlZTRj",
   "tracks": [
     {
       "added_at": "2022-09-09 12:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 196364,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Only Ticket Home",
         "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 178246,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
+      },
+      "artists": [
+        {
+          "name": "Chris Call",
+          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Animals - Unplugged Version",
+      "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
         "name": "Risking It All",
         "url": "https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 190500,
       "name": "Risking It All",
       "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
-      },
-      "artists": [
-        {
-          "name": "Chris Call",
-          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Animals - Unplugged Version",
-      "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Twosomeness",
-        "url": "https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU"
-      },
-      "artists": [
-        {
-          "name": "Pascal Pinon",
-          "url": "https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "\u00deerney (One Thing)",
-      "url": "https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "No Ill",
         "url": "https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 179014,
       "name": "no ill",
       "url": "https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Twosomeness",
+        "url": "https://open.spotify.com/album/44pxsSkBHvNDm2H5LiamIU"
+      },
+      "artists": [
+        {
+          "name": "Pascal Pinon",
+          "url": "https://open.spotify.com/artist/6vuHXpySAbiBH0BlWpznYZ"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u00deerney (One Thing)",
+      "url": "https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
+      },
+      "artists": [
+        {
+          "name": "Parker Louis",
+          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
+        }
+      ],
+      "duration_ms": 243784,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
       },
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
+        "name": "Sex + Hennessy",
+        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
       "artists": [
         {
-          "name": "Parker Louis",
-          "url": "https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD"
+          "name": "Eimizah",
+          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
         }
       ],
-      "duration_ms": 243784,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
+      "duration_ms": 155744,
+      "name": "Sex + Hennessy",
+      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2343,22 +2359,6 @@
       "duration_ms": 187337,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/2gy3giTHyomIx4jps8VHjl"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
-        "name": "Sex + Hennessy",
-        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
-      },
-      "artists": [
-        {
-          "name": "Eimizah",
-          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Sex + Hennessy",
-      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2475,18 +2475,22 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/1tfz53aOx3BveGngGj3K3l"
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/4NXuzbjVQkBzDXMrbb2rfv"
       },
       "artists": [
         {
-          "name": "Samuel Gajicki",
-          "url": "https://open.spotify.com/artist/0lXF2cCg1bzrguJVr4GhqO"
+          "name": "Carley Bearden",
+          "url": "https://open.spotify.com/artist/3c8xof9mx6WTi7UHyJ2WhZ"
+        },
+        {
+          "name": "Taka$",
+          "url": "https://open.spotify.com/artist/3nkQI11P6Ukhe3LClNZxNs"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/29fBKVsA6W7etY7W2P7sS9"
+      "duration_ms": 194634,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM"
     }
   ],
   "unique_name": "Spooning",

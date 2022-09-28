@@ -1618,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230464,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc"
+    },
+    {
+      "album": {
         "name": "In Sensitivity",
         "url": "https://open.spotify.com/album/4P4aVTwG7B6mO7w3G6qnXq"
       },
@@ -2105,6 +2123,24 @@
       "duration_ms": 289960,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN"
+    },
+    {
+      "album": {
+        "name": "Norfolk Hotel",
+        "url": "https://open.spotify.com/album/3OyYu4vdYFTIS0iseUKGfx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274176,
+      "name": "Norfolk Hotel",
+      "url": "https://open.spotify.com/track/2OhAqX7sDaxpE23yAF3nYJ"
     },
     {
       "album": {

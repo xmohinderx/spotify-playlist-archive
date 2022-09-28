@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 15581,
+  "num_followers": 15634,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGY3Nzg2NGIwNmYwZTk0ZjY1M2U3N2UzZjYxMDE4ZWRk",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGFmZDYwMjI2ZDdhOGJlY2Y2ZTFlZTQwM2JkYTlhZTM1",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Salud Por Nuestro 25 Aniversario",
-        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "El Privilegio De Quererte",
-      "url": "https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Banda #1's 2016",
         "url": "https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 202906,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Salud Por Nuestro 25 Aniversario",
+        "url": "https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "El Privilegio De Quererte",
+      "url": "https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP"
     },
     {
       "added_at": "2022-02-11 20:24:54",

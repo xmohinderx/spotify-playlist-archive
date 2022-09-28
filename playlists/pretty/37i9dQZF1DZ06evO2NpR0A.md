@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,790 likes - 42 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,845 likes - 42 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 41 | [Do You Need Power? \(Walk Out Music\)](https://open.spotify.com/track/4zaK7pzY7D5GkOlkT4i8ru) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 1:55 |
 | 42 | [Naeem](https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 4:22 |
 
-Snapshot ID: `Mjc3MzY2NjEsMDAwMDAwMDBiNzMzNWRlZmYzMWY4NDM2MWI3YTE4NmY1ZDFiNDY5NQ==`
+Snapshot ID: `Mjc3Mzg0NzksMDAwMDAwMDBkMTA5YTA0ZWViZDJiZmRhZTgwYTg4M2RmZWQ2ZTJjOQ==`

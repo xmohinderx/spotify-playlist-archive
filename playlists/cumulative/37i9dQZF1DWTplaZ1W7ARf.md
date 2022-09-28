@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Hotboii
 
-134 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+135 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Rain](https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Rain](https://open.spotify.com/album/2Tw5eFuipEz0DsS8J9WVTR) | 2:50 | 2022-07-15 |  |
 | [Real Shit \(feat\. Morray\)](https://open.spotify.com/track/5XWcUsn2AmuLvPMwdXGecw) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 3:19 | 2022-08-19 |  |
 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 | 2022-03-04 |  |
-| [Red Rum](https://open.spotify.com/track/6I7XaK4nUMSxffsrPK1N1w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Red Rum](https://open.spotify.com/album/3XIv1aLbGLyOEgqVWeUbbc) | 2:42 | 2022-08-26 |  |
+| [Red Rum](https://open.spotify.com/track/6I7XaK4nUMSxffsrPK1N1w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Red Rum](https://open.spotify.com/album/3XIv1aLbGLyOEgqVWeUbbc) | 2:42 | 2022-08-26 | 2022-09-28 |
+| [Red Rum](https://open.spotify.com/track/1y0yLJAGeLA91cHNa7A64R) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:45 | 2022-08-26 |  |
 | [Rekindle 23](https://open.spotify.com/track/0DRK4uoktTTD9W72ZO4ObW) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Rekindle 23](https://open.spotify.com/album/0mWeL65r9hJVpFX8KvUSX4) | 3:23 | 2022-09-09 |  |
 | [Rich How I'm Dyin](https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Rich How I'm Dyin](https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF) | 2:33 | 2022-08-05 |  |
 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 | 2021-06-04 | 2022-01-29 |

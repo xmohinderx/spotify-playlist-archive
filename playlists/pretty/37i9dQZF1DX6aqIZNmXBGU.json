@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17217,
+  "num_followers": 17214,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDVjNTM5ODVmYmIwMzhhMmFiZmUyNDllNzdjOWZiMjIx",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMGZhMzQxY2QwNzM1YzU0NmYxOTFhODViNjJjNzllMWM3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Lick the Bag",
-      "url": "https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Glazin'",
         "url": "https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203906,
       "name": "Glazin'",
       "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Lick the Bag",
+      "url": "https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb"
     },
     {
       "added_at": "2021-04-09 06:19:31",

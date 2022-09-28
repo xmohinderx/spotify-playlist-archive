@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 65006,
+  "num_followers": 65077,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDgwM2I2YzU2MzVmMWQ1OTgwNjBkYTQ4MGUwM2U3Mzdi",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDk0NWE4ZmI5ZGYyMGFiOWI2NzA2ZmJlMzZmZjM1OTAx",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Miles Davis Featuring John Coltrane",
-        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 583266,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Thelonious Alone In San Francisco",
         "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 217333,
       "name": "Bluehawk",
       "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
     },
     {
       "added_at": "2020-10-12 18:15:54",

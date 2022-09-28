@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853554,
+  "num_followers": 853588,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDBjMDgwYTQ1ZmZhNjhhMDRhYmEwOGFkMzhjYzJlN2Jm",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDQ1ZWI0ODA2Y2NlNGZlZGUxY2RlZjA2N2FiODExMzRk",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Reaper",
-        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Pull From The Ghost",
-        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
+        "name": "Reaper",
+        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
       },
       "artists": [
         {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 251191,
-      "name": "Pull From The Ghost",
-      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
+      "duration_ms": 199500,
+      "name": "Reaper",
+      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -303,6 +287,22 @@
       "duration_ms": 198000,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Pull From The Ghost",
+        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 251191,
+      "name": "Pull From The Ghost",
+      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Ketamine",
-        "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 172019,
-      "name": "Ketamine",
-      "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Ketamine",
+        "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 172019,
+      "name": "Ketamine",
+      "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Dedication To Flesh",
-        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Dedication To Flesh",
-      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Collapse",
         "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210385,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Dedication To Flesh",
+      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Your Love I'll Never Need",
-        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "Your Love I'll Never Need",
-      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 187285,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
-      },
-      "artists": [
-        {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
-        }
-      ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182750,
       "name": "NWWM",
       "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "UFO Party",
         "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 242769,
       "name": "UFO Party",
       "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
+      "duration_ms": 191000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
       "artists": [
         {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
         }
       ],
-      "duration_ms": 191000,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+      "duration_ms": 169000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
     },
     {
       "added_at": "2022-09-16 13:00:00",

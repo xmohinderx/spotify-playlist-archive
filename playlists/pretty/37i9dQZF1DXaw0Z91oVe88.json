@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1642,
+  "num_followers": 1643,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDQxMmEzNTlmNGM0YmEwNTBkYzUwM2RjYjFjNmNhMTAx",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDg3MzUwOWU2Y2U4NjNhMDZjNzU5Yjc4OWI0MzVkY2Ix",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "sleeplessness",
+        "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 293395,
+      "name": "sleeplessness",
+      "url": "https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "sleeplessness",
-        "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 293395,
-      "name": "sleeplessness",
-      "url": "https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -627,6 +627,26 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "YOU (feat .Beenzino)",
+        "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
+      },
+      "artists": [
+        {
+          "name": "Lim Seul Ong",
+          "url": "https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 255689,
+      "name": "YOU (feat. Beenzino)",
+      "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "Spring to Spring",
         "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "YOU (feat .Beenzino)",
-        "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
-      },
-      "artists": [
-        {
-          "name": "Lim Seul Ong",
-          "url": "https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 255689,
-      "name": "YOU (feat. Beenzino)",
-      "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
     },
     {
       "added_at": "2022-09-05 15:56:32",

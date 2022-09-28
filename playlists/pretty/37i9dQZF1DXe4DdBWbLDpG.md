@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Éxodo Lirical y las mejores batallas\. Assista los clips y descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,759 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,760 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

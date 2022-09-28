@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Lux Ahena",
+        "url": "https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq"
+      },
+      "artists": [
+        {
+          "name": "CRUHDA",
+          "url": "https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334500,
+      "name": "Cabalga la bestia",
+      "url": "https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed"
+    },
+    {
+      "album": {
         "name": "Fall to Pieces",
         "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
       },
@@ -1450,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Salt & Copper",
+        "url": "https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB"
+      },
+      "artists": [
+        {
+          "name": "Aphty Kh\u00e9a",
+          "url": "https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272959,
+      "name": "Salt & Copper",
+      "url": "https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd"
+    },
+    {
+      "album": {
         "name": "Salvador",
         "url": "https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9"
       },
@@ -1673,6 +1709,10 @@
         {
           "name": "Fenella",
           "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
+        },
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
         }
       ],
       "date_added": "2022-09-21",

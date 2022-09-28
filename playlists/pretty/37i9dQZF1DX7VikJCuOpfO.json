@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61719,
+  "num_followers": 61736,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDNhYjU5YjczNTA2MTM1MWQzYjFlMjFiOWQ3MTVkOTA1",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGFiYmRhZjBlYTUyNTQzMGZlMGEwODk1ZTQyNjIyYWE2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "10 PM (Popular)",
-        "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 213180,
-      "name": "10 PM - Popular",
-      "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Amor Ilegal",
         "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 170253,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "10 PM (Popular)",
+        "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "10 PM - Popular",
+      "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Con Todo y Mi Tristeza (Live)",
-        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
       },
       "artists": [
         {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 258730,
-      "name": "Con Todo y Mi Tristeza - Live",
-      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
         }
       ],
-      "duration_ms": 214071,
-      "name": "Mi Reflejo",
-      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quinto Elemento (Deluxe)",
-        "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Amarlas Es Un Placer",
-      "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Pero Me Acuerdo de Ti",
         "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 255759,
       "name": "Pero Me Acuerdo de Ti",
       "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Quinto Elemento (Deluxe)",
+        "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Amarlas Es Un Placer",
+      "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0"
-      },
-      "artists": [
-        {
-          "name": "Rogelio Martinez",
-          "url": "https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH"
-        }
-      ],
-      "duration_ms": 211356,
-      "name": "Por Siempre Ser\u00e1s M\u00eda",
-      "url": "https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "No Mereces Que Te Quiera",
         "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0"
+      },
+      "artists": [
+        {
+          "name": "Rogelio Martinez",
+          "url": "https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH"
+        }
+      ],
+      "duration_ms": 211356,
+      "name": "Por Siempre Ser\u00e1s M\u00eda",
+      "url": "https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Voy a Pintar un Coraz\u00f3n (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/4uZmHK8Y2MKE6F8s2oJ9OO"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 216953,
-      "name": "Voy a Pintar un Coraz\u00f3n - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/0atCb83uaB9dGUWYr51Drc"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "4 Sue\u00f1os 1 Realidad",
         "url": "https://open.spotify.com/album/097uRa0DMJZanpTP0INZGy"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 206477,
       "name": "No Mereces Tanto",
       "url": "https://open.spotify.com/track/3JyUkAAwKKAwlE7QW94e4c"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Voy a Pintar un Coraz\u00f3n (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/4uZmHK8Y2MKE6F8s2oJ9OO"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 216953,
+      "name": "Voy a Pintar un Coraz\u00f3n - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/0atCb83uaB9dGUWYr51Drc"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Ganas",
+        "url": "https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv"
+      },
+      "artists": [
+        {
+          "name": "ADA OLEA",
+          "url": "https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz"
+        }
+      ],
+      "duration_ms": 188637,
+      "name": "Qu\u00e9 Ganas",
+      "url": "https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "La Cama De Piedra - En Vivo",
         "url": "https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 185893,
       "name": "La Cama De Piedra - En Vivo",
       "url": "https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Ganas",
-        "url": "https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv"
-      },
-      "artists": [
-        {
-          "name": "ADA OLEA",
-          "url": "https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz"
-        }
-      ],
-      "duration_ms": 188637,
-      "name": "Qu\u00e9 Ganas",
-      "url": "https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "No Queda de Otra",
-        "url": "https://open.spotify.com/album/7lnPWHavMWZt4Zm7Yh2OFl"
-      },
-      "artists": [
-        {
-          "name": "Jorge Almir",
-          "url": "https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869"
-        }
-      ],
-      "duration_ms": 187765,
-      "name": "No Queda de Otra",
-      "url": "https://open.spotify.com/track/35LlbTW5B5Xm5hA5S4C4LD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Cartas Marcadas",
         "url": "https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 189527,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "No Queda de Otra",
+        "url": "https://open.spotify.com/album/7lnPWHavMWZt4Zm7Yh2OFl"
+      },
+      "artists": [
+        {
+          "name": "Jorge Almir",
+          "url": "https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869"
+        }
+      ],
+      "duration_ms": 187765,
+      "name": "No Queda de Otra",
+      "url": "https://open.spotify.com/track/35LlbTW5B5Xm5hA5S4C4LD"
     },
     {
       "added_at": "2022-07-29 04:00:00",

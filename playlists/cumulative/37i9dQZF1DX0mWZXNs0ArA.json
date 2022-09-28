@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "Bad Habit (Sped Up)",
+        "url": "https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191335,
+      "name": "Bad Habit - Sped Up",
+      "url": "https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb"
+    },
+    {
+      "album": {
         "name": "Black Out Days (Sped Up)",
         "url": "https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal"
       },
@@ -1233,6 +1251,28 @@
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
+    },
+    {
+      "album": {
+        "name": "Summertime Sadness (Sped Up)",
+        "url": "https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197353,
+      "name": "Summertime Sadness - Sped Up",
+      "url": "https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV"
     },
     {
       "album": {

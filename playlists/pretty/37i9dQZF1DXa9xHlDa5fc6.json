@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 415794,
+  "num_followers": 415880,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGRjMGQwM2VlMThmNGY4YjBhOGQ1YzE2ZjkxYmYxMTU1",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDYwYTVkNGM3MTczMTI1YThkODY5MTYxMWE5ODgxNTg2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Bank On The Funeral",
-        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Hallucinogenics",
-      "url": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -239,18 +223,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+        "name": "Bank On The Funeral",
+        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
+      "duration_ms": 187173,
+      "name": "Hallucinogenics",
+      "url": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -267,6 +251,22 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Blossom (Deluxe)",
-        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226320,
       "name": "Here to Forever",
       "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Blossom (Deluxe)",
+        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -967,8 +967,8 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
+      "duration_ms": 232360,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Graveyard Whistling",
-      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "basketball",
-        "url": "https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs"
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
       "artists": [
         {
-          "name": "diveliner",
-          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 141333,
-      "name": "basketball",
-      "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
+      "duration_ms": 202694,
+      "name": "Astronaut (Something About Your Love)",
+      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "basketball",
+        "url": "https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs"
+      },
+      "artists": [
+        {
+          "name": "diveliner",
+          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "basketball",
+      "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 202694,
-      "name": "Astronaut (Something About Your Love)",
-      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
-      },
-      "artists": [
-        {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
-        }
-      ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 205129,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "duration_ms": 235334,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Come Follow Me Down",
-        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
+        "name": "Good Old",
+        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
       "artists": [
         {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Come Follow Me Down",
-      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Come Follow Me Down",
+        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Come Follow Me Down",
+      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Good Old",
-        "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 223493,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 213515,
+      "name": "Violet City",
+      "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 213515,
-      "name": "Violet City",
-      "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Youth is Only Ever Fun in Retrospect",
         "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Waking Up The Giants",
         "url": "https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 204120,
       "name": "Dead Century",
       "url": "https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 225038,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Minimum Wage",
-        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd"
       },
       "artists": [
         {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
         }
       ],
-      "duration_ms": 196512,
-      "name": "Minimum Wage",
-      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
+      "duration_ms": 260293,
+      "name": "Coincidental",
+      "url": "https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe"
     }
   ],
   "unique_name": "License To Chill",

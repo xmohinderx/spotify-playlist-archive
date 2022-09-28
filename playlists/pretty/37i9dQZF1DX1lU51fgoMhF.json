@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 106077,
+  "num_followers": 106168,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1OTQ5MSwwMDAwMDAwMDgxYjA3MjJkOWMwZmUyM2MwZGZmNTM1MTkxYjNhNmNi",
+  "snapshot_id": "MTY2MjM1OTQ5MSwwMDAwMDAwMDFhZTQ4ZWI1MjQ4YmQ2OTQzODI1NGQ4ZTIyMjM3YzEw",
   "tracks": [
     {
       "added_at": "2022-09-05 06:31:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "KARD 1st Mini Album 'Hola Hola'",
-        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "Hola Hola",
-      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 217486,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "KARD 1st Mini Album 'Hola Hola'",
+        "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/3VC1IEz9M1txlMSx3h3tPM"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "If with U",
-        "url": "https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw"
-      },
-      "artists": [
-        {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "If with U",
-      "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1139,18 +1123,34 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "THE WAVE OF9",
-        "url": "https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn"
+        "name": "If with U",
+        "url": "https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw"
       },
       "artists": [
         {
-          "name": "SF9",
-          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 188733,
-      "name": "SCREAM",
-      "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
+      "duration_ms": 187160,
+      "name": "If with U",
+      "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+        "name": "THE WAVE OF9",
+        "url": "https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn"
       },
       "artists": [
         {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
         }
       ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+      "duration_ms": 188733,
+      "name": "SCREAM",
+      "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "Beautiful Night",
-        "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
-    },
-    {
-      "added_at": "2022-09-05 06:31:31",
-      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 218253,
       "name": "NOT THE END",
       "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
+    },
+    {
+      "added_at": "2022-09-05 06:31:31",
+      "album": {
+        "name": "Beautiful Night",
+        "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
     },
     {
       "added_at": "2022-09-05 06:31:31",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-09-05 06:31:31",
       "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
       "artists": [
         {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

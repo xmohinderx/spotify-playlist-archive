@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz",
-  "num_followers": 140529,
+  "num_followers": 140610,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDYyMSwwMDAwMDAwMDA1ZDY4ODRkOTljYTY3YjIyMzZiMjdjZGM3YTM1YjFj",
+  "snapshot_id": "MTY2MzkyMDYyMSwwMDAwMDAwMGY4MGUxODYxNzAyN2M0MmJjOTk3OWNhMzZmMTBiYTYw",
   "tracks": [
     {
       "added_at": "2022-09-23 08:10:21",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 183092,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -931,18 +931,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
       "artists": [
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -979,6 +983,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Africana",
         "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 200940,
       "name": "Africana",
       "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Don't Judge Me (Saxo-Kizomba)",
+        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
+      },
+      "artists": [
+        {
+          "name": "P. Lowe",
+          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
+        },
+        {
+          "name": "M&n Pro",
+          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Don't Judge Me (Saxo-Kizomba)",
+      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Don't Judge Me (Saxo-Kizomba)",
-        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
-      },
-      "artists": [
-        {
-          "name": "P. Lowe",
-          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
-        },
-        {
-          "name": "M&n Pro",
-          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Don't Judge Me (Saxo-Kizomba)",
-      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
     }
   ],
   "unique_name": "Dancing Kizomba",
