@@ -1239,6 +1239,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Dos Íconos: Shakira x Alejandro Sanz](/playlists/pretty/37i9dQZF1DXaKaZNQ3qx4Z.md)
 - [Dos íconos: Daddy Yankee x Nicky Jam](/playlists/pretty/37i9dQZF1DXaB9aWy6BzCT.md)
 - [Dose Trap](/playlists/pretty/37i9dQZF1DWWlW7KLhEhCZ.md)
+- [Down In The Dumps](/playlists/pretty/0HPgJ9rOXECphJIqfkrzoS.md)
 - [Dramatic Classical](/playlists/pretty/37i9dQZF1DX2aCk0vzzaZQ.md)
 - [Dreamcatcher](/playlists/pretty/37i9dQZF1DXb6LkIGouseT.md)
 - [Dreampop](/playlists/pretty/37i9dQZF1DX6uhsAfngvaD.md)
