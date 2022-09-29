@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,173 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,307 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 19 | [ルカルカ★ナイトフィーバー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/1qfh55N9dvFU1ESAJ3jFQG) | [Samfree](https://open.spotify.com/artist/4WURgk0jAO9xb8AIJ2ERye) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:22 |
 | 20 | [初音ミクの消失 \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/5pgVqrcW9CkzDE0ToQmnI3) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:19 |
 | 21 | [Tell Your World](https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Tell Your World EP](https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7) | 4:14 |
-| 22 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
-| 23 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
+| 22 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
+| 23 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 |
 | 24 | [どりーみんチュチュ](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 |
 | 25 | [こっち向いて Baby \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3YD4pxgYwuw8NCo66iHXl7) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:59 |
 | 26 | [Teo](https://open.spotify.com/track/0avbIGWVb4n7CcbomSEogt) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [The First Waltz](https://open.spotify.com/album/5pZ8vurC6h4uSCwkjCHnHz) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
 | 100 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDczYmMxNWM3NTNmYWRlZjRlNWFhMGM3YWQ5YTRjOWZm`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDg1NzI1Y2U5MDgzMDZlNDViN2ZjMjA4OTI4ZDRkMGI1`

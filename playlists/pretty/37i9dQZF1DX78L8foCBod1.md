@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,955 likes - 76 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,974 likes - 76 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Break Free](https://open.spotify.com/track/6YoDbIGSUKhhk7t63zXJkM) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Break Free](https://open.spotify.com/album/2D7WcHj7mz8BtzrOkBUDVM) | 3:06 |
-| 2 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 |
+| 2 | [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 |
 | 3 | [YouSee\-Power](https://open.spotify.com/track/6fx2tRc1ez4qCPySzRRx1m) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 4:17 |
 | 4 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 |
 | 5 | [Roads to Ride <LCv>](https://open.spotify.com/track/5oHSA48gcFs3z8C1lQkVyg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [OUTSIDERS](https://open.spotify.com/album/74YSQrwO2zF3pvzPvpGonN) | 2:36 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 75 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 76 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGYwNGI4NzY2MGYyODY5ODcwZDU0ZDI1ZjUzN2MyMTFh`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGZkYTU2YWVmMTNiNjc1ZmQ0OTc0N2QyZDMyNDM4OTQx`

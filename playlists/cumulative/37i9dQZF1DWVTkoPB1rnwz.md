@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-241 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+242 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Kombucha](https://open.spotify.com/track/0DdKTv7NiZ4DWV99zoNv6A) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/27cW4XLj3mNWOb5VOv8k79) | 1:23 | 2021-10-16 |  |
 | [Kombucha](https://open.spotify.com/track/3MCvwmA6zeYml0q7kQLgLu) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:23 | 2021-10-16 | 2022-07-29 |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
+| [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-16 |  |
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 | 2022-08-09 |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 |  |
@@ -203,7 +204,7 @@
 | [Sunset Sugarlife](https://open.spotify.com/track/2zr5I7zEDaVLhyWKqHJR5g) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Vacations](https://open.spotify.com/album/032Q8Io07qKivVogFfEr9B) | 1:22 | 2021-10-16 | 2022-07-24 |
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-09-01 |
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
-| [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 |  |
+| [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 | 2022-09-29 |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |
 | [tears \(is this even real?\)](https://open.spotify.com/track/1WiKzAtJ6E1AGjk0VFiT1U) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 2:55 | 2021-10-16 |  |
 | [thank you](https://open.spotify.com/track/1Iz3CgXvBRtvBexnOfEk06) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [thank you](https://open.spotify.com/album/4t88BKiSoKTFiBQpWSurNw) | 1:41 | 2022-01-14 | 2022-08-30 |

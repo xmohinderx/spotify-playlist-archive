@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 53001,
+  "num_followers": 53046,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMDRkYzljNWU0NDFiNWYxOTg4NTUyYTU0Yzk0YTYyYTll",
+  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMDMzNDlkZjdiNDQ2MDdhMmMyZjBkNzg2MWRiZGFjNjYw",
   "tracks": [
     {
       "added_at": "2022-09-27 18:54:27",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "REBELS NEVER DIE",
         "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 245624,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "DANCEHALL",
-        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "PLACES",
-      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "KicK iii",
         "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 141364,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "DANCEHALL",
+        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "PLACES",
+      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Sharevari",
+        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
+      },
+      "artists": [
+        {
+          "name": "Aidan Noell",
+          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
+        },
+        {
+          "name": "Nancy Whang",
+          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
+        }
+      ],
+      "duration_ms": 351306,
+      "name": "Sharevari",
+      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 352093,
       "name": "Crispy Bacon",
       "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Sharevari",
-        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
-      },
-      "artists": [
-        {
-          "name": "Aidan Noell",
-          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
-        },
-        {
-          "name": "Nancy Whang",
-          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
-        }
-      ],
-      "duration_ms": 351306,
-      "name": "Sharevari",
-      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Iron 2021",
+        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "duration_ms": 523453,
+      "name": "Iron 2021",
+      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "TASTY",
         "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 230780,
       "name": "TASTY - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Iron 2021",
-        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
-      },
-      "artists": [
-        {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        }
-      ],
-      "duration_ms": 523453,
-      "name": "Iron 2021",
-      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "F*ck",
         "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Pain In The Ass",
-        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
       "artists": [
         {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
         }
       ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass - Original Mix",
-      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+        "name": "Pain In The Ass",
+        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
         }
       ],
-      "duration_ms": 413600,
-      "name": "Musique",
-      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+      "duration_ms": 400373,
+      "name": "Pain In The Ass - Original Mix",
+      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 413600,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1235,6 +1251,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Planningtochanel",
+        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Amniotic",
         "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
       },
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Planningtochanel",
-        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        }
-      ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+      },
+      "artists": [
+        {
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+        }
+      ],
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Galazy EP",
         "url": "https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
       "artists": [
         {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
         }
       ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1487,22 +1503,6 @@
       "duration_ms": 417547,
       "name": "Birdie",
       "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "duration_ms": 452853,
+      "name": "Dance Tonight Revolution Tomorrow",
+      "url": "https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Sol De Mi Vida",
         "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Scacco Matto",
-        "url": "https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Senni",
-          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
-        }
-      ],
-      "duration_ms": 452853,
-      "name": "Dance Tonight Revolution Tomorrow",
-      "url": "https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Mobilee Back to Back Vol. 2 - Presented By Gummihz",
         "url": "https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ"
       },
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Delicate Limbs (feat. serpentwithfeet)",
         "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
       },
@@ -1755,26 +1771,6 @@
       "duration_ms": 198626,
       "name": "Delicate Limbs (feat. serpentwithfeet)",
       "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "The Volume / The Music Is Mine",
-        "url": "https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN"
-      },
-      "artists": [
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Alan T",
-          "url": "https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "The Volume",
-      "url": "https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp"
     }
   ],
   "unique_name": "Runway",

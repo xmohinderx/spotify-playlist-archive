@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 919929,
+  "num_followers": 922085,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI4ODI4MSwwMDAwMDAwMGI2Mjg5NTM2Zjk2YjBkZDY5YWRiMjhhZjE2OGNlYTI5",
+  "snapshot_id": "MTY2NDI4ODI4MSwwMDAwMDAwMDQ3ZmQyMTBmZWM2YzBmMTMwNDkzN2VlOWE1YjlhZjdh",
   "tracks": [
     {
       "added_at": "2022-09-19 20:15:53",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Atlas: II",
         "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 330506,
       "name": "Surf",
       "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1249,20 +1249,20 @@
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
-      "added_at": "2022-09-19 20:15:53",
+      "added_at": "2022-09-27 14:18:01",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
       "artists": [
         {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
         }
       ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+      "duration_ms": 150967,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 114108,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX"
-    },
-    {
-      "added_at": "2022-09-27 14:18:01",
-      "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2022-09-19 20:15:53",

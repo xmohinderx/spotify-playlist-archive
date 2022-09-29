@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 25939,
+  "num_followers": 26014,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDQyNmE1ODcwOTEwZTAyYjY2MmRmZmYyOGNhOWQ3NDU5",
+  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMGY0Y2Q5NjRhYzNkZjBlMmRjZDM2ODAwMDE4MDE1MGMy",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:11",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
-        "name": "Arms of a Lover",
-        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "Good Luck Man",
         "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208732,
       "name": "It Serves Me Right to Suffer - Remastered",
       "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
       "artists": [
         {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 134573,
-      "name": "Someone Broke This Heart Of Mine",
-      "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     }
   ],
   "unique_name": "Just Me and the Blues",

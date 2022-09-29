@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-751 songs - 1 day 15 hr 11 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+752 songs - 1 day 15 hr 13 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Kamer Vol Kadootjes](https://open.spotify.com/track/2em14JGhJINUWgiHm6yPKb) | [Pietenkidz](https://open.spotify.com/artist/6YsruNrEt7IYqK70kLIbY5), [Sinterklaas](https://open.spotify.com/artist/1YxX0GETglQQ6wdUYj49No), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC) | [Sinterklaasliedjes 1](https://open.spotify.com/album/5QbYMER1ompqjSg9NNlSen) | 2:30 | 2021-12-07 | 2021-12-08 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-27 |
 | [Kenan & Kel](https://open.spotify.com/track/5kP4JIMIzZ7DVtcgsuFafy) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Kenan & Kel](https://open.spotify.com/album/2sK9fdDQF7uuv3cYfGJVLN) | 3:29 | 2021-05-23 | 2021-05-25 |
+| [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-09-28 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-08-31 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-18 | 2021-06-27 |
 | [Klein, Klein Jongetje \(Als Je Groot Bent\)](https://open.spotify.com/track/1pOYvFTC41ZPOyqFJFWgkr) | [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Klein, Klein Jongetje \(Als Je Groot Bent\)](https://open.spotify.com/album/5g489iEZyHhvkXWQby6cKO) | 2:21 | 2022-02-19 | 2022-02-21 |
@@ -437,7 +438,7 @@
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-09 |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-25 |
 | [Love Is On My Side](https://open.spotify.com/track/4S4RWAA749dKyJQ5CiKEBJ) | [The Black Mamba](https://open.spotify.com/artist/2huzXUiBGRUJ8iRFD4NHc7) | [Love Is On My Side](https://open.spotify.com/album/1HFvagCE5ckzZAb4yXY3yE) | 2:55 | 2021-05-25 | 2021-05-26 |
-| [Love Myself](https://open.spotify.com/track/0iBWf9gz65kHxuQkZkrNUc) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/0gQZCgw5OvWAUC2NZEKLKg) | 2:59 | 2022-05-18 |  |
+| [Love Myself](https://open.spotify.com/track/0iBWf9gz65kHxuQkZkrNUc) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/0gQZCgw5OvWAUC2NZEKLKg) | 2:59 | 2022-05-18 | 2022-09-29 |
 | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2021-03-27\* | 2021-04-26 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-18 | 2022-01-24 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-09-28 | 2021-11-21 |

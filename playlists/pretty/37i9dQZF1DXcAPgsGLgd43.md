@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 28 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 | 29 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
 | 30 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
-| 31 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 |
-| 32 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 31 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 32 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 |
 | 33 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 34 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 |
 | 35 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 |
 | 50 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDhkM2NmNTBhZjdmZDJjOWE2MWM4MTNhZjk2OWU4YTVm`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDQzM2ViODliMTZiMDA5ZGZkOGQ0YzI1MzVmMzM4NTU0`

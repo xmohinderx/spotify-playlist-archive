@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-85 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+86 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 | 2022-07-28 |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
 | [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 | 2022-08-22 |  |
-| [Galangal](https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Galangal](https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV) | 2:48 | 2022-07-13 |  |
+| [Galangal](https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Galangal](https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV) | 2:48 | 2022-07-13 | 2022-09-29 |
 | [girl](https://open.spotify.com/track/68aPLEBwJmpYMuurXihCct) | [Fennec](https://open.spotify.com/artist/2qtBblNCKBjfVZpIyhyyRN) | [girl](https://open.spotify.com/album/3Y9TCovTQDugO12HmXeW0S) | 2:55 | 2022-09-19 |  |
+| [grandson](https://open.spotify.com/track/1Ztzzizm7xvOtbOWgPnMT0) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [mynameisleonidas](https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h) | 3:07 | 2022-09-28 |  |
 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 | 2021-11-05 |  |
 | [Hair Like You](https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Hair Like You](https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV) | 2:58 | 2022-06-27 | 2022-09-20 |
 | [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 | 2022-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,614 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,647 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 2 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |
 | 3 | [Ramuloo Ramulaa \- Duet](https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2bP0035NHBzesL59OgAu0M) | 4:05 |
 | 4 | [Hulala](https://open.spotify.com/track/6dfzvJmyJN2vmAywOeFVMO) | [Sweekar Agasthi, Silvia Anisha](https://open.spotify.com/artist/49c1BIAlKXTdlc7NMivhMe) | [Express Raja](https://open.spotify.com/album/1T6t4DS8YhHLEJJk9Pbyx7) | 3:43 |
-| 5 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
-| 6 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
+| 5 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
+| 6 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
 | 7 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha, Sniggy](https://open.spotify.com/artist/1wuI7Wm1H1DGJKuD6a6Kth) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 |
 | 8 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 |
 | 9 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 25 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 |
 | 26 | [Bang Bang Bangkok](https://open.spotify.com/track/0A1chT9ef0Kn1NnQVnLoot) | [Devi Sri Prasad, Ranina Reddy, Rita](https://open.spotify.com/artist/6YGQ8Nt3ns8H02IkF3B3DO) | [Kumari 21 F](https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc) | 3:30 |
 | 27 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
-| 28 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
-| 29 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
+| 28 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
+| 29 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
 | 30 | [Box Badhalai Poyi](https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 3:33 |
 | 31 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 |
 | 32 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 | 67 | [Miami Dj Remix](https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga](https://open.spotify.com/album/6opwqr8TSIt91hqgN3aHE4) | 3:38 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGNmYmVjY2I2MDc4NTU3MTQ2ZmE3OWU2MGQ3NzJkZDk0`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDMwNWU0NGFhYTM5Y2Y3YmRlNDcxNjMzNzlkMDcyYzQw`

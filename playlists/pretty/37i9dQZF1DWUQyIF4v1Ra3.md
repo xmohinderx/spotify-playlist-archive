@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,492 likes - 34 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,571 likes - 34 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 22 | [Saachi Re Mhari Sat](https://open.spotify.com/track/5ffYti5Q3NkKrdpgmAwHwG) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 9:19 |
 | 23 | [Garbo Gabber Gokhthi](https://open.spotify.com/track/2KsLnQYfjRWj9KletoyNeU) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [Raas Garba Ni Ramzat](https://open.spotify.com/album/4eP0iXXD5VP2yHjCO75NVQ) | 2:09 |
 | 24 | [Odhani Odhu](https://open.spotify.com/track/2OLCnQP512OpkAdvJltKXD) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA), [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Odhani Odhu](https://open.spotify.com/album/3owSlhhK0dR5ZslQlnFeZ4) | 1:56 |
-| 25 | [Aaj Khushi Hai](https://open.spotify.com/track/5BsrWcNcYddy8EqPL8IBeS) | [Lalitya Munshaw](https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9) | [Aye Halo](https://open.spotify.com/album/3Xd7aD3NfzQC1qKXC9AKvP) | 1:50 |
+| 25 | [Aaj Khushi Hai](https://open.spotify.com/track/4NMrrnzCYTAh3HIiWKF0n7) | [Lalitya Munshaw](https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9) | [Non Stop Raas Garba by Lalitya Munshaw](https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF) | 1:50 |
 | 26 | [Navrat](https://open.spotify.com/track/1dhwyQ8cz1jRIZsZwWDgiF) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ), [Mayur Nadiya](https://open.spotify.com/artist/31tM4UexD5623BaInTTlqG) | [Navrat](https://open.spotify.com/album/37RxTnPMP3OvJDVcPJnc0b) | 3:44 |
 | 27 | [Sanedo](https://open.spotify.com/track/5T2FWPKgrOHtBrzi9UF5m6) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 2:38 |
 | 28 | [Kaho Poonam Na](https://open.spotify.com/track/4Ubwv9oFDGgCyBkBa9XwcS) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali \- Non Stop Garba](https://open.spotify.com/album/1c21J9E55BypW4dLG17R5W) | 2:50 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 33 | [Khodiyar Mari Mavdi](https://open.spotify.com/track/2NWTl6wnbP9e1XpFohed3b) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Thanganat \(Non Stop Garba, Vol\. 16\)](https://open.spotify.com/album/0g3DifkCMaMswIooOllfCK) | 3:21 |
 | 34 | [Kidi Bichari](https://open.spotify.com/track/35q0ZBWjxmtWZiWLWeEORK) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali \- Non Stop Garba](https://open.spotify.com/album/1c21J9E55BypW4dLG17R5W) | 2:22 |
 
-Snapshot ID: `MTY1NDY4MjU0OSwwMDAwMDAwMDJkOGUxZmMyMGMwMjAyN2NiYWY0MzVlMTg2OWRhZmI5`
+Snapshot ID: `MTY1NDY4MjU0OSwwMDAwMDAwMDlkZjlmYWQyZGQ5ZjlkMWRkZjkzYzAxZTU1NThhOGM0`

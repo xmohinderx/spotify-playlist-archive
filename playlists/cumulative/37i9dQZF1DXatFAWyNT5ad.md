@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-513 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+515 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bad Bitch](https://open.spotify.com/track/7w37gLI465w5eqp8haIwZZ) | [Divided Minds](https://open.spotify.com/artist/4zq1xzOD2RDkK3xaEZBBD5) | [Bad Bitch](https://open.spotify.com/album/2dY9ArxChAAUXkBl5SHQpS) | 2:59 | 2022-03-17 | 2022-07-29 |
 | [Bad Dreams](https://open.spotify.com/track/4eltigMjLozvwo9mgbPn2b) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Bad Dreams](https://open.spotify.com/album/5tL3J4C9wmsF5ZOAODHqCD) | 2:55 | 2022-03-24 | 2022-04-14 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-03-17 |  |
+| [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2022-09-29 |  |
 | [Barcelona](https://open.spotify.com/track/0nOLvRmUDmpX5VHUtq71Ck) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Barcelona](https://open.spotify.com/album/1NrgCZkWzNQK1hPg6f3rAE) | 4:35 | 2022-03-24 | 2022-04-21 |
 | [Basement Tapes](https://open.spotify.com/track/1WOpzDmKihwzfwBQe42VMx) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [You're Not Alone](https://open.spotify.com/album/1oi5xjtlkmPXiETr0qp67Y) | 3:33 | 2022-03-24 | 2022-04-21 |
 | [Battered & Bruised](https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Battered & Bruised](https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx) | 2:23 | 2022-03-24 | 2022-04-15 |
@@ -393,9 +394,10 @@
 | [Running](https://open.spotify.com/track/16GhKGMd58IunTUMrBYk5g) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Running](https://open.spotify.com/album/1YJQ45Gy1UdQnjWQeivNad) | 3:08 | 2022-03-24 | 2022-04-21 |
 | [Running Out Of Time](https://open.spotify.com/track/0obCHIQy47fNT9brm1m6dR) | [Miles Hardt](https://open.spotify.com/artist/4w21F6N3M1Sdflo4zY1MPw) | [Running Out Of Time](https://open.spotify.com/album/4OajZBRdUfaZjAJ315h9h4) | 4:02 | 2022-03-24 | 2022-04-21 |
 | [S.O.S](https://open.spotify.com/track/68xsLv5JR0vog8gVNhWV2l) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [S.O.S](https://open.spotify.com/album/2nEZNgLNEMjxcZcxerBxZu) | 3:06 | 2022-03-24 | 2022-04-21 |
+| [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:50 | 2022-09-29 |  |
 | [save me from the monster in my head](https://open.spotify.com/track/3eY4I6mtLJMCUmYWXBytqy) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [save me from the monster in my head](https://open.spotify.com/album/2GAjg9w6SLqVrXD1pFHpO3) | 3:12 | 2022-03-24 | 2022-04-15 |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2022-03-24 | 2022-04-17 |
-| [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 | 2022-08-09 |  |
+| [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 | 2022-08-09 | 2022-09-29 |
 | [See Ya When I See Ya](https://open.spotify.com/track/7IebZOVczZaaT0v4pv9QbG) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [See Ya When I See Ya](https://open.spotify.com/album/5q5vWjZZ0I2K9eQf3CQzit) | 3:01 | 2022-03-24 | 2022-04-21 |
 | [Self Immolation](https://open.spotify.com/track/3xmK6zT1DX5NUqRDZ9ESgG) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Self Immolation](https://open.spotify.com/album/4OEdPwbh91rcHKEs3ELGs7) | 2:57 | 2022-08-26 |  |
 | [Selfish](https://open.spotify.com/track/7ltJoNGLmGC8lczqdFllhB) | [Chris Ayer](https://open.spotify.com/artist/2dLSvv3LuVtMdGeTwzgcTu) | [Endless Wonder](https://open.spotify.com/album/4HMmkaaCMTTCRlXmKOmnFo) | 3:37 | 2022-03-24 | 2022-04-15 |
@@ -462,7 +464,7 @@
 | [Things Are Different](https://open.spotify.com/track/0FD7SGdBRoPq5PqVRULpJW) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Things Are Different](https://open.spotify.com/album/1Jh65I9BaVdJZ3CXjv6GBU) | 3:27 | 2022-03-24 | 2022-04-19 |
 | [Things We Do For Love](https://open.spotify.com/track/6tSpsxkeWZ3YPfMt9rYmzb) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Things We Do For Love](https://open.spotify.com/album/5h6PbA2KotkWMkZgmwYTRI) | 4:16 | 2022-03-24 | 2022-04-21 |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2022-03-17 | 2022-07-29 |
-| [Think Of Us Kissing](https://open.spotify.com/track/2WYeR2DTeKfLNrhFSt8WWu) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Think Of Us Kissing](https://open.spotify.com/album/49YOsnWSDQdXxl6BZ0LxTL) | 3:37 | 2022-09-15 |  |
+| [Think Of Us Kissing](https://open.spotify.com/track/2WYeR2DTeKfLNrhFSt8WWu) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Think Of Us Kissing](https://open.spotify.com/album/49YOsnWSDQdXxl6BZ0LxTL) | 3:37 | 2022-09-15 | 2022-09-29 |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2022-03-24 | 2022-04-15 |
 | [This Is Happening](https://open.spotify.com/track/1s7YBmmq9f3VjVXst1HMyq) | [4B2M](https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV) | [This Is Happening](https://open.spotify.com/album/7gddn5LqvWrhL2nHNG32nm) | 2:55 | 2022-03-24 | 2022-04-07 |
 | [This is the Place](https://open.spotify.com/track/2HXWTuHE8NZgK7ZmCVBTHX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [This is the Place](https://open.spotify.com/album/2rGhEawehqYozpPmAwjxr3) | 3:05 | 2022-03-24 | 2022-04-20 |

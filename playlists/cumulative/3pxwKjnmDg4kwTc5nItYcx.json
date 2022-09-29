@@ -3934,6 +3934,24 @@
     },
     {
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -4973,6 +4991,24 @@
       "duration_ms": 157447,
       "name": "I Need You To Hate Me",
       "url": "https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g"
+    },
+    {
+      "album": {
+        "name": "I Should Be Home",
+        "url": "https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "I Should Be Home",
+      "url": "https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE"
     },
     {
       "album": {

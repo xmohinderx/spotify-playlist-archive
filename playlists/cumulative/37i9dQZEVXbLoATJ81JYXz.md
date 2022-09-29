@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-999 songs - 2 day 4 hr 44 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+1,000 songs - 2 day 4 hr 46 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [ABTI](https://open.spotify.com/track/6pBgu7pLn3yq2fA6eZCoSk) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:46 | 2022-02-05 | 2022-02-13 |
 | [ABTI](https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [ABTI](https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF) | 2:46 | 2022-01-08 | 2022-02-06 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-26 |
-| [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-10 |  |
+| [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-10 | 2022-09-29 |
+| [Aktiverad](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-09-28 |  |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-05-09 | 2021-09-19 |
 | [Aldrig igen](https://open.spotify.com/track/6uIHeEOcs6h8YORcsjt3fg) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt), [K27](https://open.spotify.com/artist/5nRkPBCDIqxGB82fj0Pj7V) | [Aldrig igen](https://open.spotify.com/album/3QRAR01FkusBAOwhYOSFdQ) | 3:27 | 2021-11-16 | 2021-11-17 |
 | [Aldrig vågat](https://open.spotify.com/track/3SX2BezHBKTv6vZxvWXXeq) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Aldrig vågat](https://open.spotify.com/album/3pTkLTZYv9gGnZRXj6PN9S) | 3:26 | 2021-11-09 | 2021-12-03 |
@@ -500,7 +501,7 @@
 | [KOMMER & GÅR](https://open.spotify.com/track/5yLzXhTq6wZV0btxdtFxyu) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [KOMMER & GÅR](https://open.spotify.com/album/5UzQqu5ridQ89gWlemfEpv) | 2:13 | 2022-01-29 | 2022-01-31 |
 | [Komplicerad](https://open.spotify.com/track/29nwG4y9NFmN76yfUfc01d) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Komplicerad](https://open.spotify.com/album/0we1oHYcvvjwVq5LHiKQTe) | 2:40 | 2021-06-27 | 2021-06-28 |
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-22 | 2022-09-04 |
-| [Komplicerat](https://open.spotify.com/track/7ofOfhBu0FCuVemv4zL8Ry) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:19 | 2022-09-03 |  |
+| [Komplicerat](https://open.spotify.com/track/7ofOfhBu0FCuVemv4zL8Ry) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:19 | 2022-09-03 | 2022-09-29 |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-11 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-05 |  |
 | [Kulor \(Intro\)](https://open.spotify.com/track/5hrDLjhhAHCYOONnAUAAkD) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:38 | 2022-04-30 | 2022-05-08 |
@@ -529,7 +530,7 @@
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-07-25 | 2021-08-06 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-22 | 2022-02-06 |
 | [Like I Can](https://open.spotify.com/track/0mJBiaODgK0XjOLCN5fItq) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR) | 2:47 | 2021-08-21 | 2021-10-17 |
-| [Lilla Nisse](https://open.spotify.com/track/3caeN4bneZW7GQAqwslu2U) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:11 | 2022-06-07 | 2022-09-25 |
+| [Lilla Nisse](https://open.spotify.com/track/3caeN4bneZW7GQAqwslu2U) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:11 | 2022-06-07 |  |
 | [Lillebror](https://open.spotify.com/track/4XrilgzGsMBrzAiUz3MePx) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 2:49 | 2021-05-09 | 2021-05-10 |
 | [Lita på mig](https://open.spotify.com/track/7pXLc2yBOVWnpc4FafRR85) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:46 | 2021-03-27\* | 2021-03-27 |
 | [Liten&Lost](https://open.spotify.com/track/2K1p3thq7V9KerKSuOHAdI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Liten&Lost](https://open.spotify.com/album/7hyYLHFyCVJrkLx8113hWo) | 3:37 | 2021-08-29 | 2021-08-30 |

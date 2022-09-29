@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 186963,
+  "num_followers": 187191,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDIwY2JiYWE2YmI0NDA4ODc1OTFjMTJhZmY4ZjYxZDI0",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMGJkNzJjYzYxYTU0OTNkODA3YjE5ZmQ4NDU2Y2E2NGFh",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Wind of Change",
+        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 322804,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Necropolis",
         "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Wind of Change",
-        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
       "artists": [
         {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 322804,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -459,22 +475,6 @@
       "duration_ms": 238317,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Meanwhile in Burbank...",
         "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
         }
       ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -587,6 +571,22 @@
       "duration_ms": 231115,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "For All Kings (Deluxe)",
         "url": "https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E"
       },
       "artists": [
         {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
+      "duration_ms": 251034,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1119,22 +1135,6 @@
       "duration_ms": 217452,
       "name": "Livin' la Vida Loca - Cover",
       "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Mambo No. 5 (Cover)",
-        "url": "https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn"
+        "name": "The Best of Voivod",
+        "url": "https://open.spotify.com/album/0TJzcxxTif2yPcgdn1EKdj"
       },
       "artists": [
         {
-          "name": "COMETRON",
-          "url": "https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi"
+          "name": "Voivod",
+          "url": "https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3"
         }
       ],
-      "duration_ms": 210145,
-      "name": "Mambo No. 5 - Cover",
-      "url": "https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx"
+      "duration_ms": 330306,
+      "name": "Astronomy Domine",
+      "url": "https://open.spotify.com/track/4gHNdbRBmLgMmZFBG99Hje"
     }
   ],
   "unique_name": "Metal Covers",

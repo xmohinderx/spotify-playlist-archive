@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-485 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+486 songs - 1 day 11 hr 34 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [House](https://open.spotify.com/track/18TTjRnZaLPB7h5qzp8GKu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:27 | 2022-09-08 |  |
 | [House Of Cards](https://open.spotify.com/track/37WuoKbmmHW33QJSfcjIK1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy \(Deluxe Edition\)](https://open.spotify.com/album/01sJklSgqDgyR7nlhnRcFA) | 3:12 | 2022-09-08 |  |
 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 | 2022-09-08 |  |
+| [I Am Your Robot \- Remastered 2003](https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:44 | 2022-09-28 |  |
 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 | 2022-09-08 |  |
 | [I Can't Keep This From You](https://open.spotify.com/track/440GIX1uR5Ve8nPvek7W23) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:34 | 2022-09-08 |  |
 | [I Can't Steer My Heart Clear Of You](https://open.spotify.com/track/6m82xAYcFLVjQ4kSpcZI2K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:07 | 2022-09-08 |  |
@@ -259,7 +260,7 @@
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |
 | [Love's Got A Lot To Answer For](https://open.spotify.com/track/57LGc6kMOrfEDM8EiZxQln) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:00 | 2022-09-08 |  |
 | [Lovesick](https://open.spotify.com/track/18s5u73IeszmNilFtAZ27U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:59 | 2022-09-14 |  |
-| [Made For Me](https://open.spotify.com/track/12IOkK9efMBVYiJ0B1g79O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 | 2022-09-08 |  |
+| [Made For Me](https://open.spotify.com/track/12IOkK9efMBVYiJ0B1g79O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 | 2022-09-08 | 2022-09-29 |
 | [Made In England](https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:08 | 2022-09-08 |  |
 | [Madman Across The Water](https://open.spotify.com/track/6NFuanvmfkAdnPykwsOK91) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 5:57 | 2022-09-08 |  |
 | [Madness](https://open.spotify.com/track/7jOu8dOL0lRL8E1y8Zwe4V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 5:53 | 2022-09-08 |  |

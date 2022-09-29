@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto: Generación 12
 
-493 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+494 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [La Prueba De Tu Amor](https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [ROMPE EL CIELO](https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq) | 3:30 | 2022-08-05 |  |
 | [La Tierra Clama](https://open.spotify.com/track/4LhABuxG0fOjW2bnR2hLpr) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Débora Romo](https://open.spotify.com/artist/7tblRDwJLpl2jB4GJvhDAF) | [La Tierra Clama](https://open.spotify.com/album/4jutNd5lsDQuxmx1jgzPD2) | 3:03 | 2022-07-15 | 2022-09-17 |
 | [La Verdad](https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [La Verdad](https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ) | 3:54 | 2022-04-29 | 2022-06-18 |
-| [La Verdad \- Remix](https://open.spotify.com/track/3AH4bfHW8Ni0BnUrWiVHIX) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [La Verdad \(Remix\)](https://open.spotify.com/album/0uaEJlqOsFE9ssc0iNebAz) | 3:17 | 2022-08-19 |  |
+| [La Verdad \- Remix](https://open.spotify.com/track/3AH4bfHW8Ni0BnUrWiVHIX) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [La Verdad \(Remix\)](https://open.spotify.com/album/0uaEJlqOsFE9ssc0iNebAz) | 3:17 | 2022-08-19 | 2022-09-29 |
 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 | 2022-04-01 | 2022-05-28 |
 | [Levantaré \(Live\)](https://open.spotify.com/track/420RhVNyDVv8iQhlDhZwxr) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/20ZkpNpcm7Xyy9sbKoEg3Y) | 6:36 | 2022-04-15 | 2022-06-04 |
 | [Levántate Guate](https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Levántate Guate](https://open.spotify.com/album/2H05XbhqPl4AKrOz8RoUYS) | 4:11 | 2022-09-16 |  |
@@ -501,5 +501,6 @@
 | [Yoyo](https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Yoyo](https://open.spotify.com/album/632UEcqogvS2b9jHt5uMT7) | 3:09 | 2022-08-19 |  |
 | [Zaqueo](https://open.spotify.com/track/1nr0wKgBQ9Pmcu3NR01wY2) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Zaqueo](https://open.spotify.com/album/6vjwYDmo16iB4k8UGrw1qv) | 3:10 | 2022-09-23 |  |
 | [Él Es Grande](https://open.spotify.com/track/5TGuNIcbnaLPtoH6S7gNNG) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Él Es Grande](https://open.spotify.com/album/2cL82bBlEbgmiP36xli5cJ) | 4:42 | 2022-05-13 | 2022-07-02 |
+| [Él Siempre Reina](https://open.spotify.com/track/1GPqvCeWRioFhA2tin1BBS) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Él Siempre Reina](https://open.spotify.com/album/768fsrWlXimHnZiDXclf4m) | 5:26 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

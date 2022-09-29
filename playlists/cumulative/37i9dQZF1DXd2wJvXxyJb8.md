@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-155 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+156 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-04 | 2022-07-29 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-28 | 2022-08-12 |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-26 |  |
-| [MEGA DO TIMBALAND](https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10) | 2:36 | 2022-09-26 |  |
+| [MEGA DO TIMBALAND](https://open.spotify.com/track/2PTuhsCZhCpvxLfPz58oke) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/2KIvTugmHL9NLaUvoGGDCC) | 2:36 | 2022-09-28 |  |
+| [MEGA DO TIMBALAND](https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10) | 2:36 | 2022-09-26 | 2022-09-29 |
 | [Megão do Ploft](https://open.spotify.com/track/3WYXseBxjdRXkVFzBfV8lJ) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [MC Daniel DN](https://open.spotify.com/artist/1IWhchVnchJesDcsIqbHC9) | [Megão do Ploft](https://open.spotify.com/album/1Xd3B5QwJ0chwOBzpBGAib) | 3:41 | 2022-05-26 | 2022-08-30 |
 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-02 |  |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/3P5h94RH9LOBwD8OF84M0u) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/3JFdUloxNYTVuNlr8mXEHB) | 3:30 | 2022-05-26 | 2022-06-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199416,
+  "num_followers": 199415,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGMzNWRkYjg2OTFmOTQzMzM3NTg0YjVmOTc1YjU5Y2Fm",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDlmNzMwZDYxODE1ZGVkOWFlOTBjZGJmYzE5ZjFlOTlm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Amar en Silencio",
+        "url": "https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 191663,
+      "name": "Amar en Silencio",
+      "url": "https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Cara y Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 231888,
       "name": "Cara y Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Amar en Silencio",
-        "url": "https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 191663,
-      "name": "Amar en Silencio",
-      "url": "https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Fuego y Mar",
+        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        }
+      ],
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 187759,
       "name": "M\u00e1gico",
       "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Fuego y Mar",
-        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Rock N' Blues",
         "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 184203,
       "name": "Rock N' Blues",
       "url": "https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Volveremos",
-        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Volveremos",
-      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Por 30 M\u00e1s",
         "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
       },
@@ -1303,6 +1287,38 @@
       "duration_ms": 184517,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 86063,
+      "name": "T\u00fa No Propones Na",
+      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Volveremos",
+        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Volveremos",
+      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 97900,
       "name": "Lugares Que Hablan",
       "url": "https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 86063,
-      "name": "T\u00fa No Propones Na",
-      "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 en Saturno",
-          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
-        }
-      ],
-      "duration_ms": 281037,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
       },
@@ -1431,22 +1415,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "R\u00edo R\u00edo",
-        "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
       "artists": [
         {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Levine",
-          "url": "https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG"
+          "name": "Caf\u00e9 en Saturno",
+          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
         }
       ],
-      "duration_ms": 208864,
-      "name": "R\u00edo R\u00edo",
-      "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
+      "duration_ms": 281037,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1471,18 +1451,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Rebeli\u00f3n del Rock",
-        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
+        "name": "R\u00edo R\u00edo",
+        "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
       },
       "artists": [
         {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Levine",
+          "url": "https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Rebeli\u00f3n del Rock",
-      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
+      "duration_ms": 208864,
+      "name": "R\u00edo R\u00edo",
+      "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1499,6 +1483,22 @@
       "duration_ms": 203684,
       "name": "La Manera Correcta",
       "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Rebeli\u00f3n del Rock",
+        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Rebeli\u00f3n del Rock",
+      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Tyrana",
+          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
+        }
+      ],
+      "duration_ms": 175114,
+      "name": "Libido",
+      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Era Luz",
         "url": "https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 221723,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Libido",
-        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Tyrana",
-          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
-        }
-      ],
-      "duration_ms": 175114,
-      "name": "Libido",
-      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
     },
     {
       "added_at": "2022-09-23 04:00:00",

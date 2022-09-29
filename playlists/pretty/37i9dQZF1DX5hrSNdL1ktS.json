@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55167,
+  "num_followers": 55163,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDA5YzliZjU2NmMwYWQ3ZGQ4MzJjMzMwNzhiMGJhNWNl",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDRlNDJlNGY3N2MyYmU0NzljMDlkZWY5NjRlMzUyMzNk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "LUZ APAG\u00c1",
-        "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "ANA SOCLASH",
-          "url": "https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "LUZ APAG\u00c1",
-      "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "LUZ APAG\u00c1",
+        "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "ANA SOCLASH",
+          "url": "https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "LUZ APAG\u00c1",
+      "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -995,30 +995,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 151333,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     }
   ],
   "unique_name": "Urbano Fresh",

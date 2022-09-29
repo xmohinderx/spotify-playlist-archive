@@ -8543,7 +8543,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 176960,
       "name": "Gotta Go My Own Way",
       "url": "https://open.spotify.com/track/0XklyPBOruCbUcw8CKw3yj"
@@ -8839,7 +8839,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 211377,
       "name": "Hard out Here",
       "url": "https://open.spotify.com/track/6TK4Gszcg4IqyW0Ewtejcd"
@@ -17945,7 +17945,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 288444,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/2DOLnbsYoLcEWQXPlYlLiT"
@@ -21129,6 +21129,24 @@
       "duration_ms": 312773,
       "name": "Telephone - Passion Pit Remix",
       "url": "https://open.spotify.com/track/37blXIFxZQ6lMfpTS9s2RJ"
+    },
+    {
+      "album": {
+        "name": "Kiss & Tell",
+        "url": "https://open.spotify.com/album/5lm8loAsSpprr19lwSY16V"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Tell Me Something I Don't Know",
+      "url": "https://open.spotify.com/track/6nhvIZeu7g6OsDCLj1DKLl"
     },
     {
       "album": {

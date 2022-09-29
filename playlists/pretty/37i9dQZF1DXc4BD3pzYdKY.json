@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: S.O.",
-  "num_followers": 105965,
+  "num_followers": 105992,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMzgzMCwwMDAwMDAwMGZlZmU2ODlkZjhmNDAwOGQzNmRiNWJhMjk1MmMxZGQ4",
+  "snapshot_id": "MTY2MzMyMzgzMCwwMDAwMDAwMGRhMWI4NmU3YTY4NjFkMjcyYzUyZDlmOWNjNDU0MDI3",
   "tracks": [
     {
       "added_at": "2022-09-16 10:23:50",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "THESE DAYS",
-        "url": "https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 215725,
-      "name": "THESE DAYS",
-      "url": "https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 222040,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "THESE DAYS",
+        "url": "https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 215725,
+      "name": "THESE DAYS",
+      "url": "https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "NO WEAPON",
-        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 224465,
-      "name": "NO WEAPON",
-      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "NO WEAPON",
+        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 224465,
+      "name": "NO WEAPON",
+      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1235,22 +1235,6 @@
       "duration_ms": 215225,
       "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
       "url": "https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "Keep It Tucked",
-        "url": "https://open.spotify.com/album/6gKltvd9qQSwHuMdHuzDcM"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 159182,
-      "name": "Keep It Tucked",
-      "url": "https://open.spotify.com/track/5WdF9KjUHtDRxvFKVKb2ay"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1287,6 +1271,22 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/6gKltvd9qQSwHuMdHuzDcM"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 159182,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/5WdF9KjUHtDRxvFKVKb2ay"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "ALREADY",
-        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 172313,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "NOTHING BUT JESUS",
         "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 157885,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "ALREADY",
+        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 150875,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Marty Mcfly",
-        "url": "https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 131718,
-      "name": "Marty Mcfly",
-      "url": "https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3OJz91GFHb814zxUy8pv57"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 148302,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0QyCYdkhrrpilgmIfPsDhm"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Marty Mcfly",
+        "url": "https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 131718,
+      "name": "Marty Mcfly",
+      "url": "https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "On E",
-        "url": "https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT"
+        "name": "Mobbin'",
+        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 131562,
-      "name": "On E",
-      "url": "https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N"
+      "duration_ms": 158522,
+      "name": "Mobbin'",
+      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Mobbin'",
-        "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
+        "name": "On E",
+        "url": "https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 158522,
-      "name": "Mobbin'",
-      "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
+      "duration_ms": 131562,
+      "name": "On E",
+      "url": "https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1791,22 +1791,6 @@
       "duration_ms": 219574,
       "name": "Father Forgive Us",
       "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "POSSIBLE",
-        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
-      },
-      "artists": [
-        {
-          "name": "Ngoga",
-          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "POSSIBLE",
-      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1839,22 +1823,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "keyboard warriors.",
-        "url": "https://open.spotify.com/album/3ex58oVyuYisrq8HurOf7W"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 156929,
-      "name": "keyboard warriors.",
-      "url": "https://open.spotify.com/track/7FD8cL7vYQmrqdCm9ZIbBJ"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "Ways Pure",
         "url": "https://open.spotify.com/album/0tiPB0pmGvMogjdNOzrzJf"
       },
@@ -1883,6 +1851,54 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
+        "name": "Back n Bold (Freestyle)",
+        "url": "https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Back n Bold (Freestyle)",
+      "url": "https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "keyboard warriors.",
+        "url": "https://open.spotify.com/album/3ex58oVyuYisrq8HurOf7W"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "duration_ms": 156929,
+      "name": "keyboard warriors.",
+      "url": "https://open.spotify.com/track/7FD8cL7vYQmrqdCm9ZIbBJ"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "POSSIBLE",
+        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
+      },
+      "artists": [
+        {
+          "name": "Ngoga",
+          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "POSSIBLE",
+      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
         "name": "Reality Checks",
         "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 190909,
       "name": "Reality Checks",
       "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 211540,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
     }
   ],
   "unique_name": "The Flow",

@@ -1,33 +1,13 @@
 {
-  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: Sila Lua.",
-  "num_followers": 5563,
+  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: Carpin.",
+  "num_followers": 5597,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMxNjAwMCwwMDAwMDAwMDdkM2U3MTk2MGQ2ODFlNDUxMzcxZWRlYWNkNTU3NTMz",
+  "snapshot_id": "MTY2NDM1NDUzOCwwMDAwMDAwMDVlODcwYmEwOTkzNDc5NTFiOThjN2QxMDUwNjc2YjIz",
   "tracks": [
-    {
-      "added_at": "2022-09-27 22:00:00",
-      "album": {
-        "name": "nadie",
-        "url": "https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO"
-      },
-      "artists": [
-        {
-          "name": "Quirkyoddgirl",
-          "url": "https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo"
-        },
-        {
-          "name": "Kf\u00e9",
-          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "nadie",
-      "url": "https://open.spotify.com/track/5MkY0dtheSg6qivNtf3UuE"
-    },
     {
       "added_at": "2022-09-27 22:00:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 169846,
       "name": "Nada bueno",
       "url": "https://open.spotify.com/track/7CcjYHabgpqNVhD20o9aFL"
+    },
+    {
+      "added_at": "2022-09-27 22:00:00",
+      "album": {
+        "name": "nadie",
+        "url": "https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO"
+      },
+      "artists": [
+        {
+          "name": "Quirkyoddgirl",
+          "url": "https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "nadie",
+      "url": "https://open.spotify.com/track/5MkY0dtheSg6qivNtf3UuE"
     },
     {
       "added_at": "2022-09-27 22:00:00",

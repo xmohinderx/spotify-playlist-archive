@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43341,
+  "num_followers": 43351,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk0MyxhOTZlMGNkODRlNWI1ZDFiOWM1N2E0Nzg5NmM0NDJhNjhiNTdjMzJj",
+  "snapshot_id": "Mjk2NSwxNDI5ZGJhMjMwYmQ4MDdiMjc0Mjc2YTJkM2JmMTIxYjRmMjhkODNl",
   "tracks": [
+    {
+      "added_at": "2022-09-28 08:38:42",
+      "album": {
+        "name": "mynameisleonidas",
+        "url": "https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h"
+      },
+      "artists": [
+        {
+          "name": "mynameisleonidas",
+          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "grandson",
+      "url": "https://open.spotify.com/track/1Ztzzizm7xvOtbOWgPnMT0"
+    },
     {
       "added_at": "2022-09-26 08:09:23",
       "album": {
@@ -365,27 +381,7 @@
       "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
     },
     {
-      "added_at": "2022-07-13 08:24:20",
-      "album": {
-        "name": "Galangal",
-        "url": "https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV"
-      },
-      "artists": [
-        {
-          "name": "UOKAYE",
-          "url": "https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx"
-        },
-        {
-          "name": "Sei",
-          "url": "https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "Galangal",
-      "url": "https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa"
-    },
-    {
-      "added_at": "2022-07-11 08:29:21",
+      "added_at": "2022-09-28 09:25:44",
       "album": {
         "name": "Opposites",
         "url": "https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW"
@@ -401,7 +397,7 @@
       "url": "https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1"
     },
     {
-      "added_at": "2022-07-08 08:30:52",
+      "added_at": "2022-09-28 09:25:54",
       "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY"
     },
     {
-      "added_at": "2022-07-06 08:26:41",
+      "added_at": "2022-09-28 09:25:50",
       "album": {
         "name": "Be Grateful",
         "url": "https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9"

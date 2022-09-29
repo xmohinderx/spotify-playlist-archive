@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 1970,
+  "num_followers": 1985,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDcxNywwMDAwMDAwMDY0ODc1MGE0MjI4NGIwY2Y4NjAyNmMwNGRmMWU5ZmZj",
+  "snapshot_id": "MTY2MzkxNDcxNywwMDAwMDAwMGYwZDE0NGFlODE5NDU1MTA4YjAyNjBhODNmN2UwN2E0",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -633,32 +633,20 @@
       "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-09-23 06:31:57",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -737,20 +725,32 @@
       "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
     },
     {
-      "added_at": "2022-09-23 06:31:57",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 196712,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -973,6 +973,26 @@
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
+      "added_at": "2022-09-23 06:31:57",
+      "album": {
+        "name": "Philo",
+        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Philo",
+      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Laughter, Tears & Goosebumps",
@@ -987,26 +1007,6 @@
       "duration_ms": 165040,
       "name": "King",
       "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
-    },
-    {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1027,6 +1027,26 @@
       "duration_ms": 193000,
       "name": "Early Momo",
       "url": "https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ"
+    },
+    {
+      "added_at": "2022-05-26 23:00:00",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1063,26 +1083,6 @@
       "duration_ms": 213580,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
-    },
-    {
-      "added_at": "2022-09-23 06:31:57",
-      "album": {
-        "name": "Philo",
-        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Philo",
-      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     },
     {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "DKT",
+        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "DKT",
+      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Wait On Me",
@@ -1143,22 +1159,6 @@
       "duration_ms": 247337,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
-    },
-    {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "DKT",
-        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "DKT",
-      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1501,24 +1501,28 @@
       "url": "https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-03-18 00:00:00",
       "album": {
-        "name": "Hard to Find",
-        "url": "https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ"
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         },
         {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         }
       ],
-      "duration_ms": 188937,
-      "name": "Hard to Find",
-      "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
     }
   ],
   "unique_name": "Lovin' Beats",

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 320927,
+  "num_followers": 321001,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDg2YzIzN2I4NzhjNjMyYjBlNDE4NDE1NGM0YTg1ZDk4",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMGY3YmFmMzZhOTZhY2NhYTVhMzIwMmM1ODgzMGIwNWU0",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Break The Glass",
-      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Beast From The East",
         "url": "https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 248253,
       "name": "All in Stride",
       "url": "https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Break The Glass",
+      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Reggae Hit L.A.",
-        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Get Warmer",
         "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 282093,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Reggae Hit L.A.",
+        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
-      },
-      "artists": [
-        {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "Another Change of Plan",
+        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
         }
       ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+      "duration_ms": 196333,
+      "name": "Play Some Ska",
+      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
-        "name": "Another Change of Plan",
-        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
-      },
-      "artists": [
-        {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Play Some Ska",
-      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
         "name": "Stupid",
         "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 193503,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 216900,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 216900,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
         "name": "The Fabulous New Sounds of...",
         "url": "https://open.spotify.com/album/0HYasBR6e0TxXDfhmgSsSH"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 205585,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/5EOJzNZsHhJIP0cwowK8i9"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "No Place Like (Not Being) Home",
-      "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1243,6 +1227,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "No Place Like (Not Being) Home",
+      "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Detonate",
-        "url": "https://open.spotify.com/album/749SC742jI27G78tbtxKNT"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Room For Abuse '06",
         "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Detonate",
+        "url": "https://open.spotify.com/album/749SC742jI27G78tbtxKNT"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE"
     },
     {
       "added_at": "2022-04-14 09:43:03",

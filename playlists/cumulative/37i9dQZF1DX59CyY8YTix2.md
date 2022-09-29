@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: BiSH
 
-601 songs - 1 day 14 hr 42 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+603 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 | 2022-08-18 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
+| [Nocturne](https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Nocturne](https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S) | 4:15 | 2022-09-27 |  |
 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 |  |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 |  |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
@@ -161,7 +162,8 @@
 | [Oneness](https://open.spotify.com/track/4bXN9WnqFYbldRyxOGB1TJ) | [sumera](https://open.spotify.com/artist/57mUVnAYH1rN3F3bm5lFBt) | [Only moment](https://open.spotify.com/album/1IqQLXNIlz2Jzp94Ap2bn4) | 3:48 | 2022-06-02 | 2022-06-17 |
 | [OOPARTS](https://open.spotify.com/track/3HcJcQMiELuw62Y8bigYC8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [OOPARTS](https://open.spotify.com/album/0JVNFe0D5yp5QP28yoCCxb) | 5:06 | 2022-05-26 | 2022-07-26 |
 | [Ordinary days](https://open.spotify.com/track/24nmhvCoG0L2faFNzNS5xO) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [Ordinary days](https://open.spotify.com/album/3qWWvNwIdMRShjWkdsMeTS) | 4:11 | 2022-05-31 | 2022-07-28 |
-| [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 |  |
+| [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
+| [Pain](https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3) | 3:52 | 2022-09-27 |  |
 | [Passage](https://open.spotify.com/track/7goIf0C8Lxiscu1dcHCytg) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [Passage](https://open.spotify.com/album/5BvaC9LE6TbiMwRayGOmwa) | 4:37 | 2022-05-31 | 2022-07-05 |
 | [Pathfinder](https://open.spotify.com/track/1mwaY7gt7MnhwmRJOlbuVd) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [Pathfinder](https://open.spotify.com/album/62D375w5Wa8i2aNuxio3fb) | 4:19 | 2022-05-31 | 2022-07-24 |
 | [PEACE&LOVE](https://open.spotify.com/track/5jNlUYqa30ObfBlzQTx4NI) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [PEACE&LOVE/Flapping wings](https://open.spotify.com/album/5Cxu4fYWSh4ZqyUyPYy4gt) | 3:10 | 2022-07-14 | 2022-07-21 |
@@ -376,7 +378,7 @@
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
 | [ニャロメ!](https://open.spotify.com/track/2BcDomfKRKB7ykMMLTiSlw) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ニャロメ!](https://open.spotify.com/album/05WpStScuVguyaSn4AGHhn) | 5:08 | 2022-06-16 | 2022-07-21 |
 | [ニンゲンムシ \- \~One Night STAND Live\~](https://open.spotify.com/track/3zrnGTSfg1li3vRKHJP6Ku) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/album/60fCG4LsMmddJlnc5lUxWw) | 4:16 | 2022-05-31 | 2022-06-01 |
-| [ノクターン](https://open.spotify.com/track/5WVKs7xTk9bAhph3icORUG) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [ノクターン](https://open.spotify.com/album/3pukBpEtXCbtYQR5OkjtDH) | 4:15 | 2022-09-27 |  |
+| [ノクターン](https://open.spotify.com/track/5WVKs7xTk9bAhph3icORUG) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [ノクターン](https://open.spotify.com/album/3pukBpEtXCbtYQR5OkjtDH) | 4:15 | 2022-09-27 | 2022-09-29 |
 | [ノーコメント](https://open.spotify.com/track/0Hd2X71SC8uBUw44Vp8qF7) | [Tetsuko](https://open.spotify.com/artist/0BhDdo5thWnX48EA5kFAz2) | [パーフェクト](https://open.spotify.com/album/21bOuFM2xC62kaaBxhkNXQ) | 2:28 | 2022-06-16 | 2022-06-19 |
 | [ノーワー](https://open.spotify.com/track/5wR7BslkEXWWy4ACoKG830) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ノーワー](https://open.spotify.com/album/0qUSYiKsPUiPJ9hh9CBZ5Y) | 3:51 | 2022-07-05 | 2022-07-29 |
 | [ハイトーンボイスレディオ](https://open.spotify.com/track/2VlUm3aeiPL0oKUusfstYg) | [ITAZURA STORE](https://open.spotify.com/artist/1vBoaad3cFz2DdrBAfCsqu) | [ハイトーンボイスレディオ](https://open.spotify.com/album/6YgqNPwY0ceR88vSZO5QYB) | 2:27 | 2022-06-07 | 2022-07-06 |

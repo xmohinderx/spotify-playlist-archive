@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Marvvila e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,681 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,667 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [12 Meses](https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [12 Meses](https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ) | 3:43 |
 | 31 | [Manda Áudio / Presentinho / Recaída](https://open.spotify.com/track/2hGjMSHnzloQGpZWEsIEAM) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 5:10 |
 | 32 | [Me Entreguei](https://open.spotify.com/track/2nHhoThdclYZkM19ClLB82) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Me Entreguei](https://open.spotify.com/album/33yVVBMxiKZqw5ngQLgDod) | 3:15 |
-| 33 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
-| 34 | [Amor Proibido](https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy) | [Juliana Diniz](https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv) | [Juliana Diniz](https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM) | 2:54 |
+| 33 | [Amor Proibido](https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy) | [Juliana Diniz](https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv) | [Juliana Diniz](https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM) | 2:54 |
+| 34 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
 | 35 | [Em Qualquer Bar](https://open.spotify.com/track/5yJZDFjQwQaMhu5gx3jM6U) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [No Caminho do Samba](https://open.spotify.com/album/4rutwqoQJ5eFvjrQjf89NZ) | 3:00 |
 | 36 | [Príncipe Encantado](https://open.spotify.com/track/6mgPf1zvEz6UcL9eo9PstI) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [O Sonho Aconteceu](https://open.spotify.com/album/4IN34wxrPexRDjcqZQRXO7) | 3:05 |
 | 37 | [Lendas da Mata](https://open.spotify.com/track/71KOuSHRC1SkJcyowkPpwL) | [Aline Calixto](https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq) | [Meu Ziriguidum](https://open.spotify.com/album/4HdK1Z4HoPq5P9X22KfZMC) | 4:13 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 43 | [A Voz do Suor](https://open.spotify.com/track/5k4HC6ZZcRkrJG1dpjgpYM) | [Dandara Alves](https://open.spotify.com/artist/2BOE27SmzSG8Sd5MtoqoAc) | [A Voz Do Suor](https://open.spotify.com/album/7eAFxNUjqxhqki5Pz5Zgvn) | 5:18 |
 | 44 | [Farol](https://open.spotify.com/track/3pEImjcVgLqkvdbx4SdUBF) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Nosso Lar](https://open.spotify.com/album/5PMug3ykgU4deQQo2dkmXk) | 3:09 |
 | 45 | [Me Dá Medo](https://open.spotify.com/track/745KCv0RNKmBJw2nNG1J8v) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [Me Dá Medo](https://open.spotify.com/album/1QFKknV6C5szoTgvAMulPS) | 3:33 |
-| 46 | [Mulheres no Samba](https://open.spotify.com/track/5EQEo7xqqUi2ZJki184E7J) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [Mulheres no Samba](https://open.spotify.com/album/4puIpGKncZSJOXSigLPuGU) | 4:09 |
-| 47 | [Somente Sombras](https://open.spotify.com/track/1AWFJAbgj4FeoiUJuZxIOA) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Na Luz do Samba](https://open.spotify.com/album/4kwIebMAYuCJ9bVTuoU5kX) | 3:25 |
+| 46 | [Somente Sombras](https://open.spotify.com/track/1AWFJAbgj4FeoiUJuZxIOA) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Na Luz do Samba](https://open.spotify.com/album/4kwIebMAYuCJ9bVTuoU5kX) | 3:25 |
+| 47 | [Mulheres no Samba](https://open.spotify.com/track/5EQEo7xqqUi2ZJki184E7J) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [Mulheres no Samba](https://open.spotify.com/album/4puIpGKncZSJOXSigLPuGU) | 4:09 |
 | 48 | [Tô Mal Sem Você](https://open.spotify.com/track/6j5VBA1pU8HC152bizUTmT) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [Bota o Meu Som Aí](https://open.spotify.com/album/5bdTS6JVvkksNHmRimJEfV) | 3:23 |
 | 49 | [Me Dá Medo](https://open.spotify.com/track/5auanW6AqfUOcb0m3Jp3mQ) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Amanda Amado](https://open.spotify.com/album/6R9hyoV5cGMA17yxlHFVWD) | 3:36 |
 | 50 | [É por Isso Que Eu Canto](https://open.spotify.com/track/3Rg8RMrxV4af6FrEtrGTF3) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [É por Isso Que Eu Canto](https://open.spotify.com/album/1UisqGFhgIvZeKIy0dcRnC) | 3:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDQyMGU4MGMzZTAyZjBmNzc1NDdmODc3M2M2NjQyMGVi`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDMwNzgwY2VjZTIzOGUxMWNkZjZkODg4YTdmMWJkOTA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,106 likes - 72 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,125 likes - 72 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 16 | [Evening Reduction](https://open.spotify.com/track/2QgUtZWx4esDamWQjgTsAz) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Arji OceAnanda](https://open.spotify.com/artist/3E5yAr7IdoYJYdJd0qeGIo) | [Arrive Without Leaving](https://open.spotify.com/album/39dMo7V0KDO3EF2klFTsEd) | 10:21 |
 | 17 | [Breathe](https://open.spotify.com/track/06633e40krkr5SWIenSngC) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas \(Remastered\)](https://open.spotify.com/album/7npz49UfRVwL5GemG3mjU8) | 1:49 |
 | 18 | [The Unveiling](https://open.spotify.com/track/6uY4jTpE2hjhSwE2imW2A1) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 5:09 |
-| 19 | [The Ascent](https://open.spotify.com/track/5v1ucXIMPDgWYveqEmAYCp) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Transcendence](https://open.spotify.com/album/6xyvXQYAkNYjINgig3bTia) | 10:53 |
+| 19 | [The Ascent](https://open.spotify.com/track/5v1ucXIMPDgWYveqEmAYCp) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Transcendence: Flute Meditations](https://open.spotify.com/album/6xyvXQYAkNYjINgig3bTia) | 10:53 |
 | 20 | [Pompeii 76 A.D.](https://open.spotify.com/track/68sMOYzXAebkYwfvZsedDI) | [Gail Laughton](https://open.spotify.com/artist/5WRr9OjL0ERTqeeUuuaklY) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 2:22 |
 | 21 | [Dawn's Spirit](https://open.spotify.com/track/1CodjlFitI1S49ioxKShjM) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [River of Soul](https://open.spotify.com/album/5oWq6DEjHyb3YcX4Sn8ttI) | 2:11 |
 | 22 | [Safe in the Angel's Wing](https://open.spotify.com/track/5b37N7OEe9IQJQ48hiKY1p) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [Safe in the Angel's Wing](https://open.spotify.com/album/7E5Jb6jN40I022vJXge97c) | 4:22 |

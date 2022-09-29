@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
@@ -2946,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258853,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs"
+    },
+    {
+      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 156820,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
@@ -4455,6 +4473,24 @@
       "duration_ms": 225020,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag"
+    },
+    {
+      "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     },
     {
       "album": {

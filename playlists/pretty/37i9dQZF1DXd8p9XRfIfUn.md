@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,903 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,916 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 46 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 |
 | 47 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
 | 48 | [Animal](https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [Animal](https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY) | 3:15 |
-| 49 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
-| 50 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
+| 49 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
+| 50 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 | 51 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 |
-| 52 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
+| 52 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 |
 | 53 | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 |
-| 54 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 |
+| 54 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 | 55 | [Inédito](https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [Inédito](https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ) | 2:42 |
 | 56 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
 | 57 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 |
 | 60 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
 
-Snapshot ID: `MTY2MjA3NjgwMCwwMDAwMDAwMGRlMjdmNTNiOTJlZGE4NjA3YWUwYjUwZDhmMjg0ZTI1`
+Snapshot ID: `MTY2MjA3NjgwMCwwMDAwMDAwMDIyOTg3YTZkMDRmNmI3ZWQ2ZmFhOTMwZmQ1MWIwNmVk`

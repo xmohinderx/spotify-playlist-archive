@@ -4,7 +4,7 @@
 
 > Make room for these R&B/Soul artists on the rise! Photo: Samaria
 
-351 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+352 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Countless Times](https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Countless Times](https://open.spotify.com/album/7KEabKxhNzFn56xzP3wqva) | 2:45 | 2022-04-08 | 2022-06-18 |
 | [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-03-25 |  |
 | [CULTURE](https://open.spotify.com/track/2uhU539AYa4pnq7oNU2AT8) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [it takes a village](https://open.spotify.com/album/06dEIh43cQW1uEbSWaso7S) | 3:28 | 2022-04-29 | 2022-07-02 |
-| [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-09-09 |  |
+| [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-09-09 | 2022-09-29 |
+| [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-09-09 |  |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 |  |
 | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/track/4sqoYcOLKALBqsVWRFwMqn) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/album/3e3DNi5ZuSeIqqVj5TUKj4) | 2:49 | 2022-04-08 | 2022-04-29 |

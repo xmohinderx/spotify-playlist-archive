@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-252 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+253 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bruise](https://open.spotify.com/track/6vJFWet1sMnWrKE8dDmfGG) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bruise](https://open.spotify.com/album/0HR7LLku7QMhusktFwyQx6) | 3:52 | 2022-04-14 | 2022-04-21 |
 | [But \- Radio Edit](https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [But \(Radio Edit\)](https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ) | 4:01 | 2021-12-09 | 2022-07-29 |
 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 | 2021-12-09 | 2022-08-12 |
-| [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 | 2021-12-09 | 2022-07-29 |
+| [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 | 2021-12-09 |  |
 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 | 2022-04-14 | 2022-07-29 |
 | [Californian Soil](https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:41 | 2022-07-21 |  |
 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 | 2021-12-09 | 2022-07-29 |
@@ -63,7 +63,7 @@
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-07-21 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-12-09 | 2022-07-29 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-12-09 | 2022-04-21 |
-| [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-07-21 |  |
+| [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-07-21 | 2022-09-29 |
 | [Child Of The Flatlands](https://open.spotify.com/track/6G77lvlIBMvjXbZM2iWZjp) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Child Of The Flatlands](https://open.spotify.com/album/1qVNEcyZJxVB9dc6sZ4boR) | 5:16 | 2022-04-14 | 2022-04-16 |
 | [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 | 2022-07-21 |  |
 | [Chin Up](https://open.spotify.com/track/2VfSwzDCImh8avZQ6mcUvd) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/11lFb1Gx6KA0sftAS9Zn1j) | 4:25 | 2021-12-09 | 2022-07-29 |
@@ -194,6 +194,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-12-09 |  |
 | [Rue de l’Enfer](https://open.spotify.com/track/7Ljo9b3ERb9b41aqP7e2KX) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [Rue de l’Enfer](https://open.spotify.com/album/7ffaZ6KcBJxOxC4zGyAo8S) | 3:00 | 2022-01-14 | 2022-03-22 |
 | [Run Away With Me](https://open.spotify.com/track/76KAUp0X4bt8APttco8Zb0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/1tYHjJ50WowcNvDTLdf6Wo) | 4:07 | 2022-04-14 | 2022-04-21 |
+| [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2022-09-28 |  |
 | [Same Light](https://open.spotify.com/track/2bWkBLuzrH7g1HcB833se9) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Same Light](https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm) | 2:36 | 2022-01-14 | 2022-07-29 |
 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 | 2022-07-21 |  |
 | [Save Me From Your Kindness](https://open.spotify.com/track/6TFMXG62kwrJjTnEVQKrl7) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [No Words Left](https://open.spotify.com/album/7dH9UtNVY8jKjZie4207uk) | 3:47 | 2022-04-14 | 2022-04-20 |
@@ -258,7 +259,7 @@
 | [Young & Free](https://open.spotify.com/track/0GMYdEuNaZtcEW014gbv9L) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Young & Free](https://open.spotify.com/album/1B3U0viHf0iGTpmEogZNie) | 3:50 | 2022-06-30 |  |
 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 | 2021-12-09 | 2022-07-22 |
 | [Youth](https://open.spotify.com/track/0uGZUQMdiyxOonkq6gIepJ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Youth](https://open.spotify.com/album/1q9bDxHCTIKGbrdG8aOXRV) | 3:30 | 2021-12-09 | 2022-07-29 |
-| [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2022-07-21 |  |
+| [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2022-07-21 | 2022-09-29 |
 | [zombie girl](https://open.spotify.com/track/5ZD6USvzWXbGxZ9pv6a9b9) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2WKfCjW3EDmgHswj5eVXuG) | 2:44 | 2022-04-14 | 2022-04-20 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

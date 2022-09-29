@@ -1,12 +1,12 @@
 {
   "description": "With Max Reichert, brodyn, Wesley Collins and more",
-  "num_followers": 1261,
+  "num_followers": 1260,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMzMTIwNSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
+  "snapshot_id": "MTY2NDQxNzIyMywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw"
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
       },
       "artists": [
         {
-          "name": "Honest Men",
-          "url": "https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj"
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 247175,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5uFHPDXEHYrp8R24xo6mel"
+      "duration_ms": 219760,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
     },
     {
       "added_at": null,
@@ -123,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Native Sessions (Live from ATX)",
+        "url": "https://open.spotify.com/album/7pR39qAoumFFMipUDaVS4l"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Bad Enough (Live)",
+      "url": "https://open.spotify.com/track/2UT5bZ4gUhVGVLi2F3DhOj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweatshirt (Don't Let Go)",
         "url": "https://open.spotify.com/album/5ODmBjFzCdHc5scaPDfug9"
       },
@@ -139,38 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Thieves",
-        "url": "https://open.spotify.com/album/5CaFVNcmwlghcQXdypeMU0"
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw"
       },
       "artists": [
         {
-          "name": "Future Thieves",
-          "url": "https://open.spotify.com/artist/5EeatowmM27FYdq10duh7p"
+          "name": "Honest Men",
+          "url": "https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj"
         }
       ],
-      "duration_ms": 212204,
-      "name": "Dark Spin",
-      "url": "https://open.spotify.com/track/2P5ieSkaE83wJ9KOyT3SL0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        },
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
+      "duration_ms": 247175,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5uFHPDXEHYrp8R24xo6mel"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
       "duration_ms": 240725,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6YrZ1StlY8AA64Bm72F1YD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Thieves",
+        "url": "https://open.spotify.com/album/5CaFVNcmwlghcQXdypeMU0"
+      },
+      "artists": [
+        {
+          "name": "Future Thieves",
+          "url": "https://open.spotify.com/artist/5EeatowmM27FYdq10duh7p"
+        }
+      ],
+      "duration_ms": 212204,
+      "name": "Dark Spin",
+      "url": "https://open.spotify.com/track/2P5ieSkaE83wJ9KOyT3SL0"
     },
     {
       "added_at": null,
@@ -243,24 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Ends Up Ending",
-        "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
-      },
-      "artists": [
-        {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "I'm In Love With Everybody",
-      "url": "https://open.spotify.com/track/0WJ19bFgOB0DKOKaU6E2Mj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
+        "name": "Heavy Sunshine",
+        "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Bad News!",
-      "url": "https://open.spotify.com/track/4COHO7LKVfV03fEOFqzyN9"
+      "duration_ms": 246226,
+      "name": "Kiss Me, Kill Me",
+      "url": "https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN"
       },
       "artists": [
         {
@@ -304,9 +304,25 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 316733,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
+      "duration_ms": 261320,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "I'm In Love With Everybody",
+      "url": "https://open.spotify.com/track/0WJ19bFgOB0DKOKaU6E2Mj"
     },
     {
       "added_at": null,
@@ -343,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash",
-        "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
       },
       "artists": [
         {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 229784,
-      "name": "Holding You, Holding Me",
-      "url": "https://open.spotify.com/track/7eir9oKMtbGmg5t7iOMtQR"
+      "duration_ms": 265080,
+      "name": "Sad People Dancing",
+      "url": "https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA"
     },
     {
       "added_at": null,
@@ -375,28 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Sunshine",
-        "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        },
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Kiss Me, Kill Me",
-      "url": "https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN"
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
       },
       "artists": [
         {
@@ -404,9 +404,25 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 261320,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ"
+      "duration_ms": 316733,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash",
+        "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 229784,
+      "name": "Holding You, Holding Me",
+      "url": "https://open.spotify.com/track/7eir9oKMtbGmg5t7iOMtQR"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f8uth",
-          "url": "https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Hey Carolina",
-      "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Thoughts On You",
         "url": "https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx"
       },
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okay With That",
-        "url": "https://open.spotify.com/album/4fCh1mEEa0gufuViBaQebz"
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
       },
       "artists": [
         {
-          "name": "Phangs",
-          "url": "https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi"
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 187428,
-      "name": "Okay With That",
-      "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
+      "duration_ms": 244706,
+      "name": "Bad News!",
+      "url": "https://open.spotify.com/track/4COHO7LKVfV03fEOFqzyN9"
     },
     {
       "added_at": null,
@@ -503,6 +507,22 @@
       "duration_ms": 308266,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/3qbQjQotCtzQJqHZd0j4fK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f8uth",
+          "url": "https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Hey Carolina",
+      "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
     },
     {
       "added_at": null,
@@ -539,38 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEED YOU STILL",
-        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
+        "name": "Okay With That",
+        "url": "https://open.spotify.com/album/4fCh1mEEa0gufuViBaQebz"
       },
       "artists": [
         {
-          "name": "RVRB",
-          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
+          "name": "Phangs",
+          "url": "https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi"
         }
       ],
-      "duration_ms": 257988,
-      "name": "NEED YOU STILL",
-      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        },
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "Sad People Dancing",
-      "url": "https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA"
+      "duration_ms": 187428,
+      "name": "Okay With That",
+      "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEED YOU STILL",
+        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
+      },
+      "artists": [
+        {
+          "name": "RVRB",
+          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
+        }
+      ],
+      "duration_ms": 257988,
+      "name": "NEED YOU STILL",
+      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Native Architects EP",
         "url": "https://open.spotify.com/album/1siCrPD80Sa3PT67PTiJ7J"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 278453,
       "name": "WYAF",
       "url": "https://open.spotify.com/track/34tECu2ryIb402OzrfexGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give & Take",
-        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
-      },
-      "artists": [
-        {
-          "name": "John Marc",
-          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
-        }
-      ],
-      "duration_ms": 271690,
-      "name": "Give & Take",
-      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
     },
     {
       "added_at": null,
@@ -703,8 +703,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Dead.",
-        "url": "https://open.spotify.com/album/3nNhG4qaKBOMTxp4O2D3Os"
+        "name": "Give & Take",
+        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
+      },
+      "artists": [
+        {
+          "name": "John Marc",
+          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
+        }
+      ],
+      "duration_ms": 271690,
+      "name": "Give & Take",
+      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/03Es8ZVvkcDpRONjTz43Zc"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0Z5bTj2ks1eHLSBIHuwBs9"
         }
       ],
-      "duration_ms": 321954,
-      "name": "Better Off Dead.",
-      "url": "https://open.spotify.com/track/5M4XPBnqb0ZDsNaZe6EFPF"
+      "duration_ms": 226470,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 244476,
       "name": "never in love",
       "url": "https://open.spotify.com/track/4s4sY3HHDIL8AHrvk2pWKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ocean (demo)",
-        "url": "https://open.spotify.com/album/75m5xvn8nUiYbRLXFYeEkW"
-      },
-      "artists": [
-        {
-          "name": "Cathartic Fall",
-          "url": "https://open.spotify.com/artist/34hoESwT0i65olCa02BdhO"
-        }
-      ],
-      "duration_ms": 231924,
-      "name": "Ocean - demo",
-      "url": "https://open.spotify.com/track/2sD2w0LAlY2DIIJTfIoKHs"
     },
     {
       "added_at": null,
@@ -799,18 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Nights",
-        "url": "https://open.spotify.com/album/03Es8ZVvkcDpRONjTz43Zc"
+        "name": "Ocean (demo)",
+        "url": "https://open.spotify.com/album/75m5xvn8nUiYbRLXFYeEkW"
       },
       "artists": [
         {
-          "name": "Y O U T H F O O L",
-          "url": "https://open.spotify.com/artist/0Z5bTj2ks1eHLSBIHuwBs9"
+          "name": "Cathartic Fall",
+          "url": "https://open.spotify.com/artist/34hoESwT0i65olCa02BdhO"
         }
       ],
-      "duration_ms": 226470,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT"
+      "duration_ms": 231924,
+      "name": "Ocean - demo",
+      "url": "https://open.spotify.com/track/2sD2w0LAlY2DIIJTfIoKHs"
     },
     {
       "added_at": null,

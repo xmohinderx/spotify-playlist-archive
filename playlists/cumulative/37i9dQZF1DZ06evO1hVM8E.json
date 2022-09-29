@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 154426,
       "name": "Me Lo Contaron Ayer",
       "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 274314,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
@@ -1295,6 +1295,28 @@
       "duration_ms": 221626,
       "name": "Reproches al Viento",
       "url": "https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY"
+    },
+    {
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221414,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI"
     },
     {
       "album": {

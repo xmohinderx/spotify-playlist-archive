@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 51384,
+  "num_followers": 51404,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGUzNDNhZGY2ZDc4NjQzNWZmODM4YjYyNTE0NWNkYWE1",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDRjZTEzZGRhODlhMDg2NmU1ZjM2MjEwMDEyM2NkN2Jj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
         }
       ],
-      "duration_ms": 409961,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -643,6 +623,26 @@
       "duration_ms": 262677,
       "name": "Hymnotic",
       "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "duration_ms": 409961,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Nothing Stays in One Place for Long",
+        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        }
+      ],
+      "duration_ms": 318426,
+      "name": "Accidentally We Rushed",
+      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "What Are U Gonna Do",
         "url": "https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 180960,
       "name": "What Are U Gonna Do",
       "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Nothing Stays in One Place for Long",
-        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
-      },
-      "artists": [
-        {
-          "name": "Massimiliano Pagliara",
-          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
-        }
-      ],
-      "duration_ms": 318426,
-      "name": "Accidentally We Rushed",
-      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
     },
     {
       "added_at": "2021-08-27 15:45:01",

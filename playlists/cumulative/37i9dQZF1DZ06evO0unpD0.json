@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 362280,
       "name": "Cono",
       "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 254880,
       "name": "Dj\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 245000,
       "name": "Karifa",
       "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 475760,
       "name": "Lony",
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
@@ -954,6 +954,28 @@
     },
     {
       "album": {
+        "name": "Vestido de Amor",
+        "url": "https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220286,
+      "name": "SobreHumano",
+      "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
+    },
+    {
+      "album": {
         "name": "Soro",
         "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 285866,
       "name": "Wamba",
       "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"

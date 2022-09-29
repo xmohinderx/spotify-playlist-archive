@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: AJRADICO",
-  "num_followers": 887785,
+  "num_followers": 888104,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDUwMDhlOWUzZDRlMzkxNjNlYzE5NTZjZDhkYjE5MzE1",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGJkYTljODU1ODFhMjgwNWU3OTkxNjE5ODJmMmNiZjY4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+        "name": "Dance Now (with Kenny Mason)",
+        "url": "https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U"
       },
       "artists": [
         {
@@ -56,13 +56,13 @@
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 235423,
-      "name": "Bruddanem (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
+      "duration_ms": 227555,
+      "name": "Dance Now (with Kenny Mason)",
+      "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -83,8 +83,8 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Dance Now (with Kenny Mason)",
-        "url": "https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U"
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
       "artists": [
         {
@@ -92,13 +92,13 @@
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Dance Now (with Kenny Mason)",
-      "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
+      "duration_ms": 235423,
+      "name": "Bruddanem (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 203793,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 203793,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Private Valet",
-        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 149074,
-      "name": "Private Valet",
-      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -595,34 +595,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+        "name": "Private Valet",
+        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Don't Go Tellin' Your Momma",
-        "url": "https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm"
-      },
-      "artists": [
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Black Tame",
-      "url": "https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L"
+      "duration_ms": 149074,
+      "name": "Private Valet",
+      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 182926,
       "name": "Moonshooter",
       "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Don't Go Tellin' Your Momma",
+        "url": "https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Black Tame",
+      "url": "https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -679,18 +679,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B"
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
       },
       "artists": [
         {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 145956,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R"
+      "duration_ms": 225546,
+      "name": "Still (feat. 6LACK and Smino)",
+      "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -719,6 +727,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "duration_ms": 145956,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "A Bar About a Bar",
         "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
@@ -731,46 +755,6 @@
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Few Good Things",
-        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Still (feat. 6LACK and Smino)",
-      "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "MORE BLACK SUPERHEROES",
-        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 144147,
-      "name": "LOLSMH II",
-      "url": "https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "MORE BLACK SUPERHEROES",
+        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 144147,
+      "name": "LOLSMH II",
+      "url": "https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Breath Control",
         "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 147187,
       "name": "Breath Control (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 96000,
       "name": "AIN'T GON STOP ME",
       "url": "https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+        "name": "RUN THE WORLD",
+        "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Hush Forte",
+          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
         }
       ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
+      "duration_ms": 178536,
+      "name": "RUN THE WORLD",
+      "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -947,22 +951,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "RUN THE WORLD",
-        "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
       "artists": [
         {
-          "name": "Hush Forte",
-          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 178536,
-      "name": "RUN THE WORLD",
-      "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

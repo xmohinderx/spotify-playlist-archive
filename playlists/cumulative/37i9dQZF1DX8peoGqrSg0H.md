@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Bow Maylada \(โบว์ เมลดา\)
 
-226 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+227 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [สมัยนี้เค้าไม่แอบรัก\(Just Say You Love Me\) \- เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev) | [Mook Worranit](https://open.spotify.com/artist/0WvnXNFhAbvUHTSYVXIudV) | [เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/album/0BX886v6YDSPtIbxRBTESe) | 3:11 | 2022-07-23 | 2022-07-29 |
 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \(feat\. Da Endorphine\)](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-14 |  |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 | 2022-05-26 | 2022-07-29 |
-| [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi) | 3:08 | 2022-07-28 |  |
+| [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi) | 3:08 | 2022-07-28 | 2022-09-29 |
+| [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 | 2022-09-23 |  |
 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2022-08-11 |  |
 | [ส่งเพลงนี้มาบอกฝันดี \- See You In My Dreams](https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ส่งเพลงนี้มาบอกฝันดี \(See You In My Dreams\)](https://open.spotify.com/album/7zEqCYajmXEXLH2v6ulsvv) | 2:10 | 2022-05-26 | 2022-06-03 |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 |  |

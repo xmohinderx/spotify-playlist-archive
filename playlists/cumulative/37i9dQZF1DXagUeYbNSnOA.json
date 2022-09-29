@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. La Queens Tafari on cover.",
+  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Lucas Hill on cover.",
   "name": "Fresh Finds Latin",
   "published_playlist_ids": [
     "3bExY6e3wLROXTtlrvGceS"
@@ -1519,6 +1519,24 @@
       "duration_ms": 255000,
       "name": "Bald\u00edo Bien",
       "url": "https://open.spotify.com/track/1Xhl7tYtnqafpzHrXqRaPO"
+    },
+    {
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "album": {
@@ -4509,7 +4527,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 200412,
       "name": "Facil",
       "url": "https://open.spotify.com/track/5im7FCGkR1HPYjdib3MZET"
@@ -4603,7 +4621,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 232033,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE"
@@ -4821,7 +4839,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 125689,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx"
@@ -5393,7 +5411,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 161531,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
@@ -5523,6 +5541,24 @@
       "duration_ms": 214385,
       "name": "In 2 You",
       "url": "https://open.spotify.com/track/35gk8dUHtQFxeLUz6dQlmi"
+    },
+    {
+      "album": {
+        "name": "Incendio",
+        "url": "https://open.spotify.com/album/0Ml6rdX8Oz0dp2SexNafy4"
+      },
+      "artists": [
+        {
+          "name": "Cuchillas",
+          "url": "https://open.spotify.com/artist/1ijMSVBbWChLbwqGPM5ye8"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Incendio",
+      "url": "https://open.spotify.com/track/662HK9Y4QNgllJyLgjsmp3"
     },
     {
       "album": {
@@ -8468,6 +8504,28 @@
     },
     {
       "album": {
+        "name": "nublado",
+        "url": "https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        },
+        {
+          "name": "suei",
+          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "nublado",
+      "url": "https://open.spotify.com/track/5l9D9Uzeba8H3vVbEEoWnd"
+    },
+    {
+      "album": {
         "name": "En El Palacio de Las Almas",
         "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
       },
@@ -9096,6 +9154,24 @@
     },
     {
       "album": {
+        "name": "Perico",
+        "url": "https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204852,
+      "name": "Perico",
+      "url": "https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK"
+    },
+    {
+      "album": {
         "name": "Piramidal",
         "url": "https://open.spotify.com/album/5uRgJieBSoiFVMbLFnKxGf"
       },
@@ -9635,7 +9711,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 238000,
       "name": "Quiero Volver a Repetir",
       "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
@@ -9841,6 +9917,24 @@
       "duration_ms": 278802,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/5Szry6sR2vYm1fHh4X8T62"
+    },
+    {
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
     },
     {
       "album": {
@@ -11276,6 +11370,24 @@
     },
     {
       "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/2YBHUFzkcoyKMtqaJ8iOoy"
+      },
+      "artists": [
+        {
+          "name": "C Mar\u00ed",
+          "url": "https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/34VnkKa0LcXs4VJlIicZGs"
+    },
+    {
+      "album": {
         "name": "Todo el Brillo",
         "url": "https://open.spotify.com/album/5GJbUttuSGz0hXM4Lc4szW"
       },
@@ -12181,7 +12293,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 244796,
       "name": "Verde Artificial",
       "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"

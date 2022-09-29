@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,743 likes - 146 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,816 likes - 146 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 117 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 |
 | 118 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
 | 119 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 |
-| 120 | [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 |
+| 120 | [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 |
 | 121 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 |
 | 122 | [Desert](https://open.spotify.com/track/1pzprWEGDX4Z6kMDndqSbu) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Desert](https://open.spotify.com/album/1znxkPenPvmmWsJzGBZLLY) | 2:46 |
 | 123 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 145 | [Dancing Through The Mental Breakdown](https://open.spotify.com/track/2Bp2lz31jToHaktMzMS8KD) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Infinitely Tall](https://open.spotify.com/album/5UkdU2EuwWI43isnwU4kZn) | 4:16 |
 | 146 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
 
-Snapshot ID: `MTY2MzkzOTQ3NywwMDAwMDAwMGJhZTcyMWQzN2JiNmMyMDYyNDA0ZDE2OTk3MjZlNjBl`
+Snapshot ID: `MTY2MzkzOTQ3NywwMDAwMDAwMDliYjc1Nzk4MWZiYzZiZGYwMjA0M2E5YmQwNzg0NTlj`

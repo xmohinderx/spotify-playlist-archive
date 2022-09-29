@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,631 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,648 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 8 | [La Paz](https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [La Paz](https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH) | 2:53 |
 | 9 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 |
 | 10 | [LA SAGA](https://open.spotify.com/track/6lvEBpVnTAlRhHrBNU8Ucx) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [DA KNOWLEDGE](https://open.spotify.com/album/2VwBIqWTKUGuuCkvipiRw7) | 3:53 |
-| 11 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/5gFvMcdpe2BWR80gm5ydx3), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
+| 11 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
 | 12 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 13 | [E\. U\. C\. S\. L.](https://open.spotify.com/track/1UgJaQryfcS2vQHlv4Jm8I) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Shugar](https://open.spotify.com/artist/0KJpaKiDgqvcl7XuqjvKF2) | [E\. U\. C\. S\. L.](https://open.spotify.com/album/7dKyqjoh2PFr0ZHIX7Gg4l) | 3:13 |
 | 14 | [Preparao](https://open.spotify.com/track/5bODQyM06wzQjER4kMCmo4) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Mov Rap & Reggae](https://open.spotify.com/album/17mqLBTV5A433TkXUD3jtS) | 3:33 |

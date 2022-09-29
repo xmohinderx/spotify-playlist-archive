@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 533969,
+  "num_followers": 534008,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDVmNzFlOTNlYzI5MjQ3YjA5MDU0MzVmZGUwZmMyMjg0",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDE0ZWE2Y2Y0ZmVhN2UwZDMxZjQ3YWYxZjk2MjUzNWZk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -617,34 +617,6 @@
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Banquet",
-        "url": "https://open.spotify.com/album/05Ct3MiwIitELahPzZQMc0"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
-        }
-      ],
-      "duration_ms": 139451,
-      "name": "The Banquet",
-      "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "RED PILL",
@@ -675,6 +647,34 @@
       "duration_ms": 187343,
       "name": "Come Out and Play",
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Banquet",
+        "url": "https://open.spotify.com/album/05Ct3MiwIitELahPzZQMc0"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "duration_ms": 139451,
+      "name": "The Banquet",
+      "url": "https://open.spotify.com/track/30EODpTC8EhaZw7WIfH0lu"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -767,6 +751,22 @@
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/2KkVqlF1bCcWmLpCsFKJ2t"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
       "added_at": "2022-04-25 13:59:49",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -929,22 +945,6 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Kick Snare Cat",
@@ -981,26 +981,6 @@
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
-      "album": {
-        "name": "Elegua",
-        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        },
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Elegua",
-      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Aso EP",
@@ -1023,6 +1003,22 @@
       "duration_ms": 208456,
       "name": "Jim Bell",
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1057,20 +1053,44 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2022-07-05 15:03:47",
       "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
       },
       "artists": [
         {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        },
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
         }
       ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+      "duration_ms": 148500,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Blue to Red (Photay Remix)",
+        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Blue to Red - Photay Remix",
+      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2021-05-07 04:01:00",
@@ -1095,26 +1115,6 @@
       "duration_ms": 198000,
       "name": "On the Fly",
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Blue to Red (Photay Remix)",
-        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Blue to Red - Photay Remix",
-      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
       "added_at": "2022-02-11 18:57:20",
@@ -1205,38 +1205,6 @@
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Side Street",
-        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Tom Walsh",
-          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Side Street",
-      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Tomorrow 1972",
@@ -1273,22 +1241,6 @@
       "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
-    },
-    {
       "added_at": "2021-03-26 04:44:53",
       "album": {
         "name": "Saudade da Festa",
@@ -1311,6 +1263,54 @@
       "duration_ms": 177146,
       "name": "Saudade da Festa",
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
+    },
+    {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
+    },
+    {
+      "added_at": "2021-09-24 04:02:00",
+      "album": {
+        "name": "Side Street",
+        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Tom Walsh",
+          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Side Street",
+      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1401,6 +1401,38 @@
       "url": "https://open.spotify.com/track/5gFgGj8ShXvq8PXs9tTc0F"
     },
     {
+      "added_at": "2021-05-28 04:00:00",
+      "album": {
+        "name": "Inner Inference",
+        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Inner Inference",
+      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "PPL -PingPongLounge-",
+        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "duration_ms": 114078,
+      "name": "PPL -PingPongLounge-",
+      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -1441,38 +1473,6 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Inner Inference",
-        "url": "https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Inner Inference",
-      "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
-      },
-      "artists": [
-        {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
-        }
-      ],
-      "duration_ms": 114078,
-      "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Typhoon",
@@ -1501,10 +1501,10 @@
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
-      "added_at": "2021-09-24 04:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Excursions",
-        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Life Of Leisure",
-      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
+      "duration_ms": 89898,
+      "name": "In Touch With The Kosmos",
+      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1581,40 +1581,20 @@
       "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Database",
-        "url": "https://open.spotify.com/album/3Wd3eSggmgWFmO0N6yuIq4"
+        "name": "PRNDL.wav",
+        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
       },
       "artists": [
         {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Benjamin Francis",
-          "url": "https://open.spotify.com/artist/06ZjGUPQ57XGGjh4Gjqzpz"
-        },
-        {
-          "name": "Moto Fukushima",
-          "url": "https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF"
-        },
-        {
-          "name": "Magro",
-          "url": "https://open.spotify.com/artist/76cRnLzHkspLjeNgFmDn87"
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
         }
       ],
-      "duration_ms": 272955,
-      "name": "Timeline-100",
-      "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
+      "duration_ms": 177036,
+      "name": "PRNDL.exe",
+      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     }
   ],
   "unique_name": "Jazztronica",

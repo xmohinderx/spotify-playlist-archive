@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-83 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+84 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
 | [Frontières](https://open.spotify.com/track/049ryvt09w98K1uzsWf9x1) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Frontières](https://open.spotify.com/album/3sG46QoL4wOX4nxe754i4Z) | 3:29 | 2021-12-09 | 2022-01-14 |
 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-08-19 |  |
-| [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 |  |
+| [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 | 2022-09-29 |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 |  |
 | [Hinata](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Hinata](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 | 2022-09-19 |  |
 | [Juliana](https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD) | [Fyanso](https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe) | [Juliana](https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G) | 3:14 | 2022-08-22 | 2022-09-20 |
@@ -69,6 +69,7 @@
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 |  |
 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 | 2021-12-09 |  |
 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 | 2022-06-23 |  |
+| [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 | 2022-09-28 |  |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 |  |

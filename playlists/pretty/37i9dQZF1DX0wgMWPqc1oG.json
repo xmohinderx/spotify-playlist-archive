@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 13495,
+  "num_followers": 13538,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA3MTE0OCwwMDAwMDAwMGU0ZjdjZDZlNWIzZGMxYjAzNjA5ZTIzMzY0MWZmNmY0",
+  "snapshot_id": "MTY1MTA3MTE0OCwwMDAwMDAwMDQ1YWM5ZWRlYTBiNmYzMGFhMmZiNWE5MWNjYTEwZGFh",
   "tracks": [
     {
       "added_at": "2022-04-27 14:52:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 841026,
-      "name": "The Egg - Remastered",
-      "url": "https://open.spotify.com/track/1Anoc4BwtIQFvUthGe3rao"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 615426,
       "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 841026,
+      "name": "The Egg - Remastered",
+      "url": "https://open.spotify.com/track/1Anoc4BwtIQFvUthGe3rao"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
+        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
         }
       ],
-      "duration_ms": 482186,
-      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
+      "duration_ms": 258320,
+      "name": "Flight 19",
+      "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -771,38 +771,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 361626,
-      "name": "First Trip - Remastered",
-      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "Flight 19",
-      "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Red Clay",
         "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 643706,
       "name": "The Intrepid Fox",
       "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 482186,
+      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 361626,
+      "name": "First Trip - Remastered",
+      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
         "name": "The Best Of Art Blakey",
         "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 669306,
       "name": "Free For All",
       "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
       "artists": [
         {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Love Bird",
-      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Contours",
         "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 563920,
       "name": "Point Of Many Returns",
       "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Love Bird",
+      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Margot",
-      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Peacemeal",
         "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 194266,
       "name": "Thumb Under",
       "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Down With It",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Perception - Remastered",
-      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "East Broadway Run Down",
-        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 742960,
-      "name": "Blessing In Disguise",
-      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
         "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
+        "name": "Down With It",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Perception - Remastered",
+      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
         "name": "Spring (Remastered)",
         "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 504000,
       "name": "Love Song - Rudy Van Gelder Edition/2009 Digital Remaster",
       "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "East Broadway Run Down",
+        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 742960,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Time For Tyner (Remastered)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 512373,
-      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+      "duration_ms": 313733,
+      "name": "Off My Back Jack",
+      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
+        "name": "Time For Tyner (Remastered)",
+        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 512373,
+      "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
         "name": "Una Mas (Remastered 2014)",
         "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 437546,
       "name": "Sao Paulo - Remastered 2014",
       "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "Off My Back Jack",
-      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
     }
   ],
   "unique_name": "Post Bop Essentials",

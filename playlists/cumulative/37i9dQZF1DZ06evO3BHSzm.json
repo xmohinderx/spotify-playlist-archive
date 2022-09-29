@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 169041,
       "name": "1921",
       "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 296866,
       "name": "Another Tricky Day",
       "url": "https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 60426,
       "name": "Heinz Baked Beans",
       "url": "https://open.spotify.com/track/0e9e7vOTvNcofMQUOxoRbs"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 163708,
       "name": "Please, Please, Please - Stereo Version",
       "url": "https://open.spotify.com/track/27J9JQLDfGgGWqfcSLFmNp"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 125087,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh"
@@ -851,6 +851,24 @@
       "duration_ms": 187733,
       "name": "The Kids Are Alright",
       "url": "https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310933,
+      "name": "The Punk And The Godfather",
+      "url": "https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j"
     },
     {
       "album": {

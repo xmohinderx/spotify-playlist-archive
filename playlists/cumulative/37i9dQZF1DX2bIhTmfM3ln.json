@@ -568,6 +568,32 @@
     },
     {
       "album": {
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
+    },
+    {
+      "album": {
         "name": "Jaiye (Ihe Geme)",
         "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
       },
@@ -797,7 +823,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 188937,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"

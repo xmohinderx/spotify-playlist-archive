@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,244 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,285 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 23 | [WILD WILD WEST](https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [803MAYJOR VOL\. 1](https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp) | 1:20 |
 | 24 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 |
 | 25 | [Arrogant](https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Arrogant](https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr) | 2:25 |
-| 26 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
+| 26 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
 | 27 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 28 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
 | 29 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 49 | [Independent Like Webbie](https://open.spotify.com/track/4Lp6mBPRk5IaPM8Bg8J3fu) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [Independent Like Webbie](https://open.spotify.com/album/12FfrxRL65gxdnVeI5JQSB) | 1:37 |
 | 50 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 
-Snapshot ID: `MTY2MzkxNzE5MiwwMDAwMDAwMGMzNzAyYTgzNTMzNzBlOWI0ZGFiMzU2ODlhODI4NjQw`
+Snapshot ID: `MTY2MzkxNzE5MiwwMDAwMDAwMDIyYzA2ZGRjYjM5YWM0MzFjNmY2MmI2YzBhNTE3NTJj`

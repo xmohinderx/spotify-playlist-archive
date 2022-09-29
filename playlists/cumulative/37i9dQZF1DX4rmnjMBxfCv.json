@@ -834,24 +834,6 @@
     },
     {
       "album": {
-        "name": "Men Zayaha",
-        "url": "https://open.spotify.com/album/6kmeeudD3M5dawDy5mzb78"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Alsahli",
-          "url": "https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx"
-        }
-      ],
-      "date_added": "2022-03-30",
-      "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
-      "duration_ms": 208093,
-      "name": "Men Zayaha",
-      "url": "https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj"
-    },
-    {
-      "album": {
         "name": "Mn Alby Baghani",
         "url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7"
       },
@@ -1501,6 +1483,24 @@
     {
       "album": {
         "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
+        "url": "https://open.spotify.com/album/6kmeeudD3M5dawDy5mzb78"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Alsahli",
+          "url": "https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
+      "url": "https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj"
+    },
+    {
+      "album": {
+        "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
         "url": "https://open.spotify.com/album/3JYA7b4RwF1JnAXjcTpJzi"
       },
       "artists": [
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 208093,
       "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
       "url": "https://open.spotify.com/track/4Brwtx9VIv6UoXbSB57RO1"

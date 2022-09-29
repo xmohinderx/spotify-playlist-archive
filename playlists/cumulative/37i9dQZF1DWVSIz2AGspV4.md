@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-156 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+157 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-31 |  |
 | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/track/1WMQlJFH3UIuwAKkoatUo5) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Kira The Blurryface](https://open.spotify.com/artist/4R7pxLuB67BtKVX0BQRIyO), [Armando Rap](https://open.spotify.com/artist/2mFgrI1DeYCb5BMO4TzPkX), [Odd Khalid](https://open.spotify.com/artist/59Ie9C5y5W6M1gBj0FUvkk), [Disser](https://open.spotify.com/artist/1ckKDZAAYGqSHi8quAW7PZ), [KC Hamada](https://open.spotify.com/artist/3blZFhMJ3PjJSnOcoHg8bO), [Alrong](https://open.spotify.com/artist/0A82D7QijLeWDlwIWP2Xrx), [Genesis](https://open.spotify.com/artist/06C9hjoLs86MsWSZysR4hj), [Nayomi](https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh), [El SEEN](https://open.spotify.com/artist/13TSKN9KQtsYPmkA5zJwua) | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/album/0v99Q4aIsmzSf0UzYRGg2z) | 5:33 | 2022-05-13 |  |
 | [Jaybiale](https://open.spotify.com/track/7y5xSuRJxX2J273yPJ3HmU) | [Maher Ahmad](https://open.spotify.com/artist/5yLHbf0ksRIA5w44VysqvC) | [Jaybiale](https://open.spotify.com/album/3mfasbwnaWRjREVfzXDoih) | 3:39 | 2022-05-19 |  |
+| [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 | 2022-09-28 |  |
 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 | 2022-06-13 |  |
 | [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-19 |  |
 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 | 2022-06-20 |  |
@@ -124,7 +125,7 @@
 | [Ouf Youmah](https://open.spotify.com/track/0Oc9MU2mEItreIATvifcbc) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ouf Youmah](https://open.spotify.com/album/6xnkSLR4OMgc3cKyvezA6L) | 2:04 | 2021-12-23 | 2022-01-06 |
 | [Qadari](https://open.spotify.com/track/4cftB4jTWjhryKW4krWLUv) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Qadari](https://open.spotify.com/album/0kI1t28rciC1pOVQ9jkhiO) | 3:10 | 2021-12-23 | 2022-03-24 |
 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-03-11 | 2022-07-20 |
-| [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 | 2022-05-31 |  |
+| [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 | 2022-05-31 | 2022-09-29 |
 | [Rah Teshoofni](https://open.spotify.com/track/7cp9tzF6U2s4HVq0ehiki2) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Rah Teshoofni](https://open.spotify.com/album/56AYOsPwukW0TSGTpobwxM) | 3:43 | 2022-02-03 | 2022-06-07 |
 | [Sarat Qadeema](https://open.spotify.com/track/3L2Meu9ThclpZQ81I7kfS5) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Sarat Qadeema](https://open.spotify.com/album/5oGCOwJ4rslmF5rSwuhOTm) | 3:13 | 2021-12-23 | 2022-02-12 |
 | [Sawaha](https://open.spotify.com/track/5tgFTjK1pebHMxDVKqo05F) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 4:12 | 2021-12-23 | 2022-03-12 |

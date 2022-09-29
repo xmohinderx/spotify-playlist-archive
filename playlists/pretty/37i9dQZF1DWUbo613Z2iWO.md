@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Samaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,786 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,818 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 42 | [Keep Doing You](https://open.spotify.com/track/5eTC1l296etdcgqsDqbTVC) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV) | [Out the District](https://open.spotify.com/album/6K7Zvuzr01gWf7YwOMBImO) | 3:01 |
 | 43 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 |
 | 44 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 |
-| 45 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
+| 45 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
 | 46 | [BARELY](https://open.spotify.com/track/2w4GndnzwwoaJRLzRsLkqk) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [BARELY](https://open.spotify.com/album/5offuB4rtzWAKoCkAgs4ff) | 2:51 |
 | 47 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 |
 | 48 | [Alone At The Ranch](https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 89 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 90 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 |
 
-Snapshot ID: `MTY2MzkwNjEyOCwwMDAwMDAwMGM4ZTJhN2UwYzZmODlhNThmNjcwZDc2MmNiMTczMTZj`
+Snapshot ID: `MTY2MzkwNjEyOCwwMDAwMDAwMDM4NmJmNWVmYWUzZDUwNTI4MjlmNTc1YTgwNjMwYTcw`

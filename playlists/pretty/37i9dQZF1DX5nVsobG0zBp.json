@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 31568,
+  "num_followers": 31634,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMGI5OWZhNzhhMjIyZDAzMzU4ZTAwNjU4MDg5MmVhMGZh",
+  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMDQ2MzQ0MTRmZmU4OGNlYWE5NjI5MGJkOWQ4MDhkYjgz",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "00 Fala Bonito",
         "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 212093,
       "name": "00 Fala Bonito",
       "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -631,38 +631,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Bimba Y Lola",
-        "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
-      },
-      "artists": [
-        {
-          "name": "MC Caixa D\u00f3culos",
-          "url": "https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "Bimba Y Lola",
-      "url": "https://open.spotify.com/track/2hCuJd33TRNGiiJf7XIBVI"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Vivi Good",
         "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 214872,
       "name": "Vivi Good",
       "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Bimba Y Lola",
+        "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
+      },
+      "artists": [
+        {
+          "name": "MC Caixa D\u00f3culos",
+          "url": "https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "Bimba Y Lola",
+      "url": "https://open.spotify.com/track/2hCuJd33TRNGiiJf7XIBVI"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        }
-      ],
-      "duration_ms": 179939,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Sentimento Safari",
         "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205217,
       "name": "Sentimento Safari",
       "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "duration_ms": 179939,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -915,38 +915,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        }
-      ],
-      "duration_ms": 278211,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "1100 Cegonhas",
-        "url": "https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "1100 Cegonhas",
-      "url": "https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Hospedeira",
         "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 265631,
       "name": "Hospedeira",
       "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "1100 Cegonhas",
+        "url": "https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "1100 Cegonhas",
+      "url": "https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        }
+      ],
+      "duration_ms": 278211,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
     },
     {
       "added_at": "2022-09-08 23:00:00",

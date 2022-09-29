@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-219 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+220 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 | 2022-04-15 | 2022-04-20 |
 | [Solo Quiero](https://open.spotify.com/track/17KTRLb9qJRYSSckf0xYBD) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Solo Quiero](https://open.spotify.com/album/3dm2o7RYfKTdLdFZzouNYr) | 4:23 | 2021-11-26 | 2022-07-29 |
 | [Solo Quiero \(feat\. Pedrina\)](https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Otun](https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv) | 4:23 | 2022-04-15 |  |
-| [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-11-26 |  |
+| [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-11-26 | 2022-09-29 |
 | [Sondiramá](https://open.spotify.com/track/3NEVeetLmkytUgwca0pwi3) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/0jSebDCVektiSoY7gkapr7) | 3:23 | 2021-11-26 | 2022-07-29 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2022-04-15 |  |
 | [Sonic Forest \(Déjame Respirar\)](https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Sonic Forest](https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6) | 2:49 | 2021-11-26 |  |
@@ -196,6 +196,7 @@
 | [Sonido Campechano](https://open.spotify.com/track/77KdCvsETlcP0DcVesil1U) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [Digital Charanga](https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu) | [Sonido Campechano](https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2) | 4:31 | 2022-04-15 |  |
 | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/track/5tzPFYc2SwCkMIGZMhagS2) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/04WuqjsMvink4OdU2yjzVN) | 3:32 | 2021-11-26 | 2022-04-16 |
 | [Sueno en Paraguay \- El Buho Remix](https://open.spotify.com/track/421PeYBOflS19kvT0jqczs) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp) | 3:59 | 2022-04-15 | 2022-09-20 |
+| [Sueno en Paraguay \- El Búho Remix](https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6) | 3:59 | 2022-04-15 |  |
 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 | 2021-11-26 | 2022-07-29 |
 | [Sueño Marino](https://open.spotify.com/track/7dSKq6FktDcVoWXwbPIRMw) | [Khromatik](https://open.spotify.com/artist/6eCeb68g0FYtyhBxInbFnm), [Chaska Paucar](https://open.spotify.com/artist/3JqFAeIYsQ87PG5J8mC5bv) | [Sueño Marino](https://open.spotify.com/album/1sznCSkjGCKJI3Flkc4UhX) | 3:01 | 2021-11-26 | 2022-07-26 |
 | [Sutileza](https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1) | 3:40 | 2022-04-15 |  |

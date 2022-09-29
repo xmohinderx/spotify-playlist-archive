@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:Vaundy
 
-478 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+479 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Scream](https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:20 | 2022-07-24 | 2022-09-01 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-22 | 2022-05-30 |
 | [Shimi](https://open.spotify.com/track/7jEilx5rNwoCK6bZdsPdty) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shimi](https://open.spotify.com/album/0G72zgNl58jAgjiw6yi1j2) | 4:08 | 2022-09-18 |  |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-25 |  |
 | [SHIWAKUCHA](https://open.spotify.com/track/3tRunVnKgrnK0fdNLEXMlq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 4:05 | 2021-12-19 | 2021-12-27 |
 | [Signpost](https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Signpost](https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH) | 3:32 | 2022-07-25 | 2022-08-01 |
 | [Simple](https://open.spotify.com/track/2VUQEplQ848X6lFLzBxQT8) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Simple](https://open.spotify.com/album/1iDwrrlZImFqxWHjcPOriH) | 4:45 | 2022-05-15 | 2022-07-11 |
@@ -431,7 +432,7 @@
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2022-06-26 | 2022-08-01 |
 | [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-03-06 | 2022-03-14 |
 | [歓声をさがして](https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [歓声をさがして](https://open.spotify.com/album/2rAIEvDcCLxjTG2tMqtuXl) | 3:53 | 2022-04-03 | 2022-05-02 |
-| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-01 |  |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-01 | 2022-09-29 |
 | [残影](https://open.spotify.com/track/1GjeY4UCtn7olDWpk1J0bW) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [残影](https://open.spotify.com/album/3axoGkjGdoqQL14MuFs8qb) | 4:32 | 2022-08-01 | 2022-08-15 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-19 | 2022-04-18 |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-03-13 | 2022-05-02 |

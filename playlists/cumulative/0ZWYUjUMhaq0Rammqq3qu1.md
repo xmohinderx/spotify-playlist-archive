@@ -4,7 +4,7 @@
 
 > The best dance hits of 2022, featuring Felix Jaehn, Darius &amp; Finlay, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin
 
-120 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
+121 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Get Stüpid](https://open.spotify.com/track/4PMLEEYw4mblYsPlDSHKyu) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:52 | 2021-07-02 | 2022-09-13 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2021-10-19 | 2022-09-13 |
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2021-07-02 | 2022-09-13 |
-| [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/album/4IYvXJnU8zPRzPPTu4dJUl) | 3:36 | 2022-09-12 |  |
+| [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/album/4IYvXJnU8zPRzPPTu4dJUl) | 3:36 | 2022-09-12 | 2022-09-29 |
 | [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 | 2021-07-02 | 2022-09-13 |
 | [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 | 2022-09-12 |  |
 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue) | 4:03 | 2022-09-12 | 2022-09-20 |
@@ -97,6 +97,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/7fPuWrlpwDcHm5aHCH5D9t) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/1p5rgTwzlrhJnSdi93zpbd) | 2:56 | 2021-07-02 | 2022-09-13 |
 | [SAD \- Imanbek xxx Remix](https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [SAD \(Imanbek xxx Remix\)](https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF) | 2:54 | 2021-07-02 | 2022-09-13 |
 | [Saint\-Tropez](https://open.spotify.com/track/7C39RtGhnEw7cyf0Pyw7PV) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:30 | 2021-07-02 | 2022-09-13 |
+| [Save Some Room](https://open.spotify.com/track/7FYEftcDTCjLkQZPAgPe0D) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Save Some Room](https://open.spotify.com/album/1JzucV72GDAQ3gEDGDBN3k) | 3:39 | 2022-09-28 |  |
 | [Secrets](https://open.spotify.com/track/3E9SlEyTNGUyTZTvTQbOfa) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Secrets](https://open.spotify.com/album/7DaMBlMoRNIbLl9xYnDqhC) | 3:37 | 2022-09-12 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2021-07-02 | 2022-09-13 |
 | [So Good \- Jax Jones Remix](https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [So Good \(Jax Jones Remix\)](https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui) | 3:09 | 2022-09-12 |  |

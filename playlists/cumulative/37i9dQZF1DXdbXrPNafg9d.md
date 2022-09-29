@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Alex G
 
-4,194 songs - 10 day 6 hr 34 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,195 songs - 10 day 6 hr 38 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2347,7 +2347,8 @@
 | [Melty Caramelo](https://open.spotify.com/track/4zULZ4iMeWkhmAipo105Il) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Melty Caramelo](https://open.spotify.com/album/7lt6UZRtd3FPSTtBNqXgqY) | 3:56 | 2019-05-31 | 2019-08-13 |
 | [Memorial](https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Memorial](https://open.spotify.com/album/2442xkROtnAcVWFuWQgRTE) | 4:38 | 2019-08-02 | 2019-08-30 |
 | [Memory](https://open.spotify.com/track/2YWyv3E6LIvNR9ve8c3Jml) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Memory](https://open.spotify.com/album/2cZwdDXLRP5ior9vFb5ML1) | 4:01 | 2022-03-25 | 2022-04-29 |
-| [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-26 |  |
+| [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-26 | 2022-09-29 |
+| [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 | 2022-08-26 |  |
 | [Mental Math](https://open.spotify.com/track/0XGZAOVm4d9e1UHykZATeK) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [B\-Sides](https://open.spotify.com/album/4TFemUhhzdeB4IXxSjD6sQ) | 3:24 | 2022-07-22 | 2022-09-10 |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-10 | 2022-02-12 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-17 | 2022-07-23 |

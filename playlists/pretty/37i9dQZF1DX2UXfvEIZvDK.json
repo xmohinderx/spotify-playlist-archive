@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 587674,
+  "num_followers": 587950,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIxMDAzOSwwMDAwMDAwMDQxYTFjM2I1NzYzMWNjNjhkNGUxZDk5Y2RlOTFlZGJl",
+  "snapshot_id": "MTY2NDIxMDAzOSwwMDAwMDAwMGY3ZjFlZDJmMWNhZWI4NDRkMjRkNzZiNWU4ZDI0ODVk",
   "tracks": [
     {
       "added_at": "2022-09-26 16:33:59",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-26 16:33:59",
       "album": {
-        "name": "Slipway Fires",
-        "url": "https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI"
-      },
-      "artists": [
-        {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Wire To Wire",
-      "url": "https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc"
-    },
-    {
-      "added_at": "2022-09-26 16:33:59",
-      "album": {
         "name": "Noel Gallagher's High Flying Birds",
         "url": "https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 249106,
       "name": "If I Had A Gun\u2026",
       "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
+    },
+    {
+      "added_at": "2022-09-26 16:33:59",
+      "album": {
+        "name": "Slipway Fires",
+        "url": "https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Wire To Wire",
+      "url": "https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc"
     },
     {
       "added_at": "2022-09-26 16:33:59",

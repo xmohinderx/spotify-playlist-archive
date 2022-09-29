@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288266,
+      "name": "City of Delusion",
+      "url": "https://open.spotify.com/track/3Sno9FE8r2uz8QP0MtnTPL"
+    },
+    {
+      "album": {
         "name": "Compliance",
         "url": "https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 299986,
       "name": "The 2nd Law: Isolated System",
       "url": "https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH"

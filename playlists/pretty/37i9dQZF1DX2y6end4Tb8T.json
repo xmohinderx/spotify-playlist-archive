@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 42222,
+  "num_followers": 42283,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDU5ZWFmNGJmZTdiZjZkMzEyMTExNGIxMTBkYThhZDNm",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDg4OGRhZDIxNjAxMjRiNGQ0OTQ1N2FmMTYxZDg1MjBm",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Man On The Moon III: The Chosen",
+        "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Tequila Shots",
+      "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 197760,
       "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Man On The Moon III: The Chosen",
-        "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Tequila Shots",
-      "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
     },
     {
       "added_at": "2021-11-12 16:22:17",

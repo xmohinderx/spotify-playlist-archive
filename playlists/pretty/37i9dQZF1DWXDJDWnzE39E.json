@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
-  "num_followers": 531051,
+  "num_followers": 531158,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDI5YmRkYjU1ZDA4MDllOTI3ODBlOTE5ZmM5NjliN2U5",
+  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMGE0MDMzMTJlODViZDM1YzJlZDU2ZWYzMTA2MTIwNDg0",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -299,22 +299,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
-        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 176587,
-      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
-      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -335,18 +331,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Antagonist",
-      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 189773,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Antagonist",
+      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 264219,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 221987,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
+      },
+      "artists": [
+        {
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+        }
+      ],
+      "duration_ms": 264219,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "K.M.B.",
-        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "K.M.B.",
-      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 147666,
       "name": "Play the Greatest Hits",
       "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
       "added_at": "2022-03-18 13:03:04",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9"
-      },
-      "artists": [
-        {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
-        }
-      ],
-      "duration_ms": 234922,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "duration_ms": 234922,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Initiation",
-        "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
-      },
-      "artists": [
-        {
-          "name": "Sumo Cyco",
-          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Hope Springs Eternal",
         "url": "https://open.spotify.com/album/4CIzS1KD1bplHbI2jivWjY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 456466,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Initiation",
+        "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
+      },
+      "artists": [
+        {
+          "name": "Sumo Cyco",
+          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2"
     }
   ],
   "unique_name": "Heavy Queens",

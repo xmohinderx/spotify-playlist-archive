@@ -4345,10 +4345,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
+    },
+    {
+      "album": {
+        "name": "SELF-SABOTAGE (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/5a8LFWG62uq5jiigTMxW3W"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS"
     },
     {
       "album": {

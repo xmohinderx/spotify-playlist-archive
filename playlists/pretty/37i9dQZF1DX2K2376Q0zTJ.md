@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Perfume
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,190 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 24 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 |
 | 25 | [ニッポン笑顔百景 \-ZZ ver.\-](https://open.spotify.com/track/2U69kVLGLVdOtzWK2UAsbg) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46) | [ZZ's Ⅱ](https://open.spotify.com/album/61SioPFNQ2moIbC7BaZIZK) | 3:53 |
 | 26 | [原宿いやほい](https://open.spotify.com/track/5hJO3V0WVGPSSJEHRQCqIC) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [じゃぱみゅ](https://open.spotify.com/album/3cuyBP6yrFniMuoc3gIac2) | 3:41 |
-| 27 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 |
+| 27 | [I’m invincible](https://open.spotify.com/track/7yQnZkAxSiAavC0zFRB1NI) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:17 |
 | 28 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 |
 | 29 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 |
 | 30 | [Sugarless GiRL](https://open.spotify.com/track/5HMVh68MBbkclULoOmY45r) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [Sugarless GiRL](https://open.spotify.com/album/3rPi1ImIQuVUyt5KYaVNLE) | 4:09 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 47 | [Choose me](https://open.spotify.com/track/130dsYbbXp9jQnETiJ7axI) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Daydreaming/Choose me](https://open.spotify.com/album/6u0ZnCbMJZdi07crl7hAnE) | 3:41 |
 | 48 | [de messiah](https://open.spotify.com/track/3KnUNThgGLUcGMTiOtyPYl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 3:48 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMGFlNzEzMjY2YmYyOTE4MjY4MjM0NzQzZWZmMDZjOWEy`
+Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDUwOGY4YmY2MGFlMzg5ZTNhMGQ4MjgyM2NmNjk4NjFi`

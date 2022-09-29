@@ -2666,6 +2666,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S"
+      },
+      "artists": [
+        {
+          "name": "AprilBlue",
+          "url": "https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255313,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl"
+    },
+    {
+      "album": {
         "name": "\u8e0a\u308b\u69d8\u306b",
         "url": "https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E"
       },
@@ -2825,10 +2843,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 232537,
       "name": "Pain",
       "url": "https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD"
+    },
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232537,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt"
     },
     {
       "album": {
@@ -6727,7 +6763,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 255313,
       "name": "\u30ce\u30af\u30bf\u30fc\u30f3",
       "url": "https://open.spotify.com/track/5WVKs7xTk9bAhph3icORUG"

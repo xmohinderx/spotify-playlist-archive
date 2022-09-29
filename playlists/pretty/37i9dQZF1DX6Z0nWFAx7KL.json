@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 25833,
+  "num_followers": 25861,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDE5OWNiOTFiYTY3ODVlMTdlNjY2YjhjNDk3YTZlYzIz",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDRlYmE2YThiYWExNDJhNjQ4ZTYxZDU4NmRiZmExNmZm",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Break Up",
         "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 157804,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Keep On Dancing",
-        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "Keep On Dancing",
-      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Liberation (Re-Edit)",
+        "url": "https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 176156,
+      "name": "Liberation - Re-Edit",
+      "url": "https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Liberation (Re-Edit)",
-        "url": "https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR"
-      },
-      "artists": [
-        {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
-        }
-      ],
-      "duration_ms": 176156,
-      "name": "Liberation - Re-Edit",
-      "url": "https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -691,50 +691,6 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Better Than This",
-        "url": "https://open.spotify.com/album/7qrkQGgH1cLKxPJVmXE4LS"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 155705,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/3rYcMu9SX9ezp9vmcQ9z5j"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Bloom (nowifi Remix)",
-        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "nowifi",
-          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
-        }
-      ],
-      "duration_ms": 121461,
-      "name": "Bloom (nowifi Remix)",
-      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -763,6 +719,30 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Bloom (nowifi Remix)",
+        "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "duration_ms": 121461,
+      "name": "Bloom (nowifi Remix)",
+      "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 143606,
       "name": "Anything",
       "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/7qrkQGgH1cLKxPJVmXE4LS"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 155705,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/3rYcMu9SX9ezp9vmcQ9z5j"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs"
-      },
-      "artists": [
-        {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Belong - Deepend Edit",
-      "url": "https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Botanica",
         "url": "https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO"
       },
@@ -951,34 +931,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs"
       },
       "artists": [
         {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
-      },
-      "artists": [
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        },
         {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         }
       ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+      "duration_ms": 160200,
+      "name": "Belong - Deepend Edit",
+      "url": "https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1003,6 +971,38 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Even If You Don't",
+        "url": "https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        }
+      ],
+      "duration_ms": 156203,
+      "name": "Even If You Don't",
+      "url": "https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Heartbreak In Seychelles",
         "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Even If You Don't",
-        "url": "https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
       },
       "artists": [
         {
-          "name": "Lulleaux",
-          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
         }
       ],
-      "duration_ms": 156203,
-      "name": "Even If You Don't",
-      "url": "https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x"
+      "duration_ms": 155520,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Winter's Going",
+        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
+      },
+      "artists": [
+        {
+          "name": "Flantier",
+          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Winter's Going",
+      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Winter's Going",
-        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
-      },
-      "artists": [
-        {
-          "name": "Flantier",
-          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Winter's Going",
-      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2toO0oYU5Odc6EzEje47rB"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 152189,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2VszhzMB5MDLT1bPykCg1K"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV"
+      },
+      "artists": [
+        {
+          "name": "Braaten",
+          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
+        },
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1563,26 +1583,6 @@
       "duration_ms": 171250,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV"
-      },
-      "artists": [
-        {
-          "name": "Braaten",
-          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
-        },
-        {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
     },
     {
       "added_at": "2022-09-22 22:00:00",

@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-310 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+311 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bloom](https://open.spotify.com/track/4O8aAhhXLBCSTDW7zUF1FV) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Bloom / Rise](https://open.spotify.com/album/7z8dvy3gNn7Yys09BKgBtS) | 4:49 | 2021-05-07 | 2022-04-21 |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 |  |
-| [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 |  |
+| [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 | 2022-09-29 |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-02 |  |
 | [bygones](https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [bygones](https://open.spotify.com/album/5v0F0Z4KcAM9yqkPc8fsNh) | 3:15 | 2021-08-20 | 2022-07-28 |
 | [Calling Out Your Name \- Radio Edit](https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Calling Out Your Name](https://open.spotify.com/album/0HQWHfjbMZHuQGFCY2amgX) | 3:30 | 2021-05-07 | 2022-07-22 |
@@ -316,6 +316,7 @@
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 |  |
 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 | 2021-12-10 | 2022-07-29 |
+| [Your Mind \- Epic Edit](https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind \(Epic Edit\)](https://open.spotify.com/album/1L8j04mTaJK89xPKGeaQwR) | 3:36 | 2022-09-02 |  |
 | [Your Mind \- Epic Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 | 2022-09-02 | 2022-09-15 |
 | [Yourself](https://open.spotify.com/track/22UPkpMAwkxdsZnuS1tAxW) | [Mattskay](https://open.spotify.com/artist/4XvTIotYvdEkVQlqCLxLIQ) | [Yourself](https://open.spotify.com/album/0WBNNqwM0AGb8bQDG7IjQQ) | 2:42 | 2021-05-07 | 2022-07-29 |
 

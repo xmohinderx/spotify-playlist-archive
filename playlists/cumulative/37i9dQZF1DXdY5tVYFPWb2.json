@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 258600,
       "name": "Ocha",
       "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
@@ -2289,10 +2289,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 382666,
       "name": "PALE MOON",
       "url": "https://open.spotify.com/track/2VGhq0SfQJG8Ei4HoUE2od"
+    },
+    {
+      "album": {
+        "name": "PALE MOON",
+        "url": "https://open.spotify.com/album/0V2HGG32RosZNMfjMXi5Lz"
+      },
+      "artists": [
+        {
+          "name": "paris match",
+          "url": "https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382666,
+      "name": "PALE MOON",
+      "url": "https://open.spotify.com/track/7KX3RiFmF4fbs5r3rcIsj6"
     },
     {
       "album": {
@@ -3258,6 +3276,24 @@
     },
     {
       "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB"
+      },
+      "artists": [
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239616,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b"
+    },
+    {
+      "album": {
         "name": "Think of you",
         "url": "https://open.spotify.com/album/6Pv4mFUNnZHZoBmV6BFOsd"
       },
@@ -3345,7 +3381,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 289517,
       "name": "Tokyo Tower",
       "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
@@ -3375,7 +3411,7 @@
     {
       "album": {
         "name": "U.F.O",
-        "url": "https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0"
+        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
       "artists": [
         {
@@ -3390,6 +3426,28 @@
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230319,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+    },
+    {
+      "album": {
+        "name": "U.F.O",
+        "url": "https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo"
@@ -4347,7 +4405,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 239616,
       "name": "\u30bf\u30fc\u30df\u30ca\u30eb",
       "url": "https://open.spotify.com/track/1FQzvs6ghpgubJjKdpzglH"
@@ -5533,7 +5591,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 265040,
       "name": "\u8584\u660e",
       "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"
@@ -5703,7 +5761,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c"

@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 48451,
+  "num_followers": 48472,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMDUyZGU2YjIxMDgzN2M5OWI4NmEwZGY1ODY4Yzk2NzUy",
+  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMGY2MjY2NjM1OTE5ZDYzODk1MTMxOTY2ZDljOTFhOTEx",
   "tracks": [
     {
       "added_at": "2022-09-20 20:10:52",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
         "name": "EDM Hits",
         "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 205440,
       "name": "Calling (Lose My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-09-20 20:10:52",

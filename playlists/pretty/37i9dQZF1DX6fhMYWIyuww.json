@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 87963,
+  "num_followers": 88088,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJjMzc1MDRiYmI2OWY0ZjVjNjUzNzNmM2VkY2U4NGMy",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDIwYmZhMjNiMzFmZWIwYzU2MGFhN2ZjNjBiN2NjOTNh",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Somebody's Baby",
-      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "View From The Ground",
         "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+        "name": "Diamantina Cocktail (2010 Remaster)",
+        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+      "duration_ms": 247506,
+      "name": "Help Is On Its Way - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Diamantina Cocktail (2010 Remaster)",
-        "url": "https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi"
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Help Is On Its Way - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO"
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
     },
     {
+      "added_at": "2022-01-26 21:27:23",
+      "album": {
+        "name": "Sleeping Gypsy",
+        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "The Lady Wants to Know",
+      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
+    },
+    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Greatest Hits",
@@ -1053,20 +1069,20 @@
       "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
     },
     {
-      "added_at": "2022-01-26 21:27:23",
+      "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Sleeping Gypsy",
-        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 285906,
-      "name": "The Lady Wants to Know",
-      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
+      "duration_ms": 176493,
+      "name": "Say You'll Be Mine",
+      "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Say You'll Be Mine",
-      "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "A HOLE IN THE WALL",
         "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Something In The Night",
-        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Still Right Here In My Heart",
-      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Dane Donohue",
         "url": "https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 243560,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Something In The Night",
+        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Still Right Here In My Heart",
+      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG"
     },
     {
-      "added_at": "2022-03-31 19:29:02",
-      "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "You're the Love",
-      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Greatest Hits",
@@ -1211,6 +1195,22 @@
       "duration_ms": 192186,
       "name": "Just One Look - 2015 Remaster",
       "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
+    },
+    {
+      "added_at": "2022-03-31 19:29:02",
+      "album": {
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "You're the Love",
+      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
     },
     {
       "added_at": "2021-04-22 18:12:12",

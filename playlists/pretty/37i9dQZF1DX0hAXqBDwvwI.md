@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,868 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,929 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 70 | [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 |
 | 71 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 72 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 |
-| 73 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 |
+| 73 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
 | 74 | [麻痺](https://open.spotify.com/track/1LwSnnsoKcAUv9TPFEZ7iQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV) | 3:18 |
 | 75 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 |
 | 76 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 99 | [MAYDAY \(feat\. Ryo from Crystal Lake\)](https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [Ryo](https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY) | [THE SIDE EFFECTS](https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e) | 3:47 |
 | 100 | [KISS OF DEATH\(Produced by HYDE\)](https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華15周年記念ベスト盤 BIBLE](https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO) | 4:10 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDkzZTk0ZDc5MGRlOGRjMTJhNTM5NTBkMmU2OTlhNGE2`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDhhZmRmMmE3NjEyMDlkNzQ5YjgwMDYyZDRhMjUwZjhm`

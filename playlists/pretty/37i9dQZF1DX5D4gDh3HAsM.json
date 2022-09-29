@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 452372,
+  "num_followers": 452375,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDY4NzA4YjhmMmI4ZDljY2ZkMDZlNzhkY2U0YjJiOGU5",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDFmMWFhMTg4NGE2YTYwMTA3Y2IyYzczZGU0OWEyZjM0",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -167,22 +167,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "An Oscar Peterson Christmas",
         "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 196200,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "It's the Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 177108,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "It's the Most Wonderful Time of the Year",
-        "url": "https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc"
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
         }
       ],
-      "duration_ms": 177108,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -415,22 +431,6 @@
       "duration_ms": 176080,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -499,22 +499,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
-        "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
         }
       ],
-      "duration_ms": 299040,
-      "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
-      "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -531,6 +527,26 @@
       "duration_ms": 195173,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
+        "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
+      "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -563,22 +579,6 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
-      },
-      "artists": [
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas in the Rockies",
         "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201375,
       "name": "Have Yourself A Merry Little Christmas - Fireplace",
       "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
     },
     {
       "added_at": "2021-11-12 15:48:58",

@@ -4,11 +4,12 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-81 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+83 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Flower Is A Lonesome Thing](https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q) | [Jonny Lockley](https://open.spotify.com/artist/09VHG7HRDUHBwGjvRRB3Xj) | [A Flower Is a Lonesome Thing](https://open.spotify.com/album/5yyEbOdcKmTWyYraAagFSk) | 4:03 | 2022-04-12 |  |
+| [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 | 2022-09-28 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2022-04-12 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 | 2022-05-25 |
@@ -49,6 +50,7 @@
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2022-04-12 |  |
 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 | 2022-04-12 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2022-04-12 |  |
+| [My Boy's Song](https://open.spotify.com/track/4qOzwCfTCSwwxCo3UVBPRR) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:31 | 2022-09-28 |  |
 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 | 2022-04-26 |  |
 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 | 2022-04-12 |  |
 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 | 2022-04-12 |  |

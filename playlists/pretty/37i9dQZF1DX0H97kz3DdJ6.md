@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,650 likes - 78 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,704 likes - 78 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

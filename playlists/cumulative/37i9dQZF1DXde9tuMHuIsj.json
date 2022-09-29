@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "7D",
+        "url": "https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236124,
+      "name": "7D",
+      "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
+    },
+    {
+      "album": {
         "name": "Air Drop",
         "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
       },

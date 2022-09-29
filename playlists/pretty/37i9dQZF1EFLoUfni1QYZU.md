@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 60 | [Blackout](https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Careless People](https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV) | 3:30 |
 | 61 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 |
 | 62 | [Road to Ruin](https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:43 |
-| 63 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
-| 64 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 63 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 64 | [I’m Still Hot \- Original](https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [I'm Still Hot](https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3) | 3:06 |
 | 65 | [Cling to Me](https://open.spotify.com/track/2e4dV55FccXOQPg5Fbx8cc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Cling to Me](https://open.spotify.com/album/0fJsVicsUavBWSiiLBDwNJ) | 4:03 |
 | 66 | [Solo Para Ti](https://open.spotify.com/track/1SEnY3zCzz2ZDcmNeHaiXJ) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/7eEV72avvHcckpIclgZAV0) | 3:44 |
 | 67 | [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc3Mzg4NDEsMDAwMDAwMDA0MWFhMGY5MmI0ZmM5MjkwZTA4ZWNhMzhhYjM5ODhmYg==`
+Snapshot ID: `Mjc3NDAyODEsMDAwMDAwMDAzNjQwODY1YTcxZDMwNTE5YjBmMWY0NGU3ZWFlMjljYQ==`

@@ -1668,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Versatility",
+        "url": "https://open.spotify.com/album/0U19CkO2D6pFwex1QCdEa7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Manuel",
+          "url": "https://open.spotify.com/artist/7iQCqNFdFVjI08A2c0yx9P"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137619,
+      "name": "CQC (Vete Pal Carajo)",
+      "url": "https://open.spotify.com/track/2aTddvVWlGwlimFwrqpxOF"
+    },
+    {
+      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -5109,7 +5127,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 180929,
       "name": "Me Fui de Vacaciones",
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"

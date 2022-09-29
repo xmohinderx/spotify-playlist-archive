@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-66 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+67 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-29 |  |
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-24 | 2022-07-31 |
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-07-29 | 2022-09-01 |
-| [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2022-06-24 |  |
+| [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2022-06-24 | 2022-09-29 |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-06-24 | 2022-07-13 |
 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2022-06-24 |  |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-06-24 |  |
@@ -54,6 +54,7 @@
 | [Pressure](https://open.spotify.com/track/55ntpddOSFdNA2Q5nWWazq) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Pressure](https://open.spotify.com/album/2CKFkWw3M6cvwNqWVcksrh) | 3:04 | 2022-06-24 |  |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-06-24 |  |
 | [Sahraya](https://open.spotify.com/track/10ygQHP8JTic3iXGiLM2To) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k) | [Sahraya](https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf) | 2:46 | 2022-06-24 |  |
+| [Sekka Baraka](https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Sekka Baraka](https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr) | 2:50 | 2022-09-28 |  |
 | [Sibtiny](https://open.spotify.com/track/6vqgukgBvRUIUvuM8fuv4k) | [ARRA](https://open.spotify.com/artist/6mlFti6E8OuJhJslyZhFn7) | [Sibtiny](https://open.spotify.com/album/0B1qIzqos6ajSnuXYB0x8Y) | 2:59 | 2022-06-24 |  |
 | [Square One](https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [Square One](https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq) | 3:03 | 2022-07-29 |  |
 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 | 2022-06-24 |  |
@@ -73,6 +74,6 @@
 | [قلبي الجامد](https://open.spotify.com/track/2b6UTABkSjxidB4zavLW4Z) | [Yahia Alaa](https://open.spotify.com/artist/2gX2GqX7m8cUJILhJp0NVa) | [قلبي الجامد](https://open.spotify.com/album/3565Rc8S4fHuL16tJ7RyUM) | 2:44 | 2022-06-24 |  |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-24 |  |
 | [كوني](https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk) | [Oma](https://open.spotify.com/artist/0m0lZ1flHVDnhBWMAaZ9OD) | [كوني](https://open.spotify.com/album/1TAeZ2WnLp3PRhFLpO3ETs) | 2:53 | 2022-06-24 |  |
-| [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 3:15 | 2022-06-24 |  |
+| [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-07-05. Prior content cannot be recovered.

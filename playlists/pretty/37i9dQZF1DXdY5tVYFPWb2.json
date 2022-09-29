@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 121539,
+  "num_followers": 121607,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMDJiMGM4ZDk4NWZhZWIwMDlmMmVkOGMzMmU0NDIzODdl",
+  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMGEwYzJhZDc1NjAxNWU2NTViMmU1MTkxZmVkNzFiOGM2",
   "tracks": [
     {
       "added_at": "2022-09-27 15:00:00",
@@ -200,7 +200,7 @@
       "added_at": "2022-09-27 15:00:00",
       "album": {
         "name": "U.F.O",
-        "url": "https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0"
+        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 230319,
       "name": "U.F.O",
-      "url": "https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo"
+      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -367,18 +351,34 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Happy Sad",
-        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 170294,
-      "name": "Happy Sad",
-      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
+      "duration_ms": 176919,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "VARIETY (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 295453,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
+      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "VARIETY (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+        "name": "Happy Sad",
+        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
       },
       "artists": [
         {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 295453,
-      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
-      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+      "duration_ms": 170294,
+      "name": "Happy Sad",
+      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "yugi",
         "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -619,38 +619,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "\u5618\u5bdd",
-        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "\u5618\u5bdd",
-      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -671,6 +639,38 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "\u5618\u5bdd",
+        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "\u5618\u5bdd",
+      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "NEVER ENDING SUMMER REMIX",
         "url": "https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW"
       },
@@ -683,42 +683,6 @@
       "duration_ms": 234186,
       "name": "Eastern Railroad",
       "url": "https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 209620,
-      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "\u30bf\u30fc\u30df\u30ca\u30eb",
-        "url": "https://open.spotify.com/album/7n4LWrlV65FkAX8rAqfhfn"
-      },
-      "artists": [
-        {
-          "name": "Mashiro Shirakami",
-          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
-        }
-      ],
-      "duration_ms": 239616,
-      "name": "\u30bf\u30fc\u30df\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/1FQzvs6ghpgubJjKdpzglH"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -739,18 +703,18 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "PALE MOON",
-        "url": "https://open.spotify.com/album/1XkeR4XzRHf2xv0YvWJ1fy"
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB"
       },
       "artists": [
         {
-          "name": "paris match",
-          "url": "https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof"
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
         }
       ],
-      "duration_ms": 382666,
-      "name": "PALE MOON",
-      "url": "https://open.spotify.com/track/2VGhq0SfQJG8Ei4HoUE2od"
+      "duration_ms": 239616,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -771,6 +735,42 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "PALE MOON",
+        "url": "https://open.spotify.com/album/0V2HGG32RosZNMfjMXi5Lz"
+      },
+      "artists": [
+        {
+          "name": "paris match",
+          "url": "https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof"
+        }
+      ],
+      "duration_ms": 382666,
+      "name": "PALE MOON",
+      "url": "https://open.spotify.com/track/7KX3RiFmF4fbs5r3rcIsj6"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        },
-        {
-          "name": "THREE1989",
-          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "dance",
-        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "dance",
-      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "dance",
+        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "dance",
+      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "Music Restaurant Royal Host",
+        "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
+      },
+      "artists": [
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        }
+      ],
+      "duration_ms": 189359,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30a2\u30c9\u30d0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "ADVENTURE",
         "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
       },
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Music Restaurant Royal Host",
-        "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
-      },
-      "artists": [
-        {
-          "name": "Takashi Fujii",
-          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
-        }
-      ],
-      "duration_ms": 189359,
-      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30a2\u30c9\u30d0\u30a4\u30b9",
-      "url": "https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "Capsule",
-        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Capsule",
-      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Moonset with KozyPop",
         "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Capsule",
+        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Capsule",
+      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "white",
+        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "white",
+      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "white",
-        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "white",
-      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Thinking",
         "url": "https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 242373,
       "name": "Thinking",
       "url": "https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "\u541b\u306f1000%",
-        "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
-      },
-      "artists": [
-        {
-          "name": "Philosophy no Dance",
-          "url": "https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA"
-        }
-      ],
-      "duration_ms": 257083,
-      "name": "\u541b\u306f1000%",
-      "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
         "url": "https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
+        "name": "\u541b\u306f1000%",
+        "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "Philosophy no Dance",
+          "url": "https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA"
         }
       ],
-      "duration_ms": 239300,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
+      "duration_ms": 257083,
+      "name": "\u541b\u306f1000%",
+      "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1567,38 +1551,18 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "\u6a39\u5f71",
-        "url": "https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye"
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
       },
       "artists": [
         {
-          "name": "Crazy Ken Band",
-          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 209147,
-      "name": "Almond",
-      "url": "https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "\u30b5\u30f3\u30fb\u30ad\u30b9\u30c9\u30fb\u30ec\u30c7\u30a3\u30fc",
-        "url": "https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z"
-      },
-      "artists": [
-        {
-          "name": "Natsu Summer",
-          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
-        },
-        {
-          "name": "\u6d41\u7dda\u5f62",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Shinin' World, Ridin' Road",
-      "url": "https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT"
+      "duration_ms": 239300,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1615,6 +1579,22 @@
       "duration_ms": 241450,
       "name": "Just be Blue",
       "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "\u6a39\u5f71",
+        "url": "https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye"
+      },
+      "artists": [
+        {
+          "name": "Crazy Ken Band",
+          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        }
+      ],
+      "duration_ms": 209147,
+      "name": "Almond",
+      "url": "https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1639,6 +1619,26 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "\u30b5\u30f3\u30fb\u30ad\u30b9\u30c9\u30fb\u30ec\u30c7\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        },
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Shinin' World, Ridin' Road",
+      "url": "https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "Rhythm of Your Heart",
         "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 224177,
       "name": "Rhythm of Your Heart",
       "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "\u71b1\u5e2f\u591c",
-        "url": "https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL"
-      },
-      "artists": [
-        {
-          "name": "swim swim",
-          "url": "https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf"
-        }
-      ],
-      "duration_ms": 244462,
-      "name": "\u71b1\u5e2f\u591c",
-      "url": "https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -1687,38 +1671,50 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Are U Romantic?",
-        "url": "https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz"
+        "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj"
       },
       "artists": [
         {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+          "name": "Chikuzen sato",
+          "url": "https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer"
         }
       ],
-      "duration_ms": 258600,
-      "name": "Ocha",
-      "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
+      "duration_ms": 277200,
+      "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c"
     },
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "\u8584\u660e",
-        "url": "https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd"
+        "name": "\u71b1\u5e2f\u591c",
+        "url": "https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        },
-        {
-          "name": "Maika Loubt\u00e9",
-          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+          "name": "swim swim",
+          "url": "https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf"
         }
       ],
-      "duration_ms": 265040,
-      "name": "\u8584\u660e",
-      "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"
+      "duration_ms": 244462,
+      "name": "\u71b1\u5e2f\u591c",
+      "url": "https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Tokyo Tower",
+        "url": "https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 289517,
+      "name": "Tokyo Tower",
+      "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

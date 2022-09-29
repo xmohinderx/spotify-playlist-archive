@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: دنيا سمير غانم
 
-223 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+225 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2022-08-05 |  |
 | [Enta Farha](https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Enta Farha](https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T) | 4:52 | 2021-12-23 | 2022-02-18 |
 | [Enty El Oula \- Wahda Gdida](https://open.spotify.com/track/64dIa8xKPzMuuIEv1wMFcz) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Enty El Oula \(Wahda Gdida\)](https://open.spotify.com/album/6rTccCjxDyaQ66femjuaHv) | 2:46 | 2022-03-24 | 2022-07-15 |
-| [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 |  |
+| [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 | 2022-09-29 |
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 | 2021-12-23 | 2022-01-28 |
 | [Fe Ghamdet Ein](https://open.spotify.com/track/235YSol46U2FzhLEXNgcTP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Fe Ghamdet Ein](https://open.spotify.com/album/4DOOS738mtFoi5RPXirohC) | 3:25 | 2021-12-29 | 2022-03-12 |
@@ -136,6 +136,7 @@
 | [Manstghnash](https://open.spotify.com/track/6tiAvjptfjuV1itslVeR5K) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Manstghnash](https://open.spotify.com/album/6YgGZaFXO9BSoK5MTE9Q24) | 3:52 | 2021-12-23 | 2022-02-18 |
 | [Maqbalsh Aayesh](https://open.spotify.com/track/02NfyEEdo2gLpGg7VVRdtC) | [Maged Essam](https://open.spotify.com/artist/40NLZmnX0Yrgi5ZjGcO578) | [Maqbalsh Aayesh](https://open.spotify.com/album/3WqkEixa5RwzlP9AcPhdhK) | 4:15 | 2021-12-23 | 2021-12-31 |
 | [Maraseel](https://open.spotify.com/track/0u9aJyzc9Cxx7NRY8YFLwZ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Maraseel](https://open.spotify.com/album/4gyLlBFiTxl1lYUtmnQN7T) | 3:31 | 2022-06-13 | 2022-09-17 |
+| [Matestaghrabsh Haga](https://open.spotify.com/track/7Jq8rsBuJxTxw0fENkcYEh) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Matestaghrabsh Haga](https://open.spotify.com/album/4eXD2O6PUiD8hZKHu4Lohg) | 4:27 | 2022-09-28 |  |
 | [Matstghrabesh](https://open.spotify.com/track/70jooBdkmWHzGBmuVY95Vv) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Matstghrabesh](https://open.spotify.com/album/5lO5nv5WfDcjHJBuvWnxey) | 3:13 | 2022-08-23 |  |
 | [Mawkef Da’af](https://open.spotify.com/track/1IYbo7etxraFnbLaBNufRb) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Mawkef Da’af](https://open.spotify.com/album/4dLSVm96Uzw4veUMnvNzUr) | 3:50 | 2022-08-08 |  |
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-01-27 | 2022-04-23 |
@@ -171,6 +172,7 @@
 | [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 | 2022-06-06 |
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-01-26 | 2022-05-02 |
 | [Sebna Ba’ad](https://open.spotify.com/track/0RNhHikB5AUFk2CphRFGtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sebna Ba’ad](https://open.spotify.com/album/71u9sXrgIf2xuy0a75zg51) | 4:24 | 2022-08-18 |  |
+| [Sekka Baraka](https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Sekka Baraka](https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr) | 2:50 | 2022-09-28 |  |
 | [Senara](https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Senara](https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka) | 3:08 | 2022-01-20 | 2022-04-08 |
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-02-17 | 2022-05-19 |
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-07 | 2022-05-22 |
@@ -192,7 +194,7 @@
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/6yCxLxQhCfcHbPEuKzVM1O) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/album/5MWF4LOe2m18Va8pIi64TJ) | 4:09 | 2021-12-23 | 2022-01-29 |
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
-| [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 |  |
+| [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-09-29 |
 | [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 |  |
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 | 2022-07-11 |

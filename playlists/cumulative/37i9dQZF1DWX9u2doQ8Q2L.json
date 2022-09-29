@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "D'Addario",
+        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288241,
+      "name": "D'Addario",
+      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
+    },
+    {
+      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -3284,6 +3302,24 @@
     },
     {
       "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP"
       },
@@ -4125,7 +4161,7 @@
     {
       "album": {
         "name": "U.F.O",
-        "url": "https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0"
+        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
       "artists": [
         {
@@ -4140,6 +4176,28 @@
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230319,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+    },
+    {
+      "album": {
+        "name": "U.F.O",
+        "url": "https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo"
@@ -4511,7 +4569,7 @@
     {
       "album": {
         "name": "from here to there",
-        "url": "https://open.spotify.com/album/0DvvbZD0pcy07zdj2RZzSM"
+        "url": "https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU"
       },
       "artists": [
         {
@@ -4522,6 +4580,24 @@
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 291313,
+      "name": "yet",
+      "url": "https://open.spotify.com/track/4eZURtwRmcsguuhxocQJG4"
+    },
+    {
+      "album": {
+        "name": "from here to there",
+        "url": "https://open.spotify.com/album/0DvvbZD0pcy07zdj2RZzSM"
+      },
+      "artists": [
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
       "duration_ms": 291313,
       "name": "yet",
       "url": "https://open.spotify.com/track/7nORjp0eLh1ioyFRZhdxci"
@@ -4855,7 +4931,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 288241,
       "name": "\u30c0\u30c0\u30ea\u30aa",
       "url": "https://open.spotify.com/track/5W3DgO9LLQkG1EVUKRNmZo"
@@ -5627,7 +5703,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"

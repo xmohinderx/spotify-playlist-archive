@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Meghan Trainor",
-  "num_followers": 399469,
+  "num_followers": 399472,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGVlNWFiNjQzM2ZmMTZmYjZmMDJiZjc3ZDM0Y2U0MzJh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDhjMzM0ODVhY2JkMmUyMzI2NWRhMGUzZjViOWE3YjBj",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Songs About You",
@@ -251,6 +235,22 @@
       "duration_ms": 202386,
       "name": "Songs About You",
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Black Pumas",
@@ -371,6 +355,22 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "All Summer",
-        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "All Summer",
-      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "dose",
@@ -523,6 +507,22 @@
       "duration_ms": 180807,
       "name": "dose",
       "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "All Summer",
+        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "All Summer",
+      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Broke",
@@ -577,20 +593,20 @@
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+      "duration_ms": 387600,
+      "name": "Kick It to Me",
+      "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -611,22 +627,6 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 387600,
-      "name": "Kick It to Me",
-      "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Slow Song (with Dragonette)",
@@ -731,22 +747,6 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "If My Wife New I\u2019d Be Dead",
-        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -979,6 +963,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "If My Wife New I\u2019d Be Dead",
+        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
         "url": "https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr"
       },
@@ -991,6 +991,26 @@
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Velcro (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 192793,
+      "name": "Velcro (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Velcro (feat. Gus Dapperton)",
-        "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 192793,
-      "name": "Velcro (feat. Gus Dapperton)",
-      "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 209586,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1151,6 +1151,38 @@
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 310760,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1187,38 +1219,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310760,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Dance For Love",
@@ -1279,6 +1263,22 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 189602,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
       },
       "artists": [
         {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
         }
       ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 245901,
       "name": "Drippin' In Love",
       "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1501,6 +1501,26 @@
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "WE ARE (The Deluxe Edition)",
@@ -1523,42 +1543,6 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Someone to Love",
-        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 197290,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Someone to Love",
+        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Final Days",
-      "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Moments in Between",
         "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 208106,
       "name": "Sweet Chamomile",
       "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Final Days",
+      "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1705,20 +1705,20 @@
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
-      "added_at": "2022-05-17 14:55:58",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Breaking Myself",
-        "url": "https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb"
+        "name": "On Top of the World",
+        "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
       },
       "artists": [
         {
-          "name": "Grace Kinstler",
-          "url": "https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 174906,
-      "name": "Breaking Myself",
-      "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
+      "duration_ms": 239044,
+      "name": "On Top of the World",
+      "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
     }
   ],
   "unique_name": "Retro Pop",

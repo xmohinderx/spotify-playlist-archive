@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-483 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+484 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Human](https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Human](https://open.spotify.com/album/3yQJSRbBjg5blygtrOzrnS) | 2:30 | 2022-01-14 | 2022-02-05 |
 | [Hunt You Down \(feat\. Alaina Cross\)](https://open.spotify.com/track/7fGOe6MwGN4saV8H5Oj249) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 4:04 | 2022-09-02 |  |
 | [Hurricane](https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Hurricane](https://open.spotify.com/album/3eFW35qg9tx6zCPxAcmeaq) | 3:16 | 2022-04-21 | 2022-05-21 |
+| [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-28 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-03 | 2022-09-15 |
 | [I Believed](https://open.spotify.com/track/7MzJbnZMmgiQh2TqcBP4MQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 3:44 | 2022-06-24 | 2022-07-29 |
 | [I can't stop](https://open.spotify.com/track/02xP8YKQjC9EOti0sC87Nl) | [Hiboky](https://open.spotify.com/artist/4XmN4QdtGS3wBL5Erq7RWu) | [I can't stop](https://open.spotify.com/album/2JLidK5LE0nbC7XYJAIo1T) | 3:10 | 2022-05-04 | 2022-07-29 |

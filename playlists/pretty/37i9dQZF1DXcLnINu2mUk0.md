@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,007 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,053 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Morrer de Amores](https://open.spotify.com/track/1UtOFYjYfu8kBOscH7av9h) | [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Morrer de Amores](https://open.spotify.com/album/31B0Mg0vF25vrCEIffJGFJ) | 2:53 |
 | 49 | [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 |
 | 50 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 |
-| 51 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
-| 52 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
-| 53 | [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 |
+| 51 | [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 |
+| 52 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
+| 53 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
 | 54 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 |
 | 55 | [Mood](https://open.spotify.com/track/1wom6rtN6GoxF6wvaiwDOY) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Mood](https://open.spotify.com/album/3MCOgA0MAMksDYE6Ln4ldv) | 2:38 |
 | 56 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
 | 57 | [Be Free](https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE) | [Daxuva](https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2), [Itaya](https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp) | [Punk Selva](https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp) | 3:30 |
-| 58 | [Notas de 100](https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6) | [SilverMic](https://open.spotify.com/artist/4N3GOpYONtbrmzOV3ZXbH8) | [Tumtum](https://open.spotify.com/album/2Lkicqej5xP9GyWlI89h93) | 1:45 |
-| 59 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 |
+| 58 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 |
+| 59 | [Notas de 100](https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6) | [SilverMic](https://open.spotify.com/artist/4N3GOpYONtbrmzOV3ZXbH8) | [Tumtum](https://open.spotify.com/album/2Lkicqej5xP9GyWlI89h93) | 1:45 |
 | 60 | [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 |
 
-Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMDVkNjExYzk1YmE3Y2JhYjQzZGIzMTQxODI3NDI4Yjhh`
+Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMGFjZGNhYjA5YWU5Mzg4YWQ0YmRhN2Y5NjBmZjI0OTA3`

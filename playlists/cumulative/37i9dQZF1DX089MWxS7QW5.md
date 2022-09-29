@@ -2,7 +2,7 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(THAMA\(따마\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: THAMA\(따마\)\)
 
 112 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 

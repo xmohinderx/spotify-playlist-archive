@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 646063,
+  "num_followers": 646189,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDk5YjgxYjIyY2FhMzgxMDdkODc0MDA1MjIyZjIyNzk2",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDY2ODYwZDhjYzQ5NWU3MTIyYjUyNmYyZDhmMDYzNjA0",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+        "name": "Judah & the Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS"
       },
       "artists": [
         {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+      "duration_ms": 251805,
+      "name": "Soak Up The Sun - Unplugged",
+      "url": "https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Judah & the Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS"
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
         }
       ],
-      "duration_ms": 251805,
-      "name": "Soak Up The Sun - Unplugged",
-      "url": "https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k"
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -907,22 +907,6 @@
       "duration_ms": 239346,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -947,6 +931,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 215843,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 215843,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Tribute To (Reissue)",
         "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 213013,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Unchained Melody (feat. The Chapin Sisters)",
+      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Rocket Man",
         "url": "https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 174127,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        },
-        {
-          "name": "The Chapin Sisters",
-          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Unchained Melody (feat. The Chapin Sisters)",
-      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "More Than a Woman",
         "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 241193,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Common People",
         "url": "https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 243750,
       "name": "Common People",
       "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 218389,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
     },
     {
       "added_at": "2022-02-04 05:02:00",

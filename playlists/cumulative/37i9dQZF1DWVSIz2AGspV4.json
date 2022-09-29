@@ -1544,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "Jksara",
+        "url": "https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g"
+      },
+      "artists": [
+        {
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Jksara",
+      "url": "https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt"
+    },
+    {
+      "album": {
         "name": "Karamti",
         "url": "https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE"
       },
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 195929,
       "name": "Raah Anam",
       "url": "https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf"

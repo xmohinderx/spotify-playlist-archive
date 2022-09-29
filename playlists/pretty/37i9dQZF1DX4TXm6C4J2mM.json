@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157141,
+  "num_followers": 157139,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGUzNWZiMGQ1ZDA1NzcxMmMzNDY3NDkwMDE4NzAwZWU1",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGUxOWIwODg0ZmEwOTg2NGUwYmY5YjNhZWQ1MzZmNmQz",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -923,30 +923,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "We Can Come Together",
-        "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
-      },
-      "artists": [
-        {
-          "name": "Love Regenerator",
-          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 216984,
-      "name": "We Can Come Together",
-      "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "We Can Come Together",
+        "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
+      },
+      "artists": [
+        {
+          "name": "Love Regenerator",
+          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 216984,
+      "name": "We Can Come Together",
+      "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 125878,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
-      },
-      "artists": [
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Bass Goes Down",
         "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
-        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 168824,
-      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Wanna Go",
         "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 148200,
       "name": "Wanna Go",
       "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
+        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 168824,
+      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 202968,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 147725,
       "name": "Kids",
       "url": "https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",

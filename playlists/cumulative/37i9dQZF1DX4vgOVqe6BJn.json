@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/6Lmkj9HXcuAXpP2hSCVAYC"
+      },
+      "artists": [
+        {
+          "name": "Dapz on the Map",
+          "url": "https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164075,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/1Et6hUJwEgMp4ibm9Bml23"
+    },
+    {
+      "album": {
         "name": "Green Light (feat. Kate Wild) [Moksi Remix]",
         "url": "https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD"
       },
@@ -1427,6 +1445,24 @@
       "duration_ms": 232215,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
+    },
+    {
+      "album": {
+        "name": "Prettier Than You",
+        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Prettier Than You",
+      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
     },
     {
       "album": {

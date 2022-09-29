@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-190 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+191 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dero](https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL) | [Heith](https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy) | [Dero](https://open.spotify.com/album/1acIsjkwiQqk74P1HImtjo) | 4:37 | 2022-09-11 |  |
 | [Die Dosis macht das Gift](https://open.spotify.com/track/0xq0GbMjRnrKfTV9fw02fR) | [ToiToiToi](https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De) | [Intermission](https://open.spotify.com/album/0rm9V0EQIpQyHi0X7zRswR) | 4:13 | 2021-10-27 | 2022-07-29 |
 | [Echo Lake](https://open.spotify.com/track/4huXXKJvjyEpsAYd2IrhfY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [All The Mirrors In The House \[Home Recordings 1979 \- 1986 Volume 1\]](https://open.spotify.com/album/1p3jAwtkoUsHXaW4jcanVV) | 3:43 | 2021-10-27 | 2022-07-28 |
+| [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 |  |
 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 | 2021-10-27 |  |
 | [Exile on Ærø](https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Exile on Ærø](https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 | 2022-05-24 |  |
@@ -135,7 +136,7 @@
 | [Solomon's Rising](https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J) | [Lucifer](https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m) | [Black Mass](https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8) | 3:25 | 2021-10-27 |  |
 | [Song For Francoise](https://open.spotify.com/track/59Bgzhll0tIQECwB1A4phI) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer/Intiaani Kesa¨](https://open.spotify.com/album/28H0NZ6hoIdp77EfY2KlWs) | 1:46 | 2021-10-27 | 2022-07-29 |
 | [Sonus Ruinae part 1](https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sonus Ruinae](https://open.spotify.com/album/5GWWgKTuTNLVTlMB44ognu) | 9:43 | 2022-09-26 |  |
-| [Sopa De Salsa](https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e) | 3:12 | 2021-10-27 |  |
+| [Sopa De Salsa](https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/5KqUemb8SlcZsA3SZQrE6e) | 3:12 | 2021-10-27 | 2022-09-29 |
 | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Spacemen Mystery of the Terror Triangle](https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX) | 2:10 | 2021-10-27 |  |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-04-06 |  |
 | [St Henri](https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:16 | 2022-03-11 |  |

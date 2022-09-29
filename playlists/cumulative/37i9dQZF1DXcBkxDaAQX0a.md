@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-250 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+251 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-02-08 |  |
 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 | 2021-02-08 |  |
 | [Send Help](https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Send Help](https://open.spotify.com/album/57JPx4goPt4LjqDQHFKJiV) | 3:23 | 2021-02-08 | 2022-07-28 |
+| [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 | 2022-04-04 |  |
 | [Sequel \- Acoustic](https://open.spotify.com/track/7pMq1eqT6Kh2tENYWqZTJ9) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Simmer Down \(Acoustic\)](https://open.spotify.com/album/1Yyjm4i0o5NawNialaKuLm) | 3:19 | 2022-04-04 | 2022-04-19 |
 | [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 | 2021-02-08 |  |
 | [Sixteen](https://open.spotify.com/track/72PRHbPh44Rqj4NiiQYTzL) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sixteen](https://open.spotify.com/album/5CqlverB4FuW80hC30NQpE) | 3:49 | 2022-04-04 | 2022-04-17 |
@@ -237,7 +238,7 @@
 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 | 2021-02-08 |  |
 | [Trust](https://open.spotify.com/track/1ckb26ENV924xifArbU4h3) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Trust](https://open.spotify.com/album/2qcieynFqaO6QuBseBYIxV) | 2:46 | 2021-02-08 | 2022-07-28 |
 | [Undersize](https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Undersize](https://open.spotify.com/album/7qfM2xKbNfBQRwuzLc0zyW) | 3:47 | 2021-02-08 | 2022-07-28 |
-| [Violets](https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Violets](https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7) | 3:54 | 2022-04-04 |  |
+| [Violets](https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Violets](https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7) | 3:54 | 2022-04-04 | 2022-09-29 |
 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/0e7QzF7gA3cEpkCNuZ8AGY) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/5t8EH7X9vL9iRUZn1ySlkU) | 3:18 | 2021-02-08 | 2022-07-29 |
 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7) | 3:18 | 2022-04-04 |  |
 | [Wake Me Up When September Ends \- One World: Together At Home](https://open.spotify.com/track/2xHEVUWs1kCSuvwiPXlZtV) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG) | [One World: Together At Home](https://open.spotify.com/album/2VcZJySG0Skmua8JkfXGcz) | 2:59 | 2022-04-04 | 2022-07-29 |

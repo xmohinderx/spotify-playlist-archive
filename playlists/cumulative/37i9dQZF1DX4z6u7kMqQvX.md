@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-385 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+386 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Adentro Tuyo](https://open.spotify.com/track/3tWGyy6uUOIEJdIYPMYYYD) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Adentro Tuyo](https://open.spotify.com/album/35wVdZoWrTEI8mq41DwHtS) | 4:49 | 2022-01-28 | 2022-04-20 |
 | [Adicción](https://open.spotify.com/track/67YtZBiH3sjtXNaAgmkIHP) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Adicción](https://open.spotify.com/album/142KuhiLPPcKCAHRW67i3L) | 3:32 | 2022-04-01 | 2022-07-18 |
 | [Admirador](https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Admirador](https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy) | 3:32 | 2022-01-07 |  |
+| [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-09-23 |  |
 | [Agua Marfil](https://open.spotify.com/track/6mYdnKt43uGw3gmtOz4yQi) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/6ZSWmVkucGkNzqWZYGMGMK) | 4:11 | 2022-01-07 | 2022-09-26 |
 | [Ahinoa](https://open.spotify.com/track/54Kijzvio3D7phfsOZswpQ) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3AanjgFzLrCKprTwBY3wYW) | 3:44 | 2022-04-01 | 2022-07-15 |
 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 | 2022-01-07 | 2022-09-28 |
@@ -345,7 +346,7 @@
 | [Telarañas](https://open.spotify.com/track/6T5kyODSlNmy1Y5dxY2O9J) | [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1), [WONKO](https://open.spotify.com/artist/127KKgqAoF3VOd0cRVkql9) | [Telarañas](https://open.spotify.com/album/4pZu7kxfje0NYWsrkMUqEo) | 2:41 | 2022-04-01 | 2022-05-14 |
 | [Tiempo](https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr) | [Julian Esion Kaplan](https://open.spotify.com/artist/6hIgj3eWhgPTbd86rFhOZD), [Jo Delapé](https://open.spotify.com/artist/6oVxclsRmo2TcjNB1adYP7), [patin mac](https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Tiempo](https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI) | 3:27 | 2022-01-28 | 2022-06-22 |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-01-28 | 2022-07-29 |
-| [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 | 2022-01-07 |  |
+| [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 | 2022-01-07 | 2022-09-29 |
 | [Todo Azul \- con Joaquín Vitola](https://open.spotify.com/track/5Vm9XKu6EENcqlbH97Xr50) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [POTRA](https://open.spotify.com/album/5cddkzBCuqshmAg7A95b2z) | 3:07 | 2022-04-01 | 2022-04-17 |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2022-01-07 | 2022-07-25 |
 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 | 2022-01-07 |  |

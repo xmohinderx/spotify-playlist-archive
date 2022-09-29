@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 
 > The perfect soundtrack to your prenatal yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348 likes - 298 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360 likes - 298 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

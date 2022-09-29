@@ -4,7 +4,7 @@
 
 > Hit the road and scream your heart out!
 
-162 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
+163 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 | 2021-12-07 |  |
 | [Dance Macabre](https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:39 | 2021-12-07 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Dangerous](https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB) | 3:49 | 2021-12-07 | 2022-07-27 |
-| [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 | 2021-12-07 |  |
+| [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 | 2021-12-07 | 2022-09-29 |
 | [Dangerous Ground](https://open.spotify.com/track/0eeH8SFeeaIv0lQz61cyL2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Dangerous Ground](https://open.spotify.com/album/5ghPmOARm9W1mA04erYQfW) | 4:06 | 2021-12-07 | 2022-07-29 |
+| [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2021-12-07 |  |
 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 | 2021-12-07 | 2022-07-29 |
 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 | 2021-12-07 |  |
 | [Devil You Know](https://open.spotify.com/track/20jxte7i7KwDwSTnDxUXfW) | [Electric Mob](https://open.spotify.com/artist/60UZg1QyBrL9FqDsHWpdEb) | [Devil You Know](https://open.spotify.com/album/46zBCUcQYM1zx839kbMEP0) | 4:11 | 2021-12-07 | 2022-07-29 |

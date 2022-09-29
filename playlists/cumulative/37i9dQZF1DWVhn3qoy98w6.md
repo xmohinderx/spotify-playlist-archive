@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Sila Lua.
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Carpin.
 
 1,067 songs - 2 day 8 hr 53 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 

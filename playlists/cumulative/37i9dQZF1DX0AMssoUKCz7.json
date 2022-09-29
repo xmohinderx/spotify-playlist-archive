@@ -2787,7 +2787,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 184133,
       "name": "Fireproof - Embody Remix",
       "url": "https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO"
@@ -3437,7 +3437,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -5476,6 +5476,32 @@
     },
     {
       "album": {
+        "name": "Love In California",
+        "url": "https://open.spotify.com/album/3uec87fKWLQJHVx0azTTgj"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Jos\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP"
+        },
+        {
+          "name": "Bloke & Bird",
+          "url": "https://open.spotify.com/artist/4DVAVxb23QtgmBspCLi10c"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175169,
+      "name": "Love In California",
+      "url": "https://open.spotify.com/track/7hPwgTYYLfqKQ3T6KgeC2K"
+    },
+    {
+      "album": {
         "name": "Love Is In The Air",
         "url": "https://open.spotify.com/album/0gEpZTXReW2piRCNQ2GtM9"
       },
@@ -7315,6 +7341,28 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK"
+    },
+    {
+      "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG"
+      },
+      "artists": [
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw"
     },
     {
       "album": {

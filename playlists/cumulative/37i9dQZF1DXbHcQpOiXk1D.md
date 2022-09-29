@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-324 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+325 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 | 2022-06-10 | 2022-07-29 |
 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 | 2021-12-17 | 2022-09-10 |
 | [Another Love Song](https://open.spotify.com/track/25qXmoaR6xNoWYGmKjZd1H) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Another Love Song](https://open.spotify.com/album/6biBK0Z7HzSRCVLvSeCaBG) | 4:29 | 2022-07-07 | 2022-07-11 |
-| [April](https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [April](https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR) | 4:18 | 2021-12-17 |  |
+| [April](https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [April](https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR) | 4:18 | 2021-12-17 | 2022-09-29 |
 | [As You Are](https://open.spotify.com/track/4rCM8A21DZdVKhAYZHGTI8) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/6oS2nHFKjnGoctJBziOa9r) | 2:03 | 2021-12-17 | 2022-05-20 |
 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 | 2022-02-25 |  |
 | [At Least a Double Fold](https://open.spotify.com/track/5MXEtN3vIrRzZHjnR9FAkM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [At Least a Double Fold](https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR) | 3:27 | 2022-02-11 | 2022-07-18 |
@@ -86,6 +86,7 @@
 | [Dreams](https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 4:10 | 2022-03-08 | 2022-03-09 |
 | [Dumont](https://open.spotify.com/track/0Rs70vYqQU3CYpYlHEv0mt) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Dumont](https://open.spotify.com/album/0VYZoeYn5gGAYzqE5aeIR1) | 5:40 | 2022-03-24 | 2022-04-21 |
 | [Early Hours](https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Early Hours](https://open.spotify.com/album/25o3AA79SplKRugLXGA7ja) | 4:02 | 2021-12-17 |  |
+| [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 | 2022-09-23 |  |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-03-24 | 2022-04-20 |
 | [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 | 2022-07-28 |  |
 | [Escape from the Echo Chamber](https://open.spotify.com/track/3WKNl81llkdldlad5XuhtI) | [Emily Francis Trio](https://open.spotify.com/artist/2XwZvU8ctmY4NTqcbBO8iU) | [Escape from the Echo Chamber](https://open.spotify.com/album/3udVHWVpCcKtgc339BkYxk) | 4:08 | 2022-03-24 | 2022-06-30 |

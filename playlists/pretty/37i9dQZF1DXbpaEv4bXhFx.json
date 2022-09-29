@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 6561,
+  "num_followers": 6582,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM3MywwMDAwMDAwMDNmZTQ2NWNhNmYyZWY4YmM4NGVmOWJlYjRlODJmMTgz",
+  "snapshot_id": "MTY2MjM5MzM3MywwMDAwMDAwMGIyMzVmYTM1ODM3YjMwNzQzMDE2NTk5YTFmOWFiNzJl",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:13",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-09-05 15:56:13",
       "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
-    },
-    {
-      "added_at": "2022-09-05 15:56:13",
-      "album": {
         "name": "STABLE MINDSET",
         "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2022-09-05 15:56:13",
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-09-05 15:56:13",

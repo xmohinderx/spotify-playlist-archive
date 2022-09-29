@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166294,
+  "num_followers": 166297,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDg1OCwwMDAwMDAwMDIxZjY3NWUyMzUzMmQ2ZGEzZGZkZGZhN2YyNTc4OGUx",
+  "snapshot_id": "MTY2MzkyMDg1OCwwMDAwMDAwMDU4NTgyOTA5YTZlZDU1OTllNjUzMTNhODM4OGMwNGNj",
   "tracks": [
     {
       "added_at": "2022-09-23 08:14:18",
@@ -979,30 +979,6 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
-        "name": "Day N Night",
-        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 179199,
-      "name": "Day N Night",
-      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
         "name": "Breaking Me (HUGEL Remix)",
         "url": "https://open.spotify.com/album/7Kpv8JPOf6l8udsPJtKVe0"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 171904,
       "name": "Breaking Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
+        "name": "Day N Night",
+        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 179199,
+      "name": "Day N Night",
+      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
     },
     {
       "added_at": "2022-09-23 08:14:18",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 167298,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2022-09-23 08:14:18",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
         "name": "Piece Of Me (with LOVA)",
         "url": "https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 202646,
       "name": "Piece Of Me (with LOVA)",
       "url": "https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-09-23 08:14:18",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
-        "name": "Gotta Be You",
-        "url": "https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Gotta Be You",
-      "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
         "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
         "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 171840,
       "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
       "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
+        "name": "Gotta Be You",
+        "url": "https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Gotta Be You",
+      "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
     },
     {
       "added_at": "2022-09-23 08:14:18",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
-        "name": "Do You Dance?",
-        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
-      },
-      "artists": [
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 211452,
-      "name": "Looking For Me",
-      "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
         "name": "You (Topic Remix)",
         "url": "https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
+        "name": "Do You Dance?",
+        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 211452,
+      "name": "Looking For Me",
+      "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
     },
     {
       "added_at": "2022-09-23 08:14:18",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2022-09-23 08:14:18",
       "album": {
+        "name": "Forgot How to Love",
+        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 149055,
+      "name": "Forgot How to Love",
+      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
+      "added_at": "2022-09-23 08:14:18",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2022-09-23 08:14:18",
-      "album": {
-        "name": "Forgot How to Love",
-        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        }
-      ],
-      "duration_ms": 149055,
-      "name": "Forgot How to Love",
-      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
     },
     {
       "added_at": "2022-09-23 08:14:18",

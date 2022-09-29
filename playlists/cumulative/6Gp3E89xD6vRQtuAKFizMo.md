@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-94 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+95 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Broken](https://open.spotify.com/track/5wJd3MxskA8fWPxlgWzmWM) | [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt) | [Broken](https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ) | 2:50 | 2022-08-02 |  |
 | [Bury Me Alive](https://open.spotify.com/track/1BzKaH0CLmGYmML7OkSari) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Bury Me Alive](https://open.spotify.com/album/4zIOaE92119xnp2uWxHWT9) | 4:50 | 2022-05-06 | 2022-06-25 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
+| [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 |  |
 | [Cloud 9](https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Cloud 9](https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B) | 4:21 | 2022-07-27 |  |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[OMAS Remix\]](https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu) | 3:55 | 2022-05-06 | 2022-08-06 |
 | [Colors](https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Colors](https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym) | 2:49 | 2022-05-06 | 2022-08-27 |
@@ -30,7 +31,7 @@
 | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT) | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E) | 3:43 | 2022-05-06 |  |
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 |  |
-| [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 |  |
+| [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 | 2022-09-29 |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 |  |
 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 | 2022-08-16 |  |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 |  |

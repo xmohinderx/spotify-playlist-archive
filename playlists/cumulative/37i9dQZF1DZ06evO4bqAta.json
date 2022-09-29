@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
@@ -203,6 +203,28 @@
       "duration_ms": 371533,
       "name": "Every Grain of Sand",
       "url": "https://open.spotify.com/track/6MfOFYmw1TD9QDFSu0TEN1"
+    },
+    {
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351040,
+      "name": "Forever Young (feat. Bob Dylan) - Concert Version",
+      "url": "https://open.spotify.com/track/5S6wwhjhS8jt68st9x7D3R"
     },
     {
       "album": {
@@ -545,7 +567,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 273200,
       "name": "Man in the Long Black Coat",
       "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
@@ -817,7 +839,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"

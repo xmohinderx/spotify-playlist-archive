@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,699 songs - 4 day 2 hr 45 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,700 songs - 4 day 2 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,6 +1374,7 @@
 | [Stars](https://open.spotify.com/track/0Y5todJ3IZUePS1nMqBAyC) | [2nd Brightest Object](https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q) | [Stars](https://open.spotify.com/album/5K1uT2dCoaUoki69kPzKVP) | 3:04 | 2022-09-23 |  |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-07-12 | 2021-11-19 |
 | [Stay](https://open.spotify.com/track/0S8SE1ekoiWah2p90IBthL) | [Nathaniel S Lewis](https://open.spotify.com/artist/7zthAN288og6czpQtwvZOM) | [Stay](https://open.spotify.com/album/3iWnSx9mx2ec4twqA29uRR) | 2:59 | 2020-11-13 | 2020-11-28 |
+| [Stay](https://open.spotify.com/track/77UBRobhha5C2WBH3qv2Yy) | [Shake Anderson](https://open.spotify.com/artist/6oVMiR1LZCq5oTrIn72uXu) | [Letters to Friends](https://open.spotify.com/album/5hPdZcSpqTPYEHxxLNNVNz) | 4:37 | 2022-09-28 |  |
 | [Stay \(Don't Go\)](https://open.spotify.com/track/169PiLBShtr2W1JlRFhutw) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Stay \(Don't Go\)](https://open.spotify.com/album/6Y2zntNVo7jBr4LyJgO3OC) | 3:27 | 2020-09-13 | 2020-09-26 |
 | [Stay \(Don't Go\)](https://open.spotify.com/track/23OjeU9TfWlKHdsuzcD4sE) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 3:27 | 2021-03-26 | 2021-04-11 |
 | [Stay Awake](https://open.spotify.com/track/7j4jsTS7sZT2NSUNBPfwH0) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Stay Awake](https://open.spotify.com/album/245P4hGXQWManQu6ttJo0d) | 4:01 | 2022-09-10 | 2022-09-27 |

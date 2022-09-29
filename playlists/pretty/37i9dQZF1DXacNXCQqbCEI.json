@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 323206,
+  "num_followers": 323287,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDQyYmJhNTRkMDNjNzhlZWNkYzVjNTVmZjk3N2Q0MjAz",
+  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDgxMTYzOWRiYjQ1MzFkZWUwOGIxODA3MTI2MmQ3ZDcz",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/3emF9VP0ecSjGEAI2XQ6m0"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -407,22 +427,6 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 546282,
-      "name": "Maajo",
-      "url": "https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -443,22 +447,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/3emF9VP0ecSjGEAI2XQ6m0"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
       },
       "artists": [
         {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU"
+      "duration_ms": 546282,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205252,
       "name": "Otun (feat. Nidia Gongora)",
       "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
-      },
-      "artists": [
-        {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+      },
+      "artists": [
+        {
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Semillero",
-        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 348009,
-      "name": "Pua",
-      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "A Short Story of the Mahale Mountains",
         "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1023,6 +1023,26 @@
       "duration_ms": 231346,
       "name": "Sendero del Monte",
       "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1083,22 +1103,6 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,199 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,228 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 55 | [Affection](https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46) | [Siavash Roshan](https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS) | [The Passage](https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF) | 5:03 |
 | 56 | [Intuition](https://open.spotify.com/track/386a1KJQ3h4plXTpFd5B50) | [Rastak Ensemble](https://open.spotify.com/artist/59y2pjV0vqvuq5r4sIH6ZM) | [Ancient Hues / a Narrative of Iranian Folk Music](https://open.spotify.com/album/10PaLFiCADgQ2rAdq3oLBr) | 4:11 |
 | 57 | [Bovad Aya](https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM) | [Golnoosh salehi](https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF), [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm), [Sattar Khatabi](https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF), [Harutyun Chkolyan](https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq) | [First Of July](https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v) | 5:28 |
-| 58 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
-| 59 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
+| 58 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
+| 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDMwY2IxYTQwNzg1OTI1NzVlYmNmNGI0YTRhOGJiNGI3`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMGUwMGE2YjI0MDZmNTA1MTAxNTFkYzM5YjRmMDc4YWZk`

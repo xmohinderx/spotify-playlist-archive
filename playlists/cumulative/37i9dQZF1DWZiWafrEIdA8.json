@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 206093,
       "name": "My dream",
       "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
@@ -2441,6 +2441,40 @@
       "duration_ms": 203615,
       "name": "Re-Birth",
       "url": "https://open.spotify.com/track/4zxR6NyxosZF1j8nlRmIN3"
+    },
+    {
+      "album": {
+        "name": "Dingo X DAMOIM Pt. 4",
+        "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231023,
+      "name": "RUN DAMOIM",
+      "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
     },
     {
       "album": {

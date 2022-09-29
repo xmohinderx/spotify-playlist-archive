@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo",
-  "num_followers": 3327519,
+  "num_followers": 3327712,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjEwMiwwMDAwMDAwMDNiNGQ1YTc1NmVkYmY4ZDdmNGU5N2NkMWY4NjQ5YjY2",
+  "snapshot_id": "MTY2MzkwNjEwMiwwMDAwMDAwMDI2NWM0NWFhYTcxNWRiZjYyNGFiYmI4OTNkZWExZGRh",
   "tracks": [
     {
       "added_at": "2022-09-23 04:08:22",
@@ -102,6 +102,10 @@
         {
           "name": "James Hype",
           "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
         },
         {
           "name": "Oliver Heldens",
@@ -499,26 +503,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
       },
@@ -535,6 +519,26 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -583,6 +587,30 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
       },
@@ -607,30 +635,6 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
-        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "edamame (feat. Rich Brian) - Diplo Remix",
-      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -811,6 +815,30 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        },
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -855,30 +883,6 @@
       "duration_ms": 154838,
       "name": "Numb - DJ YUKI Remix",
       "url": "https://open.spotify.com/track/1M2eYYojjNSeFbVPnh20zF"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        },
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1143,26 +1147,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -1179,6 +1163,26 @@
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Out Of Time (Remix Bundle)",
+        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Out of Time - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1323,34 +1327,6 @@
       "duration_ms": 161257,
       "name": "I Got A Feeling - James Hype Remix",
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "Caught Up (Remixes)",
-        "url": "https://open.spotify.com/album/0wUpf9fuf6jPQ5vKsUOjN6"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        },
-        {
-          "name": "Zack Martino",
-          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
-        },
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
-      "url": "https://open.spotify.com/track/6Jb25vR1uk3wm7DTirf1Uh"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1507,30 +1483,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
-        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Drop A Bomb (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
       },
@@ -1555,22 +1507,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Green Green Grass (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV"
+        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
+        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Green Green Grass - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5"
+      "duration_ms": 158400,
+      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1595,6 +1551,26 @@
       "duration_ms": 140059,
       "name": "Freaky Deaky - R3HAB Remix",
       "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Green Green Grass (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Green Green Grass - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1719,26 +1695,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "this is what falling in love feels like (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "this is what falling in love feels like - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "drunk text me (Shallou Remix)",
         "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
       },
@@ -1759,6 +1715,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "this is what falling in love feels like (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "this is what falling in love feels like - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "Clarity (Chris Malinchak Mix)",
         "url": "https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9"
       },
@@ -1775,30 +1751,6 @@
       "duration_ms": 230395,
       "name": "Clarity - Chris Malinchak Mix",
       "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "Follow Me (Sick Individuals Remix)",
-        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Follow Me - Sick Individuals Remix",
-      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1867,6 +1819,30 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "Follow Me (Sick Individuals Remix)",
+        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Follow Me - Sick Individuals Remix",
+      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "Jungle (Rico Nasty Remix)",
         "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
       },
@@ -1911,26 +1887,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Easy (Ofenbach Remix)",
-        "url": "https://open.spotify.com/album/24OJ4HlYmwWMUn7xryrKwq"
-      },
-      "artists": [
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Easy - Ofenbach Remix",
-      "url": "https://open.spotify.com/track/7CEwv044aumuJzN470mPXL"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
       },
@@ -1959,6 +1915,26 @@
       "duration_ms": 166463,
       "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Easy (Ofenbach Remix)",
+        "url": "https://open.spotify.com/album/24OJ4HlYmwWMUn7xryrKwq"
+      },
+      "artists": [
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Easy - Ofenbach Remix",
+      "url": "https://open.spotify.com/track/7CEwv044aumuJzN470mPXL"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -2239,6 +2215,30 @@
       "duration_ms": 204720,
       "name": "On My Way (Marry Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/55MuRbaxxRwiVHNsIIZZDD"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Memory Remixes",
+        "url": "https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Feather",
+          "url": "https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi"
+        }
+      ],
+      "duration_ms": 186067,
+      "name": "Memory - Feather Remix",
+      "url": "https://open.spotify.com/track/1Wpe3EXorasdlnzUOX472Z"
     }
   ],
   "unique_name": "Pop Remix",

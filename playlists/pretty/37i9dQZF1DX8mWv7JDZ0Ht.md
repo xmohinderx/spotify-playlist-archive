@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,289 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,414 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 43 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 |
 | 44 | [Voa Comigo](https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Voa Comigo](https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C) | 2:49 |
 | 45 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
-| 46 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 |
-| 47 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 |
+| 46 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 |
+| 47 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 |
 | 48 | [Pausa](https://open.spotify.com/track/15cc5lPnR1poKtxVuTaWW6) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J), [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Pausa](https://open.spotify.com/album/0i1aoWgtFzo2hd3Oht4Xft) | 2:42 |
 | 49 | [Flutuar \- Acústico](https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [O Melhor de Nós](https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq) | 2:50 |
 | 50 | [Olhos Cor de Mel](https://open.spotify.com/track/3E1DgO8G9ej5gMAMuxv0a4) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/5NULIbgpUQM0oVmBen5rBM) | 2:21 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 55 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 |
 | 56 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 |
 | 57 | [Eu Vou Chorar Dançando](https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Eu Vou Chorar Dançando](https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX) | 2:55 |
-| 58 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 |
-| 59 | [Existencial](https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Garcia Gabé](https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl) | [Existencial](https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS) | 2:42 |
+| 58 | [Existencial](https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Garcia Gabé](https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl) | [Existencial](https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS) | 2:42 |
+| 59 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 |
 | 60 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 |
 | 61 | [Não Me Chame Pelo Nome](https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Menor Que Três](https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG) | 3:32 |
 | 62 | [carta pra ninguém](https://open.spotify.com/track/7ne3GUyA8HHBR0KsuyXzyM) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [carta pra ninguém](https://open.spotify.com/album/0nK27QmvOO1TI73fKASEdh) | 3:38 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 77 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 |
 | 78 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 |
 | 79 | [vem pra perto](https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [vem pra perto](https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE) | 2:49 |
-| 80 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
-| 81 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
+| 80 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
+| 81 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
 | 82 | [Oi Sumido](https://open.spotify.com/track/1L0x0SGUaUMDJSPVSs2LhY) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1etuvaB2Anel6HSOW2f47m) | 2:31 |
 | 83 | [Três Desejos](https://open.spotify.com/track/4tWK98H5J7oXD6sjfd7YrW) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [João Napoli \- EP](https://open.spotify.com/album/0ujRJb25gsj69J6nNC2gdk) | 2:49 |
 | 84 | [Esteja Lá](https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ) | [Zoo](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [DSLA \(Desperte Seu Lado Animal\)](https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK) | 2:14 |
 | 85 | [Farol](https://open.spotify.com/track/0SrAGHP33iQgFzzCB1ceLF) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Farol](https://open.spotify.com/album/4buQP1YVIhqVBBpyQPhGN5) | 3:09 |
 
-Snapshot ID: `MTY2Mzk0MTY1MywwMDAwMDAwMGVhOTE0Y2FlZDE3YjQyY2E1YTNiMjBmODgyNGU4NTBh`
+Snapshot ID: `MTY2Mzk0MTY1MywwMDAwMDAwMDA0NTE3ZmU3MzI3NWIwNDIxNWQ3ZTlmNmYwNjliYzFm`

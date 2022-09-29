@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-124 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
+125 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 | 2021-09-10 |  |
 | [Nobody Knows You When You’re Down And Out](https://open.spotify.com/track/5B5SveoNqr6Snjw6eqPTRn) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [California Feetwarmers](https://open.spotify.com/artist/2uOJf4l82O6wMJSOPjjVDk) | [Nobody Knows You When You’re Down And Out](https://open.spotify.com/album/6FZlcVWmvyIVYfXCbsiNZf) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2021-10-28 |  |
+| [Obertura Maromera](https://open.spotify.com/track/0WwfofENuohHp0Jgbmu3fS) | [Pasatono](https://open.spotify.com/artist/5A4yTOpKXzpTjDUHrTLI6Y) | [Maroma](https://open.spotify.com/album/36bgXIp3DZryqOQ3Tq7yte) | 6:37 | 2021-09-10 |  |
 | [Obertura Maromera](https://open.spotify.com/track/242hUT2yffPVYDp0qJmkeF) | [Pasatono Orquesta](https://open.spotify.com/artist/4ptt3r0KaFBBszVN3j9OlO) | [Maroma](https://open.spotify.com/album/70PBk0Qv5r3QZW3bZpJW1h) | 6:36 | 2021-09-10 | 2022-07-29 |
 | [Oh My Girl \- French Version](https://open.spotify.com/track/1cZXBh17oxTlL2JVbyyrfY) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Oh My Girl](https://open.spotify.com/album/6f0k7hMwslfM6NhAbKUTt4) | 3:31 | 2021-09-10 | 2022-07-12 |
-| [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 | 2021-09-10 |  |
+| [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 | 2021-09-10 | 2022-09-29 |
 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 | 2021-09-10 |  |
 | [One Step Beyond \- 2009 \- Remaster](https://open.spotify.com/track/0bAYJxEe6ate8gL0G2qj1B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond](https://open.spotify.com/album/62PbN36OHqQHZjys7VAAwL) | 2:18 | 2021-09-10 | 2022-07-28 |
 | [Opa!](https://open.spotify.com/track/4uOrTnqokSd74ro5FOUx0U) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [La Internacional Sonora Balkanera](https://open.spotify.com/album/13TzcCIce0xn2dxyuCpghF) | 3:44 | 2021-09-10 | 2022-07-24 |

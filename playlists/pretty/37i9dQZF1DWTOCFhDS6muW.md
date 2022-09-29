@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,928 likes - 38 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,941 likes - 38 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 35 | [Si Pudiera Yo](https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 4:15 |
 | 36 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
 | 37 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
-| 38 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 38 | [Cartel Mix](https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 6:11 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGFiNDQ0Y2MyMGE5YWFmZDYxYWFhMzc2YTQ4NTdiNjI3`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGFmZGUwOGQ2YTU5NzZmNzg2ZDE3MjNhMmIyZWM4NWQz`

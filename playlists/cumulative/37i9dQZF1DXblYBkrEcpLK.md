@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-344 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+345 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Behind \(with Yuna Yoshino & Lynn\)](https://open.spotify.com/track/7d1690LbH6hRaqcqMvXq7L) | [Karin Isobe](https://open.spotify.com/artist/3I66Yvv0UsBwtbzwSZVmGB), [Yuna Yoshino](https://open.spotify.com/artist/3oN1CCmDgf7bhW0p9bClZY), [Lynn](https://open.spotify.com/artist/3tXHWcReMaVk8CbtEAfCcR) | [Behind \(with Yuna Yoshino & Lynn\)](https://open.spotify.com/album/549X3ZIyEGErCwbSZKMmni) | 5:35 | 2022-06-14 | 2022-07-29 |
 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 | 2022-07-07 | 2022-07-10 |
 | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/track/0fjjznHpfbPcRdBDqfkhnk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/album/0C1FHJuqDP34JuFzXzrqTZ) | 5:36 | 2022-06-14 | 2022-06-21 |
+| [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-09-20 |  |
 | [Bitter Sweet Harmony](https://open.spotify.com/track/4pY7Ls1vq65efdZfZaNn69) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [30 pieces of love \-selection\-](https://open.spotify.com/album/33L48U5bNYik44z86Zf9ah) | 4:34 | 2022-06-24 | 2022-07-03 |
 | [Brand new diary](https://open.spotify.com/track/47RAi35e2x9JfDVUfo1mJz) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [世界が晴れたら](https://open.spotify.com/album/5JAaO4GOtFc0tMJ41El23S) | 4:09 | 2022-06-14 | 2022-07-29 |
 | [Broken Sky](https://open.spotify.com/track/4J6TEcIeIwEv09w7CAbmfY) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Prologue](https://open.spotify.com/album/2SQ8nT5gWerN2GcXd5kokB) | 3:54 | 2022-06-09 | 2022-07-24 |
@@ -249,7 +250,7 @@
 | [ヒカリイロの歌](https://open.spotify.com/track/1wGtjIVbAXPC7z4IFWQE4D) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [ring A ring](https://open.spotify.com/album/6iBnATap8lt6K905bqwuS7) | 4:19 | 2022-06-24 | 2022-07-26 |
 | [ヒトリとキミと](https://open.spotify.com/track/7Lr6zxhUdO5mwu5pGItYAu) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ヒトリとキミと](https://open.spotify.com/album/2aa4H5EqIp2nYaI7d6x59X) | 4:21 | 2022-06-14 | 2022-07-27 |
 | [ヒロイン育成計画](https://open.spotify.com/track/7aUWoXJ28h7EkR41ehjoeZ) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [ヒロイン育成計画](https://open.spotify.com/album/5vg3enUWPinQiSkdRIs0Ej) | 3:38 | 2022-07-07 | 2022-07-25 |
-| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-16 |  |
+| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-16 | 2022-09-29 |
 | [ピンキーフック](https://open.spotify.com/track/0VYYvHAZPLPU36fLB8ko1S) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [ピンキーフック](https://open.spotify.com/album/0phcqbKgsgFl6sj6ZvK3BR) | 4:15 | 2022-06-24 | 2022-06-28 |
 | [ファイナルイルミネーション](https://open.spotify.com/track/6XkDGw7J1fUxQyKW1pgwh5) | [林 鼓子](https://open.spotify.com/artist/48FlBTybQEyJfkXYrfMzhR), [久保田未夢](https://open.spotify.com/artist/0ykN2PFFtkO76Y0tngyeuD), [厚木那奈美](https://open.spotify.com/artist/79ijkR9hKpwUOnTMxtFkFP), [山下七海](https://open.spotify.com/artist/5TVOIVInTUsSZRvfUgJTdL) | [キラッとプリ☆チャン♪ミュージックコレクション \(Season.3\)](https://open.spotify.com/album/1ahQmVOLhIBfFYtUatA2iC) | 3:30 | 2022-07-19 | 2022-07-24 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |

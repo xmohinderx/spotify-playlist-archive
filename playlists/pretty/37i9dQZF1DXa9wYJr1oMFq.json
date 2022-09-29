@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with the golden age of pop punk.",
-  "num_followers": 2108845,
+  "num_followers": 2109117,
   "original_name": "Pop Punk Powerhouses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMGI3YzQ0YWQzMmFmYTg0OWYwYzY0ODUyZTYzYzJlYWI2",
+  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDM1MWUyNTcxMjBmNmQwNGE0MTAyY2Q3YWFjMTcwMzY0",
   "tracks": [
     {
       "added_at": "2022-09-12 19:21:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
     },
     {
       "added_at": "2022-09-12 19:21:47",

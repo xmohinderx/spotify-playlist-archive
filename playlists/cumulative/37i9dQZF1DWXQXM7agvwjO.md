@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bongs \(Indonesia\)
 
-396 songs - 23 hr 46 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+397 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-08-05 |
 | [羽球少年](https://open.spotify.com/track/7rAMxhio3gkeUzn5HoUMmo) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [羽球大報社《Bad News Punched!》](https://open.spotify.com/album/1FoxPReflUbnRmEDByYlvj) | 5:05 | 2022-09-15 |  |
 | [自說自話](https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:51 | 2022-07-07 | 2022-08-12 |
-| [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 | 2022-08-04 |  |
+| [透明的你](https://open.spotify.com/track/6EX6Oo5c1scLg8bQWYy5t1) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:58 | 2022-09-22 |  |
+| [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 | 2022-08-04 | 2022-09-29 |
 | [金牛座的牢騷](https://open.spotify.com/track/73elZdrJuihtqrMAW0MGVp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [金牛座的牢騷](https://open.spotify.com/album/2l23JxYMMsj6geJCkQ0Y5a) | 3:26 | 2022-05-06 | 2022-06-17 |
 | [門](https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 4:45 | 2022-04-28 | 2022-05-07 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-03-24 | 2022-04-01 |

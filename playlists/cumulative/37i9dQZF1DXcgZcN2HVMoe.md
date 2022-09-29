@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-651 songs - 1 day 14 hr 54 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+652 songs - 1 day 14 hr 58 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 | 2021-12-17 | 2022-07-11 |
 | [cover girl \- autumn](https://open.spotify.com/track/3QSFvMlRODYxTKeMP3I0VM) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cover girl \(autumn\)](https://open.spotify.com/album/2TfdtsJVEAkip8ftIeLe05) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Cups and Balloons](https://open.spotify.com/track/72TIFgfDu1MLMuDAfuUgu8) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/5NuQaD1CXWZq2RfnFQphIG) | 4:04 | 2022-01-24 | 2022-04-21 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 |  |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 | 2022-09-29 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2022-01-24 | 2022-04-06 |
@@ -183,6 +183,7 @@
 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 | 2022-07-22 |  |
 | [Fine](https://open.spotify.com/track/50RoQj3Bpff9kHJS844dAT) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0AeQgLaPYv9gtciMWYjt5Y) | 3:25 | 2022-01-24 | 2022-04-21 |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2021-12-17 | 2022-07-29 |
+| [Fireworks](https://open.spotify.com/track/6qIUd9qdVd3xtVYT6CAQZn) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Fireworks](https://open.spotify.com/album/0MqgCjyXIKDtXURPHR3nwr) | 4:02 | 2022-07-29 |  |
 | [Fireworks](https://open.spotify.com/track/7uVepUpPt1OQoau6pHElRS) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:12 | 2021-12-17 | 2022-05-29 |
 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 | 2022-01-24 | 2022-04-20 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-22 |  |

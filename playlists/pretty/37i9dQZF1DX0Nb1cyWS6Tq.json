@@ -1,12 +1,12 @@
 {
-  "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 455834,
+  "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
+  "num_followers": 456241,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMDEwZWYxNThjYzcyY2U5YTcyYjFkM2Y1NmZhYWVlNjU4",
+  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMDkyMjM2ZDkyNzNiNDU1YTVlZTlhMWY1YWM1NDQyMzYw",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
-      "added_at": "2022-08-09 00:37:43",
+      "added_at": "2022-09-29 00:45:48",
       "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
       },
       "artists": [
         {
-          "name": "The Wolfgang Press",
-          "url": "https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8"
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
         }
       ],
-      "duration_ms": 335373,
-      "name": "Cut The Tree",
-      "url": "https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw"
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
     },
     {
-      "added_at": "2022-08-05 19:18:35",
+      "added_at": "2022-08-09 00:37:43",
       "album": {
-        "name": "Sigilos y Decretos",
-        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
       },
       "artists": [
         {
-          "name": "Prismatic Shapes",
-          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+          "name": "The Wolfgang Press",
+          "url": "https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
+      "duration_ms": 335373,
+      "name": "Cut The Tree",
+      "url": "https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "The Passion of Lovers",
-      "url": "https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Japanese Whispers",
         "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "The Passion of Lovers",
+      "url": "https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Kick in the Eye",
-      "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Selected Scenes from the End of the World",
         "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Kick in the Eye",
+      "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Holiday on the Moon",
-      "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Gods Own Medicine",
         "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 340666,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 365706,
+      "name": "Holiday on the Moon",
+      "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "\u041d\u0435 \u0421\u043c\u0435\u0448\u043d\u043e / Ne Smeshno",
-      "url": "https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Cuando Sale El Sol: Rock",
         "url": "https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 356973,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/6myTigUAh8oKT2iQUNUHIL"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "\u041d\u0435 \u0421\u043c\u0435\u0448\u043d\u043e / Ne Smeshno",
+      "url": "https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt"
     },
     {
       "added_at": "2022-03-30 01:50:22",

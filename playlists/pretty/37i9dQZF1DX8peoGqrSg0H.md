@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Bow Maylada \(โบว์ เมลดา\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,375 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,459 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 63 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq) | 3:40 |
 | 64 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 |
 | 65 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 |
-| 66 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi) | 3:08 |
+| 66 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 |
 | 67 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 |
 | 68 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 |
 | 69 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 |
 | 70 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 |
 
-Snapshot ID: `MTY2MzkxMzM0NSwwMDAwMDAwMDQxYzY2MWY5YTcyZjQzNjcxODY3MDk1NjYzOTdiMzg1`
+Snapshot ID: `MTY2MzkxMzM0NSwwMDAwMDAwMGNhMGNmOTUyM2FlMWFjNzE1M2VkNWQwMGM3ZjRjMTBk`

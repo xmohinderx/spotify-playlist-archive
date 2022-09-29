@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 306905,
+  "num_followers": 307074,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGIxOTY3NzAyMTAzN2VlYjQwMmZiMjFiYjVhMjVjYjU0",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDAxYjhmMzE5YWY3NTM1YzZiNDI4M2JlMGM3YzU5OWMw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "The Little Man Who Wasn't There",
+        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "The Little Man Who Wasn't There",
+      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Horny",
         "url": "https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 210708,
       "name": "Horny - Electro Swing Version",
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Little Man Who Wasn't There",
-        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "The Little Man Who Wasn't There",
-      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -961,24 +961,20 @@
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2021-01-22 10:35:47",
       "album": {
-        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
-        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
       },
       "artists": [
         {
-          "name": "Player2",
-          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
-        },
-        {
-          "name": "A_A_RonHD",
-          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 233027,
-      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
-      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -997,20 +993,24 @@
       "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
     },
     {
-      "added_at": "2021-01-22 10:35:47",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Player2",
+          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
+        },
+        {
+          "name": "A_A_RonHD",
+          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 233027,
+      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1049,26 +1049,6 @@
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Vintage Vibes",
-        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Kate Thomas",
-          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Hep Cat Boogie",
-      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Different (Glenn Gatsby Remix)",
@@ -1087,26 +1067,6 @@
       "duration_ms": 144000,
       "name": "Different - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
-      },
-      "artists": [
-        {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
-        }
-      ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1131,6 +1091,46 @@
       "duration_ms": 238080,
       "name": "One for the Road",
       "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Vintage Vibes",
+        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Hep Cat Boogie",
+      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+      },
+      "artists": [
+        {
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+        }
+      ],
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1201,30 +1201,6 @@
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
-      "added_at": "2021-10-29 04:02:00",
-      "album": {
-        "name": "New Ground",
-        "url": "https://open.spotify.com/album/3IgvrAHqlsyWFNJ2DPKpUE"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "J Fitz",
-          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
-        }
-      ],
-      "duration_ms": 187838,
-      "name": "New Ground",
-      "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Ma\u00f1ana (Jojo Effect & Gardener of Delight Remix)",
@@ -1269,56 +1245,28 @@
       "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-10-29 04:02:00",
       "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+        "name": "New Ground",
+        "url": "https://open.spotify.com/album/3IgvrAHqlsyWFNJ2DPKpUE"
       },
       "artists": [
         {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Doorsteps",
-        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
-      },
-      "artists": [
-        {
-          "name": "Kormac",
-          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
         },
         {
-          "name": "(feat. MC Little Tree)",
-          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "J Fitz",
+          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
         }
       ],
-      "duration_ms": 328441,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+      "duration_ms": 187838,
+      "name": "New Ground",
+      "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1343,6 +1291,58 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+      },
+      "artists": [
+        {
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+        }
+      ],
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+      },
+      "artists": [
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2021-10-22 04:02:00",

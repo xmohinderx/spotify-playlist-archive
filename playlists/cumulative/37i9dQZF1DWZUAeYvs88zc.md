@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-434 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+435 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-05-17 |
 | [Sad Forever](https://open.spotify.com/track/4a5zacCsHLtMC2mcxkqWwn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Sad Forever](https://open.spotify.com/album/1kYth2YmXOBSfLKvWIbr12) | 3:23 | 2019-06-12 | 2022-06-20 |
 | [Sad Forever](https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:23 | 2022-07-28 | 2022-09-26 |
+| [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj) | 3:23 | 2022-09-25 |  |
 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 | 2021-10-16 | 2022-07-29 |
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2021-01-08 | 2021-10-23 |
 | [Sad Together](https://open.spotify.com/track/586bDV7NhZOAfjMdER1cYc) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 2:50 | 2020-02-13 | 2022-06-02 |
@@ -422,7 +423,7 @@
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/4ZrEjG3Vef85NTve8ptC9Q) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 7:28 | 2019-07-29 | 2019-08-05 |
 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6OJSyDIGBJ3swo3lLoaY9V) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:27 | 2019-07-27 | 2019-08-10 |
 | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/0k7wjFeipafGeyu29azRR7) | 2:48 | 2021-10-02 | 2022-07-29 |
-| [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-07-28 |  |
+| [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-07-28 | 2022-09-29 |
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-11-10 | 2022-09-26 |
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 |  |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2019-07-28 | 2021-10-22 |

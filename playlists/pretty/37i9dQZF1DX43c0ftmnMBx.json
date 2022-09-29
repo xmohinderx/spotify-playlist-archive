@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 188536,
+  "num_followers": 188649,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGY4M2Q0NjE4ZDhmN2E2MmIzNmMxNjdjZjE5NzRiMzU0",
+  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGI5NjcwMWFjM2Y0ZmM5Njc3NTQ1MmFjYzUzOWUwNmRl",
   "tracks": [
     {
       "added_at": "2022-02-15 16:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 272400,
       "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
       "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
+        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
+        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Como Ser\u00e1s Tu",
-      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
+      "duration_ms": 219040,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
-        "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "Bachata",
         "url": "https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 241684,
       "name": "Muchachita Loca",
       "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Como Ser\u00e1s Tu",
+      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
     },
     {
       "added_at": "2022-02-15 16:00:00",

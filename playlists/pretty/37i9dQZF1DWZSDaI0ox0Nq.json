@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 13941,
+  "num_followers": 13949,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGMzZDIzY2M4Y2E2ZGY3NTNjZjRjZGM5YThlOTNiY2Nk",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDMyMWQwMTQ4NzM2MDI4YjYwODAwNjMzOTI5YTJjNDQ3",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Naranjo en Flor (feat. Mercedes Sosa)",
+      "url": "https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -735,42 +755,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
       "artists": [
         {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Naranjo en Flor (feat. Mercedes Sosa)",
-      "url": "https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Ofrenda Gaucha: Valsecito Amigo",
-        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
-        }
-      ],
-      "duration_ms": 165637,
-      "name": "Rosas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
+        "name": "Ofrenda Gaucha: Valsecito Amigo",
+        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
       "artists": [
         {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
         }
       ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+      "duration_ms": 165637,
+      "name": "Rosas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 165546,
       "name": "Mu\u00f1eca Brava",
       "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",

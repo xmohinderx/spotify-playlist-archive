@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 537639,
+  "num_followers": 537893,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMGYyMGU3OTRkMDQ2NDMxZDg2YmFkZjI2MDdkNTM3Nzlk",
+  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDE5NTRhZGYyNDg2ZGI4NjhlYjc4ODEwNDc5ZGY2OGNm",
   "tracks": [
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1471,46 +1471,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "MOOD (Remix)",
-        "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 226046,
-      "name": "MOOD - Remix",
-      "url": "https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -1531,6 +1491,46 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "MOOD (Remix)",
+        "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 226046,
+      "name": "MOOD - Remix",
+      "url": "https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Cositas de la USA",
-        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Cositas de la USA",
-      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Para Mi Ex",
         "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 187191,
       "name": "Extasy",
       "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Aj\u00e1",
-        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 142453,
-      "name": "Aj\u00e1",
-      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/2aGN6PplBq0xigh2lmqLbw"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Aj\u00e1",
+        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "Aj\u00e1",
+      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
     },
     {
       "added_at": "2022-08-22 14:11:22",

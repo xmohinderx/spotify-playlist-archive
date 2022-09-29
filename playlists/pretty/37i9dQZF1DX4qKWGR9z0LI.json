@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1784466,
+  "num_followers": 1784643,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGRhNmUyODUxYzBiOGY2MTBkMWFhZmU2NzYzMWM3MTdm",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMDEwNDdjOTY0NmZiNDE5ZjcyZTUxOWRkYmQ3NjFkN2Zj",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Probablemente",
         "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 217547,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Sensual",
-        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 302826,
-      "name": "Ella Se Hizo Deseo",
-      "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Noches Latinas 3",
         "url": "https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 274373,
       "name": "Fabricando Fantas\u00edas",
       "url": "https://open.spotify.com/track/6cKAPpR0QwLaEKghevxdHc"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 302826,
+      "name": "Ella Se Hizo Deseo",
+      "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 449640,
-      "name": "Aparentemente - En Vivo",
-      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -879,34 +863,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 269231,
-      "name": "Se\u00f1or Mentira",
-      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
+      "duration_ms": 449640,
+      "name": "Aparentemente - En Vivo",
+      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -927,6 +895,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 269231,
+      "name": "Se\u00f1or Mentira",
+      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Historia De Un Sonero",
+        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Todav\u00eda Te Espero",
         "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 309253,
       "name": "Cinco Noches",
       "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Historia De Un Sonero",
-        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Cobarde (Remix)",
         "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 231333,
       "name": "Cobarde - Remix",
       "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Es por Ti",
         "url": "https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 184690,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 212045,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 212045,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+      "duration_ms": 360666,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
     },
     {
       "added_at": "2022-09-09 15:09:32",

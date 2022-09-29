@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-132 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4jQDg5Y9DskGmTHtELVHPY)
+133 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4jQDg5Y9DskGmTHtELVHPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Dos Mujeres un Camino](https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 4:15 | 2022-05-06 |  |
 | [Dos Mujeres un Camino](https://open.spotify.com/track/4M3IGu3TmSVtpTuhpu5EKw) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 4:15 | 2022-05-06 | 2022-07-29 |
 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 | 2022-05-06 |  |
-| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-05-06 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-05-06 | 2022-09-29 |
 | [El Amor Manda](https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José..\. De Noche](https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4) | 3:48 | 2022-05-06 |  |
 | [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 | 2022-05-06 |  |
 | [El diario de daniela \(Theme from "El diario de Daniela"\)](https://open.spotify.com/track/3S7vE73KVGb0Vbv2Vv5JOj) | [Daniela Luján](https://open.spotify.com/artist/1V81ME19fkBcwOD72f6Ags) | [Ídolos del Pop](https://open.spotify.com/album/7IA7OG10gHZxuhYC5s7jsp) | 3:47 | 2022-05-06 | 2022-06-09 |
@@ -139,6 +139,7 @@
 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 | 2022-05-06 |  |
 | [Vuélveme a Querer](https://open.spotify.com/track/1FsUD70dLqrwQiGD1rIIOw) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Te Amo TV 2](https://open.spotify.com/album/2ArZq2hvALVvlROcVhCb0A) | 4:08 | 2022-05-06 | 2022-07-29 |
 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 | 2022-05-06 |  |
+| [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 | 2022-05-06 |  |
 | [Ámame como Soy \- En Vivo](https://open.spotify.com/track/7vjaL5zDV29qOcrIVpvukK) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/2TNLh5syth2wYpOglgEkyl) | 5:35 | 2022-05-06 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-03. Prior content cannot be recovered.

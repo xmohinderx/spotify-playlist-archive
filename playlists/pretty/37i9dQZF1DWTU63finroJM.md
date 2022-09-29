@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Ayra Starr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,056 likes - 224 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,099 likes - 224 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

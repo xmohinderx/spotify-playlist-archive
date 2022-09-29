@@ -108,7 +108,7 @@
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2022-05-06 | 2022-07-29 |
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2022-05-06 | 2022-09-09 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-27 |  |
-| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 | 2022-09-26 |
+| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 |  |
 | [La canzone del pane](https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj) | [I Camillas](https://open.spotify.com/artist/2qRou3tRPqy2p59UBDkQVC) | [Le politiche del prato](https://open.spotify.com/album/141LmYjk5WtxVEcGr56N9s) | 4:14 | 2022-05-06 | 2022-07-01 |
 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 | 2022-05-06 | 2022-07-22 |
 | [Legghins di pelle](https://open.spotify.com/track/7aw1LKhEXhxNE16Y3hqDMI) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Leggins di pelle](https://open.spotify.com/album/63LwcPVHiaWhdMT5oSKDhx) | 2:12 | 2022-05-06 | 2022-07-29 |
@@ -232,6 +232,6 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-06 | 2022-09-23 |
 | [Ратата](https://open.spotify.com/track/14YjOD4J7N1FGZMt5N4eIs) | [Konfuz](https://open.spotify.com/artist/0JHx4h8GAtjhmHMQ68iQiU) | [Ратата](https://open.spotify.com/album/43gbw596irkRsQM6Rv17BL) | 2:17 | 2022-05-20 | 2022-07-05 |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2022-05-06 |  |
-| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-08 |  |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-08 | 2022-09-29 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

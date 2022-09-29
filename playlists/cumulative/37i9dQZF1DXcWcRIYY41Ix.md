@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Silvana Estrada.
 
-294 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+295 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [No quiere volver](https://open.spotify.com/track/70GOXaZNUUuCu1UD4IVeyo) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [No quiere volver](https://open.spotify.com/album/5Of8u654Wk3tYG0gcXOYIM) | 3:43 | 2022-04-01 | 2022-04-26 |
 | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/track/78JZFiirZ0CcbW8os7scgq) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y) | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/album/0e528evmmuLZaHL87fohAF) | 3:36 | 2022-03-11 | 2022-04-20 |
 | [Noviembre](https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Noviembre](https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq) | 4:05 | 2021-12-24 | 2022-07-29 |
+| [Noviembre](https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Noviembre](https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7) | 2:50 | 2022-09-29 |  |
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 |  |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
@@ -250,7 +251,7 @@
 | [Sol Redondo](https://open.spotify.com/track/765Av5qJo9j2Tm1ABwxByG) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Sol Redondo](https://open.spotify.com/album/6Jgbjx3iO4yQLaa0AEnhsb) | 3:45 | 2022-03-07 | 2022-05-04 |
 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 | 2021-12-24 |  |
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2021-12-24 |  |
-| [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-12-24 |  |
+| [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-12-24 | 2022-09-29 |
 | [Tanananá](https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tanananá](https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2) | 4:05 | 2021-12-24 | 2022-07-29 |
 | [Te Guardo](https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Te Guardo](https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA) | 3:22 | 2021-12-24 | 2022-05-14 |
 | [Temes](https://open.spotify.com/track/0dszpdR645HWyHjnCLMexZ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Temes](https://open.spotify.com/album/7kvGZ7dfdr1qvfWgsdemGl) | 3:16 | 2021-12-24 | 2022-07-29 |

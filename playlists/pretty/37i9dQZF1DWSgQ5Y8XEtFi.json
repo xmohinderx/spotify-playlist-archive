@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 107064,
+  "num_followers": 107599,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMjYzMSwwMDAwMDAwMGU2MjVjMDAxOGQ5Y2ZhMmEyMWE4YThjNTFhMmI5ZjNm",
+  "snapshot_id": "MTY2NDIwMjYzMSwwMDAwMDAwMDFmZjgxNzhiZjdjNWM3ZjU0MTA4N2YxYzM0NzdmMTM1",
   "tracks": [
     {
       "added_at": "2022-09-26 14:30:04",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "I Like Him",
-      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
-    },
-    {
-      "added_at": "2022-09-26 14:30:04",
-      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
+    },
+    {
+      "added_at": "2022-09-26 14:30:04",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "I Like Him",
+      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
     },
     {
       "added_at": "2022-09-26 14:30:04",
@@ -809,7 +809,7 @@
         }
       ],
       "duration_ms": 127573,
-      "name": "Sanjuro [Feat. 454]",
+      "name": "Sanjuro",
       "url": "https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT"
     },
     {

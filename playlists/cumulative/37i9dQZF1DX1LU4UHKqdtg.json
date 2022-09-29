@@ -3407,6 +3407,24 @@
     {
       "album": {
         "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "LUMINOUS",
+      "url": "https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN"
+    },
+    {
+      "album": {
+        "name": "LUMINOUS",
         "url": "https://open.spotify.com/album/2SK988TDKtheZT9zVozte4"
       },
       "artists": [

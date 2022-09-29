@@ -1957,6 +1957,24 @@
     {
       "album": {
         "name": "MEGA DO TIMBALAND",
+        "url": "https://open.spotify.com/album/2KIvTugmHL9NLaUvoGGDCC"
+      },
+      "artists": [
+        {
+          "name": "Selton DJ",
+          "url": "https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "MEGA DO TIMBALAND",
+      "url": "https://open.spotify.com/track/2PTuhsCZhCpvxLfPz58oke"
+    },
+    {
+      "album": {
+        "name": "MEGA DO TIMBALAND",
         "url": "https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10"
       },
       "artists": [
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 156480,
       "name": "MEGA DO TIMBALAND",
       "url": "https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG"

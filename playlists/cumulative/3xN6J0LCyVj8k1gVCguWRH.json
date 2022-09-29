@@ -26176,6 +26176,24 @@
     },
     {
       "album": {
+        "name": "Letters to Friends",
+        "url": "https://open.spotify.com/album/5hPdZcSpqTPYEHxxLNNVNz"
+      },
+      "artists": [
+        {
+          "name": "Shake Anderson",
+          "url": "https://open.spotify.com/artist/6oVMiR1LZCq5oTrIn72uXu"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277497,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/77UBRobhha5C2WBH3qv2Yy"
+    },
+    {
+      "album": {
         "name": "Stay (Don't Go)",
         "url": "https://open.spotify.com/album/6Y2zntNVo7jBr4LyJgO3OC"
       },

@@ -4,7 +4,7 @@
 
 > South African electronic music duo <a href="spotify:artist:0YbodxZ8dsnWW002EWS51w">Lemon & Herb</a> are at the cutting edge of South African dance and electronic culture\. Listen to their mix of the best South African and global dance music.
 
-12 songs - 59 min 58 sec - not published yet
+12 songs - 59 min 58 sec - [published](https://open.spotify.com/playlist/6TSmrH37UmCZaX9uKvEACN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

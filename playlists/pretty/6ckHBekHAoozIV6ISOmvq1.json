@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTU4MCwwMTk5MGZkZDdhMWFmYjQ0YWViZTU3MmUwYjU4MjViMDIyMzRhZDc0",
+  "snapshot_id": "NTU4NCxmOGM2MDFhZjdhOTliYmQ5OTQ3Y2JjNzJjZGUzNjVhMjdlOWQwYWU4",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -773,6 +773,26 @@
       "url": "https://open.spotify.com/track/1mXAnR8YNczHqhMjxp1okx"
     },
     {
+      "added_at": "2018-02-27 00:32:30",
+      "album": {
+        "name": "Trouveres:H\u00f6fische Liebeslieder aus Nordfrankreich",
+        "url": "https://open.spotify.com/album/4SfY2wTVbaPs1gitfXDqiP"
+      },
+      "artists": [
+        {
+          "name": "Conon de B\u00e9thune",
+          "url": "https://open.spotify.com/artist/6JM935joI6WnqmY5YIBVIc"
+        },
+        {
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Tant ai am\u00e9 c'or me convient hair (Chanson)",
+      "url": "https://open.spotify.com/track/5wNbjUvXkMk6vfrNBRFxA2"
+    },
+    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Adam de la Halle : Le jeu de Robin et Marion",
@@ -819,26 +839,6 @@
       "duration_ms": 411359,
       "name": "Le jeu de robin et marion: Sc\u00e8ne 1 - marion et le chevalier",
       "url": "https://open.spotify.com/track/47vdqNVbSpGCnvmMRxxRjP"
-    },
-    {
-      "added_at": "2018-02-27 00:32:30",
-      "album": {
-        "name": "Trouveres:H\u00f6fische Liebeslieder aus Nordfrankreich",
-        "url": "https://open.spotify.com/album/4SfY2wTVbaPs1gitfXDqiP"
-      },
-      "artists": [
-        {
-          "name": "Conon de B\u00e9thune",
-          "url": "https://open.spotify.com/artist/6JM935joI6WnqmY5YIBVIc"
-        },
-        {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "Tant ai am\u00e9 c'or me convient hair (Chanson)",
-      "url": "https://open.spotify.com/track/5wNbjUvXkMk6vfrNBRFxA2"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1709,30 +1709,6 @@
       "url": "https://open.spotify.com/track/5nFBMyzPAiar580K9mevVd"
     },
     {
-      "added_at": "2019-08-07 20:33:09",
-      "album": {
-        "name": "Jacopo da Bologna: Italian Madrigals of the 14th Century",
-        "url": "https://open.spotify.com/album/42bRnBFzIcYwy5q6fkdKqb"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Jacopo da Bologna",
-          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
-        },
-        {
-          "name": "Ensemble Project Ars Nova",
-          "url": "https://open.spotify.com/artist/5UAxsbn0kXp8IMM1kHuvzw"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Aquila altera - Creatura gentile - Uccel di Dio",
-      "url": "https://open.spotify.com/track/1I58Oqx2r9bFw4zYnR4vW1"
-    },
-    {
       "added_at": "2022-02-04 20:29:44",
       "album": {
         "name": "Danze Strumentali Medievali Italiane, Vol. 2",
@@ -1799,6 +1775,30 @@
       "duration_ms": 386533,
       "name": "Veni Sancte Spiritus et emitte/Veni Sancte Spiritus et infunde/Veni Creator Spiritus mentes tu - 1987 Remastered Version",
       "url": "https://open.spotify.com/track/0Kok1yqlbqw4RPAwaq9aPT"
+    },
+    {
+      "added_at": "2019-08-07 20:33:09",
+      "album": {
+        "name": "Jacopo da Bologna: Italian Madrigals of the 14th Century",
+        "url": "https://open.spotify.com/album/42bRnBFzIcYwy5q6fkdKqb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "Ensemble Project Ars Nova",
+          "url": "https://open.spotify.com/artist/5UAxsbn0kXp8IMM1kHuvzw"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Aquila altera - Creatura gentile - Uccel di Dio",
+      "url": "https://open.spotify.com/track/1I58Oqx2r9bFw4zYnR4vW1"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -3301,26 +3301,6 @@
       "url": "https://open.spotify.com/track/4eMmJMus2mwZM34i1wyPAr"
     },
     {
-      "added_at": "2018-12-21 15:49:51",
-      "album": {
-        "name": "Troubadours - Songs By W. v.d. Vogelweide/N. v. Reuental, Oswald v. Wolkenstein",
-        "url": "https://open.spotify.com/album/20DaDvFqCgf9nzG5W9MeFg"
-      },
-      "artists": [
-        {
-          "name": "Richard I of England",
-          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
-        },
-        {
-          "name": "Ensemble Perceval",
-          "url": "https://open.spotify.com/artist/6Ij2jWIgX8r8VN7bZqVAIW"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Ja nuls om pres",
-      "url": "https://open.spotify.com/track/7wgKcWxryFbpKCIp2f9rWI"
-    },
-    {
       "added_at": "2022-05-27 15:47:24",
       "album": {
         "name": "Thibaut De Champagne: Seignor, Sachies, Qui or Ne S'En Ira / Guiot De Dijon: Chanterai Por Mon Corage (Crusaders)",
@@ -3359,6 +3339,26 @@
       "duration_ms": 311266,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/3k4FgoOcjxuwJy7gnc0REZ"
+    },
+    {
+      "added_at": "2018-12-21 15:49:51",
+      "album": {
+        "name": "Troubadours - Songs By W. v.d. Vogelweide/N. v. Reuental, Oswald v. Wolkenstein",
+        "url": "https://open.spotify.com/album/20DaDvFqCgf9nzG5W9MeFg"
+      },
+      "artists": [
+        {
+          "name": "Richard I of England",
+          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
+        },
+        {
+          "name": "Ensemble Perceval",
+          "url": "https://open.spotify.com/artist/6Ij2jWIgX8r8VN7bZqVAIW"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Ja nuls om pres",
+      "url": "https://open.spotify.com/track/7wgKcWxryFbpKCIp2f9rWI"
     },
     {
       "added_at": "2022-07-22 20:17:18",
@@ -4845,6 +4845,42 @@
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
     },
     {
+      "added_at": "2022-07-08 23:09:55",
+      "album": {
+        "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
+        "url": "https://open.spotify.com/album/3VvDdHasv214R7Sl8frSYc"
+      },
+      "artists": [
+        {
+          "name": "Conon de B\u00e9thune",
+          "url": "https://open.spotify.com/artist/6JM935joI6WnqmY5YIBVIc"
+        },
+        {
+          "name": "Alla Francesca",
+          "url": "https://open.spotify.com/artist/1t6Vug7JamESjSWcXoBM9i"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Rapha\u00ebl Boulay",
+          "url": "https://open.spotify.com/artist/5VZ7btLtcizgMVLjMGGu1o"
+        },
+        {
+          "name": "Pierre Hamon",
+          "url": "https://open.spotify.com/artist/363N5eDZLVoiHql89HsG4b"
+        },
+        {
+          "name": "Brigitte Lesne",
+          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Bien me de\u00fcsse targier",
+      "url": "https://open.spotify.com/track/2kzzvht6oz1bgdYWiA9UWh"
+    },
+    {
       "added_at": "2022-08-27 00:35:02",
       "album": {
         "name": "Manuscrit du roi : Trouv\u00e8res & troubadours",
@@ -4887,42 +4923,6 @@
       "duration_ms": 377555,
       "name": "Lo clar temps",
       "url": "https://open.spotify.com/track/6Fq3R9Kv0pavfOqfA9pSuq"
-    },
-    {
-      "added_at": "2022-07-08 23:09:55",
-      "album": {
-        "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
-        "url": "https://open.spotify.com/album/3VvDdHasv214R7Sl8frSYc"
-      },
-      "artists": [
-        {
-          "name": "Conon de B\u00e9thune",
-          "url": "https://open.spotify.com/artist/6JM935joI6WnqmY5YIBVIc"
-        },
-        {
-          "name": "Alla Francesca",
-          "url": "https://open.spotify.com/artist/1t6Vug7JamESjSWcXoBM9i"
-        },
-        {
-          "name": "Emmanuel Bonnardot",
-          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
-        },
-        {
-          "name": "Rapha\u00ebl Boulay",
-          "url": "https://open.spotify.com/artist/5VZ7btLtcizgMVLjMGGu1o"
-        },
-        {
-          "name": "Pierre Hamon",
-          "url": "https://open.spotify.com/artist/363N5eDZLVoiHql89HsG4b"
-        },
-        {
-          "name": "Brigitte Lesne",
-          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Bien me de\u00fcsse targier",
-      "url": "https://open.spotify.com/track/2kzzvht6oz1bgdYWiA9UWh"
     },
     {
       "added_at": "2022-09-24 03:28:17",

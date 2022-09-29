@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 336754,
+  "num_followers": 336818,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MTk2MCwwMDAwMDAwMDE5NmU5MTcyNWMyZDAzNjFlMDg1NTMxYjI3YzRhNmMw",
+  "snapshot_id": "MTY2Mzk0MTk2MCwwMDAwMDAwMGMzOWZjODRiYWRjNjAzNjVlMjQ4ODgxMGI4YjZmOWRh",
   "tracks": [
     {
       "added_at": "2022-09-23 14:06:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
+        "name": "Sad Songs In A Hotel Room",
+        "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -591,6 +607,22 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 191830,
+      "name": "this is what sadness feels like",
+      "url": "https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
         "name": "Heartbeat Changes",
         "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 197426,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
-        "name": "Sad Songs In A Hotel Room",
-        "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -659,38 +675,6 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 191830,
-      "name": "this is what sadness feels like",
-      "url": "https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
-        "name": "MUTUAL FRIEND",
-        "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 206943,
-      "name": "MUTUAL FRIEND",
-      "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
         "name": "just a boy",
         "url": "https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 201657,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
+        "name": "MUTUAL FRIEND",
+        "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 206943,
+      "name": "MUTUAL FRIEND",
+      "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
+        "name": "No Right To Love You",
+        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "No Right To Love You",
+      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
-        "name": "No Right To Love You",
-        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "No Right To Love You",
-      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208154,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
         "name": "Heaven in a World so Cold",
         "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194286,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208154,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
         "name": "Until She's Gone / Tu Luz Qued\u00f3",
         "url": "https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 213995,
       "name": "Until She\u2019s Gone (with Sebastian Yatra)",
       "url": "https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 180719,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/23PpvHwxa535ru2yN69Oly"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
         "name": "The Good & The Bad",
         "url": "https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM"
       },
@@ -1643,34 +1627,18 @@
     {
       "added_at": "2022-09-23 14:06:00",
       "album": {
-        "name": "Coup de Foudre (\u00e0 primeira vista)",
-        "url": "https://open.spotify.com/album/10ZFuMZL7L54HnXMPT4JE2"
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 236311,
-      "name": "Coup de Foudre (\u00e0 primeira vista)",
-      "url": "https://open.spotify.com/track/0CHj08Sf9PLFjvLIv6b6AY"
-    },
-    {
-      "added_at": "2022-09-23 14:06:00",
-      "album": {
-        "name": "Bitter Pill",
-        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/4HLnKxeTmOuyD81L4lX3t7"
+      "duration_ms": 255000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/23PpvHwxa535ru2yN69Oly"
     },
     {
       "added_at": "2022-09-23 14:06:00",
@@ -1691,6 +1659,38 @@
       "duration_ms": 220176,
       "name": "What a Time To Be Alive (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
+        "name": "Bitter Pill",
+        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/4HLnKxeTmOuyD81L4lX3t7"
+    },
+    {
+      "added_at": "2022-09-23 14:06:00",
+      "album": {
+        "name": "Coup de Foudre (\u00e0 primeira vista)",
+        "url": "https://open.spotify.com/album/10ZFuMZL7L54HnXMPT4JE2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 236311,
+      "name": "Coup de Foudre (\u00e0 primeira vista)",
+      "url": "https://open.spotify.com/track/0CHj08Sf9PLFjvLIv6b6AY"
     },
     {
       "added_at": "2022-09-23 14:06:00",

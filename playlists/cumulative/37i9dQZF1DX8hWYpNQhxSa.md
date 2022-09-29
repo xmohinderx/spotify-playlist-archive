@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-94 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3FqoyZfpKt4DJYQW8JHtcU)
+95 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3FqoyZfpKt4DJYQW8JHtcU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Small Daily Life](https://open.spotify.com/track/4eGZlL5m5KT627dtNj7zxs) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:54 | 2022-06-25 | 2022-07-29 |
 | [snake in the grass](https://open.spotify.com/track/0yIkqTBYemyfdUZfVXRj2p) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:17 | 2022-06-25 | 2022-07-29 |
 | [snake in the grass](https://open.spotify.com/track/1PXozEaoPMr6H4mG79BGBP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:17 | 2022-06-25 |  |
+| [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-28 |  |
 | [State Security Service](https://open.spotify.com/track/2xS1SaDq0xETzdA7DJHOdt) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:46 | 2022-06-25 | 2022-07-29 |
 | [State Security Service](https://open.spotify.com/track/5QPa7jsgJUnxw405SLh4iW) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:46 | 2022-06-25 |  |
 | [Strange Marriage](https://open.spotify.com/track/6PU2RillcHKuxDrszxemty) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 3:37 | 2022-06-25 | 2022-07-29 |

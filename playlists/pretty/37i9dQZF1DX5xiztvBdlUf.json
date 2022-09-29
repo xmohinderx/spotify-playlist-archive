@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 525416,
+  "num_followers": 525641,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMGFiYWMyMWUwMmNmOWJmNTVlYjA0NDQwZjFmZjIyNGY2",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDU0ZDk5YjgyMGJjN2ZhZjY4MTYwMGE3YTE3YTA2NGI0",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -403,22 +403,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+        "name": "These Things Will Come To Be",
+        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
       "artists": [
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -439,18 +435,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
         }
       ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -779,6 +763,22 @@
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -959,26 +959,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Breaking Hearts feat. Amos",
-        "url": "https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah"
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
       "artists": [
         {
-          "name": "Manqo",
-          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
-        },
-        {
-          "name": "AMOS",
-          "url": "https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
         }
       ],
-      "duration_ms": 498849,
-      "name": "Breaking Hearts feat. Amos - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc"
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -999,18 +991,26 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+        "name": "Breaking Hearts feat. Amos",
+        "url": "https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+          "name": "Manqo",
+          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
+        },
+        {
+          "name": "AMOS",
+          "url": "https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+      "duration_ms": 498849,
+      "name": "Breaking Hearts feat. Amos - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Oxygen (Klangkarussell Remix)",
+        "url": "https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5"
+      },
+      "artists": [
+        {
+          "name": "SIN",
+          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "duration_ms": 739700,
+      "name": "Oxygen - Klangkarussell Remix",
+      "url": "https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Downtown EP",
         "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 464628,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Oxygen (Klangkarussell Remix)",
-        "url": "https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5"
-      },
-      "artists": [
-        {
-          "name": "SIN",
-          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
-        },
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        }
-      ],
-      "duration_ms": 739700,
-      "name": "Oxygen - Klangkarussell Remix",
-      "url": "https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/5gOnkV7tKvosDQ4gkBsQEo"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        }
+      ],
+      "duration_ms": 345489,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Temperament of the Beat",
         "url": "https://open.spotify.com/album/6dSMmjwuLDTbGrbOJHXysy"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 388783,
       "name": "Temperament of the Beat",
       "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/5gOnkV7tKvosDQ4gkBsQEo"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        }
-      ],
-      "duration_ms": 345489,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Studio A Pt.1",
+        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 367578,
+      "name": "Basic Juno",
+      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Sinking",
         "url": "https://open.spotify.com/album/1x5eFJIW5i4HWiYN8gM1eZ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Studio A Pt.1",
-        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 367578,
-      "name": "Basic Juno",
-      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
     },
     {
       "added_at": "2022-09-02 18:05:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Robin Schulz, Mougleta
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,387 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,378 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 91 | [Atita](https://open.spotify.com/track/0OjGoqUNQ9znSdzEXl0T3w) | [Joseph Crime](https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G) | [Believe the Present](https://open.spotify.com/album/5ek8TSJUYoWDmSWlAGqsFm) | 4:17 |
 | 92 | [Gratitude](https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude](https://open.spotify.com/album/3fRe1aTVYRwLNGOcLpnDXk) | 3:30 |
 | 93 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 |
-| 94 | [Black Mascara](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 |
+| 94 | [Black Mascara.](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara.](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 |
 | 95 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 |
 | 96 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 |
 | 97 | [Dance Like This](https://open.spotify.com/track/0zPRHnj8UVKetT0mIo2EWF) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Dance Like This](https://open.spotify.com/album/580TCktwPgL3nl5XF01R3V) | 2:32 |

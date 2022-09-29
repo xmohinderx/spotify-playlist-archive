@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2837,
+  "num_followers": 2848,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDMzMjk4ZmZiYmUzOGZkNjQxM2I2MDE3ZDZlNWJhZmQ4",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGViMWE2NmEwMTU4M2JiMTBhOGNmNWViM2JiYjE5NWNi",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
+      },
+      "artists": [
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        },
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Don\u2019t Worry Bout It",
         "url": "https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM"
       },
@@ -695,22 +715,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
       },
       "artists": [
         {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        },
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
+      "duration_ms": 202549,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -735,22 +751,6 @@
       "duration_ms": 125438,
       "name": "Still 40 Deep",
       "url": "https://open.spotify.com/track/5yqhWeJnZWf8lYY8OTBAMP"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Scam Likely",
-        "url": "https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Scam Likely",
-      "url": "https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "HOLY SMOKE!",
         "url": "https://open.spotify.com/album/6C05PIU1wMUQzudzjqjU5O"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 196250,
       "name": "HOLY SMOKE!",
       "url": "https://open.spotify.com/track/0nOFQTgf87Hf9TDFPJsm62"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Scam Likely",
+        "url": "https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Scam Likely",
+      "url": "https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "ABOVE ME (feat. Parris Chariz)",
+        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "ABOVE ME (feat. Parris Chariz)",
+      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "ABOVE ME (feat. Parris Chariz)",
-        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "ABOVE ME (feat. Parris Chariz)",
-      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 226031,
       "name": "WATER 4 ME (feat. Not Klyde, Parris Chariz)",
       "url": "https://open.spotify.com/track/6kgt5uW1TRJW4FSgL44WBe"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Christopher",
-        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 171196,
-      "name": "9th Grade",
-      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 114000,
       "name": "2022",
       "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Christopher",
+        "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 171196,
+      "name": "9th Grade",
+      "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1627,6 +1627,26 @@
       "duration_ms": 158399,
       "name": "Mind",
       "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 127409,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1671,22 +1691,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l"
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
         }
       ],
-      "duration_ms": 127409,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW"
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1707,22 +1723,6 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "All Is True",
+        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Veintiuno",
         "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
       },
@@ -1763,26 +1779,6 @@
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Desesperado (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1807,6 +1803,26 @@
       "duration_ms": 266550,
       "name": "Clocked In (feat. Aklesso & Derek Minor)",
       "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Desesperado (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1855,38 +1871,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "All Is True",
-        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/4itsnwwH8AwZoL9sPaua3F"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
         },
         {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1911,38 +1911,46 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/4itsnwwH8AwZoL9sPaua3F"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         },
         {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+      "duration_ms": 180000,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"
     },
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "Glory On Me",
+        "url": "https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Childish Major",
+          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 208706,
+      "name": "Glory On Me",
+      "url": "https://open.spotify.com/track/5AZppquII76qli3EUyUy8M"
     },
     {
       "added_at": "2022-05-28 19:29:54",

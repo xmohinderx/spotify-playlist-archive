@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover: Ice Spice
 
-173 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+174 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Conversations'](https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Conversations'](https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL) | 2:48 | 2022-03-04 | 2022-08-06 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 |  |
 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 | 2022-02-18 | 2022-08-06 |
-| [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-08-19 |  |
+| [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-08-19 | 2022-09-29 |
+| [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-08-19 |  |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-04 | 2022-03-26 |
 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 | 2021-09-01 | 2022-03-05 |
 | [Deeper](https://open.spotify.com/track/3a27I7639TaDdIbhUVErRt) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Deeper](https://open.spotify.com/album/5eTKY43lhSVZEW0cfkSfgR) | 2:41 | 2021-10-29 | 2022-03-05 |

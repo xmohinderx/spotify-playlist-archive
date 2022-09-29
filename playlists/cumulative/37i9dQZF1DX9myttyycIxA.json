@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "album": {
         "name": "Cool Dry Place (Expanded)",
         "url": "https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m"
       },
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 185236,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/1Jsrkn70ZpnAVEC7cAPrgh"
@@ -3193,7 +3211,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 186453,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
@@ -3283,7 +3301,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 172235,
       "name": "Empty in My Mind",
       "url": "https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10"
@@ -4469,7 +4487,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 244272,
       "name": "Greta Thunberg",
       "url": "https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw"
@@ -5595,7 +5613,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 137386,
       "name": "I'm Your Guy",
       "url": "https://open.spotify.com/track/6yyAzOnYFGhNP36GmMBhar"
@@ -8194,6 +8212,24 @@
     },
     {
       "album": {
+        "name": "rest",
+        "url": "https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146152,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM"
+    },
+    {
+      "album": {
         "name": "Rifter",
         "url": "https://open.spotify.com/album/5ddhc36Yp6vD2EcwnOqq6h"
       },
@@ -8775,7 +8811,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 208511,
       "name": "Sleep In",
       "url": "https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j"
@@ -10063,7 +10099,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 124757,
       "name": "THE MIDDLE",
       "url": "https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd"
@@ -10781,7 +10817,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 105702,
       "name": "untangle me",
       "url": "https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh"

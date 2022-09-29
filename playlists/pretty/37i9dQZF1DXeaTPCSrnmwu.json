@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 18502,
+  "num_followers": 18519,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGI1ZjU5NjkwYjJlOGRhNTI3ZDI4MDJmODRmYzA3MDAy",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGIxZWVlMGY4ZmJjMGRlYjhlZjExZTNkNDE1OTQwYTQ4",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
-      },
-      "artists": [
-        {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 224173,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
+      },
+      "artists": [
+        {
+          "name": "Falerina Paquet",
+          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -367,6 +367,26 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Seymour Reads the Constitution!",
         "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
       },
@@ -379,22 +399,6 @@
       "duration_ms": 495360,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Las colinas del priorato",
-        "url": "https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot"
-      },
-      "artists": [
-        {
-          "name": "Lopez Ciendra",
-          "url": "https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT"
-        }
-      ],
-      "duration_ms": 91994,
-      "name": "Las colinas del priorato",
-      "url": "https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -415,6 +419,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Las colinas del priorato",
+        "url": "https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot"
+      },
+      "artists": [
+        {
+          "name": "Lopez Ciendra",
+          "url": "https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT"
+        }
+      ],
+      "duration_ms": 91994,
+      "name": "Las colinas del priorato",
+      "url": "https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Tropicana",
         "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
       },
@@ -427,42 +447,6 @@
       "duration_ms": 212614,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 195366,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -499,6 +483,22 @@
       "duration_ms": 378333,
       "name": "Suavecito / En Manzanillo Se Baila el Son (Sones)",
       "url": "https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+        }
+      ],
+      "duration_ms": 195366,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Clark Younger",
         "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Orobroy",
         "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Setembro",
-        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
       "artists": [
         {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
         }
       ],
-      "duration_ms": 332000,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD"
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Green In Blue EP",
-        "url": "https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Florence",
-          "url": "https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Pensativa",
-      "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Jazz Bat\u00e1 2",
         "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 293020,
       "name": "Luces",
       "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Green In Blue EP",
+        "url": "https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Florence",
+          "url": "https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Pensativa",
+      "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
     },
     {
       "added_at": "2021-01-18 15:57:14",

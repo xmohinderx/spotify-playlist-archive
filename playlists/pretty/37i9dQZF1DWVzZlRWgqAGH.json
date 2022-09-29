@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: bLAck pARty",
-  "num_followers": 742826,
+  "num_followers": 743099,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzgxMTYzNywwMDAwMDAwMGZlM2YxNzc5MDA5NDAzYmY3OGJjODk5NzA5ODhmNDcy",
+  "snapshot_id": "MTY2MzgxMTYzNywwMDAwMDAwMDc4NDg2MzRkYjJhZDQ2YmU2MDM1MWU0YzA3YmE4MTk0",
   "tracks": [
     {
       "added_at": "2022-09-22 01:53:57",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "GEEKIN",
         "url": "https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h"
       },
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "MEMO",
         "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "Now, You Know",
         "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
       },
@@ -783,6 +799,22 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -803,54 +835,6 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Little Q, Pt. 2",
-      "url": "https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -887,6 +871,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Little Q, Pt. 2",
+      "url": "https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "Goodbye Paris",
+        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Goodbye Paris",
+      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "SUNRISE (feat. Arlo Parks)",
         "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 148194,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 262466,
-      "name": "Compassion (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+      "duration_ms": 262466,
+      "name": "Compassion (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
         "name": "Idol Eyes",
         "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Goodbye Paris",
-        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
       },
       "artists": [
         {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Goodbye Paris",
-      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
+      "duration_ms": 154768,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Wu Hen",
-        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "duration_ms": 200596,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Wu Hen",
+        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Lauren Faith",
+          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
     },
     {
       "added_at": "2022-09-22 01:53:57",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2022-09-22 01:53:57",
       "album": {
-        "name": "Studio Monk",
-        "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
-      },
-      "artists": [
-        {
-          "name": "Junia-T",
-          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
-        },
-        {
-          "name": "Elijah Dax",
-          "url": "https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD"
-        }
-      ],
-      "duration_ms": 253622,
-      "name": "Ooowee (feat. Elijah Dax)",
-      "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
-    },
-    {
-      "added_at": "2022-09-22 01:53:57",
-      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2022-09-22 01:53:57",
+      "album": {
+        "name": "Studio Monk",
+        "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
+      },
+      "artists": [
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        },
+        {
+          "name": "Elijah Dax",
+          "url": "https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD"
+        }
+      ],
+      "duration_ms": 253622,
+      "name": "Ooowee (feat. Elijah Dax)",
+      "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
     },
     {
       "added_at": "2022-09-22 01:53:57",

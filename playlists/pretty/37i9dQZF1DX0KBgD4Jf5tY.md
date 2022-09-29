@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:2HDuNOhm4h9glYn2F7rAFP">Tanca</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,422 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
+| 1 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN \(Deluxe\)](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
 | 2 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 |
 | 3 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |
 | 4 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |

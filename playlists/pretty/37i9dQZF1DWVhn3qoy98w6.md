@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Sila Lua.
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Carpin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,597 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [nadie](https://open.spotify.com/track/5MkY0dtheSg6qivNtf3UuE) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [nadie](https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO) | 2:58 |
-| 2 | [Nada bueno](https://open.spotify.com/track/7CcjYHabgpqNVhD20o9aFL) | [Carpin](https://open.spotify.com/artist/4PBtRC4rQWiJir5YRL4ek6), [Lucero2K](https://open.spotify.com/artist/37c5YhzRiXJBjV4CB4n2gx) | [Para sentir mucho hay que sentir de todo](https://open.spotify.com/album/3nVo0hq324FtgPrK7GOPI1) | 2:49 |
+| 1 | [Nada bueno](https://open.spotify.com/track/7CcjYHabgpqNVhD20o9aFL) | [Carpin](https://open.spotify.com/artist/4PBtRC4rQWiJir5YRL4ek6), [Lucero2K](https://open.spotify.com/artist/37c5YhzRiXJBjV4CB4n2gx) | [Para sentir mucho hay que sentir de todo](https://open.spotify.com/album/3nVo0hq324FtgPrK7GOPI1) | 2:49 |
+| 2 | [nadie](https://open.spotify.com/track/5MkY0dtheSg6qivNtf3UuE) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [nadie](https://open.spotify.com/album/3v6e4R5lG30IFu6ap79JgO) | 2:58 |
 | 3 | [sal y naranjos](https://open.spotify.com/track/5Cm9XUT2RHzOWjfz2LUpcJ) | [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK) | [sal y naranjos](https://open.spotify.com/album/4bsJS4QkKH7QrkXEd3Got5) | 3:08 |
 | 4 | [Blessed](https://open.spotify.com/track/2CaLMPCjSZrgy6rNQ4UibI) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Blessed](https://open.spotify.com/album/3bFuDgd8zszZMToQqqMIqW) | 3:23 |
 | 5 | [Techo](https://open.spotify.com/track/7KDA1ckRC3Nw5OVxdvd5mk) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Techo](https://open.spotify.com/album/0zXdwUTSMUjd6mS2O7HFZ1) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Volver a eso](https://open.spotify.com/track/2243cpiYdbC19Krau9zMY0) | [BARIRI](https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F) | [Aupa carajo](https://open.spotify.com/album/5DsqHH6h1D61BLVVKxMUZL) | 3:30 |
 | 50 | [Planeta de Cristal](https://open.spotify.com/track/1gap9H3NGCAeWX0R1Zc4Og) | [Elem](https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT) | [Planeta de Cristal](https://open.spotify.com/album/0KQvZ2uGeJdKknKwnn6cL2) | 3:30 |
 
-Snapshot ID: `MTY2NDMxNjAwMCwwMDAwMDAwMDdkM2U3MTk2MGQ2ODFlNDUxMzcxZWRlYWNkNTU3NTMz`
+Snapshot ID: `MTY2NDM1NDUzOCwwMDAwMDAwMDVlODcwYmEwOTkzNDc5NTFiOThjN2QxMDUwNjc2YjIz`

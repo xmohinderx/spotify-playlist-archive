@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 689435,
+  "num_followers": 689623,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTcyNCwwMDAwMDAwMDQyZDNkM2JjNDAzN2ZiOWE1ZDhmMWQ3N2EyNDMyZWZh",
+  "snapshot_id": "MTY2MjEyOTcyNCwwMDAwMDAwMDI3Y2MxMzNkMzdmMzQxZjE3MzcwMTY1NTkzZWZkY2U0",
   "tracks": [
     {
       "added_at": "2022-08-19 18:50:57",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-19 18:50:57",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
-    },
-    {
-      "added_at": "2022-08-19 18:50:57",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2022-08-19 18:50:57",
+      "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
     },
     {
       "added_at": "2022-08-19 18:50:57",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-08-19 18:50:57",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
+    },
+    {
+      "added_at": "2022-08-19 18:50:57",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
-    },
-    {
-      "added_at": "2022-08-19 18:50:57",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     }
   ],
   "unique_name": "Cafezinho",

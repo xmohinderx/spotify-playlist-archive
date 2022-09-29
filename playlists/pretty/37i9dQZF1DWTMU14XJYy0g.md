@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,200 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,253 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 6 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
 | 7 | [En Redondel](https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [En Redondel](https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR) | 4:23 |
 | 8 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
-| 9 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 |
+| 9 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 |
 | 10 | [No Estés Triste](https://open.spotify.com/track/4Bm9mh2IiaMU77PuIqIvsR) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [No Estés Triste](https://open.spotify.com/album/725IopLufwMCMGq5pc3aux) | 3:46 |
 | 11 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
 | 12 | [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 |

@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Perfume
 
-510 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+511 songs - 1 day 6 hr 22 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [IRREGULAR LIFE](https://open.spotify.com/track/0d2a2dazmNexzIDBOHsnSY) | [eco skinny](https://open.spotify.com/artist/5XAY6FqqxqPclsCmTVaqkb), [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn) | [IRREGULAR LIFE](https://open.spotify.com/album/2l1yExF7fdGlNpgFBdAtjT) | 2:08 | 2022-04-05 | 2022-05-05 |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 |  |
 | [It's you](https://open.spotify.com/track/7bWdCPvRqQbBG2s5FJ6B8M) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [It's you](https://open.spotify.com/album/2YACr8RMXS8zRo5fBTPUYV) | 4:18 | 2021-11-30 | 2022-01-05 |
+| [I’m invincible](https://open.spotify.com/track/7yQnZkAxSiAavC0zFRB1NI) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:17 | 2022-09-06 |  |
 | [JAGUAR](https://open.spotify.com/track/5I2qilcGrxmO0GcYDdzLyA) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [つしまみれ](https://open.spotify.com/album/0Ii7ok5vx3BDx42fXzlqqy) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [Jibun](https://open.spotify.com/track/08mSqGMF4C6jJxfHl0oWiK) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/5kxX7WRwDfA46zd0nFxgsK) | 6:16 | 2022-05-04 | 2022-06-01 |
 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2022-03-07 | 2022-04-06 |
@@ -498,7 +499,7 @@
 | [生きる](https://open.spotify.com/track/7KGLZBRgherjXdWkCgVhqS) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [生きる](https://open.spotify.com/album/5I4xaUGynFIeZR3ZRAMiCE) | 4:01 | 2022-04-05 | 2022-05-05 |
 | [白い光の朝に](https://open.spotify.com/track/1MzStPTZkewGb7V62h3oJ0) | [平賀さち枝とホームカミングス](https://open.spotify.com/artist/7daXqgLPvrwcojJhQW8sbz) | [白い光の朝に](https://open.spotify.com/album/53dr8vL5ohKyBCpVmNGL9C) | 5:35 | 2022-05-04 | 2022-06-01 |
 | [祈り](https://open.spotify.com/track/0ph6k0XbsCiQpsJpxGD6xB) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/1e6WEdodkaP46oUxzb8erB) | 3:34 | 2022-02-01 | 2022-03-08 |
-| [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 | 2022-09-06 |  |
+| [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 | 2022-09-06 | 2022-09-29 |
 | [私的礼讃](https://open.spotify.com/track/1vCgcnSr0eWHxVdzzm8VSF) | [和田彩花](https://open.spotify.com/artist/4smBED5kqQ13oWZ5qBmbnu) | [私的礼讃](https://open.spotify.com/album/2K92ywm8PM3knkk81axsFV) | 4:03 | 2022-05-31 | 2022-07-06 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-05-04 | 2022-06-01 |
 | [絶対彼女](https://open.spotify.com/track/1q65X96q9bMdWTnRKzsV81) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [道重さゆみ](https://open.spotify.com/artist/6cjJkgFmYi0JLQzsRrDos4) | [絶対彼女](https://open.spotify.com/album/6gOIoRrLFKryLY5KyuM6K4) | 3:46 | 2021-11-30 | 2022-01-05 |

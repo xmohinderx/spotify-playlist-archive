@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,236 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,166 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 52 | [Africa](https://open.spotify.com/track/6FTBZdL2sXXUSBXMwrQTut) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
 | 53 | [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 |
 | 54 | [FTP](https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [FTP](https://open.spotify.com/album/03WHzx89aK1pKO9GZzlSH7) | 2:42 |
-| 55 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
-| 56 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
+| 55 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
+| 56 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 57 | [Optimistic](https://open.spotify.com/track/50ZXBncFpzrKw1QVjE2NN8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 5:18 |
 | 58 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 59 | [16 Shots](https://open.spotify.com/track/5YqYLur57vzjL0Ts8fk0G2) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 5:45 |
 | 60 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDk1MTExMjg4NmFjNzNlZjM1ZGMzYWVmYzM0ZWQzOGVh`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDBhN2UyNjIxNWZiNzJjNmFkYzk2YjhjNTRiZmNkYWU4`

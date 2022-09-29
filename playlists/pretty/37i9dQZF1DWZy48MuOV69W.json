@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44384,
+  "num_followers": 44387,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjA1NiwwMDAwMDAwMGMyZGU1Y2UwZGFkOWQxZTI1ZDVkYzkyN2RkYjY4YWQ2",
+  "snapshot_id": "MTY2NDI2MjA1NiwwMDAwMDAwMDcxNzIyMjM2NmVlMmVlNTljNDIxNDFmNDM5MGM0MDk1",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:56",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
+        "name": "Christmas Carousel",
+        "url": "https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
         "name": "Behold",
         "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 171773,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/6UpuOy5AFhLa1W3V7gl6J2"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
-        "name": "Christmas Carousel",
-        "url": "https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -219,6 +219,22 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
+        "name": "Christmas With Peggy Lee",
+        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "It's Christmas Time Again",
+      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -271,22 +287,6 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "Christmas With Peggy Lee",
-        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "It's Christmas Time Again",
-      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
         "name": "The Christmas Collection",
         "url": "https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa"
       },
@@ -299,54 +299,6 @@
       "duration_ms": 226426,
       "name": "An Old Fashioned Christmas",
       "url": "https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Christmas Island",
-      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -367,6 +319,38 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 201233,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200180,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
-      },
-      "artists": [
-        {
-          "name": "Luca Francis",
-          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
-    },
-    {
-      "added_at": "2022-09-27 07:00:56",
-      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
         }
       ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2022-09-27 07:00:56",
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Sleighride",
+      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
+    },
+    {
+      "added_at": "2022-09-27 07:00:56",
+      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-09-27 07:00:56",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Sleighride",
-      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
     },
     {
       "added_at": "2022-09-27 07:00:56",

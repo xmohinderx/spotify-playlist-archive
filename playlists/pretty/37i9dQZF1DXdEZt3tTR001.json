@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 78412,
+  "num_followers": 78531,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMGQ2YjM5YzBkZWJkYmU4MDI4MTRiMmE5OGZjZjQ5Yzg0",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDViMjJhODFkYmJjNTQwMDU5MjI1NGJjOWZkZjc4ZjIy",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 406466,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Hive Mind",
-        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 406466,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Lost And Found",
+        "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 277666,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 241480,
       "name": "3 Hour Drive (feat. Sampha)",
       "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Lost And Found",
-        "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 277666,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Lullaby (feat. Syd)",
-      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 245333,
       "name": "Jill Scott (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Lullaby (feat. Syd)",
+      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "sounds of so(u)litude",
+        "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "GIFTED",
+      "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "Love in Full Bloom",
         "url": "https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 298192,
       "name": "Distant Lady",
       "url": "https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "sounds of so(u)litude",
-        "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
-      },
-      "artists": [
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "GIFTED",
-      "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
     },
     {
       "added_at": "2022-08-26 02:09:12",

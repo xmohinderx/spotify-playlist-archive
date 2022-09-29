@@ -3328,6 +3328,24 @@
     },
     {
       "album": {
+        "name": "Attack on Robot Pirate Island",
+        "url": "https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6"
+      },
+      "artists": [
+        {
+          "name": "Lonely Avenue",
+          "url": "https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203791,
+      "name": "Send Help",
+      "url": "https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8"
+    },
+    {
+      "album": {
         "name": "Simmer Down (Acoustic)",
         "url": "https://open.spotify.com/album/1Yyjm4i0o5NawNialaKuLm"
       },
@@ -4201,7 +4219,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 234000,
       "name": "Violets",
       "url": "https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im"

@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: nothing, nowhere
 
-815 songs - 1 day 19 hr 38 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+816 songs - 1 day 19 hr 40 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [I'M SO SAD](https://open.spotify.com/track/4DoktnFiNtdGGkV8ImIRUi) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [I'M SO SAD](https://open.spotify.com/album/7LBHqu2er3C0rHnXWFfaQA) | 3:15 | 2021-12-10 | 2022-05-20 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [I.O.U’s](https://open.spotify.com/track/6hHS1tNNcXdmdoL3fmBNSj) | [You vs Yesterday](https://open.spotify.com/artist/1PxE1tqEDHBQMGsV1K7Dwu) | [You vs Yesterday](https://open.spotify.com/album/7d26NcbJ2LmBmtRwtDfAK5) | 3:26 | 2022-02-04 | 2022-04-19 |
-| [IDGAF](https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:58 | 2022-07-08 |  |
+| [IDGAF](https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:58 | 2022-07-08 | 2022-09-29 |
 | [IDGAF](https://open.spotify.com/track/1ifG66jNkap7NFql3R0jot) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [IDGAF](https://open.spotify.com/album/3Hy6uEoyOZvkgww0iQwhJk) | 2:59 | 2021-12-10 | 2022-07-29 |
 | [If Happiness Is What You Reach For](https://open.spotify.com/track/0Ib05WPyxnYczOWjjoEII3) | [Parris Bridge](https://open.spotify.com/artist/0e2mamzzCCvHBBOmznjgQu) | [If Happiness Is What You Reach For](https://open.spotify.com/album/5mbK2jN39Le6E2kBY2mEH7) | 2:53 | 2021-12-10 | 2022-05-16 |
 | [If I Die I Love You](https://open.spotify.com/track/09rIgg2ZkE3MkEoWkciuuK) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [If I Die I Love You](https://open.spotify.com/album/3KyTip0BZalva0l1a9KGp0) | 3:56 | 2021-12-10 | 2022-07-28 |
@@ -494,6 +494,7 @@
 | [NEW MEDiCATiON](https://open.spotify.com/track/2IZZyt0YycXZg0p8IHOfaQ) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [NEW MEDiCATiON](https://open.spotify.com/album/0tShSLGUjdIduDX5SSzExG) | 2:48 | 2021-12-10 | 2022-04-16 |
 | [New Waves](https://open.spotify.com/track/2HB8LWG5bjLgUr9DYZc6Eg) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Recovery](https://open.spotify.com/album/4HPjQ1ZIgPYcIgTGJx9n3d) | 4:12 | 2022-03-25 | 2022-04-13 |
 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:09 | 2022-08-02 | 2022-09-20 |
+| [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2022-08-26 |  |
 | [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-08-02 | 2022-08-04 |
 | [Nice to Meet You](https://open.spotify.com/track/5eTftW1eQHHhIOean3enJ8) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Nice to Meet You](https://open.spotify.com/album/7yVfXby8Nlc8yWjPeTReu4) | 3:30 | 2021-12-10 | 2022-07-09 |
 | [Night Like This](https://open.spotify.com/track/1Wqatg6VRFAFXhpAyhSHIC) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Night Like This](https://open.spotify.com/album/3yNeyVXzNz6BrcVmcZdTFS) | 3:20 | 2022-03-25 | 2022-04-20 |

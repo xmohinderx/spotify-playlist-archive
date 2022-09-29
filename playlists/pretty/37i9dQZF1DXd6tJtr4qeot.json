@@ -1,12 +1,12 @@
 {
   "description": "Punk rock from the 90s and 00s that you need in your life. Cover: Rancid",
-  "num_followers": 833509,
+  "num_followers": 833687,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMGEzNTliMTVmYTUyNDdmYmNlODk4NWVhZmJlNjdkM2Yz",
+  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDI2MTg1ZjAxOTI2OThkOTc0NjYyYTIwNmNjZmU4ZmUz",
   "tracks": [
     {
       "added_at": "2022-08-31 18:55:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Suburbia I've Given You All and Now I'm Nothing",
         "url": "https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 244744,
       "name": "Came Out Swinging",
       "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2022-08-31 18:55:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "'Merican",
-      "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "White Crosses",
         "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195160,
       "name": "I Was a Teenage Anarchist",
       "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "'Merican",
+      "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
     },
     {
       "added_at": "2022-08-31 18:55:56",

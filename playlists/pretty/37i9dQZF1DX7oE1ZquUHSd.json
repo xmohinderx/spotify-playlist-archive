@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 83880,
+  "num_followers": 84103,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGUxOGJiYTgwYjZkZDIwNjkxZDMwYmI1Y2Q1NzA0NGE4",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGQxMjM1NDEwMjc5ZDlmOTlkYmMwODcyNzg5OGZmOGFj",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -111,26 +111,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-        "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 177442,
-      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-      "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -283,26 +283,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Muerte",
         "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 305280,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Categor\u00eda 5",
+      "url": "https://open.spotify.com/track/4t4GM7XWaNthFLmrkGc82L"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Muerte",
         "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Categor\u00eda 5",
-      "url": "https://open.spotify.com/track/4t4GM7XWaNthFLmrkGc82L"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196745,
       "name": "CANGURO",
       "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 244062,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284813,
-      "name": "Mundo de Piedra",
-      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Ella Es una G",
         "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "\u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/0bJflknytQqeyAG4HGDZyR"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 230373,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/6ATUv2VnD9x4F2zEFMQ1sT"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1223,6 +1223,30 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Techymuv",
+        "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Adosene",
+          "url": "https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk"
+        }
+      ],
+      "duration_ms": 311500,
+      "name": "I Love You a Lo V\u00edo",
+      "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 196105,
       "name": "Mextasis",
       "url": "https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Techymuv",
-        "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
-      },
-      "artists": [
-        {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/5gFvMcdpe2BWR80gm5ydx3"
-        },
-        {
-          "name": "Adosene",
-          "url": "https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk"
-        }
-      ],
-      "duration_ms": 311500,
-      "name": "I Love You a Lo V\u00edo",
-      "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Minotauro",
-        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 245958,
-      "name": "Minotauro",
-      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "For Life",
         "url": "https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 187277,
       "name": "Estilo Libre",
       "url": "https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Minotauro",
+        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 245958,
+      "name": "Minotauro",
+      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 176773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "21334",
-        "url": "https://open.spotify.com/album/0FM4ZAHSEWcFVVQe7gAHyF"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "21334",
-      "url": "https://open.spotify.com/track/7lLedmf60WiIDLOmSbc5O3"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Vivir para Contarlo",
         "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 374853,
       "name": "Pura Droga Sin Cortar",
       "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "21334",
+        "url": "https://open.spotify.com/album/0FM4ZAHSEWcFVVQe7gAHyF"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "21334",
+      "url": "https://open.spotify.com/track/7lLedmf60WiIDLOmSbc5O3"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1723,18 +1723,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Un D\u00eda En Suburbia",
-        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+        "name": "Poesia Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
       "artists": [
         {
           "name": "Nach",
           "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Shuga Wuga",
+          "url": "https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G"
         }
       ],
-      "duration_ms": 276120,
-      "name": "Efectos Vocales",
-      "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
+      "duration_ms": 309606,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
     },
     {
       "added_at": "2021-11-16 20:18:05",

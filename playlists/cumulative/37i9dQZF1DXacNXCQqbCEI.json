@@ -3671,7 +3671,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
@@ -3829,6 +3829,28 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El Buho Remix",
       "url": "https://open.spotify.com/track/421PeYBOflS19kvT0jqczs"
+    },
+    {
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Becky G & Daviles de Novelda",
-  "num_followers": 1849363,
+  "num_followers": 1849552,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDIzZTFjYzIwMTZhZTVmNmFmZDRmMjQxYzA3MjdjODI3",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGIzZDNiM2FmNjI1OTEyMWU5NjU0ZmRhYjc3NTQ3Zjhi",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 272400,
       "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
       "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Veterana",
-        "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Veterana",
-      "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Veterana",
+        "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Veterana",
+      "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Llora Alma Mia",
-        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "Llora Alma M\u00eda",
-      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Canciones Inmortales Bachatas",
         "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 472546,
       "name": "Loco de Amor",
       "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Llora Alma Mia",
+        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "Llora Alma M\u00eda",
+      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
         "url": "https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 310613,
       "name": "Vocales de amor",
       "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Tu Mundo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Tu Mundo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Episodes",
         "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 217222,
       "name": "Solo Quise Quererte",
       "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Tu Mundo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
+      },
+      "artists": [
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "Tu Mundo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "No Vuelve",
-        "url": "https://open.spotify.com/album/0nfmBq64BRvuTfKmgVDej4"
-      },
-      "artists": [
-        {
-          "name": "Yunel",
-          "url": "https://open.spotify.com/artist/0mTBRMGmIlPdcYyXUrG6A1"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "No Vuelve",
-      "url": "https://open.spotify.com/track/5kR0sGmfwqWZmN0pe2JNG1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Bachata De Amor Vol. 1",
         "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 288106,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "No Vuelve",
+        "url": "https://open.spotify.com/album/0nfmBq64BRvuTfKmgVDej4"
+      },
+      "artists": [
+        {
+          "name": "Yunel",
+          "url": "https://open.spotify.com/artist/0mTBRMGmIlPdcYyXUrG6A1"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "No Vuelve",
+      "url": "https://open.spotify.com/track/5kR0sGmfwqWZmN0pe2JNG1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Quien Te Ve Te Compra",
-        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Quien Te Ve Te Compra",
-      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Hablamos En La Cama",
         "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 240080,
       "name": "Hablamos En La Cama",
       "url": "https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Quien Te Ve Te Compra",
+        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
+      },
+      "artists": [
+        {
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Quien Te Ve Te Compra",
+      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",

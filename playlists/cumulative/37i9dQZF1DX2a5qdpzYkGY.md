@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-187 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+188 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [En Plein Air](https://open.spotify.com/track/0WpKHdlpxAiyHlbGyXz8s7) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Natura Morta](https://open.spotify.com/album/2id7gpZfzmQYQRymRazBpQ) | 2:42 | 2021-10-06 |  |
 | [Enter \(Reworked\)](https://open.spotify.com/track/4sKhjrm1dht7ZYelxwoIws) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [2020 Reworked](https://open.spotify.com/album/3HmI6KMwS5to2IzuQUW1mm) | 3:28 | 2022-01-07 | 2022-07-29 |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-07 |  |
+| [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 |  |
 | [Exile on Ærø](https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Exile on Ærø](https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 | 2022-05-24 |  |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-05-24 | 2022-09-06 |
@@ -122,7 +123,7 @@
 | [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [v2.0](https://open.spotify.com/album/0ZvyleSEIlDbklGZ995APl) | 4:12 | 2021-10-06 | 2022-07-29 |
 | [Murmuration](https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [v2.0 \(Deluxe Edition\)](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK) | 4:12 | 2021-10-06 |  |
 | [Mute \- Jan Wagner Remix](https://open.spotify.com/track/5XyKeJ3QkPsffeTxmdmoFx) | [We Will Kaleid](https://open.spotify.com/artist/78OWdfuMGjDVa6Zc63crhR), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Mute \(Jan Wagner Remix\)](https://open.spotify.com/album/1eToRFeyF5mrTo205VYDAp) | 3:45 | 2021-10-06 | 2022-07-29 |
-| [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 | 2022-02-18 |  |
+| [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 | 2022-02-18 | 2022-09-29 |
 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 | 2022-09-21 |  |
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2021-10-06 |  |
 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2022-09-27 |  |

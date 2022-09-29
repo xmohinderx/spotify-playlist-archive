@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176159,
+  "num_followers": 176260,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGI1OGNiYmM4MGMyZWJkYjFkZjRhNDg3NDA1OTg3ZGJh",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDkwNDI3ZmY3MDhkNDJmYTIzNjg0YTg1YzRhMjM3YWEy",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "U Get Me",
         "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
       },
@@ -995,6 +979,38 @@
       "duration_ms": 322206,
       "name": "U Get Me",
       "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1019,22 +1035,6 @@
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1087,18 +1087,42 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
       },
       "artists": [
         {
-          "name": "A.2.Z",
-          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1127,42 +1151,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+          "name": "A.2.Z",
+          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
         }
       ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Hard Hitters",
-        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 232602,
-      "name": "Hard Hitters",
-      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+      "duration_ms": 240004,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
     },
     {
       "added_at": "2022-09-23 15:03:03",

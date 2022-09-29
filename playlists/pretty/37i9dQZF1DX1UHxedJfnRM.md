@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,087 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,193 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 31 | [Ven y Dime](https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Ven y Dime](https://open.spotify.com/album/4IRFm0IENRUI4qRcWuOvZS) | 4:37 |
 | 32 | [Homenaje a Selena](https://open.spotify.com/track/2DVlE8GYES8tJaETtKOAaw) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Panamericana Music](https://open.spotify.com/artist/5k5ooueWxxmAMBRhb1sJLc), [CALIOPE](https://open.spotify.com/artist/6WmoeHXq2ON9pCFbrvUP2k), [Brunella](https://open.spotify.com/artist/4x9iDqP59xKtLhj5UgFR8U) | [Homenaje a Selena](https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX) | 6:15 |
 | 33 | [Dilema](https://open.spotify.com/track/3e6CZDsRIGAD85VUSe79Dj) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Dilema](https://open.spotify.com/album/7uJGgg2KJD9yBcRy0hc56P) | 4:11 |
-| 34 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 |
+| 34 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 |
 | 35 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 | 36 | [Dime Cómo Hago \- \(Versión Salsa\)](https://open.spotify.com/track/4LknpTc1p9XbeRTpp2hYqf) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Dime Cómo Hago](https://open.spotify.com/album/0ZlOYdEeqYUbi4iRrOlN0x) | 3:33 |
 | 37 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDU0Y2Y3MzM2ZDkyNzQ0NzQ0ZjkxMzMzY2ZkOTBjNmNh`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDlhOWEwZTJkZWJmMTY1ZTAxNGQyMjI0NWFmN2NmYjdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Dhira Bongs \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,551 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,562 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 64 | [Boy In My Head](https://open.spotify.com/track/4k5R9IAbGNL6XrBASNoxEr) | [Wobbebong](https://open.spotify.com/artist/7I3A3nwRpgDiLfNhidWDcq), [nio](https://open.spotify.com/artist/5KalgYkArdk0FGHvA8gh0I) | [Daydreaming In Blue](https://open.spotify.com/album/6Uz82XlSwEfcoorKKPW09c) | 3:40 |
 | 65 | [Friend Zone](https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:25 |
 | 66 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 |
-| 67 | [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 |
+| 67 | [透明的你](https://open.spotify.com/track/6EX6Oo5c1scLg8bQWYy5t1) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:58 |
 | 68 | [OUT OF YOU](https://open.spotify.com/track/7vMcexHRs6bnRaIAWNjXtG) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [OUT OF YOU](https://open.spotify.com/album/5N0wdGbzWYwVcc3S8tYX2h) | 3:28 |
 | 69 | [I'll Be Honest](https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I'll Be Honest](https://open.spotify.com/album/018IL10TXkNudbOVScsjGI) | 2:33 |
 | 70 | [Thinkin' Bout Me](https://open.spotify.com/track/1vYVy0C40JfBo8l6Rhv2QK) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Thinkin' Bout Me](https://open.spotify.com/album/1oJq5u10EdD29i5HJ4XXvY) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [don't wanna hold u back](https://open.spotify.com/track/44aylXQRxfSCMoinxh7oJR) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [don't wanna hold u back](https://open.spotify.com/album/0Fca3QLo7gi7T48TdeWi00) | 3:37 |
 | 75 | [Giá Như](https://open.spotify.com/track/4LAhAPG2urDP2j00BlI878) | [Quờ](https://open.spotify.com/artist/0SHFKeut4NctFFYAnzDfoq), [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Giá Như](https://open.spotify.com/album/3rauH3HdGAdw0on4FKo9rD) | 3:13 |
 
-Snapshot ID: `MTY2NDI1NjM2OCwwMDAwMDAwMDQxYmNhOTY0Y2ZmN2Y2ZWI4ODgzNTZhZTU1ZGI0ZWQ3`
+Snapshot ID: `MTY2NDI1NjM2OCwwMDAwMDAwMGU5OTc2ZTc1MjkzYmViNzE4OThmNjc0ZDNiMTZiM2Uy`

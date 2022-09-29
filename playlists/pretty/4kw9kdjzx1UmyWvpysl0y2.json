@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127219,
+  "num_followers": 127206,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY0NSw4MGUyMzlkNmRhYjNjZmYzZDJjZTMwZDM1MDE1OTE3NWE0ZTI0MGM4",
+  "snapshot_id": "MzY0OSxkOTBmMjRmNmM5OTU5MWI5MmMzOThmMDQ0ZjM3Yzg3MGY5NWE4M2Q4",
   "tracks": [
+    {
+      "added_at": "2022-09-28 16:56:21",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY"
+    },
+    {
+      "added_at": "2022-09-27 16:49:09",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
+    },
     {
       "added_at": "2022-09-26 16:46:35",
       "album": {
@@ -1055,42 +1091,6 @@
       "duration_ms": 240000,
       "name": "see str8",
       "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
-    },
-    {
-      "added_at": "2022-07-18 17:07:36",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
-    },
-    {
-      "added_at": "2022-07-15 16:51:45",
-      "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        }
-      ],
-      "duration_ms": 206929,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

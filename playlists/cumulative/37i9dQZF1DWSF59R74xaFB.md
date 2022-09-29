@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-356 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+358 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Algo Más](https://open.spotify.com/track/1TcwFgNVSk901hK4Rwpcsn) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/3akKzcllmwsg5jq6TK4P1d) | 4:29 | 2021-10-21 | 2022-07-29 |
 | [Almohada](https://open.spotify.com/track/69cgiu9Ifd9Sh0FMWZsASJ) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:31 | 2021-10-21 | 2022-05-18 |
 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 | 2021-10-21 | 2022-07-28 |
-| [Amante Bandido](https://open.spotify.com/track/4Vu0y6eWbQunDZ9T4jDxF1) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Amante Bandido](https://open.spotify.com/album/4ccUD5t5wBI95UZLGiErSe) | 4:34 | 2022-08-31 |  |
+| [Amante Bandido](https://open.spotify.com/track/4Vu0y6eWbQunDZ9T4jDxF1) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Amante Bandido](https://open.spotify.com/album/4ccUD5t5wBI95UZLGiErSe) | 4:34 | 2022-08-31 | 2022-09-29 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-07-11 |  |
 | [Amar de Verdad](https://open.spotify.com/track/1OeD1SbTRbuV4qbA51hHKX) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Amar de Verdad](https://open.spotify.com/album/4ev82wQiHx9qCacVcUmJXB) | 2:52 | 2021-10-21 | 2022-07-02 |
 | [Amar y Querer](https://open.spotify.com/track/1fgaOwpFRwsQr9V8sPMbka) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [20 Triunfadoras De Jose Jose](https://open.spotify.com/album/16XWFsX4Qt9Wr4XmUBlKfX) | 3:06 | 2021-10-21 | 2022-07-26 |
@@ -86,9 +86,10 @@
 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 | 2021-10-21 |  |
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2021-10-21 | 2022-04-20 |
 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 | 2021-10-21 | 2022-07-28 |
+| [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-09-28 |  |
 | [De tus ojos](https://open.spotify.com/track/6j5lZ0S1IZlYbIrt4EqNIE) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Todas las mujeres que habitan en mí](https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM) | 3:47 | 2021-10-21 | 2022-04-21 |
 | [Deberías Estar Aquí](https://open.spotify.com/track/0nyrWJu7GTlmS7YxPb7ZyA) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Deberías Estar Aquí](https://open.spotify.com/album/5nzVMlbk0nErLCJCfoWbD7) | 3:36 | 2021-10-21 | 2022-07-29 |
-| [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-04-04 |  |
+| [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-04-04 | 2022-09-29 |
 | [Desconocidos](https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desconocidos](https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ) | 3:24 | 2021-10-21 | 2022-08-17 |
 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 | 2021-10-21 | 2022-04-17 |
 | [Despertar](https://open.spotify.com/track/73NhXoLhF57uj2tRLqb8a1) | [Sasha Sokol](https://open.spotify.com/artist/36Wnz8AZ8DFZ7C0QQhlQdx) | [Despertar](https://open.spotify.com/album/7BlYbJocGJQnuD60aUlhfy) | 3:33 | 2021-10-21 | 2022-04-19 |
@@ -96,6 +97,7 @@
 | [Destino o casualidad](https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Destino o casualidad](https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85) | 4:18 | 2021-10-21 |  |
 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 | 2021-10-21 | 2022-07-18 |
 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 | 2021-10-21 | 2022-04-21 |
+| [Digan Lo Que Digan](https://open.spotify.com/track/3fVCHWVR5B1iCs4srsl0Sz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Digan Lo Que Digan](https://open.spotify.com/album/7F7LlmCuhON4gIRgJuIkAe) | 3:29 | 2022-09-28 |  |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 | 2022-07-15 |
 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 | 2021-10-21 |  |
 | [Dime Tú](https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dime Tú](https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M) | 3:40 | 2022-05-18 | 2022-06-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 119942,
+  "num_followers": 119930,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMDQ2ODYxMzVlYWM1NmFkNzYyZGEzN2Q1Njg2ZjM2ZWI3",
+  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMGM3OTBhZjQyYWQyMWMzNzNhYTNiZTg4MTg0YmVjYzRi",
   "tracks": [
     {
       "added_at": "2022-06-14 02:06:59",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
+        "name": "SELFIE",
+        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 123596,
+      "name": "Noite Quente de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 174543,
       "name": "Quarta Feira",
       "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 123596,
-      "name": "Noite Quente de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
     },
     {
       "added_at": "2022-06-14 02:06:59",

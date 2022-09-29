@@ -840,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Enviada",
+        "url": "https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243435,
+      "name": "Enviada",
+      "url": "https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz"
+    },
+    {
+      "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 192000,
       "name": "Sopa De Salsa",
       "url": "https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI"

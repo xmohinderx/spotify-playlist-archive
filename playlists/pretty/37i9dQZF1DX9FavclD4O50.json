@@ -1,12 +1,12 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Cover: Clara Rockmore",
-  "num_followers": 1423,
+  "num_followers": 1427,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg3MDg5OCwwMDAwMDAwMDYxMWM0Y2FhY2U4NDA2NzNkZjdiNjE5ZGIzZmE0MjUw",
+  "snapshot_id": "MTY0MTg3MDg5OCwwMDAwMDAwMGU4ODJkZWZhMWY0OWJhMzAwMTBjYTljNjdjYjZhOWU0",
   "tracks": [
     {
       "added_at": "2021-08-17 02:35:20",
@@ -472,6 +472,82 @@
       },
       "artists": [
         {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Dorothy Lawson",
+          "url": "https://open.spotify.com/artist/3XYSA01q5jP99FV0thEsaS"
+        },
+        {
+          "name": "Robert Burkhardt",
+          "url": "https://open.spotify.com/artist/3SieHSJXe7iWLeUSCJCRAn"
+        },
+        {
+          "name": "Mairi Dorman-Phaneuf",
+          "url": "https://open.spotify.com/artist/5MZaqG2UzmhU8S03XEGiSR"
+        },
+        {
+          "name": "Sara Hewitt-Roth",
+          "url": "https://open.spotify.com/artist/4rQ2872nxXeNwm2sGKeMd6"
+        },
+        {
+          "name": "Ludmila Konstantinova",
+          "url": "https://open.spotify.com/artist/2HBmg1eTqBjgewnSGXmNxP"
+        },
+        {
+          "name": "Jessie Reagen",
+          "url": "https://open.spotify.com/artist/0shhbqrr62wgYbSnkkwN17"
+        },
+        {
+          "name": "Peter Sachon",
+          "url": "https://open.spotify.com/artist/2J5Gm1f9pkYSizG49vzjge"
+        },
+        {
+          "name": "Caroline Stinson",
+          "url": "https://open.spotify.com/artist/123M48kw4UoLoLKpcqIKTa"
+        }
+      ],
+      "duration_ms": 424453,
+      "name": "Bachianas brasileiras No. 5, W389: I. \u00c1ria (Arr. for Theremin & Cello Ensemble)",
+      "url": "https://open.spotify.com/track/3uXjk6sfXIC9oLLCjrmNtM"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/3QHqvTeZQOQhQwD2Y3YYvy"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
+      },
+      "artists": [
+        {
           "name": "Anis Fuleihan",
           "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
         },
@@ -523,30 +599,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/3QHqvTeZQOQhQwD2Y3YYvy"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
@@ -571,26 +623,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Fantasias for Theremin and String Quartet",
-        "url": "https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "American Contemporary Music Ensemble",
-          "url": "https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO"
-        }
-      ],
-      "duration_ms": 216021,
-      "name": "Oakunar Lynntuja (Strange Birds)",
-      "url": "https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Playing Theremin",
         "url": "https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS"
       },
@@ -607,54 +639,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
+        "name": "Fantasias for Theremin and String Quartet",
+        "url": "https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF"
       },
       "artists": [
         {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
         },
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Dorothy Lawson",
-          "url": "https://open.spotify.com/artist/3XYSA01q5jP99FV0thEsaS"
-        },
-        {
-          "name": "Robert Burkhardt",
-          "url": "https://open.spotify.com/artist/3SieHSJXe7iWLeUSCJCRAn"
-        },
-        {
-          "name": "Mairi Dorman-Phaneuf",
-          "url": "https://open.spotify.com/artist/5MZaqG2UzmhU8S03XEGiSR"
-        },
-        {
-          "name": "Sara Hewitt-Roth",
-          "url": "https://open.spotify.com/artist/4rQ2872nxXeNwm2sGKeMd6"
-        },
-        {
-          "name": "Ludmila Konstantinova",
-          "url": "https://open.spotify.com/artist/2HBmg1eTqBjgewnSGXmNxP"
-        },
-        {
-          "name": "Jessie Reagen",
-          "url": "https://open.spotify.com/artist/0shhbqrr62wgYbSnkkwN17"
-        },
-        {
-          "name": "Peter Sachon",
-          "url": "https://open.spotify.com/artist/2J5Gm1f9pkYSizG49vzjge"
-        },
-        {
-          "name": "Caroline Stinson",
-          "url": "https://open.spotify.com/artist/123M48kw4UoLoLKpcqIKTa"
+          "name": "American Contemporary Music Ensemble",
+          "url": "https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO"
         }
       ],
-      "duration_ms": 424453,
-      "name": "Bachianas brasileiras No. 5, W389: I. \u00c1ria (Arr. for Theremin & Cello Ensemble)",
-      "url": "https://open.spotify.com/track/3uXjk6sfXIC9oLLCjrmNtM"
+      "duration_ms": 216021,
+      "name": "Oakunar Lynntuja (Strange Birds)",
+      "url": "https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -747,30 +747,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "2 M\u00e9lodies h\u00e9bra\u00efques, M. A22: No. 1, Kaddisch (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/7qUSSYSvNXGehtN90lzK2x"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Spellbound!: Theremin Works by Grainger, Neuwirth, Rosza & Others",
         "url": "https://open.spotify.com/album/4QE9aHkHkFJwxPnTywwHKp"
       },
@@ -823,13 +799,13 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
           "name": "Clara Rockmore",
@@ -840,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 190400,
-      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
+      "duration_ms": 283493,
+      "name": "2 M\u00e9lodies h\u00e9bra\u00efques, M. A22: No. 1, Kaddisch (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/7qUSSYSvNXGehtN90lzK2x"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -867,6 +843,30 @@
       "duration_ms": 190986,
       "name": "Cantilena No. 3 (Arr. for Theremin, Cello Quartet and Double Bass)",
       "url": "https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -959,30 +959,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Piece en forme de habanera: Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "touch! don touch! music for theremin",
         "url": "https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH"
       },
@@ -1063,18 +1039,26 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "A Happy Place",
-        "url": "https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr"
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
       "artists": [
         {
-          "name": "Dorit Chrysler",
-          "url": "https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 129500,
-      "name": "A Happy Place",
-      "url": "https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ"
+      "duration_ms": 165733,
+      "name": "Piece en forme de habanera: Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1095,6 +1079,22 @@
       "duration_ms": 280586,
       "name": "Tha\u00efs: M\u00e9ditation (Arr. for Theremin and Piano)",
       "url": "https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "A Happy Place",
+        "url": "https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr"
+      },
+      "artists": [
+        {
+          "name": "Dorit Chrysler",
+          "url": "https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "A Happy Place",
+      "url": "https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1139,22 +1139,30 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Mystery Classics - Curl Up With the Classics",
-        "url": "https://open.spotify.com/album/4RZJuJYQWC9kWNYuXepwdt"
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 187720,
-      "name": "L'oiseau de feu (The Firebird): Berceuse (arr. for theremin and piano)",
-      "url": "https://open.spotify.com/track/7kpHP5EONaM5nBUsAxuvMV"
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
     }
   ],
   "unique_name": "theremin",

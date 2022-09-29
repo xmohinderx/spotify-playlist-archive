@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-451 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+452 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-05-24 | 2022-05-29 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-04-15 | 2022-04-27 |
 | [Mirador](https://open.spotify.com/track/5qCMJTlteDY9BBpmoQnP0l) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Pa K Te Enamore](https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql) | 2:53 | 2022-05-17 | 2022-06-06 |
-| [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO) | [44musicla](https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza) | [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z) | 3:08 | 2022-08-11 |  |
+| [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO) | [44musicla](https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza) | [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z) | 3:08 | 2022-08-11 | 2022-09-29 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-26 | 2022-08-03 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-31 | 2022-07-31 |
 | [Motivo Y Razón](https://open.spotify.com/track/4gd1RicLg6Z80ukX7cJDu5) | [Zalo Reyes](https://open.spotify.com/artist/0EShyzemaVRTIukphkQZBZ) | [Canto Por Amor](https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ) | 3:22 | 2022-08-24 | 2022-08-31 |
@@ -404,6 +404,7 @@
 | [The Queen Is Dead \- 2011 Remaster](https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 6:27 | 2022-09-10 | 2022-09-17 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-09-25 |  |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2022-05-08 | 2022-05-10 |
+| [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-09-28 |  |
 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 | 2022-05-22 | 2022-05-28 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-31 | 2022-08-15 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-04-15 | 2022-05-19 |

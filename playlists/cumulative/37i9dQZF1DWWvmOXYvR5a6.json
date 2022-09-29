@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 212125,
       "name": "Bike (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/69LLLrHGGwog2l5UWaYM4m"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 223596,
       "name": "EMPTY GLASS (Feat. Bona Zoe) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/2YOybbhiuvqlJhVi1FpjhK"
@@ -6281,7 +6281,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 187413,
       "name": "Money Long (Feat. OXYNOVA)",
       "url": "https://open.spotify.com/track/3ijY4NZywujFttinhPRlaM"
@@ -7797,6 +7797,32 @@
       "duration_ms": 168102,
       "name": "Rain (feat. Uyeon)",
       "url": "https://open.spotify.com/track/6M7vWVw4i2oErNMtcikTE0"
+    },
+    {
+      "album": {
+        "name": "Rain Drop",
+        "url": "https://open.spotify.com/album/00oktkhIRIzEuKJs8hySTt"
+      },
+      "artists": [
+        {
+          "name": "Ahn byeong woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227663,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/6aoJWBJoFfg7ZeLANcvsNV"
     },
     {
       "album": {
@@ -10135,7 +10161,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
@@ -10161,10 +10187,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "UH-RA? (feat. dress)",
       "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
+    },
+    {
+      "album": {
+        "name": "Unreachable",
+        "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186114,
+      "name": "Unreachable (Feat. Milena)",
+      "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
     },
     {
       "album": {

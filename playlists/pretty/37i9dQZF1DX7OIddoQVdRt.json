@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 601740,
+  "num_followers": 601808,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDA2NTUzN2JlZTAzZjEwMDdlNzU4NDk5ZWVhMzhkZmVl",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGExNWZkNDU4NDA0ZGUwNzc0ODI4MmViYzY0MWUwMTEz",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Close (Radio Edit)",
+        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Close (Radio Edit)",
+      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Famous For (I Believe) - Collection",
         "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Close (Radio Edit)",
-        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Close (Radio Edit)",
-      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
     },
     {
       "added_at": "2021-06-25 06:54:59",

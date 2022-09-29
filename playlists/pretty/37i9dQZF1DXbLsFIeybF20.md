@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,833 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,842 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 15 | [Drop Me Off In New Orleans](https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY) | [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [Live At Vaughan's](https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt) | 4:18 |
 | 16 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 17 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
-| 18 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
-| 19 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
+| 18 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
+| 19 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
 | 20 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
 | 21 | [Hot Lips](https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [New New Orleans Jazz](https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K) | 4:54 |
 | 22 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDBhYTA0MWQ1NmE5NzdiYjlhMDczZTAxZWMwZThiM2Ez`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGU4MDRlOTNmZjkyZWQ2NTIzNDc3YzZhZjVjY2NmZWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Bendigo Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,559 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,594 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

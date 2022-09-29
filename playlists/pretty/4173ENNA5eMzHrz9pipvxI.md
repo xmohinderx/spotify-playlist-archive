@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Robin Schulz x Mougleta
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,291 likes - 32 songs - 1 hr 32 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,292 likes - 32 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 9 | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5) | 2:36 |
 | 10 | [Speed Of Light \(feat\. Darla Jade\)](https://open.spotify.com/track/6xuaSF0FsAQcztKM1lq2aq) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Speed Of Light \(feat\. Darla Jade\)](https://open.spotify.com/album/54vH6ANMwZ2rab6v1psPYv) | 3:10 |
 | 11 | [Lele](https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Love or Nothing](https://open.spotify.com/artist/6ZSoTBkU2gS9evF3jncopT) | [Lele](https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ) | 3:46 |
-| 12 | [Better](https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Better](https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM) | 2:55 |
+| 12 | [Better](https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Anthony Dircson](https://open.spotify.com/artist/4ii5iS7QuStdkGJaGr5eV6) | [Better](https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM) | 2:55 |
 | 13 | [The Way Out \(feat\. Bertie Scott\)](https://open.spotify.com/track/1ssH8g0sRC9euIT32MEhxg) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [The Way Out \(feat\. Bertie Scott\)](https://open.spotify.com/album/4IJSbEfGGHcWGGagUSpAT2) | 3:03 |
 | 14 | [Somewhere \(with Syn Cole\)](https://open.spotify.com/track/53i9DQqHwjPFzHBIR5T4Q3) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Somewhere \(with Syn Cole\)](https://open.spotify.com/album/0YGKv9rWbJQGcZyU6l4mCS) | 2:44 |
 | 15 | [Follow U](https://open.spotify.com/track/7DFCEztidOcvabrP53B5Du) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [Follow U](https://open.spotify.com/album/1cTewnQlVGbwKhSZpWpHPd) | 2:23 |

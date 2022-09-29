@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover:  Los Desvelados",
-  "num_followers": 569705,
+  "num_followers": 569764,
   "original_name": "Corridos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDZkMjgwN2QwOTNkMzIwOTgwN2VhYjcxOTQ2ZTJlZjE4",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDAwZmI3NmNkNTc2ZDQ4YTg5OGRhZGQzNTk4NjVjNDVm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -436,8 +436,8 @@
       },
       "artists": [
         {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf"
         },
         {
           "name": "Luis R Conriquez",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Seguimos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El Carrito",
+        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 178812,
+      "name": "El Carrito",
+      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Corridones Belicones Duetos",
         "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 214165,
       "name": "Sigo Aqui",
       "url": "https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "El Carrito",
-        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "El Carrito",
-      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "KDR",
-        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
+        "name": "Se Divisan",
+        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
       },
       "artists": [
         {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 201265,
-      "name": "KDR",
-      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
+      "duration_ms": 160000,
+      "name": "Se Divisan",
+      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "KDR",
+        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "KDR",
+      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "El 30",
         "url": "https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 190772,
       "name": "El 30",
       "url": "https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Se Divisan",
-        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Se Divisan",
-      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "El Recado del Ni\u00f1o",
         "url": "https://open.spotify.com/album/3DWNxcnPxQGjxVqfoiaQQg"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 155262,
       "name": "El Recado del Ni\u00f1o",
       "url": "https://open.spotify.com/track/6QCOokQPD6URup0x9meDwn"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Pinch3 Polo",
+        "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Muy Criticado",
+      "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "La Ruleta de La Vida",
         "url": "https://open.spotify.com/album/3W7MMzYaMYq5LyF1h5CoHc"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 159056,
       "name": "La Ruleta de La Vida",
       "url": "https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Pinch3 Polo",
-        "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Muy Criticado",
-      "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2291,6 +2291,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El Calorcito (En Vivo)",
+        "url": "https://open.spotify.com/album/1Xvm21HcyuFwCEyunMgEA3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        }
+      ],
+      "duration_ms": 174254,
+      "name": "El Calorcito (En Vivo)",
+      "url": "https://open.spotify.com/track/4htlay50ggoEUbctmllJs9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Culiacan La Capital",
         "url": "https://open.spotify.com/album/53Afl97yOyKjDFOAUTt74V"
       },
@@ -2303,26 +2323,6 @@
       "duration_ms": 174448,
       "name": "Culiacan La Capital",
       "url": "https://open.spotify.com/track/1PqfkVFQUuXaj37DGK4fgc"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "El Sargento",
-        "url": "https://open.spotify.com/album/0MS3XeLtbOiBEBKtOQpkei"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Jes\u00fas Chairez",
-          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El Sargento",
-      "url": "https://open.spotify.com/track/43RupHTyIIexEvWvAubVOS"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2343,22 +2343,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Calorcito (En Vivo)",
-        "url": "https://open.spotify.com/album/1Xvm21HcyuFwCEyunMgEA3"
+        "name": "El Sargento",
+        "url": "https://open.spotify.com/album/0MS3XeLtbOiBEBKtOQpkei"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         },
         {
-          "name": "El Chachito",
-          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
         }
       ],
-      "duration_ms": 174254,
-      "name": "El Calorcito (En Vivo)",
-      "url": "https://open.spotify.com/track/4htlay50ggoEUbctmllJs9"
+      "duration_ms": 204000,
+      "name": "El Sargento",
+      "url": "https://open.spotify.com/track/43RupHTyIIexEvWvAubVOS"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "La Escoba",
-        "url": "https://open.spotify.com/album/48JY1LkzUCt2MLPMw0j3dP"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 116387,
-      "name": "La Escoba",
-      "url": "https://open.spotify.com/track/5DTOpQduVxicbFDaAcv6Nr"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El Muchacho Criticado",
         "url": "https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b"
       },
@@ -2451,6 +2435,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Finta De Fresa",
+        "url": "https://open.spotify.com/album/7EqKgnZfHxiZh7aaXrFsmu"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 155012,
+      "name": "Finta De Fresa",
+      "url": "https://open.spotify.com/track/4F7FJNNZAYbt27EaChgqR9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Pa Los Que Hoy",
         "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
       },
@@ -2467,6 +2471,22 @@
       "duration_ms": 218831,
       "name": "Pa Los Que Hoy",
       "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "La Escoba",
+        "url": "https://open.spotify.com/album/48JY1LkzUCt2MLPMw0j3dP"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 116387,
+      "name": "La Escoba",
+      "url": "https://open.spotify.com/track/5DTOpQduVxicbFDaAcv6Nr"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2511,26 +2531,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Finta De Fresa",
-        "url": "https://open.spotify.com/album/7EqKgnZfHxiZh7aaXrFsmu"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 155012,
-      "name": "Finta De Fresa",
-      "url": "https://open.spotify.com/track/4F7FJNNZAYbt27EaChgqR9"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Cero Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/4m2VUgjvLILmcTBybpz9c4"
       },
@@ -2563,6 +2563,22 @@
       "duration_ms": 166266,
       "name": "No Falta Mas Tiempo",
       "url": "https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Hoy Brilla el Sol",
+        "url": "https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "Hoy Brilla el Sol",
+      "url": "https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2611,22 +2627,6 @@
       "duration_ms": 156118,
       "name": "Comprobado",
       "url": "https://open.spotify.com/track/7yMS2TnLiddORCCkKHjeo7"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Hoy Brilla el Sol",
-        "url": "https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Hoy Brilla el Sol",
-      "url": "https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7JPNhoaj5CKYn3QOZHaiTc"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/12QC6CA1iuwlwAegpD4wCj"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El Se\u00f1oron (En Vivo)",
         "url": "https://open.spotify.com/album/32Tya5YSesM6i0k0LWzjCh"
       },
@@ -2719,6 +2703,22 @@
       "duration_ms": 138881,
       "name": "El Se\u00f1oron (En Vivo)",
       "url": "https://open.spotify.com/track/4d9qYTDo6wTKxfugrBKJ9T"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7JPNhoaj5CKYn3QOZHaiTc"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/12QC6CA1iuwlwAegpD4wCj"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Sucesor",
-        "url": "https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 304354,
-      "name": "El Sucesor",
-      "url": "https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Relojito Adiamantado",
         "url": "https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm"
       },
@@ -2979,6 +2963,22 @@
       "duration_ms": 238071,
       "name": "El Mal Camino",
       "url": "https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "El Sucesor",
+        "url": "https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 304354,
+      "name": "El Sucesor",
+      "url": "https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3027,26 +3027,6 @@
       "duration_ms": 237230,
       "name": "Vida Prestada",
       "url": "https://open.spotify.com/track/086IbayM2Ya7pAXx3ojqp6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Brindo Por Lo Malo",
-        "url": "https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 130479,
-      "name": "Brindo Por Lo Malo",
-      "url": "https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3103,18 +3083,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Mago De La Sierra",
-        "url": "https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp"
+        "name": "Bla Bla Bla",
+        "url": "https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
         }
       ],
-      "duration_ms": 255883,
-      "name": "El Mago De La Sierra",
-      "url": "https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee"
+      "duration_ms": 136248,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3135,22 +3119,38 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Bla Bla Bla",
-        "url": "https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5"
+        "name": "Brindo Por Lo Malo",
+        "url": "https://open.spotify.com/album/339OmmMXcDHHY1XJjlHyKd"
       },
       "artists": [
         {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
         },
         {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 136248,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL"
+      "duration_ms": 130479,
+      "name": "Brindo Por Lo Malo",
+      "url": "https://open.spotify.com/track/3sHfnPwJChhhgoSfrjKrsA"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "El Mago De La Sierra",
+        "url": "https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 255883,
+      "name": "El Mago De La Sierra",
+      "url": "https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mi Corrido",
-        "url": "https://open.spotify.com/album/4fXcpTffHRB8EwUUeG22dn"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Mi Corrido",
-      "url": "https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Mentor",
         "url": "https://open.spotify.com/album/5avJjiGpjxF7l3rT90zv5c"
       },
@@ -3251,6 +3235,22 @@
       "duration_ms": 198174,
       "name": "El Hijo Del 3",
       "url": "https://open.spotify.com/track/4VZ9GyJRN4iZIer1JrazkO"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mi Corrido",
+        "url": "https://open.spotify.com/album/4fXcpTffHRB8EwUUeG22dn"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Mi Corrido",
+      "url": "https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "6 Colores",
-        "url": "https://open.spotify.com/album/01pQdmPM1scnFN27Xgt2jQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 164184,
-      "name": "6 Colores",
-      "url": "https://open.spotify.com/track/0pKtkEfClNEFZAwPGymF5z"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El RR (En Vivo)",
         "url": "https://open.spotify.com/album/3LfQ4z2sO0vDLipoqeksrT"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 190953,
       "name": "El RR (En Vivo)",
       "url": "https://open.spotify.com/track/1mvH121Rpxenvz9eQBERcM"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "6 Colores",
+        "url": "https://open.spotify.com/album/01pQdmPM1scnFN27Xgt2jQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 164184,
+      "name": "6 Colores",
+      "url": "https://open.spotify.com/track/0pKtkEfClNEFZAwPGymF5z"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -3463,22 +3463,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "DOCTOR DEL BARRIO",
-        "url": "https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "DOCTOR DEL BARRIO",
-      "url": "https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "El Sobrino",
         "url": "https://open.spotify.com/album/7iTq1sf463e0VrDluySGJD"
       },
@@ -3507,6 +3491,22 @@
       "duration_ms": 163500,
       "name": "Fly Club Quemando",
       "url": "https://open.spotify.com/track/2UuIA67jXVR9Tdcfhm2qv7"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "DOCTOR DEL BARRIO",
+        "url": "https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "DOCTOR DEL BARRIO",
+      "url": "https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj"
     },
     {
       "added_at": "2022-09-23 04:00:00",

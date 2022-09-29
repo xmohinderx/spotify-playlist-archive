@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en good vibes! Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,403 likes - 64 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,416 likes - 64 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 63 | [Freaky](https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Freaky](https://open.spotify.com/album/2pwqqB5fGJ77AUsBe69wuL) | 3:07 |
 | 64 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 
-Snapshot ID: `MTY2NDI4NDAzOCwwMDAwMDAwMDRhN2MzODc3ZWU2ODU2ODI3MDEyNjNlZTc1MTIzNWQ0`
+Snapshot ID: `MTY2NDM4NjY0NywwMDAwMDAwMDA1Y2FhMDdmZDU0ZjIzMzgxZjU0ODY1ZjUwZmM2N2M4`

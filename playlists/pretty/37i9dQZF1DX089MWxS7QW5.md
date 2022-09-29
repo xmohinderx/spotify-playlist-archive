@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(THAMA\(따마\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: THAMA\(따마\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,189 likes - 53 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,240 likes - 53 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 52 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 |
 | 53 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 |
 
-Snapshot ID: `MTY2NDI0NDEwNiwwMDAwMDAwMDQ1ZWE5ZTdiNDQ5NDljMjg5MWFlMjJhYzA0NTE1NzNj`
+Snapshot ID: `MTY2NDM4MDg4MywwMDAwMDAwMDgwMjZkYmQwNWQ1MDZlZmNkOGM2OWJhNjkxODc1MTFh`

@@ -159,7 +159,7 @@
 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2022-01-19 | 2022-04-22 |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2022-01-12 |  |
 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 | 2022-01-12 | 2022-06-16 |
-| [Reflections](https://open.spotify.com/track/09m5o0FIa430LyBfvraj6h) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Reflections](https://open.spotify.com/album/15Tv8kdEGfcAkY8y2rQNcb) | 4:12 | 2022-01-12 | 2022-09-26 |
+| [Reflections](https://open.spotify.com/track/09m5o0FIa430LyBfvraj6h) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Reflections](https://open.spotify.com/album/15Tv8kdEGfcAkY8y2rQNcb) | 4:12 | 2022-01-12 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-01-12 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-01-12 |  |
 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2022-01-12 | 2022-07-29 |
@@ -212,6 +212,6 @@
 | [Yoga do Sono Macio](https://open.spotify.com/track/0SUYpyczCC59xE8FBW32Ba) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:30 | 2022-04-13 | 2022-04-21 |
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2022-01-12 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-18 |  |
-| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 |  |
+| [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 | 2022-09-29 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

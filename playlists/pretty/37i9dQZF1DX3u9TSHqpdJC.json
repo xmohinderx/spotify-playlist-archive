@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Indy Artwork: Paola Saliby\n",
-  "num_followers": 168034,
+  "num_followers": 168174,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1MDgwMCwwMDAwMDAwMGQ2MTY3ZDI4ZmMxNDMxMWJlMzEwYTUxNDg0NWJjYzYx",
+  "snapshot_id": "MTY2NDM4MDAyNSwwMDAwMDAwMDNmZjE2OTMwMGI2YTZmMDRjYzBhYmQ3MmE2YmEwNTg4",
   "tracks": [
     {
       "added_at": "2022-09-21 09:00:00",
@@ -41,6 +41,70 @@
       "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
     },
     {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "Haunted by Potential",
+        "url": "https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 218218,
+      "name": "Haunted by Potential",
+      "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/3z2M6tQbHxSgUuFyVrlSbq"
+      },
+      "artists": [
+        {
+          "name": "PHOEBE AXA",
+          "url": "https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv"
+        }
+      ],
+      "duration_ms": 247041,
+      "name": "My Toxic Trait",
+      "url": "https://open.spotify.com/track/6IybUJKNDOKbC9bSDCyDkI"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "Wear Me Down",
+        "url": "https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fuller",
+          "url": "https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Wear Me Down",
+      "url": "https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "Die in LA",
+        "url": "https://open.spotify.com/album/1IehfOIx5buIJNdPxqyL0h"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 155278,
+      "name": "Die in LA",
+      "url": "https://open.spotify.com/track/0H4lXr8lR0hk95nsDhcKve"
+    },
+    {
       "added_at": "2022-09-14 13:27:39",
       "album": {
         "name": "Toxic",
@@ -55,6 +119,150 @@
       "duration_ms": 145750,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0w0ppqrsKf2O42rAXAH3o1"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "HOUSEPARTY",
+        "url": "https://open.spotify.com/album/1ByroWcsJkB2R4PpzouniL"
+      },
+      "artists": [
+        {
+          "name": "mekel",
+          "url": "https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B"
+        }
+      ],
+      "duration_ms": 147045,
+      "name": "HOUSEPARTY",
+      "url": "https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "NASCAR",
+        "url": "https://open.spotify.com/album/6dRYq6cJoM4G50gVYxf63r"
+      },
+      "artists": [
+        {
+          "name": "Stella Smyth",
+          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
+        }
+      ],
+      "duration_ms": 201825,
+      "name": "NASCAR",
+      "url": "https://open.spotify.com/track/30AD2fulmaSiZ8zTCWbYU2"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U"
+      },
+      "artists": [
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "i'm over that",
+        "url": "https://open.spotify.com/album/6ePM3KvbbWeUzgmWVE3ibi"
+      },
+      "artists": [
+        {
+          "name": "AIYANA",
+          "url": "https://open.spotify.com/artist/7kszFp5zWV6pZauLkmxxcE"
+        }
+      ],
+      "duration_ms": 175074,
+      "name": "i'm over that",
+      "url": "https://open.spotify.com/track/4fbrqz54kR71nLuwxoZAKF"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "burn (to make you my love)",
+        "url": "https://open.spotify.com/album/2gCmSni68i3mA85NlDHGly"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cirri",
+          "url": "https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr"
+        }
+      ],
+      "duration_ms": 183558,
+      "name": "burn (to make you my love)",
+      "url": "https://open.spotify.com/track/0ku6AQ1ORvxyp0XZQ05bKA"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "Futility of Existence",
+        "url": "https://open.spotify.com/album/6zfPmPpQXCZN4dRS27VLyj"
+      },
+      "artists": [
+        {
+          "name": "RIIVA",
+          "url": "https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Futility of Existence",
+      "url": "https://open.spotify.com/track/2ktXoFJf2yNzdxDWHUZkWs"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "By Tomorrow",
+        "url": "https://open.spotify.com/album/7cY6BKyCbQwJCWEs8WtFN6"
+      },
+      "artists": [
+        {
+          "name": "Siena Bella",
+          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "By Tomorrow",
+      "url": "https://open.spotify.com/track/5M6FXkGtaTHo1MWO8cRYtm"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "arizona",
+        "url": "https://open.spotify.com/album/2IK5juKkSO13bAAlXTUtS4"
+      },
+      "artists": [
+        {
+          "name": "gcmayn",
+          "url": "https://open.spotify.com/artist/3n24tWtdvGsJFqsQcm9ujR"
+        }
+      ],
+      "duration_ms": 164797,
+      "name": "arizona",
+      "url": "https://open.spotify.com/track/6d5OKyBLb3fSSKGqwxopy6"
+    },
+    {
+      "added_at": "2022-09-28 15:47:05",
+      "album": {
+        "name": "Forced Extrovert",
+        "url": "https://open.spotify.com/album/5aUUXP3DYYnjHo8GxNfCHq"
+      },
+      "artists": [
+        {
+          "name": "Maddy Storm",
+          "url": "https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT"
+        }
+      ],
+      "duration_ms": 149146,
+      "name": "Backhanded",
+      "url": "https://open.spotify.com/track/3LQ4KHDjqaej9DknFBEuqG"
     },
     {
       "added_at": "2022-09-21 09:00:00",
@@ -87,22 +295,6 @@
       "duration_ms": 199373,
       "name": "life you lead",
       "url": "https://open.spotify.com/track/2WYxFmuGz6Wj2vXlgLuHke"
-    },
-    {
-      "added_at": "2022-09-14 13:27:39",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U"
-      },
-      "artists": [
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa"
     },
     {
       "added_at": "2022-09-21 09:00:00",
@@ -815,8 +1007,8 @@
     {
       "added_at": "2022-08-24 06:22:12",
       "album": {
-        "name": "We Just Wanna Dance",
-        "url": "https://open.spotify.com/album/7raU4ZiegrZtpCQjXfL5xW"
+        "name": "Magnetic Strangers",
+        "url": "https://open.spotify.com/album/2u6sJ3W6GMH0ZbGBCcsXd8"
       },
       "artists": [
         {
@@ -826,7 +1018,7 @@
       ],
       "duration_ms": 176802,
       "name": "We Just Wanna Dance",
-      "url": "https://open.spotify.com/track/0YLQuErftRnJBXfBPbpnYk"
+      "url": "https://open.spotify.com/track/4HUegUTOoGP2tEWyPufMoN"
     },
     {
       "added_at": "2022-08-24 06:22:12",
@@ -1091,22 +1283,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1HAOlIxcReAfHXyXk94QnJ"
-      },
-      "artists": [
-        {
-          "name": "Amber Ais",
-          "url": "https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5cETeA9Fi1wyPXcWRjLlaE"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Lead Me On",
         "url": "https://open.spotify.com/album/4DrAm1TxMIsldiEoImRN1t"
       },
@@ -1183,22 +1359,6 @@
       "duration_ms": 164550,
       "name": "I Don't Cry When I'm High",
       "url": "https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2"
-    },
-    {
-      "added_at": "2022-07-27 14:59:41",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/2mbVpMfGZvVqB24RJg6trr"
-      },
-      "artists": [
-        {
-          "name": "Danielle Juhre",
-          "url": "https://open.spotify.com/artist/6nMfhzwvdyr40WdeOv4ewg"
-        }
-      ],
-      "duration_ms": 158650,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4KcFT4tl4txVBUvzoFlhoa"
     },
     {
       "added_at": "2022-07-20 15:53:13",

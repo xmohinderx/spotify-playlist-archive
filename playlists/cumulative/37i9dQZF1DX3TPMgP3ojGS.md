@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,525 songs - 2 day 21 hr 5 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,526 songs - 2 day 21 hr 8 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2022-03-29 | 2022-04-06 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2021-12-13 | 2022-04-14 |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-05-03 | 2022-05-08 |
-| [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-02-15 |  |
+| [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-02-15 | 2022-09-29 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2021-03-15 | 2022-04-18 |
 | [Hiro](https://open.spotify.com/track/3QVAtsZYZhTvAK995bxUkY) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Hiro](https://open.spotify.com/album/0cd4CYjdiGoF4RfSZYIWRg) | 2:39 | 2021-03-23 | 2022-07-29 |
 | [History Repeats Itself](https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [History Repeats Itself](https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV) | 1:54 | 2021-04-28 | 2022-04-07 |
@@ -1442,6 +1442,7 @@
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2022-07-27 |  |
 | [Waiting](https://open.spotify.com/track/5ZYjpm6P9HjgcdiKRykKpb) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 2:07 | 2021-05-16 | 2021-12-21 |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2021-04-29 | 2022-08-17 |
+| [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 | 2022-09-27 |  |
 | [Wakatipu](https://open.spotify.com/track/4DrwaOTOPuOP5H0F6ASHd8) | [Walter Du Rietz](https://open.spotify.com/artist/0OrLresItymYqEWJlVb381) | [Wakatipu](https://open.spotify.com/album/7HDyFDkBzTknowoKmh0G0O) | 2:03 | 2021-05-12 | 2022-06-16 |
 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 | 2021-12-13 |  |
 | [Walk Towards Silence](https://open.spotify.com/track/0cp2H7dP3uUJuHDDndOcfE) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 3:12 | 2021-05-06 | 2022-03-31 |

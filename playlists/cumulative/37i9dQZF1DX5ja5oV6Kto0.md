@@ -4,13 +4,14 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW?si=H4w\_nQr4RZOhsez2IxiPDg"> Odunsi \(The Engine\) </a>
 
-243 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+244 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 % or More](https://open.spotify.com/track/1nhPJxL9x5oaPYcLfm4Wxz) | [OCAPO](https://open.spotify.com/artist/0rPvE6uRDqVXYoeM6dGKZV), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [100 % or More](https://open.spotify.com/album/3mxg5EVTIx9lOZjodWM54H) | 4:12 | 2021-12-16 | 2022-04-22 |
 | [2 Müch](https://open.spotify.com/track/7n1fyxu4b9Fuxu1H7V7jvm) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [2 Müch](https://open.spotify.com/album/5b6QuetBeDJYNSOF2usdyZ) | 1:05 | 2022-07-28 | 2022-09-02 |
 | [22 SOLACE](https://open.spotify.com/track/1wpMPz1Cm8xZZoU0RCBvPV) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [22 SOLACE](https://open.spotify.com/album/3AruCoz4S7OzExMMdE8W4E) | 2:37 | 2021-10-08 | 2022-02-18 |
+| [2Müch](https://open.spotify.com/track/1Q6Cun2v9HkhA6wp4GHdZe) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:05 | 2022-09-28 |  |
 | [4AM in Ibiza](https://open.spotify.com/track/03ihazIgZQERyUB2BGAeLb) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8) | [Triple Take, Vol\. II](https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M) | 2:42 | 2022-02-17 | 2022-03-12 |
 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 | 2021-12-16 |  |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-04-28 | 2022-08-13 |

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mỹ Mỹ; thiết kế: Isu Kim
 
-568 songs - 1 day 9 hr 2 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+569 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Có Lẽ Em Đã](https://open.spotify.com/track/6vBEhOxPPENdaFVRVrWiCw) | [5Zone](https://open.spotify.com/artist/7g9mj1ec2xf7PY4x2ZZKpv) | [Có Lẽ Em Đã](https://open.spotify.com/album/7n9m1VPqn12fEqotyAFGzO) | 3:00 | 2022-01-06 | 2022-01-15 |
 | [Có Mùa Hạ Như Thế](https://open.spotify.com/track/1I67osLu2XjBfNg3qo4BnG) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Có Mùa Hạ Như Thế](https://open.spotify.com/album/7MyB04AEJ46BO7xWjbDfdG) | 5:21 | 2022-06-16 |  |
 | [Có Phải Em Sợ Yêu](https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Có Phải Em Sợ Yêu](https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6) | 4:10 | 2022-05-19 | 2022-07-15 |
+| [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2022-09-28 |  |
 | [Cơm Nhà](https://open.spotify.com/track/5WnlXKKUuG3YcWXAKN9K8p) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Ruby V](https://open.spotify.com/artist/4JmcHoZrhg2HhNaeuFPaa0) | [Cơm Nhà](https://open.spotify.com/album/54oIo1WVgy6zXZWSy2gBkt) | 2:23 | 2022-01-20 | 2022-01-27 |
 | [Cơn Gió Ngang](https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4) | [Tiez](https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv), [Fay](https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb) | [Cơn Gió Ngang](https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT) | 3:48 | 2022-01-25 | 2022-05-03 |
 | [Cơn Mưa Bình Yên \(feat\. Cường\)](https://open.spotify.com/track/3kGgUPDgMF2N9QQUREePAi) | [Lãnh Cung](https://open.spotify.com/artist/16H5og96i0ZbAmG54t6s9X), [Cuong](https://open.spotify.com/artist/4fkPPfSk4WJXtvKITIgD9u) | [Cơn Mưa Bình Yên](https://open.spotify.com/album/48H3MdnVtoXTTo6R3RWRyf) | 3:57 | 2022-01-28 | 2022-04-16 |

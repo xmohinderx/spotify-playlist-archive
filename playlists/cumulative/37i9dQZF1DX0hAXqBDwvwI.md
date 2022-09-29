@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-581 songs - 1 day 14 hr 35 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+582 songs - 1 day 14 hr 39 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Believe in you](https://open.spotify.com/track/4D45aFfzi0PLrN5MqLzREa) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」](https://open.spotify.com/album/6NCrUtRgx0nsuyn1rziDXe) | 4:39 | 2022-06-03 | 2022-07-29 |
 | [BELIEVE MYSELF](https://open.spotify.com/track/3CFqP29BSTS4yi70BwN3bT) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [BELIEVE MYSELF](https://open.spotify.com/album/1URkZlcuwbkx0GlbS1RQy3) | 3:33 | 2022-06-24 | 2022-07-28 |
 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 | 2022-06-03 | 2022-07-20 |
+| [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-09-15 |  |
 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 | 2022-06-03 |  |
 | [Black Rover](https://open.spotify.com/track/04LCCxG3pbOYeENiyUc7Xb) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ウララ](https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl) | 3:28 | 2022-06-03 |  |
 | [BLIZZARD](https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BLIZZARD](https://open.spotify.com/album/4cv7mTcRI2qKuUUu0K8THt) | 3:46 | 2022-06-03 | 2022-07-29 |
@@ -410,7 +411,7 @@
 | [ハミングバード](https://open.spotify.com/track/4UWgxwXFgwe4g7Y9dzWgN8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ハミングバード](https://open.spotify.com/album/76j7gSpUXk4QNPJvJwoh5l) | 4:18 | 2022-06-03 | 2022-07-20 |
 | [ヒカレイノチ](https://open.spotify.com/track/4uVvqoI2sWncxvqgwRZ1H9) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq) | 5:22 | 2022-06-03 | 2022-07-25 |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-07-07 | 2022-07-14 |
-| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-17 |  |
+| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-17 | 2022-09-29 |
 | [ピラミッド大逆転](https://open.spotify.com/track/2FR4PLn6gIq4pZr75zqBMN) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [ピラミッド大逆転](https://open.spotify.com/album/405hxI0ZBbPpRTK4FUsiw9) | 3:49 | 2022-06-14 | 2022-06-21 |
 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 | 2022-06-03 | 2022-06-11 |
 | [ピースサイン](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 | 2022-06-03 | 2022-07-24 |

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-582 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+583 songs - 1 day 15 hr 10 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/4pDvFXWbdFiQVpdZd0Z59u) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [TOP \-Japanese ver.\-](https://open.spotify.com/album/4DiIuRcvcMhDcPQqHc3NT4) | 3:08 | 2022-06-07 | 2022-07-27 |
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/6tuhGVjqfYYs0MYxapWibK) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:08 | 2022-06-07 |  |
 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 | 2022-06-07 |  |
-| [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-11 |  |
+| [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-11 | 2022-09-29 |
 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 | 2022-06-07 |  |
 | [Touch off](https://open.spotify.com/track/40qyjzGdWia4KfBR95ciwP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Touch off](https://open.spotify.com/album/4e4sHXvEuCk5fBF7D5Ia7s) | 4:20 | 2022-06-07 | 2022-07-29 |
 | [TRISTAR](https://open.spotify.com/track/02sailSwB7PN3NzPP84rdz) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [TRISTAR](https://open.spotify.com/album/1QrFdoG166qYDQz5feySdQ) | 3:52 | 2022-06-07 | 2022-07-19 |
@@ -363,7 +363,7 @@
 | [アルケミラ](https://open.spotify.com/track/1QBkrW9kGVFGHd1eS2Hsiw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [アルケミラ](https://open.spotify.com/album/5BgWsO3TSxunG538f6zmK6) | 3:55 | 2022-06-07 | 2022-07-23 |
 | [インフィニティ](https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [インフィニティ](https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm) | 4:05 | 2022-06-07 |  |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2022-06-07 |  |
-| [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-11 | 2022-08-17 |
+| [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-11 |  |
 | [オトメの心得](https://open.spotify.com/track/3VlVicSANh9Rg1GPvcuPHM) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [オトメの心得](https://open.spotify.com/album/6dzFn1AiiuMwVzYmFsd1lc) | 3:08 | 2022-06-07 | 2022-07-26 |
 | [オルゴール](https://open.spotify.com/track/6b8Hu7AWAANB43xmNAXvyz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [オルゴール](https://open.spotify.com/album/1Pu3Zrzu1AzKByHmjlru2B) | 4:44 | 2022-06-07 | 2022-07-26 |
 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 | 2022-06-07 | 2022-07-29 |
@@ -469,6 +469,7 @@
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-06-07 | 2022-07-27 |
 | [命の灯火](https://open.spotify.com/track/5AH3OpbMYGS983Yj5BlhTQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「ディープインサニティ ザ・ロストチャイルド」オープニングテーマ「命の灯火」](https://open.spotify.com/album/2K4f6h2Qh4Fgd30C944ivW) | 3:42 | 2022-06-07 | 2022-07-15 |
 | [命ノ証](https://open.spotify.com/track/2siPX9kyOPMaMUZAGtCfPK) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [命ノ証](https://open.spotify.com/album/2ycCJObN5Df1kYvEnGAATW) | 3:18 | 2022-06-07 | 2022-07-28 |
+| [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 | 2022-08-11 |  |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-06-07 | 2022-07-29 |
 | [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-06-07 |  |
 | [嘘じゃない](https://open.spotify.com/track/47Old3TEOc2v4eOOv5pA6H) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [嘘じゃない \-Special Edition\-](https://open.spotify.com/album/1HGI3Yom7WAIwFJQMS65OV) | 4:19 | 2022-06-07 | 2022-07-29 |
@@ -584,7 +585,7 @@
 | [青い](https://open.spotify.com/track/6zY1qStXzwVqWC4UVxvENW) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [青い](https://open.spotify.com/album/6OpdA3ZpZ9T33dB4QRHzud) | 4:09 | 2022-06-07 | 2022-07-23 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-06-07 | 2022-07-23 |
 | [風に吹かれて](https://open.spotify.com/track/4BQgbUodnb7th8UhjX8nuZ) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/0APY6iqv5wrIhRvBPBzx5C) | 4:31 | 2022-06-07 | 2022-07-29 |
-| [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-11 |  |
+| [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-11 | 2022-09-29 |
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-06-07 | 2022-07-27 |
 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 | 2022-06-07 |  |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-06-07 | 2022-07-13 |

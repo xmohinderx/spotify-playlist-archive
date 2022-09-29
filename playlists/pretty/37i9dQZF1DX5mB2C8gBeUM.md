@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Levi Hummon
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,771 likes - 154 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,981 likes - 154 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

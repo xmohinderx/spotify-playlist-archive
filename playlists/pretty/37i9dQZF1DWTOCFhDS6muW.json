@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 15928,
+  "num_followers": 15941,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGFiNDQ0Y2MyMGE5YWFmZDYxYWFhMzc2YTQ4NTdiNjI3",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGFmZGUwOGQ2YTU5NzZmNzg2ZDE3MjNhMmIyZWM4NWQz",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -647,38 +647,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Quemala",
-        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
+        "name": "Mete Y Saca",
+        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
       "artists": [
         {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
         },
         {
-          "name": "Mr Jc",
-          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
-        },
-        {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
-        },
-        {
-          "name": "KD La Caracola",
-          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
-        },
-        {
-          "name": "Jessy Rose",
-          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
-        },
-        {
-          "name": "Big Nango",
-          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
+          "name": "Nuru Ellis",
+          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Quemala",
-      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+      "duration_ms": 371135,
+      "name": "Cartel Mix",
+      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
     }
   ],
   "unique_name": "Punta",

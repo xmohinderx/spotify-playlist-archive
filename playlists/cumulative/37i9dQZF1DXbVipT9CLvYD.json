@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Kanchana 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1UzFQqFbsbQfnIN0B9FFew"
+      },
+      "artists": [
+        {
+          "name": "Saravedi Saran",
+          "url": "https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208726,
+      "name": "Oru Sattai Oru Balpam",
+      "url": "https://open.spotify.com/track/5mjMNSapkdPs7pYMjpXM4x"
+    },
+    {
+      "album": {
         "name": "Kanchana 3",
         "url": "https://open.spotify.com/album/12OX9m9OjyMXG21wn9piys"
       },
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 208726,
       "name": "Oru Sattai Oru Balpam",
       "url": "https://open.spotify.com/track/1oAUAsizUCWizFqu3h0R4e"

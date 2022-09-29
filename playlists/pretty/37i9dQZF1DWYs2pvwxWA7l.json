@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=2ioXi7ooQBqbIOnmeSfO9Q\"> CKay </a>  ",
-  "num_followers": 360778,
+  "num_followers": 361078,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxMjIzNSwwMDAwMDAwMDc2MDYzOTI0ZTUxZGY1MjVmNDVlNGQ4ZDI0ZDZiZjQ0",
+  "snapshot_id": "MTY2MzkxMjIzNSwwMDAwMDAwMGQxODdkYjcwMmQzYzk4ZmI0MWJiNjc4MWE1OWFmZWFl",
   "tracks": [
     {
       "added_at": "2022-09-23 05:50:35",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
+    },
+    {
       "added_at": "2022-08-22 18:00:00",
       "album": {
         "name": "In My Mind - A COLORS SHOW",
@@ -1051,22 +1067,6 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
     },
     {
       "added_at": "2022-06-08 08:17:45",

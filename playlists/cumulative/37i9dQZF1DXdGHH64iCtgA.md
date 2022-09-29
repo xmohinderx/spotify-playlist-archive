@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-163 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+164 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,10 +145,11 @@
 | [Sweat](https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Sweat](https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E) | 2:56 | 2022-05-06 |  |
 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 | 2022-05-06 |  |
 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 | 2022-05-06 |  |
+| [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 | 2022-09-27 |  |
 | [The Ghost](https://open.spotify.com/track/6U68eIjQeHBdMEvPXFvnKS) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [The Ghost](https://open.spotify.com/album/3loMWI3Uy1H9ZCosRV0QXm) | 4:04 | 2022-05-06 | 2022-07-29 |
 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 | 2022-05-06 |  |
 | [The Volume](https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/3JLDi2TBdao3xxxFXoYGNc) | 6:37 | 2022-05-06 | 2022-07-28 |
-| [The Volume](https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN) | 6:37 | 2022-06-14 |  |
+| [The Volume](https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb) | [The Volume / The Music Is Mine](https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN) | 6:37 | 2022-06-14 | 2022-09-29 |
 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 | 2022-05-06 |  |
 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 | 2022-05-06 | 2022-07-29 |
 | [Time to Go](https://open.spotify.com/track/7wC7oqIoDcN313wdziWyE0) | [Emiranda](https://open.spotify.com/artist/2hq6lovoVveIPBDeJNvIfe) | [My Face](https://open.spotify.com/album/4W8EwahiBJkZZO7IGObu6T) | 3:27 | 2022-05-06 | 2022-07-29 |

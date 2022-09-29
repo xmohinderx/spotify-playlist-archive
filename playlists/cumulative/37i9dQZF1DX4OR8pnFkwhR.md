@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭\.  <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
-417 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+419 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Higher](https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Higher](https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY) | 4:29 | 2022-03-22 | 2022-07-06 |
 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 | 2022-08-06 |  |
 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2022-08-23 | 2022-09-21 |
+| [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 | 2022-09-27 |  |
 | [I Don't Have a Pen](https://open.spotify.com/track/0hOjpzwQDkUcPP3V2pbPDb) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:21 | 2022-02-17 | 2022-03-09 |
 | [I know](https://open.spotify.com/track/500QIrnafMrHv0YzJRSkXH) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [I know](https://open.spotify.com/album/1yKNHV3DEY2CaJjH924pg2) | 3:17 | 2022-02-17 | 2022-06-08 |
 | [i was ur girl](https://open.spotify.com/track/6mk4ljqIKz0KpKyBE0mXTB) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [ご自愛](https://open.spotify.com/album/1S20yx09e37gcIn4xPzskF) | 3:15 | 2022-05-17 | 2022-06-15 |
@@ -184,6 +185,7 @@
 | [shame](https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [shame](https://open.spotify.com/album/2W8p3i2gNs6lt5BC6EA8Mh) | 3:26 | 2022-08-04 | 2022-08-19 |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-09-09 |
 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 | 2022-08-09 | 2022-09-28 |
+| [Skyscraper \(Matenrou\)](https://open.spotify.com/track/4RIhQB0TI0G7wzqwIzViBS) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Skyscraper \(Matenrou\)](https://open.spotify.com/album/61kIH5ne671AnQf8kI6s4x) | 2:59 | 2022-09-27 |  |
 | [small talk](https://open.spotify.com/track/0HoMxHkUCFEGpJ6IVML8XO) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ) | [small talk](https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0) | 4:25 | 2022-02-22 | 2022-03-30 |
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-01 | 2022-05-11 |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-02 | 2022-09-28 |
@@ -360,7 +362,7 @@
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2022-08-23 |  |
 | [戻れたなら](https://open.spotify.com/track/6GnIlXPdycoTJB9KWEKCv0) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [pain\(ts\)](https://open.spotify.com/album/5K76QIpoP5WXRvjnXhVOe2) | 3:04 | 2022-08-30 | 2022-09-28 |
 | [持たざる者](https://open.spotify.com/track/3mOPRW2HjUJudyY1Cevzn5) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [持たざる者](https://open.spotify.com/album/47V2rBKVxSfPHs6B0GIvbe) | 3:10 | 2022-03-24 | 2022-04-13 |
-| [摩天楼](https://open.spotify.com/track/6WsSI31riVgoEnGG5NzfZv) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [摩天楼](https://open.spotify.com/album/3t4g1474iB8sNJJm0FaQWj) | 2:59 | 2022-09-27 |  |
+| [摩天楼](https://open.spotify.com/track/6WsSI31riVgoEnGG5NzfZv) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [摩天楼](https://open.spotify.com/album/3t4g1474iB8sNJJm0FaQWj) | 2:59 | 2022-09-27 | 2022-09-29 |
 | [散歩道](https://open.spotify.com/track/4bEnMDDfHrfgnxb5ea8LBy) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [散歩道](https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr) | 4:20 | 2022-09-13 |  |
 | [明日には振り向いてよ](https://open.spotify.com/track/0naHfononc9Vyfudm4LIFj) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [明日には振り向いてよ](https://open.spotify.com/album/5aDHbkNhsnb00OwJFh3PZp) | 3:09 | 2022-07-05 |  |
 | [星の国から](https://open.spotify.com/track/3UHXCkP4RSIG7X5FZPVdzB) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [星の国から](https://open.spotify.com/album/5UaD322rBb7sRPnPfhSEAY) | 3:34 | 2022-08-02 | 2022-08-26 |
@@ -370,7 +372,7 @@
 | [曖昧night](https://open.spotify.com/track/6kHB0vXB6m8BmtZYHfNNAj) | [SHISE](https://open.spotify.com/artist/4cEW3r3jrgiGUnIh6ipaAE) | [曖昧night](https://open.spotify.com/album/3Ygqq1nwnFFOQX74J35Puv) | 3:58 | 2022-05-10 | 2022-06-22 |
 | [月](https://open.spotify.com/track/7DrwN98xjUsoLwbfPbnLRf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT) | 4:12 | 2022-03-01 | 2022-03-09 |
 | [未来時代](https://open.spotify.com/track/6V9HXGJiFDFMGwM3UbvJfI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ハンサムなDANCE](https://open.spotify.com/album/50kLpT94afTKSgNHFOjinD) | 4:40 | 2022-07-12 | 2022-07-29 |
-| [本日の正体](https://open.spotify.com/track/6s4lNOLv2RGsDUFuqYRbDT) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [本日の正体](https://open.spotify.com/album/5GU5DbCBCYHmqSgKdWwJWn) | 3:25 | 2022-09-27 |  |
+| [本日の正体](https://open.spotify.com/track/6s4lNOLv2RGsDUFuqYRbDT) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [本日の正体](https://open.spotify.com/album/5GU5DbCBCYHmqSgKdWwJWn) | 3:25 | 2022-09-27 | 2022-09-29 |
 | [東京](https://open.spotify.com/track/6B62diobHkpM87FTc3c8IW) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [東京](https://open.spotify.com/album/14EEv1uiqgqNTeLHl7eJOi) | 4:32 | 2022-05-17 | 2022-06-29 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-02-17 | 2022-06-15 |
 | [某夜 \(feat\. 紫 今\)](https://open.spotify.com/track/0Pa8CtaKnMupFf2Cl0pVJk) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [某夜 \(feat\. 紫 今\)](https://open.spotify.com/album/6cTLkPcJ5aXL3qlNHy4nRT) | 3:54 | 2022-05-17 | 2022-06-15 |

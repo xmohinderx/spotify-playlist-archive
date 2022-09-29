@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: IVE
 
-368 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+369 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-03-16 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-24 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
+| [LUMINOUS](https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e) | 3:58 | 2022-09-27 |  |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2022-07-09 |
 | [make a secret \- The Greatest Ver.](https://open.spotify.com/track/0Vnvga0n2hceutBl4SuZug) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [make a secret \(The Greatest Ver.\)](https://open.spotify.com/album/4vX6w6HrQ79R7uwU24vasz) | 4:34 | 2022-03-29 | 2022-06-08 |

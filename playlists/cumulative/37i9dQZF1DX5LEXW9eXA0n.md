@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
 
-537 songs - 1 day 10 hr 56 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+538 songs - 1 day 10 hr 59 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [I Miss You](https://open.spotify.com/track/6AXqsbRU3snGXnibiW0WOw) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/2dlACO4DLIYaJJzCheVRq0) | 4:12 | 2022-03-29 | 2022-04-13 |
 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 | 2021-12-23 | 2022-06-12 |
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE \(Sa\-Fire\)](https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-11 |  |
+| [I Remember You](https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Mental Coach Jegal, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2TX54rHWegMmVQOiP4JYQ3) | 3:11 | 2022-09-28 |  |
 | [I should not have loved you](https://open.spotify.com/track/7Lh0QrzQGaGT9kRL5Qh1VO) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [I should not have loved you](https://open.spotify.com/album/5LpHtHXao9VkOGwci1aFLZ) | 3:59 | 2022-01-27 | 2022-07-01 |
 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 | 2022-08-18 |  |
 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 | 2021-12-20 | 2022-07-05 |

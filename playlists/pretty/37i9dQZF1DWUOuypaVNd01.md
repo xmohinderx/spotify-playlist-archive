@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,546 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,586 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 19 | [1.5.7](https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Favelado Chique](https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV) | 2:43 |
 | 20 | [Esculpido a Machado](https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:00 |
 | 21 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
-| 22 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
-| 23 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
+| 22 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
+| 23 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 24 | [CRIME](https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:08 |
 | 25 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
 | 26 | [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2Mzk1OTM5MywwMDAwMDAwMGFjYzg5ZjBhYTg0NDY2M2ExZTVkMjMwM2Q0NDk3MTQz`
+Snapshot ID: `MTY2Mzk1OTM5MywwMDAwMDAwMDY5ZjRjYjRjMWM1ODk4ZTVmMzJiZGMxNTJjZGY2N2M0`

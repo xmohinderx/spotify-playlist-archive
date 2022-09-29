@@ -4,7 +4,7 @@
 
 > Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
-202 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
+203 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 | 2022-01-28 |  |
 | [El Esqueleto](https://open.spotify.com/track/2XHv1QYegQzArbPjt4wVvg) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3vhkUEGWwSWPABTcLFdXt5) | 3:45 | 2022-01-28 | 2022-07-29 |
 | [El Final](https://open.spotify.com/track/1lKGXLF8vDE6PtHDhNSVgW) | [Rostros Ocultos](https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib) | [El Final](https://open.spotify.com/album/2ekjBFYsOGsnEIrMoiYz8a) | 3:51 | 2022-01-28 | 2022-06-16 |
+| [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2022-01-28 |  |
 | [El Loco](https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 3:38 | 2022-01-28 | 2022-07-25 |
 | [El Microbito](https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rock Latino](https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI) | 2:36 | 2022-01-28 |  |
 | [El Microbito](https://open.spotify.com/track/7iuiYuD6nYijpLSYvUOv20) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Recupera tus Clásicos \- Fobia](https://open.spotify.com/album/39wqLGypRpdofU9MEM9bl1) | 2:37 | 2022-01-28 | 2022-07-29 |
@@ -175,7 +176,7 @@
 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:44 | 2022-01-28 |  |
 | [Santo y Lunave](https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:50 | 2022-01-28 | 2022-06-26 |
 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 | 2022-01-28 | 2022-07-17 |
-| [Si Senor](https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:13 | 2022-01-28 |  |
+| [Si Senor](https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:13 | 2022-01-28 | 2022-09-29 |
 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 | 2022-01-28 |  |
 | [Si Te Vienen a Contar](https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL) | 3:39 | 2022-01-28 | 2022-07-20 |
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 | 2022-01-28 |  |

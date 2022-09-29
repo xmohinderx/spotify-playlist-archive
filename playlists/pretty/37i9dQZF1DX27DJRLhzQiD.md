@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Andrekza y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,330 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,333 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 29 | [Vuelve Conmigo](https://open.spotify.com/track/2BC7i4R4VYEpS4Z7n5DnEk) | [Agrupación Lérida](https://open.spotify.com/artist/69G64cEF3dvIU24OpNkDp6) | [Vuelve Conmigo](https://open.spotify.com/album/7MzVUXfTzdZelck07TcVt5) | 3:44 |
 | 30 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 |
 | 31 | [Tears at Bae](https://open.spotify.com/track/6pENXPucJChxJiDRnww8ds) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/3vi5FG3o3lIdbGG6Ztu3JF) | 3:22 |
-| 32 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 |
+| 32 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 |
 | 33 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 |
 | 34 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 |
 | 35 | [Haz Que Suceda](https://open.spotify.com/track/536jJ35C2ffUenqA9e2JMx) | [María Buendía](https://open.spotify.com/artist/6Homgh6CeRc8pXDca1xmxw) | [Haz Que Suceda](https://open.spotify.com/album/3xPOdaKfRdSs39dEhWy04J) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 59 | [La Flor de Canela](https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [The Platinum Collection](https://open.spotify.com/album/2LmwGG63vYukETIXU71Sc0) | 3:20 |
 | 60 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 |
 
-Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMDM0MDFlOTI4M2QxMjk4MWI4ZjE5YTU1NzM0YWE4Njgz`
+Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMGY3YjdlYzMyM2M2OTU1ZDJlZWNmOGJjNWZkNzYwNzJj`

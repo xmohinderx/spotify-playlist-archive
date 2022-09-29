@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-196 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+197 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 | 2022-03-18 | 2022-07-31 |
 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 | 2022-06-06 | 2022-06-24 |
 | [Alaoui \- live](https://open.spotify.com/track/1LyIdcBndNywjCzOAPKWaO) | [Orchestre National De Barbes](https://open.spotify.com/artist/5N3sPtDHs7cuLS1CUwc5Cw) | [en concert](https://open.spotify.com/album/3YE9FR1smbDWlubFqkHc49) | 7:02 | 2022-06-06 | 2022-06-24 |
+| [All Of Me](https://open.spotify.com/track/2RYCv0sOwldPBw3G4hrrU4) | [Alina K](https://open.spotify.com/artist/4cNCIzhz2bXKGk9aNPtxUq) | [All Of Me](https://open.spotify.com/album/53c2TfoYsS6pTGsaWaHJD1) | 2:29 | 2022-09-28 |  |
 | [Allaoui](https://open.spotify.com/track/7AMdQRt35oIv44tXLMEH4l) | [Hanini](https://open.spotify.com/artist/3ZWO3AKohnk7e25w2kXTpn) | [Africains du Nord](https://open.spotify.com/album/0MyVuPEM6RaKtGXrPv8tC2) | 4:09 | 2022-06-06 | 2022-06-24 |
 | [Allaoui & N'hari \(Version 1\)](https://open.spotify.com/track/0sfRMPvT6MlYhWmpKMxi0G) | [Baghdad Mimouni & Troupe](https://open.spotify.com/artist/73M1PTYMuiJ047ImFliZS4) | [Allaoui & N'hari](https://open.spotify.com/album/6iPgIXJR9hD1zFpx7ebD4B) | 6:10 | 2022-06-06 | 2022-06-24 |
 | [Amazing](https://open.spotify.com/track/79jaXPnfIMOQj5Qj6j8D1p) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [IQ](https://open.spotify.com/artist/5TblKpRNNIvsQoYPAQDVoB) | [Amazing](https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ) | 3:17 | 2021-12-16 |  |
@@ -120,7 +121,7 @@
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 |  |
 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 | 2021-12-16 | 2022-07-29 |
-| [Mirror a Dream](https://open.spotify.com/track/5BlIOZm2busMAvV8jDN5b1) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/5VcSRDAkuMRgUn0ur6dV17) | 3:27 | 2022-07-28 |  |
+| [Mirror a Dream](https://open.spotify.com/track/5BlIOZm2busMAvV8jDN5b1) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/5VcSRDAkuMRgUn0ur6dV17) | 3:27 | 2022-07-28 | 2022-09-29 |
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 |  |
 | [Move Slow](https://open.spotify.com/track/1nvMrDnwLUlGbOD4c6uz22) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/2G6xTqixe8KquylPhawIeJ) | 2:54 | 2022-07-28 |  |
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 | 2022-07-29 |

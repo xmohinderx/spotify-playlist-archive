@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi?si=oRu6rSrMSJaL\_1p1A\_vzRA">Punk Mbedzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,888 likes - 70 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,911 likes - 70 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

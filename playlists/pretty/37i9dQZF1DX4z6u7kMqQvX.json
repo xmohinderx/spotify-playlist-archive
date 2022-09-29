@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 85865,
+  "num_followers": 85940,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDk0YTQ0NzkwNWQ1NThlZTQ4NDk2MTcwZTUxM2Q0MzZk",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDBmMTE3Yzk5ZGNhMzk1YjU1MjExMDhjNmQ0ZDRiMzAw",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "1312 (Portarme Mal)",
         "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 218613,
       "name": "1312 (Portarme Mal)",
       "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 189695,
       "name": "Mira",
       "url": "https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Dulce Mal",
-        "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
-      },
-      "artists": [
-        {
-          "name": "The Chamanas",
-          "url": "https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk"
-        }
-      ],
-      "duration_ms": 242046,
-      "name": "Dulce Mal",
-      "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "La Casa No Existe",
         "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+        "name": "Dulce Mal",
+        "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
       "artists": [
         {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+          "name": "The Chamanas",
+          "url": "https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk"
         }
       ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
+      "duration_ms": 242046,
+      "name": "Dulce Mal",
+      "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
       },
       "artists": [
         {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
         }
       ],
-      "duration_ms": 122456,
-      "name": "Por Amor al Arte",
-      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1535,6 +1519,54 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Usted Se\u00f1alemelo",
+        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 122456,
+      "name": "Por Amor al Arte",
+      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Te Pense un Monton",
+        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 144179,
+      "name": "Te Pense un Monton",
+      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Crucero Cristal",
         "url": "https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E"
       },
@@ -1547,26 +1579,6 @@
       "duration_ms": 177368,
       "name": "Sue\u00f1o Tsunami",
       "url": "https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Un Vaso de Agua",
-        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
-      },
-      "artists": [
-        {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        },
-        {
-          "name": "Hern\u00e1n Segret",
-          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
-        }
-      ],
-      "duration_ms": 88957,
-      "name": "Si No Es As\u00ed",
-      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1587,18 +1599,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Te Pense un Monton",
-        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
+        "name": "Un Vaso de Agua",
+        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Hern\u00e1n Segret",
+          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Te Pense un Monton",
-      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+      "duration_ms": 88957,
+      "name": "Si No Es As\u00ed",
+      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Antibi\u00f3ticx",
-        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Abriendo Latidos",
         "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "TKM",
-        "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
+        "name": "Antibi\u00f3ticx",
+        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 230687,
-      "name": "TKM",
-      "url": "https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy"
+      "duration_ms": 255750,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
     }
   ],
   "unique_name": "Amor Indie",

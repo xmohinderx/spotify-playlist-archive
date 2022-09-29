@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-491 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+492 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 | 2022-05-17 | 2022-08-06 |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:49 | 2021-12-12 | 2022-09-28 |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-10-23 | 2021-12-12 |
-| [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-08-15 |  |
+| [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-08-15 | 2022-09-29 |
 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 | 2022-06-19 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-30 | 2022-08-08 |
 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo \(ao Vivo\)](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 | 2021-03-27\* | 2021-06-16 |
@@ -453,6 +453,7 @@
 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 | 2021-03-29 | 2021-04-07 |
 | [Ultra Som](https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 1:54 | 2021-06-27 | 2021-06-28 |
 | [Un Ratito](https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Un Ratito](https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B) | 3:14 | 2022-01-15 | 2022-01-17 |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-28 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 |  |
 | [Ur Baby \(feat\. Khalid\)](https://open.spotify.com/track/66wc7tEC6OapOuvRx1ncbD) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:43 | 2022-04-14 | 2022-04-16 |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2021-06-14 | 2021-11-08 |

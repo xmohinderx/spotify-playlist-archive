@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 970561,
+  "num_followers": 970756,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGQzYTFkNjM1OWEzMjgwMGEwODEwNmIxOGU3MWEyNTQx",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDliYWI0MDNiZDgwNWI0MDg2Yzc5ZDYzZTc1MWNhODM1",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Better Version",
-        "url": "https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "leave me",
@@ -583,6 +567,22 @@
       "duration_ms": 220539,
       "name": "leave me",
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Better Version",
+        "url": "https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Like All My Friends",
@@ -733,22 +749,6 @@
       "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Two Places at Once (Part I)",
@@ -795,6 +779,22 @@
       "duration_ms": 199395,
       "name": "Two Places at Once",
       "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "getting into",
@@ -969,22 +985,6 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Vicious",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Aftershock",
-        "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 203600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1031,6 +1031,22 @@
       "duration_ms": 202319,
       "name": "Fat Funny Friend (sadder)",
       "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Aftershock",
+        "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1065,20 +1081,20 @@
       "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1101,6 +1117,22 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Don't Fade",
@@ -1115,38 +1147,6 @@
       "duration_ms": 190252,
       "name": "Don't Fade - Single Version",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Mr. Percocet",
-      "url": "https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Rooftops",
@@ -1211,22 +1227,6 @@
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl"
     },
     {
       "added_at": "2021-10-01 04:01:00",

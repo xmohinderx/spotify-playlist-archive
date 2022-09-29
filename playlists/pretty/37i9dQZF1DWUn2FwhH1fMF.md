@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs of 2021\. Cover: Becky Hill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,966 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,974 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 89 | [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 |
 | 90 | [Look at the Sky](https://open.spotify.com/track/5lXNcc8QeM9KpAWNHAL0iS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 5:09 |
 | 91 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
-| 92 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2OYfxjLnQuPo7Co1WH0Z1S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:32 |
+| 92 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2OYfxjLnQuPo7Co1WH0Z1S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti](https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:32 |
 | 93 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 |
 | 94 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 |
 | 95 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 |

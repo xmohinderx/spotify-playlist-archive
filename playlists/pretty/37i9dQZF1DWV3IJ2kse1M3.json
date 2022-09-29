@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u600e\u9ebc\u5148\u71be\u71b1\u7684\u537b\u5148\u8b8a\u51b7\u4e86\uff0c\u6162\u71b1\u7684\u537b\u505c\u4e0d\u4e86\u9084\u5728\u6cb8\u9a30\u8457\u3002",
-  "num_followers": 186642,
+  "num_followers": 186665,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA0Nzg4OSwwMDAwMDAwMDZkZDgxYjNiZWJjOGZlOGJkMzk0YTUxMDNmYzZjYjY0",
+  "snapshot_id": "MTY1NDA0Nzg4OSwwMDAwMDAwMGY1ZmYxZTZmYzk2NjYyZGNiZjdmNzc2NzhiZjVkNjQy",
   "tracks": [
     {
       "added_at": "2022-06-01 01:44:49",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-01 01:44:49",
       "album": {
-        "name": "\u6211\u611b\u4e0a\u7684",
-        "url": "https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb"
-      },
-      "artists": [
-        {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "\u731c\u4e0d\u900f",
-      "url": "https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix"
-    },
-    {
-      "added_at": "2022-06-01 01:44:49",
-      "album": {
         "name": "\u611b\u5230\u7121\u53ef\u6551\u85e5",
         "url": "https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 298426,
       "name": "\u6211\u4ee5\u70ba",
       "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
+    },
+    {
+      "added_at": "2022-06-01 01:44:49",
+      "album": {
+        "name": "\u6211\u611b\u4e0a\u7684",
+        "url": "https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "\u731c\u4e0d\u900f",
+      "url": "https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix"
     },
     {
       "added_at": "2022-06-01 01:44:49",

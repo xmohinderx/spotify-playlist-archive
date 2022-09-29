@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt"
+      },
+      "artists": [
+        {
+          "name": "Mrs Lawson",
+          "url": "https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM"
       },
@@ -743,6 +761,24 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt"
+      },
+      "artists": [
+        {
+          "name": "Mrs Lawson",
+          "url": "https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151935,
+      "name": "My Boy's Song",
+      "url": "https://open.spotify.com/track/4qOzwCfTCSwwxCo3UVBPRR"
     },
     {
       "album": {

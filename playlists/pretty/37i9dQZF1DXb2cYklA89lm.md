@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,674 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,746 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 2 | [Saturday Night](https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:28 |
 | 3 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
 | 4 | [My Love for Evermore](https://open.spotify.com/track/1pGUl6SIkUG2eOAOwMN82W) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR), [Mark 'Sparky' Philips](https://open.spotify.com/artist/0LuNFlbi83aO0G6wtclfGK) | [Buy, Beg or Steal](https://open.spotify.com/album/5H0lRv5wf1n2d27g5whpBS) | 3:24 |
-| 5 | [Outlaw Heart](https://open.spotify.com/track/3Hdo4483lsHuLJsW6CQx3R) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Tiger Army](https://open.spotify.com/album/5D1Vbk7eVsC2Kon6R10R4Q) | 3:58 |
-| 6 | [Psychobilly Freakout](https://open.spotify.com/track/6WZhyyH5Sgq2Coniznbk2B) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 2:39 |
+| 5 | [Psychobilly Freakout](https://open.spotify.com/track/6WZhyyH5Sgq2Coniznbk2B) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 2:39 |
+| 6 | [Outlaw Heart](https://open.spotify.com/track/3Hdo4483lsHuLJsW6CQx3R) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Tiger Army](https://open.spotify.com/album/5D1Vbk7eVsC2Kon6R10R4Q) | 3:58 |
 | 7 | [Walk Like A Zombie](https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Bring It On!](https://open.spotify.com/album/3erS3yV4uzIgJlJgmQUVJQ) | 4:07 |
 | 8 | [The Bottle Called](https://open.spotify.com/track/1R9GowEpMThnBGAAonp4fV) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 3:16 |
 | 9 | [Voices of the Dead](https://open.spotify.com/track/2RugXdJxSYwxavuNiBrTVN) | [Calabrese](https://open.spotify.com/artist/6mPxn8ImLflIQ8bYihQMFp) | [The Traveling Vampire Show](https://open.spotify.com/album/2GPQQsJWPxf4M5LQObwluC) | 2:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 47 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
 | 48 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 | 49 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
-| 50 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
+| 50 | [She's a Ghost](https://open.spotify.com/track/3tKoGCW6e2JExbv8QmyG6E) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [She's a Ghost](https://open.spotify.com/album/5k9IJ7EoaD0nNv431G01Fp) | 3:44 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDFjMTUwM2Q5YzI2N2QyNDUwZGM0OGIxNDBjZTU2NDZj`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDc2NzI0MWQzODQ4ZjVlMWYzNzdmMjE5YmNjZGVkM2Vh`

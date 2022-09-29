@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 29334,
+  "num_followers": 29390,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGEzMDE0NzdlZjk1YWY1MmViMDI4NThlNTk0M2NlZTc5",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGYzZTk5MTgyYjgzM2VjYTM0NjBiMzNhZDQ1MmY4ZDcw",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -232,8 +232,8 @@
           "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         },
         {
-          "name": "Dune",
-          "url": "https://open.spotify.com/artist/1SL5Lw7u04k4ujOUPazMwF"
+          "name": "Charles May",
+          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
         }
       ],
       "duration_ms": 386360,
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Norma Jean",
+        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Wright",
+          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Norma Jean",
-        "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean Wright",
-          "url": "https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Turn the Beat Around - 7\" Single Edit",
-      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 245493,
       "name": "You Can't Hide from Yourself",
       "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Turn the Beat Around - 7\" Single Edit",
+      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 388920,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "No One Gets The Prize",
+      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Miss Gladys Knight",
+        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 351453,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 429813,
-      "name": "Angel in My Pocket - Extended Version",
-      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 460880,
       "name": "I Wanna Be With You",
       "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 429813,
+      "name": "Angel in My Pocket - Extended Version",
+      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
     },
     {
       "added_at": "2022-09-12 22:27:59",

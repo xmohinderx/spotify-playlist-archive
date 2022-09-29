@@ -4,7 +4,7 @@
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-184 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
+185 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Nail Tech](https://open.spotify.com/track/0OpJ7UO05ccyRpMw0DeuDV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/7mN3UTHLfQh3ui4Opuiu3g) | 3:25 | 2022-09-22 |  |
 | [Nasty \- Foreign Air Remix](https://open.spotify.com/track/0xIBTPTXVv4FpFmWB8P8c8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Nasty \(Foreign Air Remix\)](https://open.spotify.com/album/0GpmosM4tXVaMx8KqZMlkg) | 3:00 | 2022-05-02 | 2022-06-04 |
 | [Never Change \- The Caracal Project Remix](https://open.spotify.com/track/3qbhmQDszVZFSlDQ4GyFRG) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [I Killed The Orchestra \(Remixes\)](https://open.spotify.com/album/7hYhuyrEL2M77n7KMNdgWU) | 3:08 | 2022-07-15 | 2022-09-23 |
+| [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2022-09-22 |  |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2022-09-22 |  |
 | [on hold](https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [on hold](https://open.spotify.com/album/6GFEQWEDiLWBhJi1oXYwyZ) | 2:55 | 2022-07-15 | 2022-09-23 |
 | [one like this](https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0) | [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [one like this](https://open.spotify.com/album/3kDADEhJSlFYpKIVx237uX) | 3:10 | 2022-05-02 | 2022-06-03 |
@@ -189,7 +190,7 @@
 | [Yellow Cab](https://open.spotify.com/track/3MiF6xSyLFE06XIHSq5SZT) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2022-05-02 | 2022-06-01 |
 | [Your Touch](https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF) | 3:45 | 2022-05-02 | 2022-06-04 |
 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 | 2022-05-02 | 2022-09-23 |
-| [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-22 |  |
+| [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-22 | 2022-09-29 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-05-02 | 2022-06-04 |
 | [追梦赤子心](https://open.spotify.com/track/0BqJyEqlCTtLU9OKnhJFXO) | [GALA](https://open.spotify.com/artist/3Mf90RF2pgS9TaqVDPX9UR) | [追梦痴子心](https://open.spotify.com/album/0Qml95Ia2zN9P0pjXxwOAc) | 5:17 | 2022-05-02 | 2022-06-04 |
 

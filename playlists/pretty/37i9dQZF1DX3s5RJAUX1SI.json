@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 39316,
+  "num_followers": 39374,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDhkZDFkNDU4NTlmNDVmZDhlMGEwMmFmYjVkMGU0MzMy",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGNjZmMyOTZjMjkzNDdlYzc0OWIwNTNkMDAxODg3YjBj",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -691,22 +691,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "La Vida (Deluxe)",
-        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 184946,
-      "name": "Te Dejo Libre",
-      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
+      "duration_ms": 158190,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
+        "name": "La Vida (Deluxe)",
+        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 158190,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
+      "duration_ms": 184946,
+      "name": "Te Dejo Libre",
+      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
     },
     {
       "added_at": "2022-08-03 16:09:42",

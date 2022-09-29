@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 Naska in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,325 likes - 77 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,411 likes - 77 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 36 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 |
 | 37 | [SONO PAZZO DI TE!?](https://open.spotify.com/track/7CcbOXv6E8JJQQT3cSHg2y) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [SONO PAZZO DI TE!?](https://open.spotify.com/album/6HnH8uK0OuGF730D7BF6nD) | 2:46 |
 | 38 | [UN CASSETTO DI LACRIME](https://open.spotify.com/track/7dLxR2WIxWxrm9iccELI6Y) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh) | [UN CASSETTO DI LACRIME](https://open.spotify.com/album/72fjREfFH9cBp1mSlRmGAu) | 2:40 |
-| 39 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
+| 39 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN \(Deluxe\)](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
 | 40 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 41 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 42 | [STANOTTE](https://open.spotify.com/track/3XfC4Z9zd7zqumicT5ncwZ) | [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639), [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [OCCHI DIVERSI STESSI LIVIDI](https://open.spotify.com/album/40BvGa3B1yjcGZ5FEySYja) | 2:16 |

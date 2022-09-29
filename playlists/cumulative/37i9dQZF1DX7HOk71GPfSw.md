@@ -4,7 +4,7 @@
 
 > ft\. Yameii Online
 
-1,437 songs - 2 day 17 hr 17 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,438 songs - 2 day 17 hr 21 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1279,6 +1279,7 @@
 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 | 2020-10-13\* | 2021-02-10 |
 | [three cheers \(for worst fears\)](https://open.spotify.com/track/5JX9Zy4sTbhmXKub1rcwbC) | [Bleachh](https://open.spotify.com/artist/08JIRTIjSUPGQduJFVDXU2) | [three cheers \(for worst fears\)](https://open.spotify.com/album/16ceqSiRUZrf1YEnL4954c) | 1:28 | 2021-04-19 | 2021-09-15 |
 | [three feet tall 2010](https://open.spotify.com/track/1J2dCHRbpqzSpWFxglxBqG) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [thislandis](https://open.spotify.com/artist/0w55l1SoTkaZTig6KFIdk7) | [three feet tall 2010](https://open.spotify.com/album/1v4rnYjMeAdhj7qaA9NHng) | 2:39 | 2021-04-20 | 2021-09-22 |
+| [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-09-28 |  |
 | [Throatzillaaa](https://open.spotify.com/track/4BlT9iLV7q97uPfzA2f3LQ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Throatzillaaa](https://open.spotify.com/album/77EcVLpFeUi4oiUeaF36uO) | 3:05 | 2020-11-14 | 2021-07-15 |
 | [THUMBTAX](https://open.spotify.com/track/7wPKLSzl6SfJbzUcIuxSSz) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [THUMBTAX](https://open.spotify.com/album/0wJ2NI4f1oKkiEbD6hpV3j) | 2:30 | 2022-05-11 | 2022-07-09 |
 | [THUMP](https://open.spotify.com/track/2c7LWtI9d1lGmQDAJa6NaL) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [THUMP](https://open.spotify.com/album/04dbthOSE7NnVLYGmhopl8) | 2:34 | 2021-07-24 | 2022-01-13 |

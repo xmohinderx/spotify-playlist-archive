@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Heriti\u00e9r, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: New Husband, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -269,6 +269,24 @@
       "duration_ms": 119000,
       "name": "Ah Oke",
       "url": "https://open.spotify.com/track/5LVKCKBN4u37YNFxlq4jen"
+    },
+    {
+      "album": {
+        "name": "AIIWO",
+        "url": "https://open.spotify.com/album/4sydfLJRNEKm90ka4cy6mS"
+      },
+      "artists": [
+        {
+          "name": "Phantom Youth",
+          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "AIIWO",
+      "url": "https://open.spotify.com/track/3FTjiO85PtTwTPfdTu6Wl8"
     },
     {
       "album": {
@@ -726,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4fxXduBgKbNpiOjq2DSZVT"
+      },
+      "artists": [
+        {
+          "name": "Kliffs",
+          "url": "https://open.spotify.com/artist/3SUCYwCglnvQ1kTaYb3vMS"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175307,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/1nmsQfX5xgz6LRr054LCKJ"
+    },
+    {
+      "album": {
         "name": "Bicycle Day",
         "url": "https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH"
       },
@@ -795,6 +831,28 @@
       "duration_ms": 217142,
       "name": "Bitter Caroline",
       "url": "https://open.spotify.com/track/0EtpFsYDkxcjKUTLE72kMl"
+    },
+    {
+      "album": {
+        "name": "Black Horses",
+        "url": "https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo"
+      },
+      "artists": [
+        {
+          "name": "Lucy 22",
+          "url": "https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg"
+        },
+        {
+          "name": "Indieclimb",
+          "url": "https://open.spotify.com/artist/5wk5mLirrHPNbkvor0f5S2"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275667,
+      "name": "Black Horses",
+      "url": "https://open.spotify.com/track/1t9tVgHKBxVXqJapWlvakJ"
     },
     {
       "album": {
@@ -1319,10 +1377,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 167942,
       "name": "Cold Lanes",
       "url": "https://open.spotify.com/track/4WMffiJmILOIg1gUlvOSgo"
+    },
+    {
+      "album": {
+        "name": "Come, Show Me the Horizon",
+        "url": "https://open.spotify.com/album/4LrZ7MtQTLSLdxJJN94Mo2"
+      },
+      "artists": [
+        {
+          "name": "CHAPAUKO",
+          "url": "https://open.spotify.com/artist/37xOQSfOjr65w6NSAC6uZw"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188755,
+      "name": "Come, Show Me the Horizon",
+      "url": "https://open.spotify.com/track/72owOvEGttiWajeDRBA7Cy"
     },
     {
       "album": {
@@ -2272,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "Fallen Enemies EP",
+        "url": "https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259660,
+      "name": "Fallen Enemies",
+      "url": "https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2"
+    },
+    {
+      "album": {
         "name": "Fake Nails",
         "url": "https://open.spotify.com/album/52JHP8MgyTDqhjWMkwLQC1"
       },
@@ -2797,7 +2891,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 198513,
       "name": "Good Days Come'n'go",
       "url": "https://open.spotify.com/track/2jEsjPw6auclioCtEtnN0M"
@@ -2869,7 +2963,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 181411,
       "name": "Gretchenfragen",
       "url": "https://open.spotify.com/track/1tX2EavkhmkI1RSFDMqv68"
@@ -3129,7 +3223,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 227500,
       "name": "Hi-Res",
       "url": "https://open.spotify.com/track/2kaDDLAjDyxne96vNv1Cbj"
@@ -3465,6 +3559,24 @@
       "duration_ms": 178201,
       "name": "I Wanna Leave",
       "url": "https://open.spotify.com/track/0tyb4R408TWXTM3s06pJjn"
+    },
+    {
+      "album": {
+        "name": "I will not end up like this",
+        "url": "https://open.spotify.com/album/13eNC0IlDaNhc64oqQnFvC"
+      },
+      "artists": [
+        {
+          "name": "APE DOS MIL",
+          "url": "https://open.spotify.com/artist/0JmUfMU2PGT0wbmbcMMPMT"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232726,
+      "name": "I will not end up like this",
+      "url": "https://open.spotify.com/track/3iGO0YuF9Kf9IcxPYg31VI"
     },
     {
       "album": {
@@ -4695,6 +4807,24 @@
     {
       "album": {
         "name": "Moon",
+        "url": "https://open.spotify.com/album/6umOJUFPsLL61uMz9EWlfc"
+      },
+      "artists": [
+        {
+          "name": "Daisy Dreams",
+          "url": "https://open.spotify.com/artist/6TIvQNhq6REjz0XODFtyv0"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260911,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/2DBD8h2QL9IwLBvwqKGwsV"
+    },
+    {
+      "album": {
+        "name": "Moon",
         "url": "https://open.spotify.com/album/0pCXZ3lTJdj2X8JNZlvBYz"
       },
       "artists": [
@@ -5108,6 +5238,24 @@
     },
     {
       "album": {
+        "name": "Oasen aus Beton",
+        "url": "https://open.spotify.com/album/2mIiJXegxXcGa8LFIp8URd"
+      },
+      "artists": [
+        {
+          "name": "Yellow",
+          "url": "https://open.spotify.com/artist/7zjrMyYoQlzR3h32TW6gxZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153613,
+      "name": "Oasen aus Beton",
+      "url": "https://open.spotify.com/track/4FdBzucjtVBglF8SR6kz7l"
+    },
+    {
+      "album": {
         "name": "obsessed",
         "url": "https://open.spotify.com/album/1pIJRzCEwf8QMlX5F2SwFa"
       },
@@ -5155,7 +5303,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 196500,
       "name": "Off without me",
       "url": "https://open.spotify.com/track/0vcnXfIzcZtOPLxFLCp5Yx"
@@ -6039,7 +6187,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 201880,
       "name": "Routine",
       "url": "https://open.spotify.com/track/5JLnA176P8AozeI8AVlvvA"
@@ -6263,6 +6411,24 @@
       "duration_ms": 240000,
       "name": "shiver",
       "url": "https://open.spotify.com/track/5C5AgNK83NEKe3Du8Et0SL"
+    },
+    {
+      "album": {
+        "name": "Shyboy",
+        "url": "https://open.spotify.com/album/49xgpzBLPlwh6L4eBGnYKk"
+      },
+      "artists": [
+        {
+          "name": "New Husband",
+          "url": "https://open.spotify.com/artist/5RtoIBmlv8Isnzl8Kq8jLb"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "Shyboy",
+      "url": "https://open.spotify.com/track/5g7Ee15wMEweVX7vbbakTO"
     },
     {
       "album": {
@@ -6751,7 +6917,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 213444,
       "name": "Still Remain",
       "url": "https://open.spotify.com/track/5fgA1yQPLfMn7j1kxM8bLV"
@@ -7411,7 +7577,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 195925,
       "name": "Traces",
       "url": "https://open.spotify.com/track/5KhnrnJduaIeG7qq7Kly1Y"
@@ -7501,7 +7667,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 147173,
       "name": "Twenty",
       "url": "https://open.spotify.com/track/5Sh1hvM9MrUpIB5Svb7joM"
@@ -7858,6 +8024,28 @@
     },
     {
       "album": {
+        "name": "Weltraumarmee",
+        "url": "https://open.spotify.com/album/0bZKU0cvyL2M4poWpIJq77"
+      },
+      "artists": [
+        {
+          "name": "David Novell",
+          "url": "https://open.spotify.com/artist/6hPMWScKjeP9uCSYBQwOlt"
+        },
+        {
+          "name": "PlaGu",
+          "url": "https://open.spotify.com/artist/1A3DOlWYUWbm9NQ4fIuXUD"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222403,
+      "name": "Weltraumarmee",
+      "url": "https://open.spotify.com/track/3PjRZwzojOxrgZBjhNW7sz"
+    },
+    {
+      "album": {
         "name": "Wenn Du",
         "url": "https://open.spotify.com/album/35pwfi474QiorKRdbWVn7F"
       },
@@ -7995,7 +8183,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 347354,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/6CM9jC5awxxejLpNtumCH2"

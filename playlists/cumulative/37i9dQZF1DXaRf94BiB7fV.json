@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Akshath, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Anubha Bajaj, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -139,6 +139,28 @@
       "duration_ms": 226280,
       "name": "Aadmi Chutiya Hai",
       "url": "https://open.spotify.com/track/2PEJKORCdmceTW2cgTkHv5"
+    },
+    {
+      "album": {
+        "name": "Aaftabi",
+        "url": "https://open.spotify.com/album/0hgqbHnnL5Tobv8l6TyE86"
+      },
+      "artists": [
+        {
+          "name": "Saurabh Gupta",
+          "url": "https://open.spotify.com/artist/399Wm02p9KmXxCBcguYrRK"
+        },
+        {
+          "name": "Navdeep Dwivedi",
+          "url": "https://open.spotify.com/artist/4X0ns3xMj7uAjv8x9N01pF"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191537,
+      "name": "Aaftabi",
+      "url": "https://open.spotify.com/track/68BjRqJvavHHlOEM9tTZoP"
     },
     {
       "album": {
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 186725,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3fiJON79NQ5PfWniQ6EK3i"
@@ -1570,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "But Tonight I Wanna Cry",
+        "url": "https://open.spotify.com/album/3CxRgnO2q1AsQRdd1a5jrj"
+      },
+      "artists": [
+        {
+          "name": "Mallika Mehta",
+          "url": "https://open.spotify.com/artist/57soIt7VgptHX29INBWswO"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "But Tonight I Wanna Cry",
+      "url": "https://open.spotify.com/track/5PaRHskfB55P8qWCDMQYXt"
+    },
+    {
+      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/5EZFGNdUPsb6hVKkl1wjcE"
       },
@@ -2233,7 +2273,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 259578,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a"
@@ -3004,6 +3044,24 @@
     },
     {
       "album": {
+        "name": "Ghar Pe Kadam",
+        "url": "https://open.spotify.com/album/1yemy0XB1WOSh0vnP1XPsG"
+      },
+      "artists": [
+        {
+          "name": "Vipin Singh",
+          "url": "https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177617,
+      "name": "Ghar Pe Kadam",
+      "url": "https://open.spotify.com/track/257GwIhbgQ2E4xaFgE8wSU"
+    },
+    {
+      "album": {
         "name": "Gimme some of that",
         "url": "https://open.spotify.com/album/5VUzAn9z7xlFaLD3hC9ngG"
       },
@@ -3081,7 +3139,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 272000,
       "name": "Gulaab",
       "url": "https://open.spotify.com/track/7MGBVRDJQ6zxx18FhvqzSP"
@@ -3197,7 +3255,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 192134,
       "name": "haye.",
       "url": "https://open.spotify.com/track/5Ny3h0JdpRxWsD0TvVzYGz"
@@ -3267,7 +3325,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 257907,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/4J7sxlNaK7mZldW0swZYGQ"
@@ -3628,6 +3686,24 @@
     },
     {
       "album": {
+        "name": "songs i wrote on the bathroom floor",
+        "url": "https://open.spotify.com/album/4ptzoNurzgzNWDsfNLooIm"
+      },
+      "artists": [
+        {
+          "name": "MEHR",
+          "url": "https://open.spotify.com/artist/5taDTOB63KA2s63VcVMay8"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270947,
+      "name": "i'll find you",
+      "url": "https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34"
+    },
+    {
+      "album": {
         "name": "I'm Going Solo",
         "url": "https://open.spotify.com/album/6AFCoYrVlgxRzfKDSVZtvn"
       },
@@ -3737,7 +3813,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 199098,
       "name": "If the Night Is Dark",
       "url": "https://open.spotify.com/track/54iWe5iLSfKieC0iVUA1Y3"
@@ -4389,7 +4465,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 208000,
       "name": "June",
       "url": "https://open.spotify.com/track/7d6f9zD2juTcmHvStiYQ1T"
@@ -4748,6 +4824,40 @@
     },
     {
       "album": {
+        "name": "Kaise Tujhko Bhulau",
+        "url": "https://open.spotify.com/album/4blu6BAXqN1Nx7WraxWI9n"
+      },
+      "artists": [
+        {
+          "name": "Kaptaans",
+          "url": "https://open.spotify.com/artist/0C7ekQgsbIA9ptB2TlwXvg"
+        },
+        {
+          "name": "Agni Varan Ruhela",
+          "url": "https://open.spotify.com/artist/5PDvs9cePuBWfxMfijRj27"
+        },
+        {
+          "name": "Palkesh Agrawal",
+          "url": "https://open.spotify.com/artist/43t6NvoTSqqNVgbzwof5QT"
+        },
+        {
+          "name": "Taveeshi Sharma",
+          "url": "https://open.spotify.com/artist/2F7ceqBXoFPYveTT25Jiqp"
+        },
+        {
+          "name": "Aawara",
+          "url": "https://open.spotify.com/artist/41qnIlfNy8cuCQJ7PA5GFc"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213043,
+      "name": "Kaise Tujhko Bhulau",
+      "url": "https://open.spotify.com/track/6QjyaRsVkCD981XBZ78lP1"
+    },
+    {
+      "album": {
         "name": "Kajal",
         "url": "https://open.spotify.com/album/32to0L2NoX1iB1PAgAijvu"
       },
@@ -4975,6 +5085,24 @@
       "duration_ms": 284215,
       "name": "Khoye Khoye",
       "url": "https://open.spotify.com/track/4MIevQx8eo9FZEYrPX0NMN"
+    },
+    {
+      "album": {
+        "name": "Khoye Sitaare",
+        "url": "https://open.spotify.com/album/6GuEZfKWiIRRjvc4Duj59c"
+      },
+      "artists": [
+        {
+          "name": "Vaibhav Malhotra",
+          "url": "https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192145,
+      "name": "Khoye Sitaare",
+      "url": "https://open.spotify.com/track/6NRo2j6SVDo7xx9lVkCIlY"
     },
     {
       "album": {
@@ -7854,6 +7982,24 @@
     },
     {
       "album": {
+        "name": "Raat ki baahon mein",
+        "url": "https://open.spotify.com/album/20VuWlOqoE5YF5WOczDsno"
+      },
+      "artists": [
+        {
+          "name": "Rahul Thapa",
+          "url": "https://open.spotify.com/artist/5ms3i2JA5fVPh0lt2fxjdy"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "Raat ki baahon mein",
+      "url": "https://open.spotify.com/track/6JGdAT7sqT9KmAb6lTgjo9"
+    },
+    {
+      "album": {
         "name": "Raatein Soyi Hain",
         "url": "https://open.spotify.com/album/62vXf12Rp2x06SdQeBBOjS"
       },
@@ -8444,6 +8590,24 @@
     },
     {
       "album": {
+        "name": "Sabra",
+        "url": "https://open.spotify.com/album/3AjZDOTnekRPl8RKb0ZVym"
+      },
+      "artists": [
+        {
+          "name": "Usman Shaikh",
+          "url": "https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398487,
+      "name": "Sabra",
+      "url": "https://open.spotify.com/track/1XTmU27elAyFrt6fYk2EwU"
+    },
+    {
+      "album": {
         "name": "sach kehne do",
         "url": "https://open.spotify.com/album/6inpvK9rL0BtQY9e6pcZVi"
       },
@@ -8455,7 +8619,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 206400,
       "name": "sach kehne do",
       "url": "https://open.spotify.com/track/73efP3SdBvpmOZHQSceiFQ"
@@ -8724,6 +8888,24 @@
     },
     {
       "album": {
+        "name": "Saza",
+        "url": "https://open.spotify.com/album/6hVPhyFPvJe7NT0fCaq5pD"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Saza",
+      "url": "https://open.spotify.com/track/5vl3NQ1ttgUr2pshh6nGtB"
+    },
+    {
+      "album": {
         "name": "Scarlet Skies",
         "url": "https://open.spotify.com/album/0rZ3ecLj2GVFLQwmzfDuu9"
       },
@@ -8739,7 +8921,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 235762,
       "name": "Scarlet Skies",
       "url": "https://open.spotify.com/track/7cfkaa99FlcyqXiuHCELMw"
@@ -8775,7 +8957,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 235789,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/1eZKFaTfbapjbF71VNmK1B"
@@ -9669,7 +9851,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 237081,
       "name": "Tera Zikr",
       "url": "https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D"
@@ -9951,6 +10133,24 @@
       "duration_ms": 183813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/2x1iPG4yOBpbH2ZtKvKhRq"
+    },
+    {
+      "album": {
+        "name": "Those Colourful Days",
+        "url": "https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200348,
+      "name": "Those Colourful Days",
+      "url": "https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq"
     },
     {
       "album": {
@@ -10643,6 +10843,32 @@
       "duration_ms": 169500,
       "name": "Validation",
       "url": "https://open.spotify.com/track/4Geol9pXgkbXpBcHFddDtq"
+    },
+    {
+      "album": {
+        "name": "Varsaad (Secret Sessions X Collab Stories)",
+        "url": "https://open.spotify.com/album/1q8v1RbyMdVCzk2IcktOVf"
+      },
+      "artists": [
+        {
+          "name": "Kushal Chokshi",
+          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
+        },
+        {
+          "name": "Jaysinh Gadhavi",
+          "url": "https://open.spotify.com/artist/2j9NJOUFz8NgVPxtTpi9qb"
+        },
+        {
+          "name": "Munaf Luhar",
+          "url": "https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128101,
+      "name": "Varsaad (Secret Sessions X Collab Stories)",
+      "url": "https://open.spotify.com/track/2vXx4eNuzlPNVOw470M0ts"
     },
     {
       "album": {

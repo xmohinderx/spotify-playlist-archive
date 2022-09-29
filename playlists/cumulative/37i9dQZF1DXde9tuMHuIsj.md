@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-163 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+164 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 | 2022-06-03 |  |
 | [60 Barras](https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 3:07 | 2022-05-03 |  |
 | [737](https://open.spotify.com/track/6zT237u8Kb2VTtwBVTPpbe) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [737](https://open.spotify.com/album/41MmYyl9Jel3tu3Y6h7ULF) | 2:52 | 2022-04-01 | 2022-04-16 |
+| [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 | 2022-09-16 |  |
 | [Air Drop](https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Air Drop](https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf) | 3:25 | 2022-03-18 |  |
 | [AL CAPONE](https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AL CAPONE](https://open.spotify.com/album/3iYh7Zx5MpbgVttrY0JBaC) | 2:42 | 2022-03-18 | 2022-05-04 |
 | [Al Dia](https://open.spotify.com/track/4ZX3ui4xclh7h5XXCZMo3p) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Al Dia](https://open.spotify.com/album/5c7ikVWg62OlZWFC4iGOJP) | 5:15 | 2022-04-15 |  |

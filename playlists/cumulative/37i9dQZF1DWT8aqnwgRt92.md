@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-241 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+243 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Ignition!!! \- feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち](https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Ignition!!! \(feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち\)](https://open.spotify.com/album/21HSg6v7NUE1KMijeF9BNd) | 3:37 | 2022-07-07 | 2022-07-29 |
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 |  |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 | 2022-08-24 |
+| [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 |  |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-09-27 |  |
 | [Kimiiro](https://open.spotify.com/track/6cOaH9XTtUbaWpntWUpmV9) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Kimiiro](https://open.spotify.com/album/5VhIXhofvuhXuUIKlve7eU) | 3:24 | 2022-07-28 | 2022-08-03 |
@@ -130,6 +131,7 @@
 | [Under Sail](https://open.spotify.com/track/2pQneHOpBNuRYwJs83hESi) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 3:42 | 2022-09-01 | 2022-09-21 |
 | [Venus Line](https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Venus Line](https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4) | 4:37 | 2022-06-07 | 2022-07-06 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 | 2022-08-24 |
+| [Welcome to RAINBOW WONDERLAND!](https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:53 | 2022-09-27 |  |
 | [Wherever](https://open.spotify.com/track/6APr8sy2QQ069Semu8mHLI) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [Wherever](https://open.spotify.com/album/7uLHf7YtnW93JodSYUl7AE) | 3:30 | 2022-08-16 |  |
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 | 2022-09-02 |
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
@@ -153,7 +155,7 @@
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
-| [ウェルカム・トゥ・レインボーワンダーランド!](https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/4iYu17ZFXJ2CF1MEwEFKz8) | 3:53 | 2022-09-27 |  |
+| [ウェルカム・トゥ・レインボーワンダーランド!](https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/4iYu17ZFXJ2CF1MEwEFKz8) | 3:53 | 2022-09-27 | 2022-09-29 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-17 |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 |  |
@@ -206,7 +208,7 @@
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 |  |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |
-| [廻廻奇譚 \- from CrosSing](https://open.spotify.com/track/2pmkpQZLZ5XgaemmC2rKG2) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/album/0W09G6ikA8kPk9XXTOkTSU) | 3:43 | 2022-09-27 |  |
+| [廻廻奇譚 \- from CrosSing](https://open.spotify.com/track/2pmkpQZLZ5XgaemmC2rKG2) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/album/0W09G6ikA8kPk9XXTOkTSU) | 3:43 | 2022-09-27 | 2022-09-29 |
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2022-05-28 | 2022-07-01 |
 | [恋はエクスプロージョン](https://open.spotify.com/track/2dKAXekTOOuHA9fLTqvSUj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [恋はエクスプロージョン](https://open.spotify.com/album/6SVzGAC0PQpG3rGdh4GAWl) | 3:37 | 2022-05-28 | 2022-07-06 |
 | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/track/2VdBCarSytlCR9o16m2dfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [カルバリンベア \[CV:安元洋貴\]](https://open.spotify.com/artist/0finzzKMafLBuwYlmanDqe) | [恋はエクスプロージョン \-TV edit\-](https://open.spotify.com/album/2gU2RMelECGHkRvkOzth0g) | 1:30 | 2022-05-28 | 2022-06-03 |

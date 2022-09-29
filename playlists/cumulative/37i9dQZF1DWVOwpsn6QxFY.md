@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-213 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+214 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Never Coming Home](https://open.spotify.com/track/417NzypnPVicWbske0doX7) | [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Never Coming Home](https://open.spotify.com/album/7mWOGsPRO497bpKlmSRMe8) | 4:00 | 2022-03-31 | 2022-04-21 |
 | [New Conditions](https://open.spotify.com/track/4BkP6lsgSdDhNT4tMBrZL0) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/70Yah64dNgY3D7xgJwRlub) | 3:07 | 2021-11-12 | 2022-06-01 |
 | [Nice](https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Nice](https://open.spotify.com/album/3mKtcDJnJJatWsHKKaA9WR) | 3:15 | 2022-06-06 | 2022-08-13 |
+| [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-08-12 |  |
 | [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-08-12 | 2022-09-20 |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-03-31 |  |
 | [Nightmare Town](https://open.spotify.com/track/6wbiM1tYV2OSsbddUSILCt) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Nightmare Town](https://open.spotify.com/album/4Vkqv8l95KNbujVrIEPlSN) | 3:37 | 2022-03-31 | 2022-04-20 |
@@ -201,7 +202,7 @@
 | [The Ballad Of Joyce Vincent](https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [The Ballad of Joyce Vincent](https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-05-18 |
 | [The Desperate Kingdom of Love](https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [The Desperate Kingdom of Love](https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z) | 2:52 | 2021-11-12 | 2022-04-26 |
-| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 |  |
+| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 | 2022-09-29 |
 | [The Man I Admire](https://open.spotify.com/track/2c0zQJJo3IFUxMjNZqspyw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Man I Admire](https://open.spotify.com/album/0HwQQtPpXIDEah8U8udW0T) | 2:12 | 2021-11-12 | 2022-07-14 |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-27 |
 | [The Sun Won't Shine On Me](https://open.spotify.com/track/6PWC4ts0y5kxqLQz4V74hz) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [The Sun Won't Shine On Me](https://open.spotify.com/album/63r5VfmmPeBi4xadvCO5Ke) | 2:39 | 2021-11-12 | 2022-06-05 |

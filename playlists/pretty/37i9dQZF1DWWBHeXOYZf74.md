@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,367 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,277 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 60 | [Got Em \(Sango Remix\)](https://open.spotify.com/track/52b5Bl2zPRRfZi7uinhGZR) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Got Em \(Sango Remix\)](https://open.spotify.com/album/5OukqaLZOrocuTI29rBiuO) | 3:41 |
 | 61 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 62 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 |
-| 63 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
+| 63 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
 | 64 | [FUN \- yunè pinku Remix](https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [FUN \(yunè pinku Remix\)](https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo) | 2:51 |
 | 65 | [Clear Skies](https://open.spotify.com/track/6mLfIaIrbhpx1ytsnSNitZ) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Clear Skies](https://open.spotify.com/album/1huavHVsaPm2zElhR4HMUQ) | 3:04 |
 | 66 | [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 | 101 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDY4NmY5NmZkN2VjM2I1NGMwM2RjYzhjZjkzMjExODhl`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDM5OGFiN2IyOGExNjYzYzQ2MmI3MGE1MjgwYTdhN2Rj`

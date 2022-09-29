@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Cartel de Santa, Los Dos Carnales.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Remik González, Santa Fe Klan.
 
-203 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+204 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Suficiente](https://open.spotify.com/track/7uSIBQ7w0a9uCsqojVASVL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Suficiente](https://open.spotify.com/album/1RMpc2OGOJ1rDoN6eDIdlj) | 3:35 | 2022-06-22 |  |
 | [Te Dejé Volar](https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 3:41 | 2022-08-19 | 2022-08-25 |
 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 | 2022-02-24 |  |
+| [Te Invito a Mi Barrio](https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Te Invito a Mi Barrio](https://open.spotify.com/album/42zWIVSMYhtuKgx6de8aiE) | 3:58 | 2022-09-28 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-01-28 | 2022-07-23 |
 | [The Sandbox](https://open.spotify.com/track/3AFhHp6aVsx7IXm8ayV8a2) | [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [The Sandbox](https://open.spotify.com/album/7xdipVw44pdWWYwDtDyVr9) | 4:03 | 2022-08-19 | 2022-08-25 |
 | [Tirando Saco](https://open.spotify.com/track/6U0tZNSKuwAbNvT3kvezhF) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Tirando Saco](https://open.spotify.com/album/4AagE92M06irK4MRKbc5fc) | 2:42 | 2022-01-28 | 2022-04-23 |

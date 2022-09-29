@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 390776,
+  "num_followers": 390957,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMGQ3YTk1ZDA4MzNmZTliYzAxZWNhYjZiNTFhNjk3ZmJl",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDBlYmQxYTVkYjVhMjA2NTM4N2ZmZGRmOTcyY2ViZjk2",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Floating on Silence",
         "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 381864,
       "name": "Floating on Silence",
       "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -451,18 +451,34 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
         }
       ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Songs to Stay Home To",
+        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Songs to Stay Home To, Pt. I",
+      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -487,18 +503,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Songs to Stay Home To",
-        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
       },
       "artists": [
         {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
         }
       ],
-      "duration_ms": 134213,
-      "name": "Songs to Stay Home To, Pt. I",
-      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
+      "duration_ms": 176482,
+      "name": "YOU CAN DO IT",
+      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -535,22 +551,6 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Invisible Man",
-        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
-      },
-      "artists": [
-        {
-          "name": "Ayzon",
-          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
-        }
-      ],
-      "duration_ms": 176482,
-      "name": "YOU CAN DO IT",
-      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Can't see me",
         "url": "https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
       },
       "artists": [
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
         }
       ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
       },
       "artists": [
         {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
         }
       ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -687,22 +703,6 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
-      },
-      "artists": [
-        {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
-        }
-      ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 282857,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
-      },
-      "artists": [
-        {
-          "name": "goodmood",
-          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
-        }
-      ],
-      "duration_ms": 312588,
-      "name": "Ritz Carlton",
-      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -923,22 +923,6 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "199X",
-        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
+        "name": "times",
+        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
       },
       "artists": [
         {
-          "name": "Phil from Hav\u00eaa",
-          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
+          "name": "goodmood",
+          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
         }
       ],
-      "duration_ms": 213333,
-      "name": "199X",
-      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+      "duration_ms": 312588,
+      "name": "Ritz Carlton",
+      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -999,6 +983,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "199X",
+        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
+      },
+      "artists": [
+        {
+          "name": "Phil from Hav\u00eaa",
+          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "199X",
+      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
     },
     {
       "added_at": "2022-09-16 16:08:51",

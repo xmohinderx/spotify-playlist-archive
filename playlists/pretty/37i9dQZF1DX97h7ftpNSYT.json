@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: PnB Rock",
-  "num_followers": 78248,
+  "num_followers": 78403,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA5NDIzMywwMDAwMDAwMGNiYzRiMTA5YTM2NzQ0MDY2ZTRlZWIyZWFkZmM2Mjk2",
+  "snapshot_id": "MTY2MzA5NDIzMywwMDAwMDAwMDgyNGQ5YmJkOGY5MDMwYzZlNzc2NzZkMTU2MjkxZTdj",
   "tracks": [
     {
       "added_at": "2022-09-13 18:37:13",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-09-13 18:37:13",
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 301064,
+      "name": "G.O.M.D",
+      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+    },
+    {
+      "added_at": "2022-09-13 18:37:13",
+      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 232959,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
-    },
-    {
-      "added_at": "2022-09-13 18:37:13",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 301064,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
     },
     {
       "added_at": "2022-09-13 18:37:13",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-09-13 18:37:13",
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+      "duration_ms": 273151,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
     },
     {
       "added_at": "2022-09-13 18:37:13",
@@ -1647,38 +1647,18 @@
     {
       "added_at": "2022-09-13 18:37:13",
       "album": {
-        "name": "SATURATION III",
-        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 273151,
-      "name": "BLEACH",
-      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
-    },
-    {
-      "added_at": "2022-09-13 18:37:13",
-      "album": {
-        "name": "Dark Knight Dummo (Feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 256162,
-      "name": "Dark Knight Dummo (Feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD"
+      "duration_ms": 158332,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
     },
     {
       "added_at": "2022-09-13 18:37:13",
@@ -1699,6 +1679,26 @@
       "duration_ms": 233515,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT"
+    },
+    {
+      "added_at": "2022-09-13 18:37:13",
+      "album": {
+        "name": "Dark Knight Dummo (Feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 256162,
+      "name": "Dark Knight Dummo (Feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD"
     },
     {
       "added_at": "2022-09-13 18:37:13",
@@ -1851,18 +1851,30 @@
     {
       "added_at": "2022-09-13 18:37:13",
       "album": {
-        "name": "New Patek",
-        "url": "https://open.spotify.com/album/64eE6FnNj7UJ9LEkN4EbvS"
+        "name": "STAY DANGEROUS",
+        "url": "https://open.spotify.com/album/5IYvKd22yQkJRfoIStesbX"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 343099,
-      "name": "New Patek",
-      "url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud"
+      "duration_ms": 237240,
+      "name": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy"
     }
   ],
   "unique_name": "I Love My 2010s Hip-Hop",

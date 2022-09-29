@@ -4222,6 +4222,28 @@
     },
     {
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        },
+        {
+          "name": "Misdom",
+          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255846,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE"
       },

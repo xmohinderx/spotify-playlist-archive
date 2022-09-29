@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > استمع لافضل الأغاني العراقية! الغلاف: رحمة رياض
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,816 likes - 52 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,887 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 39 | [B6ela](https://open.spotify.com/track/17XYX4C5jRSsFRMgiJJc0B) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [B6ALA](https://open.spotify.com/album/5WrUyFuqqb8sVRR5SYewqg) | 2:56 |
 | 40 | [Hodhnak Mawtni](https://open.spotify.com/track/6GFJrwSjvqZsVgwWaMXs9D) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hodhnak Mawtni](https://open.spotify.com/album/71oFQ2qJ3Qza57Qh5mLVco) | 3:31 |
 | 41 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 |
-| 42 | [يما الحب](https://open.spotify.com/track/7zputQxG3bFaAuImb2575d) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7s1sSgFNtXuZeTWMpLF0fS) | 5:17 |
+| 42 | [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 |
 | 43 | [Alqut3a Alswda](https://open.spotify.com/track/5fV0f2vcMl8LWi9Y1U5sK4) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Alqut3a Alswda](https://open.spotify.com/album/0vIyyR9V6vFBYvnmulhY22) | 3:59 |
 | 44 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 |
 | 45 | [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 51 | [Qosat Hobna](https://open.spotify.com/track/1kq2AX8hKBZA2I8NExx9gf) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT), [Mustafa AlRubaiy](https://open.spotify.com/artist/1p6wrJn2I0QTJATQf7wZha) | [Qosat Hobna](https://open.spotify.com/album/2RL3oKbloORtWFekhGtmS6) | 4:35 |
 | 52 | [Halfatra](https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Halfatra](https://open.spotify.com/album/3kqgvcKUopYj5jIi2HguUq) | 3:46 |
 
-Snapshot ID: `MTY2MTU0ODgwNywwMDAwMDAwMDU3MzRmNDY1OGI1NzE1YjZjMWMzZjMzYWUzNmU1Y2Jh`
+Snapshot ID: `MTY2MTU0ODgwNywwMDAwMDAwMDQyMjE5MDBjZjdjY2E2ZGNlNzAwNmY5MzY1ZWRhZjUw`

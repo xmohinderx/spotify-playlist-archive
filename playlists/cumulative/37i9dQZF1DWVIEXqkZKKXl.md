@@ -4,7 +4,7 @@
 
 > Background scores to help you sail through the day
 
-70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5ffbZDKT29D992GCzH9rQa)
+71 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5ffbZDKT29D992GCzH9rQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Dor Theme](https://open.spotify.com/track/1kP6s97MzaVY6Vs6WQl48u) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23j7YAe0CCu2R2fxFyc31M) | 1:49 | 2022-05-04 | 2022-07-29 |
 | [Dor Theme](https://open.spotify.com/track/30Jjz3R2fgSsT6X5ne9ogr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nQuXmaVhy6FQLYyqmpxic) | 1:49 | 2022-07-08 | 2022-08-01 |
 | [Farewell Trance \- Instrumental](https://open.spotify.com/track/6NjZp0gQNFI3mytJINKFwE) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 5:47 | 2022-05-04 | 2022-07-27 |
-| [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 | 2022-07-08 |  |
+| [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 | 2022-07-08 | 2022-09-29 |
 | [Hanuman Theme](https://open.spotify.com/track/3nCtX2vQR0ZQQ8mfnbQZ8n) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman](https://open.spotify.com/album/0kee4xS02XNY2pQIke9EDr) | 3:03 | 2022-05-04 | 2022-07-29 |
 | [Heartbeat \- Instrumental](https://open.spotify.com/track/3n7qJSOyVke4JagcJ8FiSG) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 4:23 | 2022-05-04 |  |
 | [I'm On \(Theme\)](https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 1:21 | 2022-05-04 |  |
@@ -56,6 +56,7 @@
 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 | 2022-05-04 |  |
 | [Sardar Udham Theme](https://open.spotify.com/track/6km40zXhkLINWLJhkgh3sU) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 2:10 | 2022-05-04 |  |
 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 | 2022-05-04 |  |
+| [Shiva Theme \(From "Brahmastra"\)](https://open.spotify.com/track/4Ci7CYAOsJeSVeqaD4BWtZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Shiva Theme \(From "Brahmastra"\)](https://open.spotify.com/album/7apYkaf9piAZvBiMmErjFL) | 3:11 | 2022-09-29 |  |
 | [Sooryavanshi Theme](https://open.spotify.com/track/0hSi45TIuuUrmaw0GvQWDM) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Sooryavanshi](https://open.spotify.com/album/0YByaovkfVAZ9V9XEaIMdT) | 1:48 | 2022-05-04 |  |
 | [Spirit Of Rangeela](https://open.spotify.com/track/769ZdF10U29PWMq2e122fT) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rangeela](https://open.spotify.com/album/3iR8yYUh4LUsOHVHVmBiGQ) | 3:01 | 2022-05-04 | 2022-07-13 |
 | [Tango For Taj](https://open.spotify.com/track/3mLdsGVuIG0jJAn8dQFvqU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:58 | 2022-07-08 |  |

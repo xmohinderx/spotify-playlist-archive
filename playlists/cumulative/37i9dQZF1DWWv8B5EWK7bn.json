@@ -378,6 +378,24 @@
     },
     {
       "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "album": {
         "name": "Broken Melody",
         "url": "https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn"
       },
@@ -494,6 +512,32 @@
     },
     {
       "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "album": {
         "name": "When the Lights Go",
         "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
       },
@@ -523,7 +567,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 168613,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W"
@@ -793,7 +837,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 415640,
       "name": "Feed Me",
       "url": "https://open.spotify.com/track/16wmuvedj0UKCkI7ngHEai"
@@ -1233,7 +1277,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 306227,
       "name": "In Spring",
       "url": "https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A"
@@ -1269,7 +1313,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 356877,
       "name": "Is It It Or Is It i?",
       "url": "https://open.spotify.com/track/1A5oNi89DMdE06Fsacn6k5"
@@ -1623,6 +1667,24 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv"
+    },
+    {
+      "album": {
+        "name": "Lonely One",
+        "url": "https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
     },
     {
       "album": {
@@ -2524,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "Shining Armor",
+        "url": "https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "Shining Armor",
+      "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+    },
+    {
+      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -2731,6 +2811,24 @@
       "duration_ms": 170750,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
+    },
+    {
+      "album": {
+        "name": "After School Club",
+        "url": "https://open.spotify.com/album/2sxMyEBRO15qFVl7J8SPF5"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228777,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/7EJhhuBVwb6fMT5YcxD77v"
     },
     {
       "album": {
@@ -3345,7 +3443,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 451855,
       "name": "You Are Not An Island",
       "url": "https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP"

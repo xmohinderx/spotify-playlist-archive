@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,326 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,376 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 31 | [El Rey \- En Vivo](https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:21 |
 | 32 | [La Diferencia \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:37 |
 | 33 | [Popurrí Juan Gabriel](https://open.spotify.com/track/3bVBAD0ge76WPtwNGx96m2) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Canto de México: Alejandro Fernández en Vivo desde Bellas Artes](https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo) | 8:17 |
-| 34 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
+| 34 | [Propuesta \- En Vivo](https://open.spotify.com/track/4Zl5AKUay474fVyY9Rop7y) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:29 |
 | 35 | [La Diferencia](https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 3:11 |
 | 36 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:15 |
 | 37 | [Un Idiota \- En Vivo](https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:07 |
 | 38 | [Me Nace del Corazón \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/6q2RdCyxpwrAY4dpXBJiKQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:44 |
 | 39 | [No \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/0qVDR0ggGqFmiyOQQPY9k9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:27 |
-| 40 | [Propuesta \- En Vivo](https://open.spotify.com/track/4Zl5AKUay474fVyY9Rop7y) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:29 |
+| 40 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
 | 41 | [La Gran Señora \- Live](https://open.spotify.com/track/3o1P4v1P33w5Chvt5VUMUu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(Live/Deluxe\)](https://open.spotify.com/album/1nDrZypr1O0xzkrlwugYo8) | 3:50 |
 | 42 | [Albur De Amor \- En Vivo](https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [¡En Vivo!](https://open.spotify.com/album/31XZVGSpZN7OpJxSunWcmY) | 4:16 |
 | 43 | [El Rey \- En Vivo](https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMGZkZTcyNTAzYWJlMzU3MTk3YWU4ZjM1YjViYmQzYzZl`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDY1MWUzZTdmMmJkZmEwMWU0NjljNWRmNWY5MjlmNTFl`

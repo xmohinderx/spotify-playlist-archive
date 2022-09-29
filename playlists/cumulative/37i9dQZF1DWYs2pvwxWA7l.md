@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=2ioXi7ooQBqbIOnmeSfO9Q"> CKay </a>
 
-200 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
+201 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-08 | 2022-09-26 |
+| [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-08 |  |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-09-27 |  |
 | [Everything](https://open.spotify.com/track/3uNmnnXNB9mlBhit0jR75o) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 4:05 | 2021-09-27 | 2022-02-11 |
 | [Everything But You Remix \(feat\. BackRoad Gee & Young Chencs\)](https://open.spotify.com/track/1lPHY9ZgTIsG32MsmYB6Lz) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Young Chencs](https://open.spotify.com/artist/5YMGTiKafkJq2cgzBuXkYi) | [Everything But You Remix \(feat\. BackRoad Gee & Young Chencs\)](https://open.spotify.com/album/41BhXXsci7NSw4IWi4gcxR) | 2:41 | 2022-04-28 | 2022-05-03 |
@@ -113,7 +114,7 @@
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 | 2022-06-23 |  |
 | [LET YOU DOWN](https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [LET YOU DOWN](https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA) | 2:59 | 2022-01-27 | 2022-05-12 |
-| [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-09-27 |  |
+| [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-09-27 | 2022-09-29 |
 | [Loco Loco](https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Idwala](https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS) | 4:42 | 2022-08-25 | 2022-09-09 |
 | [Lonely](https://open.spotify.com/track/14iiJ4gyBO09irFz6SqAes) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:56 | 2021-09-27 | 2022-07-26 |
 | [Long Distance](https://open.spotify.com/track/3oi16KBVwrFiFCKo8T39Zb) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Spirit Animal](https://open.spotify.com/album/76xSxFUwJrxoezhhqkeicV) | 3:08 | 2021-09-23 | 2022-02-18 |

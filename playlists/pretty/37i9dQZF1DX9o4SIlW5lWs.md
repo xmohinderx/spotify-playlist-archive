@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,447 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,568 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 61 | [No Es Mi Despedida](https://open.spotify.com/track/0LxHE5QyoMy2fNQQbeY4i5) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:11 |
 | 62 | [Costumbres](https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:26 |
 | 63 | [Cosas Del Amor](https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:45 |
-| 64 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
+| 64 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 65 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
-| 66 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
+| 66 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
 | 67 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 | 68 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
 | 69 | [La Tengo Que Olvidar](https://open.spotify.com/track/6EFt4egCAPQOU95A18V5F6) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/6ClFgIBXkUyzem001BPj6P) | 3:43 |
-| 70 | [El Perdedor](https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Tambo Tambo](https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4) | 4:24 |
-| 71 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 70 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 71 | [El Perdedor](https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Tambo Tambo](https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4) | 4:24 |
 | 72 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
 | 73 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 |
 | 74 | [Con El No Soportas](https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 4:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 96 | [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 |
 | 97 | [No Estamos Los Dos](https://open.spotify.com/track/5Nf8Sx3NKVC6sGK5fUIEI4) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cumbia Casera](https://open.spotify.com/album/2ML2QNYZaJgM8lhFRg3Kp6) | 5:24 |
 | 98 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 |
-| 99 | [Vida](https://open.spotify.com/track/29QGzpYNgPJnyreE8oPXap) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vida](https://open.spotify.com/album/75sYSUD5xQ2n6tzZJ3SbCC) | 3:15 |
-| 100 | [Esa Botella](https://open.spotify.com/track/0ylPtjlBy7ZLSDdPjCHeTg) | [La Roca Callejera](https://open.spotify.com/artist/4vacbFDLabmeOOXlSAP6uc), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm), [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Esa Botella](https://open.spotify.com/album/5ISXZOJjkh6quPEKLwc1ES) | 2:58 |
+| 99 | [Esa Botella](https://open.spotify.com/track/0ylPtjlBy7ZLSDdPjCHeTg) | [La Roca Callejera](https://open.spotify.com/artist/4vacbFDLabmeOOXlSAP6uc), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm), [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Esa Botella](https://open.spotify.com/album/5ISXZOJjkh6quPEKLwc1ES) | 2:58 |
+| 100 | [Vida](https://open.spotify.com/track/29QGzpYNgPJnyreE8oPXap) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vida](https://open.spotify.com/album/75sYSUD5xQ2n6tzZJ3SbCC) | 3:15 |
 
-Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDdiMzc5MzQ2MDgxOWQ3NzRjMGU1Y2Q5ZWYxMTJmYjc3`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDUyYTVmMzkzYTkzZjY2OTFmZDg5NzMwMjM4ZGI5Zjk2`

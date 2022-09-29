@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 81497,
+  "num_followers": 81536,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMGMzMWY5NDZkOTQ0OTZlNWI3OTkzOWJiN2QyMWUyY2Rj",
+  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMGYyMmU1Mzk5ZjJmYzc5NWM5OTlmNTQ0N2VmNzQ5ODdk",
   "tracks": [
     {
       "added_at": "2022-09-23 03:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "onmyradio",
-        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "sobeautiful",
-      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Slow (feat. J Valentine)",
-        "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "J. Valentine",
-          "url": "https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg"
-        }
-      ],
-      "duration_ms": 200212,
-      "name": "Slow (feat. J Valentine)",
-      "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 167967,
       "name": "That's On You - Japanese Remix",
       "url": "https://open.spotify.com/track/56Vy5lJUoHTI90MMnyI2CM"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Slow (feat. J Valentine)",
+        "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "J. Valentine",
+          "url": "https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg"
+        }
+      ],
+      "duration_ms": 200212,
+      "name": "Slow (feat. J Valentine)",
+      "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
     },
     {
       "added_at": "2022-09-23 03:01:00",

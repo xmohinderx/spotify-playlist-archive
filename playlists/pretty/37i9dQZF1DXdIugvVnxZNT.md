@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,451 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,472 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 53 | [Shed a Light](https://open.spotify.com/track/1eyrmeiDpdTkOmA839nPVQ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:11 |
 | 54 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love](https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM) | 3:10 |
 | 55 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
-| 56 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
-| 57 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [EDM Hits](https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi) | 3:25 |
+| 56 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [EDM Hits](https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi) | 3:25 |
+| 57 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
 | 58 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 59 | [Never Felt A Love Like This \(with Hook N Sling\) \[feat\. Dotan\]](https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:35 |
 | 60 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 
-Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMDUyZGU2YjIxMDgzN2M5OWI4NmEwZGY1ODY4Yzk2NzUy`
+Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMGY2MjY2NjM1OTE5ZDYzODk1MTMxOTY2ZDljOTFhOTEx`

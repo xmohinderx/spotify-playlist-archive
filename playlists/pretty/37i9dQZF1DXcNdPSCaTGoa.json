@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 27218,
+  "num_followers": 27244,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDI2MzIxNmY5NjYwMGFlNGZjOTFmNTg1N2U4MDk1Zjg1",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGQ5ZTE1NzdiNjlkYTJjNzY5ZjdkYjhiYjIxNmM4YmQ0",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
+      "added_at": "2019-02-12 08:16:33",
+      "album": {
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
+      },
+      "artists": [
+        {
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+        }
+      ],
+      "duration_ms": 471973,
+      "name": "Whistling In Tongues",
+      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
+    },
+    {
       "added_at": "2020-03-16 14:57:25",
       "album": {
         "name": "Lenyora",
@@ -291,22 +307,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2019-02-12 08:16:33",
-      "album": {
-        "name": "Dark Days Exit",
-        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
-      },
-      "artists": [
-        {
-          "name": "Felix Laband",
-          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
-        }
-      ],
-      "duration_ms": 471973,
-      "name": "Whistling In Tongues",
-      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
-      "added_at": "2020-04-13 08:48:47",
-      "album": {
-        "name": "Durbans Finest",
-        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
-      },
-      "artists": [
-        {
-          "name": "Blackwhole",
-          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "1000 Seconds",
-      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "African Litany",
@@ -495,6 +479,22 @@
       "duration_ms": 285853,
       "name": "Impi",
       "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+    },
+    {
+      "added_at": "2020-04-13 08:48:47",
+      "album": {
+        "name": "Durbans Finest",
+        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "1000 Seconds",
+      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
         "name": "Respect Toasted Gona' Ganati",
         "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 315653,
       "name": "Bengim'ngaka",
       "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-02-12 08:16:33",
       "album": {
-        "name": "Asimbonanga (Mandela)",
-        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
       "artists": [
         {
-          "name": "Johnny Clegg & Savuka",
-          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
         }
       ],
-      "duration_ms": 267168,
-      "name": "Asimbonanga (Mandela)",
-      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -917,36 +917,20 @@
       "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
     },
     {
-      "added_at": "2019-02-12 08:16:33",
+      "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Asimbonanga (Mandela)",
+        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Johnny Clegg & Savuka",
+          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
         }
       ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
-      "added_at": "2019-02-03 07:20:41",
-      "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
-      },
-      "artists": [
-        {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
-        }
-      ],
-      "duration_ms": 287560,
-      "name": "Ndawo Yami",
-      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+      "duration_ms": 267168,
+      "name": "Asimbonanga (Mandela)",
+      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
     },
     {
       "added_at": "2021-06-27 04:29:30",
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP"
     },
     {
+      "added_at": "2019-02-03 07:20:41",
+      "album": {
+        "name": "Ndawo Yami",
+        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+      },
+      "artists": [
+        {
+          "name": "Zamajobe",
+          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+        }
+      ],
+      "duration_ms": 287560,
+      "name": "Ndawo Yami",
+      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+    },
+    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Kalawa Jazmee Classics: Bongo Maffin",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Chizboy",
-        "url": "https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 332586,
-      "name": "Bula Boot",
-      "url": "https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm"
-    },
-    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "King Of Kwaito",
@@ -1011,6 +995,22 @@
       "duration_ms": 320266,
       "name": "Manyonyoba",
       "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Chizboy",
+        "url": "https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 332586,
+      "name": "Bula Boot",
+      "url": "https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm"
     },
     {
       "added_at": "2019-02-03 07:29:50",

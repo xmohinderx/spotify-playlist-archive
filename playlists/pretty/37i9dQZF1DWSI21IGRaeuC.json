@@ -1,28 +1,32 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 8166,
+  "num_followers": 8243,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDg2ZWM0YzQ4YWJkOTZiNDIzYTI1NjJmOWU1ZGY3YWRk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDM2MmQxYmU5MzcwMWI2N2VmM2MwNWQwNTY2ZmVhMzY4",
   "tracks": [
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
         }
       ],
-      "duration_ms": 206378,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -45,24 +49,20 @@
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Da Fonk (feat. Joni)",
-        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "Joni",
-          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 366141,
-      "name": "Da Fonk (feat. Joni)",
-      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+      "duration_ms": 206378,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
-      "added_at": "2022-06-10 14:45:01",
-      "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Otto's Chant",
@@ -401,6 +385,22 @@
       "url": "https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe"
     },
     {
+      "added_at": "2022-06-10 14:45:01",
+      "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Back To Me",
@@ -415,6 +415,22 @@
       "duration_ms": 206400,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -435,22 +451,6 @@
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 197502,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Honey Bee",
@@ -683,6 +667,22 @@
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 197502,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
       "added_at": "2022-06-10 14:45:01",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
-      },
-      "artists": [
-        {
-          "name": "The Archer",
-          "url": "https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "All I Want - Original Mix",
-      "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Nana",
@@ -899,6 +883,22 @@
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
+      },
+      "artists": [
+        {
+          "name": "The Archer",
+          "url": "https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "All I Want - Original Mix",
+      "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
     },
     {
       "added_at": "2022-06-03 18:11:27",

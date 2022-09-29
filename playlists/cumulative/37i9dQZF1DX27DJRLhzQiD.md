@@ -4,7 +4,7 @@
 
 > Andrekza y más mujeres, a todo volumen.
 
-116 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+117 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2022-02-02 | 2022-04-09 |
 | [Agua de Mar](https://open.spotify.com/track/5gIgObxUAIAvUqBW59uujT) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Agua de Mar](https://open.spotify.com/album/3o1hlsCJ1MdPQjQgomvF42) | 3:41 | 2022-01-05 |  |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2022-01-05 |  |
-| [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-01-05 |  |
+| [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 | 2022-09-09 |  |
+| [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-01-05 | 2022-09-29 |
 | [AMOR TRISTE](https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [AMOR TRISTE](https://open.spotify.com/album/5YEsrR9xLRIFWRrQi8OGF4) | 3:02 | 2022-09-07 |  |
 | [Anestesia](https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:43 | 2022-04-29 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2022-02-02 | 2022-04-09 |

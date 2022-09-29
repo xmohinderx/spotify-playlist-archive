@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 46894,
+  "num_followers": 46950,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDNiNGNkNjZkNjkzNDBhMmFlMWU2ZDAxN2U0MTI1NGI2",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDkxY2E0MGE3OWI5NDg2NjVlNDM1NjQyODc0YWRkZTI1",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Up and Rolling",
@@ -699,6 +683,22 @@
       "duration_ms": 303920,
       "name": "Up and Rolling",
       "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1001,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        }
-      ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Play Loud",
@@ -1031,6 +1031,22 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 228972,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 201302,
       "name": "Hungry Heart",
       "url": "https://open.spotify.com/track/0UiT5xx59J7XIWaaZalxVu"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228972,
-      "name": "Going Down South",
-      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Fast Fingers",
         "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 239266,
       "name": "Little Angel Child",
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Please Don't Be Dead",
         "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "I'm Glad Trouble Don't Last Always",
         "url": "https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt"
       },
@@ -1347,22 +1331,6 @@
       "duration_ms": 257586,
       "name": "I'm Glad Trouble Don't Last Always",
       "url": "https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "You Can't Teach An Old Dog New Tricks",
-        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "You Can't Teach An Old Dog New Tricks",
-      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1383,18 +1351,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "You Can't Teach An Old Dog New Tricks",
+        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+      "duration_ms": 214053,
+      "name": "You Can't Teach An Old Dog New Tricks",
+      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1415,22 +1383,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Don't Leave Me Here",
-      "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1447,6 +1411,42 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "TajMo",
+        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Don't Leave Me Here",
+      "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "How Blue Can You Get?",
-      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Keb' Mo'",
         "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
       },
@@ -1531,38 +1531,6 @@
       "duration_ms": 138533,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "I Wanna Get Funky",
-      "url": "https://open.spotify.com/track/2KaiZgGRtgeETwv52tn5rK"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1595,6 +1563,38 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "I Wanna Get Funky",
+      "url": "https://open.spotify.com/track/2KaiZgGRtgeETwv52tn5rK"
     },
     {
       "added_at": "2022-02-25 05:02:00",

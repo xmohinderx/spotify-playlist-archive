@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 626954,
+  "num_followers": 627003,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3MzYwMSwwMDAwMDAwMGY1MjRjNDU5ODg1ZjQ1ZmM0NTVhMmIwZmJkNjZhYzk5",
+  "snapshot_id": "MTY2MzA3MzYwMSwwMDAwMDAwMDg5YjlhNTBiZTA3MjBiYjZhZjEzMzM4NWI4OWU4YjIy",
   "tracks": [
     {
       "added_at": "2022-09-13 12:53:21",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
+        "name": "Surrounded By Clouds",
+        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Surrounded By Clouds",
+      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
         "name": "Teegarden C",
         "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
       },
@@ -219,18 +235,18 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Surrounded By Clouds",
-        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
+        "name": "Stilhed",
+        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
       },
       "artists": [
         {
-          "name": "Albert Lockwood",
-          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+          "name": "Alba Lie",
+          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
         }
       ],
-      "duration_ms": 158550,
-      "name": "Surrounded By Clouds",
-      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
+      "duration_ms": 199106,
+      "name": "Stilhed",
+      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -263,22 +279,6 @@
       "duration_ms": 150066,
       "name": "Jeevan",
       "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
-        "name": "Stilhed",
-        "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
-      },
-      "artists": [
-        {
-          "name": "Alba Lie",
-          "url": "https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Stilhed",
-      "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Son\u00e1mbulos",
         "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 192000,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Luminescent",
-        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Luminescent",
-      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 191320,
       "name": "Perception",
       "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
+        "name": "Surface",
+        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
+      },
+      "artists": [
+        {
+          "name": "Lerone Gios",
+          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
+        }
+      ],
+      "duration_ms": 126774,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
-        "name": "Surface",
-        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
-      },
-      "artists": [
-        {
-          "name": "Lerone Gios",
-          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
-        }
-      ],
-      "duration_ms": 126774,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Darashinai Beach",
-        "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
-      },
-      "artists": [
-        {
-          "name": "Kenichiban",
-          "url": "https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Darashinai Beach",
-      "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Purity 432hz",
         "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 212028,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Darashinai Beach",
+        "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
+      },
+      "artists": [
+        {
+          "name": "Kenichiban",
+          "url": "https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Darashinai Beach",
+      "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "The Art of Subtlety",
-        "url": "https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U"
-      },
-      "artists": [
-        {
-          "name": "Laura Antelme",
-          "url": "https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ"
-        }
-      ],
-      "duration_ms": 102300,
-      "name": "The Art of Subtlety",
-      "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Heaven like",
         "url": "https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 243750,
       "name": "Heaven like",
       "url": "https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "The Art of Subtlety",
+        "url": "https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U"
+      },
+      "artists": [
+        {
+          "name": "Laura Antelme",
+          "url": "https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ"
+        }
+      ],
+      "duration_ms": 102300,
+      "name": "The Art of Subtlety",
+      "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
     },
     {
       "added_at": "2022-09-13 12:53:21",

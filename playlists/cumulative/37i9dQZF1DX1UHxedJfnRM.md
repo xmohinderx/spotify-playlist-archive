@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-104 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
+105 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-05-13 |  |
 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 | 2022-05-13 |  |
 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 | 2022-05-13 |  |
-| [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-05-13 |  |
+| [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 | 2022-08-12 |  |
+| [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-05-13 | 2022-09-29 |
 | [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 | 2022-05-13 |  |
 | [Amiga Mía](https://open.spotify.com/track/6Hst0kxjKNtjq9cUqH2kzB) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Amiga Mía](https://open.spotify.com/album/7EaTPnzWgkb8Lz8CRtmrdw) | 4:32 | 2022-05-13 |  |
 | [Amor De Etiqueta](https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB) | [La Caro Band](https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P) | [Vale La Pena \(It's Worth It\)](https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg) | 4:51 | 2022-05-13 |  |

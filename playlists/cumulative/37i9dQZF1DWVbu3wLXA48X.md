@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Phum Viphurit
 
-589 songs - 1 day 10 hr 54 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+590 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 | 2022-08-04 | 2022-08-27 |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-03-24 | 2022-04-01 |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 |  |
-| [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-26 |  |
+| [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-26 | 2022-09-29 |
+| [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 | 2022-09-22 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-16 | 2022-02-11 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-12 | 2022-07-09 |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-29 | 2022-07-02 |

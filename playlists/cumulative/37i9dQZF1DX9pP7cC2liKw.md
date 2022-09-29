@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-203 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+204 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-06-23 |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2022-01-04 |  |
 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 | 2022-01-04 | 2022-07-28 |
-| [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 | 2022-08-19 |  |
+| [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 | 2022-08-19 | 2022-09-29 |
 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 | 2022-01-04 | 2022-07-20 |
 | [Algo Está Cambiando](https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 4:29 | 2022-03-17 |  |
 | [All Night Long](https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 4:20 | 2022-05-06 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [Mayahuel](https://open.spotify.com/track/7HbT88iSUcM6fnFTIZ5GZf) | [Sávila](https://open.spotify.com/artist/2MnzgTDDWD0KTonayeznfN) | [Mayahuel](https://open.spotify.com/album/62uYHxDORrNSyoA0wIPYIj) | 4:21 | 2022-08-13 | 2022-09-13 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 |  |
 | [Me veo volar](https://open.spotify.com/track/684XSgemiOaXwuRP5fbJSr) | [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge) | [Me veo volar](https://open.spotify.com/album/692XQsxRU27ZorpAlWhStR) | 4:19 | 2022-02-01 | 2022-07-28 |
+| [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 | 2022-09-29 |  |
 | [Mi Montaña \- Lagartijeando Remix](https://open.spotify.com/track/4EyGTuiVYmbWcDpT3W0pdo) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Mi Montaña \(Lagartijeando Remix\)](https://open.spotify.com/album/3IobgScP4JgtJ9KPVo78eI) | 4:18 | 2022-07-15 | 2022-08-12 |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-01 | 2022-07-29 |
 | [Mirando El Fuego](https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Camino de Flores](https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo) | 5:41 | 2022-06-15 |  |

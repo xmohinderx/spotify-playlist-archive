@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Shania Twain
 
-686 songs - 1 day 13 hr 49 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+687 songs - 1 day 13 hr 52 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Negra Presuntuosa](https://open.spotify.com/track/6NVirfsnzXgZdSoasFbwLw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/745bovopinCyeNzU9uCLbG) | 4:16 | 2021-12-11 | 2022-01-06 |
 | [Nelly](https://open.spotify.com/track/6GAG3B6iYZOy1Wf0aMlkvl) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Nelly](https://open.spotify.com/album/2n3ppbc77GVkJD47hZdKwe) | 3:25 | 2022-08-03 | 2022-09-09 |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2021-12-11 | 2022-01-06 |
+| [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2022-09-13 |  |
 | [Ngày Tận Thế \(feat\. Da LAB, Touliver\)](https://open.spotify.com/track/4Tf9rW9ZTbvSKxV4ocXBhB) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Ngày Tận Thế \(feat\. Da LAB, Touliver\)](https://open.spotify.com/album/2XisxHC5bOgtKg39SXZLZF) | 3:52 | 2021-12-11 | 2022-01-06 |
 | [Người Hãy Quên Em Đi](https://open.spotify.com/track/1rJyVbXb3njXbN3lokllKf) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:52 | 2022-01-05 | 2022-02-03 |
 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 | 2022-08-03 | 2022-09-09 |
@@ -680,7 +681,7 @@
 | [我怨](https://open.spotify.com/track/5AXPd43PkgVAp9ezRbfp9H) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [我怨](https://open.spotify.com/album/2pubZInn0m4l00rM4Azlm8) | 5:38 | 2022-05-04 | 2022-06-01 |
 | [捆縛](https://open.spotify.com/track/6Attg3Eg8FqrJ5uEb4S9uU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:41 | 2022-07-06 | 2022-08-04 |
 | [推開世界的門](https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 4:42 | 2022-06-01 | 2022-07-07 |
-| [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-07 |  |
+| [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-07 | 2022-09-29 |
 | [早上37.2度](https://open.spotify.com/track/0xPuqKHf6Cchdi3jkjuyTR) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [早上37.2度](https://open.spotify.com/album/0cQ4ghlPaRQXjZQ8P84tBW) | 4:05 | 2022-06-01 | 2022-07-07 |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2021-12-11 | 2022-01-06 |
 | [最高品質靜悄悄](https://open.spotify.com/track/6fxjnz8unvpHk5hRKkKYhc) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:23 | 2021-12-11 | 2022-01-06 |

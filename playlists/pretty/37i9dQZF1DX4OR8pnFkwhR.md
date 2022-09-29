@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 菅原圭\.  <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,671 likes - 59 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,685 likes - 59 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 22 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 |
 | 23 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 |
 | 24 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
-| 25 | [本日の正体](https://open.spotify.com/track/6s4lNOLv2RGsDUFuqYRbDT) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [本日の正体](https://open.spotify.com/album/5GU5DbCBCYHmqSgKdWwJWn) | 3:25 |
+| 25 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 |
 | 26 | [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 |
 | 27 | [Drippin' Desert](https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 4:19 |
 | 28 | [Tangerine](https://open.spotify.com/track/4rtqhoePcvl6hl9f3yUQY2) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Pixel](https://open.spotify.com/album/51Y53YMSaFCzxF6qEXkye9) | 3:22 |
 | 29 | [明日には振り向いてよ](https://open.spotify.com/track/0naHfononc9Vyfudm4LIFj) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [明日には振り向いてよ](https://open.spotify.com/album/5aDHbkNhsnb00OwJFh3PZp) | 3:09 |
 | 30 | [Kokoro](https://open.spotify.com/track/5oGi5k0lEGM5Akm8zyBfJ2) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Kokoro](https://open.spotify.com/album/0SCTqTl7d70z4t0Fgrjyw6) | 4:41 |
 | 31 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 |
-| 32 | [摩天楼](https://open.spotify.com/track/6WsSI31riVgoEnGG5NzfZv) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [摩天楼](https://open.spotify.com/album/3t4g1474iB8sNJJm0FaQWj) | 2:59 |
+| 32 | [Skyscraper \(Matenrou\)](https://open.spotify.com/track/4RIhQB0TI0G7wzqwIzViBS) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Skyscraper \(Matenrou\)](https://open.spotify.com/album/61kIH5ne671AnQf8kI6s4x) | 2:59 |
 | 33 | [And / you](https://open.spotify.com/track/7ecm8hr7HyPz009himM2kI) | [Kouichi Arakawa](https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw) | [Late night talking](https://open.spotify.com/album/0pxvbsmcAKroIlXjJp4Luk) | 2:52 |
 | 34 | [フィナーレ](https://open.spotify.com/track/6QvyZ3BBTTu66ynGkY1J41) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フィナーレ](https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0) | 2:26 |
 | 35 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 58 | [Loova](https://open.spotify.com/track/6CjOWkHBN8ZDUNcDrR1XGz) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Loova](https://open.spotify.com/album/49AVdl1YAYHYkZBqEsJLmG) | 3:31 |
 | 59 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 |
 
-Snapshot ID: `MTY2NDMxNzE0MiwwMDAwMDAwMDE0NmY0YmFlOGQ3YTRmMGU1MzA0ZmYzM2I4YzViNzVm`
+Snapshot ID: `MTY2NDMxNzE0MiwwMDAwMDAwMGFiZTllNTExZmNlZDZmYjIwYWQxMDBhOTA3NjgyZDZi`

@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 9720,
+  "num_followers": 9794,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDBjZDM2N2RmMjhkMmU0ZDNhNTIzMTlmMDQwNGU2MzBk",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDExZDA3YWU2NDcwNDViZjVlZmZhMzQ5MmE0NDY5ZTNk",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "El Gigante del Teclado",
-        "url": "https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "La Hija De Lola",
-      "url": "https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Bohemio y Poeta",
         "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 373560,
       "name": "Juan Pachanga",
       "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "El Gigante del Teclado",
+        "url": "https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "La Hija De Lola",
+      "url": "https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 380106,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Descargando",
         "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 275853,
       "name": "Amor Perfecto",
       "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 380106,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 313039,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 313039,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1195,6 +1195,26 @@
       "duration_ms": 259800,
       "name": "La Negra Tomasa",
       "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1259,42 +1279,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Unchained Force",
-        "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Mi Lindo Yamb\u00fa",
-      "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
         "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 215272,
       "name": "Cu\u00eddate Bi\u00e9n",
       "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Unchained Force",
+        "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Mi Lindo Yamb\u00fa",
+      "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
+        "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 271072,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/2rbiq6pvtMMxPyy8JvXdBg"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Hecho Y Derecho",
         "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 250009,
       "name": "Deja de Criticar",
       "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
-        "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 271072,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/2rbiq6pvtMMxPyy8JvXdBg"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
     },
     {
       "added_at": "2022-08-17 18:30:29",

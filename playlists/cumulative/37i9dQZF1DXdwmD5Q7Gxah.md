@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: maya hawke
 
-1,860 songs - 4 day 3 hr 32 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,861 songs - 4 day 3 hr 36 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [BeVerly Hills BoYfRiEnd \(with ROLE MODEL\)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd \(Remixes\)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2020-12-12 | 2021-04-16 |
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 |  |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2022-02-02 | 2022-05-19 |
+| [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-28 |  |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-02-26 |
 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 | 2022-08-26 | 2022-09-13 |
 | [bitter](https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [bitter](https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB) | 3:35 | 2021-02-12 | 2021-03-14 |

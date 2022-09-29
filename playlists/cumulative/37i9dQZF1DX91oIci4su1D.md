@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-454 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+455 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Fall Into You](https://open.spotify.com/track/7a8bzyInoCja0iFe31uucM) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Fall Into You](https://open.spotify.com/album/6JTLfvfLyLEq2E1PB5pSwS) | 3:24 | 2021-12-17 |  |
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 |  |
+| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 |  |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 |  |
@@ -253,7 +254,7 @@
 | [Make It To Tomorrow \- Alexander Popov Remix](https://open.spotify.com/track/4AgStLc2L4VrE7wVGSz5ew) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Maratone](https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7) | [Make It To Tomorrow \(Alexander Popov Remix\)](https://open.spotify.com/album/0YSCMZZc8ObKJYpx4j68p6) | 3:12 | 2022-03-11 |  |
 | [Make U Mine](https://open.spotify.com/track/5BiRPLMcYMNgbb0oHrqwCj) | [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [Make U Mine](https://open.spotify.com/album/4bDRa9nAqG7B9pBCOqVRRo) | 3:11 | 2022-01-28 |  |
 | [Malfunction](https://open.spotify.com/track/0XhzCSC06CIvr3j5Ycl7q4) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Malfunction](https://open.spotify.com/album/4bqFd4M0jmJVrnv0JC9Xy7) | 2:38 | 2021-12-17 |  |
-| [Malu \- Grum Remix](https://open.spotify.com/track/4v4elkQ4vWtZGMuNGte7JP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Trance Wax \(Deluxe\)](https://open.spotify.com/album/3ZbYCU377KwSNgDUqZC9cN) | 3:12 | 2021-12-17 |  |
+| [Malu \- Grum Remix](https://open.spotify.com/track/4v4elkQ4vWtZGMuNGte7JP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Trance Wax \(Deluxe\)](https://open.spotify.com/album/3ZbYCU377KwSNgDUqZC9cN) | 3:12 | 2021-12-17 | 2022-09-29 |
 | [Manoeuvres](https://open.spotify.com/track/7KX5mgPR5iNo5XK7C5D5i0) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Manoeuvres](https://open.spotify.com/album/20w3vd1ih8QihXZfCOTL3Y) | 3:56 | 2021-12-17 |  |
 | [Manray](https://open.spotify.com/track/4NdEelTQyMQ4seMGHb7OWx) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG) | [Manray](https://open.spotify.com/album/1se4IcPEkRxAXAAwc9q102) | 3:35 | 2022-03-25 |  |
 | [Melodrama \- Abstract Vision Remix](https://open.spotify.com/track/0lT9do5cYc8GFtDto2elSl) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Jan Miller](https://open.spotify.com/artist/2A4hJBFSnQNH4InBM1GXh5), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Melodrama \(Abstract Vision Remix\)](https://open.spotify.com/album/669yD7srfyKo5lBcGcAW2w) | 3:59 | 2021-12-17 | 2022-07-24 |

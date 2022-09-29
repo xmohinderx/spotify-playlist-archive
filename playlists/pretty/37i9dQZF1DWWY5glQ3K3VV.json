@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 61298,
+  "num_followers": 61384,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMDhmZTQwNGQxNTdkZjdhZGVmNjdhZTAyZTNlMzU3M2Y0",
+  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMDU5ZWRhZTNmOTVjYWZjY2M0ZDQ0MzZlZDE0NmY3ZGU3",
   "tracks": [
     {
       "added_at": "2022-08-26 12:35:42",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 162362,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -963,30 +963,6 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
-        },
-        {
-          "name": "Verano",
-          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
-        }
-      ],
-      "duration_ms": 140297,
-      "name": "181",
-      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
         "name": "IL MINORENNE + BASTARDO",
         "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 166522,
       "name": "PULL UP (feat. Big P)",
       "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Verano",
+          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+        }
+      ],
+      "duration_ms": 140297,
+      "name": "181",
+      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
         "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 166406,
       "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
       "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
         "name": "In Piazza",
         "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 183801,
       "name": "In Piazza",
       "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2022-08-26 12:35:42",

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Noah Cyrus
 
-952 songs - 2 day 2 hr 15 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+954 songs - 2 day 2 hr 20 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [come over](https://open.spotify.com/track/57AXp4OmN34NdQ6uReGD5I) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [feelings](https://open.spotify.com/album/7CRU1p9pGx9CilTtR8fWme) | 3:23 | 2021-10-02 | 2021-11-13 |
 | [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2021-10-20 | 2022-04-02 |
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2021-10-09 | 2021-11-13 |
+| [Common \(with Big Sean\)](https://open.spotify.com/track/2CJc3U1pViZ5E44pA0f2YI) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Common](https://open.spotify.com/album/5q1YapGe7F6PUseo0mTLSj) | 2:39 | 2022-09-28 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-09-24 |
 | [Constellations](https://open.spotify.com/track/0htyzgIWrBoj9tdxwifIQ6) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/6zbpi0Hz0Sl8Mc7neSLGoL) | 3:20 | 2021-08-28 | 2021-11-13 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2020-10-13\* | 2020-10-23 |
@@ -189,6 +190,7 @@
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-09-11 | 2021-11-13 |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2021-03-26 | 2021-05-08 |
 | [Cruise Control](https://open.spotify.com/track/0sq2fTCBTXQ90xGzKdVsjp) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/6JBfgkMITz2i7qnDISsPXT) | 2:39 | 2021-01-23 | 2021-02-12 |
+| [crutches](https://open.spotify.com/track/5Hf6nME2UxqODXQj9pP1qw) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [crutches](https://open.spotify.com/album/7i3jTmHGPr5PMVE8gYfQFX) | 2:30 | 2022-09-28 |  |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-01-29 | 2021-02-19 |
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2021-08-21 | 2021-10-02 |
 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2020-10-13\* | 2020-10-15 |

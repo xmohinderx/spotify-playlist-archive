@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Toxic Sweet",
+        "url": "https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "2M\u00fcch",
+      "url": "https://open.spotify.com/track/1Q6Cun2v9HkhA6wp4GHdZe"
+    },
+    {
+      "album": {
         "name": "Triple Take, Vol. II",
         "url": "https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M"
       },

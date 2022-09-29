@@ -4,11 +4,11 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-145 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
+146 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-04-15 |  |
+| [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-04-15 | 2022-09-29 |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-06-20 |  |
 | [Acrobatic](https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT) | 2:56 | 2022-07-05 | 2022-07-30 |
 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 | 2022-04-15 | 2022-05-11 |
@@ -136,6 +136,7 @@
 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 | 2022-04-15 | 2022-07-29 |
 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 | 2022-07-05 | 2022-08-30 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-09-05 |  |
+| [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 | 2022-09-27 |  |
 | [Under The Water](https://open.spotify.com/track/0aYkYtV9oDepLueh0hgVmV) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Under The Water](https://open.spotify.com/album/5iOQNycOAXI5ujKv8gwA3R) | 2:45 | 2022-04-15 | 2022-07-06 |
 | [Up All Night](https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Up All Night](https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW) | 2:41 | 2022-05-10 | 2022-07-11 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-04-15 |  |

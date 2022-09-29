@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 219707,
       "name": "Demasiado Bien",
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
@@ -725,6 +725,24 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "album": {
+        "name": "Dos No Enamorados",
+        "url": "https://open.spotify.com/album/2NBUuJLDtwmX169TRhljhM"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232701,
+      "name": "Dos No Enamorados",
+      "url": "https://open.spotify.com/track/3f1VHlGQob0026MFVRSOYi"
     },
     {
       "album": {
@@ -1391,10 +1409,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
+    },
+    {
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305413,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR"
     },
     {
       "album": {
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 207573,
       "name": "Lluvia de Fuego",
       "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
@@ -1521,6 +1557,24 @@
       "duration_ms": 243895,
       "name": "Luces y Colores",
       "url": "https://open.spotify.com/track/19ghWfVSY6IYt6Q1vXnm2L"
+    },
+    {
+      "album": {
+        "name": "Flotador",
+        "url": "https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6"
+      },
+      "artists": [
+        {
+          "name": "Los Flakos",
+          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197077,
+      "name": "Luciana",
+      "url": "https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs"
     },
     {
       "album": {
@@ -2187,7 +2241,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 208107,
       "name": "Playa Privada",
       "url": "https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew"
@@ -2769,7 +2823,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"

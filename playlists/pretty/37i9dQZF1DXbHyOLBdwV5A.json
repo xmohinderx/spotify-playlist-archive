@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 87420,
+  "num_followers": 87433,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMGQ2NjViNWE4NDYxOGYzOGE0N2E4YmRlMzg3OGNhZGM1",
+  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMDFlNTc4YmRkMzg2MjIzOWExMThmNWVlZDkzZTk4OGMw",
   "tracks": [
     {
       "added_at": "2022-09-02 14:39:43",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Lorhann",
-          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 145194,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/2dcHLyqHr0OFEUfw4nmmuA"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         }
       ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1163,6 +1163,26 @@
       "duration_ms": 232500,
       "name": "S\u00f3 em Ti",
       "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "duration_ms": 145194,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/2dcHLyqHr0OFEUfw4nmmuA"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1191,22 +1211,22 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+        "name": "O Seu Amor \u00c9 (Remix)",
+        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+          "name": "Dj Lucas Ninja",
+          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
         },
         {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "Benito Vitorette",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+      "duration_ms": 172380,
+      "name": "O Seu Amor \u00c9 - Remix",
+      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1231,26 +1251,6 @@
       "duration_ms": 237627,
       "name": "Celebrarei - Remix",
       "url": "https://open.spotify.com/track/6zUlwL3hbCddtQgH4095DC"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "O Seu Amor \u00c9 (Remix)",
-        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Ninja",
-          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
-        },
-        {
-          "name": "Benito Vitorette",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "O Seu Amor \u00c9 - Remix",
-      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Pr\u00edncipe da Paz (feat. Kennto) [Remix]",
-        "url": "https://open.spotify.com/album/2XyBA0LcghlTU5s5qgmn8H"
-      },
-      "artists": [
-        {
-          "name": "Cristina Fa\u00e9",
-          "url": "https://open.spotify.com/artist/3dOrZKRygSUCpzAu0uVceu"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        }
-      ],
-      "duration_ms": 171155,
-      "name": "Pr\u00edncipe da Paz (feat. Kennto) - Remix",
-      "url": "https://open.spotify.com/track/2ViDvuc0g7b2dfB3R96Gis"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 212571,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "Pr\u00edncipe da Paz (feat. Kennto) [Remix]",
+        "url": "https://open.spotify.com/album/2XyBA0LcghlTU5s5qgmn8H"
+      },
+      "artists": [
+        {
+          "name": "Cristina Fa\u00e9",
+          "url": "https://open.spotify.com/artist/3dOrZKRygSUCpzAu0uVceu"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        }
+      ],
+      "duration_ms": 171155,
+      "name": "Pr\u00edncipe da Paz (feat. Kennto) - Remix",
+      "url": "https://open.spotify.com/track/2ViDvuc0g7b2dfB3R96Gis"
     },
     {
       "added_at": "2022-09-02 14:39:43",

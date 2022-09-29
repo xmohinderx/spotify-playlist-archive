@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 570970,
+  "num_followers": 571211,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMGNhYjY5ZTg3NmM1OGM5NDNjYTEwYTcxZjA1ZTkxMTRk",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMGM1NWMwNTczOGNlNGQ0MTU2ZjhhNjQ0MDEwNGM3ZTBk",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 280266,
       "name": "Por Eso Est\u00e1 Conmigo",
       "url": "https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
         }
       ],
-      "duration_ms": 303373,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+      "duration_ms": 302733,
+      "name": "Voy A Conquistar Tu Amor",
+      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Voy A Conquistar Tu Amor",
-      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "14 \u00c9xitos Duros Como Guayacan",
         "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 334800,
       "name": "Te Amo, Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/6P6CwLaI6bEkPGlbDI0MXW"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 305440,
       "name": "Juguete De Nadie",
       "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Serie Cinco Estrellas",
-        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/127Z5jLS1wkkfTgPPLWDci"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 267693,
       "name": "Hoy Quiero Confesar",
       "url": "https://open.spotify.com/track/5I3skDSMEYBLhKQBBkGIyF"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Serie Cinco Estrellas",
+        "url": "https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V"
     },
     {
       "added_at": "2022-08-31 06:45:44",

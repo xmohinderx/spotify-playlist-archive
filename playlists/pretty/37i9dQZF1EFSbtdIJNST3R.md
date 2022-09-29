@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 31 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 17 | [Echte Meisjes Huilen Niet](https://open.spotify.com/track/2khV5bt8Hdz8l8u1dQ9Odl) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/5QjL1KT0rE9RIIJpGxJ2pm) | 2:17 |
 | 18 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Hallo, Dit Is Je Ex](https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI) | 2:31 |
 | 19 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
-| 20 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
-| 21 | [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 |
-| 22 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
-| 23 | [Sum Like That](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sum Like That](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
-| 24 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
-| 25 | [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 |
-| 26 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
-| 27 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
-| 28 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club Van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 |
-| 29 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
-| 30 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
+| 20 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 |
+| 21 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
+| 22 | [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 |
+| 23 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
+| 24 | [Sum Like That](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sum Like That](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
+| 25 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
+| 26 | [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 |
+| 27 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
+| 28 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
+| 29 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club Van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 |
+| 30 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
+| 31 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
 
-Snapshot ID: `Mjc3Mzg3OTksMDAwMDAwMDA0OTA0ZDNlODBiNTMxNTZmNmVkZDAwMmE4NjFhZTIyMg==`
+Snapshot ID: `Mjc3NDAyMzksMDAwMDAwMDBhOWQyYTM0OTZkMTk3YjZhMjk3M2VkM2UwZjQ2NDQ2Yg==`

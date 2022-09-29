@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists feat. cover girl Fletcher's fave picks at the top ",
-  "num_followers": 813223,
+  "num_followers": 813294,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhmZTY4ODRhMGNkNjQyODU4N2MwYWJlODlkYmJmYzA2",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGNmODlmN2IwYjI5ZTBjZDIyNmE3OWYyNDI2ZGEyODhm",
   "tracks": [
     {
       "added_at": "2022-09-09 19:33:47",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Coconuts",
         "url": "https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 168559,
       "name": "Coconuts",
       "url": "https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -703,38 +703,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "for the girls",
-        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 157685,
-      "name": "for the girls",
-      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
-        "name": "It's Been a Little Heavy Lately",
-        "url": "https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "God Is A Freak",
         "url": "https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
+        "name": "for the girls",
+        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
         "name": "FIRST HELLO",
         "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 197569,
       "name": "FIRST HELLO",
       "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "It's Been a Little Heavy Lately",
+        "url": "https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221871,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "The Curse of the Blackened Eye",
-      "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "The Curse of the Blackened Eye",
+      "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "kaleidoscope",
-        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 200453,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "kaleidoscope",
+        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Homerun Hitter",
-        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "Homerun Hitter",
-      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Homerun Hitter",
+        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Homerun Hitter",
+      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
         "name": "Blue Dream Baby",
         "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 176427,
       "name": "Blue Dream Baby",
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
     },
     {
       "added_at": "2022-09-09 19:33:47",

@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Mel Muñiz en portada.
 
-222 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+223 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2021-10-16 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2021-10-16 | 2022-07-29 |
 | [La Media Vuelta \(feat\. Melissa Robles\)](https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Amor Pasado](https://open.spotify.com/album/48qpziAWt4lPbduEtyUy8n) | 2:54 | 2021-10-16 | 2022-08-22 |
-| [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 | 2021-10-16 |  |
+| [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 | 2021-10-16 | 2022-09-29 |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2021-10-16 |  |
 | [La Señal / La Puerta](https://open.spotify.com/track/1qO2zPfG8z04GW4TPY5wZJ) | [Jorge Muñiz](https://open.spotify.com/artist/0NV9kotO8AcragqHykjdSd) | [Azulejos 2](https://open.spotify.com/album/1EScFFUKl9B92h70LFU0at) | 3:58 | 2021-10-16 | 2022-07-29 |
 | [La Trenza](https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:48 | 2021-10-16 |  |
@@ -217,6 +217,7 @@
 | [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-10-16 |  |
 | [Un besito más \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:12 | 2021-10-16 |  |
 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 | 2022-01-14 |  |
+| [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 | 2022-09-28 |  |
 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 | 2021-10-16 |  |
 | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/track/1xeWnd2n7JY4fRZI1PhsFP) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/album/0jQRoKdHFt1wHOAC4E8OZK) | 8:18 | 2021-10-21 |  |
 | [Va Cayendo una Lágrima \- Los Iracundos Cover](https://open.spotify.com/track/1CjfBhfq68umdZF2Oer4pG) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Va Cayendo una Lágrima \(Los Iracundos Cover\)](https://open.spotify.com/album/6crbKa5jGHe7doFV8RDNSC) | 2:47 | 2021-10-16 | 2022-07-29 |

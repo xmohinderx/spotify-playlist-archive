@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-342 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+343 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-03-25 |  |
 | [Nobody](https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Nobody](https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt) | 2:25 | 2021-12-16 |  |
 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 | 2021-12-16 | 2022-01-26 |
+| [Nobody Like You](https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY) | [VERSANO](https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3) | [Nobody Like You](https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC) | 3:05 | 2022-09-23 |  |
 | [Not Over It](https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Aïcha Gill](https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu) | [Not Over It](https://open.spotify.com/album/6f26986svH5VZ03xVjsdap) | 3:32 | 2021-12-16 |  |
 | [Occuper](https://open.spotify.com/track/4V8y5OWqDxnoDIJ291i95B) | [Kiba](https://open.spotify.com/artist/0bz2VW1nPJpBXuPgZ8zMeY) | [Occuper](https://open.spotify.com/album/3vl9xM1ZhrdrnujGxeSvDH) | 2:24 | 2021-12-16 | 2022-07-29 |
 | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/track/4fGEopuAuQMFOv0aw7DjZa) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/album/0IExXLUzrIO6R9MJjmjDYh) | 3:17 | 2021-12-16 | 2022-02-24 |
@@ -276,7 +277,7 @@
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-03 |  |
 | [Slim Daddy](https://open.spotify.com/track/3AYiqkfWxAPkyan6XDZ6jL) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Slim Daddy](https://open.spotify.com/album/2y2i63YeYWUNbDx1cn1Y4z) | 2:35 | 2021-12-16 |  |
 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 | 2022-08-25 |  |
-| [So Nice](https://open.spotify.com/track/1lCc5XcnnKHsSaCKDngvM4) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [So Nice](https://open.spotify.com/album/0qs22OFmWqKIwhmicG4uNc) | 2:36 | 2022-05-19 |  |
+| [So Nice](https://open.spotify.com/track/1lCc5XcnnKHsSaCKDngvM4) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [So Nice](https://open.spotify.com/album/0qs22OFmWqKIwhmicG4uNc) | 2:36 | 2022-05-19 | 2022-09-29 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-01-25 | 2022-09-15 |
 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 | 2021-12-16 |  |
 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 | 2021-12-16 |  |

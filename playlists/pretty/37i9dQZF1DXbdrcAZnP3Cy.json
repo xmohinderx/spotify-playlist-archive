@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 99738,
+  "num_followers": 99845,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyOTQzNSwwMDAwMDAwMGFiY2U3Yjg2NWU3NzNkOTRhYzY1ZDI0YmQ5N2RkZjRk",
+  "snapshot_id": "MTY2MDkyOTQzNSwwMDAwMDAwMDY0ODdkOTYzNjI0YTRmNmI3MTAyM2U1NDRlNjE3OTNh",
   "tracks": [
     {
       "added_at": "2022-08-19 17:17:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Sshh!!",
-      "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "Baila As\u00ed (feat. Chiquis)",
         "url": "https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171866,
       "name": "Baila As\u00ed (feat. Chiquis)",
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Sshh!!",
+      "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
     },
     {
       "added_at": "2022-08-19 17:17:15",

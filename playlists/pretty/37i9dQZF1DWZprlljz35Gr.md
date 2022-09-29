@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,492 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,501 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 41 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 |
 | 42 | [Psycho Sam](https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Who Else!](https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm) | 4:55 |
 | 43 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
-| 44 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
-| 45 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 44 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
+| 45 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
 | 46 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 | 47 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 48 | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t) | [Wolfgang Wee](https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV) | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ) | 3:58 |
 | 49 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
 | 50 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDdiZGY2M2ZiZWZmZTU2ZDE3NzM3MzRlZDk5MzFmNmQ0`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDljOWVjMmE4ODRjMTU1NDg0MDQyOTcwY2JiOTkyYWQx`

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-174 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+175 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Introduction](https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4) | 3:03 | 2022-01-21 | 2022-07-29 |
 | [Introduction](https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm) | 3:03 | 2022-07-22 |  |
 | [Invisible](https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0) | [Port Salut](https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r) | [Invisible](https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS) | 2:32 | 2022-01-28 | 2022-07-26 |
-| [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 | 2022-01-21 |  |
+| [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 | 2022-01-21 | 2022-09-29 |
 | [Kerlann](https://open.spotify.com/track/3z5526brr8uZeHJOylEibp) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber](https://open.spotify.com/album/0L9QNawAYPBbMOkHD1tZOM) | 6:32 | 2022-01-21 | 2022-08-02 |
 | [Konvektion](https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO) | [Maria w Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Epistasis](https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev) | 13:16 | 2022-01-21 | 2022-07-28 |
 | [Labyrinth](https://open.spotify.com/track/3XRZYdGyThxKYPucHpLvVA) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Labyrinth](https://open.spotify.com/album/05tgMikykkZ6h0jFyaRxvC) | 3:32 | 2022-08-17 | 2022-09-02 |
@@ -148,6 +148,7 @@
 | [Thaw](https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Evighet](https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s) | 7:54 | 2022-01-21 | 2022-07-28 |
 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 |  |
 | [The Church \- From The "Men" Original Motion Picture Soundtrack](https://open.spotify.com/track/0fQkf9YaBHEzdT0SpsdCVx) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [The Church \(From The "Men" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GnIduqIk7FJKEDgKLfLmr) | 4:25 | 2022-05-06 | 2022-07-28 |
+| [the distance between us](https://open.spotify.com/track/2QN2myMPxIyn2rsqU3FpFR) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 2:30 | 2022-08-17 |  |
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2022-01-21 | 2022-09-28 |
 | [The End Is The Beginning](https://open.spotify.com/track/5MjHgf3qg2v2kYGjYYIkyS) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [The End Is The Beginning](https://open.spotify.com/album/2Dm4tv2eHIGS8HydsqGNty) | 2:26 | 2022-04-08 |  |
 | [The Nixe of John Cage's River](https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:18 | 2022-01-21 |  |

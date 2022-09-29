@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,673 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,737 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 25 | [Can't Get Over You](https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY), [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [Can't Get Over You](https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR) | 2:22 |
 | 26 | [Dog Days](https://open.spotify.com/track/3o6D9gHkSumEECclUt0tCN) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Rodrigo Luca](https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6) | [Dog Days](https://open.spotify.com/album/2gVD1C1QGkqfC1RvjHuNcC) | 4:11 |
 | 27 | [Fica Tudo Bem \- Bhaskar Remix](https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fica Tudo Bem \(Bhaskar Remix\)](https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t) | 2:54 |
-| 28 | [Live Your Life](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Live Your Life](https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP) | 3:20 |
-| 29 | [It's Your Life](https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy) | [It's Your Life](https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8) | 2:40 |
+| 28 | [It's Your Life](https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW), [Marina Diniz](https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy) | [It's Your Life](https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8) | 2:40 |
+| 29 | [Live Your Life](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Live Your Life](https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP) | 3:20 |
 | 30 | [Tempos Modernos](https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos Modernos](https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s) | 3:35 |
 | 31 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
 | 32 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
 | 70 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
 
-Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMGRmMWM5NmVlMWY4MDU1N2Q3YjM1ZWI5ODFkNDQ0NTRk`
+Snapshot ID: `MTY2MzkwMjA2MCwwMDAwMDAwMDIwNDRjYjBkZjVkOTcxODIzNzhkMGRjNWRhNDhiN2I3`

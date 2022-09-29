@@ -89,6 +89,24 @@
     {
       "album": {
         "name": "Amarte Duele As\u00ed",
+        "url": "https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268009,
+      "name": "Amarte Duele As\u00ed",
+      "url": "https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn"
+    },
+    {
+      "album": {
+        "name": "Amarte Duele As\u00ed",
         "url": "https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021"
       },
       "artists": [
@@ -99,7 +117,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 268009,
       "name": "Amarte Duele As\u00ed",
       "url": "https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n"

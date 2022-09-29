@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2207261,
+  "num_followers": 2207948,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0ODIwMCwwMDAwMDAwMDNjMTcxNDgwMDViMGE3ZWQwODlhMDJhNzVmMGZlNjA5",
+  "snapshot_id": "MTY2Mzk0ODIwMCwwMDAwMDAwMDEzMzc4MTA5YjYyZjE5MGI4Y2UyZWViY2NiYjlhNDky",
   "tracks": [
     {
       "added_at": "2022-09-23 15:50:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Can U Dance (To My Beat)",
-        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Can U Dance (To My Beat)",
-      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Remember (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 199967,
       "name": "Remember (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Can U Dance (To My Beat)",
+        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Can U Dance (To My Beat)",
+      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Time to Groove (feat. Non\u00f4)",
-        "url": "https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 146848,
-      "name": "Time to Groove (feat. Non\u00f4)",
-      "url": "https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Time to Groove (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 146848,
+      "name": "Time to Groove (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -1571,26 +1551,22 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+      "duration_ms": 169523,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1615,6 +1591,30 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Who Do You Love",
         "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
       },
@@ -1727,6 +1703,30 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 156249,
-      "name": "Reckless (with M\u00d8)",
-      "url": "https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 158671,
       "name": "Hot Summer Nights",
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 156249,
+      "name": "Reckless (with M\u00d8)",
+      "url": "https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod"
     },
     {
       "added_at": "2022-09-23 15:50:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
-        "name": "Alive (with Calle Lehmann)",
-        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calle Lehmann",
-          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
-        }
-      ],
-      "duration_ms": 222830,
-      "name": "Alive (with Calle Lehmann)",
-      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1999,6 +1979,26 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
+        "name": "Alive (with Calle Lehmann)",
+        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Alive (with Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
         "name": "Hey Hey (Heard You Say)",
         "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
       },
@@ -2039,6 +2039,42 @@
     {
       "added_at": "2022-09-23 15:50:00",
       "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 161035,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 229928,
+      "name": "Why Can't You Wait",
+      "url": "https://open.spotify.com/track/09EVL34Hr8e1jzFF5Hjb0v"
+    },
+    {
+      "added_at": "2022-09-23 15:50:00",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
@@ -2071,42 +2107,6 @@
       "duration_ms": 141562,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 229928,
-      "name": "Why Can't You Wait",
-      "url": "https://open.spotify.com/track/09EVL34Hr8e1jzFF5Hjb0v"
-    },
-    {
-      "added_at": "2022-09-23 15:50:00",
-      "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 161035,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
     }
   ],
   "unique_name": "Power Hour",

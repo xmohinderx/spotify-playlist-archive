@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 157259,
       "name": "DOIN' MY BEST",
       "url": "https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 204106,
       "name": "First Time Again",
       "url": "https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 200066,
       "name": "Get over Yourself",
       "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
@@ -251,10 +251,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 201966,
       "name": "I CAN'T HELP MYSELF",
       "url": "https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241420,
+      "name": "I GUESS THEY CALL IT FALLIN'",
+      "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
     },
     {
       "album": {
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 203360,
       "name": "Music",
       "url": "https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 174637,
       "name": "WEATHER",
       "url": "https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX"

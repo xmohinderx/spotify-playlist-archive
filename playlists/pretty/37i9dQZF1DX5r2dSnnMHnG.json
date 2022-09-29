@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDQ0NzZhNTNlNDdlZmYxZDZjMDZjNDRkNzgxYzdiMTZi",
+  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMGYyZmQ2MWE0ODA0MjVkODYyMjI2NDljMGI1YTc4ZjYy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Reason (Vocal by Kim Seonho)",
-        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
-      },
-      "artists": [
-        {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Reason (Vocal by Kim Seonho)",
-      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Reason (Vocal by Kim Seonho)",
+        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Reason (Vocal by Kim Seonho)",
+      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -451,6 +451,22 @@
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -563,22 +579,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Mean \uc2ec\uc220",
-      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "The Crush Of Spring OST Special Track",
-        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
-      },
-      "artists": [
-        {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
-        }
-      ],
-      "duration_ms": 190522,
-      "name": "Walking In The Memory",
-      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
         "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "The Crush Of Spring OST Special Track",
+        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
+      },
+      "artists": [
+        {
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
+        }
+      ],
+      "duration_ms": 190522,
+      "name": "Walking In The Memory",
+      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Is you",
-        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
       "artists": [
         {
-          "name": "Jay chang",
-          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
         }
       ],
-      "duration_ms": 231053,
-      "name": "Is you",
-      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+        "name": "Is you",
+        "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
       },
       "artists": [
         {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+          "name": "Jay chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
         }
       ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+      "duration_ms": 231053,
+      "name": "Is you",
+      "url": "https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The Season Of You",
+      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The Season Of You",
-      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd"
       },
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
       "artists": [
         {
-          "name": "INYU",
-          "url": "https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t"
-        },
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
-      "duration_ms": 181680,
-      "name": "OH NONONO",
-      "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
+      "duration_ms": 211400,
+      "name": "Only I Want To Know",
+      "url": "https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

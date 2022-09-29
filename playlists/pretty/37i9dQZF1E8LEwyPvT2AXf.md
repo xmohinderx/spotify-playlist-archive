@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 > With Adele, Andrea Faustini, Haley Reinhart, Mathilde Holtti and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 940 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 939 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 24 | [I Will Never Love Again](https://open.spotify.com/track/3bEgt39H2wUYwq1UqwGvNI) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Only In My Mind](https://open.spotify.com/album/7yxTKAsaQDI6QQPSkgGkSw) | 4:03 |
 | 25 | [I Have A Dream \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/77bIDfQElFrLQjp2ZdTaam) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 4:22 |
 | 26 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
-| 27 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 |
+| 27 | [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 |
 | 28 | [Million Years Ago](https://open.spotify.com/track/0ijHEBUBXIJPp5ubUkDLQi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:47 |
-| 29 | [Last Call](https://open.spotify.com/track/2Oi3kP3EH1kNGmjmYPJZXS) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [On Your Radar](https://open.spotify.com/album/1sN8FMIDaVi1m2bViwrMqa) | 4:00 |
+| 29 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 |
 | 30 | [I Am Falling in Love](https://open.spotify.com/track/6w0hYR4t6m3AYgCDh29t9K) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 4:08 |
 | 31 | [My Love, My Life](https://open.spotify.com/track/248wt1trbhwrNN5fBC3Q3W) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u), [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K), [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:49 |
 | 32 | [Slipping Through My Fingers \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/1QRKeAlaLqJUeCWMBRP20A) | [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 3:50 |
 | 33 | [Turning Tables](https://open.spotify.com/track/4oy98QoABnGKpvapDkI525) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:10 |
-| 34 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
-| 35 | [Yours](https://open.spotify.com/track/4OQV9f6vEm51aOYkxZ4rDk) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 2:52 |
+| 34 | [Last Call](https://open.spotify.com/track/2Oi3kP3EH1kNGmjmYPJZXS) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [On Your Radar](https://open.spotify.com/album/1sN8FMIDaVi1m2bViwrMqa) | 4:00 |
+| 35 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
 | 36 | [Over You](https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 4:43 |
 | 37 | [One Of Us](https://open.spotify.com/track/71CU7N8x2l4b5DEHPXxZfE) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u), [Dominic Cooper](https://open.spotify.com/artist/0F6wZIBwxstvRk9eQtpvOo) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:45 |
 | 38 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 |
 | 39 | [Unlearn You](https://open.spotify.com/track/5gsPvnJ5yqJsk52w6pEaUH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 2:42 |
-| 40 | [fOoL fOr YoU](https://open.spotify.com/track/6lvsJDZ7336YmpBzcNGhbe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
-| 41 | [She Used To Be Mine](https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [What's Inside: Songs from Waitress](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) | 4:10 |
+| 40 | [Yours](https://open.spotify.com/track/4OQV9f6vEm51aOYkxZ4rDk) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 2:52 |
+| 41 | [fOoL fOr YoU](https://open.spotify.com/track/6lvsJDZ7336YmpBzcNGhbe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
 | 42 | [Got The Love \- acoustic](https://open.spotify.com/track/7AtFyDfk3bd82xKgSGsSM8) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Got The Love \(acoustic\)](https://open.spotify.com/album/2V9KI977ejOEa0UZ5EsfKP) | 2:29 |
 | 43 | [Don't You Remember](https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:03 |
 | 44 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 |
 | 45 | [Dear Love](https://open.spotify.com/track/2iFvY1l5o2mmUAjBq1L9Mh) | [Lauren Marsh](https://open.spotify.com/artist/4vVfuZfXWu18vk5Z4C7wbm) | [Veracity](https://open.spotify.com/album/4M9Ti6t5h54aDMX4SizDfT) | 3:41 |
-| 46 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
-| 47 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 |
+| 46 | [She Used To Be Mine](https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [What's Inside: Songs from Waitress](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) | 4:10 |
+| 47 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
 | 48 | [Remedy](https://open.spotify.com/track/5CjKwY7FUJgKSwTVzoQIaU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:05 |
 | 49 | [Die With You](https://open.spotify.com/track/5Ww9np0yb02gc6ziBuqXQS) | [Metrixx](https://open.spotify.com/artist/3dpG6M91e9gkMArlQ5hSha) | [Summer Hits](https://open.spotify.com/album/7imPSm02gUNzxnCOrdvjt4) | 3:29 |
-| 50 | [Light In You](https://open.spotify.com/track/7MmmkKkX7nOwa5dVgzd1KA) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/08mhDNxoOmnXDIva5Y9t1V) | 4:23 |
+| 50 | [Make It Back to Me](https://open.spotify.com/track/6IBtkq1AGJUkGiUZ1SHFel) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Ben Haenow](https://open.spotify.com/album/6EnU2AAaHLj43wAq32N4Q5) | 3:59 |
 
-Snapshot ID: `MTY2NDMzMTIwOCwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1`
+Snapshot ID: `MTY2NDQxNzIyNSwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1`

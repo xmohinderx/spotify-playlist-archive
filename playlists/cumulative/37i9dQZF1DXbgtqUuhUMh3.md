@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Noel Kharman
 
-310 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+311 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-03-01 | 2022-03-04 |
 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-30 | 2022-02-27 |
 | [Marhaban](https://open.spotify.com/track/6zkq5qtCUmybCKNyZoLjBB) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Marhaban](https://open.spotify.com/album/087Ek5lR2SpnQ0Yn5RQ641) | 4:33 | 2021-12-23 | 2022-03-02 |
-| [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 |  |
+| [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 | 2022-09-29 |
 | [Mathal Albanat](https://open.spotify.com/track/6G4sRxjZ45accUYT0hmFi4) | [Hala Al Kaseer](https://open.spotify.com/artist/3RvJqoswzwh53Dme2rHbFv) | [Mathal Albanat](https://open.spotify.com/album/3sl2WE6YkHoIQZbHEz2Cfs) | 3:34 | 2021-12-23 | 2022-03-01 |
 | [Mawaqif](https://open.spotify.com/track/3LOqtToly651USdV4pOdXt) | [Shushu Nasser](https://open.spotify.com/artist/1zEVxr4BrEzvLZKofE4Mm2) | [Mawaqif](https://open.spotify.com/album/2Gjo2OBYTE59x8Y2JElDxH) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 | 2021-12-23 | 2022-03-02 |
@@ -277,8 +277,8 @@
 | [دنيا تخادعني](https://open.spotify.com/track/1PrYPtUDlryg0ZyNwaVZJb) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [دنيا تخادعني](https://open.spotify.com/album/138WUtaBeFpjSgRUJUHKX5) | 3:03 | 2022-01-20 | 2022-03-02 |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |
-| [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 | 2022-09-18 |
-| [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 |  |
+| [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 |  |
+| [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 | 2022-09-29 |
 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 | 2022-08-19 |  |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 | 2021-12-23 | 2022-03-02 |
@@ -306,6 +306,7 @@
 | [مسرح جريمة](https://open.spotify.com/track/5timjfXtZMJ2ES6SIHngpB) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [مسرح جريمة](https://open.spotify.com/album/2F5th84z3aSD96wUZqBDXe) | 3:47 | 2021-12-23 | 2022-03-02 |
 | [مش مستاهلة](https://open.spotify.com/track/5MPZMTdpuQKvY2QZ0elrFp) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [مش مستاهلة](https://open.spotify.com/album/1itkIVwZrVHhLejalPbb9i) | 3:00 | 2022-09-20 |  |
 | [معلش](https://open.spotify.com/track/6UevY0ceM0L8M3PuLyHxRU) | [Sherihan Shawkat](https://open.spotify.com/artist/3evZrD6zWSzAM3pRgJi5eY) | [معلش](https://open.spotify.com/album/7vySmCQTu5DpLyEiEkKP78) | 2:13 | 2021-12-23 | 2022-02-28 |
+| [مفيش زينا](https://open.spotify.com/track/1wlQ4fzjRMzw3mRVpjAopn) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مفيش زينا](https://open.spotify.com/album/4a25kSPxLcPOqdqB0kKALz) | 1:49 | 2022-09-22 |  |
 | [مقصوده](https://open.spotify.com/track/1A8vh1a3SWiHTpi6VhupOy) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [مقصوده](https://open.spotify.com/album/5s317YC0Mp2Dm5HPYFhPpv) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [مليون وش](https://open.spotify.com/track/2ta3ozfEJ2O9162Wy2EcEh) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مليون وش](https://open.spotify.com/album/3tjB3hMfLxTTbf6kIOGg3t) | 1:50 | 2021-12-23 | 2022-03-02 |
 | [من أنا](https://open.spotify.com/track/3OscCnbSCyJQiHzN9zhang) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [من أنا](https://open.spotify.com/album/3jjB43pfvp1v3ZH55nYBNV) | 5:08 | 2021-12-23 | 2022-03-01 |

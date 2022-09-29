@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Ann Clue
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,413 likes - 80 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,540 likes - 80 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
