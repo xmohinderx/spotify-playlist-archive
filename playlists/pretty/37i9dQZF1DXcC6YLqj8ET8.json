@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 173633,
+  "num_followers": 173738,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTMyMDg5NCwwMDAwMDAwMGQzM2Q3MWE4OWU4YjNmZTRjN2Q2OTczZDhlMzVjNjY1",
+  "snapshot_id": "MTY0OTMyMDg5NCwwMDAwMDAwMGU4YzhlYWFjM2FjYjgyMDMwNzA1NjA4NTEwYjMxNzhj",
   "tracks": [
     {
       "added_at": "2022-04-07 08:41:34",
@@ -343,18 +343,18 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
+        "name": "Kyojin",
+        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
       },
       "artists": [
         {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
         }
       ],
-      "duration_ms": 170197,
-      "name": "Fury",
-      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
+      "duration_ms": 150875,
+      "name": "Kyojin",
+      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Kyojin",
-        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
       },
       "artists": [
         {
-          "name": "MVGMVR",
-          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Kyojin",
-      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
+      "duration_ms": 170197,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 229098,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Raqsni",
         "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
       },
@@ -539,22 +523,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Izdaja",
-        "url": "https://open.spotify.com/album/4JHBVlegmR6YPQxnGKuSTA"
-      },
-      "artists": [
-        {
-          "name": "NIN9",
-          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
-        }
-      ],
-      "duration_ms": 176535,
-      "name": "Izdaja",
-      "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Nouba",
         "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 178187,
       "name": "Nouba",
       "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 229098,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Izdaja",
+        "url": "https://open.spotify.com/album/4JHBVlegmR6YPQxnGKuSTA"
+      },
+      "artists": [
+        {
+          "name": "NIN9",
+          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
+        }
+      ],
+      "duration_ms": 176535,
+      "name": "Izdaja",
+      "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -587,18 +587,22 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "In Peace",
-        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
+        "name": "INVASION",
+        "url": "https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj"
       },
       "artists": [
         {
-          "name": "Dav the Ninja",
-          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
+          "name": "Dj Khalid Music",
+          "url": "https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt"
+        },
+        {
+          "name": "Hassan Hajila",
+          "url": "https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Tribe",
-      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
+      "duration_ms": 213062,
+      "name": "INVASION",
+      "url": "https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -619,22 +623,18 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "INVASION",
-        "url": "https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj"
+        "name": "In Peace",
+        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
       },
       "artists": [
         {
-          "name": "Dj Khalid Music",
-          "url": "https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt"
-        },
-        {
-          "name": "Hassan Hajila",
-          "url": "https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54"
+          "name": "Dav the Ninja",
+          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
         }
       ],
-      "duration_ms": 213062,
-      "name": "INVASION",
-      "url": "https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh"
+      "duration_ms": 219428,
+      "name": "Tribe",
+      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Mazikah",
-        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
-      },
-      "artists": [
-        {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "Mazikah",
-      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Token Baashi",
         "url": "https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 221192,
       "name": "Token Baashi",
       "url": "https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Mazikah",
+        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
+      },
+      "artists": [
+        {
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Mazikah",
+      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212307,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
     },
     {
       "added_at": "2022-04-07 08:41:34",

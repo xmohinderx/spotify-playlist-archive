@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 471892,
+  "num_followers": 472519,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMDQxZTBjMjE3YTZkYTcwZDQ1ZmI2NjQ1MGJmMjM1OGQw",
+  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMGFlMGRkODdjZjFhMDJmYTMwMDBmMDYzOWM3YTBhN2My",
   "tracks": [
     {
       "added_at": "2022-09-02 14:31:45",
@@ -355,26 +355,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Someone You Loved (Future Humans Remix)",
-        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "Someone You Loved - Future Humans Remix",
-      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "I'll Be There (Cahill Remix)",
         "url": "https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 183991,
       "name": "I'll Be There - Cahill Remix",
       "url": "https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Someone You Loved (Future Humans Remix)",
+        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Someone You Loved - Future Humans Remix",
+      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -543,30 +543,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Body (Dzeko Remix)",
-        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Body - Dzeko Remix",
-      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Levitating (feat. DaBaby) [Don Diablo Remix]",
         "url": "https://open.spotify.com/album/0burg8ILBxjUZACvJBw0pR"
       },
@@ -591,26 +567,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+        "name": "Body (Dzeko Remix)",
+        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         },
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
         }
       ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+      "duration_ms": 165714,
+      "name": "Body - Dzeko Remix",
+      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -631,6 +607,30 @@
       "duration_ms": 257293,
       "name": "S&M Remix",
       "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Kiss It Better (Dance Remix)",
+        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Kiss It Better - R3hab Remix",
+      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Mama (Remixes)",
         "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Kiss It Better (Dance Remix)",
-        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
+        "name": "Ain't My Fault (R3hab Remix)",
+        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Kiss It Better - R3hab Remix",
-      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
+      "duration_ms": 158772,
+      "name": "Ain't My Fault - R3hab Remix",
+      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -811,26 +831,6 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Ain't My Fault (R3hab Remix)",
-        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158772,
-      "name": "Ain't My Fault - R3hab Remix",
-      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Chasing Highs (Felix Cartal Remix)",
+        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Chasing Highs - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Cool Girl (Nora En Pure Remix)",
         "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 199480,
       "name": "Malibu - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Chasing Highs (Felix Cartal Remix)",
-        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
-      },
-      "artists": [
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "Chasing Highs - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1511,26 +1511,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "I Wanna Know (feat. Bea Miller) - Remixes",
-        "url": "https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l"
+        "name": "Scared To Be Lonely Remixes Vol. 1",
+        "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
         }
       ],
-      "duration_ms": 179047,
-      "name": "I Wanna Know (feat. Bea Miller) - Syn Cole Remix",
-      "url": "https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax"
+      "duration_ms": 200624,
+      "name": "Scared To Be Lonely - Brooks Remix",
+      "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1559,26 +1559,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Scared To Be Lonely Remixes Vol. 1",
-        "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
+        "name": "I Wanna Know (feat. Bea Miller) - Remixes",
+        "url": "https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         },
         {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 200624,
-      "name": "Scared To Be Lonely - Brooks Remix",
-      "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
+      "duration_ms": 179047,
+      "name": "I Wanna Know (feat. Bea Miller) - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Ocean (feat. Khalid) [David Guetta Remix]",
+        "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 195832,
+      "name": "Ocean (feat. Khalid) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2Ceq5Ty6rJqazoZIWyS0Vc"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Youngblood (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH"
       },
@@ -1687,8 +1711,8 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+        "name": "Roses (Remixes) (feat. ROZES)",
+        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
       },
       "artists": [
         {
@@ -1696,17 +1720,17 @@
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Zaxx",
+          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+      "duration_ms": 190266,
+      "name": "Roses (feat. ROZES) - Zaxx Remix",
+      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1779,26 +1803,22 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Ocean (feat. Khalid) [David Guetta Remix]",
-        "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
+        "name": "Don't Start Now (Remixes)",
+        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 195832,
-      "name": "Ocean (feat. Khalid) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2Ceq5Ty6rJqazoZIWyS0Vc"
+      "duration_ms": 216774,
+      "name": "Don't Start Now - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1823,26 +1843,6 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Don't Start Now (Remixes)",
-        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Don't Start Now - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1887,30 +1887,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Roses (Remixes) (feat. ROZES)",
-        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Zaxx",
-          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Roses (feat. ROZES) - Zaxx Remix",
-      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Ciao Adios (Remixes)",
         "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
       },
@@ -1931,70 +1907,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Say It Like You Feel It (Remixes)",
-        "url": "https://open.spotify.com/album/0pcDyyHQJNHRe83hiPmVxq"
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         },
         {
-          "name": "Sagan",
-          "url": "https://open.spotify.com/artist/5JHw3zW4kgwIZlh33geR1K"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 204375,
-      "name": "All My Love (feat. Conor Maynard) - Sagan Remix",
-      "url": "https://open.spotify.com/track/6WDUvd96KA8LkrmXcvGr7X"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Obsessed (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Obsessed - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Still Falling For You (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Still Falling For You - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2051,6 +1983,94 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Say It Like You Feel It (Remixes)",
+        "url": "https://open.spotify.com/album/0pcDyyHQJNHRe83hiPmVxq"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        },
+        {
+          "name": "Sagan",
+          "url": "https://open.spotify.com/artist/5JHw3zW4kgwIZlh33geR1K"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "All My Love (feat. Conor Maynard) - Sagan Remix",
+      "url": "https://open.spotify.com/track/6WDUvd96KA8LkrmXcvGr7X"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Obsessed (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Obsessed - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Still Falling For You (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Still Falling For You - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Takeaway (feat. Lennon Stella) [Remixes]",
         "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
       },
@@ -2079,26 +2099,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "24K Magic (R3hab Remix)",
-        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158678,
-      "name": "24K Magic - R3hab Remix",
-      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -2115,6 +2115,26 @@
       "duration_ms": 286346,
       "name": "Paradise - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "So Am I (The Remixes)",
+        "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "So Am I - Steve Void Dance Remix",
+      "url": "https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2139,26 +2159,6 @@
       "duration_ms": 216774,
       "name": "Nothing Breaks Like a Heart - Don Diablo Remix",
       "url": "https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "So Am I (The Remixes)",
-        "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "So Am I - Steve Void Dance Remix",
-      "url": "https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2207,26 +2207,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Final Song (Diplo & Jauz Remix)",
-        "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
+        "name": "Lullaby (Remixes)",
+        "url": "https://open.spotify.com/album/0NxQ3gYxmhnjg0NFwO45KT"
       },
       "artists": [
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         },
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "CALVO",
+          "url": "https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Final Song - Diplo & Jauz Remix",
-      "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
+      "duration_ms": 188333,
+      "name": "Lullaby - Calvo Remix",
+      "url": "https://open.spotify.com/track/3mqvUmsGVshZSf5INiebzO"
     }
   ],
   "unique_name": "Remix Hits",

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists\. Updates every Wednesday\. Cover: Indy Artwork: Paola Saliby
+> The best new pop music by independent artists\. Updates every Wednesday\. Cover: PIAO Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,174 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,247 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
-| 2 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 |
-| 3 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 |
-| 4 | [My Toxic Trait](https://open.spotify.com/track/6IybUJKNDOKbC9bSDCyDkI) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [PANIC](https://open.spotify.com/album/3z2M6tQbHxSgUuFyVrlSbq) | 4:07 |
+| 1 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 |
+| 2 | [My Toxic Trait](https://open.spotify.com/track/6IybUJKNDOKbC9bSDCyDkI) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [PANIC](https://open.spotify.com/album/3z2M6tQbHxSgUuFyVrlSbq) | 4:07 |
+| 3 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
+| 4 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 |
 | 5 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 |
 | 6 | [Die in LA](https://open.spotify.com/track/0H4lXr8lR0hk95nsDhcKve) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Die in LA](https://open.spotify.com/album/1IehfOIx5buIJNdPxqyL0h) | 2:35 |
 | 7 | [Toxic](https://open.spotify.com/track/0w0ppqrsKf2O42rAXAH3o1) | [Stupid Hobby](https://open.spotify.com/artist/499oIf4YdgPsXFnP6bt8T1) | [Toxic](https://open.spotify.com/album/5e4GaP1tr8YZfIgjhZwum6) | 2:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 84 | [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 |
 | 85 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 |
 
-Snapshot ID: `MTY2NDM4MDAyNSwwMDAwMDAwMDNmZjE2OTMwMGI2YTZmMDRjYzBhYmQ3MmE2YmEwNTg4`
+Snapshot ID: `MTY2NDQ2NTE4OCwwMDAwMDAwMGExMmM2NGEzOTUxM2Q1ZWMwOTYzMjUzNjU4MTY0NWRi`

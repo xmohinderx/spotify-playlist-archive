@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 226324,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 238866,
       "name": "Kromme Kurk",
       "url": "https://open.spotify.com/track/3x3UxCpTt0ocOhEuOkhQPi"
@@ -1436,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582000,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X"
+    },
+    {
+      "album": {
         "name": "Ohmu",
         "url": "https://open.spotify.com/album/00yLKbqXdvWkmdw7fRPlVd"
       },
@@ -1517,6 +1535,24 @@
       "duration_ms": 401333,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53"
+      },
+      "artists": [
+        {
+          "name": "Dans Dans",
+          "url": "https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455957,
+      "name": "Palm",
+      "url": "https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt"
     },
     {
       "album": {

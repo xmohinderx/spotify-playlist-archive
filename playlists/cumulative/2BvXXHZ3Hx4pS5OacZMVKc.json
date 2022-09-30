@@ -2874,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m"
+      },
+      "artists": [
+        {
+          "name": "Max Brhon",
+          "url": "https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245529,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b"
+    },
+    {
+      "album": {
         "name": "Retrophonic",
         "url": "https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2"
       },

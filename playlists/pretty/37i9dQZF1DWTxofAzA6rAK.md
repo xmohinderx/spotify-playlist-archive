@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,724 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,808 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 8 | [Piana](https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:41 |
 | 9 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 | 10 | [BOUNCE](https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [BOUNCE](https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV) | 2:33 |
-| 11 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 |
+| 11 | [25/8](https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl) | 3:47 |
 | 12 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 |
 | 13 | [Geet Weh](https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL) | [Silk Boss](https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF), [Terro Don](https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7) | [Geet Weh](https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635) | 2:51 |
 | 14 | [1Uptown](https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [1Uptown](https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX) | 2:17 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 60 | [Three Little Birds](https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5EITrZvdxDsCYsztF4LlHA) | 3:28 |
 | 61 | [Perfect Timing](https://open.spotify.com/track/1oVOsqeVthHmALeMn38oqN) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/7peKE7q2tOlYtcTuprgrWq) | 2:58 |
 
-Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMGQzNDFkMmM4NGE0YmNhODBlMmRjNGM1MTFiYWRiNzJh`
+Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMDg3MTlmYWFkNzY0NDgyNDRkYmQ1Y2E4NWExZmQzMzdh`

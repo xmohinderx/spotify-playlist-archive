@@ -4,7 +4,7 @@
 
 > Sounds of the city to help you drift off.
 
-201 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
+202 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Main square traffic](https://open.spotify.com/track/09VMJ3YOxkBkyZCK9priwz) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Traffic in the city](https://open.spotify.com/album/0av2R1wPeO6Tks0vUyWhgP) | 1:57 | 2022-06-03 |  |
 | [Manhattan Rain Sounds](https://open.spotify.com/track/6MT5qMCQdDCsoxuKoHdjk0) | [Sound Library XL](https://open.spotify.com/artist/4TSP5z4tH2k1UX5tGizj2w) | [Rainy NYC Streets](https://open.spotify.com/album/73w8htVDvoVFNWF5onXbQA) | 2:23 | 2022-08-03 |  |
 | [Maple Road](https://open.spotify.com/track/2qekIVZ6bcXav9pBSCBvVu) | [Man and Town](https://open.spotify.com/artist/4N1puMTTmIH6kdfbm9vSJY) | [CIty Sounds](https://open.spotify.com/album/64uzrDU78EAV9YejalfbkS) | 3:11 | 2022-08-03 |  |
+| [Marrakech Market](https://open.spotify.com/track/1xZ6F3O3iE1duR1ICSLGqe) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Marrakech Market](https://open.spotify.com/album/3Mgt0rguBPlxAK6rEHWI8R) | 2:49 | 2022-09-29 |  |
 | [Medium Traffic with Light Pedestrians in Vienna, Austria](https://open.spotify.com/track/31RLuj4tW8UI6BoacHDH7Z) | [Sound Ideas](https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR) | [City Sounds](https://open.spotify.com/album/6GVHYaRJmXq1nhzFZGNOi6) | 2:59 | 2022-02-09 |  |
 | [Morning City Feels](https://open.spotify.com/track/6QyMXPsKtDWisPNGiWjkB0) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Paris Is Alive](https://open.spotify.com/album/5CvKvvgR3WRQUFLmkViBHE) | 2:47 | 2022-08-03 |  |
 | [Morning Downpour](https://open.spotify.com/track/7svvjpfymTjk9OiVOKxMmI) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Paris Is Pouring](https://open.spotify.com/album/5pdi161zZmmgxz5pGjQSk5) | 2:41 | 2022-06-03 |  |

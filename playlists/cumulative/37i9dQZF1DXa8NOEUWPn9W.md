@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Dom Dolla
 
-413 songs - 1 day 1 hr 3 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+414 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Dreams](https://open.spotify.com/track/0yiDgx6WOtlJCVPQ5Q7Ob3) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:27 | 2021-06-27 | 2022-07-29 |
 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 | 2021-08-07 |  |
 | [Driver Seat](https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj) | 2:24 | 2021-04-10 | 2022-06-11 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-23 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-23 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-23 | 2022-09-30 |
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-16 | 2022-04-20 |
 | [Electric Mama](https://open.spotify.com/track/4O2Cd6mRDAwXp5ggwDNYep) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Electric Mama](https://open.spotify.com/album/3O0HOJw2enbn0mcNl0Iawv) | 6:47 | 2021-03-27\* | 2021-05-15 |
 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 | 2021-09-07 | 2022-07-24 |

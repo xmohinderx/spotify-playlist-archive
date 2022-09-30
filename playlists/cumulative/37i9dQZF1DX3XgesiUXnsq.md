@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: JID
 
-209 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+210 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 | 2022-04-29 |  |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 | 2022-06-04 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-29 |  |
-| [Triple Double \(feat\. Mac Miller & Curren$y\)](https://open.spotify.com/track/5RP1u9boxJ5OqfOUms1rUn) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/1t6oJOq5Lt8Ht6WSv7xSgD) | 3:47 | 2022-04-29 |  |
+| [Triple Double](https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2) | 3:47 | 2022-09-23 |  |
+| [Triple Double \(feat\. Mac Miller & Curren$y\)](https://open.spotify.com/track/5RP1u9boxJ5OqfOUms1rUn) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/1t6oJOq5Lt8Ht6WSv7xSgD) | 3:47 | 2022-04-29 | 2022-09-30 |
 | [Trouble Man.](https://open.spotify.com/track/5jPtXvN5kdWaA1H5A7SfID) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [Trouble Man.](https://open.spotify.com/album/3OjYPZsH6dkXft8n2bpn3z) | 2:10 | 2022-04-29 | 2022-09-03 |
 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 | 2022-04-29 |  |
 | [Vetements](https://open.spotify.com/track/2zXp0fBYnmQuKTkVPKLfOu) | [Kid Filthy](https://open.spotify.com/artist/31jIUrHXFNRQSU0IXWl0AC) | [Vetements](https://open.spotify.com/album/5PQ5ablLreYAOAQLEpvxwu) | 2:22 | 2022-04-29 | 2022-06-25 |

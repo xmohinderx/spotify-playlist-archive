@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-188 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
+193 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,13 @@
 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-08-26 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2022-08-26 |  |
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2022-08-26 |  |
+| [Always Be My Baby](https://open.spotify.com/track/7tvUpiHnjjkBA8BbMwCwTs) | [Luke Antony](https://open.spotify.com/artist/6W6FBsdtIeUFTHE3e9ZsHI) | [Always Be My Baby](https://open.spotify.com/album/6qGIYcVJnlz3D32wqAJ6Qz) | 4:00 | 2022-09-29 |  |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-26 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2022-08-26 |  |
 | [Apologize](https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Apologize](https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna) | 3:01 | 2022-08-26 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2022-08-26 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-08-26 |  |
+| [Baby](https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Baby](https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz) | 3:01 | 2022-09-29 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2022-08-26 |  |
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2022-08-26 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-26 |  |
@@ -125,6 +127,7 @@
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-26 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-08-26 |  |
 | [Most Girls \- Acoustic](https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Most Girls](https://open.spotify.com/album/2FymLjpzDVWD3BYrf33UHg) | 3:57 | 2022-08-26 |  |
+| [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-09-29 |  |
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2022-08-26 |  |
 | [My Girl](https://open.spotify.com/track/1YNI03S3TLYTEV3r0f086r) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:01 | 2022-08-26 |  |
 | [Never Ending Story](https://open.spotify.com/track/4x1HyRlBRnjTdsOz6osq1c) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Jess Thristan](https://open.spotify.com/artist/2rtfPkaYolh8brr0j5MVuM) | [Constellation](https://open.spotify.com/album/0t3diXkhlYUpfekeclMjaU) | 2:21 | 2022-08-26 |  |
@@ -175,6 +178,7 @@
 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 | 2022-08-26 |  |
 | [The Most Beautiful Girl](https://open.spotify.com/track/02T6721YnHaDUFAr0RxnWG) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The Most Beautiful Girl](https://open.spotify.com/album/3l6CwgyJgdurhwQeojyAik) | 2:53 | 2022-08-26 |  |
 | [The One I Love](https://open.spotify.com/track/2hSxdCbXOIUMdCl6raQ1uX) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The One I Love](https://open.spotify.com/album/4VOm59A2nywXEZlYF5ocBa) | 3:41 | 2022-08-26 |  |
+| [The Reason](https://open.spotify.com/track/2B4TIqs4j2ra9BFM29Cqtc) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [The Reason](https://open.spotify.com/album/2H7qrK1uVtHiFx1q4Yh8Yf) | 2:59 | 2022-09-29 |  |
 | [The Way](https://open.spotify.com/track/7hbJo8ip78Q9UHdnSFYN80) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [The Way](https://open.spotify.com/album/7dLvF0lRQWU1ublnAvB0Ro) | 3:09 | 2022-08-26 |  |
 | [These Days](https://open.spotify.com/track/7zcAFwEbHXNeIePVwMEIkS) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [These Days](https://open.spotify.com/album/6SjOIo4dbaf01ySqGRsN8Y) | 2:31 | 2022-08-26 |  |
 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 | 2022-08-26 |  |
@@ -184,6 +188,7 @@
 | [Watermelon Sugar \- Acoustic](https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Watermelon Sugar \(Acoustic\)](https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk) | 3:03 | 2022-08-26 |  |
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-08-26 |  |
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-08-26 |  |
+| [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 |  |
 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2022-08-26 |  |
 | [When The Party's Over](https://open.spotify.com/track/5q5dBBOHMnVnWaaRBdqBJE) | [Layla and Jonah](https://open.spotify.com/artist/0JECA8NZVFC9ELpMS17ogu) | [When The Party's Over](https://open.spotify.com/album/6HaZAiujA3nQFel38yZfQV) | 3:19 | 2022-08-26 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/0kQcWJTOfbktGHPEN0Gaa3) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Wherever You Will Go](https://open.spotify.com/album/6XwTT0vu0yqGtN4NVoC7HI) | 3:29 | 2022-08-26 |  |

@@ -68,6 +68,24 @@
     },
     {
       "album": {
+        "name": "Afternoon Beat",
+        "url": "https://open.spotify.com/album/4UdpnbyxbeC0CUx9hmb9Or"
+      },
+      "artists": [
+        {
+          "name": "Teenage Man",
+          "url": "https://open.spotify.com/artist/0xjzjMBQw0sBH94feNt7n5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134287,
+      "name": "Afternoon Beat",
+      "url": "https://open.spotify.com/track/3KIoACy4ofzCGGhqQFwTjn"
+    },
+    {
+      "album": {
         "name": "Albatross",
         "url": "https://open.spotify.com/album/0Dc7pbAboZYZJbp5dTUteW"
       },
@@ -345,6 +363,24 @@
       "duration_ms": 150000,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/5C0rxK7SXpM9OOld3gXgmH"
+    },
+    {
+      "album": {
+        "name": "Cherries and Blossoms",
+        "url": "https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW"
+      },
+      "artists": [
+        {
+          "name": "Aiko Ai",
+          "url": "https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103808,
+      "name": "Cherries and Blossoms",
+      "url": "https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV"
     },
     {
       "album": {
@@ -1001,7 +1037,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 148461,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/0bsRsGdtYvVj9JBuCwTf07"
@@ -1161,7 +1197,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 110062,
       "name": "Jazzmund",
       "url": "https://open.spotify.com/track/5YifN6WrqfZRAhvsTzcnJr"
@@ -1183,6 +1219,42 @@
       "duration_ms": 163255,
       "name": "Jelly",
       "url": "https://open.spotify.com/track/1SJR3tlgtFEGdzNrBHhHU2"
+    },
+    {
+      "album": {
+        "name": "Jukebox Jackpot",
+        "url": "https://open.spotify.com/album/6twsxXfO0e7jAWR3D7cwEO"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153982,
+      "name": "Jukebox Jackpot",
+      "url": "https://open.spotify.com/track/1xSXu8v1lqGK5smUTIdCNP"
+    },
+    {
+      "album": {
+        "name": "kambina",
+        "url": "https://open.spotify.com/album/72rOi5YJYzQzX7ZI4ikN9Y"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105981,
+      "name": "kambina",
+      "url": "https://open.spotify.com/track/1aw9yqJMXtjOxqzuos4lAW"
     },
     {
       "album": {
@@ -1560,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/2cYJWa3duRbEeOtKgYKAP6"
+      },
+      "artists": [
+        {
+          "name": "lofi stu",
+          "url": "https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/5qqB9YQu2Wp8xpIMBpsBvj"
+    },
+    {
+      "album": {
         "name": "Moscow Mule",
         "url": "https://open.spotify.com/album/705STMxVHJFCfJIdkIHujw"
       },
@@ -1618,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "Multiport",
+        "url": "https://open.spotify.com/album/7jZNpWcrYAPIXQD5krr7jp"
+      },
+      "artists": [
+        {
+          "name": "Surd\u00e9g Broed",
+          "url": "https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286813,
+      "name": "Multiport",
+      "url": "https://open.spotify.com/track/7r70zbC8D4lZxnljWf1XUa"
+    },
+    {
+      "album": {
         "name": "Nada Nada",
         "url": "https://open.spotify.com/album/5CXcJFDER42loQA5uHcXCW"
       },
@@ -1651,7 +1759,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 115714,
       "name": "Necochea",
       "url": "https://open.spotify.com/track/0EirG7Mt2lxF4W9GGvNtXf"
@@ -1681,6 +1789,24 @@
       "duration_ms": 165957,
       "name": "New leaf",
       "url": "https://open.spotify.com/track/5mSTZFzVkGV3FKvsKq07SH"
+    },
+    {
+      "album": {
+        "name": "Nice Pitch",
+        "url": "https://open.spotify.com/album/1v73k2thsh3HQj5iQymMAU"
+      },
+      "artists": [
+        {
+          "name": "The Stimulus Package",
+          "url": "https://open.spotify.com/artist/1YE5JXvzTTGUple0PRdaMu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Nice Pitch",
+      "url": "https://open.spotify.com/track/2lGgFyELRm1TgF7wETeZ2x"
     },
     {
       "album": {
@@ -2417,7 +2543,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 171529,
       "name": "Sunflower Plaza",
       "url": "https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW"

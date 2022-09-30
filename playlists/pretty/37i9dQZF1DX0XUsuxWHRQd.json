@@ -1,12 +1,12 @@
 {
   "description": "New music from DaBaby, Moneybagg Yo and YG.",
-  "num_followers": 14668427,
+  "num_followers": 14670589,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDEyODkzNywwMDAwMDAwMDIxNzk3YWRmMTFmNDRlYzJjYWQ0ZGQwNjI4OGY5NTZl",
+  "snapshot_id": "MTY2NDQyNDAwMCwwMDAwMDAwMDc5YmI3ZDNmYWRmMzJmMzE4NzU2ZDkyYTEzMTUwNWRh",
   "tracks": [
     {
       "added_at": "2022-09-23 15:56:39",
@@ -175,6 +175,22 @@
       "duration_ms": 166039,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "added_at": "2022-09-29 04:00:00",
+      "album": {
+        "name": "It Takes a Thief",
+        "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "duration_ms": 334440,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
     },
     {
       "added_at": "2022-09-23 15:56:39",

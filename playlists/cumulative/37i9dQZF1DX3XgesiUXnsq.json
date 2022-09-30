@@ -3907,6 +3907,32 @@
     {
       "album": {
         "name": "Mac & Cheese 3",
+        "url": "https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Triple Double",
+      "url": "https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo"
+    },
+    {
+      "album": {
+        "name": "Mac & Cheese 3",
         "url": "https://open.spotify.com/album/1t6oJOq5Lt8Ht6WSv7xSgD"
       },
       "artists": [
@@ -3925,7 +3951,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 227840,
       "name": "Triple Double (feat. Mac Miller & Curren$y)",
       "url": "https://open.spotify.com/track/5RP1u9boxJ5OqfOUms1rUn"

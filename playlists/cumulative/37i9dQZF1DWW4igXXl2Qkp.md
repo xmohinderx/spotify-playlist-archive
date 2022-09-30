@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Anti Da Menace
 
-488 songs - 21 hr 48 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+489 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,8 @@
 | [Piano Riff](https://open.spotify.com/track/3xTNFEFdzWnOHO9lvBSEIv) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR) | [Piano Riff](https://open.spotify.com/album/4e0VBRJlR3l7XQloHB0NA6) | 3:03 | 2022-02-24 | 2022-03-24 |
 | [Pippy Long](https://open.spotify.com/track/4gD5SzumVdVNBXQufTMWgG) | [OTM](https://open.spotify.com/artist/2kL4eDtAl8mixMQr6bndD1) | [Off The Mussle](https://open.spotify.com/album/2WyHeyQQ3VwCfsmMd6YZ71) | 4:14 | 2022-02-09 | 2022-03-10 |
 | [Play Dumb](https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Play Dumb](https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ) | 2:37 | 2022-03-02 | 2022-03-24 |
-| [Playboy](https://open.spotify.com/track/6tgUi4iyPlMmhRtObgPJFc) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/2jDIDTorE20GKuZgnNsVgp) | 2:24 | 2022-09-21 |  |
+| [Playboy](https://open.spotify.com/track/6tgUi4iyPlMmhRtObgPJFc) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/2jDIDTorE20GKuZgnNsVgp) | 2:24 | 2022-09-21 | 2022-09-30 |
+| [Playboy](https://open.spotify.com/track/7tirvvM9yib3Z3BgSXUHOi) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/5ePAyAIXfbLLyJmFRy6gxJ) | 2:24 | 2022-09-21 |  |
 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 | 2022-07-27 | 2022-08-25 |
 | [PPA](https://open.spotify.com/track/6hdQpybU08u1k4AJvNtKq8) | [Chelsea Pastel](https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F) | [Pastelevision](https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2) | 2:39 | 2022-01-13 | 2022-01-27 |
 | [Presence Of Color](https://open.spotify.com/track/2iqPogO76WlfJa8RuC9jX0) | [Lukah](https://open.spotify.com/artist/4kXGF3u3kGDHDoLmbdvUzS) | [Presence of Color](https://open.spotify.com/album/2lz0V1eZwDRhNQ1P7AYZEY) | 3:04 | 2022-08-24 |  |

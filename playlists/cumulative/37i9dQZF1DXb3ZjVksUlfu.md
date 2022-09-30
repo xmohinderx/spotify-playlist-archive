@@ -2,9 +2,9 @@
 
 ### [Alternative 70s](https://open.spotify.com/playlist/37i9dQZF1DXb3ZjVksUlfu)
 
-> The defining alternative hits from a decade that changed music\. Cover: David Bowie
+> The defining alternative hits from a decade that changed music\. Cover: Betty Davis
 
-119 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
+124 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2021-11-17 |  |
 | [Another Brick In The Wall, Pt\. 2 \- 2011 Remastered Version](https://open.spotify.com/track/21jBRxUvrWXTwBfGnQwyVy) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall \[2011 \- Remaster\] \(2011 Remastered Version\)](https://open.spotify.com/album/1ITpsfAcoaSe4i1tUXm44D) | 3:58 | 2021-11-17 | 2022-07-29 |
 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 | 2021-11-17 |  |
+| [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 | 2022-09-29 |  |
 | [Back Of My Hand](https://open.spotify.com/track/0WghYc6JU0HbCvsgGlyqId) | [Jags](https://open.spotify.com/artist/0dhvA4ex79khKjjpo11lGE) | [The Best Of](https://open.spotify.com/album/7yalRKNkzXk68kBGY3IJMm) | 3:15 | 2021-11-17 |  |
 | [Blank Generation](https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Blank Generation](https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw) | 2:43 | 2021-11-17 | 2022-07-29 |
 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 | 2021-11-17 |  |
@@ -34,11 +35,13 @@
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 | 2021-11-17 | 2022-07-29 |
 | [Brown Sugar](https://open.spotify.com/track/6Gi8vIT6In8RrT2eTKxoVR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/3i3imP9g6gCc6VzeeyduXZ) | 3:48 | 2021-11-17 | 2022-07-29 |
 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 | 2021-11-17 |  |
+| [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 | 2022-09-29 |  |
 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 | 2021-11-17 |  |
 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 | 2021-11-17 | 2022-07-29 |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2021-11-17 |  |
 | [Cool For Cats](https://open.spotify.com/track/4wZSxAXLNRFfQ0yyaCvHei) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/1WWmLNVao1zR1wf9YZDb08) | 3:39 | 2021-11-17 | 2022-07-29 |
 | [Cool For Cats](https://open.spotify.com/track/7sPEGLqEhyHDLGrz4EeLm2) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5) | 3:39 | 2021-11-17 |  |
+| [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 | 2022-09-29 |  |
 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 | 2021-11-17 |  |
 | [Dream Baby Dream](https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 6:24 | 2021-11-17 |  |
 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 | 2021-11-17 |  |
@@ -105,6 +108,7 @@
 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/1PwB9EADXS90I8LoewLXfl) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots And Panties \(Deluxe Edition\)](https://open.spotify.com/album/5tuUAXD8S0QVhPW7M2aQb0) | 3:07 | 2021-11-17 | 2022-07-29 |
 | [Sheena Is a Punk Rocker \- 2001 Remaster](https://open.spotify.com/track/2UnY8ApZT4roi66n1LDAil) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(Expanded 2005 Remaster\)](https://open.spotify.com/album/7J4f5lG898uHHGVOpNzD2I) | 2:49 | 2021-11-17 | 2022-07-29 |
 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 | 2021-11-17 |  |
+| [Shoo\-B\-Doop and Cop Him](https://open.spotify.com/track/1MCh9c35k0NAxE81oCrHU1) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 3:56 | 2022-09-29 |  |
 | [Shot By Both Sides \- Remastered](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 | 2021-11-17 |  |
 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 | 2021-11-17 |  |
 | [Sound and Vision \- 1999 Remaster](https://open.spotify.com/track/2JzZ8UTEb1GGvR8Ra0Nfy2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(1999 Remaster\)](https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b) | 3:04 | 2021-11-17 | 2022-07-29 |
@@ -118,6 +122,7 @@
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2021-11-17 |  |
 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 | 2021-11-17 | 2022-07-29 |
 | [The Sound Of The Suburbs](https://open.spotify.com/track/6RTh5BDes7y6KwC0rxW8WG) | [The Members](https://open.spotify.com/artist/4aUvbQAAA2SLQUH8ib96yn) | [Sound Of The Suburbs \- A Collection Of The Members Finest Moments](https://open.spotify.com/album/0BSYIkavBYdmMeS3FM9czD) | 3:53 | 2021-11-17 |  |
+| [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2022-09-29 |  |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 | 2021-11-17 |  |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/5FTbeZMbUgKfaSaCN8bY09) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/4jwO7dt0trrGu0ozSVNRgo) | 3:05 | 2021-11-17 | 2022-07-29 |
 | [Top of the Pops](https://open.spotify.com/track/2sICTf5zrSZnTttimrcm2M) | [The Rezillos](https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv) | [Can't Stand The Rezillos: The \[Almost\] Complete Rezillos](https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo) | 2:55 | 2021-11-17 |  |

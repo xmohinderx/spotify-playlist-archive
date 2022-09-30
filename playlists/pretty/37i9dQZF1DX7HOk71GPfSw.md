@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Yameii Online
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,152 likes - 121 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,686 likes - 121 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

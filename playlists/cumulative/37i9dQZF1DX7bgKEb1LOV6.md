@@ -4,7 +4,7 @@
 
 > NCTzens' go\-to place for all things NCT.
 
-152 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
+153 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Earthquake](https://open.spotify.com/track/3RNHlcwIRw9xMS9gcSz65P) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:28 | 2021-12-16 |  |
 | [Elevator \(127F\)](https://open.spotify.com/track/2Go7eMyOdfKqKOC4x32RYt) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:29 | 2021-12-16 |  |
 | [Elevator \(127F\)](https://open.spotify.com/track/7LVsF9wJOMfDrf0eXe3cUo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:29 | 2021-12-16 | 2022-07-29 |
-| [Everytime](https://open.spotify.com/track/0hvNY1ImjFU7fGqnZH1eVZ) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 2:58 | 2021-12-16 |  |
+| [Everytime](https://open.spotify.com/track/0hvNY1ImjFU7fGqnZH1eVZ) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 2:58 | 2021-12-16 | 2022-09-30 |
+| [Everytime](https://open.spotify.com/track/1ToGBJEWxe0WBjCr6k12el) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Everytime](https://open.spotify.com/album/4Vd1e6CleqWw7qggwZRHJJ) | 2:58 | 2021-12-16 |  |
 | [Faded In My Last Song](https://open.spotify.com/track/1nPMDcLKWTtGQH98waRTIk) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:35 | 2021-12-16 |  |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-12-16 |  |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-12-16 |  |

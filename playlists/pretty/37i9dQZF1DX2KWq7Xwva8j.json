@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Walls",
-  "num_followers": 19636,
+  "num_followers": 19651,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMDc2MDAyMDExMTNlYjhiNWFjZGE4YWRhMWMzYmY5NWY0",
+  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMDc4ZThjMDYwNjE1OGUyM2M2NWIzNzdkMzlkYWFjNDE5",
   "tracks": [
     {
       "added_at": "2022-09-23 07:16:09",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+      },
+      "artists": [
+        {
+          "name": "Mafalda Cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 159773,
       "name": "Alex Turner",
       "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "me gustas mas que un bigmac",
-        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
-      },
-      "artists": [
-        {
-          "name": "Mafalda Cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "me gustas mas que un bigmac",
-      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Malos H\u00e1bitos",
-        "url": "https://open.spotify.com/album/19EWEllS3yQpo8CM5Cxuqr"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 192768,
-      "name": "Malos H\u00e1bitos",
-      "url": "https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+        "name": "Malos H\u00e1bitos",
+        "url": "https://open.spotify.com/album/19EWEllS3yQpo8CM5Cxuqr"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+      "duration_ms": 192768,
+      "name": "Malos H\u00e1bitos",
+      "url": "https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -583,6 +567,22 @@
       "duration_ms": 138742,
       "name": "un poco m\u00e1s",
       "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -643,42 +643,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Dunas",
-        "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 108250,
-      "name": "Dunas",
-      "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "Lombard\u00eda 22",
         "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
       },
@@ -699,6 +663,42 @@
       "duration_ms": 179984,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "Dunas",
+        "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 108250,
+      "name": "Dunas",
+      "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "Marisol",
+        "url": "https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 172710,
+      "name": "Marisol",
+      "url": "https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "Ya No Hace Falta",
         "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 201076,
       "name": "Ya No Hace Falta",
       "url": "https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "Marisol",
-        "url": "https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 172710,
-      "name": "Marisol",
-      "url": "https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24"
     },
     {
       "added_at": "2022-09-23 07:16:09",

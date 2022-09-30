@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists\. Updates every Wednesday\. Cover: Indy Artwork: Paola Saliby
+> The best new pop music by independent artists\. Updates every Wednesday\. Cover: PIAO Artwork: Paola Saliby
 
 2,562 songs - 5 day 11 hr 6 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 

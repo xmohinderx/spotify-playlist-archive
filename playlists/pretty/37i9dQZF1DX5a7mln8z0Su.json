@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3995,
+  "num_followers": 4000,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMGE3MjI2YjZlZmNjNTdmMmVhNmMwMmY2ODRlMmNlYzcz",
+  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMGY1NDliYzQyZGFlMWNkZTMyMzQ4MTZiNzMyOWNmMThj",
   "tracks": [
     {
       "added_at": "2022-09-05 15:55:02",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166863,
       "name": "My World",
       "url": "https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2022-09-05 15:55:02",

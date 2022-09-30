@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 111129,
       "name": "Adagiati",
       "url": "https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 317834,
       "name": "Algae and Fungi part 2",
       "url": "https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 193660,
       "name": "As Pale as a Pearl",
       "url": "https://open.spotify.com/track/06aJtZTTyz4gfBOKfhaNys"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 292480,
       "name": "Bergsbotn I",
       "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 363903,
       "name": "Decryption",
       "url": "https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 198000,
       "name": "Faith and Reverence",
       "url": "https://open.spotify.com/track/5iPqoLslN6d14t7ZEeYHqu"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 103096,
       "name": "Mestigoth",
       "url": "https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -1423,10 +1423,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
+    },
+    {
+      "album": {
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299284,
+      "name": "Shenzhou",
+      "url": "https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL"
     },
     {
       "album": {
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 474186,
       "name": "Shika-1",
       "url": "https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 314279,
       "name": "Shine on You Crazy Diamond - Club Mix",
       "url": "https://open.spotify.com/track/4NaZg0fRM2K9uKqPd4oy86"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 277183,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/5n0zWKEVxHx5rRSy6wJC1E"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 308160,
       "name": "The Petrified Forest",
       "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 166480,
       "name": "Twin Decks",
       "url": "https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 187022,
       "name": "Two Ocean Plateau",
       "url": "https://open.spotify.com/track/1ygMskatKHmaYZRqU80klz"

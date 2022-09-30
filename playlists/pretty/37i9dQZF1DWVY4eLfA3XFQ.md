@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Deeper Purpose
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,144 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,243 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 12 | [Sun Goes Down \(feat\. KILLUA\) \- Guz Remix](https://open.spotify.com/track/5OqjDdZd9Yo2dbjrllnUjs) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Sun Goes Down \(feat\. KILLUA\) \[Guz Remix\]](https://open.spotify.com/album/542hQ6L27oSozwt1v4OOeU) | 2:39 |
 | 13 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 |
 | 14 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
-| 15 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 |
+| 15 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 16 | [Step To](https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Step To](https://open.spotify.com/album/2K3748HtawpGZUmelDKNhx) | 3:42 |
 | 17 | [I Know](https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [I Know](https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS) | 3:22 |
 | 18 | [Moderation \(At Night\)](https://open.spotify.com/track/7kyiBfD6aY6qsfLd0Hja3w) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Role\-Models](https://open.spotify.com/artist/7w33UaLOaSd5WNwiogGIlt), [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Moderation \(At Night\)](https://open.spotify.com/album/0hkWupyyYOTiSc8vDSm4dC) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 99 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 |
 | 100 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDQ1ODkwZDBhZDYxNjA2NDY4MDgwMWY4Y2Q0MzA2MDNm`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDM1NjJlMTkwMmE1YThjYTk1MDVkNjJlNjdmOWM4MTgy`

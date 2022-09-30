@@ -4,7 +4,7 @@
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-60 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/5ViJtyAwBRLu7fqFg9JMgY)
+61 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/5ViJtyAwBRLu7fqFg9JMgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Naakka Mukka 2](https://open.spotify.com/track/2kgQB4eQgTK977Y018Dstd) | [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Nakulan](https://open.spotify.com/artist/4sShJa0TojpdvbUAXzZmNr) | [Kadhalil Vizhundhen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7s4F0xJxgEtgv4zOMH2bQI) | 3:24 | 2021-11-15 |  |
 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 | 2021-11-15 |  |
 | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragathamani](https://open.spotify.com/artist/2P9o9u4Q287Hs2vyCBV3S2) | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/album/7DbivwZgoK0AXocXHom4RV) | 3:34 | 2022-01-03 |  |
-| [Nanbanukku Koila Kattu](https://open.spotify.com/track/0ogzETPx680QaVUYQ3UcZI) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Kanchana 3](https://open.spotify.com/album/12OX9m9OjyMXG21wn9piys) | 4:40 | 2021-11-15 |  |
+| [Nanbanukku Koila Kattu](https://open.spotify.com/track/0ogzETPx680QaVUYQ3UcZI) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Kanchana 3](https://open.spotify.com/album/12OX9m9OjyMXG21wn9piys) | 4:40 | 2021-11-15 | 2022-09-30 |
+| [Nanbanukku Koila Kattu](https://open.spotify.com/track/6IFIxZ68PdaKMcvcPytpkm) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Kanchana 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UzFQqFbsbQfnIN0B9FFew) | 4:40 | 2021-11-15 |  |
 | [Oru Porambokku](https://open.spotify.com/track/0PE3NLHgy6V90c5jGcALOr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Kedi Billa Killadi Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NfOPK1SBnNdV3P4ZB3jBQ) | 4:26 | 2021-11-15 |  |
 | [Oru Sattai Oru Balpam](https://open.spotify.com/track/5mjMNSapkdPs7pYMjpXM4x) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5) | [Kanchana 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UzFQqFbsbQfnIN0B9FFew) | 3:28 | 2021-11-15 |  |
 | [Oru Sattai Oru Balpam](https://open.spotify.com/track/1oAUAsizUCWizFqu3h0R4e) | [Saravedi Saran](https://open.spotify.com/artist/6n3uVs7rJIdBZQSQ8dJXI5), [Srinidhi](https://open.spotify.com/artist/6PspEXKcV5JQKcWcye7DNS) | [Kanchana 3](https://open.spotify.com/album/12OX9m9OjyMXG21wn9piys) | 3:28 | 2021-11-15 | 2022-09-29 |

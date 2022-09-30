@@ -3024,6 +3024,24 @@
     },
     {
       "album": {
+        "name": "De Todo Lo Que Fui.",
+        "url": "https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je"
+      },
+      "artists": [
+        {
+          "name": "Iconauta",
+          "url": "https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281201,
+      "name": "De Todo Lo Que Fui.",
+      "url": "https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T"
+    },
+    {
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/4TS5kGbastlg6AS7D1lzCG"
       },
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 252178,
       "name": "El Incendio",
       "url": "https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v"

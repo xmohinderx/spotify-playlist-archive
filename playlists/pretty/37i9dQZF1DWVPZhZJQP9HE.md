@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,604 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,646 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 3 | [Perth \- Tamil Cover](https://open.spotify.com/track/4ZQ0GVESzV875sbZljIsYK) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Perth \(Tamil Cover\)](https://open.spotify.com/album/1VABy76095kihwbKcxQi4b) | 4:29 |
 | 4 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 |
 | 5 | [Arugey Nee Pothumay](https://open.spotify.com/track/3T2tjy8V4meKO1cWNoQm6k) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Akshaya Jayakumar](https://open.spotify.com/artist/47q4WcACVC3frG4ZTgslUR) | [Arugey Nee Pothumay \- Single](https://open.spotify.com/album/4Hzjc66esQ4wvOjdfTrtDc) | 4:58 |
-| 6 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 |
+| 6 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 |
 | 7 | [Imaye \- From "Think Specials"](https://open.spotify.com/track/0Ung8cwAINVSXcIcSkZLIF) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Imaye \(From "Think Specials"\)](https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l) | 3:30 |
 | 8 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 |
 | 9 | [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 |

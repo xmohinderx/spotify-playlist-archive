@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: VIN\u00cdCIUS Arte: Isu Kim",
-  "num_followers": 12008,
+  "num_followers": 12025,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MTc3MywwMDAwMDAwMDIwZDViZmM1MjY4MWIwOTkzYmE1ZmJhYTZjZGY4MTc4",
+  "snapshot_id": "MTY2Mzk0MTc3MywwMDAwMDAwMDI5NDVlZDI4ODAyMjNlMTk0M2ZlZjI5NWZlZmM3MDhh",
   "tracks": [
     {
       "added_at": "2022-09-23 14:02:53",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
         "name": "Perdid\u00e3o",
         "url": "https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc"
       },
@@ -91,18 +107,18 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
       },
       "artists": [
         {
-          "name": "Aquino e a Orquestra Invis\u00edvel",
-          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
         }
       ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+      "duration_ms": 208264,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -127,22 +143,6 @@
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "CHICO E O MAR",
-        "url": "https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM"
-      },
-      "artists": [
-        {
-          "name": "Chico e o Mar",
-          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "Chuva de Ver\u00e3o",
         "url": "https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 180158,
       "name": "Chuva de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "CHICO E O MAR",
+        "url": "https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Boemia, de Fato",
-        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "LOX",
-          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Amor de Mar",
-      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "Prazer, Eu sou...",
         "url": "https://open.spotify.com/album/1F5HEGgxj49Y0Z3N0gSQIQ"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 191425,
       "name": "Prazer, Eu sou...",
       "url": "https://open.spotify.com/track/6tCC3PrYMoCj2znusZwEel"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "Boemia, de Fato",
+        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "LOX",
+          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Amor de Mar",
+      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "A Nossa Bossa",
         "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "VOU EMBORA DO BRASIL",
-        "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
         }
       ],
-      "duration_ms": 177500,
-      "name": "VOU EMBORA DO BRASIL",
-      "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -475,6 +459,22 @@
       "duration_ms": 165214,
       "name": "Toda Vez Que Tu Sorri",
       "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "VOU EMBORA DO BRASIL",
+        "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "VOU EMBORA DO BRASIL",
+      "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -515,22 +515,18 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Da Vida",
-        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
+        "name": "10%",
+        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Lug\u00f3",
-          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
-        },
-        {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Da Vida",
-      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+      "duration_ms": 169811,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -551,18 +547,22 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
+        "name": "Da Vida",
+        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
       },
       "artists": [
         {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+          "name": "M\u00e1rcio Lug\u00f3",
+          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
+        },
+        {
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
         }
       ],
-      "duration_ms": 169811,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
+      "duration_ms": 180680,
+      "name": "Da Vida",
+      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -651,38 +651,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
-        "name": "Cicatriz",
-        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
-      },
-      "artists": [
-        {
-          "name": "Tati Maia",
-          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Cicatriz",
-      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "Oxi (Dio Mio!)",
         "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 160413,
       "name": "Oxi (Dio Mio!)",
       "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -731,6 +715,22 @@
       "duration_ms": 189271,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
+      },
+      "artists": [
+        {
+          "name": "Tati Maia",
+          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "A Rua e Seus Encantos",
-        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
-      },
-      "artists": [
-        {
-          "name": "Bella Mattar",
-          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Culpa do Ver\u00e3o",
-      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "Trancado",
         "url": "https://open.spotify.com/album/5WxxhBMJXa3xDCtzI86sAf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 176938,
       "name": "Trancado",
       "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "A Rua e Seus Encantos",
+        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
+      },
+      "artists": [
+        {
+          "name": "Bella Mattar",
+          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Culpa do Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Do Jeito Mais Simples",
-        "url": "https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12"
-      },
-      "artists": [
-        {
-          "name": "Lili Novais",
-          "url": "https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "Do Jeito Mais Simples",
-      "url": "https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "Paris, Bahia",
         "url": "https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 188360,
       "name": "Nuvem (Ai Claud)",
       "url": "https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "Do Jeito Mais Simples",
+        "url": "https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12"
+      },
+      "artists": [
+        {
+          "name": "Lili Novais",
+          "url": "https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "Do Jeito Mais Simples",
+      "url": "https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e"
     },
     {
       "added_at": "2022-09-23 14:02:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-23 14:02:53",
       "album": {
-        "name": "Capsula do Tempo",
-        "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/4Wa9MXf7s93g8NPX9DFec2"
-        }
-      ],
-      "duration_ms": 143734,
-      "name": "Capsula do Tempo",
-      "url": "https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz"
-    },
-    {
-      "added_at": "2022-09-23 14:02:53",
-      "album": {
         "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
         "url": "https://open.spotify.com/album/4lygsdWpQVYh4qVMpq6dGD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 226402,
       "name": "N\u00e3o Falo Mais Sobre Voc\u00ea",
       "url": "https://open.spotify.com/track/46Q39wJFet06LfwYry8lsR"
+    },
+    {
+      "added_at": "2022-09-23 14:02:53",
+      "album": {
+        "name": "Capsula do Tempo",
+        "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/4Wa9MXf7s93g8NPX9DFec2"
+        }
+      ],
+      "duration_ms": 143734,
+      "name": "Capsula do Tempo",
+      "url": "https://open.spotify.com/track/489aEO9UR1aPjzsZhBmyyz"
     },
     {
       "added_at": "2022-09-23 14:02:53",

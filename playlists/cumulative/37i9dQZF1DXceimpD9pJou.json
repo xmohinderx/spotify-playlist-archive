@@ -3689,7 +3689,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 478225,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY"
@@ -8333,6 +8333,24 @@
       "duration_ms": 242497,
       "name": "Somos Las Voces",
       "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "album": {
+        "name": "Somos Libres",
+        "url": "https://open.spotify.com/album/491d5bIUUd4bwEbEILt3sy"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Somos Libres",
+      "url": "https://open.spotify.com/track/3mTmc6r4qI2mFQOxVAWwsW"
     },
     {
       "album": {

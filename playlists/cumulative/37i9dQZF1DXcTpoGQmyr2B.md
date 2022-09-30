@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-158 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
+160 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-08-03 |  |
 | [Dancing Queen](https://open.spotify.com/track/0BCtUTZyRh2VO3QgSl3rAi) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Dancing Queen / Girls Just Want To Have Fun](https://open.spotify.com/album/7ir0ig1WFPiizNnrE51VDM) | 3:52 | 2022-03-03 |  |
 | [Darlin' Don't](https://open.spotify.com/track/5OhmXu30aRLsWWMxjIVi4c) | [Stephen Fretwell](https://open.spotify.com/artist/6xdlt4biT0b4DKB3DMAfoj) | [Man On The Roof \(Deluxe Version\)](https://open.spotify.com/album/3OMBWwLMqtCGt9Sn1yV2eJ) | 2:45 | 2022-03-03 | 2022-07-29 |
-| [Darlin' Don't](https://open.spotify.com/track/7AiSsmjgMnO4bvJYdDkUhy) | [Stephen Fretwell](https://open.spotify.com/artist/6xdlt4biT0b4DKB3DMAfoj) | [Man On The Roof](https://open.spotify.com/album/5Y8eHIc4FrBeZwHqSzD0hH) | 2:45 | 2022-06-03 |  |
+| [Darlin' Don't](https://open.spotify.com/track/7AiSsmjgMnO4bvJYdDkUhy) | [Stephen Fretwell](https://open.spotify.com/artist/6xdlt4biT0b4DKB3DMAfoj) | [Man On The Roof](https://open.spotify.com/album/5Y8eHIc4FrBeZwHqSzD0hH) | 2:45 | 2022-06-03 | 2022-09-30 |
 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 | 2022-08-03 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2022-03-03 |  |
 | [Dust in the Wind](https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Dust in the Wind](https://open.spotify.com/album/58D2WGUEH9zfhjOBfwBy39) | 3:15 | 2022-03-03 |  |
@@ -101,6 +101,7 @@
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-03 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-05-06 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-03-03 |  |
+| [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-09-29 |  |
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2022-03-03 |  |
 | [New Slang](https://open.spotify.com/track/3GkL6as11lsXOHLQOLvUod) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/59zcK2BT7xqqOaCbeRxQq0) | 4:00 | 2022-03-03 | 2022-07-29 |
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-06-03 |  |
@@ -155,6 +156,7 @@
 | [The Chemicals Between Us](https://open.spotify.com/track/09lHGt2md0FVLwHtnSeMvV) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [The Chemicals Between Us](https://open.spotify.com/album/7MKlXS1i6qtDhd7gU80uSw) | 2:53 | 2022-03-03 |  |
 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 | 2022-08-03 |  |
 | [The Most Beautiful Girl](https://open.spotify.com/track/02T6721YnHaDUFAr0RxnWG) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The Most Beautiful Girl](https://open.spotify.com/album/3l6CwgyJgdurhwQeojyAik) | 2:53 | 2022-06-03 |  |
+| [The Reason](https://open.spotify.com/track/2B4TIqs4j2ra9BFM29Cqtc) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [The Reason](https://open.spotify.com/album/2H7qrK1uVtHiFx1q4Yh8Yf) | 2:59 | 2022-09-29 |  |
 | [The Way](https://open.spotify.com/track/7hbJo8ip78Q9UHdnSFYN80) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [The Way](https://open.spotify.com/album/7dLvF0lRQWU1ublnAvB0Ro) | 3:09 | 2022-03-03 |  |
 | [Thirteen](https://open.spotify.com/track/7tC8zRlPX5uauU8s3BaCkR) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [Thirteen](https://open.spotify.com/album/6HD1GX5h9MI6WGVtepGVHn) | 2:39 | 2022-03-03 |  |
 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 | 2022-03-03 |  |

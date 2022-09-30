@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-462 songs - 1 day 1 hr 57 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+463 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-08-20 |  |
 | [Heroine](https://open.spotify.com/track/59BztobCBPX9vKncmSjgkb) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Heroine](https://open.spotify.com/album/7LoTnrh6xxWFJDjNMtumvT) | 3:41 | 2019-09-27 | 2020-05-15 |
 | [Higher \- The Voice Australia 2021 / Grand Finalist Original](https://open.spotify.com/track/3L5hhI8J6k1SZKbGT0bWJJ) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Bella Taylor Smith: The Complete Collection \(The Voice Australia 2021\)](https://open.spotify.com/album/2223f3QCtkOZfMoWfL4POv) | 3:40 | 2021-09-14 | 2022-04-29 |
+| [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 | 2022-09-28 |  |
 | [Hindenburg Lover](https://open.spotify.com/track/7c1oZvy31JERjS66gsmdQA) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hindenburg Lover](https://open.spotify.com/album/2tkYpQFA8vNXkRlBV9W7kc) | 5:02 | 2020-05-01 | 2021-04-07 |
 | [Hit Me Where It Hurts](https://open.spotify.com/track/7aFaikaKGOeCB2A69xM2nb) | [Alae](https://open.spotify.com/artist/40Omv3GU8xlTpFpgTP47Z4) | [Hit Me Where it Hurts](https://open.spotify.com/album/6JGbYTpRD32ui09uqEKHnm) | 3:45 | 2019-10-25 | 2020-02-11 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2019-07-29\* | 2019-10-11 |

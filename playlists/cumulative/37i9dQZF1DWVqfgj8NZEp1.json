@@ -696,6 +696,28 @@
     },
     {
       "album": {
+        "name": "Konarski & Standards",
+        "url": "https://open.spotify.com/album/2dj69o8yltikLhY0a0afam"
+      },
+      "artists": [
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        },
+        {
+          "name": "Erik \u00d8rum von Spreckelsen",
+          "url": "https://open.spotify.com/artist/6Hiu0uIvp20zfquDA2HQW6"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371890,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ"
+    },
+    {
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO"
       },

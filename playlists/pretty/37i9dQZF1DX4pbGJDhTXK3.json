@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120148,
+  "num_followers": 120175,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDE3NmU2YzZmNDUyYTFlZGM2Mjk2N2E0NmM2MDM2NThl",
+  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDVkYTgwYzVhYzI5Mzk5ZTg0MzQ5MTRkYjNiMzBkMjdk",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "CDIII",
+        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        }
+      ],
+      "duration_ms": 493705,
+      "name": "Love in the Night",
+      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "This Time (Lindstr\u00f8m Remix)",
         "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 569159,
       "name": "This Time - Lindstr\u00f8m Remix",
       "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "CDIII",
-        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        }
-      ],
-      "duration_ms": 493705,
-      "name": "Love in the Night",
-      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
     },
     {
       "added_at": "2022-09-01 22:00:00",

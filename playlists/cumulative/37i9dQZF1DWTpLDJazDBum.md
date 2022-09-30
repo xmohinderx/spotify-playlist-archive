@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-238 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+241 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2022-04-08 |  |
 | [Brooding T\-Rex](https://open.spotify.com/track/2atx7EGXuT2Gi0m2M9ImyQ) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:37 | 2022-04-08 |  |
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-04-08 |  |
+| [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 | 2022-09-30 |  |
 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 |  |
 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-08-05 |  |
 | [Canterbury](https://open.spotify.com/track/6sMi7wVHKaFYIvZPZegu2s) | [SLAACEE](https://open.spotify.com/artist/32guYZQtWnj7Lx3kjqdxuT) | [Canterbury](https://open.spotify.com/album/4FQ63HSplUhltdkkqBsDFe) | 2:41 | 2022-04-08 |  |
@@ -72,7 +73,7 @@
 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2022-04-08 | 2022-09-09 |
 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 | 2022-04-08 |  |
 | [Enter](https://open.spotify.com/track/3wlxcdGzzqNrrOeTbw3Reg) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Enter](https://open.spotify.com/album/4CrvZ0RQ1sdC0gmSjfT6hg) | 5:20 | 2022-04-08 | 2022-05-27 |
-| [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 | 2022-09-16 |  |
+| [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/6u2hgxrLYevPlPhOfcgVW8) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 | 2022-09-16 |  |
 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 | 2022-04-08 | 2022-09-20 |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2022-08-05 |  |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-08 |  |
@@ -98,11 +99,13 @@
 | [Harvest](https://open.spotify.com/track/0GhNhefIBbZpoe3FQmVz2I) | [Minosour](https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a) | [Harvest](https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE) | 1:47 | 2022-04-08 |  |
 | [Hats Off](https://open.spotify.com/track/7M44Mj5Csy4IBWbWZUHaHV) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Hats Off](https://open.spotify.com/album/0M46HmldM8GjIqW5ZHpYsv) | 3:05 | 2022-05-26 |  |
 | [Have Your Fun](https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:17 | 2022-06-03 |  |
+| [Hero too \(My Hero Academia\)](https://open.spotify.com/track/1aVTcpKndPjsYPFVyVI4Xm) | [Kayou\. Beats](https://open.spotify.com/artist/1Yk4DjHKknMGT5tnxb3J0Y) | [Hero too \(My Hero Academia\)](https://open.spotify.com/album/2UA13ZnY6O9XlLXBp1Loyy) | 2:20 | 2022-09-30 |  |
 | [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-05-26 |  |
 | [How Does It Feel](https://open.spotify.com/track/0xmPtIIpkzi0sqBXTqPYwj) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [How Does It Feel](https://open.spotify.com/album/7iBIMGsXdqSKVQHG7UPLwU) | 2:25 | 2022-04-08 |  |
 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [Hypocrisy](https://open.spotify.com/track/34Fimf5dcnJeuX8OfCTIZz) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 3:05 | 2022-04-08 | 2022-05-27 |
 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 | 2022-09-09 |  |
+| [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 | 2022-09-30 |  |
 | [In Da Pot](https://open.spotify.com/track/4rii3ggIUkSgDoVU6FnFyC) | [Triangle Spirits](https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs) | [In Da Pot](https://open.spotify.com/album/07LTbLOWIB40xH0SLFsAX4) | 2:53 | 2022-09-16 |  |
 | [In Reality](https://open.spotify.com/track/5cuq5rEehD4lyRSTXrac0l) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:19 | 2022-04-08 | 2022-05-27 |
 | [In the Dash](https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:01 | 2022-06-03 |  |

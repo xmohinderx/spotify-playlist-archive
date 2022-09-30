@@ -307,7 +307,7 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199000,
@@ -633,7 +633,7 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208680,
@@ -695,7 +695,7 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163940,
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
@@ -1717,7 +1717,7 @@
           "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193918,
@@ -1891,7 +1891,7 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196500,
@@ -1909,7 +1909,7 @@
           "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179610,
@@ -2003,7 +2003,7 @@
           "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176208,
@@ -2307,7 +2307,7 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196864,
@@ -2567,7 +2567,7 @@
           "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "date_added": "2022-09-27",
+      "date_added": "2022-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225250,
@@ -5397,6 +5397,28 @@
       "duration_ms": 187835,
       "name": "Se Fue La Pantera",
       "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362040,
+      "name": "Se Les Cae el Canton",
+      "url": "https://open.spotify.com/track/3TV4GvKlDM5GRAbkePDxoJ"
     },
     {
       "album": {

@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Mayolo",
+        "url": "https://open.spotify.com/album/33o2Ag598tg75EEbPToi8n"
+      },
+      "artists": [
+        {
+          "name": "Crouwel",
+          "url": "https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287219,
+      "name": "Mayolo",
+      "url": "https://open.spotify.com/track/6phAArzDBUtL4vek1VY7l0"
+    },
+    {
+      "album": {
         "name": "Mine Today EP",
         "url": "https://open.spotify.com/album/5bY9SLu6llEvhHPCVubMVx"
       },

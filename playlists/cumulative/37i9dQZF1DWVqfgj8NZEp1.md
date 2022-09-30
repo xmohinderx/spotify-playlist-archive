@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-237 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+238 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Blue and Sentimental](https://open.spotify.com/track/1axzRYUUASTfN4OOtrjfQd) | [Julian Dash](https://open.spotify.com/artist/7p1C6cbN2rgBErzfB1u3Z7), [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU), [Eugene Ramey](https://open.spotify.com/artist/7ffoD3rhARHcuKeMTThKa4), [Gus Johnson, Jr.](https://open.spotify.com/artist/4REsbbka8Bf33uErWPdAnH), [Buddy Tate](https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U) | [Jay McShann: Going to Kansas City](https://open.spotify.com/album/5BvDwE4uR2J9ERnQawuCur) | 6:29 | 2020-10-09 | 2022-09-20 |
 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 | 2020-10-09 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2020-10-09 | 2022-03-11 |
+| [Body and Soul](https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Erik Ørum von Spreckelsen](https://open.spotify.com/artist/6Hiu0uIvp20zfquDA2HQW6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:11 | 2022-09-29 |  |
 | [Can't Help Loving](https://open.spotify.com/track/4zRweMHazlqCTUe6GvviYf) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:41 | 2020-10-09 |  |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Canción Contra La Indecisión](https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc) | 4:12 | 2020-10-09 | 2022-06-29 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2020-10-09 | 2022-05-03 |

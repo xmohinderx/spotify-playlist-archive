@@ -1,12 +1,12 @@
 {
   "description": "With Max Reichert, brodyn, Wesley Collins and more",
-  "num_followers": 1260,
+  "num_followers": 1262,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxNzIyMywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
+  "snapshot_id": "MTY2NDUwNTA0MywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Native Sessions (Live from ATX)",
-        "url": "https://open.spotify.com/album/7pR39qAoumFFMipUDaVS4l"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Bad Enough (Live)",
-      "url": "https://open.spotify.com/track/2UT5bZ4gUhVGVLi2F3DhOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweatshirt (Don't Let Go)",
         "url": "https://open.spotify.com/album/5ODmBjFzCdHc5scaPDfug9"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 293525,
       "name": "Sweatshirt (Don't Let Go)",
       "url": "https://open.spotify.com/track/4ZFqTzkzm163dFIZ9XmizE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Thieves",
+        "url": "https://open.spotify.com/album/5CaFVNcmwlghcQXdypeMU0"
+      },
+      "artists": [
+        {
+          "name": "Future Thieves",
+          "url": "https://open.spotify.com/artist/5EeatowmM27FYdq10duh7p"
+        }
+      ],
+      "duration_ms": 212204,
+      "name": "Dark Spin",
+      "url": "https://open.spotify.com/track/2P5ieSkaE83wJ9KOyT3SL0"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
       "duration_ms": 240725,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6YrZ1StlY8AA64Bm72F1YD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future Thieves",
-        "url": "https://open.spotify.com/album/5CaFVNcmwlghcQXdypeMU0"
-      },
-      "artists": [
-        {
-          "name": "Future Thieves",
-          "url": "https://open.spotify.com/artist/5EeatowmM27FYdq10duh7p"
-        }
-      ],
-      "duration_ms": 212204,
-      "name": "Dark Spin",
-      "url": "https://open.spotify.com/track/2P5ieSkaE83wJ9KOyT3SL0"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "I'm In Love With Everybody",
+      "url": "https://open.spotify.com/track/0WJ19bFgOB0DKOKaU6E2Mj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heavy Sunshine",
         "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
       },
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN"
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
       },
       "artists": [
         {
@@ -304,25 +304,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 261320,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Ends Up Ending",
-        "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
-      },
-      "artists": [
-        {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "I'm In Love With Everybody",
-      "url": "https://open.spotify.com/track/0WJ19bFgOB0DKOKaU6E2Mj"
+      "duration_ms": 316733,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 251000,
       "name": "Feel the Same",
       "url": "https://open.spotify.com/track/3FmowjgP140Te2KFmPsc2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wash",
+        "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 229784,
+      "name": "Holding You, Holding Me",
+      "url": "https://open.spotify.com/track/7eir9oKMtbGmg5t7iOMtQR"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN"
       },
       "artists": [
         {
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 316733,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash",
-        "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
-      },
-      "artists": [
-        {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
-        }
-      ],
-      "duration_ms": 229784,
-      "name": "Holding You, Holding Me",
-      "url": "https://open.spotify.com/track/7eir9oKMtbGmg5t7iOMtQR"
+      "duration_ms": 261320,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ"
     },
     {
       "added_at": null,
@@ -443,18 +427,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Native Architects EP",
-        "url": "https://open.spotify.com/album/1siCrPD80Sa3PT67PTiJ7J"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au"
       },
       "artists": [
         {
-          "name": "The Native Architects",
-          "url": "https://open.spotify.com/artist/4bEcyz1RWDU8f6XnEb1Fay"
+          "name": "Y\u00f8uth",
+          "url": "https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH"
         }
       ],
-      "duration_ms": 289781,
-      "name": "You",
-      "url": "https://open.spotify.com/track/43Bg5bwZ4AFhiaCTrq7I9m"
+      "duration_ms": 230769,
+      "name": "Hey Carolina",
+      "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now We Know",
+        "url": "https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Kern",
+          "url": "https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0"
+        }
+      ],
+      "duration_ms": 198890,
+      "name": "Now We Know",
+      "url": "https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0"
     },
     {
       "added_at": null,
@@ -511,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f8uth",
-          "url": "https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Hey Carolina",
-      "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now We Know",
-        "url": "https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Kern",
-          "url": "https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0"
-        }
-      ],
-      "duration_ms": 198890,
-      "name": "Now We Know",
-      "url": "https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash",
         "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
       },
@@ -555,6 +523,38 @@
       "duration_ms": 202000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEED YOU STILL",
+        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
+      },
+      "artists": [
+        {
+          "name": "RVRB",
+          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
+        }
+      ],
+      "duration_ms": 257988,
+      "name": "NEED YOU STILL",
+      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling up (mixtape)",
+        "url": "https://open.spotify.com/album/77ucQ2VdLEPwBgC7e71NSr"
+      },
+      "artists": [
+        {
+          "name": "Will Heggadon",
+          "url": "https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/4nmMZB8s9x3qQ7WSBneOFj"
     },
     {
       "added_at": null,
@@ -607,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEED YOU STILL",
-        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
-      },
-      "artists": [
-        {
-          "name": "RVRB",
-          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
-        }
-      ],
-      "duration_ms": 257988,
-      "name": "NEED YOU STILL",
-      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Native Architects EP",
-        "url": "https://open.spotify.com/album/1siCrPD80Sa3PT67PTiJ7J"
-      },
-      "artists": [
-        {
-          "name": "The Native Architects",
-          "url": "https://open.spotify.com/artist/4bEcyz1RWDU8f6XnEb1Fay"
-        }
-      ],
-      "duration_ms": 258720,
-      "name": "Space Talk",
-      "url": "https://open.spotify.com/track/2kqMzzgzqyDrQO4WurQiJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i love you, i'm sorry",
         "url": "https://open.spotify.com/album/6IwXX5MC6LQq7k78Slv7gZ"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 278453,
       "name": "WYAF",
       "url": "https://open.spotify.com/track/34tECu2ryIb402OzrfexGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give & Take",
+        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
+      },
+      "artists": [
+        {
+          "name": "John Marc",
+          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
+        }
+      ],
+      "duration_ms": 271690,
+      "name": "Give & Take",
+      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Dead.",
+        "url": "https://open.spotify.com/album/3nNhG4qaKBOMTxp4O2D3Os"
+      },
+      "artists": [
+        {
+          "name": "Y O U T H F O O L",
+          "url": "https://open.spotify.com/artist/0Z5bTj2ks1eHLSBIHuwBs9"
+        }
+      ],
+      "duration_ms": 321954,
+      "name": "Better Off Dead.",
+      "url": "https://open.spotify.com/track/5M4XPBnqb0ZDsNaZe6EFPF"
     },
     {
       "added_at": null,
@@ -703,18 +703,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give & Take",
-        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
+        "name": "i love you, i'm sorry",
+        "url": "https://open.spotify.com/album/6IwXX5MC6LQq7k78Slv7gZ"
       },
       "artists": [
         {
-          "name": "John Marc",
-          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
+          "name": "Pacific",
+          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
         }
       ],
-      "duration_ms": 271690,
-      "name": "Give & Take",
-      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
+      "duration_ms": 244476,
+      "name": "never in love",
+      "url": "https://open.spotify.com/track/4s4sY3HHDIL8AHrvk2pWKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean (demo)",
+        "url": "https://open.spotify.com/album/75m5xvn8nUiYbRLXFYeEkW"
+      },
+      "artists": [
+        {
+          "name": "Cathartic Fall",
+          "url": "https://open.spotify.com/artist/34hoESwT0i65olCa02BdhO"
+        }
+      ],
+      "duration_ms": 231924,
+      "name": "Ocean - demo",
+      "url": "https://open.spotify.com/track/2sD2w0LAlY2DIIJTfIoKHs"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 226470,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i love you, i'm sorry",
-        "url": "https://open.spotify.com/album/6IwXX5MC6LQq7k78Slv7gZ"
-      },
-      "artists": [
-        {
-          "name": "Pacific",
-          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
-        }
-      ],
-      "duration_ms": 244476,
-      "name": "never in love",
-      "url": "https://open.spotify.com/track/4s4sY3HHDIL8AHrvk2pWKn"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean (demo)",
-        "url": "https://open.spotify.com/album/75m5xvn8nUiYbRLXFYeEkW"
-      },
-      "artists": [
-        {
-          "name": "Cathartic Fall",
-          "url": "https://open.spotify.com/artist/34hoESwT0i65olCa02BdhO"
-        }
-      ],
-      "duration_ms": 231924,
-      "name": "Ocean - demo",
-      "url": "https://open.spotify.com/track/2sD2w0LAlY2DIIJTfIoKHs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5hm2glRWeW8XaA8ArnoYrh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 289500,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3vd1kGy66qEnvWJHGLeiRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runaround",
+        "url": "https://open.spotify.com/album/5MtOrMQwm9050zvX8DjaYo"
+      },
+      "artists": [
+        {
+          "name": "The Catalina",
+          "url": "https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Runaround",
+      "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

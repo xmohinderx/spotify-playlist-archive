@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: noui
 
-111 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+112 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 |  |
+| [cactus](https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:52 | 2022-09-29 |  |
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 | 2022-06-17 |

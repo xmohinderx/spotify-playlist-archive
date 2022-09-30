@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-222 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+223 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 | 2022-08-12 |  |
 | [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2022-06-17 |  |
 | [cold green tea](https://open.spotify.com/track/0w0UHCWlEoeCP9iXRuJwB9) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [cold green tea](https://open.spotify.com/album/31lyYka2W7Gy4N0CnH0KeK) | 2:33 | 2022-07-29 |  |
+| [Colora](https://open.spotify.com/track/6cbqqfG9sIGOkUNFpEdV9I) | [Ellyaz](https://open.spotify.com/artist/26l6f5xmFB8UjSd9ngQtuY) | [Colora](https://open.spotify.com/album/5uNNfZZDqFxFGdoATsnIQK) | 1:57 | 2022-09-30 |  |
 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 | 2022-05-27 |  |
 | [Complicated](https://open.spotify.com/track/7kTRDpp1p3Yd2gX5kEOyaX) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Complicated](https://open.spotify.com/album/1oinxow7bxtoCfkATM8Hzo) | 2:37 | 2022-05-27 | 2022-07-15 |
 | [Creme De La Creme](https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Creme De La Creme](https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3) | 2:15 | 2022-05-27 |  |
@@ -104,7 +105,7 @@
 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 | 2022-08-19 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
-| [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 |  |
+| [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 | 2022-09-30 |
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 |  |
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |
@@ -168,7 +169,7 @@
 | [Sapphire Lake](https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sapphire Lake](https://open.spotify.com/album/5Repjf7oguBTeQY2Lxwyft) | 2:49 | 2022-06-24 |  |
 | [Satisfaction](https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2) | [Mysterybops](https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n) | [Satisfaction](https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ) | 1:52 | 2022-07-08 |  |
 | [Seasons Change](https://open.spotify.com/track/3Vdunna1LcFXyvLE50j5oK) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seasons Change](https://open.spotify.com/album/0FGJhpYTovyNwXoxUnvf3G) | 1:58 | 2022-07-29 | 2022-09-03 |
-| [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 | 2022-07-29 |  |
+| [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 | 2022-07-29 | 2022-09-30 |
 | [Serendipity](https://open.spotify.com/track/570mOFP7nwkJHEKuKoK0Gr) | [Ana's Dreams](https://open.spotify.com/artist/1GlVKWlsgnWjGGoSIzZhYe), [Amelia Clouds](https://open.spotify.com/artist/5nAP2r3JeLvqP3Fp5xNcw0) | [Indieana, Vol\. 3](https://open.spotify.com/album/2DwxZgvGGvdOzh1ywCxZcA) | 0:58 | 2022-06-10 | 2022-07-01 |
 | [Serenity](https://open.spotify.com/track/4YAs0eBrhNzlrfHXyvs25T) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Serenity](https://open.spotify.com/album/0uMvJwmibtvq8qLUXqddV8) | 2:06 | 2022-08-05 | 2022-08-12 |
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |

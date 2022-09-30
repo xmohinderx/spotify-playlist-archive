@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-178 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/0AgsqAvfHbdqkSc0aWP6fc)
+179 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/0AgsqAvfHbdqkSc0aWP6fc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [party \(SHUT DOWN\)](https://open.spotify.com/track/1XiRSYNZaDunJcZYlC1dU3) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:36 | 2020-12-27 | 2022-07-29 |
 | [party \(SHUT DOWN\)](https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:36 | 2020-12-27 |  |
 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 | 2020-12-27 |  |
+| [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-29 |  |
 | [RYO](https://open.spotify.com/track/2Q5sIXWWw3llIfo7GnHhoJ) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Byung Un](https://open.spotify.com/artist/6eJNQPPFPPuiLl0K35mptS) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 3:48 | 2020-12-27 |  |
 | [RYO](https://open.spotify.com/track/5o4rQTBC4vrQxaUGHYJLK3) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Byung Un](https://open.spotify.com/artist/6eJNQPPFPPuiLl0K35mptS) | [wonderlost](https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au) | 3:48 | 2020-12-27 | 2022-07-29 |
 | [She Said \(with BIBI\)](https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:28 | 2020-12-27 | 2022-07-29 |

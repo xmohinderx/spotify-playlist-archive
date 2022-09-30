@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz",
-  "num_followers": 140672,
+  "num_followers": 140772,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDYyMSwwMDAwMDAwMDg1ZGM0N2VjMGU0ZDE1MTFhNmEyNTJhODNlZTkzZmU5",
+  "snapshot_id": "MTY2NDQ5MjU4MCwwMDAwMDAwMDMzMmFhNWIzNWYwMGU1ZDcyMmNhMzNjNjdlYzA5ZjNi",
   "tracks": [
     {
       "added_at": "2022-09-23 08:10:21",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx"
+      },
+      "artists": [
+        {
+          "name": "Boy Teddy",
+          "url": "https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 183092,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx"
-      },
-      "artists": [
-        {
-          "name": "Boy Teddy",
-          "url": "https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Number One",
-      "url": "https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -711,22 +711,6 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Esquece o Mundo",
-        "url": "https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 246179,
-      "name": "Esquece o Mundo",
-      "url": "https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -851,38 +835,6 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Cada Detalhe Teu",
-        "url": "https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 206951,
-      "name": "Cada Detalhe Teu",
-      "url": "https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
         "name": "Jeito Dela",
         "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
       },
@@ -895,6 +847,22 @@
       "duration_ms": 208000,
       "name": "Jeito Dela",
       "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -919,18 +887,18 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
+        "name": "Cada Detalhe Teu",
+        "url": "https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 195493,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
+      "duration_ms": 206951,
+      "name": "Cada Detalhe Teu",
+      "url": "https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -951,6 +919,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
       },
@@ -963,22 +947,6 @@
       "duration_ms": 263906,
       "name": "Puro",
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 190190,
       "name": "No Bad Vibez",
       "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
       },
@@ -1167,6 +1135,22 @@
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1207,46 +1191,6 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "Ka Ta Importa",
-        "url": "https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ"
-      },
-      "artists": [
-        {
-          "name": "Felishia",
-          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
-        },
-        {
-          "name": "Oliver",
-          "url": "https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob"
-        }
-      ],
-      "duration_ms": 230978,
-      "name": "Ka Ta Importa",
-      "url": "https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1283,6 +1227,46 @@
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
+        }
+      ],
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1339,26 +1323,6 @@
       "duration_ms": 261115,
       "name": "J\u00e1 N\u00e3o Sei",
       "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
-    },
-    {
-      "added_at": "2022-09-23 08:10:21",
-      "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2022-09-23 08:10:21",
@@ -1435,6 +1399,26 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1463,22 +1447,38 @@
     {
       "added_at": "2022-09-23 08:10:21",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         },
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Elji Beatzkilla",
+          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
+      "duration_ms": 235179,
+      "name": "Rainha",
+      "url": "https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf"
+    },
+    {
+      "added_at": "2022-09-23 08:10:21",
+      "album": {
+        "name": "Cara Trancada",
+        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
+      },
+      "artists": [
+        {
+          "name": "KONSTANTINO",
+          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Cara Trancada",
+      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
     }
   ],
   "unique_name": "Dancing Kizomba",

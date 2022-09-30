@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Q
 
-1,680 songs - 3 day 22 hr 26 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,681 songs - 3 day 22 hr 31 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,7 +832,8 @@
 | [JUMO \(feat\. Valee\)](https://open.spotify.com/track/5tdZSNA5oYHNsaz68wf67K) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 3:07 | 2020-05-14 | 2020-10-17 |
 | [Jumpin'](https://open.spotify.com/track/2SK8FHEJmKkvd7iMQCmGN1) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:51 | 2021-11-19 | 2022-01-22 |
 | [June](https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [June](https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw) | 2:39 | 2021-08-07 | 2021-11-06 |
-| [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 |  |
+| [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 | 2022-09-30 |
+| [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-07-22 |  |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-14 | 2021-10-30 |
 | [Just for the Times](https://open.spotify.com/track/67LyilCFvsLvoC7zEBPcKK) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Just for the Times](https://open.spotify.com/album/3NPApmy06Q3QMZ5Es2SpBe) | 3:25 | 2021-03-06 | 2021-07-17 |
 | [Just When](https://open.spotify.com/track/01LTzmitkMqLmmrEEyUkqx) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Just When](https://open.spotify.com/album/4UJtK2bKAAJfaowBva1tPF) | 3:30 | 2019-07-30\* | 2019-10-10 |

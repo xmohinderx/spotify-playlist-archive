@@ -1,12 +1,12 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=JXvz7f1kRZ2bgimxyT-XIA\">Sha Sha</a>",
-  "num_followers": 343074,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q\">Pabi Cooper</a>",
+  "num_followers": 343568,
   "original_name": "AmaPiano Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE4NTI1NiwwMDAwMDAwMGEyYzdlOTczZjIyMzNlYWE1ZTU3NzVkMDUyMTAxZThl",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGY5NzEzYTE4NmZiMDgwMzc2OWQwM2U4NTUyOTI4NjJj",
   "tracks": [
     {
       "added_at": "2022-09-01 21:59:00",
@@ -2027,6 +2027,62 @@
       "duration_ms": 344222,
       "name": "Kayise",
       "url": "https://open.spotify.com/track/4YdTfTRZyTqvgqGq0MeXcB"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/0l6Td6OSgISuHoxAXDg5SF"
+      },
+      "artists": [
+        {
+          "name": "Zinah",
+          "url": "https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/2uNm1dL5V98jCzvxuhLDyk"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Revisit",
+        "url": "https://open.spotify.com/album/46eoMDB99MfBy1l3jm5lvS"
+      },
+      "artists": [
+        {
+          "name": "Theology HD",
+          "url": "https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH"
+        },
+        {
+          "name": "JosiahDeDisciple",
+          "url": "https://open.spotify.com/artist/4jp24GUbjmtKFlUIaLak0q"
+        }
+      ],
+      "duration_ms": 288865,
+      "name": "Revisit",
+      "url": "https://open.spotify.com/track/0IbxplIFZ0FOP8QjTEojCo"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Angisoze",
+        "url": "https://open.spotify.com/album/0HJxsbV323n1sCaNNoqLqg"
+      },
+      "artists": [
+        {
+          "name": "Hassan Mangete",
+          "url": "https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Angisoze",
+      "url": "https://open.spotify.com/track/6y4sdinegBi04Kp1k2suT4"
     }
   ],
   "unique_name": "AmaPiano Grooves",

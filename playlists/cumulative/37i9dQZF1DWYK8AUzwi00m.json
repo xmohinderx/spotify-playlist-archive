@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "A Merry Lo-Fi Christmas",
+        "url": "https://open.spotify.com/album/2EHasP4Jvp7sbqgAN2wcF0"
+      },
+      "artists": [
+        {
+          "name": "hope mona",
+          "url": "https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Deck the Halls - Lo-Fi",
+      "url": "https://open.spotify.com/track/03cWzdHw0bWbHEv8wYgAzg"
+    },
+    {
+      "album": {
         "name": "A Short Album With Christmas Songs but Lofi",
         "url": "https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8"
       },
@@ -1487,6 +1505,24 @@
       "duration_ms": 101044,
       "name": "My Christmas in Brooklyn",
       "url": "https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd"
+    },
+    {
+      "album": {
+        "name": "night bells",
+        "url": "https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI"
+      },
+      "artists": [
+        {
+          "name": "Lomery",
+          "url": "https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118560,
+      "name": "night bells",
+      "url": "https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul"
     },
     {
       "album": {

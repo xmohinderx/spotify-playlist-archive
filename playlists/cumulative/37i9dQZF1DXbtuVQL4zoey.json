@@ -1406,6 +1406,32 @@
     },
     {
       "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/5WLkshplMiCiYStEIQUA5z"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        },
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Comets",
+      "url": "https://open.spotify.com/track/0CIkHeRy9TMRJXfplWRDf1"
+    },
+    {
+      "album": {
         "name": "Escapades, Vol. 1",
         "url": "https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj"
       },
@@ -4065,7 +4091,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 105038,
       "name": "Munch",
       "url": "https://open.spotify.com/track/3qThAX1vBbI8ATxS2BP1Oj"
@@ -6560,6 +6586,24 @@
     },
     {
       "album": {
+        "name": "Too Much Rain",
+        "url": "https://open.spotify.com/album/5W6jypRJ9xyuDl6zqVfblg"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Too Much Rain",
+      "url": "https://open.spotify.com/track/0r1DmdncRC4AHRjFIZKwwn"
+    },
+    {
+      "album": {
         "name": "Toucan",
         "url": "https://open.spotify.com/album/1AybPKANweher1ysHuXOC7"
       },
@@ -6661,7 +6705,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 76923,
       "name": "Tropical mood",
       "url": "https://open.spotify.com/track/5iFoZkbtZ0XWwMR5jL0sQK"

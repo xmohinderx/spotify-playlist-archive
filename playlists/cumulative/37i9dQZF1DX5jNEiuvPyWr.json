@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Werenoi",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Araujo",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -23,6 +23,28 @@
       "duration_ms": 209503,
       "name": "0 Lucidit\u00e9",
       "url": "https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0"
+    },
+    {
+      "album": {
+        "name": "46.96.",
+        "url": "https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz"
+      },
+      "artists": [
+        {
+          "name": "La formule",
+          "url": "https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly"
+        },
+        {
+          "name": "BlackTria",
+          "url": "https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "A7",
+      "url": "https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM"
     },
     {
       "album": {
@@ -121,7 +143,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 219897,
       "name": "C'est pas d'ma faute c'est l'mood",
       "url": "https://open.spotify.com/track/6Rze4VVS34G8jyume7rIgj"
@@ -161,7 +183,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 172642,
       "name": "CAUCHEMAR",
       "url": "https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA"
@@ -673,7 +695,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 163608,
       "name": "J'rentre pas chez moi",
       "url": "https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa"
@@ -905,6 +927,24 @@
       "duration_ms": 178004,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB"
+    },
+    {
+      "album": {
+        "name": "Outrenoir",
+        "url": "https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y"
+      },
+      "artists": [
+        {
+          "name": "Dgeogo",
+          "url": "https://open.spotify.com/artist/7GGX4fMS8PPJ3n3ftcmfbE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154121,
+      "name": "MONEY TIME",
+      "url": "https://open.spotify.com/track/456DJS1um0455bLuepBH9J"
     },
     {
       "album": {
@@ -1249,6 +1289,24 @@
       "duration_ms": 202533,
       "name": "Regarde",
       "url": "https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m"
+    },
+    {
+      "album": {
+        "name": "R\u00eaves",
+        "url": "https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn"
+      },
+      "artists": [
+        {
+          "name": "Omar Syco",
+          "url": "https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "R\u00eaves",
+      "url": "https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=7Fic5eRsS4asQlK-vSZUKA\">Shooterkhumz</a> ",
+  "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V?si=OswpDZ50RyOR0EGTqt0TTw\">Roiii</a> ",
   "name": "Aux",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 158139,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 160093,
       "name": "Bona",
       "url": "https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 221269,
       "name": "Buddah of the year",
       "url": "https://open.spotify.com/track/0t60whoNK0BztGvGSDKRaw"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 195719,
       "name": "EMOYENI",
       "url": "https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG"
@@ -2378,6 +2378,32 @@
     },
     {
       "album": {
+        "name": "I Was Overthinking This",
+        "url": "https://open.spotify.com/album/4I2o2HtxSLxqvUmb5D1JAy"
+      },
+      "artists": [
+        {
+          "name": "Shooterkhumz",
+          "url": "https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238536,
+      "name": "God's Incense",
+      "url": "https://open.spotify.com/track/4vBGS75jLj7VlI2Oh1UuWA"
+    },
+    {
+      "album": {
         "name": "B4Now (Deluxe)",
         "url": "https://open.spotify.com/album/0r6pvobaQjiKf9e6sIFJeL"
       },
@@ -2703,7 +2729,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 159324,
       "name": "High Level",
       "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
@@ -3231,7 +3257,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 211200,
       "name": "Kancane",
       "url": "https://open.spotify.com/track/2q3hXg3mL0J8HqN81xYXxc"
@@ -3801,7 +3827,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 213575,
       "name": "MA",
       "url": "https://open.spotify.com/track/2ifBdURvhsinej6bYIvaxo"
@@ -4045,7 +4071,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 261265,
       "name": "Mnike",
       "url": "https://open.spotify.com/track/2GaiK1iddvfE73xYPFX7wv"
@@ -6093,7 +6119,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 204791,
       "name": "SUPERFICIAL",
       "url": "https://open.spotify.com/track/6HfuoY8orSvcCo384TLMX3"
@@ -7069,7 +7095,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 203392,
       "name": "Wave Your Hands To This",
       "url": "https://open.spotify.com/track/0i3OTXpbXLHsZCEJ4VnHsm"

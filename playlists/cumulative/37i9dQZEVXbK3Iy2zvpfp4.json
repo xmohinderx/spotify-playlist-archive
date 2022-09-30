@@ -2417,7 +2417,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 136733,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
@@ -4843,7 +4843,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -5365,7 +5365,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 221520,
       "name": "September",
       "url": "https://open.spotify.com/track/4f2GB5ZC7vOUYPAg69N2Xw"
@@ -6192,6 +6192,24 @@
     },
     {
       "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+    },
+    {
+      "album": {
         "name": "Stane Sa / To Okolo N\u00e1s",
         "url": "https://open.spotify.com/album/6nkWiiixRtzxOqOV58yOLW"
       },
@@ -6236,20 +6254,20 @@
     },
     {
       "album": {
-        "name": "Traktor! [230 bpm] (with saymooon)",
+        "name": "Traktor! (with saymooon)",
         "url": "https://open.spotify.com/album/75brCaOvHbJoDxcMTrbSen"
       },
       "artists": [
         {
-          "name": "Marzy",
-          "url": "https://open.spotify.com/artist/05uibQR4A4sQyIM5nDJcEi"
+          "name": "crazymarzy",
+          "url": "https://open.spotify.com/artist/5tzaOfkwDw8ggVouzCclMK"
         }
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163160,
-      "name": "Traktor! [230 bpm] (with saymooon)",
+      "name": "Traktor! (with saymooon)",
       "url": "https://open.spotify.com/track/7tKl0VtxiEMtgQtYgf4JAZ"
     },
     {
@@ -6607,7 +6625,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/6AdgGDGbdRMoCVkGye11Zw"

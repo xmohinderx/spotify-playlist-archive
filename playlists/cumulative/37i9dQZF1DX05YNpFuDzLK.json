@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Z.E.R.O.",
+        "url": "https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx"
+      },
+      "artists": [
+        {
+          "name": "BLUE ENCOUNT",
+          "url": "https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245013,
+      "name": "Z.E.R.O.",
+      "url": "https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg"
+    },
+    {
+      "album": {
         "name": "\u3053\u306e\u4e16\u754c\u3067",
         "url": "https://open.spotify.com/album/5A7FOGWsOo8PzO7esUjWod"
       },

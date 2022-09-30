@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42489,
+  "num_followers": 42503,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDQxZmVhNjJjNWViZDJlNDRkMmZjZjg3YzcwMWNmMjE3",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGNkNjMwMTBhNzlkNjEyZGMwMTc4YTA1ODUzYTliYzIw",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -315,18 +315,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
         }
       ],
-      "duration_ms": 156386,
-      "name": "07:00 the Morning Comes",
-      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -351,18 +351,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
       },
       "artists": [
         {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+      "duration_ms": 156386,
+      "name": "07:00 the Morning Comes",
+      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -383,6 +383,22 @@
       "duration_ms": 240853,
       "name": "When the Well Runs Dry",
       "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -415,22 +431,6 @@
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Everything Is Possible",
-        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
-      },
-      "artists": [
-        {
-          "name": "Matthew Zigenis",
-          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "Yes and Amen",
-      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 197426,
       "name": "Tides",
       "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Everything Is Possible",
+        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
+      },
+      "artists": [
+        {
+          "name": "Matthew Zigenis",
+          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Never Grow Tired",
         "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 261736,
       "name": "Never Grow Tired",
       "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",

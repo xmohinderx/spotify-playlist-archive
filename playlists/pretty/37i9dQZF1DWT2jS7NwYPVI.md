@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Kid Kapichi
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,201 likes - 127 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,243 likes - 127 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

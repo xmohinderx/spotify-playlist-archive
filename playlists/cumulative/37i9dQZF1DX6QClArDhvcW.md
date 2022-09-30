@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-225 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+230 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ecliptic](https://open.spotify.com/track/2Dv9Ic59334LE8oX6NqFOQ) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Ecliptic](https://open.spotify.com/album/4k7zfssPs64CGaF3G0Su49) | 1:17 | 2022-05-27 | 2022-08-19 |
 | [El Surf](https://open.spotify.com/track/081eB5su1F6rXFHoo6HQgU) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [El Surf](https://open.spotify.com/album/3FcOFOLtbIzmyimX0n9JJs) | 3:23 | 2022-05-20 | 2022-09-09 |
 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 | 2022-05-20 |  |
+| [eternallife](https://open.spotify.com/track/5VBBhsFui4voNhwcBS7QEm) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [eternallife](https://open.spotify.com/album/5VWP0cfp4IGajOpLt9YVfl) | 1:45 | 2022-09-30 |  |
 | [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-09-09 |  |
 | [Everything Once Again](https://open.spotify.com/track/6VIVyMdXYvA18tqfY9LNss) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Everything Once Again](https://open.spotify.com/album/5UWIOdwytfQBtbrJzq2exd) | 2:30 | 2022-05-20 |  |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-05-20 |  |
@@ -91,9 +92,11 @@
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2022-05-20 |  |
 | [i cannot believe my eyes](https://open.spotify.com/track/64ag5onD9UYygeni6UAIs6) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa) | [i cannot believe my eyes](https://open.spotify.com/album/7EQHbsS3gYzm223QQETZUn) | 2:33 | 2022-05-20 | 2022-09-17 |
 | [i moved yesterday](https://open.spotify.com/track/3tfgAy6ByGnENx1ioCvY8N) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [chio](https://open.spotify.com/artist/62yapIXWEg0Wx5zvYM4jLU) | [i moved yesterday](https://open.spotify.com/album/0apurRD8BbhrffPPGRDqjo) | 2:08 | 2022-05-20 |  |
+| [I've Landed](https://open.spotify.com/track/00Io5uAVAiQrBrRDRp9eVD) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [I've Landed](https://open.spotify.com/album/6JyGARDuGP7ccH6R5Q4Ft6) | 2:48 | 2022-09-30 |  |
 | [Imposter](https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Imposter](https://open.spotify.com/album/5SZYGrc8kIwaq1NdEZbdS0) | 2:10 | 2022-05-20 |  |
 | [In Bloom](https://open.spotify.com/track/3fAKzyoj5L5jfAMsXq1joE) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [In Bloom](https://open.spotify.com/album/3FpzqCIzD3hv1vkgqALa3e) | 2:18 | 2022-05-20 |  |
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 |  |
+| [Italian Breakfast](https://open.spotify.com/track/0Yi2QUB3BHX3Qsh1RZoN5f) | [Humble Bumble](https://open.spotify.com/artist/40munWRpLLLiDwly8t5Obf) | [Italian Breakfast](https://open.spotify.com/album/4PWamP1qmYWTlkpvScXxLp) | 2:07 | 2022-09-30 |  |
 | [Jazz Cafe](https://open.spotify.com/track/2OhZ1k6PhtBvTJtxyH49lp) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Jazz Cafe](https://open.spotify.com/album/45Xog21DpeQCkqbLYpovRH) | 1:12 | 2022-06-24 |  |
 | [Jazzberry Jam](https://open.spotify.com/track/0MOEPUaLuKGcPawPcvNuBR) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Jazzberry Jam](https://open.spotify.com/album/0laKgmFFSMDDn2plXZHh4U) | 2:26 | 2022-05-20 |  |
 | [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 | 2022-06-17 |
@@ -176,6 +179,7 @@
 | [Second Chance](https://open.spotify.com/track/6bEeSQJImuxelI4h8FfVht) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Second Chance](https://open.spotify.com/album/79XKipLUqpUDLTIPmoRcr5) | 2:13 | 2022-05-20 | 2022-08-19 |
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2022-05-20 | 2022-05-27 |
 | [Side Focus](https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Magic City](https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN) | 1:55 | 2022-05-20 | 2022-09-09 |
+| [Silicon dreams](https://open.spotify.com/track/4dBQ9HuRLntPJrGJlYywEw) | [Goldie Caris](https://open.spotify.com/artist/5dRlh8hedI9NR7a6teu33k) | [Silicon dreams](https://open.spotify.com/album/5hdSFtpGyU8GvH0UWw4BWs) | 1:22 | 2022-09-30 |  |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2022-05-20 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-20 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2022-05-20 |  |
@@ -230,6 +234,7 @@
 | [Wind In Your Hair](https://open.spotify.com/track/62C1GZiAPZTP5aBXIqgW4c) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Wind In Your Hair](https://open.spotify.com/album/1ccqNGL7JEoo3LYjzXVi6E) | 2:47 | 2022-09-23 |  |
 | [With The Flow](https://open.spotify.com/track/315f5pmGe8a0AW7d3umluS) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [With The Flow](https://open.spotify.com/album/57rI5hxOpdIK3fO7IyNoOO) | 2:18 | 2022-09-16 |  |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |
+| [Working Late](https://open.spotify.com/track/3t34md8sf7URBNYOXfLabD) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Too late to sleep](https://open.spotify.com/album/7yIWECbRwxzjZzqSilLklq) | 2:45 | 2022-09-30 |  |
 | [Wynwood](https://open.spotify.com/track/0q4YTXB99koLTdFXkgNQwr) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Wynwood](https://open.spotify.com/album/58mvCS8POnTN5AmROCw5p5) | 2:08 | 2022-05-27 | 2022-06-17 |
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 |  |
 | [You Mon Amour](https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [You Mon Amour](https://open.spotify.com/album/4B1d4WQrHthefUbWccsfz0) | 2:05 | 2022-06-10 | 2022-06-17 |

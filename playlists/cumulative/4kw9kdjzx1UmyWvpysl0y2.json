@@ -1952,6 +1952,32 @@
     },
     {
       "album": {
+        "name": "FULL ASSAULT / ALL THAT U WANT",
+        "url": "https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS"
+      },
+      "artists": [
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        },
+        {
+          "name": "Psylla",
+          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
+        },
+        {
+          "name": "JACKIE EXTREME",
+          "url": "https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "FULL ASSAULT",
+      "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
+    },
+    {
+      "album": {
         "name": "FUNNYFACE",
         "url": "https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0"
       },

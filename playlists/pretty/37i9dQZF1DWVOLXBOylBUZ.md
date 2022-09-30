@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Polimá Westcoast y J Balvin tienen el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,741 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,845 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 54 | [63](https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [63](https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI) | 2:44 |
 | 55 | [SPACESHIP](https://open.spotify.com/track/6Qax3RwIwNNUIuwI1dn14d) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Feliu](https://open.spotify.com/artist/3cXTpQLIUC0ANH1Ne9THCG), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:52 |
 | 56 | [Dejate Cae](https://open.spotify.com/track/4JGngLD7xutDmfJf44gCJK) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Dejate Cae](https://open.spotify.com/album/4mdEsdd31vZjuaNw0dpWFg) | 3:20 |
-| 57 | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/track/5C9Si7sopFIiiUxCLuuEcc) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [bless](https://open.spotify.com/artist/0MqIfXyd1cxF5dUJwzaw9F), [Cobuz y Bustta](https://open.spotify.com/artist/1CSd1MkJtXFrcsFQYBKt4N) | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/album/4Uyg7ZooIF3xpiH8HS4Ntw) | 3:09 |
+| 57 | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/track/5C9Si7sopFIiiUxCLuuEcc) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Robledo](https://open.spotify.com/artist/5VyXOfvTQljStUXx1coETY), [ELIZADE](https://open.spotify.com/artist/0MqIfXyd1cxF5dUJwzaw9F), [Cobuz y Bustta](https://open.spotify.com/artist/1CSd1MkJtXFrcsFQYBKt4N) | [Cosi \(feat\. Cobuz y Bustta\)](https://open.spotify.com/album/4Uyg7ZooIF3xpiH8HS4Ntw) | 3:09 |
 | 58 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 |
 | 59 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 60 | [Te Toco](https://open.spotify.com/track/5IrDx7oJmgwYRgNBzvpuwQ) | [Gianni Rota](https://open.spotify.com/artist/4QCnCsNS6EMIUbIccfZobj) | [Te Toco](https://open.spotify.com/album/5d7OxsTKbBnQBKTK90qvzT) | 2:26 |

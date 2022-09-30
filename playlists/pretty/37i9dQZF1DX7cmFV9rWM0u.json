@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1840576,
+  "num_followers": 1840718,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMGRmNTQ4NGQyNzZkMWVlYjM0OGUwNDY1ZmJjY2Q2NDZm",
+  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMDdlYmY3YzM0NzM3ZDRiYjFhNzg5ODczYjlkZTJjNDdh",
   "tracks": [
     {
       "added_at": "2022-09-21 18:08:29",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 201940,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 173013,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
-        "name": "Rotate",
-        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 201940,
-      "name": "Rotate",
-      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
     },
     {
       "added_at": "2022-09-21 18:08:29",

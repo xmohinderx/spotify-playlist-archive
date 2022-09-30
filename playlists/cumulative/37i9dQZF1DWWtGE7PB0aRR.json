@@ -1104,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "Junior's Wailing (21st Century Version)",
+        "url": "https://open.spotify.com/album/0SFYMVa6tj5Lu9nm1lIeOj"
+      },
+      "artists": [
+        {
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239036,
+      "name": "Junior's Wailing - 21st Century Version",
+      "url": "https://open.spotify.com/track/2VR6NdQzzmcpvJIOBRdPeF"
+    },
+    {
+      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },

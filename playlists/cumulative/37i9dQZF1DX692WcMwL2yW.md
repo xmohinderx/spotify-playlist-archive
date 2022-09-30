@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-302 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+305 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Brand New Eyes](https://open.spotify.com/track/3yx4s6obPco65jEydJYerj) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Brand New Eyes](https://open.spotify.com/album/6o05bYAYVgbHoGQk5paRVg) | 2:42 | 2021-04-26\* | 2022-09-03 |
 | [Bring on the Blessings](https://open.spotify.com/track/1n31FkTycUv7n7o6kIejeP) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Rooster Visions](https://open.spotify.com/album/3YXmddyswirnkpXfOdtAYG) | 3:08 | 2021-07-09 | 2021-08-26 |
 | [Bruh\(l\) \- Instrumental](https://open.spotify.com/track/57g7f3SIVS2q8jvSumAF2h) | [Airik](https://open.spotify.com/artist/7j3Iu1vbHmw71ozMN1ffdN) | [Bruh\(l\)](https://open.spotify.com/album/3Lkj4MVkgBRxIEAu9Xmalo) | 2:42 | 2021-04-26\* | 2021-04-28 |
+| [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 | 2022-09-30 |  |
 | [By Your Side](https://open.spotify.com/track/1fmDbpJLgK5KHh5vLxCbFI) | [LifestyleDidIt](https://open.spotify.com/artist/30zMAqaq1ZaiL3sCXP41If), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [By Your Side](https://open.spotify.com/album/0q3jcgUPljutZVDwHga3Rk) | 2:45 | 2022-04-08 | 2022-07-29 |
 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2021-04-26\* | 2022-06-17 |
 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 |  |
@@ -134,6 +135,7 @@
 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [I Can't Quit](https://open.spotify.com/track/7i1hH7B5B00wSvydWeahTN) | [Anno Domini Beats](https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP), [Beats By Dillin](https://open.spotify.com/artist/2uUiUwzgBC8V5OAbNskTrG) | [Beats By Dillin, Vol\. 5](https://open.spotify.com/album/6Pd00u7UkMBkjFzXN5gu3C) | 3:33 | 2022-04-22 | 2022-07-22 |
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
+| [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 | 2022-09-30 |  |
 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 | 2021-08-26 |  |
 | [Ice Rink](https://open.spotify.com/track/7kqeab2d9HlSk4KRSlogXB) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Big Sal](https://open.spotify.com/album/6QMP7CSxNbl7nPCK8fqSTJ) | 2:18 | 2021-04-26\* | 2021-06-18 |
 | [In Da Pot](https://open.spotify.com/track/4rii3ggIUkSgDoVU6FnFyC) | [Triangle Spirits](https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs) | [In Da Pot](https://open.spotify.com/album/07LTbLOWIB40xH0SLFsAX4) | 2:53 | 2022-09-16 |  |
@@ -152,6 +154,7 @@
 | [lenient](https://open.spotify.com/track/536oAxoTUOQ1s0WrgReFZJ) | [fidget blue](https://open.spotify.com/artist/72zjw9ziFnk6Jl3xkgcvVK) | [lenient](https://open.spotify.com/album/1hPTNfK1zqa7Dieh5cMmcg) | 2:03 | 2021-04-26\* |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-04-26\* |  |
 | [Leoplot](https://open.spotify.com/track/1t4F5nEsSSC1ORQqYXgSll) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Leoplot](https://open.spotify.com/album/5IZEXtUR24IkXTuTjnNrFw) | 1:47 | 2021-04-26\* | 2021-04-28 |
+| [Let it be known](https://open.spotify.com/track/0wltL5KFoZ7TqTdapi1Cbs) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Let it be known](https://open.spotify.com/album/3unomAhkTiJoLws40mDhuk) | 2:18 | 2022-09-30 |  |
 | [Let Us Down](https://open.spotify.com/track/0sRvHLSBSVtBI829picjG7) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Beyond](https://open.spotify.com/album/3m94LsnqfzpI465onjhr8p) | 2:21 | 2021-04-26\* | 2021-08-26 |
 | [Let's Go Again](https://open.spotify.com/track/2j1iPeEkfFpqFIJNCPFkPY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Let's Go Again](https://open.spotify.com/album/7J7IiUHLjiVU3gY705VsBA) | 2:29 | 2021-08-26 | 2022-05-20 |
 | [Level 16](https://open.spotify.com/track/5Zcn0i0f8d33pCeau5DRTn) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Level 16](https://open.spotify.com/album/086jkRvfbNnyyqD3OtVPQx) | 3:30 | 2022-05-27 |  |

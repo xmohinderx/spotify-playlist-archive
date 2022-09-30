@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Lofi Evergreens, Vol. 2",
+        "url": "https://open.spotify.com/album/7qUhVbWLgD1l1oOAYAPFs3"
+      },
+      "artists": [
+        {
+          "name": "Covers Unplugged",
+          "url": "https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125576,
+      "name": "Faded - Lofi Version",
+      "url": "https://open.spotify.com/track/5n2C9SFg9ouvxKmiU8AgjU"
+    },
+    {
+      "album": {
         "name": "Covers Collection (Vol. 4)",
         "url": "https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404"
       },
@@ -531,10 +549,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 115200,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL"
+    },
+    {
+      "album": {
+        "name": "Lofi Madness, Vol. 1",
+        "url": "https://open.spotify.com/album/3G0mO8o0VBCJMGpUdT6rFG"
+      },
+      "artists": [
+        {
+          "name": "Covers Unplugged",
+          "url": "https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Gangsta's Paradise - Lofi Version",
+      "url": "https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px"
     },
     {
       "album": {
@@ -571,7 +607,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 109714,
       "name": "Havana - Lofi Version",
       "url": "https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 126023,
       "name": "Hotline Bling - Lofi Version",
       "url": "https://open.spotify.com/track/650A1oSiTx0BIVJD5eQglO"
@@ -876,6 +912,28 @@
     },
     {
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/0ro0b0rRbVi7FwtURUcT9Y"
+      },
+      "artists": [
+        {
+          "name": "DJ Garlik",
+          "url": "https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF"
+        },
+        {
+          "name": "Noomz",
+          "url": "https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155679,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/0lGVhF1yGIMzOYYanlfSQo"
+    },
+    {
+      "album": {
         "name": "Covers Collection (Vol. 4)",
         "url": "https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404"
       },
@@ -1051,7 +1109,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 90000,
       "name": "Se\u00f1orita - Lofi Version",
       "url": "https://open.spotify.com/track/7I5XnynJdATTg8Uh0m3FB7"
@@ -1317,6 +1375,24 @@
       "duration_ms": 108000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh"
+    },
+    {
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci"
+      },
+      "artists": [
+        {
+          "name": "Phatazza Cat",
+          "url": "https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW"
     },
     {
       "album": {

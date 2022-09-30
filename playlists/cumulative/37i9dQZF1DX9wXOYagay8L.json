@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=rISwF074TXe2wPjwpD3pRw\">Sha Sha</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=w3tdAOO-QRS4uwjGscrqbQ\">Msaki</a> and <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=FdzYOMtfSmm7UCrE7tUOVA\">Sun-El Musician</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 285453,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/1VvaBNjT8xyUcX38SbHq5M"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 164250,
       "name": "Give Me Something (feat. Rowlene)",
       "url": "https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv"
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 284312,
       "name": "Khumbul'ekhaya",
       "url": "https://open.spotify.com/track/6uFosejJRPqulopMK1trT7"
@@ -2285,7 +2285,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 215172,
       "name": "Lala Ngoxolo (feat. Emtee)",
       "url": "https://open.spotify.com/track/54x9dhOK7DWwxj4VeL1bZN"
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 273600,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/2k7UG78CuqYBLP3jrCasMU"
@@ -3274,6 +3274,36 @@
     },
     {
       "album": {
+        "name": "Ngisize Nami",
+        "url": "https://open.spotify.com/album/5DTWzDShfa07dCTqMGYsmy"
+      },
+      "artists": [
+        {
+          "name": "DJ Ngwazi",
+          "url": "https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "Casswell P",
+          "url": "https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310409,
+      "name": "Ngisize Nami",
+      "url": "https://open.spotify.com/track/4fyfjQNKxLTKBid9m3XMQc"
+    },
+    {
+      "album": {
         "name": "Ngiyaku'Khumbula",
         "url": "https://open.spotify.com/album/23w1acZtpgmgFGKyuf1o3L"
       },
@@ -3311,6 +3341,24 @@
       "duration_ms": 317217,
       "name": "Ngiyathandaza",
       "url": "https://open.spotify.com/track/0MuZgvvbykSdfKPMgtLUx3"
+    },
+    {
+      "album": {
+        "name": "Ngizokthanda",
+        "url": "https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy"
+      },
+      "artists": [
+        {
+          "name": "Linda Gcwensa",
+          "url": "https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219125,
+      "name": "Ngizokthanda",
+      "url": "https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva"
     },
     {
       "album": {
@@ -3740,6 +3788,28 @@
     },
     {
       "album": {
+        "name": "Pata Pata Saguquka",
+        "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325502,
+      "name": "Pata Pata Saguquka",
+      "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
+    },
+    {
+      "album": {
         "name": "Phakade",
         "url": "https://open.spotify.com/album/0lGgjqIGQb21QuAU55jpdQ"
       },
@@ -3993,7 +4063,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 255000,
       "name": "Sawubona",
       "url": "https://open.spotify.com/track/7G8x0BvmlnsMTnp2tFnVNL"
@@ -4011,7 +4081,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 300773,
       "name": "Sbali",
       "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
@@ -4051,7 +4121,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE"
@@ -4300,6 +4370,24 @@
     },
     {
       "album": {
+        "name": "Sobabini",
+        "url": "https://open.spotify.com/album/2ozov6FsPYsmfiRhkybPJo"
+      },
+      "artists": [
+        {
+          "name": "Eves Manxeba",
+          "url": "https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "Sobabini",
+      "url": "https://open.spotify.com/track/7fB7c0yhQyYiTr6DIn9YMq"
+    },
+    {
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt"
       },
@@ -4389,6 +4477,28 @@
       "duration_ms": 146703,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/62zPjW7LXGWj290EvQjreU"
+    },
+    {
+      "album": {
+        "name": "Sondela My Love",
+        "url": "https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato"
+        },
+        {
+          "name": "Tee Tee",
+          "url": "https://open.spotify.com/artist/1rKDAiEgSFeGJDqJPhvjzY"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229819,
+      "name": "Sondela My Love",
+      "url": "https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf"
     },
     {
       "album": {
@@ -4811,7 +4921,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 209413,
       "name": "Uhambo",
       "url": "https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia"
@@ -4973,7 +5083,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 322026,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/5voGF2TQBUJe2FmFpHtnsq"

@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Oscar Jerome",
-  "num_followers": 265814,
+  "num_followers": 265871,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMzQwNiwwMDAwMDAwMGFiMzc5MWE3MTE5NTU3ZjIxNzRmYzllZTBhZjI3NjY0",
+  "snapshot_id": "MTY2MzkyMzQwNiwwMDAwMDAwMDY4ZTkwODY0ZjE2Y2QwOTcyMzllMjdiYWY0MWE3MTgx",
   "tracks": [
     {
       "added_at": "2022-09-23 08:56:46",
@@ -215,6 +215,50 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
+        "name": "Hold On, Pt.2",
+        "url": "https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "James Chelliah",
+          "url": "https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 135269,
+      "name": "Hold On, Pt.2",
+      "url": "https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 210439,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
         "name": "Just The Same",
         "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
       },
@@ -243,46 +287,18 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ"
+        "name": "Cristo Redentor",
+        "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 210439,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
-        "name": "Hold On, Pt.2",
-        "url": "https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "James Chelliah",
-          "url": "https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        }
-      ],
-      "duration_ms": 135269,
-      "name": "Hold On, Pt.2",
-      "url": "https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU"
+      "duration_ms": 320253,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -299,6 +315,22 @@
       "duration_ms": 287133,
       "name": "Channel Your Anger",
       "url": "https://open.spotify.com/track/7eMzWIZCj6Q6GY1MEj1QbG"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 323320,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -323,22 +355,6 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 323320,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
         "name": "Bring Backs",
         "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
@@ -355,38 +371,18 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Cristo Redentor",
-        "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
+        "name": "SOURCE",
+        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 320253,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+      "duration_ms": 404773,
+      "name": "The Message Continues",
+      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -403,22 +399,6 @@
       "duration_ms": 426240,
       "name": "The Spoon",
       "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
-        "name": "SOURCE",
-        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 404773,
-      "name": "The Message Continues",
-      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -519,6 +499,22 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
+        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
+      },
+      "artists": [
+        {
+          "name": "All Day Breakfast Cafe",
+          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
+        }
+      ],
+      "duration_ms": 490509,
+      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
         "name": "Yellow (Deluxe)",
         "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
       },
@@ -551,18 +547,22 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
       },
       "artists": [
         {
-          "name": "All Day Breakfast Cafe",
-          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
         }
       ],
-      "duration_ms": 490509,
-      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
         "name": "Honey For Wounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/1iJwihRpjyrLH9BzqlT1qt"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
         "name": "Who Am I (eh-eh)",
         "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "The Morning Side of Love",
-        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
         }
       ],
-      "duration_ms": 233120,
-      "name": "The Morning Side of Love",
-      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -839,6 +823,22 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
+        "name": "The Morning Side of Love",
+        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "The Morning Side of Love",
+      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
         "name": "Wave Decay",
         "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Through The Noise (Chant No. 2)",
-        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+        "name": "DiVine Ascension",
+        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Through The Noise (Chant No. 2)",
-      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+      "duration_ms": 269589,
+      "name": "DiVine Ascension",
+      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -903,6 +903,22 @@
       "duration_ms": 286184,
       "name": "Dat It",
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -939,22 +955,6 @@
       "duration_ms": 263960,
       "name": "Odysea",
       "url": "https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
-        "name": "DiVine Ascension",
-        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
-      },
-      "artists": [
-        {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        }
-      ],
-      "duration_ms": 269589,
-      "name": "DiVine Ascension",
-      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/1iOsZjDI58pcyADCBrk1gJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 267480,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
+        "name": "Ego Killah",
+        "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 355493,
+      "name": "Ego Killah",
+      "url": "https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -1179,34 +1179,34 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Kyoto Rain",
-        "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
       "artists": [
         {
-          "name": "The Laszlo Project",
-          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 333712,
-      "name": "Kyoto Rain",
-      "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
     },
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+        "name": "Invisible Things",
+        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
       },
       "artists": [
         {
-          "name": "Ugolino",
-          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+          "name": "Aurora Dee Raynes",
+          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
+      "duration_ms": 209509,
+      "name": "Crazy That You Love",
+      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Invisible Things",
-        "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
+        "name": "Kyoto Rain",
+        "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
       },
       "artists": [
         {
-          "name": "Aurora Dee Raynes",
-          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+          "name": "The Laszlo Project",
+          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
         }
       ],
-      "duration_ms": 209509,
-      "name": "Crazy That You Love",
-      "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
+      "duration_ms": 333712,
+      "name": "Kyoto Rain",
+      "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -1263,6 +1263,22 @@
       "duration_ms": 259247,
       "name": "Motherland Journey",
       "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
+    },
+    {
+      "added_at": "2022-09-23 08:56:46",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+      },
+      "artists": [
+        {
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "added_at": "2022-09-23 08:56:46",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Ego Killah",
-        "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 355493,
-      "name": "Ego Killah",
-      "url": "https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR"
-    },
-    {
-      "added_at": "2022-09-23 08:56:46",
-      "album": {
         "name": "Badeep",
         "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
@@ -1335,22 +1335,22 @@
     {
       "added_at": "2022-09-23 08:56:46",
       "album": {
-        "name": "Clashing Colours",
-        "url": "https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp"
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn"
       },
       "artists": [
         {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
         },
         {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 284928,
-      "name": "Clashing Colours",
-      "url": "https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq"
+      "duration_ms": 313733,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
     }
   ],
   "unique_name": "Jazz UK",

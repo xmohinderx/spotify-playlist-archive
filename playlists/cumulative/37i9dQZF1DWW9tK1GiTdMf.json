@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Alla lettera",
+        "url": "https://open.spotify.com/album/4kdnvGljxgXqasJpYR4oXR"
+      },
+      "artists": [
+        {
+          "name": "FirkL\u00f8ver",
+          "url": "https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Alla lettera",
+      "url": "https://open.spotify.com/track/54hUdI3CT5EtALpDC2Dkpm"
+    },
+    {
+      "album": {
         "name": "A\u0160",
         "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
       },
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 160236,
       "name": "Che ce ne fotte",
       "url": "https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -2610,6 +2628,28 @@
     },
     {
       "album": {
+        "name": "Male e Bene",
+        "url": "https://open.spotify.com/album/46pTEEeTXZ0Z4ACn6IHjFd"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167868,
+      "name": "Male e Bene",
+      "url": "https://open.spotify.com/track/7tkwRpNRH4l15B070Tdzqi"
+    },
+    {
+      "album": {
         "name": "Maledetti Ricordi",
         "url": "https://open.spotify.com/album/4eQaiknBc4CB0V9DKBlGg0"
       },
@@ -2727,6 +2767,24 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160385,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz"
     },
     {
       "album": {
@@ -3744,6 +3802,28 @@
     },
     {
       "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "rock & rolla (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/1lDFJJvv6IaSyO1F3kqs3q"
       },
@@ -4731,6 +4811,24 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
+    },
+    {
+      "album": {
+        "name": "Toxic love",
+        "url": "https://open.spotify.com/album/5j1I9GhZ9ikmvYKblbwFwL"
+      },
+      "artists": [
+        {
+          "name": "Sad Twins",
+          "url": "https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196124,
+      "name": "Toxic love",
+      "url": "https://open.spotify.com/track/7MlJXGhw8Jag5sCtfVVSxc"
     },
     {
       "album": {

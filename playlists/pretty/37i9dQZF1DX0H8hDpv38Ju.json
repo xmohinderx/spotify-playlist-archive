@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 712513,
+  "num_followers": 712747,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMDJhNDlhNzU4OWJkN2JiNmI0ZWIwOTZmNjZkZjI3NjE0",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGFkZDIxYmJjYWYyMDNjNWE0MzdhMWZiZDlkMzBjYjVk",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Great R&B",
         "url": "https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 236106,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Treat Her Like A Lady - Single Version",
-      "url": "https://open.spotify.com/track/71EMeSBrRJjWMJ314mPayo"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Do Me Baby",
         "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 300733,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Treat Her Like A Lady - Single Version",
+      "url": "https://open.spotify.com/track/71EMeSBrRJjWMJ314mPayo"
     },
     {
       "added_at": "2021-04-01 19:37:56",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-605 songs - 1 day 16 hr 31 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+606 songs - 1 day 16 hr 35 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [American Guilt](https://open.spotify.com/track/79ixYOEm8OrKGIQxI7jVye) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [American Guilt](https://open.spotify.com/album/0pPJumLi87pG6qobnXvaou) | 4:33 | 2021-04-02 | 2022-04-21 |
 | [Ancient Chain](https://open.spotify.com/track/4QTWUydBn9Z5C8Zc0kz3xQ) | [Lightman Jarvis Ecstatic Band](https://open.spotify.com/artist/2vAyB8ZkJe6do0JsLIwN1x), [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt), [Romy Lightman](https://open.spotify.com/artist/5Sp1FBaAQ0NDun0wEzzvuG) | [Banned](https://open.spotify.com/album/2uxqYOWnMBsD7FKVnDkF42) | 3:37 | 2021-06-25 | 2022-04-15 |
 | [Anti Heaven](https://open.spotify.com/track/0mkppcEMgeTPYfAGmQYEtG) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Pantomime](https://open.spotify.com/album/4vgZGwIOSxIBVZNkQ37VYy) | 4:48 | 2022-07-11 | 2022-07-30 |
-| [ANTIGRAVITY](https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [ANTIGRAVITY](https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn) | 1:53 | 2022-08-19 |  |
+| [ANTIGRAVITY](https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [ANTIGRAVITY](https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn) | 1:53 | 2022-08-19 | 2022-09-30 |
 | [Any Hour](https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ) | [Kaíoti](https://open.spotify.com/artist/6etW5uO8UuEovfiv2Nw10f), [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Any Hour](https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi) | 4:11 | 2021-04-02 | 2022-04-21 |
 | [Anymore](https://open.spotify.com/track/26SrlxK6EhVa7EWJ6w5uhE) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Anymore](https://open.spotify.com/album/4CRfrm1Wc4VR5AuvRWuvCW) | 3:17 | 2021-04-02 | 2022-04-16 |
 | [Anything](https://open.spotify.com/track/4gLJ9owVOhrpVzQUCYoLoX) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7), [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Anything](https://open.spotify.com/album/31FXtIiI1wjl5wCJ0JqPyp) | 3:58 | 2021-04-02 | 2022-04-18 |
@@ -311,6 +311,7 @@
 | [Lonely One](https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Lonely One](https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ) | 2:47 | 2022-09-23 |  |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-04-20 | 2022-07-29 |
 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 | 2022-07-11 |  |
+| [Losing Touch](https://open.spotify.com/track/1QeeRaaU4BD632I6xAh4YZ) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 3:30 | 2022-09-30 |  |
 | [Lost In Wonderland](https://open.spotify.com/track/4LeCzXs6ugzcwDAsEdAFre) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Wonderland](https://open.spotify.com/album/7s2fyjbtnNS2HEuI8xRBE8) | 4:41 | 2022-07-11 | 2022-07-13 |
 | [Love](https://open.spotify.com/track/3b3D7KTw9eaKyAyVVJl8YU) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Love](https://open.spotify.com/album/3l7H6wEfuEhEZVxwGcMXP8) | 5:43 | 2021-07-19 | 2022-04-20 |
 | [Love Hospital](https://open.spotify.com/track/6uERizfwxGJflKBXCG2Maf) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Dr Moses Love Hospital](https://open.spotify.com/album/0gqZlpYVxQ6MUMPdeVfZix) | 4:47 | 2022-06-17 | 2022-07-13 |

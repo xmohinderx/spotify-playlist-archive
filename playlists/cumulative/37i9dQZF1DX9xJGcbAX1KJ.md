@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-300 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/6NFp5rX7dD5Tc5TdlOGjMm)
+301 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/6NFp5rX7dD5Tc5TdlOGjMm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Eventually](https://open.spotify.com/track/7JAnAvHXbXSTRnEPKu0Jkg) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Eventually](https://open.spotify.com/album/3PmJUkXa708U9rBVaxz1hY) | 3:46 | 2019-02-22 | 2022-07-05 |
 | [Everlasting Light](https://open.spotify.com/track/4btqwzSNvAcOi2cryL3Not) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Everlasting Light](https://open.spotify.com/album/0DBdj53b2HJSfb66PQelX9) | 2:44 | 2019-02-22 | 2022-07-22 |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2019-02-22 |  |
+| [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 | 2019-02-22 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 4:25 | 2019-02-22 | 2022-07-22 |
 | [Everything Is Free \(feat\. Flock of Dimes\)](https://open.spotify.com/track/7kV3Odec6JoabGwNuGTHFL) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Don't Dream It's Over / Everything Is Free](https://open.spotify.com/album/5K6Ct7CLekvIw90bR7mJJ4) | 4:17 | 2019-02-22 | 2022-04-29 |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2019-02-22 | 2022-07-24 |
@@ -90,7 +91,7 @@
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2019-02-22 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2019-02-22 |  |
 | [From Me To You](https://open.spotify.com/track/4XyrKa4r49DjoF9qeaueFw) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/7kLwwQ9CM82o3IZ5K9pNRQ) | 1:57 | 2019-02-22 | 2022-07-28 |
-| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2019-02-22 |  |
+| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2019-02-22 | 2022-09-30 |
 | [Gentle on My Mind](https://open.spotify.com/track/4TOuD1BPV4WJ4JM0Qt1kDq) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine A Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/1M6N0Ejr1EUcRXhDT5Jtw6) | 3:39 | 2019-02-22 | 2022-07-28 |
 | [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2019-02-22 | 2022-07-29 |
 | [Girl from the North Country \(Cover\)](https://open.spotify.com/track/7aHpYM3FtwNtPfq1Xa0CkM) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 3:33 | 2019-02-22 | 2022-07-27 |

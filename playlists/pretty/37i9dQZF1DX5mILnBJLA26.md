@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AmaPiano Grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=JXvz7f1kRZ2bgimxyT\-XIA">Sha Sha</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q">Pabi Cooper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,074 likes - 80 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,568 likes - 83 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 78 | [Ngisasemncane](https://open.spotify.com/track/7cIP5GhqfQTuHmE9XV3Oyn) | [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Toby Franco](https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR), [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef28](https://open.spotify.com/artist/5T6wjg3t9mEidUWthRniJa) | [Ngisasemncane](https://open.spotify.com/album/3BbLdtsriqcOcKKoEPWeWZ) | 7:30 |
 | 79 | [Umfazi \(feat\. Cnethemba Gonelo\)](https://open.spotify.com/track/0O53P0kLksSQMzwkqm8Gmj) | [Junior Taurus](https://open.spotify.com/artist/0pO4uiWRlwht6qPWVD4mvj), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg) | [Umfazi \(feat\. Cnethemba Gonelo\)](https://open.spotify.com/album/7pcQw1SQSQ2CRLPy66ATL2) | 12:06 |
 | 80 | [Kayise](https://open.spotify.com/track/4YdTfTRZyTqvgqGq0MeXcB) | [Tumisho](https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d) | [Indlalifa](https://open.spotify.com/album/2zK8alDX1R92V1aOwEbxsY) | 5:44 |
+| 81 | [Aye](https://open.spotify.com/track/2uNm1dL5V98jCzvxuhLDyk) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw) | [Aye](https://open.spotify.com/album/0l6Td6OSgISuHoxAXDg5SF) | 2:50 |
+| 82 | [Revisit](https://open.spotify.com/track/0IbxplIFZ0FOP8QjTEojCo) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [JosiahDeDisciple](https://open.spotify.com/artist/4jp24GUbjmtKFlUIaLak0q) | [Revisit](https://open.spotify.com/album/46eoMDB99MfBy1l3jm5lvS) | 4:48 |
+| 83 | [Angisoze](https://open.spotify.com/track/6y4sdinegBi04Kp1k2suT4) | [Hassan Mangete](https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Angisoze](https://open.spotify.com/album/0HJxsbV323n1sCaNNoqLqg) | 5:38 |
 
-Snapshot ID: `MTY2NDE4NTI1NiwwMDAwMDAwMGEyYzdlOTczZjIyMzNlYWE1ZTU3NzVkMDUyMTAxZThl`
+Snapshot ID: `MTY2NDQ4ODc0MCwwMDAwMDAwMGY5NzEzYTE4NmZiMDgwMzc2OWQwM2U4NTUyOTI4NjJj`

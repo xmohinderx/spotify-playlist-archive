@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2668,
+  "num_followers": 2689,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDUyNDNhMzhlY2UzOWZlYzIxNDFlYzhhZDIzOTE4Yzg4",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDZkYTNiZGJjYjk0Y2NiN2UxNGQwNmQxMjI1NWYxZWYy",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "The Kingdom of Heaven Is Like This",
         "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 182635,
       "name": "Do Not Worry (feat. Ellie Holcomb)",
       "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "How Could I Be Silent",
+        "url": "https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 180000,
       "name": "My Strength (feat. Emily Hearn)",
       "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "How Could I Be Silent",
-        "url": "https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
-      },
-      "artists": [
-        {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 228679,
       "name": "Belong",
       "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
     },
     {
       "added_at": "2021-06-29 13:36:02",

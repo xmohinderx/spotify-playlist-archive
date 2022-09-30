@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 296546,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl"
@@ -3103,7 +3103,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 146588,
       "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
@@ -5721,6 +5721,24 @@
       "duration_ms": 221973,
       "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30a4\u30d5",
       "url": "https://open.spotify.com/track/74XDwLSzztj27oM6KUcC1g"
+    },
+    {
+      "album": {
+        "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0x1iJ5uy1vZdGiWG9BOUcx"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u307f\u304f\u3093",
+          "url": "https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185669,
+      "name": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/4M0ojH6RFhKdxbzLVwlk00"
     },
     {
       "album": {
@@ -9089,6 +9107,24 @@
       "duration_ms": 182384,
       "name": "\u98df\u866b\u690d\u7269",
       "url": "https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny"
+    },
+    {
+      "album": {
+        "name": "\u98fd\u548c / \u30b7\u30cd\u30de",
+        "url": "https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185497,
+      "name": "\u98fd\u548c",
+      "url": "https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs"
     },
     {
       "album": {

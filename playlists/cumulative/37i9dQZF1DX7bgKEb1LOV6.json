@@ -809,10 +809,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 178582,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/0hvNY1ImjFU7fGqnZH1eVZ"
+    },
+    {
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/4Vd1e6CleqWw7qggwZRHJJ"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178582,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1ToGBJEWxe0WBjCr6k12el"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem John Amplificado com Maiara & Maraisa, Poesia Acústica 13 e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780,453 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780,738 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 44 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 |
 | 45 | [Suco de Maracujá](https://open.spotify.com/track/3qF33Lx0GsXyS9rAZ1aKGw) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Suco de Maracujá](https://open.spotify.com/album/4yTQTTLzRcxhfL6Tk4rBsU) | 3:02 |
 | 46 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 |
-| 47 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:50 |
+| 47 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 |
 | 48 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 |
 | 49 | [LAMBO](https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:15 |
 | 50 | [Miami](https://open.spotify.com/track/7mmzwqOu7mADycV1aDZtTe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Miami](https://open.spotify.com/album/6lUuzszqj4xYCDrHolVon9) | 2:58 |
 | 51 | [Carro Automático](https://open.spotify.com/track/6r9YvfFlg3exxuqYhIeyEv) | [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Carro Automático](https://open.spotify.com/album/0LMe1TRcRPwnE7NaSVx3AB) | 3:04 |
 | 52 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 |
 | 53 | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\)](https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun) | 2:32 |
-| 54 | [When You're Gone](https://open.spotify.com/track/1bkLRqozh4pBUokbdHOYNF) | [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [When You're Gone](https://open.spotify.com/album/1KKc4sLK7AK3mZQVtHa0Ac) | 2:29 |
+| 54 | [When You're Gone](https://open.spotify.com/track/1bkLRqozh4pBUokbdHOYNF) | [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A), [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [When You're Gone](https://open.spotify.com/album/1KKc4sLK7AK3mZQVtHa0Ac) | 2:29 |
 | 55 | [Pra cima](https://open.spotify.com/track/1jYQVAto0Q4eXwjvufxbuo) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Spooky Bizzle](https://open.spotify.com/artist/1vBeuB3U5ClgUohizkAcTI) | [BR 140](https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC) | 3:41 |
 | 56 | [DELAY](https://open.spotify.com/track/6ecX3IV2DkxCzgdwlc0EVA) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [DELAY](https://open.spotify.com/album/2TRWo9rWkupnXqUIXBbH76) | 2:43 |
 | 57 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |

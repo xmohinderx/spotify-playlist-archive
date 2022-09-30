@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY0OSxkOTBmMjRmNmM5OTU5MWI5MmMzOThmMDQ0ZjM3Yzg3MGY5NWE4M2Q4",
+  "snapshot_id": "MzY1MCwzMjBmMjQwZmEzNmI3YmUxODMyMTdiZTdiNWNiYWVmNmYxMjhiNjEy",
   "tracks": [
+    {
+      "added_at": "2022-09-29 17:42:24",
+      "album": {
+        "name": "FULL ASSAULT / ALL THAT U WANT",
+        "url": "https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS"
+      },
+      "artists": [
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        },
+        {
+          "name": "Psylla",
+          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
+        },
+        {
+          "name": "JACKIE EXTREME",
+          "url": "https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "FULL ASSAULT",
+      "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
+    },
     {
       "added_at": "2022-09-28 16:56:21",
       "album": {

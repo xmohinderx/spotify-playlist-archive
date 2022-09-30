@@ -1,13 +1,29 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Saaj Bhatt",
-  "num_followers": 8240,
+  "description": "New music from popular Hindi artists. Cover- Rahul Sathu",
+  "num_followers": 8283,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg5NDgwMCwwMDAwMDAwMDUwNmE3MGQxNzZlNjY1MjUwYWRmZTVlMmEyZTVhMzBl",
+  "snapshot_id": "MTY2NDQ5ODI4MCwwMDAwMDAwMGZjZTNjMjNjZGY2NGI3MjQ3ZDU1M2U4MTRiYmZkY2Nh",
   "tracks": [
+    {
+      "added_at": "2022-09-30 00:38:00",
+      "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/774KXkBhlv14mwbWbraCcS"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/6dojrojvZ0DXlTBp592XvY"
+    },
     {
       "added_at": "2022-09-23 01:00:00",
       "album": {

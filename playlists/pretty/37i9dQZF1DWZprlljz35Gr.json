@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 4501,
+  "num_followers": 4505,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDljOWVjMmE4ODRjMTU1NDg0MDQyOTcwY2JiOTkyYWQx",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDIwNDVjZGRjZjAwNThmZmE1M2RmNGM5NDUyYmE4Mzg1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Moonshine Crossroads",
-        "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
+        "name": "Malfunktionality Part One",
+        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
       },
       "artists": [
         {
-          "name": "Fab Samperi",
-          "url": "https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte"
-        },
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "Beat Fatigue",
+          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
         }
       ],
-      "duration_ms": 161252,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+      "duration_ms": 258776,
+      "name": "A Blues Malfunktion",
+      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -297,6 +293,26 @@
       "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Moonshine Crossroads",
+        "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
+      },
+      "artists": [
+        {
+          "name": "Fab Samperi",
+          "url": "https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte"
+        },
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "I'm Back With Trouble",
@@ -311,22 +327,6 @@
       "duration_ms": 198058,
       "name": "I'm Back With Trouble",
       "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Malfunktionality Part One",
-        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
-      },
-      "artists": [
-        {
-          "name": "Beat Fatigue",
-          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
-        }
-      ],
-      "duration_ms": 258776,
-      "name": "A Blues Malfunktion",
-      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Good & Gone / The Observer",
-        "url": "https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87"
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
       },
       "artists": [
         {
-          "name": "K Theory",
-          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 252284,
-      "name": "Good & Gone - Original Mix",
-      "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
+      "duration_ms": 295640,
+      "name": "Psycho Sam",
+      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+        "name": "Good & Gone / The Observer",
+        "url": "https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Psycho Sam",
-      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+      "duration_ms": 252284,
+      "name": "Good & Gone - Original Mix",
+      "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
-      },
-      "artists": [
-        {
-          "name": "PARTY SHIRT",
-          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "High Vibe Remixes, Vol. 1",
@@ -783,6 +767,22 @@
       "duration_ms": 229110,
       "name": "Love Me - KR3TURE Remix",
       "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Idol (Should I Know)",
-      "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "A Different Beat",
         "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 738306,
       "name": "Can't Help Myself - E-Z Rollers Remix",
       "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Delta Disco",
+        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Big Beat",
+          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Idol (Should I Know)",
+      "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
     }
   ],
   "unique_name": "Bluestronica",

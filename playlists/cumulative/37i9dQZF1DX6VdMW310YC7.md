@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,336 songs - 3 day 20 hr 45 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,337 songs - 3 day 20 hr 48 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -964,7 +964,7 @@
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2020-02-29\* | 2020-03-16 |
 | [Revival](https://open.spotify.com/track/6Tgd0DhWYzCWrwZZB6BPNw) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Revival](https://open.spotify.com/album/2gPm08Ppc9BybHGrKXFaxF) | 4:39 | 2020-03-16 | 2020-10-09 |
 | [Rewind \(feat\. Sophie Strauss\)](https://open.spotify.com/track/7z72BGlsE21horfWo8hG4d) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Sophie Strauss](https://open.spotify.com/artist/7jkqVQ6YQ3LvAhVG03ZP4G) | [Rewind \(feat\. Sophie Strauss\)](https://open.spotify.com/album/37OQTAUlRrqwirt2DNpLb6) | 3:17 | 2020-05-18 | 2020-07-03 |
-| [Riffs of the Night](https://open.spotify.com/track/16Q23rwqIqNUoVsm062KGp) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6Abdri62FUkqPquCfsuKZY) | 4:08 | 2022-08-19 |  |
+| [Riffs of the Night](https://open.spotify.com/track/16Q23rwqIqNUoVsm062KGp) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6Abdri62FUkqPquCfsuKZY) | 4:08 | 2022-08-19 | 2022-09-30 |
 | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/track/61Jk4NuavJPhDBvVZes5iB) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/album/5SR62UKvlHz3RaNA4GHYUS) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Rise Up](https://open.spotify.com/track/2sTe3y5xjQvVb9tDTVaI35) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Rise Up](https://open.spotify.com/album/71OvAYyGpaspUbSFoKw1Tn) | 3:01 | 2020-05-22 | 2020-07-03 |
 | [Riverwards Stream](https://open.spotify.com/track/4HunXDbm6cFDmsH3pFOg7h) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:07 | 2020-03-16 | 2022-01-14 |
@@ -978,6 +978,7 @@
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2022-01-21 | 2022-02-12 |
 | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/track/4cZRjRwTZ8fhKmpJ6xFFhH) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/album/4z0ADEl2XhhCtDB1lpSDvy) | 3:37 | 2020-05-18 | 2020-10-09 |
 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-07-16 | 2022-07-29 |
+| [Run](https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc) | 3:11 | 2022-09-23 |  |
 | [Run Away](https://open.spotify.com/track/57silVtrWHoiTZzfic9yt3) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Run Away](https://open.spotify.com/album/0rxsmh2gQI2VwJuuvGLiGN) | 3:08 | 2020-03-16 | 2020-07-18 |
 | [Run For Your Life \(Interlude\)](https://open.spotify.com/track/3X5cgqoizZxxohjeNqoL2k) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 2:22 | 2020-05-18 | 2022-04-21 |
 | [Runaway \- CS Remix](https://open.spotify.com/track/7L1N3v6DULT0wEh8JUVLpI) | [Henry Land](https://open.spotify.com/artist/04m6PNXckfHHQqDHK92NKh), [ODA](https://open.spotify.com/artist/0YwZx5vGf17WMCi6KdOt4U), [CS](https://open.spotify.com/artist/0jMeMO3jOeDhJsWbzyi0BX) | [Runaway \(Remixes\)](https://open.spotify.com/album/0o6h3NFMcYv1WWDKgXPcbu) | 3:47 | 2020-05-19 | 2020-07-03 |

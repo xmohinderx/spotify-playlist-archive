@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,336 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,360 likes - 70 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 51 | [rehabilitasi.](https://open.spotify.com/track/6vhnz5MiMTbk42oUoYnCh7) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Softboi](https://open.spotify.com/album/4d7cclZUEfdz0fHFPg0GRG) | 4:28 |
 | 52 | [Podcast](https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [Brunch Time](https://open.spotify.com/album/2ZOl7gmy5ShGP0yLESQu6Q) | 3:47 |
 | 53 | [MOONLIGHT](https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [MOONLIGHT](https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j) | 4:45 |
-| 54 | [Memories](https://open.spotify.com/track/2CpsluedxDXHfOiqIVGg6N) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/5eO2X97XMmGxuDNyPSFa0Z) | 4:19 |
+| 54 | [Memories](https://open.spotify.com/track/20AYTqY5fkCDvNN1EJytyh) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/0AXZJQdtYuxOqn50svT1eB) | 4:19 |
 | 55 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 |
 | 56 | [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 |
 | 57 | [Cinta Yang Baru](https://open.spotify.com/track/60B0QJiu537CpR271O0ael) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Cinta Yang Baru](https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 69 | [City Hunter](https://open.spotify.com/track/5fpp1cnRKPjgZe1aXQEFd5) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/2nkyyh9Wmji0a1a3ga6h9A) | 4:12 |
 | 70 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 |
 
-Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMGVkMTMwMDBlOWFiOTI4MGE0ZTA0MzhkNzAxZGRlYTQ5`
+Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMGRjNGM4ZmFmOTA2ZTFjYTQ4ODFkYjY5NDBmNmJjMmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Brothers Comatose
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,141 likes - 138 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,179 likes - 138 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 80 | [Stay a While](https://open.spotify.com/track/6Sp7ioZJNeGQQYsEHUjpS6) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Stay a While](https://open.spotify.com/album/4Uyqd3HBi5Hh0MQO8cMnO0) | 2:33 |
 | 81 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 |
 | 82 | [Troubles](https://open.spotify.com/track/2X5t1KDWCRxiCJWKxoG0m8) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 2:14 |
-| 83 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 |
+| 83 | [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 |
 | 84 | [Marianne](https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/5AYjie5QDdpryswTiI5uo6) | 3:19 |
 | 85 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
 | 86 | [No Falling Out of Love](https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah) | 5:23 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 137 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 |
 | 138 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
 
-Snapshot ID: `MTY2MTQ4OTk0MCwwMDAwMDAwMGVmOWZkNTM0MDFiM2M3NzAyNmFkN2YyMDRiNDJkYTU4`
+Snapshot ID: `MTY2MTQ4OTk0MCwwMDAwMDAwMDc3NjRkZThhNGJkNjU2NDNhZTQ1Y2MyYWMyMWE5N2I5`

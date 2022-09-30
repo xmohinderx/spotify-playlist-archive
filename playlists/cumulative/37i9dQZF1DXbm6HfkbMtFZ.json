@@ -7351,24 +7351,6 @@
     {
       "album": {
         "name": "My First Car",
-        "url": "https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "date_added": "2022-07-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230676,
-      "name": "Wait for the Moment",
-      "url": "https://open.spotify.com/track/48wH8bAxvBJO2l14GmNLz7"
-    },
-    {
-      "album": {
-        "name": "My First Car",
         "url": "https://open.spotify.com/album/1ZKMBF3dJmYqNnxtjexACq"
       },
       "artists": [
@@ -7383,6 +7365,28 @@
       "duration_ms": 230676,
       "name": "Wait For the Moment",
       "url": "https://open.spotify.com/track/7qFexQbJ2Kjv9V5hMtK5Lh"
+    },
+    {
+      "album": {
+        "name": "My First Car",
+        "url": "https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230676,
+      "name": "Wait for the Moment",
+      "url": "https://open.spotify.com/track/48wH8bAxvBJO2l14GmNLz7"
     },
     {
       "album": {

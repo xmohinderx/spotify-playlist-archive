@@ -1,13 +1,29 @@
 {
-  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Muse",
+  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Paramore",
   "num_followers": 1668,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYyOSxhMjUwMjk2NzY0NTA3MjA1MmQ4ZDEwMjRlNWRlNDkzYTUxYjI5ZjA2",
+  "snapshot_id": "MTYzMyxjZmJkMDYyNmE2NmIzOTY2MjAyODk2YzhiYTBkODM3MDE5NzhhYjRh",
   "tracks": [
+    {
+      "added_at": "2022-09-29 23:15:43",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
+    },
     {
       "added_at": "2022-09-16 04:01:32",
       "album": {
@@ -63,6 +79,38 @@
       "duration_ms": 229517,
       "name": "Don't Let The Light Go Out",
       "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
+    },
+    {
+      "added_at": "2022-09-29 23:25:54",
+      "album": {
+        "name": "I Don\u2019t Live Here Anymore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4xYRRdTJEO6tyUkycKuaWR"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Oceans of Darkness",
+      "url": "https://open.spotify.com/track/5vORDyXwEqms2j4jQ8Qx17"
+    },
+    {
+      "added_at": "2022-09-29 23:27:16",
+      "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "Hallelujah Moment",
+      "url": "https://open.spotify.com/track/1UOkwtqARzu9QW4IMQjeO0"
     },
     {
       "added_at": "2022-09-28 06:16:50",

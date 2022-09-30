@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18400,
+  "num_followers": 18397,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE1ODc2MSwwMDAwMDAwMDYyYzdkZDZmOTE5ZGU5ODFlMmViM2I2MDZhMWQzMjM4",
+  "snapshot_id": "MTY2MzE1ODc2MSwwMDAwMDAwMGI3YzA1OWU2NzIxZTQ4NDQxY2JlNGJiYjIzZWU2MzEw",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
+      },
+      "artists": [
+        {
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
+        }
+      ],
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Overworld",
-        "url": "https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH"
-      },
-      "artists": [
-        {
-          "name": "A.R.T. Wilson",
-          "url": "https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp"
-        }
-      ],
-      "duration_ms": 276308,
-      "name": "Rebecca's Theme (Water)",
-      "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
         "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 303226,
       "name": "Cigarra",
       "url": "https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Overworld",
+        "url": "https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH"
+      },
+      "artists": [
+        {
+          "name": "A.R.T. Wilson",
+          "url": "https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp"
+        }
+      ],
+      "duration_ms": 276308,
+      "name": "Rebecca's Theme (Water)",
+      "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
       "added_at": "2022-01-07 02:01:58",
       "album": {
         "name": "Two",
@@ -843,18 +827,34 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     }
   ],
   "unique_name": "Morning First Light",

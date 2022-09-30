@@ -1,18 +1,18 @@
 {
   "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Anubha Bajaj, Artwork: Isu Kim",
-  "num_followers": 35226,
+  "num_followers": 35252,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM0NDcxNiwwMDAwMDAwMDlmOGVjNTQyZmU2NWU2ZWZkMjkyZWFjN2Y1NzcyN2I1",
+  "snapshot_id": "MTY2NDM0NDcxNiwwMDAwMDAwMDIyN2E2ZjRkZjYyZTU3NmYzNDQ5NjM2OWFiYmIzYWFl",
   "tracks": [
     {
       "added_at": "2022-09-22 17:14:39",
       "album": {
         "name": "Aasmaan",
-        "url": "https://open.spotify.com/album/4WCRSVk5sPwmCKL9rjHTE9"
+        "url": "https://open.spotify.com/album/2jif0ZTgluXr8WBirx1jLj"
       },
       "artists": [
         {
@@ -26,7 +26,7 @@
       ],
       "duration_ms": 173562,
       "name": "Aasmaan",
-      "url": "https://open.spotify.com/track/3Yy7Vqd4tNA7Ly7DTY8CCB"
+      "url": "https://open.spotify.com/track/7Jb6OhQmgRULY0YpOctzl7"
     },
     {
       "added_at": "2022-09-28 05:58:36",
@@ -226,6 +226,14 @@
         {
           "name": "Atul Gupta",
           "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        },
+        {
+          "name": "Yash Jaiswal",
+          "url": "https://open.spotify.com/artist/2IfdSJiWRwrOLHL5vrG8Ih"
+        },
+        {
+          "name": "Kanchan Khapre",
+          "url": "https://open.spotify.com/artist/5R0LsixshmsTJwRbzYHNXI"
         }
       ],
       "duration_ms": 191997,
@@ -892,17 +900,21 @@
       "added_at": "2022-09-22 17:14:39",
       "album": {
         "name": "Naarazgi",
-        "url": "https://open.spotify.com/album/056LQ3itrRlGms40A4PO4h"
+        "url": "https://open.spotify.com/album/4Mda9xBExiXQlJsMcmeMeO"
       },
       "artists": [
         {
           "name": "Sourabh Joshi",
           "url": "https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD"
+        },
+        {
+          "name": "Pinky Poonawala",
+          "url": "https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY"
         }
       ],
       "duration_ms": 255000,
       "name": "Naarazgi",
-      "url": "https://open.spotify.com/track/1WU1BNEc3Sp1kNgylhX32k"
+      "url": "https://open.spotify.com/track/5C9md2m1njkFbtIB8dvVE6"
     },
     {
       "added_at": "2022-09-22 17:14:39",

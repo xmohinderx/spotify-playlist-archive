@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Kol El Khata",
+        "url": "https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277141,
+      "name": "Ashan Al Eshrah (6)",
+      "url": "https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9"
+    },
+    {
+      "album": {
         "name": "Ashan Al Eshrah (6)",
         "url": "https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 277141,
       "name": "Ashan Al Eshrah (6)",
       "url": "https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U"
@@ -2177,10 +2195,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 279477,
       "name": "Thekrak (16)",
       "url": "https://open.spotify.com/track/4rLXGSQ0IwvAb5Hye9Rixj"
+    },
+    {
+      "album": {
+        "name": "Kol El Khata",
+        "url": "https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279477,
+      "name": "Thekrak (16)",
+      "url": "https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st"
     },
     {
       "album": {

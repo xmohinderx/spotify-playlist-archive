@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 197732,
+  "num_followers": 197858,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDkzMmZjYzdlOWY1ZjcwN2U1ODE0YTlkZDgyZmYwM2Mx",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDEzNWU4MzhlZGZjYjVhYjE0Y2YzZjIyMWUxMDdkMzc1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -43,22 +43,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
       },
       "artists": [
         {
           "name": "Lilly Goodman",
           "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        },
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 343746,
-      "name": "Ven, Te Necesito",
-      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -199,18 +195,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
       "artists": [
         {
           "name": "Lilly Goodman",
           "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
+      "duration_ms": 343746,
+      "name": "Ven, Te Necesito",
+      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
     },
     {
       "added_at": "2020-11-24 13:23:38",

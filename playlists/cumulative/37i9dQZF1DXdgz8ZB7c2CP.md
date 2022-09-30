@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-286 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+287 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Stroll](https://open.spotify.com/track/5MCn3O0w5iXHIEbhRfLwxZ) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [2018 – 2021 \(mixtape\)](https://open.spotify.com/album/2f0fN9byk0YhViWf0rZDDN) | 3:12 | 2021-08-06 | 2022-06-18 |
 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 | 2021-08-06 |  |
 | [Subterfuge](https://open.spotify.com/track/6UTPwvV7k4Lmscca3tJxuE) | [Krischvn](https://open.spotify.com/artist/4VT88y8BOxQjndfg6LS2Od) | [Rude Boi EP](https://open.spotify.com/album/3tWfAmQHyDMbKpzZVGmraF) | 3:50 | 2021-08-06 | 2022-07-27 |
-| [Sun Fall Down](https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sun Fall Down](https://open.spotify.com/album/4Xuvi6KBxr2Flnb5ZspUf4) | 2:22 | 2021-08-06 |  |
+| [Sun Fall Down](https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sun Fall Down](https://open.spotify.com/album/4Xuvi6KBxr2Flnb5ZspUf4) | 2:22 | 2021-08-06 | 2022-09-30 |
 | [Sunburn \- Reimagined](https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Sunburn \(Reimagined\)](https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW) | 4:07 | 2021-08-06 |  |
 | [Sunrise](https://open.spotify.com/track/6YiN3NPoIN35zCRJ17C7v0) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K) | [Sunrise](https://open.spotify.com/album/6vVcYDuLnPxT7OfXK4Xa2l) | 2:59 | 2022-03-18 | 2022-04-20 |
 | [Sunsets With You](https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sunsets With You](https://open.spotify.com/album/6a3OAugRshmqyRyDZ6FVgP) | 3:48 | 2021-08-06 | 2022-07-25 |
@@ -265,6 +265,7 @@
 | [Vital Signs \- Tails Remix](https://open.spotify.com/track/52dXc0Oyt7T6nSoAMVQmN4) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Vital Signs \(Tails Remix\)](https://open.spotify.com/album/1OlqZkzau1II2G61gJPCqg) | 3:20 | 2022-03-04 | 2022-06-25 |
 | [Vivid](https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Vivid](https://open.spotify.com/album/6MrhTYpb07TMkyCqKYIoOV) | 3:29 | 2021-08-06 |  |
 | [Voices](https://open.spotify.com/track/2u5qcEQvPtBSAoicu3uyCF) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [Shir Koren](https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7) | [Voices](https://open.spotify.com/album/4GvjMyVyeODpstNg9x1R15) | 3:52 | 2021-08-06 | 2022-07-29 |
+| [Voices](https://open.spotify.com/track/79IUdU0benwGkJQsK6iMla) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [Shir Koren](https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7) | [NOWHERE](https://open.spotify.com/album/4SRfe7tZOJZLArlEJBxVwD) | 3:52 | 2021-08-06 |  |
 | [voices \(with Pauline Herr\)](https://open.spotify.com/track/34Xq7LTz3zCmsfWaM6oe4S) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [voices \(with Pauline Herr\)](https://open.spotify.com/album/6OL6JjMZz15nWMenK8gXJ2) | 4:07 | 2021-08-06 | 2022-07-29 |
 | [Vultures](https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Vultures](https://open.spotify.com/album/1tSLHZZYhk0uQgfuvevnkF) | 3:42 | 2021-08-06 |  |
 | [Wait For You](https://open.spotify.com/track/6h6hx5Xe6mWiWYWq5pbGBc) | [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83), [olmos](https://open.spotify.com/artist/700SbLPUJgsDDY1Vyh3GQy), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Wait For You](https://open.spotify.com/album/4xOlAlLzTPI7f6QLff6QSI) | 2:59 | 2021-08-06 | 2022-07-28 |

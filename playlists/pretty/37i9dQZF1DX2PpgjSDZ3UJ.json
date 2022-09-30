@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18555,
+  "num_followers": 18558,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDY2ODgwODNlNjg5ZDEwYmU5NTgwMWU5ODU1YmZmNjVm",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDk3NjcyZTI0M2Y0NTJkM2MyNjc5MDhjYjNlNDBjNTc2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
-        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 267964,
-      "name": "La \u00daltima 10",
-      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Santer\u00eda",
         "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194317,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
+        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 267964,
+      "name": "La \u00daltima 10",
+      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
-      },
-      "artists": [
-        {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Pong",
         "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 208505,
       "name": "Pong",
       "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+      },
+      "artists": [
+        {
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",

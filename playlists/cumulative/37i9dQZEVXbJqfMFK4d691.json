@@ -1158,6 +1158,28 @@
     },
     {
       "album": {
+        "name": "Burda de Feliz",
+        "url": "https://open.spotify.com/album/2IfV4cHSjgoQfkF79VQWw6"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        },
+        {
+          "name": "Blackie & Lois",
+          "url": "https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Burda de Feliz",
+      "url": "https://open.spotify.com/track/6cfTMCrEtr5OiGv381P2JT"
+    },
+    {
+      "album": {
         "name": "Buscate Otro",
         "url": "https://open.spotify.com/album/3JFNcZBzxgXxf2w6vYKU9B"
       },
@@ -7105,7 +7127,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 176936,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"

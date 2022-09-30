@@ -163,6 +163,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2020-11-13",
@@ -701,6 +705,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2020-11-13",
@@ -1906,28 +1914,6 @@
     },
     {
       "album": {
-        "name": "Hill Climber",
-        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "date_added": "2020-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196162,
-      "name": "It Gets Funkier IV",
-      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
-    },
-    {
-      "album": {
         "name": "It Gets Funkier IV",
         "url": "https://open.spotify.com/album/1MYjbxpsfTLxD6y28VGlXp"
       },
@@ -1947,6 +1933,32 @@
       "duration_ms": 196162,
       "name": "It Gets Funkier IV",
       "url": "https://open.spotify.com/track/6wKBPuUZ7XP6eCxe4aFlZG"
+    },
+    {
+      "album": {
+        "name": "Hill Climber",
+        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "It Gets Funkier IV",
+      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
     },
     {
       "album": {
@@ -2177,6 +2189,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2020-11-13",
@@ -2467,6 +2483,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2020-11-13",
@@ -2608,24 +2628,6 @@
     },
     {
       "album": {
-        "name": "The Fearless Flyers III",
-        "url": "https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        }
-      ],
-      "date_added": "2022-02-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 96884,
-      "name": "Patrol Acrobatique",
-      "url": "https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7"
-    },
-    {
-      "album": {
         "name": "Patrol Acrobatique",
         "url": "https://open.spotify.com/album/1B41vhxtYTfmRzDpJ2gk1Q"
       },
@@ -2641,6 +2643,28 @@
       "duration_ms": 96884,
       "name": "Patrol Acrobatique",
       "url": "https://open.spotify.com/track/6ygikF4l5lKtKHMErjg60K"
+    },
+    {
+      "album": {
+        "name": "The Fearless Flyers III",
+        "url": "https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96884,
+      "name": "Patrol Acrobatique",
+      "url": "https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7"
     },
     {
       "album": {
@@ -3295,6 +3319,10 @@
         {
           "name": "Vulfpeck",
           "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2020-11-13",

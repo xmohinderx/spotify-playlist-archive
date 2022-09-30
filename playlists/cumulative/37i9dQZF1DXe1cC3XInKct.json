@@ -818,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5ywCFs1YQJIlDkyYVY6Rsy"
+      },
+      "artists": [
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360093,
+      "name": "Eve (Anwummer\u025b)",
+      "url": "https://open.spotify.com/track/6iKSnT1iFPYaTcTDZhAPqP"
+    },
+    {
+      "album": {
         "name": "Faded Afternoon Heat",
         "url": "https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 391128,
       "name": "Farben Dub",
       "url": "https://open.spotify.com/track/6v1mluUChk5zyPudNNoexf"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 212680,
       "name": "Golden Cow",
       "url": "https://open.spotify.com/track/60gl0k7Ev2Squ7TXNAItGy"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 253951,
       "name": "Kunanyi",
       "url": "https://open.spotify.com/track/5WBXcxVorbFCirsQ3Xf9hd"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 320000,
       "name": "Melting",
       "url": "https://open.spotify.com/track/0EF3gHprK65KddPflKqHD4"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 244000,
       "name": "Needed Love",
       "url": "https://open.spotify.com/track/77ifjsYV4Y452xu6wSawLU"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 242286,
       "name": "Outside the City of God (Augustine wept)",
       "url": "https://open.spotify.com/track/3V6whOlDWNecNbvxi31HaT"
@@ -2361,6 +2379,24 @@
       "duration_ms": 246853,
       "name": "Pulses of Information",
       "url": "https://open.spotify.com/track/2hWJBOBNI9BJFvwT8Nb4x2"
+    },
+    {
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/3ODoCkbYLLUL5S3HLg1mWl"
+      },
+      "artists": [
+        {
+          "name": "Body Corp",
+          "url": "https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "React",
+      "url": "https://open.spotify.com/track/6IJgnVyUdwRlRg4PU4VGRa"
     },
     {
       "album": {
@@ -2656,6 +2692,32 @@
     },
     {
       "album": {
+        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
+        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
+      },
+      "artists": [
+        {
+          "name": "Mindy Meng Wang \u738b\u840c",
+          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        },
+        {
+          "name": "Flora Wong",
+          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
+      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
+    },
+    {
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -2905,7 +2967,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 363492,
       "name": "TDYRYF",
       "url": "https://open.spotify.com/track/5sS8rjvJrmTVgY9Gc8VS9u"
@@ -2931,7 +2993,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 193846,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/71yhzjRKhrAlsXz9xX4OlN"
@@ -3144,6 +3206,28 @@
     },
     {
       "album": {
+        "name": "Scissor Kick",
+        "url": "https://open.spotify.com/album/7likK32KV3yK8grCMicTWQ"
+      },
+      "artists": [
+        {
+          "name": "Third Space",
+          "url": "https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH"
+        },
+        {
+          "name": "Abby Sundborn",
+          "url": "https://open.spotify.com/artist/0K3hHXZ9wOvNVJK1Cdr3K9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380873,
+      "name": "Tunnelling",
+      "url": "https://open.spotify.com/track/5VdRIk3W48UZoSvKJuuHDF"
+    },
+    {
+      "album": {
         "name": "The Invention of the Human",
         "url": "https://open.spotify.com/album/3XFZEh0vqbAMncI4ewSzJU"
       },
@@ -3159,6 +3243,24 @@
       "duration_ms": 292526,
       "name": "Two Trains Came Through the Station at Once and It Felt Like a Hurricane",
       "url": "https://open.spotify.com/track/5rnuSdJ578IxfodIdYsvUB"
+    },
+    {
+      "album": {
+        "name": "Let's Turn It Into Sound",
+        "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325173,
+      "name": "Unbraid: The Merge",
+      "url": "https://open.spotify.com/track/0Gxs4JOsBbkTBtyYx89KpA"
     },
     {
       "album": {
@@ -3303,7 +3405,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 252003,
       "name": "When I Look Into Your Eyes",
       "url": "https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5"
@@ -3361,6 +3463,24 @@
       "duration_ms": 224145,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 902442,
+      "name": "World of Squares",
+      "url": "https://open.spotify.com/track/0AvI47DC7HfX9JVWRTREuf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct"

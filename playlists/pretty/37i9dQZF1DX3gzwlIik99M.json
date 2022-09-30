@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206419,
+  "num_followers": 206455,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDMxNmJkNDg1YjE0NDI5ODIzMWNlNjkwOWMzMmNmMjMx",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGQ5OWE2MWEzZjk5NmVlMjgyN2RkYzhmOGEzNGI5NjFh",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 209373,
       "name": "El nuevo camino del hombre",
       "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Rebeli\u00f3n En El Chiquero",
-        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
-      },
-      "artists": [
-        {
-          "name": "Marraneitors",
-          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "Eres Tan Mala Como la Carne de Puerco",
-      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "U.F.T.M. (Up for the Massacre)",
         "url": "https://open.spotify.com/album/1QFZRMsBbTK27CbtIRX5yP"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 315923,
       "name": "Merciless Machine",
       "url": "https://open.spotify.com/track/14YPy9y4pGct5kDHwYl0ns"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Rebeli\u00f3n En El Chiquero",
+        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
+      },
+      "artists": [
+        {
+          "name": "Marraneitors",
+          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "Eres Tan Mala Como la Carne de Puerco",
+      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Basado en Hechos Reales",
-        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Cenizas\u202c",
-      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Khafra",
         "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 182323,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Basado en Hechos Reales",
+        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
+      },
+      "artists": [
+        {
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
+        }
+      ],
+      "duration_ms": 254748,
+      "name": "Cenizas\u202c",
+      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
       },
       "artists": [
         {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+      },
+      "artists": [
+        {
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
         "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
       },
@@ -667,38 +683,6 @@
       "duration_ms": 304586,
       "name": "Guerrero Del Arco Iris",
       "url": "https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Carnivora",
-        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
-      },
-      "artists": [
-        {
-          "name": "Mastifal",
-          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Culto vacio radical",
-      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Discord",
-        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
-      },
-      "artists": [
-        {
-          "name": "Black Overdrive",
-          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -719,18 +703,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Panel Optico",
-        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
       },
       "artists": [
         {
-          "name": "Bandera de Niebla",
-          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
         }
       ],
-      "duration_ms": 87302,
-      "name": "Macho Alfa",
-      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -771,6 +755,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Panel Optico",
+        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
+      },
+      "artists": [
+        {
+          "name": "Bandera de Niebla",
+          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
+        }
+      ],
+      "duration_ms": 87302,
+      "name": "Macho Alfa",
+      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Legiones",
         "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Tierras Muertas",
-        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
-      },
-      "artists": [
-        {
-          "name": "Lethal Creation",
-          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
-        }
-      ],
-      "duration_ms": 309054,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Llora Chiapas",
         "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Tierras Muertas",
+        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
+      },
+      "artists": [
+        {
+          "name": "Lethal Creation",
+          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
+        }
+      ],
+      "duration_ms": 309054,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
     }
   ],
   "unique_name": "Metal del Nuestro",

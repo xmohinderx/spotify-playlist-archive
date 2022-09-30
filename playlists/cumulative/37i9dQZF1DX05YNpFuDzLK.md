@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-48 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
+49 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Utsukushiki Kemonotachi no Tameno](https://open.spotify.com/track/1KNWZvBfFjhJjFu8V0c9i9) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [CODE GEASS Lelouch of the Re: Surrection Original Motion Picture Soundtrack](https://open.spotify.com/album/6MwT7LUJJd2S4A15RXXW4D) | 4:33 | 2022-08-04 |  |
 | [will\-ill](https://open.spotify.com/track/7fJ1M28qRsUjSk8r0kKNv3) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [will\-ill](https://open.spotify.com/album/3KsCE9aD7Po22BP79o3kt0) | 5:09 | 2022-08-04 |  |
 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 | 2022-08-04 |  |
+| [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 | 2022-09-29 |  |
 | [この世界で](https://open.spotify.com/track/7gc2ze99EAjltx0xGHGeOJ) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [この世界で](https://open.spotify.com/album/5A7FOGWsOo8PzO7esUjWod) | 4:43 | 2022-08-04 |  |
 | [わが臈たし悪の華](https://open.spotify.com/track/3MJqgOdP2nNb8QzfIaV0io) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [桂冠詩人 SINGLE COLLECTION PLUS](https://open.spotify.com/album/004c28tUoHBiyAxdzO0z8e) | 4:30 | 2022-08-04 |  |
 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-04 |  |

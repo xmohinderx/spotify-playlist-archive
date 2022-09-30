@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Surf's Up",
+        "url": "https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Disney Girls (1957) - Remastered 2009",
+      "url": "https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py"
+    },
+    {
+      "album": {
         "name": "20/20 (Remastered)",
         "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 146373,
       "name": "Do It Again - Remastered 2001",
       "url": "https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 138906,
       "name": "Fun, Fun, Fun (Mono)",
       "url": "https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 225826,
       "name": "Marcella - 2021 Mix",
       "url": "https://open.spotify.com/track/1DYMaKz5aEskxuOOlP7a9A"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
@@ -1021,6 +1039,24 @@
       "duration_ms": 193399,
       "name": "Wouldn\u2019t It Be Nice",
       "url": "https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK"
+    },
+    {
+      "album": {
+        "name": "You Need A Mess Of Help To Stand Alone (Live At Carnegie Hall)",
+        "url": "https://open.spotify.com/album/1LQvNKNNDE7mSXQzqrZux7"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "You Need A Mess Of Help To Stand Alone - Live At Carnegie Hall",
+      "url": "https://open.spotify.com/track/02OpsoLFQizrRkr4TxwGTI"
     },
     {
       "album": {

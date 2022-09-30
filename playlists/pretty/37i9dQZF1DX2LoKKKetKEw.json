@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 9655,
+  "num_followers": 9803,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzQ2OTMyNSwwMDAwMDAwMDYxMjMwZjY3NjJiY2RjYzFlNmVkMTNkZTVkNzBiMmY0",
+  "snapshot_id": "MTY2MzQ2OTMyNSwwMDAwMDAwMGRmYjQwMDgwYjRjZDE0MzI5MGM3NGJlY2ZlOTRhZWY1",
   "tracks": [
     {
       "added_at": "2022-09-18 02:48:45",
@@ -963,26 +963,6 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
-    },
-    {
-      "added_at": "2022-09-18 02:48:45",
-      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
       },
@@ -1003,22 +983,22 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
       },
       "artists": [
         {
-          "name": "Paul-Emmanuel",
-          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
         },
         {
-          "name": "Break The Eyes",
-          "url": "https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 176969,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj"
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2022-09-18 02:48:45",
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2022-09-18 02:48:45",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
       "artists": [
         {
-          "name": "Michael Oyo",
-          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
         },
         {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+          "name": "Break The Eyes",
+          "url": "https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p"
         }
       ],
-      "duration_ms": 171333,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+      "duration_ms": 176969,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj"
     },
     {
       "added_at": "2022-09-18 02:48:45",
@@ -1075,6 +1055,26 @@
       "duration_ms": 187252,
       "name": "The One",
       "url": "https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA"
+    },
+    {
+      "added_at": "2022-09-18 02:48:45",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
+      },
+      "artists": [
+        {
+          "name": "Michael Oyo",
+          "url": "https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
     }
   ],
   "unique_name": "AfroGospel",

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gordon Flanders
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Friday
 
-253 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+259 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [FALLEN](https://open.spotify.com/track/5315U2mC8mccmUXJ6ivdqZ) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [FALLEN](https://open.spotify.com/album/528YTSLjZ9z61w2q21zzuo) | 3:29 | 2022-09-15 |  |
 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 | 2022-05-26 | 2022-07-29 |
 | [Favorite Drug](https://open.spotify.com/track/7acFbTCQRZu1uDTfoyZtc8) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Favorite Drug](https://open.spotify.com/album/6fbi9zwD9WKXi4acKbZce4) | 3:45 | 2022-06-09 | 2022-09-09 |
+| [Favorite Drug \(feat\. Kayan9896\) \- Remix](https://open.spotify.com/track/2DjlbZzO8rfqaoPcufRJqN) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Favorite Drug \(feat\. Kayan9896\) \[Remix\]](https://open.spotify.com/album/0B3pSSFcnE3GNatFhuRMi8) | 3:43 | 2022-09-29 |  |
 | [Feel the Rain](https://open.spotify.com/track/41ePILFgS5liu9g4iBodob) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Feel the Rain](https://open.spotify.com/album/7GVEQttmD40HbQf85iIE68) | 4:20 | 2022-09-01 |  |
 | [First Priority](https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [First Priority](https://open.spotify.com/album/079KSpwAXiuEg99M8BAStP) | 2:52 | 2022-06-09 | 2022-09-09 |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-26 | 2022-09-09 |
@@ -63,6 +64,7 @@
 | [Goodbye](https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [日曜日](https://open.spotify.com/album/5wuSotju31MyCj12UnI8iD) | 3:57 | 2022-09-01 |  |
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 |  |
+| [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 |  |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 |  |
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 | 2022-09-09 |
@@ -105,6 +107,7 @@
 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 | 2022-05-26 | 2022-09-09 |
 | [Now Here, Man!](https://open.spotify.com/track/5tRefnEvjFoc1fdoI0lRIc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [Now Here, Man!](https://open.spotify.com/album/7bbsgLKPjG5BTMGuAQZw9r) | 4:11 | 2022-05-26 | 2022-06-10 |
 | [Now That She's Gone \(ft\. Heartgrey\)](https://open.spotify.com/track/7zzjQaPr74NJByHTuWfMa2) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D), [Heartgrey](https://open.spotify.com/artist/74HveI8LJp6GPQ3P9h813k) | [Now That She's Gone \(ft\. Heartgrey\)](https://open.spotify.com/album/6qbc4CspLWtno9WFm051fU) | 3:03 | 2022-07-07 |  |
+| [N°5\(feat\. Mike Orange\)](https://open.spotify.com/track/1GiItHhxv9Lng7GLjs1x2p) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Mike Orange](https://open.spotify.com/artist/16CT77nyCx37z4iQkTx0vs) | [N°5\(feat\. Mike Orange\)](https://open.spotify.com/album/7yeD7QyQNxRVACj8Af3FCl) | 3:25 | 2022-09-29 |  |
 | [Obe](https://open.spotify.com/track/4OY2hvyx8v5tkKsZAODkX5) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [Obe](https://open.spotify.com/album/2lba5fmL5XmnwZiZg17uAG) | 1:45 | 2022-05-26 | 2022-07-29 |
 | [On My Way](https://open.spotify.com/track/1N52PJn3aAJUAafET6LnDD) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [On My Way](https://open.spotify.com/album/5fuxLL2VKGqdOv0qP9jD4u) | 1:59 | 2022-07-14 |  |
 | [On My Way](https://open.spotify.com/track/3P74CFpJFmolZ0ZdxUPk0z) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [Officially 18](https://open.spotify.com/album/2lh8bfWe7bUp1KtWMjZONq) | 1:59 | 2022-08-18 |  |
@@ -159,6 +162,7 @@
 | [Unknown](https://open.spotify.com/track/1l9UUJaLMgJ0gBtSLZW1SF) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Unknown](https://open.spotify.com/album/5Jz8oeB9hH55B7tCT2zLVK) | 5:04 | 2022-05-26 | 2022-07-29 |
 | [Unlock](https://open.spotify.com/track/3inRrpZMI0sRk8Ldef8kzu) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK), [WingYi](https://open.spotify.com/artist/53IHrm3wBJYrurtW01xGVV) | [Unlock](https://open.spotify.com/album/45qy057WtjUMopdSz1hh4p) | 3:48 | 2022-05-26 | 2022-06-10 |
 | [Wanna Freek 想曳](https://open.spotify.com/track/2uYY4NzLkqBtFiGDiF5HRj) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Wanna Freek 想曳](https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO) | 3:01 | 2022-07-07 | 2022-09-09 |
+| [Way Home 回家](https://open.spotify.com/track/5Kpx8pcbQVVJnY5qJECOgJ) | [Sea Island & Ferry 海島小輪](https://open.spotify.com/artist/0B7YKBxPz9JuT9b7azRx55) | [As if \- II\. The Deep End 往深](https://open.spotify.com/album/0YVzlKAxl14t6UNy7KU5Ur) | 5:00 | 2022-09-29 |  |
 | [We Don't Talk 'Bout Love](https://open.spotify.com/track/0f1vhVkouckNqcwQJCpyEv) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Intoxicated By...](https://open.spotify.com/album/1sAU95jxiDP5pAQXZ02Vnu) | 3:52 | 2022-09-22 |  |
 | [we'll meet again someday](https://open.spotify.com/track/2MhmZKLUVGIeR5isxJBIqF) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [NIRVANA](https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x) | 0:53 | 2022-06-16 | 2022-09-09 |
 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 | 2022-08-25 |  |
@@ -177,6 +181,7 @@
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-09-09 |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 |  |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |
+| [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 | 2022-09-29 |  |
 | [人](https://open.spotify.com/track/0S0kOIu1c594H7nV6B2ttS) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [人](https://open.spotify.com/album/1K3lYhwpjsjnbDplT3euXy) | 4:00 | 2022-05-26 | 2022-07-29 |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 | 2022-07-29 |
 | [你離開以後](https://open.spotify.com/track/63p1gPCHMMoE3HcC3OvMMY) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [你離開以後](https://open.spotify.com/album/2b81UhACmfpsjzFUfPheLu) | 4:17 | 2022-08-04 |  |
@@ -185,6 +190,7 @@
 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 | 2022-05-26 | 2022-07-29 |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-08 |  |
 | [其實咩關係唔緊](https://open.spotify.com/track/0dCROcDt5hH5snFfdrwQQ0) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [其實咩關係唔緊](https://open.spotify.com/album/1NqxwlCp0NIuNa5w3OsIoD) | 2:52 | 2022-05-26 | 2022-06-10 |
+| [出水芙蓉](https://open.spotify.com/track/3x2OFytSWdt2TkdJrWNtn5) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [出水芙蓉](https://open.spotify.com/album/1VSJ5mtJU9KH4poF99mJcV) | 1:57 | 2022-09-29 |  |
 | [剃光頭](https://open.spotify.com/track/4Go5fO2eGto0kzaWICw1Ov) | [Ryan's Bucket List](https://open.spotify.com/artist/4eBKRt82Hdn471MeTmOFFt) | [剃光頭](https://open.spotify.com/album/62cZNWXmxBjJcZjZImiQLX) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 | 2022-07-29 |
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 | 2022-09-09 |

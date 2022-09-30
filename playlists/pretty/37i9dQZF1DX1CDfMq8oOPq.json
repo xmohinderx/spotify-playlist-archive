@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Mc Luanna",
-  "num_followers": 21681,
+  "num_followers": 21723,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMDg0ZGViYTkyNGY3ZDNiMzZiZWRhMWY1NDVlNDhhNzc4",
+  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMGEzNDllNzdlODJhMmFlOTA1ODE1ZWE2YzJkNDQyYmU5",
   "tracks": [
     {
       "added_at": "2022-09-23 03:01:00",
@@ -451,42 +451,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Euro",
-        "url": "https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O"
-      },
-      "artists": [
-        {
-          "name": "Morenna",
-          "url": "https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 217114,
-      "name": "Euro",
-      "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Lado B",
         "url": "https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 168610,
       "name": "Corpo Suado",
       "url": "https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O"
+      },
+      "artists": [
+        {
+          "name": "Morenna",
+          "url": "https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 217114,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "N\u00e3o Nega",
-        "url": "https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
-        }
-      ],
-      "duration_ms": 184329,
-      "name": "N\u00e3o Nega",
-      "url": "https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Difere",
         "url": "https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 132857,
       "name": "Difere",
       "url": "https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "N\u00e3o Nega",
+        "url": "https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "duration_ms": 184329,
+      "name": "N\u00e3o Nega",
+      "url": "https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G"
     },
     {
       "added_at": "2022-09-23 03:01:00",

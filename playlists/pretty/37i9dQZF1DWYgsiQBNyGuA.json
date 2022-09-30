@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 44961,
+  "num_followers": 45000,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMGQwYTE5NzVlYzIwOGE4NjU1OTAxNjZhYjlmYmQ2ZTM1",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDBjZWRjZDRhM2YyYjY4OTZjMmYwYWIwZmUzNzdjNmQ2",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 311453,
       "name": "Can't Change Me",
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 260506,
       "name": "Just The Two Of Us",
       "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Live for Each Other",
-        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "A Love Story",
         "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 252826,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Live for Each Other",
+        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Bruce Billups Southern Soul Mix (Re-Loaded)",
-        "url": "https://open.spotify.com/album/6zT1CYxdMjosZQwBGGpEoD"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
       },
       "artists": [
         {
-          "name": "Lebrado",
-          "url": "https://open.spotify.com/artist/0ay7iuyEsO194wWkxfyjsA"
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/7DpuczUR3nNFkMfMyRqoNx"
+      "duration_ms": 214960,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1151,6 +1135,22 @@
       "duration_ms": 244840,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Bruce Billups Southern Soul Mix (Re-Loaded)",
+        "url": "https://open.spotify.com/album/6zT1CYxdMjosZQwBGGpEoD"
+      },
+      "artists": [
+        {
+          "name": "Lebrado",
+          "url": "https://open.spotify.com/artist/0ay7iuyEsO194wWkxfyjsA"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/7DpuczUR3nNFkMfMyRqoNx"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "If I Was A Bird",
+      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Take From Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 270325,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "If I Was A Bird",
-      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
     },
     {
       "added_at": "2022-04-08 07:52:50",

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Royce Da 5'9"
 
-336 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+337 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2021-09-03 | 2022-02-26 |
 | [How You Live It \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [How You Live It \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1DnwUfn1lj7Zas2vNNrhsT) | 3:00 | 2021-09-03 | 2022-07-29 |
 | [Hunnid \(feat\. Joyce Wrice\)](https://open.spotify.com/track/4O4VqQ5dt0uMVoXo60R2WN) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Hunnid \(feat\. Joyce Wrice\)](https://open.spotify.com/album/0e7zg0oVPwhGiRpjZ3dRzH) | 3:14 | 2022-03-18 | 2022-04-21 |
-| [I Love The Game](https://open.spotify.com/track/2mLf1UyFsgOD16vqFlmMlO) | [Nym Lo](https://open.spotify.com/artist/40VsC68IfRE86qiiBNzOQA), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [I Love The Game](https://open.spotify.com/album/0FLCPq9XwDxaHg66piHF6o) | 2:45 | 2022-09-23 |  |
+| [I Love The Game](https://open.spotify.com/track/2mLf1UyFsgOD16vqFlmMlO) | [Nym Lo](https://open.spotify.com/artist/40VsC68IfRE86qiiBNzOQA), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [I Love The Game](https://open.spotify.com/album/0FLCPq9XwDxaHg66piHF6o) | 2:45 | 2022-09-23 | 2022-09-30 |
+| [I Love The Game](https://open.spotify.com/track/5glyXTacEKGIJ2GcNVlxSl) | [Nym Lo](https://open.spotify.com/artist/40VsC68IfRE86qiiBNzOQA), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [I Love The Game](https://open.spotify.com/album/71P8sFMVjCHVvHf1J4vBPZ) | 2:45 | 2022-09-30 |  |
 | [I Love You, I Hate You](https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [I Love You, I Hate You](https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf) | 4:15 | 2022-03-25 | 2022-04-10 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-04-01 | 2022-07-26 |
 | [Iconic](https://open.spotify.com/track/1JShNYPrdwzzEL0sh3OCWn) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 3:13 | 2022-03-25 | 2022-06-08 |

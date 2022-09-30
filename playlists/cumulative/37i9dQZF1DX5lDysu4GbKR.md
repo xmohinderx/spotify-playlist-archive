@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-144 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+145 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 | 2022-06-16 | 2022-08-26 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2021-12-09 | 2022-07-29 |
 | [Dive Bar \- Demo Version](https://open.spotify.com/track/6uGS5ijqsTxJBopWF2rM7o) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Love, Drugs, & Decisions \(Acoustic\)](https://open.spotify.com/album/78b0W5qCMxiId6ZGnvm2w4) | 3:57 | 2021-12-09 | 2022-01-26 |
+| [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-09-29 |  |
 | [Don't Walk Ahead](https://open.spotify.com/track/2ZqEojdExixApk1nY1Cib6) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V) | [Don't Walk Ahead](https://open.spotify.com/album/1NF1osQtBrL6U6CAguMqE1) | 3:31 | 2021-12-09 | 2022-07-29 |
 | [Don't Walk Ahead](https://open.spotify.com/track/2fXQU9i2Wvydt9AHa7Uh32) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V), [Joshua Heath](https://open.spotify.com/artist/0EP7WvDUkmtpa4zIN5SAlz), [Lyell Roeder](https://open.spotify.com/artist/21GNV26W7xdaJJfKc0N9S8), [Ankit Suri](https://open.spotify.com/artist/4EEzmnDnnNZCwz3ZfHW5xB), [Evan Hatfield](https://open.spotify.com/artist/3k8qxnliTHOu0KzdKfuS2V) | [Don't Walk Ahead](https://open.spotify.com/album/76uO2WahtkVA65sywYmb8m) | 3:31 | 2022-06-16 |  |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2021-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 37145,
+  "num_followers": 37605,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDJiY2IxOTIzNTMyZDQxMTRhNTAzYTBlOWMxOWUxY2Qy",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDNhOGI1ODA1MTAxMTBjZDA1Y2IzMmIzMDQ5OThiMTJi",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -791,38 +791,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
-      },
-      "artists": [
-        {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
-        }
-      ],
-      "duration_ms": 357227,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Hypnos",
         "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
+      },
+      "artists": [
+        {
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+        }
+      ],
+      "duration_ms": 357227,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
     },
     {
       "added_at": "2022-09-09 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26750,
+  "num_followers": 26755,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzE1NCw1NmMwYWMxMzUwYTU5ZTY5MWEyM2ViYWNiODVhNzE3YmIwNzNhYzFh",
+  "snapshot_id": "MzE2MCxiNTFiMWM2YzBiODU0MTk2MjIyOGM5MmJhMTJkZjQ4ZjQzYjU2YWRl",
   "tracks": [
     {
       "added_at": "2022-09-21 11:24:21",
@@ -115,6 +115,22 @@
       "duration_ms": 228727,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
+    },
+    {
+      "added_at": "2022-09-29 20:32:26",
+      "album": {
+        "name": "Dead Inside Shuffle",
+        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dead Inside Shuffle",
+      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-09-20 11:45:55",
@@ -261,20 +277,20 @@
       "url": "https://open.spotify.com/track/12tzUisHWGTVrz5g2Hudz9"
     },
     {
-      "added_at": "2022-08-23 22:35:38",
+      "added_at": "2022-09-29 20:31:35",
       "album": {
-        "name": "I\u2019m Tight",
-        "url": "https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi"
+        "name": "I Love The Drive",
+        "url": "https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF"
       },
       "artists": [
         {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+          "name": "Kiss Nuka",
+          "url": "https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg"
         }
       ],
-      "duration_ms": 420613,
-      "name": "I\u2019m Tight",
-      "url": "https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB"
+      "duration_ms": 328000,
+      "name": "I Love The Drive",
+      "url": "https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy"
     },
     {
       "added_at": "2022-08-10 14:03:31",
@@ -543,26 +559,6 @@
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
-    },
-    {
-      "added_at": "2022-07-13 22:24:54",
-      "album": {
-        "name": "Touch (feat. Rromarin)",
-        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch (feat. Rromarin)",
-      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
     },
     {
       "added_at": "2022-06-15 19:49:12",

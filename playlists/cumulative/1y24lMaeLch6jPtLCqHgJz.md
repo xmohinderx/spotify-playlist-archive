@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-95 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+96 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-07-29 |  |
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 | 2022-08-11 |  |
-| [Born To Die \- BLK RSE Mix](https://open.spotify.com/track/4AhF1IFiqP7ccKBCYzT8e4) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [ShowKaaze Vol\. 3](https://open.spotify.com/album/1PJbL6uCqFlgZfTZLfNh9N) | 3:07 | 2022-07-29 |  |
+| [Born To Die \- BLK RSE Mix](https://open.spotify.com/track/4AhF1IFiqP7ccKBCYzT8e4) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [ShowKaaze Vol\. 3](https://open.spotify.com/album/1PJbL6uCqFlgZfTZLfNh9N) | 3:07 | 2022-07-29 | 2022-09-30 |
 | [Brighter Than The Sun](https://open.spotify.com/track/2BWuBXsrpgh46npuN9JAEJ) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Brighter Than The Sun](https://open.spotify.com/album/6KGr1eBvT9h93U2UUSAO3R) | 3:15 | 2022-07-29 |  |
 | [Bring It Home](https://open.spotify.com/track/1vKswlFSIoQFK9OYFxHXxG) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Bring It Home](https://open.spotify.com/album/0lT8OMOXN3Dkk2FzeuJhDF) | 2:42 | 2022-07-29 | 2022-08-20 |
 | [Bring Me Down](https://open.spotify.com/track/7FhOYhjnqPPlm0LTOMnJLy) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [Sisters Cap](https://open.spotify.com/artist/2qqX8GWsa5U8kiVM10bFlp), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Bring Me Down](https://open.spotify.com/album/2lRVLM5xZEZaFYu436lCVU) | 3:14 | 2022-07-29 |  |
@@ -103,5 +103,6 @@
 | [Whole Again](https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again](https://open.spotify.com/album/2cCt0xjFeQjUYW2RaFOHml) | 3:30 | 2022-07-29 | 2022-09-20 |
 | [Wish We Never Met](https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wish We Never Met](https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW) | 2:43 | 2022-07-29 |  |
 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 | 2022-07-29 | 2022-08-27 |
+| [Your Body \- KAAZE Mix](https://open.spotify.com/track/3lGF0nr4zSBFF1IIedjdwh) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Your Body](https://open.spotify.com/album/1e5Y7EcUjZhAuMJYQMVSD1) | 2:53 | 2022-09-29 |  |
 
 \*This playlist was first scraped on 2022-08-16. Prior content cannot be recovered.

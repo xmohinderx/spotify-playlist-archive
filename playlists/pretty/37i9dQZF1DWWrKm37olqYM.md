@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,179 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,190 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 5 | [Don't Stop Now](https://open.spotify.com/track/1X7DlBhfoQZw2XIaxijkxa) | [CalvoMusic](https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo) | [Summer Pack](https://open.spotify.com/album/36qRXgG9D9TacfxFYSekup) | 3:06 |
 | 6 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 |
 | 7 | [If Its Beef](https://open.spotify.com/track/0BArXmqAML8MyniJzTF7ow) | [Six9Five](https://open.spotify.com/artist/70WNAYPTPSKLpt9AnrVUwz) | [If Its Beef](https://open.spotify.com/album/7fJjzVQ8q1v1IgvfRPPvOu) | 3:09 |
-| 8 | [Put Your Leg Up \(Like This?\)](https://open.spotify.com/track/0xSxNcwlfeVuvh0y84Z846) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [Put Your Leg Up \(Like This?\)](https://open.spotify.com/album/5npPwFmC5lz9myIRVhouOW) | 2:59 |
+| 8 | [Put Your Leg Up \(Like This?\)](https://open.spotify.com/track/0xSxNcwlfeVuvh0y84Z846) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0), [Diamond K](https://open.spotify.com/artist/49EpGlFcfIaIcgPBdOrXOh) | [Put Your Leg Up \(Like This?\)](https://open.spotify.com/album/5npPwFmC5lz9myIRVhouOW) | 2:59 |
 | 9 | [Gettin' Rich](https://open.spotify.com/track/6HspriFXZC7m0eG57mwBsi) | [CZ Babyy](https://open.spotify.com/artist/6aIgyim2iKsPEhNkHusiLr) | [Breaking N' Entering](https://open.spotify.com/album/4zrtTv4wdwXlME0T1DEfzO) | 2:54 |
 | 10 | [My Best Friend](https://open.spotify.com/track/7MT4IUbVqT4XX604wOHjqj) | [Abdu Ali](https://open.spotify.com/artist/1sCfVwDw9jhng9PUMNcqlo) | [My Best Friend](https://open.spotify.com/album/0EzwAOEBLs8BqOn64Hz8pg) | 3:00 |
 | 11 | [Touch Me Now](https://open.spotify.com/track/011uP1F8iwTfE52XhOYW4A) | [Sunny Cowell](https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF) | [Touch Me Now](https://open.spotify.com/album/0MAOKbuSR5GCagLx8R9zgU) | 3:17 |

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-257 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+258 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Peperomia Seedling](https://open.spotify.com/track/7kCbTbQfyVySUftfKsgbWF) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peperomia Seedling](https://open.spotify.com/album/2HTliWlRXYQXidfyTOwkpU) | 3:43 | 2022-06-29 | 2022-07-29 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2022-06-29 |  |
 | [Photophores](https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc) | [Balearic Sea](https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6) | [Intertidal](https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43) | 2:36 | 2022-06-29 |  |
-| [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 |  |
+| [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 | 2022-09-30 |
 | [Prad](https://open.spotify.com/track/6bVe3KvYlPjI20dqMYQz0n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [ALL](https://open.spotify.com/album/3PvCbTrliFqZydFujweeiI) | 4:54 | 2022-06-29 | 2022-07-29 |
 | [Pulsating Ice Sheet.](https://open.spotify.com/track/3lRsr0NDeH4LJ7H3DbsBXf) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Pulsating Ice Sheet.](https://open.spotify.com/album/0bQETQwqsnXJvaMUpfADeX) | 3:30 | 2022-06-29 | 2022-07-29 |
 | [Resurrection](https://open.spotify.com/track/1m0uGPPwMV53Pkyb2fPTmi) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Resurrection](https://open.spotify.com/album/4kPpK9D61o7w8LyqPUpc4O) | 3:00 | 2022-06-29 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [Rural Landscapes](https://open.spotify.com/track/0VEv5eVGdRogFPx7jI0fdo) | [Emerald High](https://open.spotify.com/artist/0GqXpiHp5JAF6pRU9orT7Q) | [Industrial Structures](https://open.spotify.com/album/5gDhWcsMxLTreuS2zYrisU) | 2:57 | 2022-07-19 |  |
 | [Rural Landscapes](https://open.spotify.com/track/6THgi0W2fwz42lNfFlnOee) | [Emerald High](https://open.spotify.com/artist/0GqXpiHp5JAF6pRU9orT7Q) | [Industrial Structures](https://open.spotify.com/album/66U0R8mY1PyzlVu5YkdcCb) | 2:57 | 2022-06-29 | 2022-07-29 |
 | [Senseful](https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A) | [Eternal Ocean](https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f) | [Miracle](https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS) | 2:53 | 2022-06-29 |  |
+| [Sequel](https://open.spotify.com/track/3SuFqv9coNjBTkRrPLlr2Q) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/0K9TZl9c0ZQuETSELTQvxu) | 3:38 | 2022-09-13 |  |
 | [Sequel](https://open.spotify.com/track/6jxhYCjs0eeu3lUrkNDvyG) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/4ioPSkVm13kcY5a6ISSYD4) | 3:38 | 2022-06-29 | 2022-07-28 |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-06-29 |  |
 | [Shimmer](https://open.spotify.com/track/6LiWx65mI4iqEFGc3uy5c0) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/5lQhD4YmcY2xKifPFzSilr) | 2:09 | 2022-06-29 | 2022-07-29 |

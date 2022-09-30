@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-152 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+153 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2021-04-19 | 2022-07-29 |
 | [Someday](https://open.spotify.com/track/7lzN9YCOgAWSJpyfCnoLeN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Someday](https://open.spotify.com/album/3RmRr6DvjdZlnC4Wl1fTAC) | 3:12 | 2021-10-01 |  |
 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 | 2021-04-19 | 2022-07-29 |
-| [Stand Like An Oak](https://open.spotify.com/track/77TcbXD97SC7XFkiwPf1AA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/5Jgrs4V3LjPJ5tSxt4FkPO) | 3:01 | 2021-04-19 |  |
+| [Stand Like An Oak](https://open.spotify.com/track/77TcbXD97SC7XFkiwPf1AA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/5Jgrs4V3LjPJ5tSxt4FkPO) | 3:01 | 2021-04-19 | 2022-09-30 |
+| [Stand Like An Oak](https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid) | 3:01 | 2021-04-19 |  |
 | [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 | 2021-04-19 |  |
 | [Stupid Heart](https://open.spotify.com/track/49LO8TA171dpEzwGZlBO91) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/7JCQA4uw0BpFSlvO1PYgRE) | 3:02 | 2021-04-19 | 2022-07-29 |
 | [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 | 2021-04-19 |  |

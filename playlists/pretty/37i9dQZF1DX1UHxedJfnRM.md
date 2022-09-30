@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,193 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,326 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 69 | [Sin Ti](https://open.spotify.com/track/60Lkn19mTVKexNrbIvqgos) | [La Perú Salsa All Star](https://open.spotify.com/artist/6LraR5S4VeqSQ5NflpY0GI) | [Juntos en Lo Mejor](https://open.spotify.com/album/4QYksnq4JOQhxeOCQCiffK) | 5:27 |
 | 70 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 |
 | 71 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
-| 72 | [Te Hubieras Ido Antes](https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/05El2xzVkxnnXhb5OBsSWd) | 5:28 |
+| 72 | [Te Hubieras Ido Antes](https://open.spotify.com/track/5GOgQXy7zr7eawDcg42BQM) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/2g6mTpjzPug3VtyedEfMVJ) | 5:28 |
 | 73 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 |
 | 74 | [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 |
 | 75 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 |
 | 80 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 |
 
-Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDlhOWEwZTJkZWJmMTY1ZTAxNGQyMjI0NWFmN2NmYjdj`
+Snapshot ID: `MTY2MDI4MDQwMCwwMDAwMDAwMDA2MTBkMmJmMjAzOTZiNWJkMzU2NjUzZjI0NGRmZTEx`

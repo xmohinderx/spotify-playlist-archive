@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,354 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,424 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 35 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 36 | [On The Come Up](https://open.spotify.com/track/2woZp7c5x1ZP5iSWKj4J2Z) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Jamila C\. Gray](https://open.spotify.com/artist/4p1OdIptpq04ukwTT3uyTf) | [On The Come Up](https://open.spotify.com/album/1UkWepw39XVBHvBjuoAAh4) | 2:57 |
 | 37 | [11:11](https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS) | 1:33 |
-| 38 | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4XLHL9bbPjruuuL2LGVMGQ) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/album/5EjFJHbDCb47EPcGV8Piqd) | 2:33 |
-| 39 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 |
+| 38 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 |
+| 39 | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4XLHL9bbPjruuuL2LGVMGQ) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/album/5EjFJHbDCb47EPcGV8Piqd) | 2:33 |
 | 40 | [Wash The Dishes](https://open.spotify.com/track/46YZs3kPeVMvUvyWm2JQes) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Wash The Dishes](https://open.spotify.com/album/5dMPpYYfS9Bb2dBCJS9Gpz) | 2:28 |
 | 41 | [Stepper \(feat\. Nardo Wick\)](https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:27 |
 | 42 | [Messy](https://open.spotify.com/track/6BDfPXdc5LePckeLSN9z8I) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Messy](https://open.spotify.com/album/6EMJGoV0haYpSrqH3pSwzO) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [8 Year Run](https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [8 Year Run](https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea) | 2:10 |
 | 50 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 |
 
-Snapshot ID: `MTY2Mzk2NTY3NSwwMDAwMDAwMGQ5OTk0NTU0ZmU5MDA5NDYwYjIxZTE1MWU1ZDFhMTZj`
+Snapshot ID: `MTY2Mzk2NTY3NSwwMDAwMDAwMDM5YzdhOWFkNjI5OWE3ZDAwMzEyNGI3YmQxOGE1NGM1`

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-301 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+302 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
 | [LOUDER](https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [LOUDER](https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ) | 3:55 | 2022-06-07 |  |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-13 |
+| [Love U true](https://open.spotify.com/track/6Ee2cUtg1YctkZgUHHGUUi) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc), [TSUKKY](https://open.spotify.com/artist/2R2HBDzAhagkTfV4bNnP7p) | [Love U true](https://open.spotify.com/album/7aZJJn9XVacC1j0jVyU9GY) | 3:05 | 2022-09-29 |  |
 | [LOVELAND, ISLAND \- Cover](https://open.spotify.com/track/2iHNZ0zOMRpFQJu28NMpNL) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [LOVELAND, ISLAND \(Cover\)](https://open.spotify.com/album/1xc1f57YL7LrGLvEvBcUQj) | 4:45 | 2022-08-16 | 2022-08-31 |
 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 |  |
 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 |  |
@@ -185,7 +186,7 @@
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-02 |  |
 | [Time](https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [時のぬけがら](https://open.spotify.com/album/3r9hLVBAU1UWKUcFVQl6Jv) | 4:03 | 2022-06-07 | 2022-06-15 |
 | [Tokyo Rouge](https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:43 | 2022-06-16 |  |
-| [Tokyo Tower](https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Tokyo Tower](https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32) | 4:49 | 2022-09-08 |  |
+| [Tokyo Tower](https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Tokyo Tower](https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32) | 4:49 | 2022-09-08 | 2022-09-30 |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/32vDtAPTKgkLDzeRmwnJNQ) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:30 | 2022-08-16 | 2022-08-24 |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 |  |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
@@ -290,7 +291,7 @@
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-24 | 2022-06-01 |
 | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/track/2IG4w90GCE7P5w5Bu4kyY7) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/album/1B3X7xeu3s7DR0g4udB640) | 5:00 | 2022-05-28 | 2022-06-15 |
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
-| [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 |  |
+| [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 | 2022-09-30 |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-29 |
 | [真夏のスキャット \- 2022version](https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He) | [Gomes The Hitman](https://open.spotify.com/artist/3PBXjLwd5K3SfNgKcX1I2X) | [slo\-mo replay](https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny) | 3:29 | 2022-07-26 | 2022-07-28 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-09 |  |
@@ -306,7 +307,7 @@
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 |  |
 | [都会の森](https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [MEBAE](https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi) | 4:37 | 2022-06-07 | 2022-07-11 |
 | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/track/7eM4bUjucfMv5GkM4gotZA) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/album/5CAbx94HFbCDQXFP4F9bDx) | 4:12 | 2022-05-24 | 2022-07-20 |
-| [雨](https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [雨](https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1) | 4:27 | 2022-06-14 | 2022-08-04 |
+| [雨](https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [雨](https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1) | 4:27 | 2022-06-14 |  |
 | [雨のリグレット](https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c) | [Chikuzen sato](https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer) | [雨のリグレット](https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj) | 4:37 | 2022-09-13 |  |
 | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/album/4171BuBCD86VDuavepuczQ) | 5:02 | 2022-05-24 | 2022-07-20 |
 

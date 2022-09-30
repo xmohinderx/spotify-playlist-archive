@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Los Cafres",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Dread Mar I, Rusherking",
   "name": "Reggae en Espa\u00f1ol",
   "published_playlist_ids": [
     "1vSJyoseXwXuO64ij78YrM"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
     {
       "album": {
         "name": "A 80 Voy",
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
@@ -919,7 +941,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
@@ -1002,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Voy a Olvidarte",
+        "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175123,
+      "name": "C\u00f3mo Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
+    },
+    {
+      "album": {
         "name": "De Ma\u00f1ana (Con Fidel Nadal)",
         "url": "https://open.spotify.com/album/1zO380RGLa4ZEchlUoisjA"
       },
@@ -1039,6 +1079,28 @@
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "album": {
+        "name": "Desenvaina",
+        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182471,
+      "name": "Desenvaina",
+      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
     },
     {
       "album": {
@@ -1158,6 +1220,28 @@
     },
     {
       "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250243,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
+    },
+    {
+      "album": {
         "name": "Activistas",
         "url": "https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH"
       },
@@ -1213,6 +1297,28 @@
       "duration_ms": 208172,
       "name": "Enredo",
       "url": "https://open.spotify.com/track/4Kj95umHAARCK2IQBTXyip"
+    },
+    {
+      "album": {
+        "name": "Entre Sombras",
+        "url": "https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob"
+      },
+      "artists": [
+        {
+          "name": "Killah Man",
+          "url": "https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198434,
+      "name": "Entre Sombras",
+      "url": "https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY"
     },
     {
       "album": {
@@ -1434,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7"
+      },
+      "artists": [
+        {
+          "name": "Delasierra",
+          "url": "https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245932,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC"
+    },
+    {
+      "album": {
         "name": "Groove Me",
         "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
       },
@@ -1609,7 +1733,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 204322,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn"
@@ -1922,6 +2046,28 @@
     },
     {
       "album": {
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+      },
+      "artists": [
+        {
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "album": {
         "name": "Neigborhood Rules",
         "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
       },
@@ -1933,7 +2079,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 232342,
       "name": "Laba Laba Craven",
       "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
@@ -2270,6 +2416,28 @@
     },
     {
       "album": {
+        "name": "Me Gusta...",
+        "url": "https://open.spotify.com/album/0I5ar8VSs5Mek8ZaTfGCu7"
+      },
+      "artists": [
+        {
+          "name": "Little Pepe",
+          "url": "https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO"
+        },
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Me Gusta...",
+      "url": "https://open.spotify.com/track/4ACcY8UVzHfBLbSQUuSgXv"
+    },
+    {
+      "album": {
         "name": "Esfuerzo Universal",
         "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
       },
@@ -2354,6 +2522,28 @@
     },
     {
       "album": {
+        "name": "Cumbiana II",
+        "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233116,
+      "name": "Mi Guitarra Enamorada",
+      "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"
+    },
+    {
+      "album": {
         "name": "Fronteras",
         "url": "https://open.spotify.com/album/1QrRY5KwBMVGpxW3zak2zk"
       },
@@ -2405,7 +2595,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 243226,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg"
@@ -2445,7 +2635,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 199071,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK"
@@ -2550,6 +2740,28 @@
     },
     {
       "album": {
+        "name": "No me quieras mal (feat. Green Valley)",
+        "url": "https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246480,
+      "name": "No me quieras mal (feat. Green Valley)",
+      "url": "https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
       },
@@ -2561,10 +2773,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
+    },
+    {
+      "album": {
+        "name": "On the Good Road (En Vivo En Sala Siranush)",
+        "url": "https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228510,
+      "name": "On the Good Road - En Vivo En Sala Siranush",
+      "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
     },
     {
       "album": {
@@ -2653,6 +2883,28 @@
       "duration_ms": 249906,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi"
     },
     {
       "album": {
@@ -2765,7 +3017,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 259283,
       "name": "Quemando Tu Pecho",
       "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
@@ -2923,7 +3175,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
@@ -2945,7 +3197,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 150422,
       "name": "Ready",
       "url": "https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl"
@@ -3785,7 +4037,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 249986,
       "name": "Vocabulario B\u00e1sico",
       "url": "https://open.spotify.com/track/1oyneUr4WC3tgVrvA6lhMa"
@@ -3951,7 +4203,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 292453,
       "name": "Whatta Life",
       "url": "https://open.spotify.com/track/3zKsf9udDfKsu4bv7v8HaO"
@@ -4045,7 +4297,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 319933,
       "name": "\u00daltimos D\u00edas",
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"

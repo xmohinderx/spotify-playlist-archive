@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-454 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+455 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-06 |  |
-| [Driving Me Mad](https://open.spotify.com/track/41BJ66ENW3JY7kgstL0bA4) | [The Hotknives](https://open.spotify.com/artist/2uoezM6j8nCGupNI3zeMcb) | [Home](https://open.spotify.com/album/79n7x6CoNJxH0k9KypOCpA) | 2:27 | 2021-12-06 |  |
+| [Driving Me Mad](https://open.spotify.com/track/41BJ66ENW3JY7kgstL0bA4) | [The Hotknives](https://open.spotify.com/artist/2uoezM6j8nCGupNI3zeMcb) | [Home](https://open.spotify.com/album/79n7x6CoNJxH0k9KypOCpA) | 2:27 | 2021-12-06 | 2022-09-30 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 | 2021-12-06 |  |
 | [El Mión](https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc) | [Vantroi](https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn) | [Bajo Palabra](https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct) | 2:43 | 2021-12-06 |  |
@@ -447,6 +447,7 @@
 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 | 2021-12-06 |  |
 | [We Don't Know What Ska Is](https://open.spotify.com/track/7t8jTSvgSUoW0WxNGopuPG) | [Olegun Gobs](https://open.spotify.com/artist/1exn3VdbmeRkCLjydULpVN) | [We Don't Know What Ska Is](https://open.spotify.com/album/3GEEvSTwVdb2GzlUryukqR) | 3:38 | 2021-12-06 | 2022-07-13 |
 | [We're All Fruit Salad!](https://open.spotify.com/track/3n78qHQ2OVUU5ywVHJjysb) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 4:18 | 2022-04-19 | 2022-07-27 |
+| [With You](https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0) | [ScimmiaSka](https://open.spotify.com/artist/4KTPgixuIEKd0kvsAHRQFg) | [You Dance With Me](https://open.spotify.com/album/6zOFEgdYn5qdZ5f9WyRapu) | 3:36 | 2021-12-06 |  |
 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2021-12-06 |  |
 | [Wunderbar](https://open.spotify.com/track/11MSnseJcvyRWndXLuFNAo) | [Masons Arms](https://open.spotify.com/artist/5rvaBYMqM8mAzDyeI72A1x) | [Von vorn](https://open.spotify.com/album/0jZyQPcydy8m0wrUHTlyZt) | 3:15 | 2021-12-06 | 2022-07-27 |
 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 | 2021-12-06 |  |

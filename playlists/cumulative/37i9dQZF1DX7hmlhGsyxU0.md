@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-147 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+148 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 |  |
 | [Composite 03](https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU) | 3:43 | 2022-04-01 |  |
 | [Contreaux n 2](https://open.spotify.com/track/24gu9GaUkYQ4AzezRi0P7Q) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 4:22 | 2022-04-01 | 2022-06-25 |
+| [Cyllene](https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Cyllene](https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn) | 2:51 | 2022-09-02 |  |
 | [Dead Heart](https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 | 2022-04-01 | 2022-09-22 |
 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-20 |  |
 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 | 2022-04-01 | 2022-07-29 |
@@ -95,7 +96,7 @@
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-10 |  |
 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 | 2022-04-01 |  |
 | [No Letters Have Come](https://open.spotify.com/track/7E7w3cVm9t07hpCWWGzaTE) | [Arpad Balazs](https://open.spotify.com/artist/719l2CEZbDzxB5rhGbprrx), [Andras Farkas Jr\. Ensemble](https://open.spotify.com/artist/6keF6lcJL7o365xcNJftHn), [Andras Farkas](https://open.spotify.com/artist/3ayIkvtBR9osJfNXtUjdmR) | [Andras Farkas Jr\. Ensemble: Czardas! \- Best of Hungarian Gypsy Tunes](https://open.spotify.com/album/6PvRZPPYkLmXEbnYrTpoDb) | 3:18 | 2022-04-01 | 2022-07-18 |
-| [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 | 2022-04-01 |  |
+| [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 | 2022-04-01 | 2022-09-30 |
 | [Northern Moon](https://open.spotify.com/track/047dIL5wrApvaEO1RCiSwX) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Shadows And Horizons](https://open.spotify.com/album/64MnY6yTXNrsRv0raxa8Ao) | 2:09 | 2022-04-01 |  |
 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 | 2022-04-01 | 2022-09-15 |
 | [Oak Returns](https://open.spotify.com/track/4NICjgGXc9Gujpv2FfeosZ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 2:17 | 2022-04-01 | 2022-04-21 |

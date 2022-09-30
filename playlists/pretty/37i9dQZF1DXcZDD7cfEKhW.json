@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo",
-  "num_followers": 3327712,
+  "num_followers": 3327917,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjEwMiwwMDAwMDAwMDI2NWM0NWFhYTcxNWRiZjYyNGFiYmI4OTNkZWExZGRh",
+  "snapshot_id": "MTY2MzkwNjEwMiwwMDAwMDAwMDg3YWY4NzJmYjExMjQ5ZGI4NzBkMjE0Y2I5NTcxMzk3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:08:22",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 146000,
       "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
+        "name": "Cool Girl (Nora En Pure Remix)",
+        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Cool Girl - Nora En Pure Remix",
+      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
         "name": "I Got A Feeling (James Hype Remix)",
         "url": "https://open.spotify.com/album/7uegIm3LnOTWk7QGgs9qiC"
       },
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Cool Girl (Nora En Pure Remix)",
-        "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Cool Girl - Nora En Pure Remix",
-      "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "So Good (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
       },
@@ -1371,26 +1371,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Hot In It (Riton Remix)",
-        "url": "https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO"
+        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
+        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Hot In It - Riton Remix",
-      "url": "https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM"
+      "duration_ms": 176000,
+      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
+      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1419,26 +1419,50 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
-        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
+        "name": "Hot In It (Riton Remix)",
+        "url": "https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
-      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+      "duration_ms": 167889,
+      "name": "Hot In It - Riton Remix",
+      "url": "https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Drop A Bomb (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
+      },
+      "artists": [
+        {
+          "name": "Riotron",
+          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Drop A Bomb - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1483,26 +1507,26 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Drop A Bomb (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
+        "name": "Freaky Deaky (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
       },
       "artists": [
         {
-          "name": "Riotron",
-          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
           "name": "R3HAB",
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Drop A Bomb - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
+      "duration_ms": 140059,
+      "name": "Freaky Deaky - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1527,30 +1551,6 @@
       "duration_ms": 158400,
       "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
       "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
-        "name": "Freaky Deaky (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 140059,
-      "name": "Freaky Deaky - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Easy Lover (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/7Hi2jinZs7a7dWwoBK2LES"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 251581,
-      "name": "Easy Lover - Four Tet Remix",
-      "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Words (Remixes)",
         "url": "https://open.spotify.com/album/2P1cnpTNW5TAqpMeVySx4T"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 175571,
       "name": "Words (feat. Zara Larsson) [Chapter & Verse Remix]",
       "url": "https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Easy Lover (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/7Hi2jinZs7a7dWwoBK2LES"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 251581,
+      "name": "Easy Lover - Four Tet Remix",
+      "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Clarity (Chris Malinchak Mix)",
-        "url": "https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        },
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 230395,
-      "name": "Clarity - Chris Malinchak Mix",
-      "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Don\u2019t Wake Me Up (Sevenn Remix)",
         "url": "https://open.spotify.com/album/4CI8CduQt7feuYZeSyTuZi"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 218209,
       "name": "On My Way (Marry Me) - TELYKast Remix",
       "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "Clarity (Chris Malinchak Mix)",
+        "url": "https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 230395,
+      "name": "Clarity - Chris Malinchak Mix",
+      "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "I Still Believe (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "I Still Believe - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN"
-    },
-    {
-      "added_at": "2022-09-23 04:08:22",
-      "album": {
         "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
         "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+    },
+    {
+      "added_at": "2022-09-23 04:08:22",
+      "album": {
+        "name": "I Still Believe (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "I Still Believe - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN"
     },
     {
       "added_at": "2022-09-23 04:08:22",
@@ -2219,26 +2219,22 @@
     {
       "added_at": "2022-09-23 04:08:22",
       "album": {
-        "name": "Memory Remixes",
-        "url": "https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK"
+        "name": "Close To You (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/1ytknwYOG3GS6yMmauLhrj"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         },
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Feather",
-          "url": "https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
         }
       ],
-      "duration_ms": 186067,
-      "name": "Memory - Feather Remix",
-      "url": "https://open.spotify.com/track/1Wpe3EXorasdlnzUOX472Z"
+      "duration_ms": 202381,
+      "name": "Close To You - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/1YOF2DRwmMpXoEq6ikjwCc"
     }
   ],
   "unique_name": "Pop Remix",

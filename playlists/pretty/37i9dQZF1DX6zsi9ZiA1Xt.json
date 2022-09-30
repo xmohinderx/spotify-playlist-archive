@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 19779,
+  "num_followers": 19795,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDliYmM5Y2E0NzM2MTEzYjNmZDUyZTNiZmU5YjYzMjg1",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMGNlMGE5ZDBmNjg3MGM3NzI5MjgzYzIxNDgzZTMxYjU3",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 409080,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -899,18 +899,18 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/4XPP8oI0Vb2Lm86YUyosog"
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
       },
       "artists": [
         {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Amigo De Qu\u00e9",
-      "url": "https://open.spotify.com/track/6xlMy3tJb0DWQrnO8qFHzO"
+      "duration_ms": 170266,
+      "name": "Canela Pura",
+      "url": "https://open.spotify.com/track/4jHw06ZYNzwbwybNGo3QKU"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Salsa!",

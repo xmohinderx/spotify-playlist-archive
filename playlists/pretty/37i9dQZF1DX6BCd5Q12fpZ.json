@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 58787,
+  "num_followers": 58794,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDdjYzM1MzliODFhYzRhN2E4ZWNhOTQ4MmI3MjdhNzgy",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDNmMGExNDhjODdkMmUxYmRlOGJkY2UzZDkzZjI1MTE2",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Hold Me Closer (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Hold Me Closer - Eurovision Version",
+      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Hold Me Closer (Eurovision Version)",
-        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Hold Me Closer - Eurovision Version",
-      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Rhythm Inside",
         "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
       "artists": [
         {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -479,6 +463,22 @@
       "duration_ms": 182333,
       "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
       "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "La La Love",
-        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "La La Love",
-      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "La La Love",
+        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "La La Love",
+      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
-        "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
-      },
-      "artists": [
-        {
-          "name": "Ani Lorak",
-          "url": "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Shady Lady",
-      "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Menq Enq Mer Sarere",
         "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 181973,
       "name": "Jan-Jan",
       "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
+        "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
+      },
+      "artists": [
+        {
+          "name": "Ani Lorak",
+          "url": "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Shady Lady",
+      "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
     },
     {
       "added_at": "2022-05-16 13:21:08",

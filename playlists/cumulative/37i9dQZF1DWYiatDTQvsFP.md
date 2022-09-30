@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈ cover: Bryson Tiller
+> it's scary hours...⛈ cover: Bryson Tiller \- celebrating 7 years of T R A P S O U L!
 
 182 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 

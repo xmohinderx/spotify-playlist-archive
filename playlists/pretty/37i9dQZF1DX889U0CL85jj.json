@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2363992,
+  "num_followers": 2364230,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI5MDk0MiwwMDAwMDAwMGQzMDg0ZDVkNDA3ODZlMjA2YWViOGQ0ZTlkN2Y1YzMz",
+  "snapshot_id": "MTY2NDQ4NTE1NiwwMDAwMDAwMGZkM2Q3ZTIyODRiN2M5MzhlNzVkZmI4ZDBhZTVmZTNj",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "waves",
         "url": "https://open.spotify.com/album/3JXSGI5O9Li35NYBMfgeJm"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 183579,
       "name": "waves",
       "url": "https://open.spotify.com/track/05ohEiCZLo3IFITyHJ2liE"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-09-02 18:35:19",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0"
       },
@@ -227,26 +243,6 @@
       "duration_ms": 185816,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/43PsEYuMZRBFFA0udH9Y3K"
-    },
-    {
-      "added_at": "2022-09-27 15:02:22",
-      "album": {
-        "name": "Yellow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        },
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        }
-      ],
-      "duration_ms": 243334,
-      "name": "Golden Green feat Wiki",
-      "url": "https://open.spotify.com/track/1KXNAw3Jp8JWP6UGX0PITw"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -297,6 +293,42 @@
       "url": "https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH"
     },
     {
+      "added_at": "2022-09-27 15:02:22",
+      "album": {
+        "name": "Yellow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        }
+      ],
+      "duration_ms": 243334,
+      "name": "Golden Green feat Wiki",
+      "url": "https://open.spotify.com/track/1KXNAw3Jp8JWP6UGX0PITw"
+    },
+    {
+      "added_at": "2022-09-29 20:59:16",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Dad's Old Tapes",
@@ -311,6 +343,22 @@
       "duration_ms": 231066,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA"
+    },
+    {
+      "added_at": "2022-09-29 08:41:00",
+      "album": {
+        "name": "Self-Contained",
+        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
+      },
+      "artists": [
+        {
+          "name": "DWY",
+          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
+        }
+      ],
+      "duration_ms": 181166,
+      "name": "Self-Contained",
+      "url": "https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -331,6 +379,42 @@
       "duration_ms": 162222,
       "name": "Cabriolet",
       "url": "https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
+    },
+    {
+      "added_at": "2022-09-29 20:59:16",
+      "album": {
+        "name": "Sahar",
+        "url": "https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
     },
     {
       "added_at": "2022-09-16 19:46:15",
@@ -393,6 +477,22 @@
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
     },
     {
+      "added_at": "2022-09-29 20:59:16",
+      "album": {
+        "name": "In Arms",
+        "url": "https://open.spotify.com/album/048TCEC1wmw4TUHsJNEZtl"
+      },
+      "artists": [
+        {
+          "name": "Friend of a Friend",
+          "url": "https://open.spotify.com/artist/42umgGQd1MziaOHQfGOmaP"
+        }
+      ],
+      "duration_ms": 228727,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2zGIkOiBbu2CiRYA4TIx7D"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Tres Hermanos",
@@ -427,6 +527,22 @@
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "added_at": "2022-09-29 20:59:16",
+      "album": {
+        "name": "Love On The Run",
+        "url": "https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -555,22 +671,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "You Never Loved",
         "url": "https://open.spotify.com/album/6RPe8BJlSPpw7bPGzbyKfp"
       },
@@ -603,6 +703,26 @@
       "duration_ms": 269875,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/6lzaSbHNtNNO7J9yOdYa9E"
+    },
+    {
+      "added_at": "2022-09-29 20:59:16",
+      "album": {
+        "name": "\u611b\u662f\u6211\u5011\u5fc5\u7d93\u7684\u8f9b\u82e6",
+        "url": "https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav"
+      },
+      "artists": [
+        {
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
+        },
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        }
+      ],
+      "duration_ms": 324500,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/6ZRdwFsEw5crjTzHo6Idxh"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -679,22 +799,6 @@
       "duration_ms": 326054,
       "name": "DREAD/TKOE - ALASKALASKA Remix",
       "url": "https://open.spotify.com/track/757G9ylgcnkdYfZphNXqZo"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1159,26 +1263,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/5WXHkvPDK5F7MRd8ia0DOo"
-      },
-      "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        },
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 121250,
-      "name": "I Can't Help",
-      "url": "https://open.spotify.com/track/1sjXaEmqj5cRMns8rWYnKe"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Absence of You",
         "url": "https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv"
       },
@@ -1383,22 +1467,6 @@
       "duration_ms": 226657,
       "name": "4:38am (feat. Barrie)",
       "url": "https://open.spotify.com/track/778rI4lJeJKKy34mAeq4KA"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/38HbJPmQs9Hby1736L1GYZ"
-      },
-      "artists": [
-        {
-          "name": "Kevitch",
-          "url": "https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/504BrFbtkCK5GG8U0wb2qb"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1923,26 +1991,6 @@
       "duration_ms": 132915,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Get You The Moon (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Get You The Moon (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2507,38 +2555,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 131271,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Hell of a Ride",
-        "url": "https://open.spotify.com/album/0VMdF4cntbcWah66Fb7oqJ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Louis",
-          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
-        }
-      ],
-      "duration_ms": 243900,
-      "name": "Hell of a Ride",
-      "url": "https://open.spotify.com/track/0enjWdCHaqJqO3aEPxhR0G"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Singles 2020 - 2021",
         "url": "https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx"
       },
@@ -2551,26 +2567,6 @@
       "duration_ms": 212105,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Something About You (with Rudimental) [Alternate Versions]",
-        "url": "https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Something About You (with Rudimental) - Chill Mix",
-      "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
     },
     {
       "added_at": "2022-08-19 04:00:00",

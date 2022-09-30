@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,931 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,937 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 18 | [Say My Name \- Maya Jane Coles Remix](https://open.spotify.com/track/4FvP0H6Gzk06u3Gek2YiA0) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say My Name \(Maya Jane Coles Remix\)](https://open.spotify.com/album/12XleozGaOtKw577oHMjtb) | 5:22 |
 | 19 | [Yes Bb](https://open.spotify.com/track/5Qb0RGWLWAQ5Qc2JyNkbc0) | [Spencer Parker](https://open.spotify.com/artist/66D44BTpZF7SqnEOJuJLVo) | [Yes Bb](https://open.spotify.com/album/1XrB735ZwyHGWFlUzXlw4b) | 6:07 |
 | 20 | [NY To Rome](https://open.spotify.com/track/3g9hlwapLW4DQ7ofi4M1Ie) | [Lazy Ants](https://open.spotify.com/artist/2cE90Hs8eh86flCKSkjMec), [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Lazy Ants x Friends](https://open.spotify.com/album/0gNWBTkVFdGqOd0FzHy1bF) | 4:19 |
-| 21 | [push u away](https://open.spotify.com/track/1O55tsMSuIl72c0GZwlKTx) | [Tom Place](https://open.spotify.com/artist/3n01e8oi2k5JWOWUbSgc3w) | [IN2ME](https://open.spotify.com/album/17nuj5sOAHbXNdlEuOYPyj) | 5:40 |
+| 21 | [push u away](https://open.spotify.com/track/7LkJU7d39QFeCxmF4Efg4Y) | [Tom Place](https://open.spotify.com/artist/3n01e8oi2k5JWOWUbSgc3w) | [push u away](https://open.spotify.com/album/29l91KjPwv8wMTQDj2mfAg) | 5:40 |
 | 22 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 |
 | 23 | [Don’t Hide \- Calibre Remix](https://open.spotify.com/track/3Irlpo7wQwGFcKEDs6wQGe) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Listen & Nisida \(Remixed\) Vol\. 3](https://open.spotify.com/album/4vCcRntNgi0WxcAcj4syYM) | 5:43 |
 | 24 | [The Middle \- 1\-800 Girls Remix](https://open.spotify.com/track/4PMyz3dQMQlTSFhVPhmVma) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [The Middle \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/4B988U6Qmn45zb3YsUKoy2) | 6:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMGUwMTc1ZTJiZjFjNDFiMmM1NmU4OTU1ZjVmZjYxOGMw`
+Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMDM5ZjhjN2QwZDhjN2UxMTQ5NGIzNmRlMDdmN2FlNzBk`

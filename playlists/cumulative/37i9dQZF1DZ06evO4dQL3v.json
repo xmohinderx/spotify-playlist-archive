@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 196653,
       "name": "Ahora Puedo Mirar Claro",
       "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146786,
+      "name": "Los Laureles - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6ejHJrYMTWjCg9AdZ2yNLZ"
+    },
+    {
+      "album": {
         "name": "Nuestra Historia, Vol. 1",
         "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 166000,
       "name": "Mi Amiga Mi Esposa y Mi Amante",
       "url": "https://open.spotify.com/track/1D72stKLFdW30djzszFRgc"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "Ritmo Sabroson",
       "url": "https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb"

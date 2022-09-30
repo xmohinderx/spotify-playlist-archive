@@ -1,12 +1,12 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Nusrat Fateh Ali Khan",
-  "num_followers": 27695,
+  "num_followers": 27747,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNTY5NiwwMDAwMDAwMDM0NGE0ZmI5ZTBkOTE0NDkwYzlhMjg1NjcwY2NjNTM1",
+  "snapshot_id": "MTY2MzkxNTY5NiwwMDAwMDAwMGU3YjUzMjQ1NmY3MjgzNjMyYjJhOTJlOThmZTAxODYy",
   "tracks": [
     {
       "added_at": "2022-09-23 06:48:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-23 06:48:16",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 287333,
-      "name": "Dil Haray Pukaray",
-      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
-    },
-    {
-      "added_at": "2022-09-23 06:48:16",
-      "album": {
         "name": "Parastish",
         "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 270226,
       "name": "Kaho Ek Din",
       "url": "https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF"
+    },
+    {
+      "added_at": "2022-09-23 06:48:16",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "Dil Haray Pukaray",
+      "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
     },
     {
       "added_at": "2022-09-23 06:48:16",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-09-23 06:48:16",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+        "name": "Gunkali (Original Score)",
+        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
       },
       "artists": [
         {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
         }
       ],
-      "duration_ms": 324773,
-      "name": "Lamhay",
-      "url": "https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs"
+      "duration_ms": 245603,
+      "name": "Moray Saiyaan",
+      "url": "https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs"
     },
     {
       "added_at": "2022-09-23 06:48:16",
@@ -735,22 +735,6 @@
       "duration_ms": 343480,
       "name": "Sar Kiye Yeh Pahar",
       "url": "https://open.spotify.com/track/56TNm1b4adFgXLQrfSWv0L"
-    },
-    {
-      "added_at": "2022-09-23 06:48:16",
-      "album": {
-        "name": "Gunkali (Original Score)",
-        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
-      },
-      "artists": [
-        {
-          "name": "Kaavish",
-          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
-        }
-      ],
-      "duration_ms": 245603,
-      "name": "Moray Saiyaan",
-      "url": "https://open.spotify.com/track/3yGDIR4j6XejzxUoU8MXxs"
     },
     {
       "added_at": "2022-09-23 06:48:16",
@@ -775,22 +759,6 @@
     {
       "added_at": "2022-09-23 06:48:16",
       "album": {
-        "name": "Nachaan Mein Oday Nall",
-        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
-      },
-      "artists": [
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        }
-      ],
-      "duration_ms": 274786,
-      "name": "Pardesy",
-      "url": "https://open.spotify.com/track/1rKrd75GAyX7RpnCTgfTIp"
-    },
-    {
-      "added_at": "2022-09-23 06:48:16",
-      "album": {
         "name": "Fuzon",
         "url": "https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 343146,
       "name": "Ankhon Ke Saagar",
       "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
+    },
+    {
+      "added_at": "2022-09-23 06:48:16",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Lamhay",
+      "url": "https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs"
+    },
+    {
+      "added_at": "2022-09-23 06:48:16",
+      "album": {
+        "name": "Nachaan Mein Oday Nall",
+        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 274786,
+      "name": "Pardesy",
+      "url": "https://open.spotify.com/track/1rKrd75GAyX7RpnCTgfTIp"
     },
     {
       "added_at": "2022-09-23 06:48:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-23 06:48:16",
       "album": {
-        "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
-        "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
-      },
-      "artists": [
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "Meray Log",
-      "url": "https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn"
-    },
-    {
-      "added_at": "2022-09-23 06:48:16",
-      "album": {
         "name": "Menu Tere Naal",
         "url": "https://open.spotify.com/album/0OGbQTatg4K6ku9uIfiv7A"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 345213,
       "name": "Menu Tere Naal",
       "url": "https://open.spotify.com/track/7yafPTMrC1Cev2zGJ2NWNk"
+    },
+    {
+      "added_at": "2022-09-23 06:48:16",
+      "album": {
+        "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
+        "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 271699,
+      "name": "Meray Log",
+      "url": "https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn"
     },
     {
       "added_at": "2022-09-23 06:48:16",

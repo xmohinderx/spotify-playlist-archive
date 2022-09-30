@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: The Brothers Comatose
 
-201 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+202 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Sing Along \- Demo](https://open.spotify.com/track/2KfEwhZO0XH8hpRq0qeGGt) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/1rvogFExMDIwuKKmUBru0A) | 4:03 | 2021-10-01 | 2022-07-29 |
 | [Soft and Blue](https://open.spotify.com/track/02rIWOS91DwIFvJQJieOFZ) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 3:37 | 2022-08-11 |  |
 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 | 2021-10-01 | 2022-07-29 |
-| [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2022-07-22 |  |
+| [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 | 2022-08-26 |  |
+| [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2022-07-22 | 2022-09-30 |
 | [Sometimes it Does](https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 1:59 | 2022-07-22 |  |
 | [Sometimes it Does](https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N) | 1:59 | 2021-10-01 | 2022-07-29 |
 | [Stay a While](https://open.spotify.com/track/6Sp7ioZJNeGQQYsEHUjpS6) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Stay a While](https://open.spotify.com/album/4Uyqd3HBi5Hh0MQO8cMnO0) | 2:33 | 2022-04-22 |  |

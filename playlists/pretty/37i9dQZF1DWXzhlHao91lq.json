@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 62544,
+  "num_followers": 62557,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3NTQ5NCwwMDAwMDAwMDRhMDgzZGNhNDRmNWMxOTMxMDRkYmJkNDAzZGIwMzc5",
+  "snapshot_id": "MTY2NDE3NTQ5NCwwMDAwMDAwMGVlNWEzN2IzZmZlZjEyMzQ4ZDU2ODExNzA3ODhhMDE0",
   "tracks": [
     {
       "added_at": "2022-09-26 06:58:14",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Mariposa (Acoustic)",
-        "url": "https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Mariposa - Acoustic",
-      "url": "https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "Mariposa (Acoustic)",
+        "url": "https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Mariposa - Acoustic",
+      "url": "https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "rainbow",
         "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 184694,
       "name": "the broken hearts club",
       "url": "https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 142659,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Better with You (Acoustic)",
         "url": "https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
+      "duration_ms": 144830,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
       },
       "artists": [
         {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+      "duration_ms": 201440,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1127,6 +1111,22 @@
       "duration_ms": 240426,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Fingertips",
-        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Settle",
-      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Tell Her You Love Her (feat. Mat Kearney)",
         "url": "https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Settle",
+      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

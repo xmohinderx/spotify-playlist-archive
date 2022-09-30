@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Billen Ted & Kah\-Lo
 
-331 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+332 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Don't Stop Movin'](https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E) | [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Don’t Stop Movin’](https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0) | 2:38 | 2022-04-08 | 2022-06-10 |
 | [Down \(feat\. Akua\)](https://open.spotify.com/track/7G1l8cG18odMvuDFczh1WH) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Down \(feat\. Akua\)](https://open.spotify.com/album/1c14Z3NLNcsPmU8P5xg4OO) | 2:38 | 2021-12-17 | 2022-01-07 |
 | [DRMR](https://open.spotify.com/track/4UgVrmgkzGFf6eQQEfUd1r) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [DRMR](https://open.spotify.com/album/3m0QwDurxW1DYa0Vb0LWN3) | 5:00 | 2022-06-16 | 2022-07-22 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-25 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-22 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-25 | 2022-09-30 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-07-06 | 2022-09-23 |
 | [El Bombo](https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [El Bombo](https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm) | 4:00 | 2022-04-01 | 2022-07-07 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-25 |  |

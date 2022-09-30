@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-114 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+115 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [BRAVE THE OCEAN](https://open.spotify.com/track/0hmk2Wp5zmsH4tRpgGG61b) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:24 | 2022-06-07 |  |
 | [BRE@TH//LESS](https://open.spotify.com/track/5OC6Gv6qYt2s59IwiJZhu7) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [アルドノア・ゼロ オリジナル・サウンドトラック](https://open.spotify.com/album/0S7j5fH2fipQ9i9MXwCYqi) | 4:01 | 2022-06-07 |  |
 | [Break Free](https://open.spotify.com/track/6YoDbIGSUKhhk7t63zXJkM) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Break Free](https://open.spotify.com/album/2D7WcHj7mz8BtzrOkBUDVM) | 3:06 | 2022-09-15 |  |
+| [Break Free \- English Ver.](https://open.spotify.com/track/7JBVP5uK17ykhXiONpsI13) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Break Free \(English Ver.\)](https://open.spotify.com/album/3nQB9S1PjNqMO1zdgdiQca) | 3:06 | 2022-09-29 |  |
 | [BUBBLE](https://open.spotify.com/track/4Mvnk4EELuPLi7nuGyC4XB) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「バブル」オリジナル・サウンドトラック \(Extra Track ver.\)](https://open.spotify.com/album/3lJzrLnPz32TybtaoknkoF) | 1:58 | 2022-06-07 |  |
 | [Cage <NTv>](https://open.spotify.com/track/2RnHcbIhWU0wEfU8xcL9Lo) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [narrative / NOISEofRAIN](https://open.spotify.com/album/05HlCEwQ6p8Z5NU0jM6ssq) | 4:39 | 2022-06-21 |  |
 | [Cage <NTv>](https://open.spotify.com/track/4aHRYUcSDr58mGep14Y6MI) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:39 | 2022-06-07 | 2022-07-29 |

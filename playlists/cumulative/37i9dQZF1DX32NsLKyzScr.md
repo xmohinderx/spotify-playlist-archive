@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-870 songs - 1 day 23 hr 42 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
+871 songs - 1 day 23 hr 46 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 Day 2 Nights](https://open.spotify.com/track/7bRu6qrKsJlwbxf04aZiTT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K) | 2:18 | 2021-06-26 | 2021-09-18 |
 | [12 DAYS LEFT \- Hell Driver Remix](https://open.spotify.com/track/1RHvXmmlPxZDa6JX6USUbR) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS), [Hell Driver](https://open.spotify.com/artist/4ODfmNqfSwEUjZvC2UCm7e) | [12 DAYS LEFT](https://open.spotify.com/album/1HRsCvxDlCVKsPzYYKqRhZ) | 6:38 | 2020-09-21\* | 2021-01-23 |
 | [1348](https://open.spotify.com/track/037mBLViT1JsW9xq7FX1Hd) | [Bentley Dean](https://open.spotify.com/artist/2yazcd9mOGErgHm7VaBaNT) | [We Are Friends, Vol\. 9](https://open.spotify.com/album/4bqlqWxtEGHnwyqvQJS6YT) | 4:14 | 2020-09-21\* | 2021-02-20 |
+| [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 | 2022-09-23 |  |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-06 |  |
 | [2AM](https://open.spotify.com/track/074x9OaRq8m4Kn3J3Qgavf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM](https://open.spotify.com/album/1y13T3X8wjnVPYKMltcpzz) | 3:02 | 2020-11-03 | 2021-05-25 |
 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 | 2020-10-10 | 2020-11-03 |
@@ -487,7 +488,7 @@
 | [Nitro](https://open.spotify.com/track/05xlFyESvlFXc07seiAZRq) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Ultraviolet 2.0](https://open.spotify.com/album/1FG4OXAH0WdMZA7SUAO6pW) | 4:20 | 2020-09-21\* | 2020-10-10 |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-21 | 2022-05-21 |
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-04 | 2022-05-07 |
-| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 |  |
+| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 | 2022-09-30 |
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-07-26 |
 | [No Regrets \- Stadiumx Remix](https://open.spotify.com/track/66WBGs8bPw8q93EG4h1s4p) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [No Regrets \(Stadiumx Remix\)](https://open.spotify.com/album/05lostOSOgm4r0Es9PMIS0) | 3:09 | 2021-03-11 | 2021-07-24 |
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2022-05-06 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-159 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
+160 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [乌鸦](https://open.spotify.com/track/6b8uuOryGyZt9K3ELL3TjB) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 5:02 | 2022-05-27 |  |
 | [寂寞号登机口](https://open.spotify.com/track/0fSuP4hMUK1CqDAYV62BHF) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 3:58 | 2022-05-27 |  |
 | [舞い落ちる花びら\(Fallin' Flower\)](https://open.spotify.com/track/6MC0anRfGPzSWrvybgsY7O) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [舞い落ちる花びら \(Fallin' Flower\)](https://open.spotify.com/album/3LhruYOSl2NPClKMGRpA2W) | 3:32 | 2022-05-27 |  |
-| [逆燃 Warrior \(JOSHUA, 文俊辉, 徐明浩, MINGYU, VERNON from SEVENTEEN\)](https://open.spotify.com/track/5MpzmNg7Qbkn1dFtmAz8Vr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:00 | 2022-05-27 |  |
+| [逆燃 Warrior \(JOSHUA, 文俊辉, 徐明浩, MINGYU, VERNON from SEVENTEEN\)](https://open.spotify.com/track/5MpzmNg7Qbkn1dFtmAz8Vr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:00 | 2022-05-27 | 2022-09-30 |
+| [逆燃 Warrior \(JOSHUA, 文俊辉, 徐明浩, MINGYU, VERNON from SEVENTEEN\)](https://open.spotify.com/track/5aypcJTIDUwyddBElM1yxc) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [逆燃 Warrior \(JOSHUA, 文俊辉, 徐明浩, MINGYU, VERNON from SEVENTEEN\)](https://open.spotify.com/album/7MTpKyUYyNH7yiOYCZU5Op) | 3:00 | 2022-07-21 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

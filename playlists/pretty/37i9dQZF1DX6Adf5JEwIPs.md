@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Virlan Garcia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,338 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,391 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 46 | [Ya No](https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ya No](https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD) | 3:19 |
 | 47 | [No Te Enamores](https://open.spotify.com/track/4fPd0qmWinT1zQFvoxpJxG) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [No Te Enamores](https://open.spotify.com/album/5SrlhqdVKtNNJ5rU3dDzxp) | 2:50 |
 | 48 | [Tú Me Amas a Mí](https://open.spotify.com/track/6fSI5pMNwH84VcJ77DeFs9) | [Los Reyes Del Camino](https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3) | [Terciopelo](https://open.spotify.com/album/1mIgIcpeJbArheEDPnuK6Z) | 3:15 |
-| 49 | [Vamos Hablar De Don Mayo](https://open.spotify.com/track/4P9wUgXpamzFhNcZOQc8ys) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Chuy López](https://open.spotify.com/artist/3hvem2yn6f0zjW25lNrCy4) | [Vamos Hablar De Don Mayo](https://open.spotify.com/album/7l19iPFsIUU04Z0PyXIpeS) | 4:50 |
+| 49 | [Vamos Hablar De Don Mayo](https://open.spotify.com/track/4P9wUgXpamzFhNcZOQc8ys) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Chuy Lopez](https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM) | [Vamos Hablar De Don Mayo](https://open.spotify.com/album/7l19iPFsIUU04Z0PyXIpeS) | 4:50 |
 | 50 | [Dirás \- En Vivo](https://open.spotify.com/track/2iUoa6UdLjQchpQ7i0T52K) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Acústico \(En Vivo\)](https://open.spotify.com/album/6WUpNiUjTmaGWZNLIIesV0) | 3:12 |
 | 51 | [A Puro Dolor](https://open.spotify.com/track/3ECAmHIIzezCppLjPYzU1R) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [A Puro Dolor](https://open.spotify.com/album/64XhhZoDZOUmCpLahCEXYZ) | 3:04 |
 | 52 | [El Tito EN VIVO](https://open.spotify.com/track/7qidcMIxOtPJI0wIsfQRcN) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [El Tito EN VIVO](https://open.spotify.com/album/1W6c0wPfMXHpxfqhNuLD3f) | 3:09 |

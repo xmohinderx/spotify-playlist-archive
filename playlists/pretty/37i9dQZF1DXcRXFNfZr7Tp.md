@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Lewis capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,549,805 likes - 87 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,550,321 likes - 87 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

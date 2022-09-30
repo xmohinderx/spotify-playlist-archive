@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla\n",
-  "num_followers": 407414,
+  "num_followers": 407506,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MTY1MywwMDAwMDAwMDA0NTE3ZmU3MzI3NWIwNDIxNWQ3ZTlmNmYwNjliYzFm",
+  "snapshot_id": "MTY2Mzk0MTY1MywwMDAwMDAwMGNmMWQ2ZmNjZGQxZTBkNTRhZDQ3ODlhNzlkYWE0YThi",
   "tracks": [
     {
       "added_at": "2022-09-23 14:00:53",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
+    },
+    {
+      "added_at": "2022-09-23 14:00:53",
+      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2022-09-23 14:00:53",
-      "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 190937,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -687,6 +687,26 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
+        "name": "Somos Instantes",
+        "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 225877,
+      "name": "Somos Instantes",
+      "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
+    },
+    {
+      "added_at": "2022-09-23 14:00:53",
+      "album": {
         "name": "Cabelo Bagun\u00e7ado",
         "url": "https://open.spotify.com/album/6MCVay89JujxBCqEBy2vn0"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 174267,
       "name": "Teu C\u00e9u",
       "url": "https://open.spotify.com/track/5WexHsvZI4jPk1cyLtjWVr"
-    },
-    {
-      "added_at": "2022-09-23 14:00:53",
-      "album": {
-        "name": "Somos Instantes",
-        "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "Somos Instantes",
-      "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
-    },
-    {
-      "added_at": "2022-09-23 14:00:53",
-      "album": {
         "name": "Coisa Luz",
         "url": "https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 172578,
       "name": "Coisa Luz",
       "url": "https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj"
+    },
+    {
+      "added_at": "2022-09-23 14:00:53",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
-        "name": "Ai Beb\u00ea",
-        "url": "https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        },
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Ai Beb\u00ea",
-      "url": "https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF"
-    },
-    {
-      "added_at": "2022-09-23 14:00:53",
-      "album": {
         "name": "Adoro Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 273285,
       "name": "Adoro Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ"
+    },
+    {
+      "added_at": "2022-09-23 14:00:53",
+      "album": {
+        "name": "Ai Beb\u00ea",
+        "url": "https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Ai Beb\u00ea",
+      "url": "https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
-        "name": "Amor de Liquidificador",
-        "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
       "artists": [
         {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
         }
       ],
-      "duration_ms": 170373,
-      "name": "Amor de Liquidificador",
-      "url": "https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte"
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+        "name": "Amor de Liquidificador",
+        "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
         }
       ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
+      "duration_ms": 170373,
+      "name": "Amor de Liquidificador",
+      "url": "https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte"
     },
     {
       "added_at": "2022-09-23 14:00:53",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-23 14:00:53",
       "album": {
-        "name": "Jo\u00e3o Napoli - EP",
-        "url": "https://open.spotify.com/album/0ujRJb25gsj69J6nNC2gdk"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "Tr\u00eas Desejos",
-      "url": "https://open.spotify.com/track/4tWK98H5J7oXD6sjfd7YrW"
-    },
-    {
-      "added_at": "2022-09-23 14:00:53",
-      "album": {
         "name": "DSLA (Desperte Seu Lado Animal)",
         "url": "https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 134750,
       "name": "Esteja L\u00e1",
       "url": "https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ"
+    },
+    {
+      "added_at": "2022-09-23 14:00:53",
+      "album": {
+        "name": "Jo\u00e3o Napoli - EP",
+        "url": "https://open.spotify.com/album/0ujRJb25gsj69J6nNC2gdk"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "Tr\u00eas Desejos",
+      "url": "https://open.spotify.com/track/4tWK98H5J7oXD6sjfd7YrW"
     },
     {
       "added_at": "2022-09-23 14:00:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,789 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,153 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 6 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 7 | [Wasted \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 4:18 |
 | 8 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 9 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
-| 10 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 9 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 10 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
 | 11 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 12 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
 | 13 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 36 | [Against All Odds](https://open.spotify.com/track/29YwR5PSDnjzBU9mkmlZag) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 4:37 |
 | 37 | [BM J.R.](https://open.spotify.com/track/3AmVUYa0BTGd1AhrWWj4Gz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:58 |
 | 38 | [I Know](https://open.spotify.com/track/3fNH4etsltJRU7NsgU9RVe) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mitch](https://open.spotify.com/artist/3xS4uqr3q6umIa74qTP62H) | [Red Friday](https://open.spotify.com/album/4VqdntbxmB7r1At6sPKRnb) | 3:42 |
-| 39 | [CARTIER](https://open.spotify.com/track/3rdW76UosDry44w26pZlbo) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [SORRY 4 THA WAIT II](https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj) | 3:17 |
-| 40 | [The Same](https://open.spotify.com/track/2mORPMJlzbNPrsKtV62Bns) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [The Same](https://open.spotify.com/album/5EJh4GdBugtYhua1iYs6bM) | 3:34 |
+| 39 | [The Same](https://open.spotify.com/track/2mORPMJlzbNPrsKtV62Bns) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [The Same](https://open.spotify.com/album/5EJh4GdBugtYhua1iYs6bM) | 3:34 |
+| 40 | [CARTIER](https://open.spotify.com/track/3rdW76UosDry44w26pZlbo) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [SORRY 4 THA WAIT II](https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj) | 3:17 |
 | 41 | [30 Something](https://open.spotify.com/track/1pahWZoPgPOK5yVfmCFxcF) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Kingdom Come](https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY) | 4:13 |
-| 42 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 |
+| 42 | [Oowee](https://open.spotify.com/track/0mN7bQaPh3xjcuqElzd1oD) | [Blaq Tuxedo](https://open.spotify.com/artist/1KmFm3UgUbNBOuw0yLDN2p) | [Oowee](https://open.spotify.com/album/0Woy3KS2tC9r3bStHcpxjW) | 2:29 |
 | 43 | [EAST POINT PRAYER](https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:37 |
 | 44 | [Im 4rm Bompton](https://open.spotify.com/track/5Zmd9SxFlYLNkvegm4WkJn) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Just Re'd up 2](https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti) | 2:54 |
-| 45 | [Tunnel Vision](https://open.spotify.com/track/2bxEpkw9f7EAMC8SoeiUvU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Tunnel Vision](https://open.spotify.com/album/2ac92T1zsE9J73BYx3fPjl) | 2:29 |
-| 46 | [Oowee](https://open.spotify.com/track/0mN7bQaPh3xjcuqElzd1oD) | [Blaq Tuxedo](https://open.spotify.com/artist/1KmFm3UgUbNBOuw0yLDN2p) | [Oowee](https://open.spotify.com/album/0Woy3KS2tC9r3bStHcpxjW) | 2:29 |
+| 45 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 |
+| 46 | [Tunnel Vision](https://open.spotify.com/track/2bxEpkw9f7EAMC8SoeiUvU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Tunnel Vision](https://open.spotify.com/album/2ac92T1zsE9J73BYx3fPjl) | 2:29 |
 | 47 | [Retro Dance Record](https://open.spotify.com/track/1wreX8pqJ3iKgRrGqffL6Y) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [The Game Is..\. Thick \- Part 2](https://open.spotify.com/album/48CPh8A0WSTaUAGjhwPVy2) | 3:01 |
 | 48 | [PATIENCE ON ROCKY SEA$](https://open.spotify.com/track/24uj9BkO9kY8EUx6EJYTCE) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK) | [PATIENCE ON ROCKY SEA$](https://open.spotify.com/album/70CbNSk7bAu9biGLFZJfQT) | 2:50 |
 | 49 | [New Oakland \(feat\. Mistah Fab, J Stalin, Beeda Weeda & R.O.D.\)](https://open.spotify.com/track/5Ui8P7Bc3lc9BljG93y3r8) | [DJ Toure](https://open.spotify.com/artist/4MK9hrXOt8bggxnXB2n4Ip), [Mistah F.A.B.](https://open.spotify.com/artist/55TH3aMMK1u2VsR8DPGC6D), [J\. Stalin](https://open.spotify.com/artist/276kc3wR6o0EgYCSMiHBqz), [Beeda Weeda](https://open.spotify.com/artist/5mYW5ZOpkvIcoET8B6Y1Fi), [R.O.D.](https://open.spotify.com/artist/11Lw7m9sHPMCHSSQ1i3y3W) | [Touré's Theory](https://open.spotify.com/album/0z8oOpzyOxfqhWuwbuctUw) | 4:04 |
 | 50 | [Funny Thing](https://open.spotify.com/track/1hKOXFVydAKNB7iqAtpIf0) | [Brielle](https://open.spotify.com/artist/2iNiSOXG7MjwwwypRYxCtR), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Funny Thing](https://open.spotify.com/album/0sYUT2cExet2oUIAPvCU3p) | 2:24 |
 
-Snapshot ID: `MTY2NDQwOTYwMCwwMDAwMDAwMGJiM2E0NDc0NjdhMGU0YjVkNDU2M2M1MDYwYjljNTUy`
+Snapshot ID: `MTY2NDQwOTYwMCwwMDAwMDAwMGM2Mjg4YzAyY2FlZGUyYjA4OGYyMGNjOWM2MDA1ZWFm`

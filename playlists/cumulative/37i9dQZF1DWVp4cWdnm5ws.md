@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-98 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+101 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 |  |
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [DADA](https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [DADA](https://open.spotify.com/album/6Axji6cH6HTfoWPzVZjVwV) | 3:26 | 2021-11-25 | 2022-03-25 |
+| [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-09-29 |  |
 | [Darling, Darling](https://open.spotify.com/track/0mgbFVGzXKO41p9oxoas0c) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Darling, Darling](https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z) | 4:50 | 2021-11-25 | 2022-03-25 |
 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 | 2022-08-12 |  |
 | [Di Inakala](https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Di Inakala](https://open.spotify.com/album/6d0nKflenfco7FBVhksUtW) | 4:19 | 2022-08-12 |  |
@@ -76,6 +77,7 @@
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-11-25 | 2022-03-25 |
 | [Paraluman](https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:44 | 2022-03-24 |  |
 | [paruparo](https://open.spotify.com/track/0oug9t7drnkDuDpiDatvei) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [paruparo](https://open.spotify.com/album/5yMcGhC4JxjcK3K0H8FRLD) | 3:47 | 2021-11-25 | 2022-03-25 |
+| [Pasahili \(para sa hindi pinili\)](https://open.spotify.com/track/2VHGzij5109MdX6PJDsMuO) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili \(para sa hindi pinili\)](https://open.spotify.com/album/3IKPlgHJKhOgflKU5I5Bra) | 4:15 | 2022-09-29 |  |
 | [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/track/6SCLUJuq19QSacE4oXqoqG) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patuloy Lang Ang Lipad \(Theme of "Darna"\)](https://open.spotify.com/album/5ARQNT6Vq4Rvq5cXy8M8CQ) | 3:37 | 2022-08-25 |  |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-04-28 |  |
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |
@@ -86,6 +88,7 @@
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
 | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/album/4gBNPqTdgUJr2Box5PO8WM) | 4:28 | 2022-08-12 |  |
+| [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 |  |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 |  |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/4feJnuMO1hnNLEWiKYDxOl) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/7w2WseM2SppYIXbS9jQ8QO) | 3:26 | 2021-11-25 | 2022-03-25 |

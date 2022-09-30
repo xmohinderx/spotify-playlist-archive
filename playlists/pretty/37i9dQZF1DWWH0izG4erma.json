@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Kendall Marvel",
-  "num_followers": 473050,
+  "num_followers": 473189,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGFlODU4NDQ5NzVlYWNjNzYyYTFhOTZkZTdkZTc1N2Zm",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQyZmJkMzQwNDY0Y2Y4N2RmMzFlNWEzY2Y4NDRkYTE5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Sleeve",
         "url": "https://open.spotify.com/album/23E0DdtttVfeD7n4W77FF9"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 261359,
       "name": "Sleeve",
       "url": "https://open.spotify.com/track/40OAMuxuJPssTKQ4gdU1JA"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ramon Ayala",
-        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Dodge Out Of Hell",
-        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Dodge Out Of Hell",
-      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "4 X 4 Play",
         "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 201711,
       "name": "4 X 4 Play",
       "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Dodge Out Of Hell",
+        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Dodge Out Of Hell",
+      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Year to Be Young 1994",
-        "url": "https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 200898,
-      "name": "Year to Be Young 1994",
-      "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Year to Be Young 1994",
+        "url": "https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 200898,
+      "name": "Year to Be Young 1994",
+      "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sound of the South",
-        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Austin",
-          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
-        }
-      ],
-      "duration_ms": 243163,
-      "name": "Sound of the South",
-      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "These Old Boots",
         "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 206307,
       "name": "These Old Boots",
       "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sound of the South",
+        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Austin",
+          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
+        }
+      ],
+      "duration_ms": 243163,
+      "name": "Sound of the South",
+      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Over Me By Now",
-        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
+        "name": "EOM - EP",
+        "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
       "artists": [
         {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 161973,
-      "name": "Over Me By Now",
-      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
+      "duration_ms": 207215,
+      "name": "Payback (feat. The Cadillac Three)",
+      "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "EOM - EP",
-        "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
+        "name": "Over Me By Now",
+        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 207215,
-      "name": "Payback (feat. The Cadillac Three)",
-      "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
+      "duration_ms": 161973,
+      "name": "Over Me By Now",
+      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
     },
     {
       "added_at": "2022-09-16 04:00:00",

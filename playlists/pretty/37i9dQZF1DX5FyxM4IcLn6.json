@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121261,
+  "num_followers": 121257,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDNiOTUxOGQ0ZThhNGFjZDk0ZGYzMjZkYzVjM2M5MzQ2",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGI1MTliYWUxNjU5ODI4MzA3ZWVlMmViYTQyZjkyZDU5",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 171986,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/0O5DPkLlre5yNwH6Sqm2dD"
     },
     {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "El Flechazo y la Secuela",
+      "url": "https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW"
+    },
+    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "King's Disease",
@@ -843,22 +859,6 @@
       "duration_ms": 170813,
       "name": "Replace Me (feat. Big Sean & Don Toliver)",
       "url": "https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT"
-    },
-    {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/3WaCKsMVezVSHZ5HIbQfg9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "El Flechazo y la Secuela",
-      "url": "https://open.spotify.com/track/4dmqFKct1Bevg0rRgRJnVW"
     },
     {
       "added_at": "2022-03-29 22:42:51",
@@ -1041,26 +1041,6 @@
       "url": "https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ"
     },
     {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "Project LA: Alive in Los Angeles",
-        "url": "https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 558920,
-      "name": "Broken People",
-      "url": "https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ"
-    },
-    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "Flor",
@@ -1087,6 +1067,26 @@
       "duration_ms": 250697,
       "name": "Magnus",
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
+    },
+    {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "Project LA: Alive in Los Angeles",
+        "url": "https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 558920,
+      "name": "Broken People",
+      "url": "https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
     },
     {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "No Stranger",
+        "url": "https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "My Weapon",
+      "url": "https://open.spotify.com/track/35V80RFVUSddHYuln49G04"
+    },
+    {
       "added_at": "2022-03-29 19:11:15",
       "album": {
         "name": "Find My Way (feat. Beck)",
@@ -1271,22 +1287,6 @@
       "duration_ms": 293849,
       "name": "Find My Way (feat. Beck)",
       "url": "https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij"
-    },
-    {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
-        "name": "No Stranger",
-        "url": "https://open.spotify.com/album/4wYslUVJNf2XSXBpbTVTMk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "My Weapon",
-      "url": "https://open.spotify.com/track/35V80RFVUSddHYuln49G04"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3BTUH65LL0kRRED0J0PaV8"
     },
     {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "SONGWRIGHTS APOTHECARY LAB",
-        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Formwela 10",
-      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
-    },
-    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Mend\u00f3",
@@ -1407,6 +1391,22 @@
       "duration_ms": 202701,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/63lmbLq8jYrEle2iG2O7hO"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "SONGWRIGHTS APOTHECARY LAB",
+        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Formwela 10",
+      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
     },
     {
       "added_at": "2022-03-29 19:11:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Anti Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,795 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,852 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 9 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 |
 | 10 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 |
 | 11 | [Grinch](https://open.spotify.com/track/6NkVB8rpTMdz7K3RRlIlif) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Grinch](https://open.spotify.com/album/77soxYjbwxHedQOaBNFc4M) | 1:53 |
-| 12 | [Playboy](https://open.spotify.com/track/6tgUi4iyPlMmhRtObgPJFc) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/2jDIDTorE20GKuZgnNsVgp) | 2:24 |
+| 12 | [Playboy](https://open.spotify.com/track/7tirvvM9yib3Z3BgSXUHOi) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/5ePAyAIXfbLLyJmFRy6gxJ) | 2:24 |
 | 13 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 14 | [Hear Me When I Say](https://open.spotify.com/track/4ZEPIeRVP81V33mt8WBFPL) | [Harvey Gold](https://open.spotify.com/artist/57KJutvAkU48J9BwfYpi6p), [unruly](https://open.spotify.com/artist/59W06dK7vbjZ1gGjLSxztM) | [The Gold Vein](https://open.spotify.com/album/6ekqlVVVqPkBPeeUhAOy8w) | 2:31 |
 | 15 | [Say Datt](https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Say Datt](https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 |
 | 50 | [Iyum](https://open.spotify.com/track/138vvaXg2wnEi7KHfs6rFO) | [Nezi Momodu](https://open.spotify.com/artist/38N4mjrrjyqXksEoMFrPWm) | [The Pound](https://open.spotify.com/album/2heRKh4uxtALf3oxqOOXZv) | 3:24 |
 
-Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMDQzYWJiOGZmZDJiYmQ4ZjM3Y2RhZDQ4Y2I2NTdmYjQz`
+Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMDhhZWU3MmI3ZjRmNDVlNzc4NzYzYTAyYWQzMTg1ZTIx`

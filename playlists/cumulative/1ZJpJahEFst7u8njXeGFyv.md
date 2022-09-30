@@ -4,7 +4,7 @@
 
 > Relax, unwind and chill out to the soundtracks of Einaudi, Beethoven, Mozart, Bach incl\. Igor Levit, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
 
-106 songs - 6 hr 49 min - not published yet
+106 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/6J7UDS3vYVbd7TRfyS5nfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,13 +4,14 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-165 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+166 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1Uptown](https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [1Uptown](https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX) | 2:17 | 2022-07-29 | 2022-09-10 |
 | [23](https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [23](https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ) | 2:24 | 2022-03-02 |  |
-| [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-12-20 |  |
+| [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-12-20 | 2022-09-30 |
+| [25/8](https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl) | 3:47 | 2022-09-09 |  |
 | [Airplane Mode](https://open.spotify.com/track/7rfCV7jrTglM6ooS9KFWWs) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Troublemekka](https://open.spotify.com/artist/1e2IViEWclFirkU6YbG7cE) | [Airplane Mode](https://open.spotify.com/album/3H4UDxLW9BEPzfn5gSgC6i) | 3:02 | 2021-12-20 | 2022-03-22 |
 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 | 2022-03-02 |  |
 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 3:41 | 2021-12-20 |  |

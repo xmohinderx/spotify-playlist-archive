@@ -4,7 +4,7 @@
 
 > Ice Spice is our new RADAR Artist to Watch.
 
-342 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+343 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2021-12-01 | 2022-04-09 |
 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 | 2022-04-08 | 2022-05-18 |
 | [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2021-12-01 | 2022-04-09 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-06 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-06 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-06 | 2022-09-30 |
 | [East](https://open.spotify.com/track/6XZFzfW1WpmA9L0dJ47FxF) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [East](https://open.spotify.com/album/1kHBliQUJxk2xzoJmrCvcJ) | 2:42 | 2022-06-14 | 2022-07-27 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-12-01 | 2022-04-09 |
 | [El Imbécil del Año](https://open.spotify.com/track/0X7tBKF0PZNEPmNBT3dVFl) | [Dani Richani](https://open.spotify.com/artist/3k0vIDHDURVZoga1RNrqVL) | [El Imbécil del Año](https://open.spotify.com/album/2rrwKL0LJToDg7RORJ8gIA) | 3:36 | 2022-04-08 | 2022-05-18 |

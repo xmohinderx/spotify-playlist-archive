@@ -4,7 +4,7 @@
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Lucas Hill on cover.
 
-670 songs - 1 day 13 hr 15 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+671 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Darkside](https://open.spotify.com/track/5LBlK0wPg9skXJPDzJUtdJ) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Darkside](https://open.spotify.com/album/6dMrlT3y9pTZlGvIK3m7KY) | 3:24 | 2022-04-13 | 2022-05-05 |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-04-27 | 2022-05-19 |
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-04-06 | 2022-04-28 |
+| [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 | 2022-09-28 |  |
 | [Deja](https://open.spotify.com/track/5JvaSsy5dmnhJmaDGyYBwI) | [Denni Den](https://open.spotify.com/artist/3BlpDYnHdlKijqDvT4bw2k), [Jessica Díaz](https://open.spotify.com/artist/5B3ilGtmTtjG6lZdBg9X67) | [Deja](https://open.spotify.com/album/4TS5kGbastlg6AS7D1lzCG) | 3:07 | 2022-03-09 | 2022-03-15 |
 | [Deli](https://open.spotify.com/track/77IU4RioA7XfZ3bWVpQtKb) | [Tux Lunan](https://open.spotify.com/artist/2BlT3FbY4C1I1A25unyxJa) | [Deli](https://open.spotify.com/album/2va7VMmL5yd30EuNAHoE2k) | 3:32 | 2022-04-13 | 2022-05-12 |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2021-12-22 | 2022-01-06 |
@@ -209,7 +210,7 @@
 | [El Club de los Amores](https://open.spotify.com/track/1KB7sbVrsW1xuNaY4uQySU) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh), [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE), [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN), [Taio](https://open.spotify.com/artist/7MUOt8vqRVE31BZQ539VmP) | [El Club de los Amores](https://open.spotify.com/album/0eUtJ8R4C7nuNOSfuBYUFV) | 4:28 | 2022-03-16 | 2022-03-24 |
 | [El Fin de la Ruina](https://open.spotify.com/track/4tGd9SsVg2XnEFRVO054I9) | [Sokez](https://open.spotify.com/artist/2VI54EXTSgdz7ZLwPJczyD), [Hide Tyson](https://open.spotify.com/artist/4FXH0HxyYY09aXRNyTyOnT), [Trozos DE Groove](https://open.spotify.com/artist/3B9vmXcXTtBwnUtDr4fCBP) | [El Fin de la Ruina](https://open.spotify.com/album/5bgkbPMldGFM9KmAueXhGr) | 2:14 | 2022-08-31 | 2022-09-22 |
 | [El Imbécil del Año](https://open.spotify.com/track/0X7tBKF0PZNEPmNBT3dVFl) | [Dani Richani](https://open.spotify.com/artist/3k0vIDHDURVZoga1RNrqVL) | [El Imbécil del Año](https://open.spotify.com/album/2rrwKL0LJToDg7RORJ8gIA) | 3:36 | 2022-02-16 | 2022-03-24 |
-| [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 | 2022-09-16 |  |
+| [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 | 2022-09-16 | 2022-09-30 |
 | [El Intento](https://open.spotify.com/track/35dd9EhmhDHSbqFCTUqJ8S) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [El Intento](https://open.spotify.com/album/6GEv2BvWI9w3ok9NSxzY3Y) | 3:43 | 2022-03-16 | 2022-03-31 |
 | [El Invento](https://open.spotify.com/track/0sMRNJd353w0IQfKssjVG9) | [Tonicamo](https://open.spotify.com/artist/6A0d283AajlFDeDa03fw0f) | [El Invento / Ojos en el Sol](https://open.spotify.com/album/3DxAlhUe94JiASP4slSvvK) | 3:43 | 2022-06-15 | 2022-07-30 |
 | [EL MAR](https://open.spotify.com/track/3FlgFWKYSqou7H4zucnwSk) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [EL MAR](https://open.spotify.com/album/5PdLQlfmWsgzq6jeEtbwIw) | 4:03 | 2022-06-15 | 2022-07-22 |

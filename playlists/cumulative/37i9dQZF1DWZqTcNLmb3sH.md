@@ -2,9 +2,9 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
+> Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-372 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+373 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Khali Khali Agide \- From "Puksatte Lifu"](https://open.spotify.com/track/5Ty8cIug6a2wo5RkAKP7vZ) | [Shilpa Mudbi](https://open.spotify.com/artist/6ZlQidX01vhLzUBWZMrLoE), [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH) | [Khali Khali Agide \(From "Puksatte Lifu"\)](https://open.spotify.com/album/7hkXwKL0OPgUilKIktagFN) | 4:10 | 2021-12-06 | 2022-05-19 |
 | [Kombe Uyyale](https://open.spotify.com/track/2otnBJdnE12fdRdIBpYwsi) | [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [RRR](https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc) | 4:44 | 2022-04-18 |  |
 | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa) | 4:14 | 2021-12-24 | 2022-02-03 |
+| [Koti Koti Kotaro \(From "Danthapurana"\)](https://open.spotify.com/track/7p36WG97PeS1Wu4d1kgYOy) | [Arundhathi Vasishta](https://open.spotify.com/artist/7bpuejz9ux3FtEzQlTPWt5), [Rameshkrishna](https://open.spotify.com/artist/5auj9BvlrfpT8Jhg36yAsD) | [Koti Koti Kotaro \(From "Danthapurana"\)](https://open.spotify.com/album/72vJywi6wjhFQfhTNfMw9P) | 4:37 | 2022-09-29 |  |
 | [Kudi Notada](https://open.spotify.com/track/11i2BpO3ftiPOrHioCAsSp) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [SriKrishna@gmail.com](https://open.spotify.com/album/7FfFqZax9QEBOiDuwxPIRP) | 4:18 | 2021-12-06 | 2022-03-14 |
 | [Kugraamave \- From "Minnal Murali"](https://open.spotify.com/track/1RspDNer9uYrIPKDlIKZux) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kugraamave \(From "Minnal Murali"\)](https://open.spotify.com/album/0xNFvStG5PYuHE5cBSConG) | 1:37 | 2021-12-06 | 2022-02-03 |
 | [Kuhoo Kuhoo Kogile](https://open.spotify.com/track/2hyky5lX55tBk7TChY4k5g) | [Sriharsha](https://open.spotify.com/artist/3EHmSOzWIh8sts1UUZhblN), [Sneha Nannival](https://open.spotify.com/artist/0mOdGu0qzkCZHw6FmgUeiR) | [Padmavathi](https://open.spotify.com/album/3goFq28WSimRrkQt0zKfdG) | 4:55 | 2022-06-24 | 2022-07-29 |

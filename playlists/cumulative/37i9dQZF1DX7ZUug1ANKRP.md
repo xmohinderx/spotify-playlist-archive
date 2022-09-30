@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: FORTELLA
 
-200 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+201 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Dreams](https://open.spotify.com/track/2d9xO7cVRfS3QHy64IxnhY) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Dreams](https://open.spotify.com/album/4kQ6UAsNwjdKZr8CYRyuWU) | 3:19 | 2021-12-15 | 2022-03-17 |
 | [Drop That Low \(Tujamo's Secret Weapon 2022\)](https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Drop That Low \(Tujamo's Secret Weapon 2022\)](https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z) | 3:04 | 2022-08-10 |  |
 | [Drown](https://open.spotify.com/track/3awxOzmyqDtOy6wffbXloq) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Hilaa](https://open.spotify.com/artist/6m9sphB8QEThWorauEMH5G) | [Drown](https://open.spotify.com/album/22hrlfU2HAViRq2D1k5wiw) | 2:03 | 2021-12-15 | 2022-01-27 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-21 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-28 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-21 | 2022-09-30 |
 | [Extasy](https://open.spotify.com/track/6DIwLrjFuDqzWV3HffqlKG) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Extasy](https://open.spotify.com/album/17hz31nLQf9GytvJyueL9E) | 2:35 | 2022-06-22 |  |
 | [Fade Away](https://open.spotify.com/track/4FzrngyvChFT7ymR6OKNsr) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [NORTH26](https://open.spotify.com/artist/0VCdFnUDF3uztrIR53Jtsk), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Fade Away](https://open.spotify.com/album/0LfqdXN5z3GBaPmFAr2raB) | 2:38 | 2021-12-15 | 2022-01-27 |
 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 | 2022-07-20 |  |

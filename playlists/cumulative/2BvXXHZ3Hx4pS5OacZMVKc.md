@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+193 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 |  |
 | [Ray of Light](https://open.spotify.com/track/1maMkl55C1F2xaR2bov2y2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Ray Of Light](https://open.spotify.com/album/0ipRm9TQS5hJn1SEP4Ifbw) | 2:45 | 2022-02-18 |  |
 | [Red Light](https://open.spotify.com/track/6tTfhvcXVTf3N4fXNo81uT) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Red Light](https://open.spotify.com/album/6YJrD2ktodcbxT5V37QYJC) | 2:58 | 2022-02-03 | 2022-09-15 |
+| [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 |  |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 |  |
 | [Rewind](https://open.spotify.com/track/6efEvmZMPiCwAqBFmK1SqM) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Rewind](https://open.spotify.com/album/1Al7ihtbE2D62RBrmRYLR4) | 3:24 | 2022-02-03 | 2022-09-15 |
 | [Rise](https://open.spotify.com/track/5URM12vdsiM1xNtFrPikBT) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Rise](https://open.spotify.com/album/401nTlpVat5qfYmeFHHWEs) | 3:04 | 2022-02-03 | 2022-09-15 |

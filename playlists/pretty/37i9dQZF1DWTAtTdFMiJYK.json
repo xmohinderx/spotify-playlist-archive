@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover : Raman Negi",
-  "num_followers": 85882,
+  "num_followers": 85949,
   "original_name": "Radar India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY3NTgxMywwMDAwMDAwMDAzNjI0OTNjYTg5YTYyMWM2NzM4MGU5YWYzNjQ0Mzcy",
+  "snapshot_id": "MTY2NDQyODY4MCwwMDAwMDAwMDJhMjRmYThjZWMzOGI5MGVkZDQwODBjZjk2NmU4NDQ1",
   "tracks": [
     {
       "added_at": "2022-09-20 12:10:13",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
     },
     {
+      "added_at": "2022-09-29 05:18:00",
+      "album": {
+        "name": "Kya Ho Gaya",
+        "url": "https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 162570,
+      "name": "Kya Ho Gaya",
+      "url": "https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK"
+    },
+    {
       "added_at": "2022-09-20 12:10:13",
       "album": {
         "name": "Ye Teri Meri Kahani",
@@ -135,6 +151,26 @@
       "duration_ms": 178163,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe"
+    },
+    {
+      "added_at": "2022-09-29 05:18:00",
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt"
     },
     {
       "added_at": "2022-09-20 12:10:13",
@@ -1319,50 +1355,6 @@
       "duration_ms": 234545,
       "name": "Safar",
       "url": "https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0"
-    },
-    {
-      "added_at": "2022-09-20 12:10:13",
-      "album": {
-        "name": "Jazba",
-        "url": "https://open.spotify.com/album/60HHi0QYQpi4SOvHFAu0aU"
-      },
-      "artists": [
-        {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
-        }
-      ],
-      "duration_ms": 335161,
-      "name": "jazba",
-      "url": "https://open.spotify.com/track/6oFj20X1bo2PwVfedRZs6G"
-    },
-    {
-      "added_at": "2022-09-20 12:10:13",
-      "album": {
-        "name": "Khwaaish",
-        "url": "https://open.spotify.com/album/0dftenaNNTJO61vGBrJdK7"
-      },
-      "artists": [
-        {
-          "name": "Keethan",
-          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
-        },
-        {
-          "name": "roshni",
-          "url": "https://open.spotify.com/artist/5jdpVcss5rApltpJ53fwyW"
-        },
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Shyam Renganathan",
-          "url": "https://open.spotify.com/artist/6FhV9mVOAu3El9CJ5PJdf0"
-        }
-      ],
-      "duration_ms": 229211,
-      "name": "Khwaaish",
-      "url": "https://open.spotify.com/track/3fCRkNn2uWBzMuRwi841pP"
     }
   ],
   "unique_name": "Radar India",

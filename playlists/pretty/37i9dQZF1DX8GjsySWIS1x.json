@@ -1,28 +1,44 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 982142,
+  "num_followers": 982259,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NTQ0NiwwMDAwMDAwMDMxN2M5YmJmYTZlNzkzMDYxZjYzNzBhMTkzNGNjODJi",
+  "snapshot_id": "MTY2NDQ2NjgyOCwwMDAwMDAwMDU2Y2NkOTgwOTRhMWFlMzVlMzJkODBiOWRlZjdhNDRj",
   "tracks": [
     {
-      "added_at": "2022-07-28 15:31:40",
+      "added_at": "2022-09-29 15:51:46",
       "album": {
-        "name": "Below the Surface",
-        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
       "artists": [
         {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 134857,
-      "name": "Below the Surface",
-      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2022-09-29 15:51:46",
+      "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -39,6 +55,22 @@
       "duration_ms": 230894,
       "name": "My Ordinary Life",
       "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+      },
+      "artists": [
+        {
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -457,6 +489,22 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
+      "added_at": "2022-09-29 15:53:48",
+      "album": {
+        "name": "Feed the Machine",
+        "url": "https://open.spotify.com/album/7dj4yq009CwzjL1mtf5RGp"
+      },
+      "artists": [
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "duration_ms": 183288,
+      "name": "Feed the Machine",
+      "url": "https://open.spotify.com/track/4xe3UHiQOH2RNBXcuAKDvG"
+    },
+    {
       "added_at": "2022-09-20 14:50:15",
       "album": {
         "name": "YES MOM",
@@ -543,6 +591,22 @@
       "duration_ms": 261601,
       "name": "Venom - Remix",
       "url": "https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ"
+    },
+    {
+      "added_at": "2022-09-29 15:53:48",
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE"
     },
     {
       "added_at": "2022-07-28 15:31:40",

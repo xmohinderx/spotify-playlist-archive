@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 34009,
+  "num_followers": 34061,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0Nzk4MCwwMDAwMDAwMDY3YTllOGI4NTQ2ZGJkNThlYThlNjA1MDI2NzU3ZmU3",
+  "snapshot_id": "MTY2Mzk0Nzk4MCwwMDAwMDAwMGVkOThjMWQyNGIyYmNiYWQxY2I5NzYwMDMwMjhkZDhi",
   "tracks": [
     {
       "added_at": "2022-09-23 15:46:20",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Corinna - From \"The Natch'l Blues\"",
-      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
-    },
-    {
-      "added_at": "2022-09-23 15:46:20",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 313093,
       "name": "I'll Take Care Of You",
       "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
+    },
+    {
+      "added_at": "2022-09-23 15:46:20",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Corinna - From \"The Natch'l Blues\"",
+      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
     },
     {
       "added_at": "2022-09-23 15:46:20",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-09-23 15:46:20",
-      "album": {
         "name": "Hope And Desire",
         "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 237600,
       "name": "Loving You Is Sweeter Than Ever",
       "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
+    },
+    {
+      "added_at": "2022-09-23 15:46:20",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2022-09-23 15:46:20",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+        "name": "Better Than Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+      "duration_ms": 356360,
+      "name": "Tell Her You Belong To Me",
+      "url": "https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P"
     },
     {
       "added_at": "2022-09-23 15:46:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+    },
+    {
+      "added_at": "2022-09-23 15:46:20",
+      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 239893,
       "name": "Same Old Blues",
       "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
-    },
-    {
-      "added_at": "2022-09-23 15:46:20",
-      "album": {
-        "name": "Better Than Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 356360,
-      "name": "Tell Her You Belong To Me",
-      "url": "https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P"
     },
     {
       "added_at": "2022-09-23 15:46:20",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
+    },
+    {
+      "added_at": "2022-09-23 15:46:20",
+      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2022-09-23 15:46:20",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-23 15:46:20",
       "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
+    {
+      "added_at": "2022-09-23 15:46:20",
+      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
-    },
-    {
-      "added_at": "2022-09-23 15:46:20",
-      "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2022-09-23 15:46:20",

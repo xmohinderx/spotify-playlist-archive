@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Wolftone. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Dena Euprasert. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "published_playlist_ids": [
     "0sFtnPcJ2xiQS1kZ7Io9aQ"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 209538,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 322432,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/3TPB54TCJHVZZ0gInF5QBn"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 229672,
       "name": "Dear",
       "url": "https://open.spotify.com/track/70odxlp6fqrguezcX2Wg3v"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 202029,
       "name": "Falling Rain",
       "url": "https://open.spotify.com/track/62WmKajNK3aAZ83p07Z6AU"
+    },
+    {
+      "album": {
+        "name": "GONE WRONG",
+        "url": "https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc"
+      },
+      "artists": [
+        {
+          "name": "PANNAGUS",
+          "url": "https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231081,
+      "name": "GONE WRONG",
+      "url": "https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0"
     },
     {
       "album": {
@@ -326,6 +344,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49 (Gone)",
+        "url": "https://open.spotify.com/album/4NdIJyyZFSgqKO1HzTey1A"
+      },
+      "artists": [
+        {
+          "name": "Mr. Heed",
+          "url": "https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269230,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49 (Gone)",
+      "url": "https://open.spotify.com/track/4xLSEOWOQ0d54XDW6pGsrW"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e33\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01 (Try)",
         "url": "https://open.spotify.com/album/1c94Uu2EQ0DgzVYU8PMzzT"
       },
@@ -341,6 +377,24 @@
       "duration_ms": 178997,
       "name": "\u0e04\u0e33\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01 (Try)",
       "url": "https://open.spotify.com/track/0fz6w8NFJerxS1ADLtMWan"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/6sJhm2JwwHFKwC5sQW7nzi"
+      },
+      "artists": [
+        {
+          "name": "BetterDays",
+          "url": "https://open.spotify.com/artist/0i5cEBY8HH7TWMDExaBQHG"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323805,
+      "name": "\u0e04\u0e37\u0e19\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/4qJ9ILvY0K5pqP9vAyF9by"
     },
     {
       "album": {
@@ -398,6 +452,24 @@
     },
     {
       "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e19\u0e35\u0e48\u0e41\u0e2b\u0e25\u0e30...\u0e04\u0e19\u0e2d\u0e37\u0e48\u0e19",
+        "url": "https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h"
+      },
+      "artists": [
+        {
+          "name": "Chilax",
+          "url": "https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "\u0e09\u0e31\u0e19\u0e19\u0e35\u0e48\u0e41\u0e2b\u0e25\u0e30...\u0e04\u0e19\u0e2d\u0e37\u0e48\u0e19",
+      "url": "https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e23\u0e32\u0e04\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Click) [feat. AUTTA]",
         "url": "https://open.spotify.com/album/6wqRuHdT2G47rleLjOLNkP"
       },
@@ -449,7 +521,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 205878,
       "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e1e\u0e35\u0e48\u0e02\u0e21\u0e40\u0e15\u0e34\u0e21\u0e19\u0e21\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/65UDd2RoERLLs4ybi6yuIY"
@@ -485,7 +557,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 275076,
       "name": "\u0e15\u0e2d\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35 (Answer me)",
       "url": "https://open.spotify.com/track/1ZKU2sA8F3WI9D7RqyRU8M"
@@ -557,7 +629,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 254005,
       "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e09\u0e31\u0e19",
       "url": "https://open.spotify.com/track/5VYPYm2BcDbZ9EiJcPTHiW"
@@ -575,7 +647,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 209400,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e21\u0e36\u0e01\u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e19\u0e31\u0e01\u0e40\u0e02\u0e35\u0e22\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e27\u0e31\u0e2224\u0e1b\u0e35 - My Ink",
       "url": "https://open.spotify.com/track/303H14fYH0Dw5EemFM5iCV"
@@ -665,10 +737,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 228693,
       "name": "\u0e1d\u0e31\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/3yySZ2pd0wWkw9ktaJH8A0"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e22\u0e31\u0e27\u0e23\u0e4c\u0e40\u0e25\u0e34\u0e1f (Find Your Love)",
+        "url": "https://open.spotify.com/album/6oHSWlgZ5aG6wPZU5v5tFk"
+      },
+      "artists": [
+        {
+          "name": "TANQUE\u2019AMA",
+          "url": "https://open.spotify.com/artist/03eRS1yPi8etoi8rf17X55"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289644,
+      "name": "\u0e1d\u0e32\u0e01\u0e22\u0e31\u0e27\u0e23\u0e4c\u0e40\u0e25\u0e34\u0e1f (Find Your Love)",
+      "url": "https://open.spotify.com/track/6ZfGZgRclrAA5phSGWNKeN"
     },
     {
       "album": {
@@ -687,6 +777,24 @@
       "duration_ms": 199922,
       "name": "\u0e1e\u0e23\u0e04\u0e23\u0e31\u0e1a (Blessed)",
       "url": "https://open.spotify.com/track/1OMo7mcEafetzBfpdFaN4X"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e19\u0e30 (Breadcrumbing ?)",
+        "url": "https://open.spotify.com/album/17MWlyVeTaKpdjmhMJEo3L"
+      },
+      "artists": [
+        {
+          "name": "Dena Euprasert",
+          "url": "https://open.spotify.com/artist/49nTWFKWbXq3Rew7lyZiGK"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e19\u0e30 (Breadcrumbing ?)",
+      "url": "https://open.spotify.com/track/2QtmRzM5dEk8saLilY4ixX"
     },
     {
       "album": {
@@ -930,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e04\u0e39\u0e13\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49\u0e28\u0e39\u0e19\u0e22\u0e4c",
+        "url": "https://open.spotify.com/album/1RfjCeIZn3C66mR8Lanxzb"
+      },
+      "artists": [
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190609,
+      "name": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e04\u0e39\u0e13\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49\u0e28\u0e39\u0e19\u0e22\u0e4c",
+      "url": "https://open.spotify.com/track/4DE4fRvrmz9OirN65YLT1R"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e31\u0e19\u0e1f\u0e2d\u0e25 (Unfollow)",
         "url": "https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1"
       },
@@ -945,6 +1071,24 @@
       "duration_ms": 192240,
       "name": "\u0e2d\u0e31\u0e19\u0e1f\u0e2d\u0e25 (Unfollow)",
       "url": "https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI"
+    },
+    {
+      "album": {
+        "name": "\u0e2e\u0e30 \u0e2e\u0e30",
+        "url": "https://open.spotify.com/album/0PAwnJzRYkLZrx6a6vXblW"
+      },
+      "artists": [
+        {
+          "name": "Mek Sippanun",
+          "url": "https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257086,
+      "name": "\u0e2e\u0e30 \u0e2e\u0e30",
+      "url": "https://open.spotify.com/track/4te1SDktZQSg1AiZSes1Nt"
     },
     {
       "album": {
@@ -1043,7 +1187,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 308437,
       "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e22\u0e31\u0e07\u0e21\u0e35\u0e40\u0e40\u0e04\u0e48\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/06eXgmCwkWURWvLkGDyvCP"
@@ -1091,6 +1235,46 @@
       "duration_ms": 256232,
       "name": "\u0e40\u0e21\u0e32\u0e01\u0e31\u0e19\u0e21\u0e31\u0e49\u0e22?",
       "url": "https://open.spotify.com/track/3KwUCFjzgBCCNgg8rKb4iu"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32 (1517) [feat. MANGKORN]",
+        "url": "https://open.spotify.com/album/6z7fiueLiYb8ASKiyfaKOR"
+      },
+      "artists": [
+        {
+          "name": "DVSH",
+          "url": "https://open.spotify.com/artist/2Te1zJ4GHWtiKqWMTHg48Z"
+        },
+        {
+          "name": "MANGKORN",
+          "url": "https://open.spotify.com/artist/2vRBQnwBMKxz1Hs5RFKTcr"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247125,
+      "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32 (1517) [feat. MANGKORN]",
+      "url": "https://open.spotify.com/track/38LqNoIo76nP28GGevEeE2"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2b\u0e07\u0e32\u0e2b\u0e23\u0e2d? (Just Leave Me Alone)",
+        "url": "https://open.spotify.com/album/3VU7s7BWenLkU6CWnQKUT0"
+      },
+      "artists": [
+        {
+          "name": "Nutty Natchaya",
+          "url": "https://open.spotify.com/artist/5rrQBPWh522YmC6sVnIPGQ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "\u0e40\u0e2b\u0e07\u0e32\u0e2b\u0e23\u0e2d? (Just Leave Me Alone)",
+      "url": "https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu"
     },
     {
       "album": {

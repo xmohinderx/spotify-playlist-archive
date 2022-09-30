@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/1949QLHsnthywLL5n79tAz"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221591,
+      "name": "Asali",
+      "url": "https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB"
+    },
+    {
+      "album": {
         "name": "Atakuoa Nani",
         "url": "https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk"
       },
@@ -1372,6 +1390,28 @@
     },
     {
       "album": {
+        "name": "Love (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Love (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
+    },
+    {
+      "album": {
         "name": "Slave Becomes A King",
         "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
       },
@@ -2477,7 +2517,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 169696,
       "name": "Pepetua",
       "url": "https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3"
@@ -3166,6 +3206,24 @@
     },
     {
       "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/3BhNvnIYdTtYBfTQsxBb7F"
+      },
+      "artists": [
+        {
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182787,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/6gODHGgWyNxfg4oiHf3zDw"
+    },
+    {
+      "album": {
         "name": "Vamonos",
         "url": "https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY"
       },
@@ -3181,7 +3239,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 152119,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD"

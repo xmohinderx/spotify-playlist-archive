@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists. Cover: Bellah",
-  "num_followers": 121464,
+  "description": "Discover your new favourite artists. Cover: Shygirl",
+  "num_followers": 121451,
   "original_name": "RADAR: First Listen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NzYwMCwwMDAwMDAwMGNiYmViNmQ1MjljZTM3MzA5Y2IxNTk3Y2U5MzM0NzFl",
+  "snapshot_id": "MTY2NDQ5MjQwMCwwMDAwMDAwMGNiZDc5MzRkZTYxODNhNzE0YmY0NDI5MTA1OTZhMjJk",
   "tracks": [
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
+        "name": "Shlut",
+        "url": "https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe"
+    },
     {
       "added_at": "2022-09-22 23:00:00",
       "album": {

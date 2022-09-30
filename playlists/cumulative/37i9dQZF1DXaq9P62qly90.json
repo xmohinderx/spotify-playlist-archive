@@ -577,7 +577,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 307880,
       "name": "Harmonize",
       "url": "https://open.spotify.com/track/7m18pXVZiJFy3tCcloKyoo"
@@ -974,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Rebel Frequency",
+        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
+      },
+      "artists": [
+        {
+          "name": "Nattali Rize",
+          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "One People",
+      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 377258,
       "name": "Sometimes I",
       "url": "https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 235826,
       "name": "Speak out",
       "url": "https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 260171,
       "name": "Uneven Days",
       "url": "https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Vaporize",
       "url": "https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf"

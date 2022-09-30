@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 73803,
+  "num_followers": 73795,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMDY2ZTdmYmY2NTc4ZTY2YjJjYWYwMGNkMThjNmM5OWU4",
+  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMDEwYTVjNWQ4NzJjOTUxNWM0MmFkMWY3NGJhNGZlYmY0",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:12",
@@ -151,18 +151,18 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 158253,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
+      "duration_ms": 205320,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -215,18 +215,18 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
+      "duration_ms": 158253,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "The Commanders",
-          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "'Zat You, Santa Claus? - Single Version",
-      "url": "https://open.spotify.com/track/5zVXvYPvU4anhLlAQjvf5Y"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 162746,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "'Zat You, Santa Claus? - Single Version",
+      "url": "https://open.spotify.com/track/5zVXvYPvU4anhLlAQjvf5Y"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -775,6 +775,34 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "The Season's Back Again",
+        "url": "https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        },
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        },
+        {
+          "name": "Mark Armstrong",
+          "url": "https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy"
+        },
+        {
+          "name": "Steve Memmolo",
+          "url": "https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv"
+        }
+      ],
+      "duration_ms": 176379,
+      "name": "The Very Best Day This Year",
+      "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
       },
@@ -803,34 +831,6 @@
       "duration_ms": 290826,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "The Season's Back Again",
-        "url": "https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Meegan",
-          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
-        },
-        {
-          "name": "David Tobin",
-          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
-        },
-        {
-          "name": "Mark Armstrong",
-          "url": "https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy"
-        },
-        {
-          "name": "Steve Memmolo",
-          "url": "https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv"
-        }
-      ],
-      "duration_ms": 176379,
-      "name": "The Very Best Day This Year",
-      "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Clayton-Hamilton Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/1Dod14UwS8340KodbMsxiS"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        {
+          "name": "Clayton-Hamilton Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1Dod14UwS8340KodbMsxiS"
     },
     {
       "added_at": "2022-09-27 07:00:12",

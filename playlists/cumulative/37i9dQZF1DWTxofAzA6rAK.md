@@ -4,14 +4,15 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-66 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+67 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-05 |  |
 | [1Matik](https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [1Matik](https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB) | 3:24 | 2021-10-20 |  |
 | [1Uptown](https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [1Uptown](https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX) | 2:17 | 2022-08-05 |  |
-| [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-10-20 |  |
+| [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-10-20 | 2022-09-30 |
+| [25/8](https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl) | 3:47 | 2022-08-05 |  |
 | [Another Dolla](https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Another Dolla](https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl) | 2:43 | 2022-08-05 |  |
 | [Be Good](https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Be Good](https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6) | 2:37 | 2021-10-20 |  |
 | [Beethoven](https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 2:45 | 2021-10-20 |  |

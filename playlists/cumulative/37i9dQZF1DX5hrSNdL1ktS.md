@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-95 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+96 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Escondidas](https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq) | [Cala Vera](https://open.spotify.com/artist/3eSEdtHL36adsA9SDrvVuF) | [A Escondidas](https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL) | 3:41 | 2022-02-01 | 2022-08-04 |
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 | 2022-07-30 |
 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 | 2022-01-07 | 2022-02-16 |
+| [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 | 2022-09-29 |  |
 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 | 2022-01-07 | 2022-07-30 |
 | [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 | 2022-07-29 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 | 2022-01-07 | 2022-05-28 |
@@ -22,7 +23,7 @@
 | [Criminal](https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf), [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB) | [Criminal](https://open.spotify.com/album/1HqFS49pmoR174vkddzArp) | 3:15 | 2022-07-29 | 2022-08-19 |
 | [Dale Agachadita](https://open.spotify.com/track/0D4BSEA5fddnZ0FQEc3n3O) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Luam](https://open.spotify.com/artist/0p5lNivYQ06xMqR6wN4GI3), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Dale Agachadita](https://open.spotify.com/album/2U9hw9oBgR7lcXofg1t87b) | 3:09 | 2022-01-07 | 2022-03-03 |
 | [De Lao Remix](https://open.spotify.com/track/0xvrNtfjeNn8Ueug6eXzrY) | [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Fran Zata](https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [De Lao Remix](https://open.spotify.com/album/3spAK93c7mgN7sbLIqR3cB) | 4:14 | 2022-01-07 | 2022-06-18 |
-| [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 | 2022-01-07 |  |
+| [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 | 2022-01-07 | 2022-09-30 |
 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 | 2022-01-07 | 2022-05-06 |
 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 | 2022-05-05 |  |
 | [DOCE](https://open.spotify.com/track/09700e3oszBufdrwLsqvz7) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [DOCE](https://open.spotify.com/album/0jmZ1rdtbnxn3LYFI10SKa) | 3:06 | 2022-01-07 | 2022-04-15 |

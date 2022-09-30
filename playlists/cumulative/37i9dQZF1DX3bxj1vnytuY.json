@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 384237,
       "name": "Aslaf",
       "url": "https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk"
@@ -385,6 +385,28 @@
       "duration_ms": 256000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE"
+      },
+      "artists": [
+        {
+          "name": "Chris IDH",
+          "url": "https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9"
+        },
+        {
+          "name": "Kwezi",
+          "url": "https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492750,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY"
     },
     {
       "album": {
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 395663,
       "name": "Dodoma",
       "url": "https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh"
@@ -2318,6 +2340,36 @@
     },
     {
       "album": {
+        "name": "Tolo",
+        "url": "https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv"
+      },
+      "artists": [
+        {
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+        },
+        {
+          "name": "Miishu",
+          "url": "https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf"
+        },
+        {
+          "name": "Ahmed Sosso",
+          "url": "https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397979,
+      "name": "Tolo - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc"
+    },
+    {
+      "album": {
         "name": "Trailblazer",
         "url": "https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS"
       },
@@ -2597,10 +2649,6 @@
         {
           "name": "SOULFLVR",
           "url": "https://open.spotify.com/artist/0RLZB5HrhRKqAY9iFm6mmx"
-        },
-        {
-          "name": "YACHTSOUL",
-          "url": "https://open.spotify.com/artist/0KNTQVSWRSk7OOS68HYH1O"
         }
       ],
       "date_added": "2022-04-13",

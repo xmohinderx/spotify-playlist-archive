@@ -1868,6 +1868,28 @@
     },
     {
       "album": {
+        "name": "Love U true",
+        "url": "https://open.spotify.com/album/7aZJJn9XVacC1j0jVyU9GY"
+      },
+      "artists": [
+        {
+          "name": "TeN",
+          "url": "https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc"
+        },
+        {
+          "name": "TSUKKY",
+          "url": "https://open.spotify.com/artist/2R2HBDzAhagkTfV4bNnP7p"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185004,
+      "name": "Love U true",
+      "url": "https://open.spotify.com/track/6Ee2cUtg1YctkZgUHHGUUi"
+    },
+    {
+      "album": {
         "name": "LOVELAND, ISLAND (Cover)",
         "url": "https://open.spotify.com/album/1xc1f57YL7LrGLvEvBcUQj"
       },
@@ -3381,7 +3403,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 289517,
       "name": "Tokyo Tower",
       "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
@@ -5439,7 +5461,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 244462,
       "name": "\u71b1\u5e2f\u591c",
       "url": "https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc"
@@ -5743,7 +5765,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 267575,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"

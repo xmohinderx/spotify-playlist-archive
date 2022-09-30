@@ -1163,10 +1163,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 340240,
       "name": "push u away",
       "url": "https://open.spotify.com/track/1O55tsMSuIl72c0GZwlKTx"
+    },
+    {
+      "album": {
+        "name": "push u away",
+        "url": "https://open.spotify.com/album/29l91KjPwv8wMTQDj2mfAg"
+      },
+      "artists": [
+        {
+          "name": "Tom Place",
+          "url": "https://open.spotify.com/artist/3n01e8oi2k5JWOWUbSgc3w"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340240,
+      "name": "push u away",
+      "url": "https://open.spotify.com/track/7LkJU7d39QFeCxmF4Efg4Y"
     },
     {
       "album": {

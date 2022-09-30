@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 229302,
       "name": "Gradate",
       "url": "https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX"
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -2441,6 +2441,24 @@
       "duration_ms": 222484,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm"
+    },
+    {
+      "album": {
+        "name": "\u9b42\u306e\u30cf\u30a4\u30a6\u30a7\u30a4",
+        "url": "https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N"
+      },
+      "artists": [
+        {
+          "name": "Ayane Yamazaki",
+          "url": "https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r"
     },
     {
       "album": {
@@ -3744,6 +3762,24 @@
     },
     {
       "album": {
+        "name": "SWAM",
+        "url": "https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "SWAM",
+      "url": "https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6"
+    },
+    {
+      "album": {
         "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
       },
@@ -4778,6 +4814,28 @@
     },
     {
       "album": {
+        "name": "\u3059\u305a\u3081",
+        "url": "https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "\u5341\u660e",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236390,
+      "name": "\u3059\u305a\u3081",
+      "url": "https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30ad\u30b7\u30c1",
         "url": "https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4"
       },
@@ -5425,7 +5483,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 211866,
       "name": "\u590f\u306b\u6eba\u308c\u305f\u3044",
       "url": "https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM"

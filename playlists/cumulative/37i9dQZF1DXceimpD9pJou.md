@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto: Generación 12
 
-494 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+495 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Gozo](https://open.spotify.com/track/6FGhI4d8FgLeAf1QG8k7Re) | [Josh Lopez](https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gozo](https://open.spotify.com/album/2i0mONvYiLsguOLI409PTj) | 3:45 | 2022-07-08 | 2022-09-10 |
 | [Gozo Al Rendirme](https://open.spotify.com/track/2NG9McpkxMNhMTNBWdFEc5) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Gozo Al Rendirme](https://open.spotify.com/album/73hjO8YctVumTZltXB5Z2T) | 6:01 | 2022-02-25 | 2022-04-09 |
 | [Gozo Yo Quería](https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF) | [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Gozo Yo Quería](https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN) | 3:08 | 2022-04-08 | 2022-05-28 |
-| [Gracia](https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY) | [Edson Nuñez](https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT) | [Gracia](https://open.spotify.com/album/1tjjnVKLCnZxGmoVFIS4zp) | 7:58 | 2022-07-29 |  |
+| [Gracia](https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY) | [Edson Nuñez](https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT) | [Gracia](https://open.spotify.com/album/1tjjnVKLCnZxGmoVFIS4zp) | 7:58 | 2022-07-29 | 2022-09-30 |
 | [Gracia \- Acoustic Version](https://open.spotify.com/track/463nSMtFqe7uPCbB4kiZrs) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Gracia \(Acoustic Version\)](https://open.spotify.com/album/7b6VCrZrr21862cSniHxk3) | 3:37 | 2022-02-25 | 2022-03-26 |
 | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/track/6Y5TIxbM7fsG5j9CqJqZDW) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/album/4qiy47VjgVtXbsP2Cg1USA) | 4:49 | 2022-05-27 | 2022-07-30 |
 | [Gracias](https://open.spotify.com/track/4cLvxtA49cGZkNahdaU9cp) | [Arling Ruiz](https://open.spotify.com/artist/1k843tNr5HoW512lG1jyhT) | [Gracias](https://open.spotify.com/album/1xh39JZOBFwAWDcu8cj5jI) | 4:12 | 2022-03-11 | 2022-05-14 |
@@ -412,6 +412,7 @@
 | [Sobre las Aguas](https://open.spotify.com/track/36dxoAE6Bj269tBwNSfi8p) | [Genesis Zoar](https://open.spotify.com/artist/4OsX5nn6mvn2h3sFJpmUvH) | [Sobre las Aguas](https://open.spotify.com/album/1xNbnQcE1Urx67fEg5uvKs) | 4:30 | 2022-02-25 | 2022-04-23 |
 | [Solo Tengo Ojos Para Ti](https://open.spotify.com/track/4LRFOqZmtKCL5MWhxb5eyL) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Despinal](https://open.spotify.com/album/2FT61GagMLvIqY8n3imK5z) | 3:29 | 2022-03-25 | 2022-05-20 |
 | [Somos Las Voces](https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Somos Las Voces](https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj) | 4:02 | 2022-07-29 |  |
+| [Somos Libres](https://open.spotify.com/track/3mTmc6r4qI2mFQOxVAWwsW) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9) | [Somos Libres](https://open.spotify.com/album/491d5bIUUd4bwEbEILt3sy) | 2:48 | 2022-09-23 |  |
 | [Somos Uno](https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Somos Uno](https://open.spotify.com/album/7uBOVDAdKIUIw8KpsNAhvJ) | 2:15 | 2022-02-25 | 2022-03-26 |
 | [Soy Deudor](https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3) | 5:35 | 2022-04-01 | 2022-05-28 |
 | [Soy Esa Generación \- Live](https://open.spotify.com/track/6MvIH6ODTfy3UsNTSkKtzh) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Soy Esa Generación \(Live\)](https://open.spotify.com/album/13mhfOrgNQu4DflcF6UyHD) | 7:58 | 2022-08-12 |  |

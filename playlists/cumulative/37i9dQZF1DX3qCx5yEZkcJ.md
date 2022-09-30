@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-404 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+405 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Let Me Be...](https://open.spotify.com/track/26C8Jwl8oVfgvrfgMcEShx) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Let Me Be...](https://open.spotify.com/album/2BrMWNVooyQR4ohBcAfbUB) | 2:30 | 2019-05-26\* | 2022-04-21 |
 | [Let Me Sink](https://open.spotify.com/track/60IGRj0Vyl4cFqyJELQHjc) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Let Me Sink](https://open.spotify.com/album/44m2eIAT0LrkkDDy3EA2Vz) | 2:00 | 2019-05-26\* | 2019-06-15 |
 | [let up](https://open.spotify.com/track/1enG0rKaILfMLkpECtzq7e) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/1Mf3I8VH2jkHzhQda5r7tF) | 3:04 | 2021-11-26 | 2022-07-29 |
+| [let up](https://open.spotify.com/track/79LW20kYsfGPXIU6UEXkHC) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o) | 3:04 | 2022-09-22 |  |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2020-09-18 | 2022-07-21 |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
@@ -380,7 +381,7 @@
 | [Two Colours](https://open.spotify.com/track/5p39ZChrnnpFDnhlv5OT7w) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Two Colours](https://open.spotify.com/album/7zl7DRsfq3JYpHvOi2y2lB) | 2:01 | 2020-06-19 | 2021-09-10 |
 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 | 2019-06-14 |  |
 | [Umlati](https://open.spotify.com/track/5PWV0tcxhQFZjEsN1UBKCf) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Umlati](https://open.spotify.com/album/4JBsCt61aaOkSIykAb0idJ) | 2:12 | 2020-06-19 | 2021-10-29 |
-| [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 | 2021-10-30 |  |
+| [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 | 2021-10-30 | 2022-09-30 |
 | [Up Above](https://open.spotify.com/track/3BqFQOk4Q6v3jyPb9QHMnI) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Up Above](https://open.spotify.com/album/5ZX23RGeCe2Flmss5Or3wG) | 2:34 | 2020-08-30 | 2021-10-29 |
 | [Verano](https://open.spotify.com/track/68eEbyrrYDI1SPbxfz84zw) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Verano](https://open.spotify.com/album/7KpIEV7DObQhVHsvBgI3aX) | 1:50 | 2020-06-19 | 2021-10-29 |
 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 | 2019-07-26 | 2022-05-01 |

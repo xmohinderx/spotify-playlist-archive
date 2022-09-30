@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 246295,
+  "num_followers": 246356,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDZlZmMxMGE5MmZhNWU1NWNiMzFiMmY2YzQ5YTk4Y2Q1",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDkyZmMzNzM1Mzk0ZWZjM2VkOGVlYTU3ZTBkYjM4MTFj",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -475,34 +475,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
       },
       "artists": [
         {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
         }
       ],
-      "duration_ms": 204354,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Every Bad (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Rhythm Is Our Business (Edit)",
-        "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
       },
       "artists": [
         {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Rhythm Is Our Business - Edit",
-      "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
+      "duration_ms": 222840,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -555,6 +539,38 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 204354,
+      "name": "Best Behavior",
+      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
+      },
+      "artists": [
+        {
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+        }
+      ],
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Suntan",
-        "url": "https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 299068,
-      "name": "Suntan",
-      "url": "https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Suntan",
+        "url": "https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "LOGGERHEAD",
         "url": "https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 234293,
       "name": "South",
       "url": "https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
-      },
-      "artists": [
-        {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
-        }
-      ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Tropic",
+        "url": "https://open.spotify.com/album/1YtLqjjhgaxNI6dkUQ2PlU"
+      },
+      "artists": [
+        {
+          "name": "Glows",
+          "url": "https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4"
+        },
+        {
+          "name": "Asha Lorenz",
+          "url": "https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "Tropic",
+      "url": "https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "Ann",
         "url": "https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 170028,
       "name": "Reset My Password",
       "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Who's My Eugene? - Edit",
-        "url": "https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
-        }
-      ],
-      "duration_ms": 248267,
-      "name": "Who's My Eugene? - Edit",
-      "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"
     },
     {
       "added_at": "2022-08-25 20:35:49",

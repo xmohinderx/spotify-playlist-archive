@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Colora",
+        "url": "https://open.spotify.com/album/5uNNfZZDqFxFGdoATsnIQK"
+      },
+      "artists": [
+        {
+          "name": "Ellyaz",
+          "url": "https://open.spotify.com/artist/26l6f5xmFB8UjSd9ngQtuY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117616,
+      "name": "Colora",
+      "url": "https://open.spotify.com/track/6cbqqfG9sIGOkUNFpEdV9I"
+    },
+    {
+      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a"
       },
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 171623,
       "name": "Leaks",
       "url": "https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp"
@@ -3075,7 +3093,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 108666,
       "name": "Sense",
       "url": "https://open.spotify.com/track/52oTmaLv8s70zJft348pjy"

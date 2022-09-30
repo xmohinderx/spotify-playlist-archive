@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Calibre 50 & Emanuel Delgado en portada.",
-  "num_followers": 51271,
+  "num_followers": 51342,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMwNTQzMiwwMDAwMDAwMDg4NDUxOWNjN2RjYjk3YWQ5MTVhN2YzMWVhNTAzZjYw",
+  "snapshot_id": "MTY2NDMwNTQzMiwwMDAwMDAwMGQwZGM2M2E3NDk1M2NjMGI2M2RkNTVmYWY0NGZkNTQx",
   "tracks": [
     {
       "added_at": "2022-09-07 21:15:16",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
     },
     {
-      "added_at": "2021-12-17 06:00:00",
-      "album": {
-        "name": "Miro Lo Que Otros No Miran",
-        "url": "https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 194742,
-      "name": "Ni Mis Padres Saben Que Rollo",
-      "url": "https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor"
-    },
-    {
       "added_at": "2022-07-08 05:00:00",
       "album": {
         "name": "Bien Motivados",
@@ -975,6 +959,22 @@
       "duration_ms": 172338,
       "name": "Bien Motivados",
       "url": "https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k"
+    },
+    {
+      "added_at": "2021-12-17 06:00:00",
+      "album": {
+        "name": "Miro Lo Que Otros No Miran",
+        "url": "https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 194742,
+      "name": "Ni Mis Padres Saben Que Rollo",
+      "url": "https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor"
     },
     {
       "added_at": "2022-09-07 21:15:16",
@@ -1161,20 +1161,24 @@
       "url": "https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX"
     },
     {
-      "added_at": "2022-01-28 06:00:00",
+      "added_at": "2022-09-27 19:03:52",
       "album": {
-        "name": "Aqu\u00ed Seguimos",
-        "url": "https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH"
+        "name": "Se Siente Fuego (El Canelo)",
+        "url": "https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 209647,
-      "name": "Aqu\u00ed Seguimos",
-      "url": "https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY"
+      "duration_ms": 162500,
+      "name": "Se Siente Fuego (El Canelo)",
+      "url": "https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -1217,24 +1221,20 @@
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
     },
     {
-      "added_at": "2022-09-27 19:03:52",
+      "added_at": "2022-01-28 06:00:00",
       "album": {
-        "name": "Se Siente Fuego (El Canelo)",
-        "url": "https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD"
+        "name": "Aqu\u00ed Seguimos",
+        "url": "https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH"
       },
       "artists": [
         {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Se Siente Fuego (El Canelo)",
-      "url": "https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U"
+      "duration_ms": 209647,
+      "name": "Aqu\u00ed Seguimos",
+      "url": "https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY"
     },
     {
       "added_at": "2022-04-01 18:54:28",
@@ -1273,6 +1273,26 @@
       "url": "https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1"
     },
     {
+      "added_at": "2022-09-27 19:03:52",
+      "album": {
+        "name": "2 vidas",
+        "url": "https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4"
+      },
+      "artists": [
+        {
+          "name": "Compa Missa",
+          "url": "https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF"
+        },
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 211018,
+      "name": "2 vidas",
+      "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
+    },
+    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Bienvenido A La Angelina (feat. Fuerza Regida & Herencia De Patrones)",
@@ -1295,26 +1315,6 @@
       "duration_ms": 188507,
       "name": "Bienvenido A La Angelina",
       "url": "https://open.spotify.com/track/3BZO0RoGNhsOTS2SzHjMPY"
-    },
-    {
-      "added_at": "2022-09-27 19:03:52",
-      "album": {
-        "name": "2 vidas",
-        "url": "https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4"
-      },
-      "artists": [
-        {
-          "name": "Compa Missa",
-          "url": "https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF"
-        },
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 211018,
-      "name": "2 vidas",
-      "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
     },
     {
       "added_at": "2022-09-27 19:03:52",

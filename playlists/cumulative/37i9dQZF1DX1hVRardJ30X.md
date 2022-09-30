@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Polimá Westcoast, J Balvin.
 
-2,335 songs - 5 day 3 hr 51 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,336 songs - 5 day 3 hr 56 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2277,6 +2277,7 @@
 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 | 2022-02-25 | 2022-03-05 |
 | [X Aqui X Alla](https://open.spotify.com/track/25QjPY8q5hpt4cn24U0NNE) | [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn), [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [X Aqui X Alla](https://open.spotify.com/album/74Dacz6hNQRv8AgnUp0Lfv) | 3:04 | 2022-08-26 | 2022-09-03 |
 | [X Ley](https://open.spotify.com/track/5ym3peRbw8U3v2SOZ9HtBi) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [X Ley](https://open.spotify.com/album/6Xp1BnOqHLIyXo0VDetv3u) | 3:09 | 2022-07-15 | 2022-07-23 |
+| [X Ley \(feat\. Dei V\) \- Remix](https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [X Ley \(feat\. Dei V\) \[Remix\]](https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt) | 5:01 | 2022-09-23 |  |
 | [X No Te Vas](https://open.spotify.com/track/1xx1vtjGypa68VlbUHPhS2) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [The Bestsoundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [X No Te Vas](https://open.spotify.com/album/3jWSxs79KTXaV8VNlZWAAd) | 3:10 | 2021-12-24 | 2022-01-08 |
 | [X2 \- Remix](https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Audberto Duprey](https://open.spotify.com/artist/0wCa2sOQX3FHl3VWZ2OvrY), [Gabriel Lebrón](https://open.spotify.com/artist/7LYQ6jvphns2lutOx3s8AN), [Carlos Adrian Villaverde](https://open.spotify.com/artist/64rQrDIcO74sFSYyrBs3qg), [Jean Pierre Perez](https://open.spotify.com/artist/6FW1ktGTPTtGKizJtov0Gm), [Carlos Jose Soto Salicrup](https://open.spotify.com/artist/28M4PcTzK2Jswk81p8FG3j) | [X2 \(Remix\)](https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys) | 3:39 | 2022-01-28 | 2022-02-05 |
 | [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 | 2022-08-27 |

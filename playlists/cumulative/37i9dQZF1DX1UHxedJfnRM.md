@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-105 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
+106 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2tB1ux7wGPv1Xl4KlF6iA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Te Dejo Libre](https://open.spotify.com/track/2RFF5DiKhaHPGha0YhUtRb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/5Vq3L6xD3iDFJ9iCrZofxt) | 3:56 | 2022-07-15 | 2022-09-20 |
 | [Te Dejo Libre](https://open.spotify.com/track/4fBugAURiDBsuyDPCUaAL6) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Dejo Libre](https://open.spotify.com/album/3lYizfZAUZhaVDtLUM8tHk) | 3:56 | 2022-05-13 |  |
 | [Te Equivocaste Conmigo](https://open.spotify.com/track/5fIZ0ju08y3plRtjM3SS84) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Te Equivocaste Conmigo](https://open.spotify.com/album/6rirUeOxzeulvnkmTvQAwo) | 4:09 | 2022-05-13 |  |
-| [Te Hubieras Ido Antes](https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/05El2xzVkxnnXhb5OBsSWd) | 5:28 | 2022-05-13 |  |
+| [Te Hubieras Ido Antes](https://open.spotify.com/track/5GOgQXy7zr7eawDcg42BQM) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/2g6mTpjzPug3VtyedEfMVJ) | 5:28 | 2022-08-12 |  |
+| [Te Hubieras Ido Antes](https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Díselo](https://open.spotify.com/album/05El2xzVkxnnXhb5OBsSWd) | 5:28 | 2022-05-13 | 2022-09-30 |
 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 | 2022-05-13 | 2022-07-29 |
 | [Tu Falta de Querer](https://open.spotify.com/track/5EUDROV3ETbVvnafg0OhRf) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/6RhQ9HgfpUi5U0mzeCzosW) | 5:02 | 2022-07-15 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-05-13 | 2022-07-09 |

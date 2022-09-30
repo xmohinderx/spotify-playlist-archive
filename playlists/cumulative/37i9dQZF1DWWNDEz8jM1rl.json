@@ -433,6 +433,24 @@
     {
       "album": {
         "name": "Oxigeno",
+        "url": "https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321554,
+      "name": "Ganarlos a Todos",
+      "url": "https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl"
+    },
+    {
+      "album": {
+        "name": "Oxigeno",
         "url": "https://open.spotify.com/album/27RxGAYGrcBwdp3KBdlZIb"
       },
       "artists": [
@@ -709,7 +727,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 258504,
       "name": "Poniendo el Estilo",
       "url": "https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5"

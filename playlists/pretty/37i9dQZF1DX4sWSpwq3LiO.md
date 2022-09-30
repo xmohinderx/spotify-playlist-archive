@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,634,215 likes - 293 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,635,837 likes - 293 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 15 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 |
 | 16 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 |
 | 17 | [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 |
-| 18 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6rrjDzYFuGQjpUk4hwfRJn) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 2:56 |
+| 18 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 |
 | 19 | [Sommarvals](https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Midsommarnatt](https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH) | 2:56 |
 | 20 | [Alivio](https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Alivio](https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg) | 1:54 |
 | 21 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 |
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 292 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 |
 | 293 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 
-Snapshot ID: `MTY2MzkzOTA3OCwwMDAwMDAwMDM5NDFjOTBmMWJkYzFmMTE1ZTAwZjRmNThlZjViNjkx`
+Snapshot ID: `MTY2MzkzOTA3OCwwMDAwMDAwMDk1YjdkMTBjNTg4OTVmNjM0NGYyMDhiMGZhZjEyMTlm`

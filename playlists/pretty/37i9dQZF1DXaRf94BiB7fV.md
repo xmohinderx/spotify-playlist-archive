@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Anubha Bajaj, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,226 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,252 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aasmaan](https://open.spotify.com/track/3Yy7Vqd4tNA7Ly7DTY8CCB) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H), [Kartavya](https://open.spotify.com/artist/0QGfRzH7VnAvdvjuQFzPqQ) | [Aasmaan](https://open.spotify.com/album/4WCRSVk5sPwmCKL9rjHTE9) | 2:53 |
+| 1 | [Aasmaan](https://open.spotify.com/track/7Jb6OhQmgRULY0YpOctzl7) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H), [Kartavya](https://open.spotify.com/artist/0QGfRzH7VnAvdvjuQFzPqQ) | [Aasmaan](https://open.spotify.com/album/2jif0ZTgluXr8WBirx1jLj) | 2:53 |
 | 2 | [Khoye Sitaare](https://open.spotify.com/track/6NRo2j6SVDo7xx9lVkCIlY) | [Vaibhav Malhotra](https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j) | [Khoye Sitaare](https://open.spotify.com/album/6GuEZfKWiIRRjvc4Duj59c) | 3:12 |
 | 3 | [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 |
 | 4 | [Varsaad \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/2vXx4eNuzlPNVOw470M0ts) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Jaysinh Gadhavi](https://open.spotify.com/artist/2j9NJOUFz8NgVPxtTpi9qb), [Munaf Luhar](https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ) | [Varsaad \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/1q8v1RbyMdVCzk2IcktOVf) | 2:08 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 10 | [Those Colourful Days](https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs) | 3:20 |
 | 11 | [i'll find you](https://open.spotify.com/track/0D6eLIyn9XjSmZjPa4NN34) | [MEHR](https://open.spotify.com/artist/5taDTOB63KA2s63VcVMay8) | [songs i wrote on the bathroom floor](https://open.spotify.com/album/4ptzoNurzgzNWDsfNLooIm) | 4:30 |
 | 12 | [Sabra](https://open.spotify.com/track/1XTmU27elAyFrt6fYk2EwU) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Sabra](https://open.spotify.com/album/3AjZDOTnekRPl8RKb0ZVym) | 6:38 |
-| 13 | [Kahan Main Gum Gaya](https://open.spotify.com/track/70Zyo5t03zLxFSWsAablmm) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kahan Main Gum Gaya](https://open.spotify.com/album/6Sl9KQQFiCHQZu8AJZWmN4) | 3:11 |
+| 13 | [Kahan Main Gum Gaya](https://open.spotify.com/track/70Zyo5t03zLxFSWsAablmm) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Yash Jaiswal](https://open.spotify.com/artist/2IfdSJiWRwrOLHL5vrG8Ih), [Kanchan Khapre](https://open.spotify.com/artist/5R0LsixshmsTJwRbzYHNXI) | [Kahan Main Gum Gaya](https://open.spotify.com/album/6Sl9KQQFiCHQZu8AJZWmN4) | 3:11 |
 | 14 | [Tere Irade](https://open.spotify.com/track/5ejGH18GdRX7rFlH50eufR) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Tere Irade](https://open.spotify.com/album/5lQelyYoBHYfS6UCnL1Sty) | 2:53 |
 | 15 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 |
 | 16 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Ae Adaa](https://open.spotify.com/track/6YXsutXu14CVluUquXYj3U) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Ae Adaa](https://open.spotify.com/album/5ae2hs3YDhHgc5ItCpQb5D) | 2:49 |
 | 50 | [Aana Tera](https://open.spotify.com/track/39ofWJYwWdzqXrs5appd5i) | [Onkar Tarkase](https://open.spotify.com/artist/6KoVBbN23j0ZATfu6OdWQa) | [Aana Tera](https://open.spotify.com/album/0efYbcMf5XqDP1B2WMtXAS) | 3:29 |
 | 51 | [Dastaan](https://open.spotify.com/track/1pVmV0lZ0vLzRLduyRxUqA) | [Shravan Mantri](https://open.spotify.com/artist/5KI5Muz5nOdv5V3DlkBonu) | [Dastaan](https://open.spotify.com/album/33VPepcqo3P788RBzh1bQw) | 3:36 |
-| 52 | [Naarazgi](https://open.spotify.com/track/1WU1BNEc3Sp1kNgylhX32k) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD) | [Naarazgi](https://open.spotify.com/album/056LQ3itrRlGms40A4PO4h) | 4:15 |
+| 52 | [Naarazgi](https://open.spotify.com/track/5C9md2m1njkFbtIB8dvVE6) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Naarazgi](https://open.spotify.com/album/4Mda9xBExiXQlJsMcmeMeO) | 4:15 |
 | 53 | [Kho Gaya](https://open.spotify.com/track/45UASWwlQ56DyphGduRe6z) | [Autoplay](https://open.spotify.com/artist/6HW2zqc3kJF0Ns43hSeVnG) | [Kho Gaya](https://open.spotify.com/album/311zXjW8GBbL1aO8RAuKFL) | 2:50 |
 | 54 | [Kahani](https://open.spotify.com/track/6jUhmPOPZmvWTE8xH6tZeC) | [paperparachute](https://open.spotify.com/artist/0RJj0ZNx7rHo9A4pyLgaaw) | [Kahani](https://open.spotify.com/album/2EKrM0IDFCHPieT3jmgaOn) | 3:26 |
 | 55 | [Breeze](https://open.spotify.com/track/19OmdwvtYXoJ8bj02aPJyF) | [FuzzCulture](https://open.spotify.com/artist/6aKMDtTMBh8HCQE2AMiEGj) | [Breeze](https://open.spotify.com/album/6OFuHI1h0zWjlpnRWT8mNK) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Seventh Heaven](https://open.spotify.com/track/4FTU9sqVDmRe0b1CkrMkp8) | [Diya Maeve](https://open.spotify.com/artist/6xFbHEi1N1bJtQvH4fF3c0) | [Seventh Heaven](https://open.spotify.com/album/2U19ItQdZM5Af14fSiPdCC) | 3:05 |
 | 100 | [Mumkin Nahin](https://open.spotify.com/track/5CyrICnw8h6OdoSXXFJLjD) | [Khanabadosh](https://open.spotify.com/artist/7dnbgJ1rgMrXMxORusmKuz) | [Mumkin Nahin](https://open.spotify.com/album/28i4DE2jz2pvm5v9sIHe7w) | 3:52 |
 
-Snapshot ID: `MTY2NDM0NDcxNiwwMDAwMDAwMDlmOGVjNTQyZmU2NWU2ZWZkMjkyZWFjN2Y1NzcyN2I1`
+Snapshot ID: `MTY2NDM0NDcxNiwwMDAwMDAwMDIyN2E2ZjRkZjYyZTU3NmYzNDQ5NjM2OWFiYmIzYWFl`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-258 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+259 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/album/0XKTTx5dsmKvSphUp8wBVS) | 2:10 | 2021-10-29 | 2022-09-09 |
 | [DRIVE](https://open.spotify.com/track/3v6cqJNWyYT1A2xsaVnO2r) | [Podhajski](https://open.spotify.com/artist/4Uqq0JQaGLSDvsQMVGx1kL) | [DRIVE](https://open.spotify.com/album/5yXEJipjPEb2AOiCrXrMJv) | 4:40 | 2021-10-29 | 2022-07-28 |
 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 | 2022-04-01 | 2022-08-06 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-26 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |
 | [Emergency](https://open.spotify.com/track/6U8x4X0uYBN6lzQWwtyO4l) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Emergency](https://open.spotify.com/album/7kubd8d0Noy577gFKeOXWC) | 2:42 | 2022-01-28 | 2022-03-16 |
 | [End of Slaphouse](https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 3:01 | 2022-07-22 | 2022-09-26 |
 | [End of Slaphouse](https://open.spotify.com/track/0U5Q2jPCuyQLCxb8LYYD90) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [End of Slaphouse](https://open.spotify.com/album/4uyEug3K5JHviGzkgYubu6) | 3:01 | 2021-10-29 | 2022-07-29 |

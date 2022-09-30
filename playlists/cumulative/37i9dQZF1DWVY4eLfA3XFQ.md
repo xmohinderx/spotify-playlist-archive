@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Deeper Purpose
 
-616 songs - 1 day 11 hr 9 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+617 songs - 1 day 11 hr 13 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Drip](https://open.spotify.com/track/4NH9xSGfbs8zchM70KZReS) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Drip](https://open.spotify.com/album/5O3Uj3ADw6P0CGQakooc4N) | 2:49 | 2022-02-25 | 2022-06-04 |
 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 | 2022-08-05 |  |
 | [Drop That Shhh](https://open.spotify.com/track/7dGO8MqquDAivoLLVMD8Fr) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Drop That Shhh EP](https://open.spotify.com/album/0Bzj5NhafAn9EQu2YANa6f) | 3:42 | 2021-11-26 | 2022-01-06 |
-| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-19 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-19 |  |
+| [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-19 | 2022-09-30 |
 | [Duro](https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Duro](https://open.spotify.com/album/3QuVE1YSF1gkqt4yoQ0W5L) | 3:08 | 2021-11-26 | 2022-02-26 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-23 |
 | [Echo In The Dark](https://open.spotify.com/track/1pjJO7KXcaIl3zGloQVi6Q) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Echo In The Dark](https://open.spotify.com/album/46QDC0lHBrJbkMQHvv8hHL) | 3:24 | 2022-08-12 |  |

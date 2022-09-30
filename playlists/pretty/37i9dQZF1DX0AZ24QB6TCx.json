@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 268059,
+  "num_followers": 268197,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NjA3NywwMDAwMDAwMDEzMTQxNjNiY2I3NGVkNGIyMGI0MGMxNzAzYzljZmRi",
+  "snapshot_id": "MTY2MzM0NjA3NywwMDAwMDAwMGE2NzJhMDIzYmE3YzRiZmRiNzAyOTNkYjkyNDIyZDBi",
   "tracks": [
     {
       "added_at": "2022-09-16 16:34:37",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
-        "name": "Just To Hear You Say",
-        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Just To Hear You Say",
-      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
+        "name": "Just To Hear You Say",
+        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
         "name": "Graf Zahl",
         "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
       },
@@ -759,6 +759,42 @@
       "duration_ms": 332869,
       "name": "Graf Zahl",
       "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
+        "name": "Eolian",
+        "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
+      },
+      "artists": [
+        {
+          "name": "Xande (IT)",
+          "url": "https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8"
+        },
+        {
+          "name": "Latteo",
+          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+        }
+      ],
+      "duration_ms": 381965,
+      "name": "Eolian",
+      "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -787,38 +823,18 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
-        "name": "Eolian",
-        "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
       },
       "artists": [
         {
-          "name": "Xande (IT)",
-          "url": "https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8"
-        },
-        {
-          "name": "Latteo",
-          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 381965,
-      "name": "Eolian",
-      "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -839,22 +855,6 @@
       "duration_ms": 362411,
       "name": "Kidz of Tibet",
       "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
         "name": "on air (versions)",
         "url": "https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 556385,
       "name": "on air (4am version)",
       "url": "https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
-        "name": "The K\u00e1rm\u00e1n Line",
-        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 203657,
-      "name": "The K\u00e1rm\u00e1n Line",
-      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
-    },
-    {
-      "added_at": "2022-09-16 16:34:37",
-      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 448000,
       "name": "Madman",
       "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2022-09-16 16:34:37",
+      "album": {
+        "name": "The K\u00e1rm\u00e1n Line",
+        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 203657,
+      "name": "The K\u00e1rm\u00e1n Line",
+      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
     },
     {
       "added_at": "2022-09-16 16:34:37",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-09-16 16:34:37",
       "album": {
-        "name": "Silence & Secrets",
-        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+        "name": "Neunivai",
+        "url": "https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
-      "duration_ms": 268434,
-      "name": "Silence & Secrets",
-      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+      "duration_ms": 438533,
+      "name": "Neunivai - Original Mix",
+      "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
     }
   ],
   "unique_name": "Afterhours",

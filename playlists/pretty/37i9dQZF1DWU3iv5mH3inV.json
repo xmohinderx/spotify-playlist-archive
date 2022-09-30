@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 65329,
+  "num_followers": 65404,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDUyN2MwNzEwNzA3YzNkOWQ3MDQzMzI1ZDc2MjMwNzlk",
+  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDlhMWViZWM5YTVmNDI1MzY0ZTQ1MGIyMjk4MTNmNmE0",
   "tracks": [
     {
       "added_at": "2022-09-23 18:10:23",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Te De Campana",
-        "url": "https://open.spotify.com/album/1VuZN1FUV6BPJp9Yq6MVjR"
-      },
-      "artists": [
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 195526,
-      "name": "Te De Campana",
-      "url": "https://open.spotify.com/track/1mISgMoXw5fKI3ESj03tPd"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 154434,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Te De Campana",
+        "url": "https://open.spotify.com/album/1VuZN1FUV6BPJp9Yq6MVjR"
+      },
+      "artists": [
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 195526,
+      "name": "Te De Campana",
+      "url": "https://open.spotify.com/track/1mISgMoXw5fKI3ESj03tPd"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Ponme to Eso Pa Lante",
-        "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
+        "name": "Sin \"S\"",
+        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
       },
       "artists": [
         {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
         }
       ],
-      "duration_ms": 167786,
-      "name": "Ponme to Eso Pa Lante",
-      "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
+      "duration_ms": 187440,
+      "name": "Telacuti",
+      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1287,6 +1287,70 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "Los Lunatikos-Siente el ki",
+        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
+      },
+      "artists": [
+        {
+          "name": "leo martinez 12djs",
+          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
+        }
+      ],
+      "duration_ms": 204199,
+      "name": "Los Lunatikos-Siente el ki",
+      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Ponme to Eso Pa Lante",
+        "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
+      },
+      "artists": [
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Ponme to Eso Pa Lante",
+      "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Klok Con Klok",
+        "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Klok Con Klok",
+      "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "melacomo",
         "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
       },
@@ -1311,54 +1375,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Klok Con Klok",
-        "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Klok Con Klok",
-      "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Los Lunatikos-Siente el ki",
-        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
-      },
-      "artists": [
-        {
-          "name": "leo martinez 12djs",
-          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
-        }
-      ],
-      "duration_ms": 204199,
-      "name": "Los Lunatikos-Siente el ki",
-      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Calle",
         "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 152049,
       "name": "Calle",
       "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Sin \"S\"",
-        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Telacuti",
-      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
     },
     {
       "added_at": "2022-09-23 18:10:23",

@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-112 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+114 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cinder Bay](https://open.spotify.com/track/25XCseTFdKLuaCG01dT3Kj) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Cinder Bay](https://open.spotify.com/album/5Q1KqAvLtRcSIFrxUdYZtQ) | 4:44 | 2022-09-08 |  |
 | [Cluster](https://open.spotify.com/track/7naNiyiQ7699ks3dI6JTT0) | [PAARD.](https://open.spotify.com/artist/2aNp8JJGI4KGoKl6jJvzYe) | [danki](https://open.spotify.com/album/1VtBBySbyQCS8ypgo1nLSu) | 4:10 | 2022-09-08 |  |
 | [Cosmic Masadāni](https://open.spotify.com/track/2DluvgMtwnSbBubxLYCZ87) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Samā'ī](https://open.spotify.com/album/4eCzs66aUrEzb3P8vqgYfm) | 4:12 | 2022-09-08 |  |
-| [Coyote](https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Coyote](https://open.spotify.com/album/5AfBjTPLFSaZkWKwFd7O02) | 3:46 | 2022-09-08 |  |
+| [Coyote](https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Coyote](https://open.spotify.com/album/5AfBjTPLFSaZkWKwFd7O02) | 3:46 | 2022-09-08 | 2022-09-30 |
 | [Cumulus](https://open.spotify.com/track/0pDMECDdo0SkE81fqc4k54) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Cumulus](https://open.spotify.com/album/30IhEm1ph91v5nezDuIU2u) | 4:46 | 2022-09-08 | 2022-09-25 |
 | [Cumulus](https://open.spotify.com/track/5uFYKPsV8x6D2swS6IXcWC) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 4:46 | 2022-09-15 |  |
 | [Dance Around Bullets](https://open.spotify.com/track/0GcI5TyFE4U1ChPIvKmWnH) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Dance Around Bullets](https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy) | 5:21 | 2022-09-08 |  |
@@ -63,7 +63,7 @@
 | [Kervan](https://open.spotify.com/track/4Fwoj8XDiS2itAJ8DMzVLC) | [Kleptomatics](https://open.spotify.com/artist/36tb2IwdA6xFmYVxkL2uXT) | [Kleptomatics](https://open.spotify.com/album/3MRcsCRxIkSGGTflgA6wXQ) | 6:58 | 2022-09-08 |  |
 | [Kintsugi](https://open.spotify.com/track/1LIpW35PEVnvCq6db7VvTm) | [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs), [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Kintsugi](https://open.spotify.com/album/3ItN6LrC8S7vbGwZ8iHAau) | 3:58 | 2022-09-08 |  |
 | [Kop Zonder Kip](https://open.spotify.com/track/1CGOSxHaSHN8cG2efDJFpN) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Kop Zonder Kip](https://open.spotify.com/album/7xgU4XsM3C3ZAjcFHXJdX8) | 4:46 | 2022-09-08 |  |
-| [Kromme Kurk](https://open.spotify.com/track/3x3UxCpTt0ocOhEuOkhQPi) | [Karivaani Orkestra](https://open.spotify.com/artist/5wUrnWnYbXJQcTW5gvJwnL) | [Kromme Kurk](https://open.spotify.com/album/1hwJiws2NIMn20GBmzvPaO) | 3:58 | 2022-09-08 |  |
+| [Kromme Kurk](https://open.spotify.com/track/3x3UxCpTt0ocOhEuOkhQPi) | [Karivaani Orkestra](https://open.spotify.com/artist/5wUrnWnYbXJQcTW5gvJwnL) | [Kromme Kurk](https://open.spotify.com/album/1hwJiws2NIMn20GBmzvPaO) | 3:58 | 2022-09-08 | 2022-09-30 |
 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 | 2022-09-15 |  |
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
@@ -82,10 +82,12 @@
 | [New Dawn \(feat\. Nadeem Din\-Gabisi\)](https://open.spotify.com/track/2BXG9iC0SKTOTuHvmT9W5y) | [ESINAM](https://open.spotify.com/artist/2cy0RMC2TKpQnxVzXVl5kK), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [New Dawn](https://open.spotify.com/album/1A7QDHXLRmk4juhuhzUbQB) | 5:11 | 2022-09-08 |  |
 | [Nimbus part I](https://open.spotify.com/track/6Ah9aMPtABZk8eS5ejw9Hk) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reykjavik](https://open.spotify.com/album/5SzEQZ2YqU2mRe8iWKeVr6) | 4:57 | 2022-09-08 |  |
 | [Nineteen Seventy Fourths](https://open.spotify.com/track/4oh6KyvTpJu2CFlucJ15xg) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:15 | 2022-09-08 |  |
+| [Odyssey](https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 9:42 | 2022-09-29 |  |
 | [Ohmu](https://open.spotify.com/track/5A4g7ONaRS0xnNPvgegTFe) | [Namid & Sondervan](https://open.spotify.com/artist/4ybfcgNWhmTKHuY9ZU2aVm) | [Ohmu](https://open.spotify.com/album/00yLKbqXdvWkmdw7fRPlVd) | 4:01 | 2022-09-08 |  |
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2022-09-08 |  |
 | [Opening 1.1.1](https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy) | [Aka Moon](https://open.spotify.com/artist/4t60EdEbfPZnelA5Qtxulk) | [Opus 111](https://open.spotify.com/album/0sTzPzqVcV9bDtST1BTcRq) | 4:24 | 2022-09-08 |  |
 | [Orlando](https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [Maxime Sanchez](https://open.spotify.com/artist/68FIFAeVw14qZKFwYoVZVz), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [Orlando](https://open.spotify.com/album/08JLLkOjNuMwgbRGFfMK4V) | 6:41 | 2022-09-08 |  |
+| [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 | 2022-09-29 |  |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 |  |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 |  |
 | [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 | 2022-09-08 | 2022-09-16 |

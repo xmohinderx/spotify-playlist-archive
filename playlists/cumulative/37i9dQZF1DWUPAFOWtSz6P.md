@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-72 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
+73 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 | 2020-05-12 |  |
 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 | 2020-05-12 |  |
 | [Novels of Acquaintance](https://open.spotify.com/track/0yezdb6YOwO5YnwOQAKHPi) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/31Zi0Y9LF7yN08gNWgLHrs) | 6:28 | 2020-05-12 | 2022-07-29 |
-| [Novels of Acquaintance](https://open.spotify.com/track/31zB32YtZbIgG6CzpjnE4p) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/5xf7yQ1n6sgMZMYT9Ylw7C) | 6:28 | 2020-05-12 |  |
+| [Novels of Acquaintance](https://open.spotify.com/track/31zB32YtZbIgG6CzpjnE4p) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/5xf7yQ1n6sgMZMYT9Ylw7C) | 6:28 | 2020-05-12 | 2022-09-30 |
+| [Novels of Acquaintance](https://open.spotify.com/track/6JCQzKq9I3xnKikQqxVVvP) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/6GceR7waO0fdFRVMlT6VY0) | 6:28 | 2020-05-12 |  |
 | [Old Friend](https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 2:28 | 2020-05-12 |  |
 | [People Change](https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4) | 3:32 | 2020-05-12 | 2022-07-29 |
 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 | 2020-05-12 |  |

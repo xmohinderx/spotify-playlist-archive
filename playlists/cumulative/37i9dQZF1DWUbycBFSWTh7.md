@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-108 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+109 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Lose Yourself](https://open.spotify.com/track/0MSuNP3R7SziYnf8Ve4Hdl) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Lose Yourself](https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN) | 3:10 | 2022-09-15 |  |
 | [Machali \- Original Mix](https://open.spotify.com/track/6V3OSf0lvxS7eTOt0gNGol) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx) | [Machali](https://open.spotify.com/album/04g6jEQ8uBbyizG5nSRtUj) | 6:32 | 2022-09-15 |  |
 | [Madrugada](https://open.spotify.com/track/4W2WXTweKPaCJeCWPtqdSC) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Madrugada](https://open.spotify.com/album/38m9bA5WBKgS0XPEXGnyd9) | 6:54 | 2022-09-15 |  |
+| [Mayolo](https://open.spotify.com/track/6phAArzDBUtL4vek1VY7l0) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE) | [Mayolo](https://open.spotify.com/album/33o2Ag598tg75EEbPToi8n) | 4:47 | 2022-09-29 |  |
 | [Mine Today](https://open.spotify.com/track/2kGKIrF61uP16n3GZIxjhg) | [Ant Klent](https://open.spotify.com/artist/0hCde7rh0vBLfMlsehLSGr) | [Mine Today EP](https://open.spotify.com/album/5bY9SLu6llEvhHPCVubMVx) | 6:03 | 2022-09-15 |  |
 | [Missing Chant](https://open.spotify.com/track/4nFjj8udiowsNZdJLt4sy2) | [Wendel Sield](https://open.spotify.com/artist/0wAIGy1x2050z4sUa0nKTe) | [Entity](https://open.spotify.com/album/6uatIrCbBoT6zYBOqJ3HpO) | 7:21 | 2022-09-15 |  |
 | [Monogold](https://open.spotify.com/track/1r64PqxyfuvK3mMW7MYXJ6) | [Stef Rijs](https://open.spotify.com/artist/2ooCA6wOdps3usNlxjFF7E), [Daan Kemp](https://open.spotify.com/artist/6qNGwJaNbeW13ejjKHgNnE) | [Monogold](https://open.spotify.com/album/5Agvj5pxJs37AeaSMPGmmx) | 8:14 | 2022-09-15 |  |

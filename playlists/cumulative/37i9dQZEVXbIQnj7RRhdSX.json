@@ -308,6 +308,24 @@
     },
     {
       "album": {
+        "name": "3 Stick Freestyle",
+        "url": "https://open.spotify.com/album/5gCB3ZfqoJitNde8rQo7L2"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "3 Stick Freestyle",
+      "url": "https://open.spotify.com/track/6YX9c3sbZbGFHylgZq5djZ"
+    },
+    {
+      "album": {
         "name": "Il giorno in cui ho smesso di pensare",
         "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
       },
@@ -4705,12 +4723,12 @@
           "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         },
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
           "name": "bnkr44",
           "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
       "date_added": "2022-09-17",
@@ -5103,7 +5121,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 197545,
       "name": "Doppio Hublot (con Gu\u00e8 & Baby Gang)",
       "url": "https://open.spotify.com/track/4RAyEuL0aFppcqQpQ6JQjo"
@@ -5945,7 +5963,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 177504,
       "name": "Fake (con Geolier & Luch\u00e8)",
       "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
@@ -14085,7 +14103,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"

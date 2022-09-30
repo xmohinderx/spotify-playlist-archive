@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-158 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+159 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Caravan](https://open.spotify.com/track/3VIXUEBg2YkGwBMpTPMBXa) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Plays Duke Ellington \(Keepnews Collection\)](https://open.spotify.com/album/2WpT885yJAIWvglqFcmN8u) | 5:56 | 2022-05-13 |  |
 | [Charcoal Blues \- Remastered 2004](https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX), [Reginald Workman](https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 6:54 | 2022-04-08 |  |
 | [Charlie Brown Theme](https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 4:19 | 2022-04-13 |  |
-| [Come, Gone](https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(Deluxe Edition\)](https://open.spotify.com/album/1GKRmu9YUhPejRExGANgyS) | 7:53 | 2022-02-23 |  |
+| [Come, Gone](https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(Deluxe Edition\)](https://open.spotify.com/album/1GKRmu9YUhPejRExGANgyS) | 7:53 | 2022-02-23 | 2022-09-30 |
 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 | 2022-02-23 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2022-02-23 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:21 | 2022-02-23 |  |
@@ -67,6 +67,7 @@
 | [I Thought About You](https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Paper Moon](https://open.spotify.com/album/1zjtMS9M1eGoY7KyMW71qf) | 5:18 | 2022-02-23 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 | 2022-02-23 |  |
 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 | 2022-02-23 |  |
+| [I've Grown Accustomed To Your Face](https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Rollins Plays For Bird](https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW) | 4:52 | 2022-09-22 |  |
 | [If I Were A Bell](https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bond: The Paris Sessions](https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2) | 7:46 | 2022-02-23 |  |
 | [If I Were A Bell](https://open.spotify.com/track/5lGq5kSDArh2UVqXAbHVng) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 6:38 | 2022-09-15 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-02-23 |  |

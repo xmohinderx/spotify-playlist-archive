@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-134 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+136 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [cozy winter](https://open.spotify.com/track/27DbLUyeQa4I2vMdZhQQ73) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 2:30 | 2021-12-20 |  |
 | [December](https://open.spotify.com/track/0JzcRVJEZIgbxSKhQxxUXd) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Lofi Christmas](https://open.spotify.com/album/5uC1btcQmcIyTZaAfoPlnZ) | 2:08 | 2021-12-20 |  |
 | [December](https://open.spotify.com/track/17xn1pufA0IlyxxdDZ6cSu) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [December](https://open.spotify.com/album/5VfRCAnMEbgyvxWc3RuDnI) | 3:00 | 2021-12-20 |  |
+| [Deck the Halls \- Lo\-Fi](https://open.spotify.com/track/03cWzdHw0bWbHEv8wYgAzg) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [A Merry Lo\-Fi Christmas](https://open.spotify.com/album/2EHasP4Jvp7sbqgAN2wcF0) | 2:40 | 2022-09-30 |  |
 | [Deck the Lofi Halls](https://open.spotify.com/track/1X5Y2ONMvGzfkhHEyeJ4ZU) | [Chillchief](https://open.spotify.com/artist/6rzaAMP3jPVJjfuRUdlpIw) | [A Short Album With Christmas Songs but Lofi](https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8) | 3:03 | 2021-12-20 |  |
 | [Do You Believe in Santa Claus?](https://open.spotify.com/track/5P6mq1N9lbSdfbTdUAGpS2) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Do You Believe in Santa Claus?](https://open.spotify.com/album/4JvFuRb3CLnrH9u4965AAt) | 2:40 | 2021-12-20 |  |
 | [Do You Believe in Santa Claus?](https://open.spotify.com/track/6NxWqseRGbVEIQR4JuzkqU) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Do You Believe in Santa Claus?](https://open.spotify.com/album/2hOAqWhlbFhDtUd9Bkgxm9) | 2:40 | 2021-12-20 | 2022-07-29 |
@@ -89,6 +90,7 @@
 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 | 2021-12-20 |  |
 | [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 | 2021-12-20 |  |
 | [My Christmas in Brooklyn](https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [My Christmas in Brooklyn](https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j) | 1:41 | 2021-12-20 |  |
+| [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 | 2022-09-30 |  |
 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 | 2021-12-20 |  |
 | [O Christmas Tree](https://open.spotify.com/track/1TKfooyCj8TSugn6UmikDC) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [The ultimate Lofi XMas Compilation \- Merry Christmas!](https://open.spotify.com/album/4v4sLWaTRtu2TP7Nc3KEgl) | 1:03 | 2021-12-20 | 2022-07-29 |
 | [O Christmas Tree](https://open.spotify.com/track/2shWMlZ2LkE92EyP9ZIazd) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Winter LoFi and ChillHop Beats Vol\. 1 \(Merry Xmas!\)](https://open.spotify.com/album/2hz2yJRGdcVkssSRV3o7cP) | 1:03 | 2021-12-20 |  |

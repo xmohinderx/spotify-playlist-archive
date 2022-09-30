@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Tania Dominguez en portada.",
-  "num_followers": 44165,
+  "num_followers": 44198,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MTY4OSwwMDAwMDAwMGU2MTFjM2E2M2MwYWNhNTE5MzNiYjJiYTRhMjFlZTE4",
+  "snapshot_id": "MTY2Mzk2MTY4OSwwMDAwMDAwMGJjMDYzZjVlN2JiYzdhNjU4NzlhZWRmMzU3Y2I2OTY5",
   "tracks": [
     {
       "added_at": "2022-09-23 19:34:49",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Veneno Verde",
-        "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Veneno Verde",
-      "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Yo Soy el Bueno",
         "url": "https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 176213,
       "name": "Yo Soy el Bueno",
       "url": "https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Veneno Verde",
+        "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Veneno Verde",
+      "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Reina De Mi Amor",
-        "url": "https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 138111,
-      "name": "Reina De Mi Amor",
-      "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Se Chambiar",
         "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 157542,
       "name": "Se Chambiar",
       "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Reina De Mi Amor",
+        "url": "https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 138111,
+      "name": "Reina De Mi Amor",
+      "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
     },
     {
       "added_at": "2022-09-23 19:34:49",

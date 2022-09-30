@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Simon Dominic, Loco, Woo, Coogie\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 사이먼 도미닉, 로꼬, 우원재, 쿠기\)
+> The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: BE'O\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 비오\)
 
-613 songs - 1 day 10 hr 12 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+615 songs - 1 day 10 hr 18 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Come and kiss me](https://open.spotify.com/track/6IhyhjqBFuzj7TZePscB5d) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 2:53 | 2022-01-04 | 2022-06-01 |
 | [Come Upright \(Prod\. Viann\)](https://open.spotify.com/track/6yRe9dHqGcqlSnZhKY26aD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Come Upright with KozyPop](https://open.spotify.com/album/3EpLVXIxDeU3YpSVppP3B2) | 2:46 | 2022-05-04 | 2022-07-07 |
 | [Compensation \(Feat\. Gaeko\) \(Prod\. Slom\)](https://open.spotify.com/track/5Ga9WgaP3I6PUV0ZLmU0jz) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Compensation](https://open.spotify.com/album/7CacFVc7MYsirIRA0P9Uz0) | 3:44 | 2022-07-04 | 2022-08-16 |
+| [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 | 2022-09-29 |  |
 | [COST \(Feat\. Kid Milli\)](https://open.spotify.com/track/7MY7WMUGJ3A7yJ1MxSEwpX) | [Panda Gomm](https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [COST](https://open.spotify.com/album/26yG40m8vlyAjMXHUuDIUZ) | 2:26 | 2021-12-29 | 2022-06-16 |
 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 | 2021-12-18 | 2022-07-08 |
 | [d sign](https://open.spotify.com/track/40r2nTBaQ6nXp54mz26gvR) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [drugonline gate](https://open.spotify.com/album/3CymvXzT7vcDl9r69lTwcC) | 3:08 | 2021-12-29 | 2022-06-14 |
@@ -502,6 +503,7 @@
 | [So silly \(Feat\. YUJU\)](https://open.spotify.com/track/4SHdsjl8A0wg7xgosRqU2s) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [So silly \(Feat\. YUJU\)](https://open.spotify.com/album/1CwPs3IcIi9Bzzl8xb91FJ) | 3:17 | 2021-12-21 | 2022-07-08 |
 | [So What \(Feat\. Beenzino\)](https://open.spotify.com/track/3q738cBTApcG0vo5G1OTZC) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [THE KING OF K\-POP](https://open.spotify.com/album/4yCUbb8PaIQnSe1afVTgGr) | 4:05 | 2022-05-28 | 2022-09-23 |
 | [Soorak San Remix \(feat.ZENE THE ZILLA, Rakon\)](https://open.spotify.com/track/23Dhz7EJ1ALo3nWakmLiMu) | [Lil Poet](https://open.spotify.com/artist/7qpuzcCwGOgZ2PZdJEwTvM), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [Soorak San Remix](https://open.spotify.com/album/7gjDdQF0S5n4o9CIvUqSJa) | 2:57 | 2022-03-29 | 2022-04-21 |
+| [SPACE MUSHIP](https://open.spotify.com/track/70MHMeSR2HITC36DNWYUxj) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f) | [SPACE MUSHIP](https://open.spotify.com/album/7rfeDJWtdSMg5IrhuOHPlZ) | 2:48 | 2022-09-29 |  |
 | [Spacetime](https://open.spotify.com/track/4QogPJfnO1pZWwJ0cbwFJE) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Spacetime & So What](https://open.spotify.com/album/7vyDXiK6jN41QVSKWTrroQ) | 3:16 | 2021-12-18 | 2022-07-05 |
 | [Spend over](https://open.spotify.com/track/1nv7wC6Jx8hLslcBob8Py8) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:02 | 2022-04-14 | 2022-04-27 |
 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 | 2021-12-21 | 2022-04-09 |
